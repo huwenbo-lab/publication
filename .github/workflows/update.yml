@@ -33,7 +33,6 @@ jobs:
         run: |
           python build_lit_db.py
           python build_article_api.py
-          python build_search_db.py
           python check_quality.py
 
       - name: Commit changes
