@@ -26,6 +26,7 @@
     <section class="utility-bar panel" aria-label="本地工具">
         <div class="utility-copy">本地工具：收藏候选文章、导出 BibTeX / CSV，并在浅色与深色主题之间切换。</div>
         <div class="utility-actions">
+            <button id="dashboard-toggle" class="ghost-btn utility-btn" type="button" aria-expanded="false" aria-controls="dashboard-panel">数据库概况</button>
             <button id="theme-toggle" class="ghost-btn utility-btn" type="button" aria-pressed="false">主题：浅色</button>
             <button id="favorites-toggle" class="ghost-btn utility-btn" type="button">我的收藏（0）</button>
         </div>
@@ -41,13 +42,21 @@
         <div id="discipline-grid" class="discipline-grid"></div>
     </section>
 
-    <section class="dashboard panel" aria-label="数据库概况">
+    <nav id="tabbar" class="tabbar panel" aria-label="视图切换">
+        <button class="tab-btn active" type="button" data-mode="search">搜索</button>
+        <button class="tab-btn" type="button" data-mode="browse">浏览</button>
+    </nav>
+
+    <section id="dashboard-panel" class="dashboard panel" aria-label="数据库概况" hidden>
         <div class="browse-header">
             <div>
                 <h2>数据库概况</h2>
-                <div class="helper-text">首页先给你一个全局轮廓：发文趋势、热门关键词、高产作者和期刊分布。</div>
+                <div class="helper-text">这是辅助面板。需要看整体轮廓时再展开，不打断首屏检索流程。</div>
             </div>
-            <div id="dashboard-generated-at" class="helper-text">正在加载概况…</div>
+            <div class="dashboard-actions">
+                <div id="dashboard-generated-at" class="helper-text">正在加载概况…</div>
+                <button id="dashboard-close" class="tiny-btn" type="button">收起</button>
+            </div>
         </div>
         <div id="dashboard-summary" class="dashboard-summary"></div>
         <div class="dashboard-grid">
@@ -81,11 +90,6 @@
             </section>
         </div>
     </section>
-
-    <nav id="tabbar" class="tabbar panel" aria-label="视图切换">
-        <button class="tab-btn active" type="button" data-mode="search">搜索</button>
-        <button class="tab-btn" type="button" data-mode="browse">浏览</button>
-    </nav>
 
     <section id="view-search" class="view active">
         <div class="search-layout">
@@ -129,6 +133,8 @@
                         <button id="clear-query" type="button" class="ghost-btn">清空关键词</button>
                     </div>
                 </form>
+
+                <div id="quick-searches" class="quick-searches" aria-label="常用搜索"></div>
 
                 <div id="search-notice"></div>
                 <div id="active-filters" class="active-filters" aria-live="polite"></div>
