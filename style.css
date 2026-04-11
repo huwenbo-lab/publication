@@ -218,6 +218,12 @@ code {
     color: var(--teal);
 }
 
+.utility-btn.is-active {
+    border-color: rgba(180, 83, 9, 0.28);
+    background: var(--accent-soft);
+    color: var(--accent-strong);
+}
+
 .discipline-strip {
     margin-bottom: 18px;
     padding: 20px;
@@ -289,10 +295,20 @@ code {
     padding: 20px;
 }
 
+.dashboard[hidden] {
+    display: none;
+}
+
 .dashboard h2 {
     margin: 0 0 8px;
     color: var(--ink-strong);
     font-size: 1.05rem;
+}
+
+.dashboard-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
 .dashboard-summary {
@@ -602,6 +618,37 @@ code {
     color: var(--ink-soft);
     font-size: 0.9rem;
     line-height: 1.6;
+}
+
+.quick-searches {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 14px;
+}
+
+.quick-search-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 9px 12px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--surface-strong);
+    color: var(--ink-soft);
+    cursor: pointer;
+    transition: transform 0.18s ease, border-color 0.18s ease, color 0.18s ease;
+}
+
+.quick-search-chip:hover {
+    transform: translateY(-1px);
+    border-color: rgba(15, 118, 110, 0.24);
+    color: var(--ink-strong);
+}
+
+.quick-search-chip strong {
+    color: var(--ink-strong);
+    font-weight: 600;
 }
 
 .toolbar {

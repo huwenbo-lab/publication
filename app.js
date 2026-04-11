@@ -75,6 +75,14 @@ const DISCIPLINE_COPY = {
     "劳动与分层": "适合查职业流动、阶层再生产、劳动力市场与雇佣关系。",
 };
 
+const QUICK_SEARCH_PRESETS = [
+    { label: "社会流动", query: '"social mobility"' },
+    { label: "生育", query: "fertility" },
+    { label: "教育不平等", query: '"education inequality"' },
+    { label: "婚姻家庭", query: "marriage family" },
+    { label: "中国研究", query: "China stratification" },
+];
+
 const app = {
     db: null,
     facets: null,
@@ -102,6 +110,7 @@ const app = {
         activeArticleDoi: "",
         favoritesOpen: false,
         activeResultKey: "",
+        dashboardOpen: false,
     },
 };
 
@@ -615,7 +624,10 @@ function cacheDom() {
     dom.engineMessage = $("engine-message");
     dom.themeToggle = $("theme-toggle");
     dom.favoritesToggle = $("favorites-toggle");
+    dom.dashboardToggle = $("dashboard-toggle");
     dom.disciplineGrid = $("discipline-grid");
+    dom.dashboardPanel = $("dashboard-panel");
+    dom.dashboardClose = $("dashboard-close");
     dom.dashboardGeneratedAt = $("dashboard-generated-at");
     dom.dashboardSummary = $("dashboard-summary");
     dom.dashboardTrendMeta = $("dashboard-trend-meta");
@@ -628,6 +640,7 @@ function cacheDom() {
     dom.browseView = $("view-browse");
     dom.searchForm = $("search-form");
     dom.searchInput = $("search-input");
+    dom.quickSearches = $("quick-searches");
     dom.sortSelect = $("sort-select");
     dom.yearFrom = $("year-from");
     dom.yearTo = $("year-to");
@@ -713,6 +726,18 @@ function renderDisciplinePresets() {
             </button>
         `;
     }).join("");
+}
+
+function renderQuickSearches() {
+    if (!dom.quickSearches) {
+        return;
+    }
+    dom.quickSearches.innerHTML = QUICK_SEARCH_PRESETS.map((item) => `
+        <button type="button" class="quick-search-chip" data-quick-query="${escapeHtml(item.query)}">
+            <strong>${escapeHtml(item.label)}</strong>
+            <span>${escapeHtml(item.query)}</span>
+        </button>
+    `).join("");
 }
 
 function clearActiveNavigationSelection() {
@@ -1220,6 +1245,16 @@ function renderFavoritesLauncher() {
     dom.favoritesToggle.textContent = `我的收藏（${formatNumber(app.favorites.size)}）`;
     dom.favoritesToggle.classList.toggle("has-items", app.favorites.size > 0);
     dom.favoritesToggle.setAttribute("aria-expanded", app.state.favoritesOpen ? "true" : "false");
+}
+
+function renderDashboardVisibility() {
+    if (!dom.dashboardPanel || !dom.dashboardToggle) {
+        return;
+    }
+    dom.dashboardPanel.hidden = !app.state.dashboardOpen;
+    dom.dashboardToggle.textContent = app.state.dashboardOpen ? "收起概况" : "数据库概况";
+    dom.dashboardToggle.setAttribute("aria-expanded", app.state.dashboardOpen ? "true" : "false");
+    dom.dashboardToggle.classList.toggle("is-active", app.state.dashboardOpen);
 }
 
 function renderFavoritesModal() {
@@ -2024,6 +2059,8 @@ async function renderAll() {
     renderEngineStatus();
     renderDatasetMeta();
     renderDisciplinePresets();
+    renderQuickSearches();
+    renderDashboardVisibility();
     renderDashboard();
     if (app.state.mode === "search") {
         await renderSearchView();
@@ -2035,6 +2072,8 @@ async function renderAll() {
     renderEngineStatus();
     renderDatasetMeta();
     renderDisciplinePresets();
+    renderQuickSearches();
+    renderDashboardVisibility();
     renderDashboard();
     syncUrl();
 }
@@ -2062,6 +2101,19 @@ function bindEvents() {
         const nextTheme = app.theme === "dark" ? "light" : "dark";
         writeStorage(THEME_STORAGE_KEY, nextTheme);
         applyTheme(nextTheme);
+    });
+
+    dom.dashboardToggle.addEventListener("click", async () => {
+        app.state.dashboardOpen = !app.state.dashboardOpen;
+        await renderAll();
+        if (app.state.dashboardOpen) {
+            dom.dashboardPanel.scrollIntoView({ block: "start", behavior: "smooth" });
+        }
+    });
+
+    dom.dashboardClose.addEventListener("click", async () => {
+        app.state.dashboardOpen = false;
+        await renderAll();
     });
 
     dom.favoritesToggle.addEventListener("click", async () => {
@@ -2119,6 +2171,21 @@ function bindEvents() {
             clearActiveNavigationSelection();
             await renderAll();
         }, 240);
+    });
+
+    dom.quickSearches.addEventListener("click", async (event) => {
+        const button = event.target.closest("[data-quick-query]");
+        if (!button) {
+            return;
+        }
+        app.state.mode = "search";
+        app.state.q = button.dataset.quickQuery || "";
+        dom.searchInput.value = app.state.q;
+        app.state.page = 1;
+        clearActiveNavigationSelection();
+        await renderAll();
+        dom.searchInput.focus();
+        dom.searchInput.setSelectionRange(dom.searchInput.value.length, dom.searchInput.value.length);
     });
 
     dom.sortSelect.addEventListener("change", async () => {
