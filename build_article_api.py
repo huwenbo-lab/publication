@@ -20,7 +20,7 @@ import argparse
 import json
 import re
 import shutil
-from collections import defaultdict
+from collections import Counter, defaultdict
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import quote
@@ -32,6 +32,16 @@ ARTICLES_JSON = ROOT / "articles.json"
 
 SITE_BASE = "https://huwenbo-lab.github.io/publication"
 RAW_BASE = "https://raw.githubusercontent.com/huwenbo-lab/publication/main"
+STOPWORDS = {
+    "about", "after", "against", "among", "amongst", "analysis", "and", "are", "article",
+    "articles", "between",
+    "beyond", "but", "can", "change", "changes", "children", "class", "evidence", "for",
+    "from", "into", "its", "more", "new", "not", "over", "paper", "perspective",
+    "perspectives", "research", "review", "role", "social", "society", "study", "studies",
+    "their", "the", "these", "this", "those", "through", "toward", "towards", "under",
+    "using", "when", "where", "which", "with", "within", "without", "book", "books",
+    "editorial", "introduction",
+}
 
 
 def clean_text(text):
@@ -116,6 +126,38 @@ def load_articles():
     return json.loads(ARTICLES_JSON.read_text(encoding="utf-8"))
 
 
+def summarize_articles(articles):
+    years = [article.get("year") for article in articles if article.get("year")]
+    journals = [clean_text(article.get("journal")) for article in articles if clean_text(article.get("journal"))]
+    with_abstract = sum(1 for article in articles if clean_text(article.get("abstract")))
+    doi_records = sum(1 for article in articles if normalize_doi(article.get("doi")))
+    unique_doi_count = len({
+        normalize_doi(article.get("doi"))
+        for article in articles
+        if normalize_doi(article.get("doi"))
+    })
+    total = len(articles)
+    return {
+        "total_articles": total,
+        "total_journals": len(set(journals)),
+        "year_min": min(years) if years else None,
+        "year_max": max(years) if years else None,
+        "articles_with_abstract": with_abstract,
+        "articles_missing_abstract": total - with_abstract,
+        "abstract_coverage_rate": round(with_abstract / total, 4) if total else 0,
+        "records_with_doi": doi_records,
+        "doi_coverage_rate": round(doi_records / total, 4) if total else 0,
+        "unique_article_json": unique_doi_count,
+    }
+
+
+def tokenize_title(title):
+    return [
+        token for token in re.findall(r"[A-Za-z][A-Za-z'-]{2,}", clean_text(title).lower())
+        if token not in STOPWORDS and len(token) >= 4
+    ]
+
+
 def build_article_payload(article):
     clean_article = {
         "title": clean_text(article.get("title")),
@@ -140,7 +182,6 @@ def build_article_payload(article):
         "share_url": f"{SITE_BASE}/#doi/{quote(clean_article['doi'], safe='')}" if clean_article["doi"] else "",
         "api_url": build_site_url(Path("api") / api_path) if api_path else "",
         "lit_db": lit_db_urls,
-        "generated_at": datetime.now().isoformat(timespec="seconds"),
     }
     return api_path, payload
 
@@ -151,23 +192,25 @@ def write_json(path, payload):
 
 
 def build_overview(articles):
-    years = [article.get("year") for article in articles if article.get("year")]
+    summary = summarize_articles(articles)
     journals = sorted({article.get("journal", "") for article in articles if article.get("journal")})
     payload = {
         "generated_at": datetime.now().isoformat(timespec="seconds"),
         "site_base": SITE_BASE,
         "raw_base": RAW_BASE,
-        "total_articles": len(articles),
-        "articles_with_doi": len({normalize_doi(article.get("doi")) for article in articles if normalize_doi(article.get("doi"))}),
+        "total_articles": summary["total_articles"],
+        "articles_with_doi": summary["unique_article_json"],
         "total_journals": len(journals),
         "year_range": {
-            "min": min(years) if years else None,
-            "max": max(years) if years else None,
+            "min": summary["year_min"],
+            "max": summary["year_max"],
         },
+        "summary": summary,
         "resources": {
             "articles_json": f"{RAW_BASE}/articles.json",
             "lit_db_overview": f"{RAW_BASE}/lit_db/overview.md",
             "journals_index": build_site_url(Path("api") / "journals.json"),
+            "dashboard": build_site_url(Path("api") / "dashboard.json"),
         },
     }
     write_json(API_DIR / "overview.json", payload)
@@ -199,6 +242,65 @@ def build_journals_index(articles):
     })
 
 
+def build_dashboard(articles):
+    summary = summarize_articles(articles)
+    year_counter = Counter()
+    keyword_counter = Counter()
+    author_counter = Counter()
+    journal_counter = Counter()
+    journal_abstract_counter = defaultdict(lambda: {"total": 0, "with_abstract": 0})
+
+    for article in articles:
+        year = article.get("year")
+        journal = clean_text(article.get("journal"))
+        abstract = clean_text(article.get("abstract"))
+        if year:
+            year_counter[int(year)] += 1
+        if journal:
+            journal_counter[journal] += 1
+            journal_abstract_counter[journal]["total"] += 1
+            if abstract:
+                journal_abstract_counter[journal]["with_abstract"] += 1
+        keyword_counter.update(tokenize_title(article.get("title")))
+        for author in parse_authors(article.get("authors")):
+            if author["raw"] and not author["raw"].startswith("["):
+                author_counter[author["raw"]] += 1
+
+    payload = {
+        "generated_at": datetime.now().isoformat(timespec="seconds"),
+        "summary": summary,
+        "year_counts": [
+            {"year": year, "count": count}
+            for year, count in sorted(year_counter.items())
+        ],
+        "top_keywords": [
+            {"term": term, "count": count}
+            for term, count in keyword_counter.most_common(18)
+        ],
+        "top_authors": [
+            {"author": author, "count": count}
+            for author, count in author_counter.most_common(12)
+        ],
+        "top_journals": [
+            {"journal": journal, "count": count}
+            for journal, count in journal_counter.most_common(10)
+        ],
+        "abstract_coverage_by_journal": [
+            {
+                "journal": journal,
+                "count": stat["total"],
+                "with_abstract": stat["with_abstract"],
+                "coverage_rate": round(stat["with_abstract"] / stat["total"], 4) if stat["total"] else 0,
+            }
+            for journal, stat in sorted(
+                journal_abstract_counter.items(),
+                key=lambda item: (-item[1]["total"], item[0].lower())
+            )
+        ],
+    }
+    write_json(API_DIR / "dashboard.json", payload)
+
+
 def build_readme(total_written):
     lines = [
         "# API 导出",
@@ -209,6 +311,7 @@ def build_readme(total_written):
         "",
         "```",
         "api/",
+        "├── dashboard.json",
         "├── overview.json",
         "├── journals.json",
         "└── articles/",
@@ -244,6 +347,7 @@ def main():
 
     build_overview(articles)
     build_journals_index(articles)
+    build_dashboard(articles)
 
     unique_payloads = {}
     for article in articles:

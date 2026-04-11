@@ -6,6 +6,7 @@
 
 ```
 api/
+├── dashboard.json
 ├── overview.json
 ├── journals.json
 └── articles/

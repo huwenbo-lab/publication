@@ -1,0 +1,443 @@
+{
+  "generated_at": "2026-04-11T21:47:17",
+  "summary": {
+    "total_articles": 34222,
+    "total_journals": 25,
+    "year_min": 2000,
+    "year_max": 2026,
+    "articles_with_abstract": 27361,
+    "articles_missing_abstract": 6861,
+    "abstract_coverage_rate": 0.7995,
+    "records_with_doi": 34149,
+    "doi_coverage_rate": 0.9979,
+    "unique_article_json": 34146
+  },
+  "year_counts": [
+    {
+      "year": 2000,
+      "count": 1105
+    },
+    {
+      "year": 2001,
+      "count": 1174
+    },
+    {
+      "year": 2002,
+      "count": 820
+    },
+    {
+      "year": 2003,
+      "count": 900
+    },
+    {
+      "year": 2004,
+      "count": 943
+    },
+    {
+      "year": 2005,
+      "count": 1017
+    },
+    {
+      "year": 2006,
+      "count": 1092
+    },
+    {
+      "year": 2007,
+      "count": 1169
+    },
+    {
+      "year": 2008,
+      "count": 1210
+    },
+    {
+      "year": 2009,
+      "count": 1184
+    },
+    {
+      "year": 2010,
+      "count": 1315
+    },
+    {
+      "year": 2011,
+      "count": 1350
+    },
+    {
+      "year": 2012,
+      "count": 1515
+    },
+    {
+      "year": 2013,
+      "count": 1506
+    },
+    {
+      "year": 2014,
+      "count": 1455
+    },
+    {
+      "year": 2015,
+      "count": 1336
+    },
+    {
+      "year": 2016,
+      "count": 1409
+    },
+    {
+      "year": 2017,
+      "count": 1391
+    },
+    {
+      "year": 2018,
+      "count": 1510
+    },
+    {
+      "year": 2019,
+      "count": 1512
+    },
+    {
+      "year": 2020,
+      "count": 1430
+    },
+    {
+      "year": 2021,
+      "count": 1488
+    },
+    {
+      "year": 2022,
+      "count": 1458
+    },
+    {
+      "year": 2023,
+      "count": 1457
+    },
+    {
+      "year": 2024,
+      "count": 1528
+    },
+    {
+      "year": 2025,
+      "count": 1776
+    },
+    {
+      "year": 2026,
+      "count": 172
+    }
+  ],
+  "top_keywords": [
+    {
+      "term": "gender",
+      "count": 2172
+    },
+    {
+      "term": "family",
+      "count": 2082
+    },
+    {
+      "term": "work",
+      "count": 1616
+    },
+    {
+      "term": "education",
+      "count": 1444
+    },
+    {
+      "term": "women",
+      "count": 1268
+    },
+    {
+      "term": "press",
+      "count": 1193
+    },
+    {
+      "term": "university",
+      "count": 1185
+    },
+    {
+      "term": "life",
+      "count": 1161
+    },
+    {
+      "term": "educational",
+      "count": 1133
+    },
+    {
+      "term": "inequality",
+      "count": 1073
+    },
+    {
+      "term": "fertility",
+      "count": 1047
+    },
+    {
+      "term": "united",
+      "count": 1014
+    },
+    {
+      "term": "states",
+      "count": 1012
+    },
+    {
+      "term": "health",
+      "count": 990
+    },
+    {
+      "term": "effects",
+      "count": 979
+    },
+    {
+      "term": "cloth",
+      "count": 828
+    },
+    {
+      "term": "school",
+      "count": 823
+    },
+    {
+      "term": "china",
+      "count": 816
+    }
+  ],
+  "top_authors": [
+    {
+      "author": "Xie, Yu",
+      "count": 78
+    },
+    {
+      "author": "Kalmijn, Matthijs",
+      "count": 72
+    },
+    {
+      "author": "Manning, Wendy D.",
+      "count": 68
+    },
+    {
+      "author": "Kohler, Hans-Peter",
+      "count": 49
+    },
+    {
+      "author": "Wu, Xiaogang",
+      "count": 48
+    },
+    {
+      "author": "Liefbroer, Aart C.",
+      "count": 44
+    },
+    {
+      "author": "Brown, Susan L.",
+      "count": 42
+    },
+    {
+      "author": "Kulu, Hill",
+      "count": 41
+    },
+    {
+      "author": "Park, Hyunjoon",
+      "count": 40
+    },
+    {
+      "author": "Andersson, Gunnar",
+      "count": 38
+    },
+    {
+      "author": "Vignoli, Daniele",
+      "count": 38
+    },
+    {
+      "author": "Lichter, Daniel T.",
+      "count": 37
+    }
+  ],
+  "top_journals": [
+    {
+      "journal": "Sociology",
+      "count": 2850
+    },
+    {
+      "journal": "Social Forces",
+      "count": 2778
+    },
+    {
+      "journal": "Journal of Marriage and Family",
+      "count": 2453
+    },
+    {
+      "journal": "Work, Employment and Society",
+      "count": 2331
+    },
+    {
+      "journal": "Journal of Family Issues",
+      "count": 2244
+    },
+    {
+      "journal": "Social Science Research",
+      "count": 2220
+    },
+    {
+      "journal": "Gender & Society",
+      "count": 2175
+    },
+    {
+      "journal": "Demography",
+      "count": 1920
+    },
+    {
+      "journal": "Demographic Research",
+      "count": 1831
+    },
+    {
+      "journal": "British Journal of Sociology",
+      "count": 1727
+    }
+  ],
+  "abstract_coverage_by_journal": [
+    {
+      "journal": "Sociology",
+      "count": 2850,
+      "with_abstract": 1830,
+      "coverage_rate": 0.6421
+    },
+    {
+      "journal": "Social Forces",
+      "count": 2778,
+      "with_abstract": 2636,
+      "coverage_rate": 0.9489
+    },
+    {
+      "journal": "Journal of Marriage and Family",
+      "count": 2453,
+      "with_abstract": 2177,
+      "coverage_rate": 0.8875
+    },
+    {
+      "journal": "Work, Employment and Society",
+      "count": 2331,
+      "with_abstract": 1490,
+      "coverage_rate": 0.6392
+    },
+    {
+      "journal": "Journal of Family Issues",
+      "count": 2244,
+      "with_abstract": 2201,
+      "coverage_rate": 0.9808
+    },
+    {
+      "journal": "Social Science Research",
+      "count": 2220,
+      "with_abstract": 1001,
+      "coverage_rate": 0.4509
+    },
+    {
+      "journal": "Gender & Society",
+      "count": 2175,
+      "with_abstract": 893,
+      "coverage_rate": 0.4106
+    },
+    {
+      "journal": "Demography",
+      "count": 1920,
+      "with_abstract": 1892,
+      "coverage_rate": 0.9854
+    },
+    {
+      "journal": "Demographic Research",
+      "count": 1831,
+      "with_abstract": 1823,
+      "coverage_rate": 0.9956
+    },
+    {
+      "journal": "British Journal of Sociology",
+      "count": 1727,
+      "with_abstract": 1218,
+      "coverage_rate": 0.7053
+    },
+    {
+      "journal": "British Journal of Sociology of Education",
+      "count": 1659,
+      "with_abstract": 1514,
+      "coverage_rate": 0.9126
+    },
+    {
+      "journal": "European Sociological Review",
+      "count": 1543,
+      "with_abstract": 1486,
+      "coverage_rate": 0.9631
+    },
+    {
+      "journal": "Socius",
+      "count": 1014,
+      "with_abstract": 1014,
+      "coverage_rate": 1.0
+    },
+    {
+      "journal": "American Sociological Review",
+      "count": 986,
+      "with_abstract": 981,
+      "coverage_rate": 0.9949
+    },
+    {
+      "journal": "Population and Development Review",
+      "count": 931,
+      "with_abstract": 772,
+      "coverage_rate": 0.8292
+    },
+    {
+      "journal": "Research in Social Stratification and Mobility",
+      "count": 846,
+      "with_abstract": 664,
+      "coverage_rate": 0.7849
+    },
+    {
+      "journal": "Journal of Family Theory & Review",
+      "count": 835,
+      "with_abstract": 523,
+      "coverage_rate": 0.6263
+    },
+    {
+      "journal": "European Journal of Population",
+      "count": 834,
+      "with_abstract": 293,
+      "coverage_rate": 0.3513
+    },
+    {
+      "journal": "American Journal of Sociology",
+      "count": 799,
+      "with_abstract": 773,
+      "coverage_rate": 0.9675
+    },
+    {
+      "journal": "Sociology of Education",
+      "count": 457,
+      "with_abstract": 445,
+      "coverage_rate": 0.9737
+    },
+    {
+      "journal": "Asian Population Studies",
+      "count": 451,
+      "with_abstract": 406,
+      "coverage_rate": 0.9002
+    },
+    {
+      "journal": "Annual Review of Sociology",
+      "count": 428,
+      "with_abstract": 427,
+      "coverage_rate": 0.9977
+    },
+    {
+      "journal": "Sociological Science",
+      "count": 392,
+      "with_abstract": 388,
+      "coverage_rate": 0.9898
+    },
+    {
+      "journal": "Chinese Sociological Review",
+      "count": 268,
+      "with_abstract": 267,
+      "coverage_rate": 0.9963
+    },
+    {
+      "journal": "Chinese Journal of Sociology",
+      "count": 250,
+      "with_abstract": 247,
+      "coverage_rate": 0.988
+    }
+  ]
+}
