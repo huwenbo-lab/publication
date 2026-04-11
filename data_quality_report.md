@@ -1,12 +1,12 @@
 # 数据质量检查报告
 
-生成时间：2026-04-02 17:43
+生成时间：2026-04-03 14:15
 
 ## 一、总体概况
 
-- 目标期刊总数：**24本**
+- 目标期刊总数：**25本**
 - 已有Excel数据期刊：**17本**
-- 缺失期刊（需从CrossRef全量抓取）：**7本**
+- 缺失期刊（需从CrossRef全量抓取）：**8本**
 - Excel文件中文章总数：**12,665条**
 
 ## 二、已有Excel数据的期刊（逐本详情）
@@ -112,6 +112,7 @@
 
 | 期刊名称 | ISSN | 数据起始年 | 说明 |
 |---|---|---|---|
+| Asian Population Studies | 1744-1730 | 2005 | 2005年创刊 |
 | European Journal of Population | 0168-6577 | 2000 | 正常创刊 |
 | Gender & Society | 0891-2432 | 2000 | 正常创刊 |
 | Journal of Family Theory & Review | 1756-2570 | 2009 | 2009年创刊 |
@@ -131,7 +132,7 @@
 | 标题重复（总计） | 9 条 |
 | 达WoS导出上限期刊 | 3 本 |
 | 存在年份缺口期刊 | 12 本 |
-| 缺失期刊（无Excel） | 7 本 |
+| 缺失期刊（无Excel） | 8 本 |
 
 达WoS导出上限的期刊：Demographic Research, Journal of Family Issues, Social Science Research
 
@@ -144,5 +145,5 @@
    - 补全缺失摘要（有DOI者直接查CrossRef）
    - 补全缺失DOI（按标题搜索CrossRef）
    - 抓取历史缺口年份数据（按ISSN+年份范围查CrossRef）
-   - 全量抓取7本缺失期刊的数据
+   - 全量抓取8本缺失期刊的数据
 3. **Step 4（自动更新）**：运行 `python update.py` 可定期从CrossRef获取最新文章

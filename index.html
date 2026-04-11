@@ -3,455 +3,204 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>学术文献归档库</title>
-    <style>
-        /* 
-         * =========================================
-         * 核心样式表 (CSS)
-         * =========================================
-         */
-        :root {
-            --primary-color: #2c3e50;
-            --accent-color: #3498db;
-            --bg-color: #f8f9fa;
-            --card-bg: #ffffff;
-            --text-main: #2c3e50;
-            --text-sub: #666666;
-            --border-radius: 8px;
-            --box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
-            --transition: all 0.3s ease;
-        }
-
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
-
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-main);
-            line-height: 1.6;
-            padding: 20px;
-        }
-
-        /* 布局容器 */
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            min-height: 80vh;
-        }
-
-        /* 头部导航 */
-        header {
-            margin-bottom: 30px;
-            text-align: center;
-        }
-
-        h1 {
-            font-size: 2rem;
-            margin-bottom: 10px;
-            color: var(--primary-color);
-        }
-
-        .dataset-meta {
-            margin-top: 8px;
-            color: var(--text-sub);
-            font-size: 0.92rem;
-        }
-
-        /* 面包屑导航 (Breadcrumbs) */
-        .breadcrumbs {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 10px;
-            font-size: 1rem;
-            color: var(--text-sub);
-            margin-top: 20px;
-        }
-
-        .breadcrumb-item {
-            cursor: pointer;
-            color: var(--accent-color);
-            transition: var(--transition);
-        }
-
-        .breadcrumb-item:hover {
-            text-decoration: underline;
-        }
-
-        .breadcrumb-item.active {
-            color: var(--text-sub);
-            cursor: default;
-            text-decoration: none;
-            font-weight: 500;
-        }
-
-        .breadcrumb-separator {
-            color: #ccc;
-        }
-
-        /* 内容显示区域 - 独占显示逻辑 */
-        .view-section {
-            display: none; /* 默认隐藏所有区域 */
-            animation: fadeIn 0.4s ease;
-        }
-
-        .view-section.active {
-            display: block; /* 仅激活的区域显示 */
-        }
-
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
-        /* 列表网格样式 (用于期刊和年份) */
-        .grid-list {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            gap: 20px;
-            padding: 10px 0;
-        }
-
-        .card-btn {
-            background: var(--card-bg);
-            border: 1px solid #eee;
-            border-radius: var(--border-radius);
-            padding: 20px;
-            text-align: center;
-            cursor: pointer;
-            transition: var(--transition);
-            box-shadow: var(--box-shadow);
-            font-size: 1.1rem;
-            font-weight: 500;
-        }
-
-        .card-btn:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-            border-color: var(--accent-color);
-            color: var(--accent-color);
-        }
-
-        /* 文献卡片样式 */
-        .article-list {
-            display: flex;
-            flex-direction: column;
-            gap: 25px;
-        }
-
-        .article-card {
-            background: var(--card-bg);
-            border-radius: var(--border-radius);
-            padding: 25px;
-            box-shadow: var(--box-shadow);
-            border-left: 4px solid var(--accent-color);
-        }
-
-        .article-title {
-            font-size: 1.25rem;
-            font-weight: 600;
-            margin-bottom: 10px;
-            color: var(--primary-color);
-        }
-
-        .article-meta {
-            font-size: 0.9rem;
-            color: var(--text-sub);
-            margin-bottom: 15px;
-            padding-bottom: 10px;
-            border-bottom: 1px solid #eee;
-        }
-
-        .article-abstract {
-            font-size: 0.95rem;
-            color: #444;
-            text-align: justify;
-        }
-
-        .abstract-label {
-            font-weight: 600;
-            color: var(--primary-color);
-            display: block;
-            margin-bottom: 5px;
-        }
-
-        /* 响应式调整 */
-        @media (max-width: 600px) {
-            .grid-list {
-                grid-template-columns: 1fr;
-            }
-            h1 {
-                font-size: 1.5rem;
-            }
-        }
-        
-        /* 空状态提示 */
-        .empty-state {
-            text-align: center;
-            padding: 40px;
-            color: var(--text-sub);
-            font-style: italic;
-        }
-    </style>
+    <title>期刊文献数据库</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-<!-- Loading Overlay -->
-<div id="loading-overlay" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #fff; z-index: 9999; display: flex; flex-direction: column; justify-content: center; align-items: center; transition: opacity 0.5s;">
-    <div style="font-size: 1.5rem; color: #2c3e50; margin-bottom: 10px;">正在加载文献库...</div>
-    <div style="color: #666;">数据量较大，请稍候 (Parsing data...)</div>
-</div>
-
-<div class="container">
-    <header>
-        <h1>期刊文献数据库</h1>
-        <div id="dataset-meta" class="dataset-meta"></div>
-        <div id="breadcrumbs" class="breadcrumbs">
-            <!-- 动态生成的面包屑导航 -->
+<div class="app-shell">
+    <header class="hero panel">
+        <div class="hero-eyebrow">社会学与人口学文献库</div>
+        <h1 class="hero-title">先搜主题，再按期刊精读</h1>
+        <p class="hero-copy">
+            这一版前端优先接入浏览器内 SQLite FTS5 检索，搜索覆盖标题、摘要和作者。
+            如果当前环境没有发布 <code>literature.db</code>，页面会自动回退到备用 JSON 浏览模式。
+        </p>
+        <div class="hero-meta-row">
+            <div id="dataset-meta" class="meta-pill">正在准备数据概况…</div>
+            <div id="engine-badge" class="engine-badge">正在初始化</div>
+            <div id="engine-message" class="meta-pill">正在连接检索引擎…</div>
         </div>
     </header>
 
-    <!-- 第一层：期刊列表 -->
-    <div id="section-journals" class="view-section">
-        <div id="journal-list" class="grid-list"></div>
-    </div>
+    <section class="utility-bar panel" aria-label="本地工具">
+        <div class="utility-copy">本地工具：收藏候选文章、导出 BibTeX / CSV，并在浅色与深色主题之间切换。</div>
+        <div class="utility-actions">
+            <button id="theme-toggle" class="ghost-btn utility-btn" type="button" aria-pressed="false">主题：浅色</button>
+            <button id="favorites-toggle" class="ghost-btn utility-btn" type="button">我的收藏（0）</button>
+        </div>
+    </section>
 
-    <!-- 第二层：年份列表 -->
-    <div id="section-years" class="view-section">
-        <div id="year-list" class="grid-list"></div>
-    </div>
+    <nav id="tabbar" class="tabbar panel" aria-label="视图切换">
+        <button class="tab-btn active" type="button" data-mode="search">搜索</button>
+        <button class="tab-btn" type="button" data-mode="browse">浏览</button>
+    </nav>
 
-    <!-- 第三层：文献列表 -->
-    <div id="section-articles" class="view-section">
-        <div id="article-list" class="article-list"></div>
+    <section id="view-search" class="view active">
+        <div class="search-layout">
+            <aside class="sidebar sticky panel" aria-label="搜索筛选">
+                <h2>筛选条件</h2>
+                <div class="sidebar-section">
+                    <label class="field-label" for="year-from">年份范围</label>
+                    <div class="field-grid">
+                        <input id="year-from" class="field" type="number" min="2000" max="2100" placeholder="起始年">
+                        <input id="year-to" class="field" type="number" min="2000" max="2100" placeholder="截止年">
+                    </div>
+                </div>
+                <div class="sidebar-section">
+                    <div class="browse-header">
+                        <h2>期刊筛选</h2>
+                        <button id="clear-filters" type="button" class="tiny-btn">清空</button>
+                    </div>
+                    <div id="journal-filters"></div>
+                </div>
+            </aside>
+
+            <main class="search-main panel">
+                <form id="search-form" class="search-form">
+                    <div class="search-input-wrap">
+                        <input
+                            id="search-input"
+                            class="search-input"
+                            type="search"
+                            placeholder='搜主题、方法或作者，例如 "social mobility"、fertility NOT mortality、Wenbo Hu'
+                            autocomplete="off"
+                            spellcheck="false"
+                        >
+                        <button type="submit" class="primary-btn">立即搜索</button>
+                    </div>
+                    <div class="browse-header">
+                        <div class="search-hint">按 <code>/</code> 可随时聚焦搜索框。默认每页显示 50 条结果。</div>
+                        <button id="clear-query" type="button" class="ghost-btn">清空关键词</button>
+                    </div>
+                </form>
+
+                <div id="search-notice"></div>
+
+                <div class="toolbar">
+                    <div id="result-summary" class="toolbar-meta">等待检索输入。</div>
+                    <div class="toolbar-controls">
+                        <label class="field-label" for="sort-select">排序</label>
+                        <select id="sort-select" class="select">
+                            <option value="relevance">相关性优先</option>
+                            <option value="year_desc">年份从新到旧</option>
+                            <option value="journal">按期刊排序</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div id="result-list" class="results-list"></div>
+                <div id="pagination" class="pagination"></div>
+            </main>
+        </div>
+    </section>
+
+    <section id="view-browse" class="view">
+        <div class="browse-layout">
+            <aside class="sidebar sticky panel">
+                <div class="browse-header">
+                    <h2>期刊总览</h2>
+                    <button id="browse-reset" type="button" class="tiny-btn">回到全部</button>
+                </div>
+                <div id="journal-rail" class="journal-rail"></div>
+            </aside>
+
+            <main class="browse-main panel">
+                <div id="browse-status"></div>
+                <div class="browse-header">
+                    <div id="browse-breadcrumbs" class="browse-breadcrumbs"></div>
+                </div>
+                <section>
+                    <h2>年份入口</h2>
+                    <div id="year-grid" class="year-grid"></div>
+                </section>
+                <section style="margin-top: 24px;">
+                    <h2>文章列表</h2>
+                    <div id="browse-article-list" class="article-list"></div>
+                </section>
+            </main>
+        </div>
+    </section>
+</div>
+
+<div id="article-modal" class="modal hidden" aria-hidden="true">
+    <div class="modal-backdrop" data-close-modal="true"></div>
+    <div class="modal-dialog" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+        <div class="modal-header">
+            <div>
+                <div id="modal-kicker" class="modal-kicker"></div>
+                <h2 id="modal-title" class="modal-title"></h2>
+            </div>
+            <button id="modal-close" class="modal-close" type="button" aria-label="关闭详情">×</button>
+        </div>
+
+        <div id="modal-meta" class="modal-meta"></div>
+        <p id="modal-authors" class="modal-authors"></p>
+
+        <div id="modal-actions" class="modal-actions"></div>
+
+        <section class="modal-section">
+            <h3>摘要</h3>
+            <div id="modal-abstract" class="modal-abstract"></div>
+        </section>
+
+        <section class="modal-section">
+            <div class="section-head">
+                <h3>引用格式</h3>
+                <button type="button" class="tiny-btn" data-copy-link="true">复制可分享链接</button>
+            </div>
+            <div class="citation-grid">
+                <article class="citation-card">
+                    <div class="section-head">
+                        <strong>BibTeX</strong>
+                        <button type="button" class="tiny-btn" data-copy-citation="bibtex">复制</button>
+                    </div>
+                    <pre id="citation-bibtex" class="citation-text"></pre>
+                </article>
+                <article class="citation-card">
+                    <div class="section-head">
+                        <strong>APA</strong>
+                        <button type="button" class="tiny-btn" data-copy-citation="apa">复制</button>
+                    </div>
+                    <pre id="citation-apa" class="citation-text"></pre>
+                </article>
+                <article class="citation-card">
+                    <div class="section-head">
+                        <strong>MLA</strong>
+                        <button type="button" class="tiny-btn" data-copy-citation="mla">复制</button>
+                    </div>
+                    <pre id="citation-mla" class="citation-text"></pre>
+                </article>
+            </div>
+        </section>
     </div>
 </div>
 
-
-<script src="data.js"></script>
-<script>
-    /**
-     * ==========================================================================================
-     * 数据配置区域 (DATA CONFIGURATION)
-     * 
-     * 说明：
-     * 1. 请将您的 Web of Science 导出的 Excel 数据转换为 JSON 格式。
-     * 2. 替换下方的 DATA 变量内容。
-     * 3. 确保字段名称匹配：
-     *    - "Source Title": 期刊名称
-     *    - "Publication Year": 发表年份 (数字)
-     *    - "Article Title": 文章标题
-     *    - "Author Full Names": 作者全名
-     *    - "Abstract": 摘要
-     * 
-     * 推荐工具：使用在线 "Excel to JSON converter" 将您的 Excel 转换为 JSON 数组并粘贴于此。
-     * ==========================================================================================
-     */
-    
-    // DATA loaded from data.js
-
-/**
-     * =========================================
-     * 核心逻辑控制 (JAVASCRIPT LOGIC)
-     * =========================================
-     */
-
-    // 全局状态
-    const state = {
-        view: 'journals', // 当前视图: 'journals', 'years', 'articles'
-        selectedJournal: null,
-        selectedYear: null
-    };
-
-    // 初始化
-    function init() {
-        try {
-            console.log("Initializing...");
-            
-            // Check if DATA is valid
-            if (typeof DATA === 'undefined' || !Array.isArray(DATA)) {
-                throw new Error("Data not loaded correctly.");
-            }
-            
-            console.log(`Loaded ${DATA.length} records.`);
-            
-            renderDatasetMeta();
-            render();
-            
-            // Hide loading overlay
-            const overlay = document.getElementById('loading-overlay');
-            if (overlay) {
-                overlay.style.opacity = '0';
-                setTimeout(() => overlay.remove(), 500);
-            }
-        } catch (e) {
-            console.error(e);
-            alert("数据加载失败，请检查控制台日志。\nError: " + e.message);
-            document.getElementById('loading-overlay').innerHTML = `<div style='color:red; padding:20px;'>Error: ${e.message}</div>`;
-        }
-    }
-
-    function renderDatasetMeta() {
-        const el = document.getElementById('dataset-meta');
-        const journals = new Set(DATA.map(item => item["Source Title"]).filter(Boolean));
-        const missingAbstract = DATA.filter(item => !String(item["Abstract"] || "").trim()).length;
-        const enriched = DATA.filter(item => item["Data Enrichment Method"]).length;
-        const years = DATA
-            .map(item => parseInt(item["Publication Year"]))
-            .filter(y => !Number.isNaN(y));
-        const minYear = years.length ? Math.min(...years) : "-";
-        const maxYear = years.length ? Math.max(...years) : "-";
-        el.textContent = `当前数据：${DATA.length} 篇文献 · ${journals.size} 本期刊 · 年份范围 ${minYear}-${maxYear} · 已补全摘要 ${enriched} 条 · 剩余缺失摘要 ${missingAbstract} 条`;
-    }
-
-    // 渲染主函数：根据状态决定显示哪个界面
-    function render() {
-        // 1. 更新面包屑导航
-        renderBreadcrumbs();
-
-        // 2. 控制视图显示/隐藏
-        document.querySelectorAll('.view-section').forEach(el => el.classList.remove('active'));
-
-        if (state.view === 'journals') {
-            document.getElementById('section-journals').classList.add('active');
-            renderJournalList();
-        } else if (state.view === 'years') {
-            document.getElementById('section-years').classList.add('active');
-            renderYearList();
-        } else if (state.view === 'articles') {
-            document.getElementById('section-articles').classList.add('active');
-            renderArticleList();
-        }
-    }
-
-    // 渲染面包屑
-    function renderBreadcrumbs() {
-        const container = document.getElementById('breadcrumbs');
-        let html = `<span class="breadcrumb-item ${state.view === 'journals' ? 'active' : ''}" onclick="resetToJournals()">所有期刊</span>`;
-
-        if (state.selectedJournal) {
-            html += ` <span class="breadcrumb-separator">/</span> 
-                      <span class="breadcrumb-item ${state.view === 'years' ? 'active' : ''}" onclick="backToYears()">${state.selectedJournal}</span>`;
-        }
-
-        if (state.selectedYear) {
-            html += ` <span class="breadcrumb-separator">/</span> 
-                      <span class="breadcrumb-item active">${state.selectedYear}</span>`;
-        }
-
-        container.innerHTML = html;
-    }
-
-    // 渲染期刊列表 (一级分类)
-    function renderJournalList() {
-        const container = document.getElementById('journal-list');
-        // 获取所有不重复的期刊名
-        const journals = [...new Set(DATA.map(item => item["Source Title"]))].filter(Boolean).sort();
-        
-        if (journals.length === 0) {
-            container.innerHTML = '<div class="empty-state">暂无期刊数据，请检查 DATA 变量配置。</div>';
-            return;
-        }
-
-        container.innerHTML = journals.map(journal => `
-            <div class="card-btn" onclick="selectJournal('${journal.replace(/'/g, "\\'")}')">
-                ${journal}
+<div id="favorites-modal" class="modal hidden" aria-hidden="true">
+    <div class="modal-backdrop" data-close-favorites="true"></div>
+    <div class="modal-dialog favorites-dialog" role="dialog" aria-modal="true" aria-labelledby="favorites-title">
+        <div class="modal-header">
+            <div>
+                <div class="modal-kicker">本地收藏夹</div>
+                <h2 id="favorites-title" class="modal-title">我的收藏</h2>
             </div>
-        `).join('');
-    }
+            <button id="favorites-close" class="modal-close" type="button" aria-label="关闭收藏夹">×</button>
+        </div>
 
-    // 渲染年份列表 (二级分类)
-    function renderYearList() {
-        const container = document.getElementById('year-list');
-        if (!state.selectedJournal) return;
-
-        // 筛选当前期刊的数据
-        const journalData = DATA.filter(item => item["Source Title"] === state.selectedJournal);
-        
-        // 获取年份并排序
-        const years = [...new Set(journalData.map(item => parseInt(item["Publication Year"])))];
-        const filteredYears = years.filter(y => !Number.isNaN(y)).sort((a, b) => b - a); // 降序排列
-
-        if (filteredYears.length === 0) {
-            container.innerHTML = `<div class="empty-state">该期刊暂无可用年份数据。</div>`;
-            return;
-        }
-
-        container.innerHTML = filteredYears.map(year => `
-            <div class="card-btn" onclick="selectYear(${year})">
-                ${year} 年
+        <div class="favorites-toolbar">
+            <p id="favorites-summary" class="helper-text">正在读取收藏夹…</p>
+            <div class="favorites-toolbar-actions">
+                <button id="copy-favorites-bibtex" type="button" class="tiny-btn">复制 BibTeX</button>
+                <button id="export-favorites-bibtex" type="button" class="tiny-btn">导出 BibTeX</button>
+                <button id="export-favorites-csv" type="button" class="tiny-btn">导出 CSV</button>
+                <button id="clear-favorites" type="button" class="tiny-btn">清空收藏</button>
             </div>
-        `).join('');
-    }
+        </div>
 
-    // 渲染文献列表 (三级分类)
-    function renderArticleList() {
-        const container = document.getElementById('article-list');
-        if (!state.selectedJournal || !state.selectedYear) return;
+        <div id="favorites-list" class="favorites-list"></div>
+    </div>
+</div>
 
-        // 筛选特定期刊 + 特定年份的数据
-        const articles = DATA.filter(item => 
-            item["Source Title"] === state.selectedJournal && 
-            parseInt(item["Publication Year"]) === state.selectedYear
-        );
-
-        if (articles.length === 0) {
-            container.innerHTML = '<div class="empty-state">暂无文献。</div>';
-            return;
-        }
-
-        container.innerHTML = articles.map(article => `
-            <div class="article-card">
-                <div class="article-title">${article["Article Title"] || "无标题"}</div>
-                <div class="article-meta">
-                    <strong>作者:</strong> ${article["Author Full Names"] || "未知作者"}
-                </div>
-                <div class="article-abstract">
-                    <span class="abstract-label">摘要:</span>
-                    ${article["Abstract"] || "暂无摘要"}
-                </div>
-            </div>
-        `).join('');
-        
-        // 自动滚回到顶部
-        window.scrollTo(0, 0);
-    }
-
-    // === 交互动作 ===
-
-    function selectJournal(journalName) {
-        state.selectedJournal = journalName;
-        state.view = 'years';
-        render();
-    }
-
-    function selectYear(year) {
-        state.selectedYear = year;
-        state.view = 'articles';
-        render();
-    }
-
-    function resetToJournals() {
-        state.selectedJournal = null;
-        state.selectedYear = null;
-        state.view = 'journals';
-        render();
-    }
-
-    function backToYears() {
-        state.selectedYear = null;
-        state.view = 'years';
-        render();
-    }
-
-    // 启动应用
-    window.addEventListener('DOMContentLoaded', init);
-
-</script>
-
+<script src="https://sql.js.org/dist/sql-wasm.js"></script>
+<script src="app.js"></script>
 </body>
 </html>

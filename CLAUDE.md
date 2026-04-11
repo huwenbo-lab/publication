@@ -2,17 +2,18 @@
 
 ## 项目介绍
 
-本项目是一个社会学与人口学领域的学术文献数据库，收录24本核心期刊2000年至今的文章元数据（标题、摘要、作者、DOI等）。研究方向涵盖社会分层、婚姻与家庭、人口学。
+本项目是一个社会学与人口学领域的学术文献数据库，收录25本核心期刊2000年至今的文章元数据（标题、摘要、作者、DOI等）。研究方向涵盖社会分层、婚姻与家庭、人口学。
 
 数据来源：Web of Science导出 + CrossRef API补全。前端为静态HTML页面，部署在GitHub Pages。
 
-## 期刊列表（24本）
+## 期刊列表（25本）
 
 | 期刊名称 | ISSN | 数据起始年 |
 |---|---|---|
 | American Journal of Sociology | 0002-9602 | 2000 |
 | American Sociological Review | 0003-1224 | 2000 |
 | Annual Review of Sociology | 0360-0572 | 2000 |
+| Asian Population Studies | 1744-1730 | 2005 |
 | British Journal of Sociology | 0007-1315 | 2000 |
 | British Journal of Sociology of Education | 0142-5692 | 2000 |
 | Chinese Journal of Sociology | 2057-150X | 2015 |
@@ -84,7 +85,7 @@ python update.py --dry-run    # 仅检查，不写入
 ```
 
 脚本会自动：
-1. 从CrossRef查询24本期刊的最新文章
+1. 从CrossRef查询25本期刊的最新文章
 2. 按DOI去重，避免重复录入
 3. 新文章追加到 `articles.json`，同步更新 `data.json` 和 `data.js`
 4. 在 `update_log.md` 中记录更新详情
@@ -116,6 +117,7 @@ python build_search_db.py --search "labor market" --year-from 2015 --year-to 202
 - **API限速**: CrossRef API使用 `mailto` 参数进入polite pool，请求间隔1秒。全量补全可能需要较长时间。
 - **Sociological Science**: 2014年创刊，数据从2014年开始。
 - **Socius**: 2015年创刊，数据从2015年开始。
+- **Asian Population Studies**: 2005年创刊，数据从2005年开始。
 - **Chinese Journal of Sociology**: 2015年创刊（英文版），数据从2015年开始。中文期刊的英文摘要可能不完整。
 - **Journal of Family Theory & Review**: 2009年创刊，数据从2009年开始。
 - **摘要缺失**: 部分早期文章（尤其是书评、编辑说明等）在CrossRef中无摘要，属正常现象。

@@ -33,11 +33,12 @@ FILENAME_TO_JOURNAL = {
     "Sociology of Education.xls": "Sociology of Education",
 }
 
-# 24本目标期刊及其数据起始年
+# 25本目标期刊及其数据起始年
 TARGET_JOURNALS = {
     "American Journal of Sociology": 2000,
     "American Sociological Review": 2000,
     "Annual Review of Sociology": 2000,
+    "Asian Population Studies": 2005,
     "British Journal of Sociology": 2000,
     "British Journal of Sociology of Education": 2000,
     "Chinese Journal of Sociology": 2015,
@@ -205,7 +206,7 @@ def main():
     lines.append(f"\n生成时间：{now_str}\n")
 
     lines.append("## 一、总体概况\n")
-    lines.append(f"- 目标期刊总数：**24本**")
+    lines.append(f"- 目标期刊总数：**25本**")
     lines.append(f"- 已有Excel数据期刊：**{len(results)}本**")
     lines.append(f"- 缺失期刊（需从CrossRef全量抓取）：**{len(missing_journals)}本**")
     lines.append(f"- Excel文件中文章总数：**{all_rows_count:,}条**\n")
@@ -260,6 +261,7 @@ def main():
     lines.append("| 期刊名称 | ISSN | 数据起始年 | 说明 |")
     lines.append("|---|---|---|---|")
     missing_info = {
+        "Asian Population Studies": ("1744-1730", 2005, "2005年创刊"),
         "European Journal of Population": ("0168-6577", 2000, "正常创刊"),
         "Gender & Society": ("0891-2432", 2000, "正常创刊"),
         "Journal of Family Theory & Review": ("1756-2570", 2009, "2009年创刊"),
@@ -304,7 +306,7 @@ def main():
     lines.append("   - 补全缺失摘要（有DOI者直接查CrossRef）")
     lines.append("   - 补全缺失DOI（按标题搜索CrossRef）")
     lines.append("   - 抓取历史缺口年份数据（按ISSN+年份范围查CrossRef）")
-    lines.append("   - 全量抓取7本缺失期刊的数据")
+    lines.append("   - 全量抓取8本缺失期刊的数据")
     lines.append("3. **Step 4（自动更新）**：运行 `python update.py` 可定期从CrossRef获取最新文章")
 
     report_path = ROOT / "data_quality_report.md"

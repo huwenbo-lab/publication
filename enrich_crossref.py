@@ -5,13 +5,14 @@ enrich_crossref.py — CrossRef API 数据补全脚本
   Phase 1: 有DOI但缺摘要 → 直接用DOI查CrossRef
   Phase 2: 无DOI → 用标题搜索CrossRef获取DOI（并顺便补摘要）
   Phase 3: 已有期刊补历史数据 → 按ISSN+年份范围抓取缺失年份
-  Phase 4: 7本缺失期刊全量抓取 → 按ISSN全量分页抓取
+  Phase 4: 8本缺失期刊全量抓取 → 按ISSN全量分页抓取
 
 用法：
   source venv/bin/activate
   python enrich_crossref.py                    # 全部阶段
   python enrich_crossref.py --phase 1          # 仅执行某阶段
   python enrich_crossref.py --phase 3,4        # 执行阶段3和4
+  python enrich_crossref.py --phase 4 --journal "Asian Population Studies"  # 仅抓指定期刊
   python enrich_crossref.py --dry-run          # 仅显示计划，不执行
 """
 import argparse
@@ -34,11 +35,12 @@ MAILTO = "hwbruc@gmail.com"
 SLEEP_SEC = 1.0
 CROSSREF_BASE = "https://api.crossref.org"
 
-# 24本期刊配置：标准名 → {issn, start_year}
+# 25本期刊配置：标准名 → {issn, start_year}
 JOURNALS = {
     "American Journal of Sociology":                {"issn": "0002-9602", "start_year": 2000},
     "American Sociological Review":                  {"issn": "0003-1224", "start_year": 2000},
     "Annual Review of Sociology":                    {"issn": "0360-0572", "start_year": 2000},
+    "Asian Population Studies":                      {"issn": "1744-1730", "start_year": 2005},
     "British Journal of Sociology":                  {"issn": "0007-1315", "start_year": 2000},
     "British Journal of Sociology of Education":     {"issn": "0142-5692", "start_year": 2000},
     "Chinese Journal of Sociology":                  {"issn": "2057-150X", "start_year": 2015},
@@ -62,8 +64,9 @@ JOURNALS = {
     "Work, Employment and Society":                  {"issn": "0950-0170", "start_year": 2000},
 }
 
-# 7本缺失期刊（需全量抓取）
+# 8本缺失期刊（需全量抓取）
 MISSING_JOURNALS = {
+    "Asian Population Studies",
     "European Journal of Population",
     "Gender & Society",
     "Journal of Family Theory & Review",
@@ -216,6 +219,24 @@ def load_progress():
 def save_progress(progress):
     with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
         json.dump(progress, f, ensure_ascii=False, indent=2)
+
+
+def parse_selected_journals(journal_args):
+    """解析 --journal 参数，支持多次传入或逗号分隔"""
+    if not journal_args:
+        return None
+
+    selected = set()
+    for raw in journal_args:
+        for name in raw.split(","):
+            name = name.strip()
+            if name:
+                selected.add(name)
+
+    invalid = sorted(j for j in selected if j not in JOURNALS)
+    if invalid:
+        raise SystemExit(f"未知期刊: {', '.join(invalid)}")
+    return selected
 
 
 # ──────────────────────────────────────────────
@@ -389,11 +410,12 @@ def fetch_by_issn(issn, from_year, until_year, journal_name, existing_dois):
     从CrossRef按ISSN抓取指定年份范围的所有文章。
     策略：按年逐年抓取 + offset分页，避免cursor分页在某些查询下过早停止。
     existing_dois: set of lowercase DOI strings（用于去重）
-    返回新文章列表。
+    返回 (新文章列表, 是否发生API失败)。
     """
     new_articles = []
     page_size = 100
     total_new = 0
+    had_api_failure = False
 
     # 先查询总数以便显示
     probe_url = (
@@ -404,7 +426,12 @@ def fetch_by_issn(issn, from_year, until_year, journal_name, existing_dois):
     )
     probe = get_json(probe_url)
     time.sleep(SLEEP_SEC)
-    total_results = probe["message"].get("total-results", "?") if probe else "?"
+    if probe and probe.get("status") == "ok":
+        total_results = probe["message"].get("total-results", "?")
+    else:
+        total_results = "?"
+        had_api_failure = True
+        print("    [警告] CrossRef 探测请求失败，本次不会标记为完成")
     print(f"    CrossRef报告共 {total_results} 条记录")
 
     for year in range(from_year, until_year + 1):
@@ -430,7 +457,13 @@ def fetch_by_issn(issn, from_year, until_year, journal_name, existing_dois):
             data = get_json(url)
             time.sleep(SLEEP_SEC)
 
-            if not data or data.get("status") != "ok":
+            if not data:
+                had_api_failure = True
+                print(f"    [警告] {year}年请求失败，提前结束该年份抓取")
+                break
+            if data.get("status") != "ok":
+                had_api_failure = True
+                print(f"    [警告] {year}年返回状态异常，提前结束该年份抓取")
                 break
 
             items = data["message"].get("items", [])
@@ -458,14 +491,14 @@ def fetch_by_issn(issn, from_year, until_year, journal_name, existing_dois):
         if year_fetched > 0 and (year % 5 == 0 or year == until_year):
             print(f"    {year}年: {year_fetched} 条 | 累计新增: {total_new}")
 
-    return new_articles
+    return new_articles, had_api_failure
 
 
 # ──────────────────────────────────────────────
 # Phase 3: 补已有期刊的历史缺口年份
 # ──────────────────────────────────────────────
 
-def phase3_fill_gaps(articles, dry_run=False, progress=None):
+def phase3_fill_gaps(articles, dry_run=False, progress=None, selected_journals=None):
     print("\n=== Phase 3: 补已有期刊历史缺口 ===")
 
     if progress is None:
@@ -480,6 +513,9 @@ def phase3_fill_gaps(articles, dry_run=False, progress=None):
     total_new = 0
 
     for journal_name, excel_start_year in sorted(EXISTING_JOURNAL_GAPS.items()):
+        if selected_journals and journal_name not in selected_journals:
+            continue
+
         target_start = JOURNALS[journal_name]["start_year"]
         issn = JOURNALS[journal_name]["issn"]
         until_year = excel_start_year - 1
@@ -496,15 +532,21 @@ def phase3_fill_gaps(articles, dry_run=False, progress=None):
         if dry_run:
             continue
 
-        new_arts = fetch_by_issn(issn, target_start, until_year, journal_name, existing_dois)
+        new_arts, had_api_failure = fetch_by_issn(
+            issn, target_start, until_year, journal_name, existing_dois
+        )
         print(f"    → 新增 {len(new_arts)} 篇")
         articles.extend(new_arts)
         total_new += len(new_arts)
 
+        save_articles(articles)
+        if had_api_failure:
+            print(f"    [警告] {journal_name} 存在请求失败，未标记为 done，可稍后重跑")
+            continue
+
         p3[journal_name] = "done"
         progress["phase3"] = p3
         save_progress(progress)
-        save_articles(articles)
 
     if not dry_run:
         print(f"Phase 3 完成：共新增 {total_new} 篇历史文章")
@@ -512,10 +554,10 @@ def phase3_fill_gaps(articles, dry_run=False, progress=None):
 
 
 # ──────────────────────────────────────────────
-# Phase 4: 全量抓取7本缺失期刊
+# Phase 4: 全量抓取8本缺失期刊
 # ──────────────────────────────────────────────
 
-def phase4_fetch_missing_journals(articles, dry_run=False, progress=None):
+def phase4_fetch_missing_journals(articles, dry_run=False, progress=None, selected_journals=None):
     print("\n=== Phase 4: 全量抓取缺失期刊 ===")
 
     if progress is None:
@@ -530,6 +572,9 @@ def phase4_fetch_missing_journals(articles, dry_run=False, progress=None):
     total_new = 0
 
     for journal_name in sorted(MISSING_JOURNALS):
+        if selected_journals and journal_name not in selected_journals:
+            continue
+
         config = JOURNALS[journal_name]
         issn = config["issn"]
         start_year = config["start_year"]
@@ -544,15 +589,21 @@ def phase4_fetch_missing_journals(articles, dry_run=False, progress=None):
         if dry_run:
             continue
 
-        new_arts = fetch_by_issn(issn, start_year, current_year, journal_name, existing_dois)
+        new_arts, had_api_failure = fetch_by_issn(
+            issn, start_year, current_year, journal_name, existing_dois
+        )
         print(f"    → 新增 {len(new_arts)} 篇")
         articles.extend(new_arts)
         total_new += len(new_arts)
 
+        save_articles(articles)
+        if had_api_failure:
+            print(f"    [警告] {journal_name} 存在请求失败，未标记为 done，可稍后重跑")
+            continue
+
         p4[journal_name] = "done"
         progress["phase4"] = p4
         save_progress(progress)
-        save_articles(articles)
 
     if not dry_run:
         print(f"Phase 4 完成：共新增 {total_new} 篇文章")
@@ -567,17 +618,22 @@ def main():
     parser = argparse.ArgumentParser(description="CrossRef API 数据补全脚本")
     parser.add_argument("--phase", type=str, default="1,2,3,4",
                         help="执行哪些阶段，逗号分隔，如 --phase 1,2 或 --phase 3")
+    parser.add_argument("--journal", action="append",
+                        help="仅处理指定期刊；可多次传入，或在一次参数中用逗号分隔")
     parser.add_argument("--dry-run", action="store_true",
                         help="仅显示计划，不发送API请求，不写入文件")
     args = parser.parse_args()
 
     phases = [int(p.strip()) for p in args.phase.split(",")]
+    selected_journals = parse_selected_journals(args.journal)
     dry_run = args.dry_run
 
     if dry_run:
         print("[DRY RUN 模式] 不会发送请求或写入文件\n")
 
     print(f"执行阶段: {phases}")
+    if selected_journals:
+        print(f"限定期刊: {', '.join(sorted(selected_journals))}")
     articles = load_articles()
     print(f"已加载 {len(articles):,} 条文章")
 
@@ -590,10 +646,20 @@ def main():
         articles = phase2_find_dois(articles, dry_run=dry_run)
 
     if 3 in phases:
-        articles, progress = phase3_fill_gaps(articles, dry_run=dry_run, progress=progress)
+        articles, progress = phase3_fill_gaps(
+            articles,
+            dry_run=dry_run,
+            progress=progress,
+            selected_journals=selected_journals,
+        )
 
     if 4 in phases:
-        articles, progress = phase4_fetch_missing_journals(articles, dry_run=dry_run, progress=progress)
+        articles, progress = phase4_fetch_missing_journals(
+            articles,
+            dry_run=dry_run,
+            progress=progress,
+            selected_journals=selected_journals,
+        )
 
     if not dry_run:
         save_articles(articles)

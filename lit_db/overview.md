@@ -1,7 +1,7 @@
 # 社会学与人口学文献数据库概览
 
 > 生成时间：2026-04-03  
-> 总计：**33,771** 篇 | **24** 本期刊 | 2000–2026
+> 总计：**34,222** 篇 | **25** 本期刊 | 2000–2026
 
 ## 数据字段
 
@@ -30,6 +30,7 @@
 | American Journal of Sociology | 799 | 2000–2025 | 185 |
 | American Sociological Review | 986 | 2000–2025 | 225 |
 | Annual Review of Sociology | 428 | 2000–2025 | 97 |
+| Asian Population Studies | 451 | 2005–2026 | 138 |
 | British Journal of Sociology | 1,727 | 2000–2025 | 415 |
 | British Journal of Sociology of Education | 1,659 | 2000–2026 | 459 |
 | Chinese Journal of Sociology | 250 | 2015–2025 | 134 |

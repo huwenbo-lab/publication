@@ -38,6 +38,7 @@ JOURNAL_ORDER = [
     "American Journal of Sociology",
     "American Sociological Review",
     "Annual Review of Sociology",
+    "Asian Population Studies",
     "British Journal of Sociology",
     "British Journal of Sociology of Education",
     "Chinese Journal of Sociology",
