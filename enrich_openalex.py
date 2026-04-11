@@ -12,6 +12,7 @@ OpenAlex 能额外覆盖约 40% 的缺失，Semantic Scholar 再补约 10%。
   python enrich_openalex.py                # 执行全部
   python enrich_openalex.py --round 1      # 仅 OpenAlex
   python enrich_openalex.py --round 2      # 仅 Semantic Scholar
+  python enrich_openalex.py --journal "Asian Population Studies"  # 仅处理指定期刊
   python enrich_openalex.py --dry-run      # 仅统计，不写入
   python enrich_openalex.py --skip-reviews # 跳过疑似书评
 """
@@ -150,6 +151,25 @@ def save_progress(progress):
         json.dump(serializable, f)
 
 
+def parse_selected_journals(journal_args, articles):
+    """解析 --journal 参数，支持多次传入或逗号分隔"""
+    if not journal_args:
+        return None
+
+    available = {a.get("journal", "").strip() for a in articles if a.get("journal", "").strip()}
+    selected = set()
+    for raw in journal_args:
+        for name in raw.split(","):
+            name = name.strip()
+            if name:
+                selected.add(name)
+
+    invalid = sorted(j for j in selected if j not in available)
+    if invalid:
+        raise SystemExit(f"未知期刊: {', '.join(invalid)}")
+    return selected
+
+
 # ──────────────────────────────────────────────
 # OpenAlex 摘要重建
 # ──────────────────────────────────────────────
@@ -232,8 +252,9 @@ def round1_openalex(articles, targets, dry_run=False, progress=None):
                     if ab and len(ab) > 30:
                         articles[idx]["abstract"] = ab
                         enriched += 1
-
-                done_dois.add(doi_lower)
+                    done_dois.add(doi_lower)
+                else:
+                    failed += 1
             progress["round1_done"] = done_dois
         else:
             # 批量成功：建立 DOI → abstract 的映射
@@ -255,13 +276,15 @@ def round1_openalex(articles, targets, dry_run=False, progress=None):
 
             progress["round1_done"] = done_dois
 
-        # 定期保存
+        # 每批保存，避免中途中断丢进度
+        save_progress(progress)
+        save_articles(articles)
+
+        # 定期打印进度
         processed = batch_start + len(batch)
         if processed % 500 == 0 or processed == len(todo):
-            save_progress(progress)
-            save_articles(articles)
             pct = processed / len(todo) * 100
-            print(f"  进度: {processed}/{len(todo)} ({pct:.0f}%) | 已补: {enriched}")
+            print(f"  进度: {processed}/{len(todo)} ({pct:.0f}%) | 已补: {enriched} | 失败待重试: {failed}")
 
     save_progress(progress)
     save_articles(articles)
@@ -312,9 +335,11 @@ def round2_semantic_scholar(articles, targets, dry_run=False, progress=None):
             req = Request(url + "?fields=externalIds,abstract", data=payload, headers=headers, method="POST")
             with urlopen(req, timeout=30) as resp:
                 results = json.loads(resp.read().decode("utf-8"))
+            batch_ok = True
         except Exception as e:
             print(f"    [S2 批量请求失败] {e}")
             results = [None] * len(batch)
+            batch_ok = False
             time.sleep(3)
 
         time.sleep(1)
@@ -326,14 +351,17 @@ def round2_semantic_scholar(articles, targets, dry_run=False, progress=None):
                 if ab and len(ab) > 30:
                     articles[idx]["abstract"] = ab
                     enriched += 1
-            done_dois.add(doi_lower)
+            if batch_ok:
+                done_dois.add(doi_lower)
 
         progress["round2_done"] = done_dois
 
+        # 每批保存，避免中途中断丢进度
+        save_progress(progress)
+        save_articles(articles)
+
         processed = batch_start + len(batch)
         if processed % 500 == 0 or processed == len(todo):
-            save_progress(progress)
-            save_articles(articles)
             pct = processed / len(todo) * 100
             print(f"  进度: {processed}/{len(todo)} ({pct:.0f}%) | 已补: {enriched}")
 
@@ -356,6 +384,8 @@ def main():
                         help="执行哪几轮（1=OpenAlex, 2=Semantic Scholar），默认 1,2")
     parser.add_argument("--dry-run", action="store_true",
                         help="仅统计，不发送请求、不写入文件")
+    parser.add_argument("--journal", action="append",
+                        help="仅处理指定期刊；可多次传入，或在一次参数中用逗号分隔")
     parser.add_argument("--skip-reviews", action="store_true",
                         help="跳过疑似书评/编辑说明类文章（这些文章通常不存在摘要）")
     parser.add_argument("--reset", action="store_true",
@@ -376,11 +406,16 @@ def main():
     # 加载数据
     articles = load_articles()
     print(f"文章总数: {len(articles):,}")
+    selected_journals = parse_selected_journals(args.journal, articles)
+    if selected_journals:
+        print(f"限定期刊: {', '.join(sorted(selected_journals))}")
 
     # 找出所有有 DOI 但缺摘要的文章
     targets = []
     skipped_reviews = 0
     for i, a in enumerate(articles):
+        if selected_journals and a.get("journal", "").strip() not in selected_journals:
+            continue
         if a.get("doi", "").strip() and not a.get("abstract", "").strip():
             if skip_reviews and is_likely_review(a.get("title", "")):
                 skipped_reviews += 1

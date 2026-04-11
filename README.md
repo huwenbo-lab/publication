@@ -1,6 +1,6 @@
 # 社会学与人口学期刊文献数据库
 
-24本核心期刊、2000年至今、34,000+ 篇文章元数据（标题、摘要、作者、DOI）。
+25本核心期刊、2000年至今、34,000+ 篇文章元数据（标题、摘要、作者、DOI）。
 
 研究领域：社会分层 · 婚姻与家庭 · 人口学 · 教育社会学 · 性别 · 劳动与就业
 
@@ -8,13 +8,14 @@
 
 ---
 
-## 期刊列表（24本）
+## 期刊列表（25本）
 
 | 期刊 | ISSN | 数据起始年 |
 |---|---|---|
 | American Journal of Sociology | 0002-9602 | 2000 |
 | American Sociological Review | 0003-1224 | 2000 |
 | Annual Review of Sociology | 0360-0572 | 2000 |
+| Asian Population Studies | 1744-1730 | 2005 |
 | British Journal of Sociology | 0007-1315 | 2000 |
 | British Journal of Sociology of Education | 0142-5692 | 2000 |
 | Chinese Journal of Sociology | 2057-150X | 2015 |
@@ -45,12 +46,14 @@
 publication/
 ├── README.md                  # 本文件
 ├── CLAUDE.md                  # 项目说明（供 Claude Code 使用）
-├── index.html                 # GitHub Pages 前端浏览页面
+├── index.html                 # GitHub Pages 前端入口
+├── app.js                     # 前端逻辑（搜索 / 浏览 / SQLite 回退）
+├── style.css                  # 前端样式
 ├── .nojekyll                  # GitHub Pages 配置
 │
 ├── articles.json              # 主数据文件（34k条，新格式）
-├── data.json                  # 旧格式（供 index.html 使用）
-├── data.js                    # JavaScript 版（供 index.html 加载）
+├── data.json                  # 旧格式备用数据（前端回退模式使用）
+├── data.js                    # JavaScript 版备用数据
 ├── data_quality_report.md     # 数据质量检查报告
 │
 ├── build_articles.py          # 从 XLS 构建 articles.json
@@ -90,7 +93,7 @@ publication/
 | `year` | int | 发表年份 |
 | `doi` | string | DOI 标识符 |
 
-> `data.json` / `data.js` 使用旧字段名（`Source Title`, `Publication Year` 等），供 `index.html` 前端使用。
+> `data.json` / `data.js` 使用旧字段名（`Source Title`, `Publication Year` 等），现主要作为前端回退模式的数据源。
 
 ---
 
@@ -114,7 +117,7 @@ python build_search_db.py     # 重建全文检索数据库
 
 ## 全文检索
 
-`build_search_db.py` 基于 SQLite FTS5 构建本地全文检索数据库（`literature.db`，约 53 MB），支持对标题和摘要的关键词搜索，毫秒级返回结果。
+`build_search_db.py` 基于 SQLite FTS5 构建本地全文检索数据库（`literature.db`，约 64 MB），支持对标题、摘要和作者的关键词搜索，毫秒级返回结果。
 
 ```bash
 # 构建索引（首次使用，或 articles.json 更新后重建）
@@ -142,7 +145,7 @@ python build_search_db.py --rebuild
 - OR 逻辑：`marriage OR cohabitation`
 - NOT 逻辑：`fertility NOT mortality`
 
-> `literature.db` 为生成文件，不纳入 git 版本管理，可随时从 `articles.json` 重建。
+> `literature.db` 为生成文件，不纳入 git 版本管理，可随时从 `articles.json` 重建。若要在网页端启用浏览器内 SQLite 搜索，需要将该文件一并发布。
 
 ---
 

@@ -40,12 +40,12 @@ def build(verbose=True):
     cur.execute("DROP TABLE IF EXISTS articles")
     cur.execute("DROP TABLE IF EXISTS articles_meta")
 
-    # FTS5 虚拟表（title + abstract 参与全文索引，其余字段仅存储）
+    # FTS5 虚拟表（title + abstract + authors 参与全文索引，其余字段仅存储）
     cur.execute("""
         CREATE VIRTUAL TABLE articles USING fts5(
             title,
             abstract,
-            authors    UNINDEXED,
+            authors,
             journal    UNINDEXED,
             year       UNINDEXED,
             doi        UNINDEXED,

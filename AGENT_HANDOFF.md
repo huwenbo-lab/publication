@@ -79,13 +79,14 @@
 }
 ```
 
-### 24 本期刊列表（含 ISSN）
+### 25 本期刊列表（含 ISSN）
 
 | 期刊名 | ISSN | 数据起始年 |
 |---|---|---|
 | American Journal of Sociology | 0002-9602 | 2000 |
 | American Sociological Review | 0003-1224 | 2000 |
 | Annual Review of Sociology | 0360-0572 | 2000 |
+| Asian Population Studies | 1744-1730 | 2005 |
 | British Journal of Sociology | 0007-1315 | 2000 |
 | British Journal of Sociology of Education | 0142-5692 | 2000 |
 | Chinese Journal of Sociology | 2057-150X | 2015 |
@@ -119,7 +120,7 @@
   - Phase 1：有 DOI 无摘要 → 直接查 CrossRef 补摘要
   - Phase 2：无 DOI → 按标题搜索 CrossRef 补 DOI
   - Phase 3：已有 Excel 的期刊补历史缺口年份（2000 年起）
-  - Phase 4：7 本无 Excel 的期刊从 CrossRef 全量抓取（Sociological Science、Socius、Gender & Society 等）
+  - Phase 4：8 本无 Excel 的期刊从 CrossRef 全量抓取（新增 Asian Population Studies 后共 8 本）
 - **OpenAlex + Semantic Scholar**（`enrich_openalex.py`）：对 CrossRef 仍缺摘要的 9,718 篇研究论文二次补全，新增 5,650 篇摘要
 
 ### 4.2 数据清洗（`clean_data.py`，最近完成）

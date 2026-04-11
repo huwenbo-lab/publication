@@ -1,7 +1,7 @@
 """
 update.py — 自动更新脚本
 
-从CrossRef抓取24本期刊的最新文章，去重后追加到数据库。
+从CrossRef抓取25本期刊的最新文章，去重后追加到数据库。
 
 用法：
   source venv/bin/activate
@@ -35,11 +35,12 @@ MAILTO = "hwbruc@gmail.com"
 SLEEP_SEC = 1.0
 CROSSREF_BASE = "https://api.crossref.org"
 
-# 24本期刊配置
+# 25本期刊配置
 JOURNALS = {
     "American Journal of Sociology":                {"issn": "0002-9602", "start_year": 2000},
     "American Sociological Review":                  {"issn": "0003-1224", "start_year": 2000},
     "Annual Review of Sociology":                    {"issn": "0360-0572", "start_year": 2000},
+    "Asian Population Studies":                      {"issn": "1744-1730", "start_year": 2005},
     "British Journal of Sociology":                  {"issn": "0007-1315", "start_year": 2000},
     "British Journal of Sociology of Education":     {"issn": "0142-5692", "start_year": 2000},
     "Chinese Journal of Sociology":                  {"issn": "2057-150X", "start_year": 2015},
