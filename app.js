@@ -1,4 +1,4 @@
-const SQL_JS_BASE = "https://sql.js.org/dist";
+const SQL_JS_BASE = "vendor/sqljs";
 const PAGE_SIZE = 50;
 const FAVORITES_STORAGE_KEY = "publication:favorites:v1";
 const THEME_STORAGE_KEY = "publication:theme:v1";
@@ -93,12 +93,14 @@ const app = {
     favorites: new Map(),
     engine: "loading",
     engineMessage: "正在连接浏览器内检索引擎…",
+    sqliteInitError: "",
     staticIndexesLoaded: false,
     theme: "light",
     state: {
         mode: "search",
         q: "",
         journals: [],
+        journalFacetQuery: "",
         yearFrom: "",
         yearTo: "",
         hasAbstractOnly: false,
@@ -106,6 +108,7 @@ const app = {
         page: 1,
         browseJournal: "",
         browseYear: "",
+        browseJournalQuery: "",
         activeArticleKey: "",
         activeArticleDoi: "",
         favoritesOpen: false,
@@ -645,6 +648,8 @@ function cacheDom() {
     dom.yearFrom = $("year-from");
     dom.yearTo = $("year-to");
     dom.hasAbstractOnly = $("has-abstract-only");
+    dom.journalFilterQuery = $("journal-filter-query");
+    dom.journalFilterSummary = $("journal-filter-summary");
     dom.filterContainer = $("journal-filters");
     dom.activeFilters = $("active-filters");
     dom.resultSummary = $("result-summary");
@@ -655,6 +660,8 @@ function cacheDom() {
     dom.searchNotice = $("search-notice");
     dom.browseStatus = $("browse-status");
     dom.browseBreadcrumbs = $("browse-breadcrumbs");
+    dom.browseJournalQuery = $("browse-journal-query");
+    dom.browseJournalSummary = $("browse-journal-summary");
     dom.journalRail = $("journal-rail");
     dom.yearGrid = $("year-grid");
     dom.articleList = $("browse-article-list");
@@ -888,6 +895,21 @@ async function initSqliteEngine() {
     app.facets = loadFacetsFromDb();
     app.engine = "sqlite";
     app.engineMessage = "已启用浏览器内 SQLite FTS5，可直接搜标题、摘要和作者。";
+    app.sqliteInitError = "";
+}
+
+function buildSqliteFailureMessage(error) {
+    const message = String(error?.message || "").trim();
+    if (!message) {
+        return "浏览器内 SQLite 初始化失败，页面已回退到备用 JSON 模式。";
+    }
+    if (message.includes("literature.db 不可用")) {
+        return `当前部署没有成功提供 literature.db。${message}`;
+    }
+    if (message.includes("SQL.js runtime 未加载")) {
+        return "SQLite 运行时没有正常加载，页面已回退到备用 JSON 模式。";
+    }
+    return `浏览器内 SQLite 初始化失败，页面已回退到备用 JSON 模式。${message}`;
 }
 
 function queryDb(sql, params = {}) {
@@ -1072,7 +1094,8 @@ async function initDataSources() {
     } catch (error) {
         console.warn(error);
         app.engine = "fallback";
-        app.engineMessage = "未找到可发布的 literature.db，页面会在需要时加载 data.json 作为备用模式。若要启用毫秒级网页搜索，请将 literature.db 一并发布。";
+        app.sqliteInitError = String(error?.message || "");
+        app.engineMessage = buildSqliteFailureMessage(error);
     }
     try {
         await loadStaticIndexes();
@@ -1491,11 +1514,32 @@ function groupFacets() {
 function renderJournalFilters() {
     if (!app.facets) {
         dom.filterContainer.innerHTML = '<div class="empty-state">筛选项会在数据源准备好后显示。</div>';
+        if (dom.journalFilterSummary) {
+            dom.journalFilterSummary.textContent = "正在准备期刊列表…";
+        }
         return;
     }
 
     const selected = new Set(app.state.journals);
-    dom.filterContainer.innerHTML = groupFacets().map((group) => `
+    const query = normalizeText(app.state.journalFacetQuery);
+    const groups = groupFacets()
+        .map((group) => ({
+            ...group,
+            items: group.items.filter((item) => !query || normalizeText(item.journal).includes(query)),
+        }))
+        .filter((group) => group.items.length);
+    const visibleCount = groups.reduce((sum, group) => sum + group.items.length, 0);
+    if (dom.journalFilterSummary) {
+        const selectedCount = app.state.journals.length;
+        dom.journalFilterSummary.textContent = query
+            ? `当前显示 ${formatNumber(visibleCount)} 本期刊${selectedCount ? ` · 已选 ${formatNumber(selectedCount)} 本` : ""}`
+            : `共 ${formatNumber(app.facets.length)} 本期刊${selectedCount ? ` · 已选 ${formatNumber(selectedCount)} 本` : ""}`;
+    }
+    if (!groups.length) {
+        dom.filterContainer.innerHTML = '<div class="sidebar-empty">没有匹配的期刊名。可以缩短关键词，或直接清空上面的过滤输入。</div>';
+        return;
+    }
+    dom.filterContainer.innerHTML = groups.map((group) => `
         <section class="facet-group">
             <h3 class="facet-title">${escapeHtml(group.label)}</h3>
             <div class="facet-list">
@@ -1816,6 +1860,7 @@ async function renderSearchView() {
     dom.yearFrom.value = app.state.yearFrom;
     dom.yearTo.value = app.state.yearTo;
     dom.hasAbstractOnly.checked = app.state.hasAbstractOnly;
+    dom.journalFilterQuery.value = app.state.journalFacetQuery;
     dom.sortSelect.value = app.state.sort;
     renderJournalFilters();
     renderActiveFilters();
@@ -1831,7 +1876,7 @@ async function renderSearchView() {
         clearActiveNavigationSelection();
         dom.searchNotice.innerHTML = `
             <div class="notice-box warning">
-                当前尚未发布 <code>literature.db</code>，所以搜索引擎还没法直接在网页端启动。
+                ${escapeHtml(app.engineMessage)}
                 你现在可以直接进入“浏览”标签，或开始搜索时由页面按需加载备用 JSON 数据。
             </div>
         `;
@@ -1853,7 +1898,7 @@ async function renderSearchView() {
         `
         : `
             <div class="notice-box warning">
-                当前为备用 JSON 模式。基础搜索可用，但不支持完整 FTS5 语法和高亮排序。
+                当前为备用 JSON 模式。${escapeHtml(app.engineMessage)} 基础搜索可用，但不支持完整 FTS5 语法和高亮排序。
             </div>
         `;
 
@@ -1945,7 +1990,19 @@ function getBrowseArticlesFromFallback(journal, year) {
 }
 
 function renderBrowseJournals(journals) {
-    dom.journalRail.innerHTML = journals.map((item) => `
+    const query = normalizeText(app.state.browseJournalQuery);
+    const filtered = journals.filter((item) => !query || normalizeText(item.journal).includes(query));
+    if (dom.browseJournalSummary) {
+        const selectedLabel = app.state.browseJournal ? ` · 当前：${app.state.browseJournal}` : "";
+        dom.browseJournalSummary.textContent = query
+            ? `当前显示 ${formatNumber(filtered.length)} / ${formatNumber(journals.length)} 本期刊${selectedLabel}`
+            : `共 ${formatNumber(journals.length)} 本期刊，可按刊名快速过滤${selectedLabel}`;
+    }
+    if (!filtered.length) {
+        dom.journalRail.innerHTML = '<div class="sidebar-empty">没有匹配的期刊名。试试删掉一部分关键词。</div>';
+        return;
+    }
+    dom.journalRail.innerHTML = filtered.map((item) => `
         <button class="journal-rail-btn ${app.state.browseJournal === item.journal ? "active" : ""}" data-browse-journal="${escapeHtml(item.journal)}">
             <strong>${escapeHtml(item.journal)}</strong>
             <span class="journal-rail-meta">
@@ -2033,6 +2090,7 @@ async function renderBrowseView() {
         renderDatasetMeta();
         renderJournalFilters();
     }
+    dom.browseJournalQuery.value = app.state.browseJournalQuery;
     const journals = getBrowseJournals();
     const years = app.state.browseJournal
         ? (app.engine === "sqlite"
@@ -2047,7 +2105,7 @@ async function renderBrowseView() {
 
     dom.browseStatus.innerHTML = app.engine === "sqlite"
         ? '<div class="notice-box">浏览模式同样直接读取 SQLite 库，不再依赖同步加载的 <code>data.js</code>。</div>'
-        : '<div class="notice-box warning">当前浏览模式使用备用 JSON 数据。若要在网页端启用快速搜索，请把 <code>literature.db</code> 一并发布。</div>';
+        : `<div class="notice-box warning">当前浏览模式使用备用 JSON 数据。${escapeHtml(app.engineMessage)}</div>`;
     renderBrowseBreadcrumbs();
     renderBrowseJournals(journals);
     renderBrowseYears(years);
@@ -2080,6 +2138,7 @@ async function renderAll() {
 
 function resetSearchFilters() {
     app.state.journals = [];
+    app.state.journalFacetQuery = "";
     app.state.yearFrom = "";
     app.state.yearTo = "";
     app.state.hasAbstractOnly = false;
@@ -2171,6 +2230,11 @@ function bindEvents() {
             clearActiveNavigationSelection();
             await renderAll();
         }, 240);
+    });
+
+    dom.journalFilterQuery.addEventListener("input", async () => {
+        app.state.journalFacetQuery = dom.journalFilterQuery.value;
+        await renderAll();
     });
 
     dom.quickSearches.addEventListener("click", async (event) => {
@@ -2321,6 +2385,11 @@ function bindEvents() {
         app.state.browseJournal = button.dataset.browseJournal;
         app.state.browseYear = "";
         clearActiveNavigationSelection();
+        await renderAll();
+    });
+
+    dom.browseJournalQuery.addEventListener("input", async () => {
+        app.state.browseJournalQuery = dom.browseJournalQuery.value;
         await renderAll();
     });
 
