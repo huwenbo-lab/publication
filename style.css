@@ -987,6 +987,7 @@ code {
     gap: 8px;
     max-height: 72vh;
     overflow: auto;
+    margin-top: 12px;
 }
 
 .journal-rail-btn,
@@ -1016,6 +1017,14 @@ code {
     margin-top: 5px;
     color: var(--ink-soft);
     font-size: 0.82rem;
+}
+
+.sidebar-empty {
+    padding: 14px;
+    border-radius: 14px;
+    background: var(--surface-soft);
+    color: var(--ink-soft);
+    line-height: 1.7;
 }
 
 .year-grid {

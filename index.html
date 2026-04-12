@@ -108,9 +108,13 @@
                 </div>
                 <div class="sidebar-section">
                     <div class="browse-header">
-                        <h2>期刊筛选</h2>
+                        <div>
+                            <h2>期刊筛选</h2>
+                            <div id="journal-filter-summary" class="helper-text">正在准备期刊列表…</div>
+                        </div>
                         <button id="clear-filters" type="button" class="tiny-btn">清空</button>
                     </div>
+                    <input id="journal-filter-query" class="field" type="search" placeholder="输入期刊名筛选">
                     <div id="journal-filters"></div>
                 </div>
             </aside>
@@ -161,9 +165,13 @@
         <div class="browse-layout">
             <aside class="sidebar sticky panel">
                 <div class="browse-header">
-                    <h2>期刊总览</h2>
+                    <div>
+                        <h2>期刊总览</h2>
+                        <div id="browse-journal-summary" class="helper-text">按刊名快速过滤左侧列表。</div>
+                    </div>
                     <button id="browse-reset" type="button" class="tiny-btn">回到全部</button>
                 </div>
+                <input id="browse-journal-query" class="field" type="search" placeholder="输入期刊名筛选">
                 <div id="journal-rail" class="journal-rail"></div>
             </aside>
 
@@ -273,7 +281,7 @@
 </div>
 
 <script id="article-schema" type="application/ld+json"></script>
-<script src="https://sql.js.org/dist/sql-wasm.js"></script>
+<script src="vendor/sqljs/sql-wasm.js"></script>
 <script src="app.js"></script>
 </body>
 </html>
