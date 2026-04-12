@@ -1511,6 +1511,29 @@ function groupFacets() {
     return groups;
 }
 
+function getSelectedFacetItems() {
+    const selected = new Set(app.state.journals);
+    return (app.facets || [])
+        .filter((item) => selected.has(item.journal))
+        .sort((a, b) => a.journal.localeCompare(b.journal));
+}
+
+function renderSelectedJournalPills(items, emptyText = "") {
+    if (!items.length) {
+        return emptyText ? `<div class="helper-text">${escapeHtml(emptyText)}</div>` : "";
+    }
+    return `
+        <div class="selected-journal-list">
+            ${items.map((item) => `
+                <button type="button" class="selected-journal-chip" data-remove-journal="${escapeHtml(item.journal)}">
+                    <strong>${escapeHtml(item.journal)}</strong>
+                    <span>${formatNumber(item.total)} 篇</span>
+                </button>
+            `).join("")}
+        </div>
+    `;
+}
+
 function renderJournalFilters() {
     if (!app.facets) {
         dom.filterContainer.innerHTML = '<div class="empty-state">筛选项会在数据源准备好后显示。</div>';
@@ -1539,9 +1562,25 @@ function renderJournalFilters() {
         dom.filterContainer.innerHTML = '<div class="sidebar-empty">没有匹配的期刊名。可以缩短关键词，或直接清空上面的过滤输入。</div>';
         return;
     }
-    dom.filterContainer.innerHTML = groups.map((group) => `
+    const selectedItems = getSelectedFacetItems();
+    const selectedBlock = selectedItems.length ? `
+        <section class="facet-group facet-group-selected">
+            <div class="browse-header">
+                <div>
+                    <h3 class="facet-title">已选期刊</h3>
+                    <div class="helper-text">点一下即可移除，不必再回到对应学科里找。</div>
+                </div>
+                <button type="button" class="tiny-btn" data-clear-filter="journals">清空已选</button>
+            </div>
+            ${renderSelectedJournalPills(selectedItems)}
+        </section>
+    ` : "";
+    dom.filterContainer.innerHTML = selectedBlock + groups.map((group) => `
         <section class="facet-group">
-            <h3 class="facet-title">${escapeHtml(group.label)}</h3>
+            <div class="facet-title-row">
+                <h3 class="facet-title">${escapeHtml(group.label)}</h3>
+                <span class="facet-count">${formatNumber(group.items.length)} 本</span>
+            </div>
             <div class="facet-list">
                 ${group.items.map((item) => `
                     <label class="facet-item">
@@ -2002,13 +2041,45 @@ function renderBrowseJournals(journals) {
         dom.journalRail.innerHTML = '<div class="sidebar-empty">没有匹配的期刊名。试试删掉一部分关键词。</div>';
         return;
     }
-    dom.journalRail.innerHTML = filtered.map((item) => `
+    const activeJournal = filtered.find((item) => item.journal === app.state.browseJournal) || null;
+    const remaining = activeJournal
+        ? filtered.filter((item) => item.journal !== activeJournal.journal)
+        : filtered;
+    const renderedGroups = groupFacets()
+        .map((group) => ({
+            label: group.label,
+            items: remaining.filter((item) => group.items.some((facet) => facet.journal === item.journal)),
+        }))
+        .filter((group) => group.items.length);
+    const seen = new Set(renderedGroups.flatMap((group) => group.items.map((item) => item.journal)));
+    const others = remaining.filter((item) => !seen.has(item.journal));
+    if (others.length) {
+        renderedGroups.push({ label: "其他", items: others });
+    }
+    const renderJournalButton = (item) => `
         <button class="journal-rail-btn ${app.state.browseJournal === item.journal ? "active" : ""}" data-browse-journal="${escapeHtml(item.journal)}">
             <strong>${escapeHtml(item.journal)}</strong>
             <span class="journal-rail-meta">
                 ${formatNumber(item.total)} 篇 · ${escapeHtml(item.minYear || "?")}-${escapeHtml(item.maxYear || "?")}
             </span>
         </button>
+    `;
+    const activeBlock = activeJournal ? `
+        <section class="journal-rail-group">
+            <div class="journal-rail-group-title">当前期刊</div>
+            ${renderJournalButton(activeJournal)}
+        </section>
+    ` : "";
+    dom.journalRail.innerHTML = activeBlock + renderedGroups.map((group) => `
+        <section class="journal-rail-group">
+            <div class="journal-rail-group-title">
+                <span>${escapeHtml(group.label)}</span>
+                <span class="facet-count">${formatNumber(group.items.length)} 本</span>
+            </div>
+            <div class="journal-rail-group-list">
+                ${group.items.map(renderJournalButton).join("")}
+            </div>
+        </section>
     `).join("");
 }
 
@@ -2296,6 +2367,24 @@ function bindEvents() {
         app.state.page = 1;
         clearActiveNavigationSelection();
         await renderAll();
+    });
+
+    dom.filterContainer.addEventListener("click", async (event) => {
+        const removeButton = event.target.closest("[data-remove-journal]");
+        if (removeButton) {
+            app.state.journals = app.state.journals.filter((journal) => journal !== removeButton.dataset.removeJournal);
+            app.state.page = 1;
+            clearActiveNavigationSelection();
+            await renderAll();
+            return;
+        }
+        const clearButton = event.target.closest("[data-clear-filter]");
+        if (clearButton?.dataset.clearFilter === "journals") {
+            app.state.journals = [];
+            app.state.page = 1;
+            clearActiveNavigationSelection();
+            await renderAll();
+        }
     });
 
     dom.clearFilters.addEventListener("click", async () => {
