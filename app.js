@@ -190,7 +190,7 @@ function truncateText(value, maxChars = 280) {
 
 function buildDoiUrl(doi) {
     const clean = String(doi ?? "").trim();
-    return clean ? `https://doi.org/${encodeURIComponent(clean)}` : "";
+    return clean ? `https://doi.org/${clean}` : "";
 }
 
 function buildScholarUrl(title) {
@@ -885,7 +885,7 @@ async function initSqliteEngine() {
     const SQL = await initSqlJs({
         locateFile: (file) => `${SQL_JS_BASE}/${file}`,
     });
-    const response = await fetch("literature.db", { cache: "no-cache" });
+    const response = await fetch("literature.db");
     if (!response.ok) {
         throw new Error(`literature.db 不可用 (${response.status})`);
     }
@@ -2198,12 +2198,6 @@ async function renderAll() {
     }
     await renderArticleModal();
     renderFavoritesModal();
-    renderEngineStatus();
-    renderDatasetMeta();
-    renderDisciplinePresets();
-    renderQuickSearches();
-    renderDashboardVisibility();
-    renderDashboard();
     syncUrl();
 }
 
