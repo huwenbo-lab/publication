@@ -1,7 +1,7 @@
 # European Journal of Population
 ## 2020–2026 年文章（含摘要）
 
-共 **210** 篇
+共 **212** 篇
 
 ---
 
@@ -39,6 +39,16 @@
 **年份**: 2026 | **DOI**: [10.1007/s10680-026-09767-9](https://doi.org/10.1007/s10680-026-09767-9)
 **作者**: Balbo, Nicoletta; Burciu, Roxana-Diana
 **摘要**: This paper sheds light on the health-related, economic, and social well-being of single parents of children with disabilities, a population often overlooked in research. Much literature examines single parenthood and child disability independently and generally finds negative consequences of experie…
+
+### A Double Decomposition of Standard Deviation Below the Modal Age at Death and the Role of Causes of Death
+**年份**: 2026 | **DOI**: [10.1007/s10680-025-09762-6](https://doi.org/10.1007/s10680-025-09762-6)
+**作者**: Diaconu, Viorela; Zarulli, Virginia; Mazzuco, Stefano
+**摘要**: Abstract Lifespan inequality is a fundamental indicator of population health, reflecting inequalities in the timing of death. Life expectancy-based indicators have been widely used to monitor changes in lifespan variation across populations.…
+
+### Getting In and Staying In? The Relative Contributions of Entering and Exiting Employment to Early Labour Market Trajectories of Migrants’ Daughters Versus Native Women
+**年份**: 2026 | **DOI**: [10.1007/s10680-026-09771-z](https://doi.org/10.1007/s10680-026-09771-z)
+**作者**: Maes, Julie; Wood, Jonas; Neels, Karel
+**摘要**: （暂无）
 
 ### Origin, Generation, and Destination Country Context: Employment Changes and Childbearing Among Female Immigrants and Their Descendants in the UK, France, and Germany
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09750-w](https://doi.org/10.1007/s10680-025-09750-w)

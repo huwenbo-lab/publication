@@ -1,9 +1,14 @@
 # Social Forces
 ## 2020–2026 年文章（含摘要）
 
-共 **488** 篇
+共 **490** 篇
 
 ---
+
+### Review of “The Secrets of Silence: The Everyday Policing of Black Women and Their Stories About Violence”
+**年份**: 2026 | **DOI**: [10.1093/sf/soag018](https://doi.org/10.1093/sf/soag018)
+**作者**: Friedman, Brittany
+**摘要**: （暂无）
 
 ### Financialization and unintended emission reductions: evidence from the OECD, 1995-2020
 **年份**: 2025 | **DOI**: [10.1093/sf/soaf220](https://doi.org/10.1093/sf/soaf220)
@@ -2124,6 +2129,11 @@
 **年份**: 2021 | **DOI**: [10.1093/sf/soaa046](https://doi.org/10.1093/sf/soaa046)
 **作者**: Garrido, Marco
 **摘要**: Scholars contend that weak institutions as manifest in corruption and bad governance are driving people towards illiberal forms of democracy. This explanation is underspecified. It does not make clear why people are turning towards authoritarian rule instead of working to strengthen democratic insti…
+
+### Review of “Believing in South Central: Everyday Islam in the City of Angels”
+**年份**: 2021 | **DOI**: [10.1093/sf/soab099](https://doi.org/10.1093/sf/soab099)
+**作者**: Yukich, Grace
+**摘要**: （暂无）
 
 ### Happiness in Hard Times: Does Religion Buffer the Negative Effect of Unemployment on Happiness?
 **年份**: 2020 | **DOI**: [10.1093/sf/soaa018](https://doi.org/10.1093/sf/soaa018)

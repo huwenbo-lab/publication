@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2220** 篇 | 年份范围：2000–2026
+共 **2249** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -22,6 +22,10 @@
 - Online social class cues and employability: Experimental evidence from Germany · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103258)
 - Do state-funded Alternatives to Abortion programs reduce abortion rates? A longitudinal analysis · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103259)
 - Mob mentality: Social norms affect the approval and perceived morality of unjustified police violence · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103253)
+- The structural fit of personal gender beliefs: A cross-national analysis of its implications for life satisfaction · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103308)
+- Is my manager feeling threatened by me? Racial differences in content and activation of threat metastereotypes · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103306)
+- Polluting student test performance: School-based evidence on the adverse effects of air pollution · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103343)
+- The gender system: A cross-national perspective · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103344)
 
 ## 2025
 
@@ -126,6 +130,7 @@
 - Adaptive educational expectations: How do parental educational expectations respond to child academic performance in various family contexts? · [DOI](https://doi.org/10.1016/j.ssresearch.2024.103097)
 - All in the family? Understanding differences in the kin-centricity of older US adults' core discussion networks from classic age, period, and cohort table estimates · [DOI](https://doi.org/10.1016/j.ssresearch.2024.103098)
 - The effect of grandparental involvement on grandchildren's school grades: Heterogeneity by the extended family characteristics · [DOI](https://doi.org/10.1016/j.ssresearch.2024.103095)
+- Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(24)00141-8)
 
 ## 2024
 
@@ -395,6 +400,7 @@
 - Proximate sources of growth in neighborhood income segregation: Class-selective migration versus in sita change · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102624)
 - Gender inequality in relational position-taking: An analysis of intra-organizational job mobility networks · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102622)
 - The impact of anticipated, vicarious, and experienced racial and ethnic discrimination on depression and suicidal behavior among Chicago youth · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102623)
+- Gender, union formation, and assortative mating among older women · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102656)
 
 ## 2021
 
@@ -1037,6 +1043,10 @@
 - Preferences, constraints, and the process of sex segregation in college majors: A choice analysis · [DOI](https://doi.org/10.1016/j.ssresearch.2015.12.008)
 - Discovering complex interrelationships between socioeconomic status and health in Europe: A case study applying Bayesian Networks · [DOI](https://doi.org/10.1016/j.ssresearch.2015.12.011)
 - The human dimensions of climate change: A micro-level assessment of views from the ecological modernization, political economy and human ecology perspectives · [DOI](https://doi.org/10.1016/j.ssresearch.2015.10.003)
+- Education and fertility decline in China during transitional times: A cohort approach · [DOI](https://doi.org/10.1016/j.ssresearch.2015.10.001)
+- Grandparents' resources and grandchildren's schooling: Does grandparental involvement moderate the grandparent effect? · [DOI](https://doi.org/10.1016/j.ssresearch.2015.09.011)
+- Neither bridging nor bonding · [DOI](https://doi.org/10.1016/j.ssresearch.2015.09.005)
+- The declining influence of family background on educational attainment in Australia: The role of measured and unmeasured influences · [DOI](https://doi.org/10.1016/j.ssresearch.2015.10.002)
 
 ## 2015
 
@@ -2305,3 +2315,67 @@
 - Author Index for Volume 29 · [DOI](https://doi.org/10.1006/ssre.2000.0690)
 - Acknowledgment · [DOI](https://doi.org/10.1006/ssre.2000.0689)
 - Skills Shifts and Black Male Joblessness in Major Urban Labor Markets over the 1980's · [DOI](https://doi.org/10.1006/ssre.1999.0672)
+
+## 1999
+
+- Earnings Returns to Occupational Status: Are Asian Americans Disadvantaged? · [DOI](https://doi.org/10.1006/ssre.1998.0634)
+- Does Rising Income Bring Integration? New Results for Blacks, Hispanics, and Asians in 1990 · [DOI](https://doi.org/10.1006/ssre.1999.0660)
+
+## 1998
+
+- The Academic Success of East-Asian–American Students—An Investment Model · [DOI](https://doi.org/10.1006/ssre.1998.0629)
+
+## 1997
+
+- How Do Americans Want to Die? A Factorial Vignette Survey of Public Attitudes about End-of-Life Medical Decision-Making · [DOI](https://doi.org/10.1006/ssre.1996.0587)
+- Instrumental Variables for Logistic Regression: An Illustration · [DOI](https://doi.org/10.1006/ssre.1997.0606)
+
+## 1996
+
+- The Effect of Military Service on Educational, Occupational, and Income Attainment · [DOI](https://doi.org/10.1006/ssre.1996.0001)
+
+## 1995
+
+- A Resource Dependence Approach To Organizational Failure · [DOI](https://doi.org/10.1006/ssre.1995.1002)
+
+## 1994
+
+- Collaboration in the Invention of Technology: Globalization, Regions, and Centers · [DOI](https://doi.org/10.1006/ssre.1994.1002)
+
+## 1993
+
+- Attitudes about Abortion and Varying Attitude Structures · [DOI](https://doi.org/10.1006/ssre.1993.1013)
+- The Corporate Elite Goes To Washington: Presidential Campaign Contributions of Corporate Officers · [DOI](https://doi.org/10.1006/ssre.1993.1004)
+- Problem-Solving Networks in Organizations: Intentional Design and Emergent Structure · [DOI](https://doi.org/10.1006/ssre.1993.1005)
+
+## 1992
+
+- A standard international socio-economic index of occupational status · [DOI](https://doi.org/10.1016/0049-089x(92)90017-b)
+
+## 1991
+
+- Estimating the size of an average personal network and of an event subpopulation: Some empirical results · [DOI](https://doi.org/10.1016/0049-089x(91)90012-r)
+
+## 1989
+
+- Dropping out among Hispanic youth · [DOI](https://doi.org/10.1016/0049-089x(89)90002-1)
+
+## 1988
+
+- Estimation and hypothesis testing for seemingly unrelated regressions: A sociological application · [DOI](https://doi.org/10.1016/0049-089x(88)90010-5)
+
+## 1986
+
+- Bilingualism and Hispanic scholastic achievement: Some baseline results · [DOI](https://doi.org/10.1016/0049-089x(86)90003-7)
+
+## 1979
+
+- On forming variable set composites to summarize a block recursive model · [DOI](https://doi.org/10.1016/0049-089x(79)90003-6)
+
+## 1978
+
+- Sex similarities in occupational status attainment: Are the results due to the restriction of the sample to employed women? · [DOI](https://doi.org/10.1016/0049-089x(78)90011-x)
+
+## 1972
+
+- A lower-bound method for the dimension-free measurement of internal consistency · [DOI](https://doi.org/10.1016/0049-089x(72)90082-8)

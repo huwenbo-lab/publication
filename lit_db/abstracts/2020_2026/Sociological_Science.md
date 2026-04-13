@@ -1,7 +1,7 @@
 # Sociological Science
 ## 2020–2026 年文章（含摘要）
 
-共 **198** 篇
+共 **200** 篇
 
 ---
 
@@ -89,6 +89,16 @@
 **年份**: 2026 | **DOI**: [10.15195/v13.a3](https://doi.org/10.15195/v13.a3)
 **作者**: Alvero, AJ; Stoltz, Dustin; Stuhler, Oscar 等4人
 **摘要**: Generative artificial intelligence (GenAI) has garnered considerable attention for its poten- tial utility in research and scholarship, even among those who typically do not rely on computational tools.…
+
+### Fathers’ Military Service and Children’s College Attainment
+**年份**: 2026 | **DOI**: [10.15195/v13.a18](https://doi.org/10.15195/v13.a18)
+**作者**: Fomby, Paula; van Hissenhoven Flórez, Patricia
+**摘要**: （暂无）
+
+### More Common, Less Equal: Disparities in College Internship Participation Over Time
+**年份**: 2026 | **DOI**: [10.15195/v13.a19](https://doi.org/10.15195/v13.a19)
+**作者**: Shandra, Carrie
+**摘要**: （暂无）
 
 ### Workplace Networks and the Dynamics of Worker Organizing
 **年份**: 2025 | **DOI**: [10.15195/v12.a23](https://doi.org/10.15195/v12.a23)

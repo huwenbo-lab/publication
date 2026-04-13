@@ -1,9 +1,14 @@
 # American Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **225** 篇
+共 **226** 篇
 
 ---
+
+### Pedagogy of Fear: Folklore and the Far-Right in Weimar Germany
+**年份**: 2026 | **DOI**: [10.1177/00031224251409746](https://doi.org/10.1177/00031224251409746)
+**作者**: Amaya, Elena; Braun, Robert
+**摘要**: This article argues that folklore (orally transmitted group knowledge) shapes far-right voting by inculcating feeling rules that resonate with nativist and autocratic ideas. Drawing on recently rediscovered archives of nineteenth- and twentieth-century folklorists, we pair a dataset of local support…
 
 ### Fabricating Communists: The Imagined Third That Reinvented the National Fault Line in Mid-Twentieth-Century Colombia's Civil War
 **年份**: 2025 | **DOI**: [10.1177/00031224251371066](https://doi.org/10.1177/00031224251371066)

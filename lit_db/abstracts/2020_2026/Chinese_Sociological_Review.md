@@ -1,9 +1,14 @@
 # Chinese Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **138** 篇
+共 **139** 篇
 
 ---
+
+### Subjective consequences of social movement participation: the impact of Occupy Central on mental health in Hong Kong
+**年份**: 2026 | **DOI**: [10.1080/21620555.2026.2650269](https://doi.org/10.1080/21620555.2026.2650269)
+**作者**: Miao, Jia; Wu, Xiaogang
+**摘要**: （暂无）
 
 ### Unlocking policy implementation logic: comparative analysis of Chinese Social Credit Systems in Rongcheng and Danyang with an enterprise focus
 **年份**: 2025 | **DOI**: [10.1080/21620555.2025.2568386](https://doi.org/10.1080/21620555.2025.2568386)

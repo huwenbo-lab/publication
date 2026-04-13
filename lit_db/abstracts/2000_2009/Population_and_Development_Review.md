@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2000–2009 年文章（含摘要）
 
-共 **333** 篇
+共 **340** 篇
 
 ---
 
@@ -143,6 +143,10 @@
 ### Charles Galton Darwin on Man's Control of His Numbers
 **年份**: 2009 | **DOI**: [10.1111/j.1728-4457.2009.00299.x](https://doi.org/10.1111/j.1728-4457.2009.00299.x)
 **作者**: [Anonymous]
+**摘要**: （暂无）
+
+### FAO's Director‐General on How to Feed the World in 2050
+**年份**: 2009 | **DOI**: [10.1111/j.1728-4457.2009.00312.x](https://doi.org/10.1111/j.1728-4457.2009.00312.x)
 **摘要**: （暂无）
 
 ### Stages of the demographic transition from a child's perspective: Family size, cohort size, and children's resources
@@ -448,6 +452,11 @@
 ### Yves Guyot on the protection of national labor
 **年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00174.x](https://doi.org/10.1111/j.1728-4457.2007.00174.x)
 **作者**: [Anonymous]
+**摘要**: （暂无）
+
+### On Causation in Demography: Issues and Illustrations
+**年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00157.x](https://doi.org/10.1111/j.1728-4457.2007.00157.x)
+**作者**: Bhrolcháin, Máire Ní; Dyson, Tim
 **摘要**: （暂无）
 
 ### Policy lessons of the East Asian demographic transition
@@ -880,6 +889,19 @@
 **作者**: Ewbank, Douglas
 **摘要**: （暂无）
 
+### Abrupt Climate Change: Inevitable Surprises
+**年份**: 2004 | **DOI**: [10.1111/j.1728-4457.2004.00030.x](https://doi.org/10.1111/j.1728-4457.2004.00030.x)
+**摘要**: Climate change is now well recognized as a potentially significant factor in the human future, affecting ecological systems, agriculture, health, and settlement patterns. The scientific consensus, periodically assessed by the Intergovernmental Panel on Climate Change, foresees a long‐term atmospheri…
+
+### SHORT REVIEWS
+**年份**: 2004 | **DOI**: [10.1111/j.1728-4457.2004.00042.x](https://doi.org/10.1111/j.1728-4457.2004.00042.x)
+**摘要**: Lester R. BrownPlan B: Rescuing a Planet under Stress and a Civilization in TroublePaul A. David and Mark Thomas (eds.) The Economic Future in Historical PerspectiveSarah Earle and Gayle Letherby (eds.) Gender, Identity and Reproduction: Social PerspectivesPaul R. Ehrlich and Anne H.…
+
+### When Does Religion Influence Fertility?
+**年份**: 2004 | **DOI**: [10.1111/j.1728-4457.2004.00002.x](https://doi.org/10.1111/j.1728-4457.2004.00002.x)
+**作者**: McQuillan, Kevin
+**摘要**: Religious affiliation as a determinant of demographic behavior is receiving renewed attention in demography. Interest in the role of cultural factors in affecting fertility and a specific concern with the role of Islam in many developing countries have helped re‐invigorate research on the role of re…
+
 ### Reassessing the insurance effect: A qualitative analysis of fertility behavior in Senegal and Zimbabwe
 **年份**: 2003 | **DOI**: [10.1111/j.1728-4457.2003.00375.x](https://doi.org/10.1111/j.1728-4457.2003.00375.x)
 **作者**: LeGrand, T; Koppenhaver, T; Mondain, N 等4人
@@ -1259,6 +1281,11 @@
 **年份**: 2002 | **DOI**: —
 **作者**: Smil, Vaclav
 **摘要**: （暂无）
+
+### The Emergence of Lowest‐Low Fertility in Europe During the 1990s
+**年份**: 2002 | **DOI**: [10.1111/j.1728-4457.2002.00641.x](https://doi.org/10.1111/j.1728-4457.2002.00641.x)
+**作者**: Kohler, Hans‐Peter; Billari, Francesco C.; Ortega, José Antonio
+**摘要**: Lowest‐low fertility, defined as a period total fertility rate at or below 1.3, has rapidly spread in Europe during the 1990s. This article traces the emergence of this new phenomenon to the interaction of five factors.…
 
 ### Spatial patterns of fertility transition in Indian districts
 **年份**: 2001 | **DOI**: [10.1111/j.1728-4457.2001.00713.x](https://doi.org/10.1111/j.1728-4457.2001.00713.x)
@@ -1669,3 +1696,8 @@
 **年份**: 2000 | **DOI**: —
 **作者**: Tsai, IJ; Chu, CYC; Chung, CF
 **摘要**: （暂无）
+
+### Unmet Need for Family Planning in Developing Countries and Implications for Population Policy
+**年份**: 2000 | **DOI**: [10.1111/j.1728-4457.2000.00691.x](https://doi.org/10.1111/j.1728-4457.2000.00691.x)
+**作者**: Casterline, John B.; Sinding, Steven W.
+**摘要**: Unmet need for family planning has been a core concept in international population discourse for several decades. This article reviews the history of unmet need and the development of increasingly refined methods of its empirical measurement and delineates the main questions that have been raised ab…

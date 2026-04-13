@@ -1,9 +1,34 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **268** 篇
+共 **275** 篇
 
 ---
+
+### Beyond Lowest‐Low Fertility: Why Post‐Transitional Populations Follow Divergent Paths
+**年份**: 2026 | **DOI**: [10.1111/padr.70052](https://doi.org/10.1111/padr.70052)
+**作者**: Gietel‐Basten, Stuart; Pardo, Ignacio
+**摘要**: Abstract This paper argues for a paradigm shift in demography, moving beyond the alarmist and deterministic narratives fixated on “lowest‐low fertility (LLF)” (total fertility rate ≤ 1.3).…
+
+### National Identity and Fertility Intentions: Evidence from Hungary
+**年份**: 2026 | **DOI**: [10.1111/padr.70051](https://doi.org/10.1111/padr.70051)
+**作者**: Erát, Dávid
+**摘要**: Abstract This paper examines the association between national identity, defined as individuals’ cognitive and emotional attachment to the nation, and fertility intentions. A form of social identity, national identity shapes everyday interactions and choices, and individuals with a strong national id…
+
+### Infertility and Unrealized Ideal Family Size
+**年份**: 2026 | **DOI**: [10.1111/padr.70043](https://doi.org/10.1111/padr.70043)
+**作者**: Lazzari, Ester; Beaujouan, Eva
+**摘要**: Abstract Research indicates that people often end their childbearing years with fewer children than they had expected in young adulthood. However, our understanding of the role of infertility in explaining this discrepancy remains limited.…
+
+### Lina‐MariaMurilloFighting for Control: Power, Reproductive Care and Race in the US‐Mexico BorderlandsThe University of North Carolina Press, 2025, 336 p. $29.95
+**年份**: 2026 | **DOI**: [10.1111/padr.70057](https://doi.org/10.1111/padr.70057)
+**作者**: SÁNCHEZ RIVERA, R.
+**摘要**: （暂无）
+
+### The End of an Era: The Vanishing Negative Effect of Women's Employment on Fertility
+**年份**: 2026 | **DOI**: [10.1111/padr.70053](https://doi.org/10.1111/padr.70053)
+**作者**: Matysiak, Anna; Vignoli, Daniele
+**摘要**: Abstract This paper examines whether women's employment in the 21st century remains a barrier to family formation, as it was in the 1980s and 1990s, or—similar to men's—it has become a prerequisite for childbearing.…
 
 ### The Impact of Migration on Age Structure Conducive to Human Development Across the Urban Hierarchy
 **年份**: 2025 | **DOI**: [10.1111/padr.70033](https://doi.org/10.1111/padr.70033)
@@ -1194,6 +1219,15 @@
 **年份**: 2021 | **DOI**: [10.1111/padr.12401](https://doi.org/10.1111/padr.12401)
 **作者**: Breton, Etienne
 **摘要**: Despite decades of sweeping socioeconomic and cultural transformations, extended households remain widespread in many regions of the world. The mechanisms explaining this persistence are not well-established.…
+
+### China's 2020 Fertility and Adoption of a Three‐Child Policy
+**年份**: 2021 | **DOI**: [10.1111/padr.12434](https://doi.org/10.1111/padr.12434)
+**摘要**: （暂无）
+
+### Can Policies Stall the Fertility Fall? A Systematic Review of the (Quasi‐) Experimental Literature
+**年份**: 2021 | **DOI**: [10.1111/padr.12431](https://doi.org/10.1111/padr.12431)
+**作者**: Bergsvik, Janna; Fauske, Agnes; Hart, Rannveig Kaldager
+**摘要**: AbstractIn the course of the twentieth century, social scientists and policy analysts have produced a large volume of literature on whether policies boost fertility. This paper describes the results of a systematic review of the literature on the effects of policy on fertility since 1970 in Europe, …
 
 ### Joseph R. Biden Jr. on Launching an Economic-Environmental Revolution
 **年份**: 2020 | **DOI**: [10.1111/padr.12374](https://doi.org/10.1111/padr.12374)

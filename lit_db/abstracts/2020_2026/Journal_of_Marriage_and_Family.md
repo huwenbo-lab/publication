@@ -1,9 +1,19 @@
 # Journal of Marriage and Family
 ## 2020–2026 年文章（含摘要）
 
-共 **531** 篇
+共 **534** 篇
 
 ---
+
+### The Socioeconomic Gradient in Joint Physical Custody: A Comparison of 32 Countries
+**年份**: 2026 | **DOI**: [10.1111/jomf.70056](https://doi.org/10.1111/jomf.70056)
+**作者**: (Anne) Brons, M. D.; Kalmijn, Matthijs; Poortman, Anne‐Rigt
+**摘要**: ABSTRACT Objective This study investigates the association between mothers' socioeconomic status (SES) and joint physical custody among children, focusing on how the SES gradient in joint physical custody relates to its country‐specific prevalence.…
+
+### Couple Mobility and Employment Patterns. A Gender Perspective in Six European Countries
+**年份**: 2026 | **DOI**: [10.1111/jomf.70063](https://doi.org/10.1111/jomf.70063)
+**作者**: Panichella, Nazareno; Zhelenkova, Antonina; Gaukel, Hanne 等4人
+**摘要**: ABSTRACT Objective This study investigates how different couple‐based geographical mobility strategies affect employment probabilities for men and women in six European countries from a gender perspective.…
 
 ### Gender Norms in Transition? Parents' Housework and Childcare Time in the COVID-19 Era
 **年份**: 2025 | **DOI**: [10.1111/jomf.70053](https://doi.org/10.1111/jomf.70053)
@@ -2659,3 +2669,8 @@
 **年份**: 2020 | **DOI**: [10.1111/jomf.12599](https://doi.org/10.1111/jomf.12599)
 **作者**: van Houdt, Kirsten; Kalmijn, Matthijs; Ivanova, Katya
 **摘要**: Objective This study examines the support from stepparents to adult children and considers the role of the composition of the parent network, that is, the presence or absence of the biological mother or father.…
+
+### Pathways to Parenthood in Social and Family Contexts: Decade in Review, 2020
+**年份**: 2020 | **DOI**: [10.1111/jomf.12618](https://doi.org/10.1111/jomf.12618)
+**作者**: Guzzo, Karen Benjamin; Hayford, Sarah R.
+**摘要**: AbstractWhether, and under what circumstances, people become parents has implications for individual identity, family relationships, the well‐being of adults and children, and population growth and age structure.…

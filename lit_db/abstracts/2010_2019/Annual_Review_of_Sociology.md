@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **254** 篇
+共 **256** 篇
 
 ---
 
@@ -389,6 +389,11 @@
 **年份**: 2017 | **DOI**: [10.1146/annurev-soc-060116-053427](https://doi.org/10.1146/annurev-soc-060116-053427)
 **作者**: Brown-Saracino, Japonica
 **摘要**: Contemporary sociology offers competing images of the breadth and consequences of gentrification. One subset presents gentrification as a nearly unstoppable force that plays a prominent role in the spatial reorganization of urban life; another presents it as less monolithic and less momentous for ma…
+
+### The Second Demographic Transition Theory: A Review and Appraisal
+**年份**: 2017 | **DOI**: [10.1146/annurev-soc-060116-053442](https://doi.org/10.1146/annurev-soc-060116-053442)
+**作者**: Zaidi, Batool; Morgan, S. Philip
+**摘要**: References to the second demographic transition (SDT) have increased dramatically in the past two decades. The SDT predicts unilinear change toward very low fertility and a diversity of union and family types.…
 
 ### A Sociology of Power: My Intellectual Journey
 **年份**: 2016 | **DOI**: [10.1146/annurev-soc-081715-074158](https://doi.org/10.1146/annurev-soc-081715-074158)
@@ -1274,3 +1279,8 @@
 **年份**: 2010 | **DOI**: [10.1146/annurev.soc.012809.102644](https://doi.org/10.1146/annurev.soc.012809.102644)
 **作者**: Danziger, Sandra K.
 **摘要**: This article highlights the scope of cash welfare as a poverty program and the policy context that led to the legislative distinctions between pre- and post-1996. Trends in welfare, employment, and poverty for single-mother families are presented, as are hypotheses that guide studies of the effects …
+
+### Comparative Analyses of Public Attitudes Toward Immigrants and Immigration Using Multinational Survey Data: A Review of Theories and Research
+**年份**: 2010 | **DOI**: [10.1146/annurev.soc.012809.102651](https://doi.org/10.1146/annurev.soc.012809.102651)
+**作者**: Ceobanu, Alin M.; Escandell, Xavier
+**摘要**: This article critically reviews the intersectional locus of public opinion scholarship and immigration studies that make use of data from multinational survey projects. Specifically, it emphasizes current cross-national research seeking to understand the causes, manifestations, and implications of a…

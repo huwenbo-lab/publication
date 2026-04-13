@@ -1,9 +1,13 @@
 # Demographic Research — 文章标题索引
 
-共 **1831** 篇 | 年份范围：2000–2025
+共 **1835** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
+
+## 2026
+
+- The groupwise decomposition: Estimating group-specific contributions to differences between demographic measures · [DOI](https://doi.org/10.4054/demres.2026.54.14)
 
 ## 2025
 
@@ -1036,6 +1040,8 @@
 - The sensitivity analysis of population projections · [DOI](https://doi.org/10.4054/demres.2015.33.28)
 - Sexual networks, partnership mixing, and the female-to-male ratio of HIV infections in generalized epidemics: An agent-based simulation study
 - The low importance of marriage in eastern Germany - social norms and the role of peoples' perceptions of the past · [DOI](https://doi.org/10.4054/demres.2015.33.9)
+- Reconstructing trends in international migration with three questions in household surveys · [DOI](https://doi.org/10.4054/demres.2015.32.35)
+- On the age-specific correlation between fertility and female employment · [DOI](https://doi.org/10.4054/demres.2015.32.23)
 
 ## 2014
 
@@ -1913,3 +1919,7 @@
 - A search for aggregate-level effects of education on fertility, using data from Zimbabwe · [DOI](https://doi.org/10.4054/demres.2000.3.3)
 - Kinship, family and social network · [DOI](https://doi.org/10.4054/demres.2000.3.13)
 - Family Dynamics of 63 Million (in 1990) to More Than 330 Million (in 2050) Elders in China · [DOI](https://doi.org/10.4054/demres.2000.2.5)
+
+## 1999
+
+- Finnish Life Tables since 1751 · [DOI](https://doi.org/10.4054/demres.1999.1.1)

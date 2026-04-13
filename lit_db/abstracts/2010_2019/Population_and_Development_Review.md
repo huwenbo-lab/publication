@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2010–2019 年文章（含摘要）
 
-共 **330** 篇
+共 **333** 篇
 
 ---
 
@@ -189,6 +189,16 @@
 **年份**: 2019 | **DOI**: [10.1111/padr.12233](https://doi.org/10.1111/padr.12233)
 **作者**: Park, Sung S.; Wiemers, Emily E.; Seltzer, Judith A.
 **摘要**: One of the most striking and persistent features of the American socioeconomic landscape is the disadvantaged position of African Americans relative to Whites. This study explores some of the present reasons for that disadvantage, focusing on the multigenerational family safety net.…
+
+### A Forgotten Forerunner of Demographic Transition Theory: A Commentary
+**年份**: 2019 | **DOI**: [10.1111/padr.12256](https://doi.org/10.1111/padr.12256)
+**作者**: Tolts, Mark
+**摘要**: （暂无）
+
+### IPBES, 2019. Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science‐Policy Platform on Biodiversity and Ecosystem Services
+**年份**: 2019 | **DOI**: [10.1111/padr.12283](https://doi.org/10.1111/padr.12283)
+**作者**: Bongaarts, John
+**摘要**: （暂无）
 
 ### Rural/Urban Population Age and Sex Composition in sub-Saharan Africa 1980-2015
 **年份**: 2018 | **DOI**: [10.1111/padr.12122](https://doi.org/10.1111/padr.12122)
@@ -769,6 +779,11 @@
 **年份**: 2015 | **DOI**: [10.1111/j.1728-4457.2015.00070.x](https://doi.org/10.1111/j.1728-4457.2015.00070.x)
 **作者**: Weisz, George; Vignola-Gagne, Etienne
 **摘要**: Chronic noncommunicable diseases (NCDs) in low-and middle-income countries have recently provoked a surge of public interest. This article examines the policy literature-notably the archives and publications of the World Health Organization (WHO), which has dominated this field-to analyze the emerge…
+
+### Re‐theorizing Family Demographics
+**年份**: 2015 | **DOI**: [10.1111/j.1728-4457.2015.00024.x](https://doi.org/10.1111/j.1728-4457.2015.00024.x)
+**作者**: Esping‐Andersen, Gøsta; Billari, Francesco C.
+**摘要**: Two dominant theories within family research foresee a long‐term decline in marriage, fertility, and partner stability. They also assume that this “less‐family” scenario will be spearheaded by higher‐educated strata.…
 
 ### Nontraditional Family-Related Attitudes in Japan: Macro and Micro Determinants
 **年份**: 2014 | **DOI**: [10.1111/j.1728-4457.2014.00672.x](https://doi.org/10.1111/j.1728-4457.2014.00672.x)

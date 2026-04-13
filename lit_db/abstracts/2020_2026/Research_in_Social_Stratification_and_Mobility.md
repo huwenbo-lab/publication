@@ -1,9 +1,59 @@
 # Research in Social Stratification and Mobility
 ## 2020–2026 年文章（含摘要）
 
-共 **350** 篇
+共 **364** 篇
 
 ---
+
+### The Role of Income Stratification in Shaping Class Conflict Perceptions: Evidence from ISSP 1987-2019
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101153](https://doi.org/10.1016/j.rssm.2026.101153)
+**作者**: Zhong, Wei
+**摘要**: （暂无）
+
+### The role of graduate education in the intergenerational reproduction of inequality in Chile
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101147](https://doi.org/10.1016/j.rssm.2026.101147)
+**作者**: Espinoza, Oscar; Corradi, Bruno; Sandoval, Luis 等5人
+**摘要**: （暂无）
+
+### Temporary employment and further training. Does training promote the transition from temporary to permanent employment?
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101130](https://doi.org/10.1016/j.rssm.2026.101130)
+**作者**: Helbig, Alexander; Ehlert, Martin
+**摘要**: （暂无）
+
+### It takes two to court: Partnership formation in the context of forced migration
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101134](https://doi.org/10.1016/j.rssm.2026.101134)
+**作者**: Palomo Lario, Carlos; Kogan, Irena; Heyne, Stefanie 等4人
+**摘要**: （暂无）
+
+### Personality traits and hiring: Exploring employer preferences through a vignette study in Japan
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2025.101111](https://doi.org/10.1016/j.rssm.2025.101111)
+**作者**: Toyonaga, Kohei
+**摘要**: （暂无）
+
+### Cultural stratification in the labor market outcomes of university-educated migrants in Australia: The relevance of cultural and linguistic proximity
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101148](https://doi.org/10.1016/j.rssm.2026.101148)
+**作者**: Zając, Tomasz; Tomaszewski, Wojtek; Sharma, Nikita 等4人
+**摘要**: （暂无）
+
+### Early insights into intergenerational education mobility and emotional problems during the transition to secondary school in Germany
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101149](https://doi.org/10.1016/j.rssm.2026.101149)
+**作者**: Gniewosz, Gabriela; Walper, Sabine
+**摘要**: （暂无）
+
+### The long-term effects of adolescent work on adult socioeconomic attainment
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101137](https://doi.org/10.1016/j.rssm.2026.101137)
+**作者**: Staff, Jeremy; Mortimer, Jeylan T.
+**摘要**: （暂无）
+
+### Stratification of post-birth labour supply in a high- and low- maternal employment regime
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101133](https://doi.org/10.1016/j.rssm.2026.101133)
+**作者**: Filser, Andreas; Achard, Pascal; Frodermann, Corinna 等5人
+**摘要**: （暂无）
+
+### Educational expansion, occupational upgrading, and the changing structure of education-occupation linkages in Sweden, 1960–2013
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101135](https://doi.org/10.1016/j.rssm.2026.101135)
+**作者**: Xu, Xiaojie
+**摘要**: （暂无）
 
 ### Inequalities in early childhood education and care by immigrant background
 **年份**: 2025 | **DOI**: [10.1016/j.rssm.2025.101110](https://doi.org/10.1016/j.rssm.2025.101110)
@@ -324,6 +374,11 @@
 **年份**: 2025 | **DOI**: [10.1016/j.rssm.2024.100997](https://doi.org/10.1016/j.rssm.2024.100997)
 **作者**: Wang, Leping
 **摘要**: Research on the human capital and occupational mobility of Chinese rural migrant workers often focuses on how formal education is linked to upward mobility, and rarely accounts for the heterogeneity in the origin occupations.…
+
+### Disability discrimination in hiring: A systematic review
+**年份**: 2025 | **DOI**: [10.1016/j.rssm.2025.101069](https://doi.org/10.1016/j.rssm.2025.101069)
+**作者**: Schwitter, Nicole; Chatzitheochari, Stella; Liebe, Ulf
+**摘要**: （暂无）
 
 ### His and hers earnings trajectories: Economic homogamy and long-term earnings inequality within and between different-sex couples☆
 **年份**: 2024 | **DOI**: [10.1016/j.rssm.2024.100995](https://doi.org/10.1016/j.rssm.2024.100995)
@@ -704,6 +759,11 @@
 **年份**: 2024 | **DOI**: [10.1016/j.rssm.2023.100849](https://doi.org/10.1016/j.rssm.2023.100849)
 **作者**: Liu, Fei; Xiang, Jun; Yuan, Jiali 等4人
 **摘要**: As gender segregation decreases and women's education levels rise in Chinese society, there is growing interest in exploring how the social status of husbands and wives impacts their class identity.…
+
+### Is universal early childhood education and care an equalizer? A systematic review and meta-analysis of evidence
+**年份**: 2024 | **DOI**: [10.1016/j.rssm.2023.100859](https://doi.org/10.1016/j.rssm.2023.100859)
+**作者**: Schmutz, Rita
+**摘要**: （暂无）
 
 ### Robert Mare's legacy: Multi-generational processes
 **年份**: 2023 | **DOI**: [10.1016/j.rssm.2023.100812](https://doi.org/10.1016/j.rssm.2023.100812)
@@ -1199,6 +1259,11 @@
 **年份**: 2022 | **DOI**: [10.1016/j.rssm.2021.100662](https://doi.org/10.1016/j.rssm.2021.100662)
 **作者**: Yastrebov, Gordey
 **摘要**: Previous research found that social inequality in educational attainment in Russia was invariant to the changes in the socio-political and economic context. It was a striking conclusion when judged against the narratives of the educational policy reforms, the demographic change, and the radical regi…
+
+### The rise of income and the demise of class and social status? A systematic review of measures of socio-economic position in stratification research
+**年份**: 2022 | **DOI**: [10.1016/j.rssm.2022.100678](https://doi.org/10.1016/j.rssm.2022.100678)
+**作者**: Barone, Carlo; Hertel, Florian R.; Smallenbroek, Oscar
+**摘要**: （暂无）
 
 ### Does ability grouping affect UK primary school pupils' enjoyment of Maths and English?
 **年份**: 2021 | **DOI**: [10.1016/j.rssm.2021.100629](https://doi.org/10.1016/j.rssm.2021.100629)
@@ -1754,3 +1819,8 @@
 **年份**: 2020 | **DOI**: [10.1016/j.rssm.2019.100461](https://doi.org/10.1016/j.rssm.2019.100461)
 **作者**: Wenz, Sebastian E.; Hoenig, Kerstin
 **摘要**: Even though social class is at least as predictive of educational achievement as ethnicity in virtually all developed countries, experimental research on discrimination in education has overwhelmingly focused on the latter.…
+
+### What works to reduce inequalities in higher education? A systematic review of the (quasi-)experimental literature on outreach and financial aid
+**年份**: 2020 | **DOI**: [10.1016/j.rssm.2019.100442](https://doi.org/10.1016/j.rssm.2019.100442)
+**作者**: Herbaut, Estelle; Geven, Koen
+**摘要**: （暂无）

@@ -1,6 +1,6 @@
 # Sociology — 文章标题索引
 
-共 **2850** 篇 | 年份范围：2000–2026
+共 **2888** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -28,6 +28,7 @@
 - Book Review PatrickO’MahonyCommunicative Reason: A Sociological RestatementLondon: Routledge, 2025, £140 (ISBN: 9780367182939), 330 pp. · [DOI](https://doi.org/10.1177/00380385261417982)
 - Time Well Spent? Rhythms of Dating on Apps before, during and after COVID-19 Social Restrictions · [DOI](https://doi.org/10.1177/00380385251412565)
 - Love Your Neighbourhood and Leave It: Citizenship Ideals, Welfare Encounters and the Reproduction of Cross-Pressure in a Disadvantaged Helsinki Neighbourhood · [DOI](https://doi.org/10.1177/00380385261424076)
+- The Invisible Super-Rich? A Quantitative Analysis of the Press Coverage of Germany’s Wealth Elite · [DOI](https://doi.org/10.1177/00380385261428292)
 
 ## 2025
 
@@ -2935,3 +2936,94 @@
 - Books Reviewed · [DOI](https://doi.org/10.1177/0038038500034003017)
 - Religion in Modern Britain: Changing Sociological Assumptions · [DOI](https://doi.org/10.1177/s0038038500000080)
 - Notes for Contributors · [DOI](https://doi.org/10.1177/0038038500034004001)
+
+## 1999
+
+- `One Day at a Time' and other Slogans for Everyday Life: The Ethical Practices of Alcoholics Anonymous · [DOI](https://doi.org/10.1177/s0038038599000231)
+- Community, Citizenship and Empowerment · [DOI](https://doi.org/10.1177/s0038038599000255)
+- BEING CONSTRUCTIVE: SOCIAL CONSTRUCTIONISM AND THE ENVIRONMENT · [DOI](https://doi.org/10.1017/s0038038599000188)
+- From Banana Time to Just-in-Time: Power and Resistance at Work · [DOI](https://doi.org/10.1177/s0038038599000486)
+- Consumer Culture and the Commodification of Policing and Security · [DOI](https://doi.org/10.1177/s003803859900022x)
+
+## 1998
+
+- Professionalism as Enterprise: Service Class Politics and the Redefinition of Professionalism · [DOI](https://doi.org/10.1177/0038038598032001004)
+- Evaluating `Diaspora': Beyond Ethnicity? · [DOI](https://doi.org/10.1177/0038038598032003009)
+- Social Integration and System Integration: Reconsidering the Classical Distinction · [DOI](https://doi.org/10.1177/0038038598032003005)
+
+## 1997
+
+- The Place of Inter-Rater Reliability in Qualitative Research: An Empirical Study · [DOI](https://doi.org/10.1177/0038038597031003015)
+- Subjectivity and the Labour Process: Conceptualising `Good Work' · [DOI](https://doi.org/10.1177/0038038597031003004)
+
+## 1996
+
+- On the Concept of Motive in Sociology · [DOI](https://doi.org/10.1177/0038038596030001007)
+- The Sociology of Professions and the Profession of Gender · [DOI](https://doi.org/10.1177/0038038596030004003)
+
+## 1995
+
+- Class Analysis and Class Theory · [DOI](https://doi.org/10.1177/0038038595029003005)
+- All Quiet on the Workplace Front? A Critique of Recent Trends in British Industrial Sociology · [DOI](https://doi.org/10.1177/0038038595029004004)
+- Young People and their Contribution to Household Work · [DOI](https://doi.org/10.1177/0038038595029002008)
+- Incorporation without Integration: Palestinian Citizens in Israel's Labour Market · [DOI](https://doi.org/10.1177/0038038595029003004)
+- Death in the News: The Public Invigilation of Private Emotion · [DOI](https://doi.org/10.1177/0038038595029004002)
+
+## 1994
+
+- Just-in-Time, `Regimes' and Reductionism · [DOI](https://doi.org/10.1177/0038038594028001003)
+
+## 1993
+
+- Does Class Analysis without Class Theory have a Promising Future?: A Reply to Goldthorpe and Marshall · [DOI](https://doi.org/10.1177/0038038593027002005)
+- `Black and Ethnic Minority' or `Asian, Black and Other Minority Ethnic': A Further Note on Nomenclature · [DOI](https://doi.org/10.1177/0038038593027004007)
+- De-Constructing Concepts of Care · [DOI](https://doi.org/10.1177/0038038593027004006)
+
+## 1992
+
+- The Promising Future of Class Analysis: A Response to Recent Critiques · [DOI](https://doi.org/10.1177/0038038592026003002)
+- `Someone to Watch Over Me': Surveillance, Discipline and the Just-in-Time Labour Process · [DOI](https://doi.org/10.1177/0038038592026002009)
+
+## 1991
+
+- Industrial Capitalism and the Welfare of the State: The Role of Employers in the Comparative Development of Welfare States. A Review of Recent Research · [DOI](https://doi.org/10.1177/0038038591025002005)
+- The Concept of Caring in Feminist Research: The Case of Domestic Service · [DOI](https://doi.org/10.1177/0038038591025001004)
+
+## 1990
+
+- Household Spending, Personal Spending and the Control of Money in Marriage · [DOI](https://doi.org/10.1177/0038038590024001009)
+- The Revised Cambridge Scale of Occupations · [DOI](https://doi.org/10.1177/0038038590024004005)
+
+## 1989
+
+- Men: The Forgotten Carers · [DOI](https://doi.org/10.1177/0038038589023001008)
+- The Use of the Concept of `Strategy' in Recent Sociological Literature · [DOI](https://doi.org/10.1177/0038038589023001002)
+
+## 1988
+
+- Social Network Analysis · [DOI](https://doi.org/10.1177/0038038588022001007)
+
+## 1983
+
+- Women and Class Analysis: In Defence of the Conventional View · [DOI](https://doi.org/10.1177/0038038583017004001)
+
+## 1982
+
+- Secondary Analysis and the Relationship between Official and Academic Social Research · [DOI](https://doi.org/10.1177/0038038582016001005)
+
+## 1981
+
+- `Objective' Interests and the Sociology of Power · [DOI](https://doi.org/10.1177/003803858101500202)
+
+## 1979
+
+- The Poem's Defiance of Sociology · [DOI](https://doi.org/10.1177/003803857901300106)
+- A Phenomenology of Tourist Experiences · [DOI](https://doi.org/10.1177/003803857901300203)
+
+## 1978
+
+- What's in a `Nyem'? · [DOI](https://doi.org/10.1177/003803857801200109)
+
+## 1975
+
+- Holding the Middle Ground: The BBC, the Public and the Professional Broadcaster · [DOI](https://doi.org/10.1177/003803857500900104)

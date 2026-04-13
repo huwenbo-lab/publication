@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **97** 篇
+共 **110** 篇
 
 ---
 
@@ -84,6 +84,66 @@
 **年份**: 2025 | **DOI**: [10.1146/annurev-soc-090324-033821](https://doi.org/10.1146/annurev-soc-090324-033821)
 **作者**: Nee, Victor
 **摘要**: This article examines the relationship between biography, chance, and persistence in accounting for the assembly of an American sociologist. It traces the accumulation of experiences involved in a research journey aimed at explanation of social behavior and institutional change.…
+
+### Online Nonprobability Samples
+**年份**: 2025 | **DOI**: [10.1146/annurev-soc-090524-043117](https://doi.org/10.1146/annurev-soc-090524-043117)
+**作者**: Freese, Jeremy; Jin, Olivia
+**摘要**: Online nonprobability samples provide social scientists with opportunities to conduct surveys and experiments on large, diverse samples at modest prices. Researchers may find bewildering the options offered by the many commercial entities that provide research participants, and our review seeks to o…
+
+### Asian American Diversity and Growth
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-031021-012617](https://doi.org/10.1146/annurev-soc-031021-012617)
+**作者**: Tran, Van C.
+**摘要**: This article examines how the growth and diversification of Asian Americans have shaped their integration into the US mainstream. I first review recent trends in demographic diversification, socioeconomic differentiation, and geospatial dispersion among Asians.…
+
+### Race and Ethnicity in the Sociology of Cultural Production and Consumption
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-030222-013351](https://doi.org/10.1146/annurev-soc-030222-013351)
+**作者**: Banks, Patricia A.
+**摘要**: This review examines cultural production and consumption through the lens of race and ethnicity. Although the sociological study of race, ethnicity, and cultural production and consumption (RECPC) is growing, it is scattered across various subfields.…
+
+### Interracial Unions and Racial Assortative Mating in an Age of Growing Diversity, Shifting Intimate Relationships, and Emerging Technologies
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-083023-023534](https://doi.org/10.1146/annurev-soc-083023-023534)
+**作者**: Lundquist, Jennifer; Lin, Ken-Hou; Curington, Celeste
+**摘要**: While racial assortative mating and interracial unions have been a central interest in the study of race relations and family demography since the early twentieth century, there have been marked changes in the social contexts in which these processes have taken place in recent decades.…
+
+### Are Victims Virtuous or Vilified? The Stories We Tell Ourselves (and Each Other)
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-030222-032739](https://doi.org/10.1146/annurev-soc-030222-032739)
+**作者**: Rawlings, Craig M.; Cook, Edgar V.; Hasenour, Kiersten 等5人
+**摘要**: Derogation of the victim refers to the tendency of an observer to negatively evaluate someone hurt by the action of another. Victim derogation has been a core feature of social psychology for decades, but evidence suggests this phenomenon is weakening.…
+
+### Still Victimized in a Thousand Ways: Segregation as a Tool for Exploitation in the Twenty-First Century
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-090523-054711](https://doi.org/10.1146/annurev-soc-090523-054711)
+**作者**: Faber, Jacob William; Drummond, Jocelyn Pak
+**摘要**: In the thirty years since Massey and Denton's American Apartheid, sociological scholarship on segregation has proliferated, calling attention to the ways in which the social geography of the United States both drives and is shaped by racial and economic inequality.…
+
+### Leveraging Experience Sampling/Ecological Momentary Assessment for Sociological Investigations of Everyday Life
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-091523-013249](https://doi.org/10.1146/annurev-soc-091523-013249)
+**作者**: Browning, Christopher R.; Pinchak, Nicolo P.; Calder, Catherine A. 等4人
+**摘要**: Experience sampling (ES)—also referred to as ecological momentary assessment (EMA)—is a data collection method that involves asking study participants to report on their thoughts, feelings, behaviors, activities, and environments in (or near) real time.…
+
+### Automation and Augmentation: Artificial Intelligence, Robots, and Work
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-090523-050708](https://doi.org/10.1146/annurev-soc-090523-050708)
+**作者**: Lei, Ya-Wen; Kim, Rachel
+**摘要**: This article reviews the literature that examines the potential, limitations, and consequences of robots and artificial intelligence (AI) in automation and augmentation across various disciplines. It presents key observations and suggestions from the literature review.…
+
+### Policing, Punishment, and Place: Spatial-Contextual Analyses of the Criminal Legal System
+**年份**: 2023 | **DOI**: [10.1146/annurev-soc-031021-035328](https://doi.org/10.1146/annurev-soc-031021-035328)
+**作者**: Simes, Jessica T.; Beck, Brenden; Eason, John M.
+**摘要**: Policing and punishment are unevenly distributed across geographic space. Research analyzing place-based variation in the criminal legal system is increasing, asking how community conditions contribute to variation in criminal justice outcomes and how multiple criminal justice exposures (e.g., polic…
+
+### Expanding Notions of LGBTQ+
+**年份**: 2023 | **DOI**: [10.1146/annurev-soc-030320-032256](https://doi.org/10.1146/annurev-soc-030320-032256)
+**作者**: Russell, Stephen T.; Bishop, Meg D.; Fish, Jessica N.
+**摘要**: Sexual identity labels and meanings have been expanding. We explore how sexual identities are taking shape, intertwining, and emerging in new forms among a growing number of LGBTQ+ people (i.e., lesbian, gay, bisexual, transgender, queer, and questioning, or people whose identities are outside the h…
+
+### Recent Developments in Causal Inference and Machine Learning
+**年份**: 2023 | **DOI**: [10.1146/annurev-soc-030420-015345](https://doi.org/10.1146/annurev-soc-030420-015345)
+**作者**: Brand, Jennie E.; Zhou, Xiang; Xie, Yu
+**摘要**: This article reviews recent advances in causal inference relevant to sociology. We focus on a selective subset of contributions aligning with four broad topics: causal effect identification and estimation in general, causal effect heterogeneity, causal effect mediation, and temporal and spatial inte…
+
+### Food and Inequality
+**年份**: 2023 | **DOI**: [10.1146/annurev-soc-031021-112747](https://doi.org/10.1146/annurev-soc-031021-112747)
+**作者**: Shostak, Sara
+**摘要**: The production, consumption, materiality, and meanings of food are critical topics for sociological research on inequality, although they have not always been recognized as such. This article describes how food is implicated in the production of inequalities across scales and sites.…
 
 ### Criminal Governance and the Crisis of Contemporary Latin American States
 **年份**: 2022 | **DOI**: [10.1146/annurev-soc-030420-124931](https://doi.org/10.1146/annurev-soc-030420-124931)
@@ -179,6 +239,11 @@
 **年份**: 2022 | **DOI**: [10.1146/annurev-soc-030420-015156](https://doi.org/10.1146/annurev-soc-030420-015156)
 **作者**: Esteve, Albert; Castro-Martin, Teresa; Castro Torres, Andres Felipe
 **摘要**: We review demographic and sociological literature on family dynamics in Latin America and the Caribbean (LAC) and systematize major trends in union formation and fertility in recent decades.…
+
+### Reproducibility in the Social Sciences
+**年份**: 2022 | **DOI**: [10.1146/annurev-soc-090221-035954](https://doi.org/10.1146/annurev-soc-090221-035954)
+**作者**: Moody, James W.; Keister, Lisa A.; Ramos, Maria C.
+**摘要**: Concern over social scientists’ inability to reproduce empirical research has spawned a vast and rapidly growing literature. The size and growth of this literature make it difficult for newly interested academics to come up to speed.…
 
 ### Ethnography, Data Transparency, and the Information Age
 **年份**: 2021 | **DOI**: [10.1146/annurev-soc-090320-124805](https://doi.org/10.1146/annurev-soc-090320-124805)

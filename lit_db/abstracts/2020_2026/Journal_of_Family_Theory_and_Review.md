@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **336** 篇
+共 **338** 篇
 
 ---
 
@@ -68,6 +68,16 @@
 **年份**: 2026 | **DOI**: [10.1111/jftr.70047](https://doi.org/10.1111/jftr.70047)
 **作者**: Bower‐Brown, Susie; Stovell, Clare
 **摘要**: ABSTRACT This article draws attention to the ethical and methodological complexities of internal confidentiality in family research and provides field‐specific recommendations. Conducting individual (rather than joint) interviews with partners or multiple members of the same family is common but pos…
+
+### Psychological Flexibility in Dementia Caregiving: The Adaptive Support Model
+**年份**: 2026 | **DOI**: [10.1111/jftr.70054](https://doi.org/10.1111/jftr.70054)
+**作者**: Green, Gavin B.; Batura, Josey; Kelley, Heather 等5人
+**摘要**: ABSTRACT Dementia caregiving often involves sustained emotional disruption and ambiguous loss, yet many interventions focus on burden reduction without specifying the adaptive processes that sustain caregiving over time.…
+
+### Reconstructing Masculinity: The Role of Hands‐On Dads in Modern Chinese Families
+**年份**: 2026 | **DOI**: [10.1111/jftr.70058](https://doi.org/10.1111/jftr.70058)
+**作者**: Wang, Qingqing; Deng, Lijuan
+**摘要**: ABSTRACT This article examines the rise of the hands‐on dad phenomenon on contemporary Chinese short‐video platforms. Adopting an interdisciplinary perspective that integrates gender studies, masculinity research, semiotics, and media studies, we analyze how hands‐on dads are constructed and how the…
 
 ### Issue Information
 **年份**: 2025 | **DOI**: [10.1111/jftr.12564](https://doi.org/10.1111/jftr.12564)

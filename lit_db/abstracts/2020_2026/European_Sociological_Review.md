@@ -1,9 +1,24 @@
 # European Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **401** 篇
+共 **405** 篇
 
 ---
+
+### Changing regional university availability and inequality of educational opportunity in Japan
+**年份**: 2026 | **DOI**: [10.1093/esr/jcag011](https://doi.org/10.1093/esr/jcag011)
+**作者**: Mugiyama, Ryota; Toyonaga, Kohei
+**摘要**: Abstract The uneven distribution of universities across regions has been argued to create educational inequalities based on place of residence. While studies have shown positive associations between college proximity, measured by distance to nearest college or its presence, and enrolment among local…
+
+### Stratified scars: social inequality in the labour market consequences of apprenticeship dropout
+**年份**: 2026 | **DOI**: [10.1093/esr/jcag010](https://doi.org/10.1093/esr/jcag010)
+**作者**: Ostermann, Kerstin; Patzina, Alexander; Morris, Katy
+**摘要**: Abstract While the association between apprenticeship dropout and negative labour market consequences is well documented, the causal link and social stratification in this effect are less clear.…
+
+### Does statistical discrimination explain grading bias? Evidence from a natural experiment
+**年份**: 2026 | **DOI**: [10.1093/esr/jcag005](https://doi.org/10.1093/esr/jcag005)
+**作者**: Breinholt, Asta; Hjorth-Trolle, Anders; Henriksen, Mikkel Büchler
+**摘要**: Abstract Statistical discrimination theory suggests that discrimination arises when gatekeepers lack individual-level information and therefore draw on their beliefs on the group-level.…
 
 ### Family ideals in Italy and Spain: towards the end of the traditional Southern European family model?
 **年份**: 2025 | **DOI**: [10.1093/esr/jcaf055](https://doi.org/10.1093/esr/jcaf055)
@@ -1119,6 +1134,11 @@
 **年份**: 2023 | **DOI**: [10.1093/esr/jcac013](https://doi.org/10.1093/esr/jcac013)
 **作者**: Dederichs, Kasimir; Kruse, Hanno
 **摘要**: The extent to which people are active in voluntary associations varies with age. While previous research provides clear evidence for an inverse u-shaped pattern across an adult's life, much less is known about the formative period of adolescence and young adulthood.…
+
+### Control variable selection in applied quantitative sociology: a critical review
+**年份**: 2023 | **DOI**: [10.1093/esr/jcac078](https://doi.org/10.1093/esr/jcac078)
+**作者**: Kohler, Ulrich; Class, Fabian; Sawert, Tim
+**摘要**: Abstract A review of all research papers published in the European Sociological Review in 2016 and 2017 (N = 118) shows that only a minority of papers clearly define the parameter of interest and provide sufficient reasoning for the selected control variables of the statistical analysis.…
 
 ### Swiss Job Market Monitor: A Rich Source of Demand-Side Micro Data of the Labour Market
 **年份**: 2022 | **DOI**: [10.1093/esr/jcac002](https://doi.org/10.1093/esr/jcac002)

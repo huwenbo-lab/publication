@@ -1,7 +1,7 @@
 # Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **575** 篇
+共 **576** 篇
 
 ---
 
@@ -109,6 +109,11 @@
 **年份**: 2026 | **DOI**: [10.1177/00380385261424076](https://doi.org/10.1177/00380385261424076)
 **作者**: Junnilainen, Lotta
 **摘要**: Sociologists have long observed that living in a disadvantaged neighbourhood commonly means facing a moral and practical dilemma; the place one calls home is both good and bad, as it is a source of both support and social suffering.…
+
+### The Invisible Super-Rich? A Quantitative Analysis of the Press Coverage of Germany’s Wealth Elite
+**年份**: 2026 | **DOI**: [10.1177/00380385261428292](https://doi.org/10.1177/00380385261428292)
+**作者**: Ischinsky, Emma
+**摘要**: Public visibility plays a crucial role in how inequality becomes publicly recognised and debated. Yet we know little about how often the very wealthy appear in the public sphere. This study examines the public visibility and invisibility among Germany’s 1718 richest individuals using Manager Magazin…
 
 ### Social Positioning and Pathways of Social Mobility of Intermarried Ukrainian Migrants in Poland
 **年份**: 2025 | **DOI**: [10.1177/00380385251313900](https://doi.org/10.1177/00380385251313900)

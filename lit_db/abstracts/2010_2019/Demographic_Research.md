@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2010–2019 年文章（含摘要）
 
-共 **895** 篇
+共 **897** 篇
 
 ---
 
@@ -2494,6 +2494,16 @@
 **年份**: 2015 | **DOI**: [10.4054/demres.2015.33.9](https://doi.org/10.4054/demres.2015.33.9)
 **作者**: Klaener, Andreas
 **摘要**: BACKGROUND Eastern Germany is a region with one of the world's highest percentages of non-marital births. Marriage and childbearing seem to be decoupled. This brings into question people's views on the institution of marriage.…
+
+### Reconstructing trends in international migration with three questions in household surveys
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.35](https://doi.org/10.4054/demres.2015.32.35)
+**作者**: Schoumaker, Bruno; Beauchemin, Cris
+**摘要**: （暂无）
+
+### On the age-specific correlation between fertility and female employment
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.23](https://doi.org/10.4054/demres.2015.32.23)
+**作者**: Brehm, Uta; Engelhardt, Henriette
+**摘要**: （暂无）
 
 ### When people shed religious identity in Ireland and Austria: Evidence from censuses
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.43](https://doi.org/10.4054/demres.2014.31.43)

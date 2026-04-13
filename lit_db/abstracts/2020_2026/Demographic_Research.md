@@ -1,9 +1,14 @@
 # Demographic Research
 ## 2020–2026 年文章（含摘要）
 
-共 **501** 篇
+共 **502** 篇
 
 ---
+
+### The groupwise decomposition: Estimating group-specific contributions to differences between demographic measures
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.14](https://doi.org/10.4054/demres.2026.54.14)
+**作者**: Paglino, Eugenio
+**摘要**: （暂无）
 
 ### Shifting spousal age gaps in Kenya and Ghana: Does education matter?
 **年份**: 2025 | **DOI**: [10.4054/DemRes.2025.53.41](https://doi.org/10.4054/DemRes.2025.53.41)

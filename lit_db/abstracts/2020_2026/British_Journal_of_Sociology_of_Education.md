@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **459** 篇
+共 **470** 篇
 
 ---
 
@@ -54,6 +54,55 @@
 **年份**: 2026 | **DOI**: [10.1080/01425692.2025.2573060](https://doi.org/10.1080/01425692.2025.2573060)
 **作者**: Li, Xiaoshi; Jung, Jisun
 **摘要**: This paper explores how master's students negotiate access to the labour market in a cross-border context. Utilising a Bourdieusian framework, it examines the university-to-work transition as a complex process structured by opportunity and inequality through the three interrelated concepts of habitu…
+
+### ‘I won’t remain here’: socially advantaged students and vocational education in China’s institutional tracking context
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2642106](https://doi.org/10.1080/01425692.2026.2642106)
+**作者**: Xie, Yang; Liu, Fengshu
+**摘要**: （暂无）
+
+### Governing the desire: power, paradox and professionalism in further education
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2642918](https://doi.org/10.1080/01425692.2026.2642918)
+**作者**: Naz, Zahid
+**摘要**: （暂无）
+
+### Admissibility for sale: judgment devices, merit, and the economy of self in global education
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2623495](https://doi.org/10.1080/01425692.2026.2623495)
+**作者**: Chen, Kenneth Han
+**摘要**: （暂无）
+
+### Reconstructing GenAI in education: a social systems theory approach
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2642913](https://doi.org/10.1080/01425692.2026.2642913)
+**作者**: Brezovec, Erik; Ježovita, Josip; Watson, Steven 等4人
+**摘要**: （暂无）
+
+### Mapping overseas education through local lens: valuation, merit, and hierarchy in Chinese students’ college applications
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2642098](https://doi.org/10.1080/01425692.2026.2642098)
+**作者**: Deng, Zhuoru
+**摘要**: （暂无）
+
+### Exposure to exclusion: cultural capital and the reshaping of privileged-caste logics in Indian private schools
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2642112](https://doi.org/10.1080/01425692.2026.2642112)
+**作者**: Vasanthakumar, Vishal
+**摘要**: （暂无）
+
+### Exploring the role of students’ ethnic-minority and socio-economic status in entering open-admissions higher education
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2645105](https://doi.org/10.1080/01425692.2026.2645105)
+**作者**: De Coninck, Jente; Stevens, Peter A. J.; Vantieghem, Wendelien
+**摘要**: （暂无）
+
+### From policy to practice: religious diversity and critical multicultural pedagogy in Norwegian early childhood education
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2616354](https://doi.org/10.1080/01425692.2026.2616354)
+**作者**: Bratsvedal, Ine
+**摘要**: （暂无）
+
+### When meritocracy breeds insecurity: moralized over-striving, temporal disciplining and resistance in China’s specialized college
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2645104](https://doi.org/10.1080/01425692.2026.2645104)
+**作者**: Zheng, Tongjing
+**摘要**: （暂无）
+
+### Correction
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2648414](https://doi.org/10.1080/01425692.2026.2648414)
+**摘要**: （暂无）
 
 ### Numerical diversity only? The case of academic preparatory programs for the Negev Bedouin in Israel
 **年份**: 2025 | **DOI**: [10.1080/01425692.2025.2609175](https://doi.org/10.1080/01425692.2025.2609175)
@@ -2299,3 +2348,8 @@
 **年份**: 2020 | **DOI**: [10.1080/01425692.2019.1660142](https://doi.org/10.1080/01425692.2019.1660142)
 **作者**: Gupta, Achala
 **摘要**: The heterogeneity of the contemporary Indian middle-class has been discussed widely. However, the effect of its internal differences on the distribution of educational resources needs to be examined systematically.…
+
+### 40th anniversary special issue: the current and future shape of the sociology of education
+**年份**: 2020 | **DOI**: [10.1080/01425692.2020.1801222](https://doi.org/10.1080/01425692.2020.1801222)
+**作者**: James, David
+**摘要**: （暂无）

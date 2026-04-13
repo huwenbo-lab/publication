@@ -1,9 +1,44 @@
 # Chinese Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **134** 篇
+共 **142** 篇
 
 ---
+
+### The Paris Climate Agreement and China's environmental policies: A pseudo-panel data model approach to analyzing the predictors of environmental policy intensity in China
+**年份**: 2026 | **DOI**: [10.1177/2057150x251410671](https://doi.org/10.1177/2057150x251410671)
+**作者**: Aboubakr, Passant; Gohli, Hannes
+**摘要**: This paper provides insights into the interplay between international and domestic environmental governance by assessing the relationship between China's ratification of the Paris Climate Agreement and the intensity of its domestic environmental policies.…
+
+### Job demands, job resources, and mental health among new graduates in China
+**年份**: 2026 | **DOI**: [10.1177/2057150x261428651](https://doi.org/10.1177/2057150x261428651)
+**作者**: Guo, Wei; Yu, Hongfei; Shi, Yu
+**摘要**: As the graduate cohort makes the transition from campus to the workplace, it is of great significance to pay attention to their mental state. Using data from the 2020 Panel Study of Chinese University Students (PSCUS), we explore how job demands and job resources are correlated with mental health am…
+
+### Sex, digital media, and fertility intentions in China: A chain mediation analysis of media use and gender role attitudes
+**年份**: 2026 | **DOI**: [10.1177/2057150x261434703](https://doi.org/10.1177/2057150x261434703)
+**作者**: Fu, Yan; Guo, Fuqiang; Xie, Caifen 等4人
+**摘要**: China's continued decline in fertility rates—despite a series of policy relaxations—highlights the importance of individual fertility intentions in shaping demographic outcomes. This study investigates sex differences in fertility intentions and examines the mediating roles of media use and gender r…
+
+### China and the environment: The question of scale
+**年份**: 2026 | **DOI**: [10.1177/2057150x261417716](https://doi.org/10.1177/2057150x261417716)
+**作者**: Rodenbiker, Jesse; Teebken, Julia
+**摘要**: This introduction analyzes the question of scale in relationships between China and the environment. Scholars across fields have long debated the role of scale, revealing how different scales—from political-economic systems to global processes—shape environmental change.…
+
+### Climate adaptation and institutional continuity: Understanding lock-in dynamics in China's grassland governance
+**年份**: 2026 | **DOI**: [10.1177/2057150x261420583](https://doi.org/10.1177/2057150x261420583)
+**作者**: Mao, KuoRay; Xu, Yue
+**摘要**: Intensifying climate change poses growing challenges for socio-economic stability and rural livelihoods in China, particularly in ecologically sensitive regions such as the Inner Mongolian grasslands.…
+
+### Bridging planned and autonomous adaptation for flood resilience in multi-ethnic communities along China's Tea-Horse Road
+**年份**: 2026 | **DOI**: [10.1177/2057150x261419582](https://doi.org/10.1177/2057150x261419582)
+**作者**: Ai, Mei; Feng, Wenhan; Heinzel, Christine 等5人
+**摘要**: As climate change impacts are intensifying, flood adaptation increasingly relies on the interaction between planned and autonomous adaptation, yet empirical evidence on such interaction remains limited.…
+
+### Grandparents’ authoritative resources and intergenerational co-parenting relationships in urban Chinese families: Differences between maternal and paternal grandparents
+**年份**: 2026 | **DOI**: [10.1177/2057150x261437977](https://doi.org/10.1177/2057150x261437977)
+**作者**: Chen, Jia; Du, Ping
+**摘要**: As major actors in intergenerational co-parenting, grandparents shape co-parenting relationships through daily interactions, but the specific mechanisms of this have yet to be fully discussed.…
 
 ### Scholars like any other? An inquiry into productivity and citations in the field of contemporary China studies
 **年份**: 2025 | **DOI**: [10.1177/2057150X251345124](https://doi.org/10.1177/2057150X251345124)
@@ -444,6 +479,11 @@
 **年份**: 2022 | **DOI**: [10.1177/2057150X221123622](https://doi.org/10.1177/2057150X221123622)
 **作者**: Li, Jie; Batamuliza, Mireille; Karangwa, Evariste
 **摘要**: The labor arrangement of industrial society makes production and reproduction a contradiction that is both separate and interdependent. One of the significant consequences is the re-establishment of the responsibilities and boundaries of production and reproduction between the modern state, market, …
+
+### Sexuality in China: A review and new findings
+**年份**: 2022 | **DOI**: [10.1177/2057150x221114599](https://doi.org/10.1177/2057150x221114599)
+**作者**: Yu, Jia; Luo, Weixiang; Xie, Yu
+**摘要**: In the past four decades, sexuality research in China has made considerable advancements. From historical and sociological perspectives, our study reviews the literature and provides a comprehensive overview of sexuality in contemporary China by drawing on recent survey data that we collected.…
 
 ### Women's perceived support of parents and parents-in-law in China: Socioeconomic resources, reciprocity, and family context
 **年份**: 2021 | **DOI**: [10.1177/2057150X211007225](https://doi.org/10.1177/2057150X211007225)

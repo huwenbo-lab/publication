@@ -1,9 +1,13 @@
 # Social Forces — 文章标题索引
 
-共 **2778** 篇 | 年份范围：2000–2025
+共 **2850** 篇 | 年份范围：1929–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
+
+## 2026
+
+- Review of “The Secrets of Silence: The Everyday Policing of Black Women and Their Stories About Violence” · [DOI](https://doi.org/10.1093/sf/soag018)
 
 ## 2025
 
@@ -443,6 +447,7 @@
 - Racial Dynamics of Congregations and Communities: A Longitudinal Analysis of United Methodist Congregations, 1990-2010 · [DOI](https://doi.org/10.1093/sf/soaa124)
 - Selective Disclosure as a Self-Protective Process: Navigating Friendships as Asian and Latino Undocumented Young Adults · [DOI](https://doi.org/10.1093/sf/soaa122)
 - Democracy as Disorder: Institutionalized Sources of Democratic Ambivalence Among the Upper and Middle Class in Manila · [DOI](https://doi.org/10.1093/sf/soaa046)
+- Review of “Believing in South Central: Everyday Islam in the City of Angels” · [DOI](https://doi.org/10.1093/sf/soab099)
 
 ## 2020
 
@@ -2860,3 +2865,187 @@
 - Weaving Work and Motherhood. · [DOI](https://doi.org/10.2307/3005946)
 - Conservative Protestant Child Discipline: The Case of Parental Yelling · [DOI](https://doi.org/10.2307/2675571)
 - The Declining Significance of Neighborhoods? Marital Transitions in Community Context · [DOI](https://doi.org/10.2307/3005942)
+
+## 1999
+
+- Region and Political Opinion in the Contemporary United States · [DOI](https://doi.org/10.2307/3005964)
+- Does Parental Conflict Explain Why Divorce is Negatively Associated with Child Welfare? · [DOI](https://doi.org/10.2307/3005877)
+
+## 1998
+
+- Uncertainty, Cooperation, and Crime: Understanding the Decision to Co-offend · [DOI](https://doi.org/10.2307/3006013)
+- Political Resources and Direct State Intervention: The Adoption of Public Venture Capital Programs in the American States, 1974-1990 · [DOI](https://doi.org/10.2307/3005837)
+
+## 1996
+
+- Extremely Disadvantaged Neighborhoods and Urban Crime · [DOI](https://doi.org/10.2307/2580416)
+- Attitudes on Residential Integration: Perceived Status Differences, Mere In-Group Preference, or Racial Prejudice? · [DOI](https://doi.org/10.2307/2580385)
+- Deprivation and Race Riots: An Extension of Spilerman's Analysis · [DOI](https://doi.org/10.2307/2580387)
+
+## 1995
+
+- Religious Resources and Church Growth · [DOI](https://doi.org/10.2307/2580498)
+
+## 1994
+
+- Ethnic Economies in Metropolitan Regions: Miami and Beyond · [DOI](https://doi.org/10.2307/2579777)
+- Effects of Individual, Occupational, and Industrial Characteristics on Earnings: Intersections of Race and Gender · [DOI](https://doi.org/10.2307/2580296)
+- From Service Provision to Institutional Advocacy: The Shifting Legitimacy of Organizational Forms · [DOI](https://doi.org/10.2307/2580289)
+
+## 1993
+
+- Risk and Recreancy: Weber, the Division of Labor, and the Rationality of Risk Perceptions · [DOI](https://doi.org/10.2307/2580124)
+- Racial Segregation and Black Urban Homicide · [DOI](https://doi.org/10.2307/2580128)
+- Frame Disputes within the Nuclear Disarmament Movement · [DOI](https://doi.org/10.2307/2579890)
+
+## 1992
+
+- Professionalization and Protest: Changes in the Social Movement Sector, 1961-1983 · [DOI](https://doi.org/10.2307/2580197)
+- Linking Sociology and Its Specialties: The Case of Criminology · [DOI](https://doi.org/10.2307/2579963)
+- Feminist Praxis: Research, Theory, and Epistemology in Feminist Sociology. Edited by Liz Stanley. Routledge, 1990. 282 pp. $15.95 · [DOI](https://doi.org/10.1093/sf/71.1.273)
+- A Theory of Minor-Party Persistence: Election Rules, Social Cleavage, and the Number of Political Parties · [DOI](https://doi.org/10.2307/2579745)
+- The Legacy of World War II for Regional Growth and Decline: The Cumulative Effects of Wartime Investments on U.S. Manufacturing, 1947-1972 · [DOI](https://doi.org/10.2307/2580013)
+
+## 1991
+
+- Social Integration and Divorce · [DOI](https://doi.org/10.2307/2580069)
+- Consequences of Parental Divorce and Marital Unhappiness for Adult Well-Being · [DOI](https://doi.org/10.2307/2579480)
+- The Costs and Risks of Social Activism: A Study of Sanctuary Movement Activism · [DOI](https://doi.org/10.2307/2579299)
+- Segregation in the Second Ghetto: Racial and Ethnic Segregation in American Public Housing, 1977 · [DOI](https://doi.org/10.2307/2579300)
+- A Contextual Analysis of Black Self-Employment in Large Metropolitan Areas, 1970-1980 · [DOI](https://doi.org/10.2307/2580246)
+- Gender and Small Business Success: An Inquiry into Women's Relative Disadvantage · [DOI](https://doi.org/10.2307/2580062)
+
+## 1990
+
+- The Formation of Intransitive Friendships · [DOI](https://doi.org/10.2307/2579671)
+
+## 1989
+
+- Household Characteristics, Neighborhood Composition and Victimization Risk · [DOI](https://doi.org/10.2307/2579263)
+
+## 1988
+
+- The Power Structure of American Business. By Beth Mintz and Michael Schwartz, University of Chicago Press, 1985. 327 pp. $27.50 · [DOI](https://doi.org/10.1093/sf/66.3.843)
+
+## 1986
+
+- Economic Development and Female Labor Force Participation: A Reconsideration · [DOI](https://doi.org/10.2307/2578815)
+- A Longitudinal Examination of an Integrated Social Process Model of Deviant Behavior · [DOI](https://doi.org/10.2307/2578938)
+- Tokenism Reconsidered: Male Nurses and Female Physicians in a Hospital Setting · [DOI](https://doi.org/10.2307/2578787)
+
+## 1984
+
+- Social Disruption and Its Effects on Music: An Empirical Analysis · [DOI](https://doi.org/10.2307/2578553)
+- Age and Sequencing Norms in the Transition to Adulthood · [DOI](https://doi.org/10.2307/2578867)
+
+## 1983
+
+- Achievement and Ascriptive Processes in the Recognition of Scientific Articles · [DOI](https://doi.org/10.2307/2578354)
+- Socioeconomic Returns to Migration among Married Women · [DOI](https://doi.org/10.2307/2578318)
+
+## 1980
+
+- Civil Religion and the Choice for President: Nixon in '72 · [DOI](https://doi.org/10.2307/2577832)
+- Sex Differences in Patterns of Adult Crime, 1965-77: A Review and Assessment · [DOI](https://doi.org/10.2307/2577314)
+
+## 1979
+
+- Enduring Effects of Military Service? Opinion Differences between U.S. Veterans and Nonveterans · [DOI](https://doi.org/10.2307/2577356)
+
+## 1977
+
+- Socioeconomic Determinants of Intraethnic Marriage and Friendship · [DOI](https://doi.org/10.2307/2577568)
+- Resource Allocations in United Funds: Examination of Power and Dependence · [DOI](https://doi.org/10.2307/2577470)
+
+## 1976
+
+- Perspectives on Inmate Culture: A Study of Women in Prison · [DOI](https://doi.org/10.2307/2576284)
+- Positions in Networks · [DOI](https://doi.org/10.2307/2577097)
+
+## 1975
+
+- WAR, PRESIDENTS AND PUBLIC OPINION. By John E. Mueller. New York: Wiley, 1973. 300 pp · [DOI](https://doi.org/10.1093/sf/53.3.521-a)
+- The Division of Labor: Conceptualization and Related Measures · [DOI](https://doi.org/10.2307/2576589)
+- Microeconomic Theories of Fertility: A Critique · [DOI](https://doi.org/10.2307/2576080)
+
+## 1973
+
+- Consistency among Humanitarian and Helping Attitudes · [DOI](https://doi.org/10.2307/2576371)
+- Social Control Violence and Radicalizat The Kent State Case · [DOI](https://doi.org/10.1093/sf/51.3.342)
+- Georg Simmel and the Aesthetics of Social Reality · [DOI](https://doi.org/10.2307/2577137)
+
+## 1971
+
+- The Logic of Naturalistic Inquiry · [DOI](https://doi.org/10.2307/2576935)
+
+## 1970
+
+- A Critical Examination of the Designation of Standard Metropolitan Statistical Areas · [DOI](https://doi.org/10.2307/2574651)
+
+## 1968
+
+- THE DISCOVERY OF GROUNDED THEORY: STRATEGIES FOR QUALITATIVE RESEARCH. By Barney G. Glaser and Anselm L. Strauss. Chicago: Aldine Publishing Company, 1967. 271 pp. $6.75 · [DOI](https://doi.org/10.1093/sf/46.4.555)
+- Incomplete Professionalization: The Case of Pharmacy · [DOI](https://doi.org/10.2307/2574885)
+
+## 1967
+
+- The Social Psychology of Organizations. · [DOI](https://doi.org/10.2307/2575337)
+
+## 1966
+
+- Mass Communication and Social Change · [DOI](https://doi.org/10.2307/2575832)
+
+## 1965
+
+- Society and the Adolescent Self-Image. · [DOI](https://doi.org/10.2307/2575639)
+- ALIENATION AND FREEDOM : THE FACTORY WORKER AND HIS INDUSTRY. By Robert Blauner. Chicago: The University of Chicago Press, 1964. 222 pp. Illustrated. $7.50 · [DOI](https://doi.org/10.2307/2574777)
+
+## 1960
+
+- Administrative Succession in Formal Organizations · [DOI](https://doi.org/10.2307/2574148)
+- A Power Analysis of Racial Discrimination · [DOI](https://doi.org/10.2307/2573575)
+
+## 1959
+
+- Resistance and Social Movements · [DOI](https://doi.org/10.2307/2574178)
+
+## 1958
+
+- Sexual Division of Labor and Cross-Cultural Research · [DOI](https://doi.org/10.2307/2573784)
+
+## 1956
+
+- A Typology of Community Leadership Based on Influence and Interaction within the Leader Subsystem · [DOI](https://doi.org/10.2307/2573665)
+
+## 1955
+
+- The Military Academy as an Assimilating Institution · [DOI](https://doi.org/10.2307/2573000)
+
+## 1949
+
+- Research Note on Inter- and Intra-Racial Homicides · [DOI](https://doi.org/10.2307/2572490)
+
+## 1947
+
+- The Concept of the Sub-Culture and Its Application · [DOI](https://doi.org/10.2307/2572602)
+
+## 1946
+
+- Black Metropolis. A Study of Negro Life in a Northern City. By St. Clair Drake and Horace R. Cayton. New York: Harcourt, Brace and Co. 809 pp. $5.00 · [DOI](https://doi.org/10.2307/2571498)
+
+## 1942
+
+- The Modern Caste School of Race Relations · [DOI](https://doi.org/10.2307/2570563)
+- The Process of Urbanization · [DOI](https://doi.org/10.2307/3005615)
+
+## 1939
+
+- The Professions and Social Structure · [DOI](https://doi.org/10.2307/2570695)
+
+## 1932
+
+- Are Broken Homes a Causative Factor in Juvenile Delinquency? · [DOI](https://doi.org/10.2307/2569899)
+
+## 1929
+
+- City Planning for Neighborhood Life · [DOI](https://doi.org/10.2307/2570059)

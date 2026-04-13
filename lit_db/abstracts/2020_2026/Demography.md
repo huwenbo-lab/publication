@@ -1,9 +1,14 @@
 # Demography
 ## 2020–2026 年文章（含摘要）
 
-共 **533** 篇
+共 **534** 篇
 
 ---
+
+### Causal Effects of Education on Marriage and Fertility in Japan: A Research Note on a Quasi-Experimental Approach Utilizing Zodiac Superstition as an Exogenous Shock
+**年份**: 2026 | **DOI**: [10.1215/00703370-12530548](https://doi.org/10.1215/00703370-12530548)
+**作者**: Fu, Rong; Wang, Senhu; Shen, Yichen 等4人
+**摘要**: Abstract Despite extensive research on education's relationship with family formation, causal evidence remains limited, particularly for postsecondary education in East Asia. This research note provides novel causal evidence on education's effects on marriage and fertility among Japanese women by ex…
 
 ### Single Parenthood, Gender, and Mortality
 **年份**: 2025 | **DOI**: [10.1215/00703370-12234087](https://doi.org/10.1215/00703370-12234087)

@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2000–2009 年文章（含摘要）
 
-共 **162** 篇
+共 **168** 篇
 
 ---
 
@@ -79,6 +79,11 @@
 **年份**: 2009 | **DOI**: [10.1177/003804070908200104](https://doi.org/10.1177/003804070908200104)
 **作者**: Bennett, Pamela R.; Lutz, Amy
 **摘要**: Previous research has shown that although a smaller proportion of black high school graduates than white high school graduates attend college, black high school graduates are more likely than white high school graduates to attend college net of differences in socioeconomic family background and acad…
+
+### The Downside of Social Closure: Brokerage, Parental Influence, and Delinquency Among African American Boys
+**年份**: 2009 | **DOI**: [10.1177/003804070908200203](https://doi.org/10.1177/003804070908200203)
+**作者**: Mangino, William
+**摘要**: Building on the literature that stresses the social capital advantages of open and diffuse social networks, this article shows that African American boys who are a social bridge across two or more large but cohesive peer groups are less delinquent than are their counterparts who are members of a sin…
 
 ### How Changes in Families and Schools Are Related to Trends in Black-White Test Scores
 **年份**: 2008 | **DOI**: [10.1177/003804070808100401](https://doi.org/10.1177/003804070808100401)
@@ -380,6 +385,11 @@
 **作者**: Renzulli, LA
 **摘要**: There is a growing abundance of research on outcomes of charter schools for children, teachers, and communities, yet a paucity of research on why and how charter schools form in the first place.…
 
+### Attainable Goals? The Spirit and Letter of the No Child Left Behind Act on Parental Involvement
+**年份**: 2005 | **DOI**: [10.1177/003804070507800207](https://doi.org/10.1177/003804070507800207)
+**作者**: Epstein, Joyce L.
+**摘要**: （暂无）
+
 ### When race matters: Teachers' evaluations of students' classroom behavior
 **年份**: 2004 | **DOI**: [10.1177/003804070407700401](https://doi.org/10.1177/003804070407700401)
 **作者**: Downey, DB; Pribesh, S
@@ -444,6 +454,16 @@
 **年份**: 2004 | **DOI**: [10.1177/003804070407700104](https://doi.org/10.1177/003804070407700104)
 **作者**: Morgan, SL; Mehta, JD
 **摘要**: The black-white gap in achievement, as measured by performance on standardized tests, has received considerable attention from researchers in the past five years. Claude Steele's stereotype threat and disidentification mechanism is perhaps the most heralded of the new explanations for residual racia…
+
+### Social Capital, Cultural Values, Immigration, and Academic Achievement: The Host Country Context and Contradictory Consequences
+**年份**: 2004 | **DOI**: [10.1177/003804070407700205](https://doi.org/10.1177/003804070407700205)
+**作者**: Bankston, Carl L.
+**摘要**: （暂无）
+
+### Social Capital and Its Relevance to Minority and Immigrant Populations
+**年份**: 2004 | **DOI**: [10.1177/003804070407700204](https://doi.org/10.1177/003804070407700204)
+**作者**: Kao, Grace
+**摘要**: （暂无）
 
 ### Reassessing the burden of 'acting white': The importance of peer groups in managing academic success
 **年份**: 2003 | **DOI**: [10.2307/1519866](https://doi.org/10.2307/1519866)
@@ -744,6 +764,16 @@
 **年份**: 2001 | **DOI**: [10.2307/2673256](https://doi.org/10.2307/2673256)
 **作者**: Bidwell, CE
 **摘要**: In this article, principal theoretical developments in the study of schools as organizations are reviewed, particularly, neo-institutional theory and the analysis of the faculty workplace. On the basis of this review, a theoretical approach that integrates the two is proposed.…
+
+### Comment: The First and Second Digital Divides
+**年份**: 2001 | **DOI**: [10.2307/2673277](https://doi.org/10.2307/2673277)
+**作者**: Attewell, Paul
+**摘要**: （暂无）
+
+### The Social Sources of Educational Credentialism: Status Cultures, Labor Markets, and Organizations
+**年份**: 2001 | **DOI**: [10.2307/2673251](https://doi.org/10.2307/2673251)
+**作者**: Brown, David K.
+**摘要**: （暂无）
 
 ### Educational stratification in contemporary Russia: Stability and change in the face of economic and institutional crisis
 **年份**: 2000 | **DOI**: [10.2307/2673232](https://doi.org/10.2307/2673232)

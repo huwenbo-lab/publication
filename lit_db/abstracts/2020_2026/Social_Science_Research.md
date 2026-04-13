@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2020–2026 年文章（含摘要）
 
-共 **524** 篇
+共 **530** 篇
 
 ---
 
@@ -79,6 +79,26 @@
 **年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2025.103253](https://doi.org/10.1016/j.ssresearch.2025.103253)
 **作者**: Kryston, Kevin
 **摘要**: Research indicates that people's responses to violence-and the way media portrays said violence-are influenced by intuitive moral judgments shaped by social cues that define right and wrong.…
+
+### The structural fit of personal gender beliefs: A cross-national analysis of its implications for life satisfaction
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103308](https://doi.org/10.1016/j.ssresearch.2026.103308)
+**作者**: Olivos, Francisco; Sun, Yuning; Ho, Lok-Sang
+**摘要**: （暂无）
+
+### Is my manager feeling threatened by me? Racial differences in content and activation of threat metastereotypes
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2025.103306](https://doi.org/10.1016/j.ssresearch.2025.103306)
+**作者**: Nelson, Jennifer L.; Fish, Rachel Elizabeth
+**摘要**: （暂无）
+
+### Polluting student test performance: School-based evidence on the adverse effects of air pollution
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103343](https://doi.org/10.1016/j.ssresearch.2026.103343)
+**作者**: Rubio-Cabañez, Maria; Radl, Jonas
+**摘要**: （暂无）
+
+### The gender system: A cross-national perspective
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103344](https://doi.org/10.1016/j.ssresearch.2026.103344)
+**作者**: Quintana, Rafael
+**摘要**: （暂无）
 
 ### Who do they think you are? Inconsistencies in self-and proxy-reports of education within families
 **年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2025.103225](https://doi.org/10.1016/j.ssresearch.2025.103225)
@@ -584,6 +604,10 @@
 **年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2024.103095](https://doi.org/10.1016/j.ssresearch.2024.103095)
 **作者**: Zanasi, Francesca; Bordone, Valeria
 **摘要**: As the early years are crucial for individuals' lifelong socioeconomic success, extensive research has examined the impact of non-maternal childcare on children's development. This study aims to enhance the understanding of the relationship between grandparental involvement (defined as grandparent c…
+
+### Editorial Board
+**年份**: 2025 | **DOI**: [10.1016/s0049-089x(24)00141-8](https://doi.org/10.1016/s0049-089x(24)00141-8)
+**摘要**: （暂无）
 
 ### Field of study, political attitudes, and support for the radical right in Sweden and Europe
 **年份**: 2024 | **DOI**: [10.1016/j.ssresearch.2024.103091](https://doi.org/10.1016/j.ssresearch.2024.103091)
@@ -1884,6 +1908,11 @@
 **年份**: 2022 | **DOI**: [10.1016/j.ssresearch.2021.102623](https://doi.org/10.1016/j.ssresearch.2021.102623)
 **作者**: Zimmerman, Gregory M.; -Smith, Ayanna Miller
 **摘要**: There is a growing body of research linking racial and ethnic discrimination to adverse youth outcomes. Beyond experienced racial and ethnic discrimination, this study considers the relevance of anticipated and vicarious racial and ethnic discrimination for depression and suicidal behavior.…
+
+### Gender, union formation, and assortative mating among older women
+**年份**: 2022 | **DOI**: [10.1016/j.ssresearch.2021.102656](https://doi.org/10.1016/j.ssresearch.2021.102656)
+**作者**: Lichter, Daniel T.; Qian, Zhenchao; Song, Haoming
+**摘要**: （暂无）
 
 ### Understanding the role of religion in shaping cross-national and domestic attitudes and interest in abortion, homosexuality, and pornography using traditional and Google search data
 **年份**: 2021 | **DOI**: [10.1016/j.ssresearch.2021.102602](https://doi.org/10.1016/j.ssresearch.2021.102602)

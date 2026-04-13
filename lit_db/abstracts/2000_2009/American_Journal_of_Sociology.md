@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **274** 篇
+共 **279** 篇
 
 ---
 
@@ -290,6 +290,16 @@
 **作者**: Skaggs, Sheryl
 **摘要**: Despite women's advancement in the workplace over the past 40 years, their representation in top-level positions remains disproportionately low relative to that of men. This raises the question of what factors drive greater gender equality in managerial ranks.…
 
+### Conservatism, Institutionalism, and the Social Control of Intergroup Conflict
+**年份**: 2008 | **DOI**: [10.1086/525511](https://doi.org/10.1086/525511)
+**作者**: King, Ryan D.
+**摘要**: （暂无）
+
+### Becoming Full Citizens: The U.S. Women’s Jury Rights Campaigns, the Pace of Reform, and Strategic Adaptation
+**年份**: 2008 | **DOI**: [10.1086/522805](https://doi.org/10.1086/522805)
+**作者**: McCammon, Holly J.; Chaudhuri, Soma; Hewitt, Lyndi 等7人
+**摘要**: （暂无）
+
 ### Trajectories of failure: The educational careers of children with mental health problems
 **年份**: 2007 | **DOI**: [10.1086/521849](https://doi.org/10.1086/521849)
 **作者**: McLeod, Jane D.; Fettes, Danielle L.
@@ -409,6 +419,16 @@
 **年份**: 2007 | **DOI**: [10.1086/508788](https://doi.org/10.1086/508788)
 **作者**: Dobbin, Frank; Kelly, Erin L.
 **摘要**: Most employers installed sexual harassment grievance procedures and sensitivity training by the late 1990s. It was personnel experts, not courts, legislatures, or lawyers, who promoted these antiharassment strategies, drawn from the profession's tool kit.…
+
+### Institutional Emergence in an Era of Globalization: The Rise of Transnational Private Regulation of Labor and Environmental Conditions
+**年份**: 2007 | **DOI**: [10.1086/518871](https://doi.org/10.1086/518871)
+**作者**: Bartley, Tim
+**摘要**: （暂无）
+
+### Human Rights and Gender Violence: Translating International Law into Local Justice. By Sally Engle Merry. Chicago: University of Chicago Press, 2006. Pp. 269.
+**年份**: 2007 | **DOI**: [10.1086/518062](https://doi.org/10.1086/518062)
+**作者**: Boyle, Elizabeth Heger
+**摘要**: （暂无）
 
 ### Neighborhood choice and neighborhood change
 **年份**: 2006 | **DOI**: [10.1086/507856](https://doi.org/10.1086/507856)
@@ -929,6 +949,11 @@
 **年份**: 2003 | **DOI**: [10.1086/367921](https://doi.org/10.1086/367921)
 **作者**: Baumer, EP; Messner, SF; Rosenfeld, R
 **摘要**: This research examines the effects of social context on support for the death penalty using individual-level data from the 1974-98 General Social Survey (GSS), which have been linked with aggregate-level data on homicide rates and sociodemographic, political, and economic characteristics.…
+
+### Ballot Manipulation and the “Menace of Negro Domination”: Racial Threat and Felon Disenfranchisement in the United States, 1850–2002
+**年份**: 2003 | **DOI**: [10.1086/378647](https://doi.org/10.1086/378647)
+**作者**: Behrens, Angela; Uggen, Christopher; Manza, Jeff
+**摘要**: （暂无）
 
 ### Life course risks, mobility regimes, and mobility consequences: A comparison of Sweden, Germany, and the United States
 **年份**: 2002 | **DOI**: [10.1086/344811](https://doi.org/10.1086/344811)

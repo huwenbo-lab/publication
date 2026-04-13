@@ -1,9 +1,14 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2453** 篇 | 年份范围：2000–2025
+共 **2515** 篇 | 年份范围：1966–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
+
+## 2026
+
+- The Socioeconomic Gradient in Joint Physical Custody: A Comparison of 32 Countries · [DOI](https://doi.org/10.1111/jomf.70056)
+- Couple Mobility and Employment Patterns. A Gender Perspective in Six European Countries · [DOI](https://doi.org/10.1111/jomf.70063)
 
 ## 2025
 
@@ -553,6 +558,7 @@
 - The Intergenerational Transmission of Socioeconomic Status in Stepfamilies: What Happens if Two Fathers Are Involved in the Transmission Process? · [DOI](https://doi.org/10.1111/jomf.12610)
 - Racial Diversity in the Marital Assimilation of Hispanics · [DOI](https://doi.org/10.1111/jomf.12601)
 - Stepparental Support to Adult Children: The Diverging Roles of Stepmothers and Stepfathers · [DOI](https://doi.org/10.1111/jomf.12599)
+- Pathways to Parenthood in Social and Family Contexts: Decade in Review, 2020 · [DOI](https://doi.org/10.1111/jomf.12618)
 
 ## 2019
 
@@ -2535,3 +2541,143 @@
 - Structural Flaws in the Bridge From Basic Research on Marriage to Interventions for Couples · [DOI](https://doi.org/10.1111/j.1741-3737.2000.00256.x)
 - Scholarship on Fatherhood in the 1990s and Beyond · [DOI](https://doi.org/10.1111/j.1741-3737.2000.01173.x)
 - Perspectives on American Kinship in the Later 1990s · [DOI](https://doi.org/10.1111/j.1741-3737.2000.00623.x)
+
+## 1999
+
+- Scaling Back: Dual-Earner Couples' Work-Family Strategies · [DOI](https://doi.org/10.2307/354019)
+- Explaining the Higher Incidence of Adjustment Problems among Children of Divorce Compared with Those in Two-Parent Families · [DOI](https://doi.org/10.2307/354021)
+- Playing All the Roles: Gender and the Work-Family Balancing Act · [DOI](https://doi.org/10.2307/353763)
+- Do Fertility Intentions Affect Fertility Behavior? · [DOI](https://doi.org/10.2307/353578)
+- Emotional Transmission in Couples Under Stress · [DOI](https://doi.org/10.2307/353881)
+- Nonresident Fathers and Children's Well-Being: A Meta-Analysis · [DOI](https://doi.org/10.2307/353560)
+
+## 1998
+
+- "They Think You Ain't Much of Nothing": The Social Construction of the Welfare Mother · [DOI](https://doi.org/10.2307/353629)
+- The Impact of Husbands' and Wives' Relative Earnings on Marital Disruption · [DOI](https://doi.org/10.2307/353538)
+
+## 1997
+
+- Consequences of Young Mothers' Marital Histories for Children's Cognitive Development · [DOI](https://doi.org/10.2307/353468)
+- Gender, Status, and Domestic Violence: An Integration of Feminist and Family Violence Approaches · [DOI](https://doi.org/10.2307/353952)
+
+## 1996
+
+- Living Separately as a Child-Care Strategy: Implications for Women's Work and Family in Urban Thailand · [DOI](https://doi.org/10.2307/353499)
+- Caring More or Less: Individualistic and Collectivist Systems of Family Eldercare · [DOI](https://doi.org/10.2307/353503)
+
+## 1995
+
+- Marriage, Sex, and Mortality · [DOI](https://doi.org/10.2307/353703)
+- Understanding and Evaluating Qualitative Research · [DOI](https://doi.org/10.2307/353409)
+- Coping with the Dual-Income Lifestyle · [DOI](https://doi.org/10.2307/353819)
+- Belief and Behavior: Does Religion Matter in Today's Marriage? · [DOI](https://doi.org/10.2307/353921)
+- A Controlled Parenting Skills Outcome Study Examining Individual Difference and Attendance Effects · [DOI](https://doi.org/10.2307/353698)
+- Caregiver Burden: Differentiating the Content and Consequences of Family Caregiving · [DOI](https://doi.org/10.2307/353928)
+- Commitment and Dependency in Marriage · [DOI](https://doi.org/10.2307/353702)
+
+## 1993
+
+- American Family Decline, 1960-1990: A Review and Appraisal · [DOI](https://doi.org/10.2307/353333)
+- A Comparison of Voluntarily Childfree Adults and Parents · [DOI](https://doi.org/10.2307/353345)
+- Care of the Elderly in Japan: Changing Norms and Expectations · [DOI](https://doi.org/10.2307/353340)
+
+## 1992
+
+- Educational Expansion and Changes in Women's Entry into Marriage and Motherhood in the Federal Republic of Germany · [DOI](https://doi.org/10.2307/353062)
+
+## 1991
+
+- Fathers, Sons, and Daughters: Differential Paternal Involvement in Parenting · [DOI](https://doi.org/10.2307/352730)
+
+## 1990
+
+- Quantitative Research on Marital Quality in the 1980s: A Critical Review · [DOI](https://doi.org/10.2307/353304)
+- A Meta-Analytic Review of Family Structure Stereotypes · [DOI](https://doi.org/10.2307/353026)
+- Parenting Styles, Drug Use, and Children's Adjustment in Families of Young Adults · [DOI](https://doi.org/10.2307/352849)
+
+## 1989
+
+- Gender in Families: Women and Men in Marriage, Work, and Parenthood · [DOI](https://doi.org/10.2307/353201)
+- Marital Satisfaction in Remarriage: A Meta-Analysis · [DOI](https://doi.org/10.2307/352170)
+- The Contagion of Stress across Multiple Roles · [DOI](https://doi.org/10.2307/352378)
+- Adolescent Violence toward Parents · [DOI](https://doi.org/10.2307/352169)
+
+## 1988
+
+- Parental Self-Esteem and Its Relationship to Childrearing Practices, Parent-Adolescent Interaction, and Adolescent Behavior · [DOI](https://doi.org/10.2307/352115)
+- Explaining Intergenerational Conflict When Adult Children and Elderly Parents Live Together · [DOI](https://doi.org/10.2307/352113)
+- Sex Ratios, Economic Power, and Women's Roles: A Theoretical Extension and Empirical Test · [DOI](https://doi.org/10.2307/352424)
+- Work Role Characteristics, Family Structure Demands, and Work/Family Conflict · [DOI](https://doi.org/10.2307/352644)
+- Family Migration and Female Employment: The Problem of Underemployment among Migrant Married Women · [DOI](https://doi.org/10.2307/352436)
+- Marital Strain, Coping, and Depression among Mexican-American Women · [DOI](https://doi.org/10.2307/352005)
+- A Generic Measure of Relationship Satisfaction · [DOI](https://doi.org/10.2307/352430)
+
+## 1987
+
+- Determinants of Fathers' Participation in Family Work · [DOI](https://doi.org/10.2307/352667)
+- Family Processes in One-Parent, Stepparent, and Intact Families: The Child's Point of View · [DOI](https://doi.org/10.2307/352303)
+- Income Change, Parental Life Outlook, and Adolescent Expectations for Job Success · [DOI](https://doi.org/10.2307/352678)
+
+## 1986
+
+- Recent Changes in Divorce and Remarriage · [DOI](https://doi.org/10.2307/352566)
+
+## 1985
+
+- Age at Marriage and Marital Instability · [DOI](https://doi.org/10.2307/352069)
+
+## 1984
+
+- The Intergenerational Transmission of Marital Aggression · [DOI](https://doi.org/10.2307/351858)
+
+## 1983
+
+- Age at Marriage, Role Enactment, Role Consensus, and Marital Satisfaction · [DOI](https://doi.org/10.2307/351792)
+
+## 1982
+
+- Adult Role Transitions, Parental Influence, and Status Aspirations Early in the Life Course · [DOI](https://doi.org/10.2307/351261)
+
+## 1981
+
+- Structural Exchange and Marital Interaction · [DOI](https://doi.org/10.2307/351340)
+
+## 1979
+
+- Measuring Intrafamily Conflict and Violence: The Conflict Tactics (CT) Scales · [DOI](https://doi.org/10.2307/351733)
+
+## 1977
+
+- A Clarification of the Concept of Psychological Father Presence in Families Experiencing Ambiguity of Boundary · [DOI](https://doi.org/10.2307/351070)
+- Updating the Life Cycle of the Family · [DOI](https://doi.org/10.2307/351058)
+
+## 1976
+
+- Measuring Dyadic Adjustment: New Scales for Assessing the Quality of Marriage and Similar Dyads · [DOI](https://doi.org/10.2307/350547)
+
+## 1974
+
+- Cross-Sex Friendship · [DOI](https://doi.org/10.2307/350992)
+
+## 1972
+
+- Role Transitions: A Reformulation of Theory · [DOI](https://doi.org/10.2307/350436)
+
+## 1971
+
+- Purdah in Pakistan: Seclusion and Modern Occupations for Women · [DOI](https://doi.org/10.2307/349849)
+
+## 1969
+
+- Occupational Characteristics and Males' Role Performance in the Family · [DOI](https://doi.org/10.2307/349312)
+- Familial Behavior as Social Exchange · [DOI](https://doi.org/10.2307/349775)
+
+## 1968
+
+- Premarital Reference-Group Orientations and Marriage Adjustment · [DOI](https://doi.org/10.2307/349906)
+- Transition to Parenthood · [DOI](https://doi.org/10.2307/350219)
+
+## 1966
+
+- An Analysis of Power Dynamics in Marriage · [DOI](https://doi.org/10.2307/349283)
