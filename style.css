@@ -552,7 +552,7 @@ code {
     padding: 0 18px;
     border: 1px solid rgba(24, 48, 67, 0.12);
     border-radius: 18px;
-    background: rgba(255, 255, 255, 0.92);
+    background: var(--surface-input);
     color: var(--ink-strong);
     font-size: 1rem;
     outline: none;
