@@ -1,9 +1,22 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **846** 篇 | 年份范围：2001–2025
+共 **861** 篇 | 年份范围：2001–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
+
+## 2026
+
+- The Role of Income Stratification in Shaping Class Conflict Perceptions: Evidence from ISSP 1987-2019 · [DOI](https://doi.org/10.1016/j.rssm.2026.101153)
+- The role of graduate education in the intergenerational reproduction of inequality in Chile · [DOI](https://doi.org/10.1016/j.rssm.2026.101147)
+- Temporary employment and further training. Does training promote the transition from temporary to permanent employment? · [DOI](https://doi.org/10.1016/j.rssm.2026.101130)
+- It takes two to court: Partnership formation in the context of forced migration · [DOI](https://doi.org/10.1016/j.rssm.2026.101134)
+- Personality traits and hiring: Exploring employer preferences through a vignette study in Japan · [DOI](https://doi.org/10.1016/j.rssm.2025.101111)
+- Cultural stratification in the labor market outcomes of university-educated migrants in Australia: The relevance of cultural and linguistic proximity · [DOI](https://doi.org/10.1016/j.rssm.2026.101148)
+- Early insights into intergenerational education mobility and emotional problems during the transition to secondary school in Germany · [DOI](https://doi.org/10.1016/j.rssm.2026.101149)
+- The long-term effects of adolescent work on adult socioeconomic attainment · [DOI](https://doi.org/10.1016/j.rssm.2026.101137)
+- Stratification of post-birth labour supply in a high- and low- maternal employment regime · [DOI](https://doi.org/10.1016/j.rssm.2026.101133)
+- Educational expansion, occupational upgrading, and the changing structure of education-occupation linkages in Sweden, 1960–2013 · [DOI](https://doi.org/10.1016/j.rssm.2026.101135)
 
 ## 2025
 
@@ -71,6 +84,7 @@
 - Parental involvement in elementary schools and children's academic achievement: A longitudinal analysis across educational groups in Finland · [DOI](https://doi.org/10.1016/j.rssm.2024.101007)
 - The contribution of work values to early career mobility · [DOI](https://doi.org/10.1016/j.rssm.2024.100996)
 - Human capital and the upward occupational mobility of rural migrant workers in China · [DOI](https://doi.org/10.1016/j.rssm.2024.100997)
+- Disability discrimination in hiring: A systematic review · [DOI](https://doi.org/10.1016/j.rssm.2025.101069)
 
 ## 2024
 
@@ -150,6 +164,7 @@
 - Starting flexible, always flexible? The relation of early temporary employment and young workers employment trajectories in the Netherlands · [DOI](https://doi.org/10.1016/j.rssm.2023.100861)
 - Segplot: A new method for visualizing patterns of multi-group segregation · [DOI](https://doi.org/10.1016/j.rssm.2023.100860)
 - Intra-couple comparison, intra-gender comparison and class identity of Chinese couples · [DOI](https://doi.org/10.1016/j.rssm.2023.100849)
+- Is universal early childhood education and care an equalizer? A systematic review and meta-analysis of evidence · [DOI](https://doi.org/10.1016/j.rssm.2023.100859)
 
 ## 2023
 
@@ -255,6 +270,7 @@
 - The structure of financial systems and top incomes in advanced economies: A comparative distributional analysis of the financial wage premium · [DOI](https://doi.org/10.1016/j.rssm.2022.100675)
 - Good or bad (in)stability? A cross-cohort study of the relation between career stability and earnings mobility in Finland · [DOI](https://doi.org/10.1016/j.rssm.2022.100674)
 - Revisiting the historical trend of educational stratification in Soviet and post-Soviet Russia · [DOI](https://doi.org/10.1016/j.rssm.2021.100662)
+- The rise of income and the demise of class and social status? A systematic review of measures of socio-economic position in stratification research · [DOI](https://doi.org/10.1016/j.rssm.2022.100678)
 
 ## 2021
 
@@ -372,6 +388,7 @@
 - What do the upwardly mobile think they deserve, and why? A multi-method investigation · [DOI](https://doi.org/10.1016/j.rssm.2019.100459)
 - Employment opportunities for ex-offenders A field experiment on how type of crime and applicants' ethnic background affect employment opportunities for low-educated men in the Netherlands · [DOI](https://doi.org/10.1016/j.rssm.2020.100476)
 - Ethnic and social class discrimination in education: Experimental evidence from Germany · [DOI](https://doi.org/10.1016/j.rssm.2019.100461)
+- What works to reduce inequalities in higher education? A systematic review of the (quasi-)experimental literature on outreach and financial aid · [DOI](https://doi.org/10.1016/j.rssm.2019.100442)
 
 ## 2019
 
@@ -691,6 +708,7 @@
 - Educational credentials and external effects: A test for the Netherlands · [DOI](https://doi.org/10.1016/j.rssm.2010.12.003)
 - Signals and closure by degrees: The education effect across 15 European countries · [DOI](https://doi.org/10.1016/j.rssm.2010.12.002)
 - An overture for the sociology of credentialing: Empirical, theoretical, and moral considerations · [DOI](https://doi.org/10.1016/j.rssm.2011.01.005)
+- Introduction to symposium on unmeasured heterogeneity in school transition models · [DOI](https://doi.org/10.1016/j.rssm.2011.05.004)
 
 ## 2010
 

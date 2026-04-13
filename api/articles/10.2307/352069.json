@@ -1,0 +1,29 @@
+{
+  "title": "Age at Marriage and Marital Instability",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Booth, Alan",
+      "family": "Booth",
+      "given": "Alan"
+    },
+    {
+      "raw": "Edwards, John N.",
+      "family": "Edwards",
+      "given": "John N."
+    }
+  ],
+  "authors_text": "Booth, Alan; Edwards, John N.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 1985,
+  "doi": "10.2307/352069",
+  "doi_url": "https://doi.org/10.2307/352069",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F352069",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/352069.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": ""
+  }
+}

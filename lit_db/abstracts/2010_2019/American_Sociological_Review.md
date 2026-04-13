@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2010–2019 年文章（含摘要）
 
-共 **408** 篇
+共 **413** 篇
 
 ---
 
@@ -565,6 +565,11 @@
 **作者**: Samilaa, Sampsa; Sorenson, Olav
 **摘要**: We argue that social integration-in the sense of within-community interconnectedness-and venture capital have a complementary relationship in fostering innovation, entrepreneurship, and economic growth.…
 
+### Difficult People: Who Is Perceived to Be Demanding in Personal Networks and Why Are They There?
+**年份**: 2017 | **DOI**: [10.1177/0003122417737951](https://doi.org/10.1177/0003122417737951)
+**作者**: Offer, Shira; Fischer, Claude S.
+**摘要**: Why do people maintain ties with individuals whom they find difficult? Standard network theories imply that such alters are avoided or dropped. Drawing on a survey of over 1,100 diverse respondents who described over 12,000 relationships, we examined which among those ties respondents nominated as a…
+
 ### Explaining the Gaps in White, Black, and Hispanic Violence since 1990: Accounting for Immigration, Incarceration, and Inequality
 **年份**: 2016 | **DOI**: [10.1177/0003122416635667](https://doi.org/10.1177/0003122416635667)
 **作者**: Light, Michael T.; Ulmer, Jeffery T.
@@ -790,6 +795,11 @@
 **作者**: Moen, Phyllis; Kelly, Erin L.; Fan, Wen 等7人
 **摘要**: This study tests a central theoretical assumption of stress process and job strain models, namely that increases in employees' control and support at work should promote well-being. To do so, we use a group-randomized field trial with longitudinal data from 867 information technology (IT) workers to…
 
+### How Parents Fare
+**年份**: 2016 | **DOI**: [10.1177/0003122416663917](https://doi.org/10.1177/0003122416663917)
+**作者**: Musick, Kelly; Meier, Ann; Flood, Sarah
+**摘要**: The shift to more time-intensive and child-centered parenting in the United States is widely assumed to be positively linked to healthy child development, but implications for adult well-being are less clear.…
+
 ### No Fracking Way! Documentary Film, Discursive Opportunity, and Local Opposition against Hydraulic Fracturing in the United States, 2010 to 2013
 **年份**: 2015 | **DOI**: [10.1177/0003122415598534](https://doi.org/10.1177/0003122415598534)
 **作者**: Vasi, Ion Bogdan; Walker, Edward T.; Johnson, John S. 等4人
@@ -979,6 +989,16 @@
 **年份**: 2015 | **DOI**: [10.1177/0003122414558919](https://doi.org/10.1177/0003122414558919)
 **作者**: O'Brien, Timothy L.; Noy, Shiri
 **摘要**: Using General Social Survey data, we examine perspectives on science and religion in the United States. Latent class analysis reveals three groups based on knowledge and attitudes about science, religiosity, and preferences for certain religious interpretations of the world.…
+
+### A Paper Ceiling
+**年份**: 2015 | **DOI**: [10.1177/0003122415596999](https://doi.org/10.1177/0003122415596999)
+**作者**: Shor, Eran; van de Rijt, Arnout; Miltsov, Alex 等5人
+**摘要**: In the early twenty-first century, women continue to receive substantially less media coverage than men, despite women’s much increased participation in public life. Media scholars argue that actors in news organizations skew news coverage in favor of men and male-related topics.…
+
+### Tradition and Innovation in Scientists’ Research Strategies
+**年份**: 2015 | **DOI**: [10.1177/0003122415601618](https://doi.org/10.1177/0003122415601618)
+**作者**: Foster, Jacob G.; Rzhetsky, Andrey; Evans, James A.
+**摘要**: What factors affect a scientist’s choice of research problem? Qualitative research in the history and sociology of science suggests that this choice is patterned by an “essential tension” between productive tradition and risky innovation.…
 
 ### Union Strength, Neoliberalism, and Inequality: Contingent Political Analyses of US Income Differences since 1950
 **年份**: 2014 | **DOI**: [10.1177/0003122414536392](https://doi.org/10.1177/0003122414536392)
@@ -1654,6 +1674,11 @@
 **年份**: 2012 | **DOI**: [10.1177/0003122412447793](https://doi.org/10.1177/0003122412447793)
 **作者**: Quillian, Lincoln
 **摘要**: A key argument of Massey and Denton's (1993) American Apartheid is that racial residential segregation and non-white group poverty rates combine interactively to produce spatially concentrated poverty.…
+
+### C-Escalation and D-Escalation
+**年份**: 2012 | **DOI**: [10.1177/0003122411428221](https://doi.org/10.1177/0003122411428221)
+**作者**: Collins, Randall
+**摘要**: Conflict escalates through a series of feedback loops. On the micro level, conflict generates conditions for intense interaction rituals, and internal solidarity fuels external conflict.…
 
 ### Social Environment, Genes, and Aggression: Evidence Supporting the Differential Susceptibility Perspective
 **年份**: 2011 | **DOI**: [10.1177/0003122411427580](https://doi.org/10.1177/0003122411427580)

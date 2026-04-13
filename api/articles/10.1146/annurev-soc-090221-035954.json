@@ -1,0 +1,34 @@
+{
+  "title": "Reproducibility in the Social Sciences",
+  "abstract": "Concern over social scientists’ inability to reproduce empirical research has spawned a vast and rapidly growing literature. The size and growth of this literature make it difficult for newly interested academics to come up to speed. Here, we provide a formal text modeling approach to characterize the entirety of the field, which allows us to summarize the breadth of this literature and identify core themes. We construct and analyze text networks built from 1,947 articles to reveal differences across social science disciplines within the body of reproducibility publications and to discuss the diversity of subtopics addressed in the literature. This field-wide view suggests that reproducibility is a heterogeneous problem with multiple sources for errors and strategies for solutions, a finding that is somewhat at odds with calls for largely passive remedies reliant on open science. We propose an alternative rigor and reproducibility model that takes an active approach to rigor prior to publication, which may overcome some of the shortfalls of the postpublication model.",
+  "authors": [
+    {
+      "raw": "Moody, James W.",
+      "family": "Moody",
+      "given": "James W."
+    },
+    {
+      "raw": "Keister, Lisa A.",
+      "family": "Keister",
+      "given": "Lisa A."
+    },
+    {
+      "raw": "Ramos, Maria C.",
+      "family": "Ramos",
+      "given": "Maria C."
+    }
+  ],
+  "authors_text": "Moody, James W.; Keister, Lisa A.; Ramos, Maria C.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2022,
+  "doi": "10.1146/annurev-soc-090221-035954",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-090221-035954",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-090221-035954",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-090221-035954.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Annual_Review_of_Sociology.md"
+  }
+}

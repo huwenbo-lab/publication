@@ -1,0 +1,34 @@
+{
+  "title": "African-American marriage in 1910: Beneath the surface of census data",
+  "abstract": "Abstract This paper examines the quality of information about marital status, marital duration, and marriage order among African-American women in the U.S. Census of 1910. It compares the reported prevalence of widowhood to estimates of widowhood based on the mortality of black men and on the ages of women at first marriage. It also compares the reported distributions of duration of first marriage to estimates based on mortality and on age at first marriage. It concludes that census reports are subject to serious error. Widowhood is overreported, and marital turnover appears to have been faster than implied by census reports. The prevelance of “own children” is used to confirm these conclusions and to suggest motivations for misreporting.",
+  "authors": [
+    {
+      "raw": "Preston, Samuel H.",
+      "family": "Preston",
+      "given": "Samuel H."
+    },
+    {
+      "raw": "Lim, Suet",
+      "family": "Lim",
+      "given": "Suet"
+    },
+    {
+      "raw": "Morgan, S. Philip",
+      "family": "Morgan",
+      "given": "S. Philip"
+    }
+  ],
+  "authors_text": "Preston, Samuel H.; Lim, Suet; Morgan, S. Philip",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1992,
+  "doi": "10.2307/2061359",
+  "doi_url": "https://doi.org/10.2307/2061359",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2061359",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2061359.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

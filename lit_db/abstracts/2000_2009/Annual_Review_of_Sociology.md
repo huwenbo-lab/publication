@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **77** 篇
+共 **115** 篇
 
 ---
 
@@ -30,6 +30,36 @@
 **作者**: Wilkinson, Richard G.; Pickett, Kate E.
 **摘要**: Population health tends to be better in societies where income is more equally distributed. Recent evidence suggests that many other social problems, including mental illness, violence, imprisonment, lack of trust, teenage births, obesity, drug abuse, and poor educational performance of schoolchildr…
 
+### Sociology of Sex Work
+**年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-120025](https://doi.org/10.1146/annurev-soc-070308-120025)
+**作者**: Weitzer, Ronald
+**摘要**: This review examines key dimensions of contemporary sex work, particularly prostitution. Most research focuses exclusively on street prostitution and female workers, with much less attention devoted to indoor prostitution, male and transgender workers, customers, and managers.…
+
+### Educational Assortative Marriage in Comparative Perspective
+**年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-115913](https://doi.org/10.1146/annurev-soc-070308-115913)
+**作者**: Blossfeld, Hans-Peter
+**摘要**: Most studies of assortative marriage still rely on cross-sectional data and apply log-linear modeling of the contingency table of wives’ and husbands’ educational levels. However, these macro studies have provided quite ambiguous findings and interpretations.…
+
+### Political Sociology and Social Movements
+**年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-120035](https://doi.org/10.1146/annurev-soc-070308-120035)
+**作者**: Walder, Andrew G.
+**摘要**: Until the 1970s, the study of social movements was firmly within a diverse sociological tradition that explored the relationship between social structure and political behavior, and was preoccupied with explaining variation in the political orientation of movements: their ideologies, aims, motivatio…
+
+### Nonhumans in Social Interaction
+**年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-120008](https://doi.org/10.1146/annurev-soc-070308-120008)
+**作者**: Cerulo, Karen A.
+**摘要**: Sociological analyses of social interaction have been primarily directed toward human-to-human exchange. Recently, some have begun to actively question that stance. Challenges are found in new theoretical ideas and in empirical study—experimental, field, and survey data on people's attitudes and beh…
+
+### Men, Masculinity, and Manhood Acts
+**年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-115933](https://doi.org/10.1146/annurev-soc-070308-115933)
+**作者**: Schrock, Douglas; Schwalbe, Michael
+**摘要**: In the 1980s research on men shifted from studying the “male sex role” and masculinity as a singular trait to studying how men enact diverse masculinities. This research has examined men's behavior as gendered beings in many contexts, from intimate relationships to the workplace to global politics.…
+
+### Gender Ideology: Components, Predictors, and Consequences
+**年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-115920](https://doi.org/10.1146/annurev-soc-070308-115920)
+**作者**: Davis, Shannon N.; Greenstein, Theodore N.
+**摘要**: The purpose of this article is to review research on the construction of gender ideology and its consequences. The article begins with a summary of research focused on measuring gender ideology—individuals' levels of support for a division of paid work and family responsibilities that is based on th…
+
 ### From Mead to a structural symbolic interactionism and beyond
 **年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134649](https://doi.org/10.1146/annurev.soc.34.040507.134649)
 **作者**: Stryker, Sheldon
@@ -49,6 +79,41 @@
 **年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134711](https://doi.org/10.1146/annurev.soc.34.040507.134711)
 **作者**: Grodsky, Eric; Warren, John Robert; Felts, Erika
 **摘要**: We focus on how standardized testing in American education has reflected, reproduced, and transformed social inequalities. We begin by describing inequalities in test score distributions by race/ethnicity, social origins, and gender over time.…
+
+### How the Outside Gets In: Modeling Conversational Permeation
+**年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134556](https://doi.org/10.1146/annurev.soc.34.040507.134556)
+**作者**: Gibson, David R.
+**摘要**: Conversation is incrementally, progressively produced, subject to constraints that ensure linearity (one person speaks at a time) irrespective of the identities, motives, and conversational resources of those present.…
+
+### Social Networks and Health
+**年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134601](https://doi.org/10.1146/annurev.soc.34.040507.134601)
+**作者**: Smith, Kirsten P.; Christakis, Nicholas A.
+**摘要**: People are interconnected, and so their health is interconnected. In recognition of this social fact, there has been growing conceptual and empirical attention over the past decade to the impact of social networks on health. This article reviews prominent findings from this literature.…
+
+### Religion and Science: Beyond the Epistemological Conflict Narrative
+**年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134702](https://doi.org/10.1146/annurev.soc.34.040507.134702)
+**作者**: Evans, John H.; Evans, Michael S.
+**摘要**: Studies of the relationship between religion and science have traditionally assumed that any conflict that exists is based on epistemology. This assumption is built into the history of Western academic thought, the founding of sociology itself, as well as the common definitions of religion used by s…
+
+### The Second Generation in Western Europe: Education, Unemployment, and Occupational Attainment
+**年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134728](https://doi.org/10.1146/annurev.soc.34.040507.134728)
+**作者**: Heath, Anthony F.; Rothon, Catherine; Kilpi, Elina
+**摘要**: This paper reviews recent research in ten Western European countries on the educational and labor market outcomes of second-generation minorities. Minorities from less-developed origins appear to be particularly disadvantaged in education, access to the labor market, and occupational attainment.…
+
+### Access to Civil Justice and Race, Class, and Gender Inequality
+**年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134534](https://doi.org/10.1146/annurev.soc.34.040507.134534)
+**作者**: Sandefur, Rebecca L.
+**摘要**: Access to civil justice is a perspective on the experiences that people have with civil justice events, organizations, or institutions. It focuses on who is able or willing to use civil law and law-like processes and institutions (who has access) and with what results (who receives what kinds of jus…
+
+### Gender Inequalities in Education
+**年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134719](https://doi.org/10.1146/annurev.soc.34.040507.134719)
+**作者**: Buchmann, Claudia; DiPrete, Thomas A.; McDaniel, Anne
+**摘要**: The terrain of gender inequalities in education has seen much change in recent decades. This article reviews the empirical research and theoretical perspectives on gender inequalities in educational performance and attainment from early childhood to young adulthood.…
+
+### Family Structure and the Reproduction of Inequalities
+**年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134549](https://doi.org/10.1146/annurev.soc.34.040507.134549)
+**作者**: McLanahan, Sara; Percheski, Christine
+**摘要**: Over the past four decades, income inequality has increased and family structures have diversified. We argue that family structure has become an important mechanism for the reproduction of class, race, and gender inequalities.…
 
 ### Statistical magic and/or statistical serendipity: an age of progress in the analysis of categorical data
 **年份**: 2007 | **DOI**: [10.1146/annurev.soc.33.040406.131720](https://doi.org/10.1146/annurev.soc.33.040406.131720)
@@ -89,6 +154,26 @@
 **年份**: 2007 | **DOI**: [10.1146/annurev.soc.33.040406.131727](https://doi.org/10.1146/annurev.soc.33.040406.131727)
 **作者**: Furstenberg, Frank F.
 **摘要**: This article reviews the history of qualitative research on the black family during the twenteith century. Most qualitative studies on black family life focussed on social class differences among blacks and between blacks and whites until the mid-1960s.…
+
+### Inequality: Causes and Consequences
+**年份**: 2007 | **DOI**: [10.1146/annurev.soc.33.040406.131755](https://doi.org/10.1146/annurev.soc.33.040406.131755)
+**作者**: Neckerman, Kathryn M.; Torche, Florencia
+**摘要**: The increase in economic disparities over the past 30 years has prompted extensive research on the causes and consequences of inequality both in the United States and, more recently, globally.…
+
+### Gender in Politics
+**年份**: 2007 | **DOI**: [10.1146/annurev.soc.33.040406.131651](https://doi.org/10.1146/annurev.soc.33.040406.131651)
+**作者**: Paxton, Pamela; Kunovich, Sheri; Hughes, Melanie M.
+**摘要**: Women's political participation and representation vary dramatically within and between countries. We selectively review the literature on gender in politics, focusing on women's formal political participation.…
+
+### Lost and Found: The Sociological Ambivalence Toward Childhood
+**年份**: 2007 | **DOI**: [10.1146/annurev.soc.33.040406.131808](https://doi.org/10.1146/annurev.soc.33.040406.131808)
+**作者**: Shanahan, Suzanne
+**摘要**: Recent social scientific research on childhood is oddly ambivalent. Despite much theoretically creative and empirically innovative work, the sociology of childhood, as a subfield, is often uncomfortable with its own object of inquiry.…
+
+### Workforce Diversity and Inequality: Power, Status, and Numbers
+**年份**: 2007 | **DOI**: [10.1146/annurev.soc.33.040406.131805](https://doi.org/10.1146/annurev.soc.33.040406.131805)
+**作者**: DiTomaso, Nancy; Post, Corinne; Parks-Yancy, Rochelle
+**摘要**: Workforce diversity refers to the composition of work units in terms of the cultural or demographic characteristics that are salient and symbolically meaningful in the relationships among group members.…
 
 ### The long twentieth century in American sociology: A semiautobiographical survey
 **年份**: 2006 | **DOI**: [10.1146/annurev.soc.32.061604.123051](https://doi.org/10.1146/annurev.soc.32.061604.123051)
@@ -135,6 +220,11 @@
 **作者**: Halliday, Terence C.; Osinsky, Pavel
 **摘要**: Globalization of law may be defined as the worldwide progression of transnational legal structures and discourses along the dimensions of extensity, intensity, velocity, and impact. We propose that a theory of the global penetration of law will require at least four elements-actors, mechanisms, powe…
 
+### Legitimacy as a Social Process
+**年份**: 2006 | **DOI**: [10.1146/annurev.soc.32.061604.123101](https://doi.org/10.1146/annurev.soc.32.061604.123101)
+**作者**: Johnson, Cathryn; Dowd, Timothy J.; Ridgeway, Cecilia L.
+**摘要**: To gain an in-depth understanding of legitimacy as a general social process, we review contemporary approaches to legitimacy within two areas of sociology: social psychology and organizations.…
+
 ### Doing justice to the group: Examining the roles of the group in justice research
 **年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122213](https://doi.org/10.1146/annurev.soc.31.041304.122213)
 **作者**: Hegtvedt, KA
@@ -164,6 +254,11 @@
 **年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122317](https://doi.org/10.1146/annurev.soc.31.041304.122317)
 **作者**: England, P
 **摘要**: Care work is done in the home as well as in markets for pay. Five theoretical frameworks have been developed to conceptualize care work; the frameworks sometimes offer competing answers to the same questions, and other times address distinct questions.…
+
+### Macrostructural Analyses of Race, Ethnicity, and Violent Crime: Recent Lessons and New Directions for Research
+**年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122308](https://doi.org/10.1146/annurev.soc.31.041304.122308)
+**作者**: Peterson, Ruth D.; Krivo, Lauren J.
+**摘要**: In 1995, Sampson & Wilson assessed the state of knowledge on race and violence and set forth an approach for future research. We review macrostructural analyses of race, ethnicity, and violent crime since 1995 to evaluate progress in explaining inequality in criminal violence across racial and ethni…
 
 ### The use of newspaper data in the study of collective action
 **年份**: 2004 | **DOI**: [10.1146/annurev.soc.30.012703.110603](https://doi.org/10.1146/annurev.soc.30.012703.110603)
@@ -220,6 +315,16 @@
 **作者**: Halaby, CN
 **摘要**: A selection of panel studies appearing in the American Sociological Review and the American Journal of Sociology between 1990 and 2003 shows that sociologists have been slow to capitalize on the advantages of panel data for controlling unobservables that threaten causal inference in observational st…
 
+### America's Changing Color Lines: Immigration, Race/Ethnicity, and Multiracial Identification
+**年份**: 2004 | **DOI**: [10.1146/annurev.soc.30.012703.110519](https://doi.org/10.1146/annurev.soc.30.012703.110519)
+**作者**: Lee, Jennifer; Bean, Frank D.
+**摘要**: Over the past four decades, immigration has increased the racial and ethnic diversity in the United States. Once a mainly biracial society with a large white majority and relatively small black minority—and an impenetrable color line dividing these groups—the United States is now a society composed …
+
+### The Sociology of Property Rights
+**年份**: 2004 | **DOI**: [10.1146/annurev.soc.30.012703.110538](https://doi.org/10.1146/annurev.soc.30.012703.110538)
+**作者**: Carruthers, Bruce G.; Ariovich, Laura
+**摘要**: Property rights matter for their effects on economic inequality and economic performance, and they unfold at the intersection of law, the state, politics, and the economy. Five dimensions of property are discussed: the objects of property (what can be owned), the subjects of property (who can own), …
+
 ### Beyond rational choice theory
 **年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100213](https://doi.org/10.1146/annurev.soc.29.010202.100213)
 **作者**: Boudon, R
@@ -250,6 +355,36 @@
 **作者**: Korpi, W
 **摘要**: The new-politics perspective derives welfare state retrenchment from postindustrial changes generating budget deficits and government attempts to benefit cuts, attempts largely resisted by powerful new,groups of welfare-state clients.…
 
+### The Sociology of the Self
+**年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100057](https://doi.org/10.1146/annurev.soc.29.010202.100057)
+**作者**: Callero, Peter L.
+**摘要**: ▪ Abstract An emerging sociological approach to the self reflects new emphases on power, reflexivity, and social constructionism. The significance of power in shaping the self is central to a new scholarship associated with Foucault.…
+
+### The Dynamics of Racial Residential Segregation
+**年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100002](https://doi.org/10.1146/annurev.soc.29.010202.100002)
+**作者**: Charles, Camille Zubrinsky
+**摘要**: ▪ Abstract The publication of American Apartheid ( Massey & Denton 1993 ) was influential in shifting public discourse back toward racial residential segregation as fundamental to persisting racial inequality.…
+
+### The Intersection of Gender and Race in the Labor Market
+**年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100016](https://doi.org/10.1146/annurev.soc.29.010202.100016)
+**作者**: Browne, Irene; Misra, Joya
+**摘要**: ▪ Abstract This review investigates scholarship on the intersection of race and gender, with a particular focus on the U.S. labor market. We ask the following questions: What assumptions underlie intersectional perspectives in sociology?…
+
+### The Science of Asking Questions
+**年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.110702.110112](https://doi.org/10.1146/annurev.soc.29.110702.110112)
+**作者**: Schaeffer, Nora Cate; Presser, Stanley
+**摘要**: ▪ Abstract Survey methodologists have drawn on and contributed to research by cognitive psychologists, conversation analysts, and others to lay a foundation for the science of asking questions.…
+
+### Cognitive Skills and Noncognitive Traits and Behaviors in Stratification Processes
+**年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100023](https://doi.org/10.1146/annurev.soc.29.010202.100023)
+**作者**: Farkas, George
+**摘要**: ▪ Abstract I review studies of the roles played by cognitive skills and noncognitive traits and behaviors in stratification processes. Bowles & Gintis (1976) were among the first to argue that noncognitive traits and behaviors are more important than cognitive skills in determining schooling and emp…
+
+### Population and African Society
+**年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100126](https://doi.org/10.1146/annurev.soc.29.010202.100126)
+**作者**: Zuberi, Tukufu; Sibanda, Amson; Bawah, Ayaga 等4人
+**摘要**: ▪ Abstract African society is quite distinct in both its relationship to the rest of the world and its history. Africa seems beset by a myriad of crises, from famines, to civil wars, to economic meltdowns. In addition to these crises, profound population and social change has occurred.…
+
 ### Barking up the wrong branch: Scientific alternatives to the current model of sociological science
 **年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.141122](https://doi.org/10.1146/annurev.soc.28.110601.141122)
 **作者**: Lieberson, S; Lynn, FB
@@ -269,6 +404,31 @@
 **年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.141114](https://doi.org/10.1146/annurev.soc.28.110601.141114)
 **作者**: Sampson, RJ; Morenoff, JD; Gannon-Rowley, T
 **摘要**: This paper assesses and synthesizes the cumulative results of a new neighborhood-effects literature that examines social processes related to problem behaviors and health-related outcomes.…
+
+### The Changing Face of Methodological Individualism
+**年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.140938](https://doi.org/10.1146/annurev.soc.28.110601.140938)
+**作者**: Udehn, Lars
+**摘要**: ▪ Abstract It is common to categorize social scientific theories as either individualistic or holistic, and to assume that they are opposites. This neat picture is not so much wrong as too simple. There are different versions of both doctrines, and some versions combine elements from both.…
+
+### Integrating Models of Diffusion of Innovations: A Conceptual Framework
+**年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.141051](https://doi.org/10.1146/annurev.soc.28.110601.141051)
+**作者**: Wejnert, Barbara
+**摘要**: ▪ Abstract This chapter provides a conceptual framework for integrating the array of variables defined in diffusion research to explicate their influence on an actor's decision to adopt an innovation. The framework groups the variables into three major components.…
+
+### The Sociology of Intellectuals
+**年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.140745](https://doi.org/10.1146/annurev.soc.28.110601.140745)
+**作者**: Kurzman, Charles; Owens, Lynn
+**摘要**: The sociology of intellectuals has adopted three fundamentally distinct approaches to its subject. The Dreyfusards, Julien Benda, “new class” theorists, and Pierre Bourdieu treated intellectuals as potentially a class-in-themselves, that is, as having interests that distinguish them from other group…
+
+### Chinese Social Stratification and Social Mobility
+**年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.140823](https://doi.org/10.1146/annurev.soc.28.110601.140823)
+**作者**: Bian, Yanjie
+**摘要**: ▪ Abstract This essay reviews post-1980 research on class stratification, socio-economic inequalities, and social mobility in the People's Republic of China. Chinese class stratification has transformed from a rigid status hierarchy under Mao to an open, evolving class system in the post-Mao period.…
+
+### Race, Gender, and Authority in the Workplace: Theory and Research
+**年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.141048](https://doi.org/10.1146/annurev.soc.28.110601.141048)
+**作者**: Smith, Ryan A.
+**摘要**: ▪ Abstract This chapter surveys sociological approaches to the study of job authority, including theoretical foundations, measurement, and emergence as an important dimension of social inequality.…
 
 ### Cases and biographies: An essay on routinization and the nature of comparison
 **年份**: 2001 | **DOI**: [10.1146/annurev.soc.27.1.47](https://doi.org/10.1146/annurev.soc.27.1.47)
@@ -304,6 +464,11 @@
 **年份**: 2001 | **DOI**: [10.1146/annurev.soc.27.1.387](https://doi.org/10.1146/annurev.soc.27.1.387)
 **作者**: Stolte, JF; Fine, GA; Cook, KS
 **摘要**: The distinctive contribution of sociological social psychology cars be referred to as sociological miniaturism, a way of interpreting social processes and institutions that is microsociological more than it is psychological.…
+
+### Violence and the Life Course: The Consequences of Victimization for Personal and Social Development
+**年份**: 2001 | **DOI**: [10.1146/annurev.soc.27.1.1](https://doi.org/10.1146/annurev.soc.27.1.1)
+**作者**: Macmillan, Ross
+**摘要**: ▪ Abstract Considerable research documents the consequences of criminal violence for victims. At the same time, a strong relationship exists between age and risk of violent victimization; risk is greatest in childhood and adolescence.…
 
 ### Cohabitation in the United States: An appraisal of research themes, findings, and implications
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.1](https://doi.org/10.1146/annurev.soc.26.1.1)
@@ -389,3 +554,28 @@
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.721](https://doi.org/10.1146/annurev.soc.26.1.721)
 **作者**: Tilly, C
 **摘要**: The term intersectionality references the critical insight that race, class, gender, sexuality, ethnicity, nation, ability, and age operate not as unitary, mutually exclusive entities, but rather as reciprocally constructing phenomena. Despite this ...Read More
+
+### Pathways to Adulthood in Changing Societies: Variability and Mechanisms in Life Course Perspective
+**年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.667](https://doi.org/10.1146/annurev.soc.26.1.667)
+**作者**: Shanahan, Michael J.
+**摘要**: The transition to adulthood has become a thriving area of research in life course studies. This review is organized around two of the field's emerging themes. The first theme is the increasing variability in pathways to adult roles through historical time.…
+
+### Nonstandard Employment Relations: Part-time, Temporary and Contract Work
+**年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.341](https://doi.org/10.1146/annurev.soc.26.1.341)
+**作者**: Kalleberg, Arne L.
+**摘要**: Nonstandard employment relations—such as part-time work, temporary help agency and contract company employment, short-term and contingent work, and independent contracting—have become increasingly prominent ways of organizing work in recent years.…
+
+### Wealth and Stratification Processes
+**年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.497](https://doi.org/10.1146/annurev.soc.26.1.497)
+**作者**: Spilerman, Seymour
+**摘要**: This paper reviews current information on wealth trends, with particular attention to the role of household wealth in the stratification system. The first section considers the relevance of wealth for stratification processes and examines why an appreciation of household wealth has been slow to mate…
+
+### Volunteering
+**年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.215](https://doi.org/10.1146/annurev.soc.26.1.215)
+**作者**: Wilson, John
+**摘要**: Volunteering is any activity in which time is given freely to benefit another person, group or cause. Volunteering is part of a cluster of helping behaviors, entailing more commitment than spontaneous assistance but narrower in scope than the care provided to family and friends.…
+
+### Wealth Inequality in the United States
+**年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.63](https://doi.org/10.1146/annurev.soc.26.1.63)
+**作者**: Keister, Lisa A.; Moller, Stephanie
+**摘要**: Wealth ownership in the United States has long been concentrated in the hands of a small minority of the population, yet researchers have paid relatively little attention to the causes and consequences of this inequality.…

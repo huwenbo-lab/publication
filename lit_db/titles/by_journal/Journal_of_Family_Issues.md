@@ -1,6 +1,6 @@
 # Journal of Family Issues — 文章标题索引
 
-共 **2244** 篇 | 年份范围：2000–2026
+共 **2275** 篇 | 年份范围：1981–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -18,6 +18,7 @@
 - Understanding Military Motherhood: How the Armed Forces' Childcare and Family Leave Policies Impact Servicewomen with Young Children · [DOI](https://doi.org/10.1177/0192513X251366623)
 - The Well-Being Implications of Having Children: Evidence From Chinese National Surveys · [DOI](https://doi.org/10.1177/0192513X251370665)
 - Educational Assortative Mating and Its Impact on Marital Quality in China · [DOI](https://doi.org/10.1177/0192513X251362455)
+- Balancing Work and Care: Exploring the Effects of Women’s Paid Employment on Children’s Development · [DOI](https://doi.org/10.1177/0192513x261432512)
 
 ## 2025
 
@@ -395,6 +396,9 @@
 - Consistency and Transformation of Filial Responsibility Attitudes in China: Evidence from Panel Study of Family Dynamics of 2004 and 2017 · [DOI](https://doi.org/10.1177/0192513X211048475)
 - Living-Apart-Together (LAT) in Contemporary Sweden: (How) Does It Relate to Vulnerability? · [DOI](https://doi.org/10.1177/0192513X211041988)
 - Mothers' Preferences for Their Children's Format for Return to School During the Coronavirus Disease-2019 Pandemic: Are There Differences Between Full-Time Employed Mothers and Mothers Who are Not Employed? · [DOI](https://doi.org/10.1177/0192513X211044486)
+- International Displacement and Family Stress in Latin America · [DOI](https://doi.org/10.1177/0192513x231151291)
+- Family Dynamics in Cross-National Families With Young Children in Singapore · [DOI](https://doi.org/10.1177/0192513x231156675)
+- Siblinghood Amongst Older Adults: What Being a Sibling or Having Siblings Means · [DOI](https://doi.org/10.1177/0192513x221150974)
 
 ## 2022
 
@@ -533,6 +537,7 @@
 - Religion and Attitudes toward Childlessness in the United States · [DOI](https://doi.org/10.1177/0192513X21994148)
 - Bonding Family Social Capital and Agency Among Native-Born and Immigrant College Women With Low Parental Financial Support · [DOI](https://doi.org/10.1177/0192513X211042840)
 - Family Dynamics at the Intersection of Languages, Cultures, and Aspirations: Reflections of Young Adults from Immigrant Families · [DOI](https://doi.org/10.1177/0192513X211007527)
+- Parenting Immigrants: Understanding How Family Relationships Impact the Wellbeing of Older Chinese Immigrants Living on the Gold Coast, Australia · [DOI](https://doi.org/10.1177/0192513x221126750)
 
 ## 2021
 
@@ -750,6 +755,7 @@
 - Fatherhood after Union Breakup in Uruguay: Transitory or Life-Long Commitment? · [DOI](https://doi.org/10.1177/0192513X19882960)
 - Fertility Desires of Childless Poles: Which Childbearing Motives Matter for Men and Women? · [DOI](https://doi.org/10.1177/0192513X19868257)
 - Two-Dimension Assessment of Marital Functioning across Adulthood: The Quality of Relationships Inventory · [DOI](https://doi.org/10.1177/0192513X19881670)
+- Influence of Work and Life Stressors on Marital Quality among Dual and Nondual Military Couples · [DOI](https://doi.org/10.1177/0192513x20903377)
 
 ## 2019
 
@@ -2329,3 +2335,67 @@
 - Migrants and Their Parents · [DOI](https://doi.org/10.1177/019251300021002004)
 - Gender Differences in Traditional Attitudes Toward Marriage and the Family · [DOI](https://doi.org/10.1177/019251300021004001)
 - Beyond the Intergenerational Transmission of Divorce · [DOI](https://doi.org/10.1177/019251300021008006)
+
+## 1999
+
+- Family Solidarity and Health Behaviors · [DOI](https://doi.org/10.1177/019251399020002004)
+- Grandparents Caring for Grandchildren · [DOI](https://doi.org/10.1177/019251399020002003)
+- Stepparents' Affinity-Seeking and Affinity-Maintaining Strategies With Stepchildren · [DOI](https://doi.org/10.1177/019251399020003001)
+
+## 1997
+
+- Young Adult Families · [DOI](https://doi.org/10.1177/019251397018006003)
+- Gender, High- and Low-Schedule-Control Housework Tasks, and Psychological Distress · [DOI](https://doi.org/10.1177/019251397018004003)
+
+## 1996
+
+- Poverty, Paternal Involvement, and Adolescent Well-Being · [DOI](https://doi.org/10.1177/019251396017005003)
+- The Revised Conflict Tactics Scales (CTS2) · [DOI](https://doi.org/10.1177/019251396017003001)
+- The Effect of Parenting Stress on Marital Quality · [DOI](https://doi.org/10.1177/019251396017001007)
+
+## 1995
+
+- The Early Childhood HOME Inventory and HOME-Short Form in Differing Racial/Ethnic Groups · [DOI](https://doi.org/10.1177/019251395016005007)
+
+## 1994
+
+- Gender Differences in Parent-Child Relations · [DOI](https://doi.org/10.1177/019251394015001007)
+- Division of Household Work in the United States and Japan · [DOI](https://doi.org/10.1177/019251394015003002)
+- Work-Family Conflict · [DOI](https://doi.org/10.1177/019251394015003006)
+
+## 1993
+
+- Unity and Difference in Postmodern Families · [DOI](https://doi.org/10.1177/0192513x93014001002)
+
+## 1992
+
+- Late-Life Divorce · [DOI](https://doi.org/10.1177/019251392013004008)
+
+## 1991
+
+- Predicting Parents' Experiences With Coresident Adult Children · [DOI](https://doi.org/10.1177/019251391012003005)
+- Elder Care as Family Labor · [DOI](https://doi.org/10.1177/019251391012002006)
+- Male Procreative Consciousness and Responsibility: · [DOI](https://doi.org/10.1177/019251391012003002)
+- Occupational Structure and Men's and Women's Parental Values · [DOI](https://doi.org/10.1177/019251391012003006)
+
+## 1989
+
+- Parenthood and Psychological Well-Being · [DOI](https://doi.org/10.1177/019251389010004002)
+
+## 1986
+
+- Manifestations of Levels of Functioning in Grieving Families · [DOI](https://doi.org/10.1177/019251386007003005)
+- Dimensions of Marital Quality · [DOI](https://doi.org/10.1177/019251386007001003)
+- The Relative Deprivation of Husbands in Dual-Earner Households · [DOI](https://doi.org/10.1177/019251386007001001)
+
+## 1985
+
+- The Impact of Age and Children on Remarriage · [DOI](https://doi.org/10.1177/019251385006002003)
+
+## 1983
+
+- The Family in an Aging Society · [DOI](https://doi.org/10.1177/019251383004003002)
+
+## 1981
+
+- Women, Careers, and Family · [DOI](https://doi.org/10.1177/0192513x8100200107)

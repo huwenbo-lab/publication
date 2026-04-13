@@ -1,0 +1,29 @@
+{
+  "title": "Do Sociological Theories Grow?",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Wagner, David G.",
+      "family": "Wagner",
+      "given": "David G."
+    },
+    {
+      "raw": "Berger, Joseph",
+      "family": "Berger",
+      "given": "Joseph"
+    }
+  ],
+  "authors_text": "Wagner, David G.; Berger, Joseph",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 1985,
+  "doi": "10.1086/228142",
+  "doi_url": "https://doi.org/10.1086/228142",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F228142",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/228142.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": ""
+  }
+}

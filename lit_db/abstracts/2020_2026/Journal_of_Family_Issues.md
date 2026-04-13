@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2020–2026 年文章（含摘要）
 
-共 **725** 篇
+共 **731** 篇
 
 ---
 
@@ -59,6 +59,11 @@
 **年份**: 2026 | **DOI**: [10.1177/0192513X251362455](https://doi.org/10.1177/0192513X251362455)
 **作者**: Wang, Xuehui; Chengming, M. A.
 **摘要**: This study examines the relationship between educational assortative mating and marital quality among Shanghai residents born in the 1980s, against the backdrop of gender reversal in higher education and the increasing prevalence of educational hypogamy in China.…
+
+### Balancing Work and Care: Exploring the Effects of Women’s Paid Employment on Children’s Development
+**年份**: 2026 | **DOI**: [10.1177/0192513x261432512](https://doi.org/10.1177/0192513x261432512)
+**作者**: Wadei, Bernice; Wadei, Kwame Ansong; Ziemah, Aaron Kong-bahi 等4人
+**摘要**: Despite growing female workforce participation, societal norms still prioritize motherhood over professional roles. This study examines how maternal employment affects children’s well-being, and challenges concerns about maternal absence.…
 
 ### Fictive Kin Support Networks of African American and Black Caribbean Adolescents
 **年份**: 2025 | **DOI**: [10.1177/0192513X251379000](https://doi.org/10.1177/0192513X251379000)
@@ -1900,6 +1905,21 @@
 **作者**: Limbers, Christine A.; Pavlov, Christina L.
 **摘要**: The present study assessed factors associated with maternal preferences for their children's educational format (i.e., completely in-person, completely online/remote, or hybrid of in-person and online/remote) for return to school during the COVID-19 pandemic and whether these associations differed b…
 
+### International Displacement and Family Stress in Latin America
+**年份**: 2023 | **DOI**: [10.1177/0192513x231151291](https://doi.org/10.1177/0192513x231151291)
+**作者**: Weitzman, Abigail; Huss, Katarina; Blanton, Matthew 等6人
+**摘要**: Family stress theories posit that individual family members are positioned to adapt to external stressors differently and that these differences can strain family systems. Analyzing in-depth interviews with a diverse sample of migrant mothers in Costa Rica, we investigate how families adjust to the …
+
+### Family Dynamics in Cross-National Families With Young Children in Singapore
+**年份**: 2023 | **DOI**: [10.1177/0192513x231156675](https://doi.org/10.1177/0192513x231156675)
+**作者**: Yeung, Wei-Jun Jean; Lu, Shuya
+**摘要**: Transnational marriages between Singaporeans and non-Singaporeans have increased significantly in the 21st century, peaking at 41% among citizen marriages in 2009. About three-quarters of these couples are Singaporean grooms marrying foreign brides originating from lower income countries in Asia.…
+
+### Siblinghood Amongst Older Adults: What Being a Sibling or Having Siblings Means
+**年份**: 2023 | **DOI**: [10.1177/0192513x221150974](https://doi.org/10.1177/0192513x221150974)
+**作者**: Sýkorová, Dana
+**摘要**: The aim of this study is to understand siblinghood in old age through the perspective of Czech older adults. Forty-one in-depth interviews were analyzed, and four themes characterizing siblinghood among older persons were identified in the data: (1) Siblinghood as a unique bond, understood through g…
+
 ### Search and Communication About Origins in Internationally Adopted Young Adults in Spain: A Phenomenological Perspective
 **年份**: 2022 | **DOI**: [10.1177/0192513X211029257](https://doi.org/10.1177/0192513X211029257)
 **作者**: Martin, Nerea; Corral, Susana
@@ -2574,6 +2594,11 @@
 **年份**: 2022 | **DOI**: [10.1177/0192513X211007527](https://doi.org/10.1177/0192513X211007527)
 **作者**: Nesteruk, Olena
 **摘要**: This study examined family dynamics and parent-child relations that stem from the intersection of languages, cultures, and aspirations of first-generation parents and their U.S.-raised children.…
+
+### Parenting Immigrants: Understanding How Family Relationships Impact the Wellbeing of Older Chinese Immigrants Living on the Gold Coast, Australia
+**年份**: 2022 | **DOI**: [10.1177/0192513x221126750](https://doi.org/10.1177/0192513x221126750)
+**作者**: Gao, Siyao; Dupre, Karine; Bosman, Caryl
+**摘要**: Immigration brings particular challenges to older Chinese immigrants’ wellbeing because they make a new home in a foreign country. Based on 30 semi-structured in-depth interviews, this study aims to understand the immigration history of this specific group and unravel the complex links between famil…
 
 ### Rural Masculinities and Fathering: The Lived Experiences of Chinese Farmers
 **年份**: 2021 | **DOI**: [10.1177/0192513X20988070](https://doi.org/10.1177/0192513X20988070)
@@ -3629,3 +3654,8 @@
 **年份**: 2020 | **DOI**: [10.1177/0192513X19881670](https://doi.org/10.1177/0192513X19881670)
 **作者**: Deits-Lebehn, Carlene; Smith, Timothy W.; Baucom, Brian R. W. 等6人
 **摘要**: Single-dimension measures of marital quality can obscure distinct effects of positive and negative aspects of relationships. The present study extended evidence regarding the two-dimension relationship quality model generally, and the Quality of Relationship Inventory (QRI) Support and Conflict scal…
+
+### Influence of Work and Life Stressors on Marital Quality among Dual and Nondual Military Couples
+**年份**: 2020 | **DOI**: [10.1177/0192513x20903377](https://doi.org/10.1177/0192513x20903377)
+**作者**: Woodall, Kelly A.; Richardson, Sabrina M.; Pflieger, Jacqueline C. 等5人
+**摘要**: Maintaining a healthy marriage may be challenging for military couples as they attempt to balance the demands of work and family; for dual-military couples, this can be even more challenging.…

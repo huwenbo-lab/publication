@@ -1,6 +1,6 @@
 # European Journal of Population — 文章标题索引
 
-共 **834** 篇 | 年份范围：2000–2026
+共 **859** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -14,6 +14,8 @@
 - Leaving Again? Job Quality and Repeat Internal Migration in China · [DOI](https://doi.org/10.1007/s10680-026-09769-7)
 - Harvesting Effect and Extreme Temperature-Related Mortality in Italy · [DOI](https://doi.org/10.1007/s10680-025-09764-4)
 - The Double Challenges of Single Parents Raising Children with Disabilities · [DOI](https://doi.org/10.1007/s10680-026-09767-9)
+- A Double Decomposition of Standard Deviation Below the Modal Age at Death and the Role of Causes of Death · [DOI](https://doi.org/10.1007/s10680-025-09762-6)
+- Getting In and Staying In? The Relative Contributions of Entering and Exiting Employment to Early Labour Market Trajectories of Migrants’ Daughters Versus Native Women · [DOI](https://doi.org/10.1007/s10680-026-09771-z)
 
 ## 2025
 
@@ -919,3 +921,59 @@
 - Childbearing Following Marital Dissolution in Britain · [DOI](https://doi.org/10.1023/a:1026529300659)
 - Leo J.G. van Wissen, Pearl A. Dykstra (eds), Population issues. An interdisciplinary focus · [DOI](https://doi.org/10.1023/a:1026535830598)
 - Shrinking Kin Networks in Italy Due to Sustained Low Fertility · [DOI](https://doi.org/10.1023/a:1006408331594)
+
+## 1999
+
+- Fertility Behaviour under Income Uncertainty · [DOI](https://doi.org/10.1023/a:1006106527618)
+
+## 1997
+
+- Mortalité par âge et cause de décès en Suisse: Une analyse des disparités cantonales durant la période 1978/83 à 1988/93 · [DOI](https://doi.org/10.1023/a:1005993113820)
+- Wanting a Child Without a Firm Commitment to the Partner: Interpretations and Implications of a Common Behaviour Pattern among Norwegian Cohabitants · [DOI](https://doi.org/10.1023/a:1005943724645)
+- Survival Trees: An Alternative Non-Parametric Multivariate Technique for Life History Analysis · [DOI](https://doi.org/10.1023/a:1005844818027)
+- The Impact of Children on Divorce Risks of Swedish Women · [DOI](https://doi.org/10.1023/a:1005803001129)
+- An Estimate of Neonatal Tetanus Mortality in Iceland, 1790-1839 · [DOI](https://doi.org/10.1023/a:1005778332341)
+
+## 1995
+
+- Infant health and mortality indicators · [DOI](https://doi.org/10.1007/bf01264105)
+
+## 1994
+
+- A reconstruction of the population of North Italy from 1650 to 1881 using annual inverse projection with comparisons to England, France, and Sweden · [DOI](https://doi.org/10.1007/bf01265303)
+- Innovation and tradition: Reproductive and marital behaviour in Italy in the 1970s and 1980s · [DOI](https://doi.org/10.1007/bf01264895)
+
+## 1993
+
+- Towards renewed fears of population and family decline? · [DOI](https://doi.org/10.1007/bf01267555)
+- Women's work in the EC: Five career profiles · [DOI](https://doi.org/10.1007/bf01267902)
+- Migration and marriage in the life course: a method for studying synchronized events · [DOI](https://doi.org/10.1007/bf01267901)
+
+## 1992
+
+- Female labour force participation, fertility and public policy in Sweden · [DOI](https://doi.org/10.1007/bf01797210)
+- Système de soins et mortalité régionale: une analyse causale · [DOI](https://doi.org/10.1007/bf01796627)
+- Population growth, internal migration, and environmental degradation in rural areas of developing countries · [DOI](https://doi.org/10.1007/bf01797549)
+
+## 1991
+
+- Analyse biographique du travail féminin · [DOI](https://doi.org/10.1007/bf01796874)
+- Mariage et mobilité sociale en France · [DOI](https://doi.org/10.1007/bf01797102)
+
+## 1989
+
+- Divorce, mobility and housing demand · [DOI](https://doi.org/10.1007/bf01796818)
+
+## 1988
+
+- Kinship patterns and household composition: Older unmarried Hungarian women, 1984 · [DOI](https://doi.org/10.1007/bf01797132)
+
+## 1986
+
+- Women's home attachment at first birth · [DOI](https://doi.org/10.1007/bf01796878)
+- Causes De Mortalité Parmi Les Adolescents Et Jeunes Adultes Dans Les Pays De La Communauté Européenne Et Évolution De 1960 À 1980 · [DOI](https://doi.org/10.1007/bf01796890)
+
+## 1985
+
+- The fall of marital fertility in nineteenth-century france: Exemplar or exception? (Part I) · [DOI](https://doi.org/10.1007/bf01796917)
+- The fall of marital fertility in nineteenth-century France: Exemplar or exception? (Part II) · [DOI](https://doi.org/10.1007/bf01796931)

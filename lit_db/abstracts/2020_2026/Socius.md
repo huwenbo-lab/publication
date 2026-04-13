@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **725** 篇
+共 **726** 篇
 
 ---
 
@@ -99,6 +99,11 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231251412640](https://doi.org/10.1177/23780231251412640)
 **作者**: Krueger, Sabine
 **摘要**: This article examines gender differences in self-rated occupational prestige in Germany using two indicators: absolute self-ratings and a prestige deviation score that benchmarks self-ratings against societal prestige for the same occupation.…
+
+### “He Got More Felonies Than I Do!” Formerly Incarcerated Americans on President Trump
+**年份**: 2026 | **DOI**: [10.1177/23780231261431008](https://doi.org/10.1177/23780231261431008)
+**作者**: Umamaheswar, Janani
+**摘要**: President Trump has long espoused “tough-on-crime” rhetoric, and many of his current policy initiatives risk exacerbating challenges faced by the nation’s most vulnerable citizens, including formerly incarcerated people.…
 
 ### Gender Egalitarianism and Marital Dissolution: Understanding the Bifurcation of the “Gender Revolution” in the United States
 **年份**: 2025 | **DOI**: [10.1177/23780231251372790](https://doi.org/10.1177/23780231251372790)

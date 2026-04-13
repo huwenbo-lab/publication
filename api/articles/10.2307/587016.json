@@ -1,0 +1,24 @@
+{
+  "title": "Social Change",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Ginsberg, Morris",
+      "family": "Ginsberg",
+      "given": "Morris"
+    }
+  ],
+  "authors_text": "Ginsberg, Morris",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 1958,
+  "doi": "10.2307/587016",
+  "doi_url": "https://doi.org/10.2307/587016",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F587016",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/587016.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": ""
+  }
+}

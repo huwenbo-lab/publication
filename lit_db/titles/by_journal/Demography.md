@@ -1,9 +1,13 @@
 # Demography — 文章标题索引
 
-共 **1920** 篇 | 年份范围：2000–2025
+共 **1953** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
+
+## 2026
+
+- Causal Effects of Education on Marriage and Fertility in Japan: A Research Note on a Quasi-Experimental Approach Utilizing Zodiac Superstition as an Exogenous Shock · [DOI](https://doi.org/10.1215/00703370-12530548)
 
 ## 2025
 
@@ -2002,3 +2006,98 @@
 - Forecasting enrollments for immigrant entry-port school districts · [DOI](https://doi.org/10.1353/dem.2000.0009)
 - Explaining Levels of Within-Group Wage Inequality in U.S. Labor Markets · [DOI](https://doi.org/10.2307/2648069)
 - Are births underreported in rural China? Manipulation of statistical records in response to China’s population policies · [DOI](https://doi.org/10.2307/2648100)
+
+## 1999
+
+- Migradollars and mortality: The effects of migration on infant survival in Mexico · [DOI](https://doi.org/10.2307/2648057)
+- Religious involvement and U.S. adult mortality · [DOI](https://doi.org/10.2307/2648114)
+
+## 1998
+
+- Demography and the environment · [DOI](https://doi.org/10.2307/3004008)
+
+## 1997
+
+- Geographic information systems, spatial network analysis, and contraceptive choice · [DOI](https://doi.org/10.2307/2061697)
+- Age-distribution dynamics and aging indexes · [DOI](https://doi.org/10.2307/3038309)
+
+## 1996
+
+- Geographic mobility of scientists: Sex differences and family constraints · [DOI](https://doi.org/10.2307/2061780)
+
+## 1995
+
+- Dissolution of Premarital Cohabitation in Canada · [DOI](https://doi.org/10.2307/2061672)
+- Does Marriage Matter? · [DOI](https://doi.org/10.2307/2061670)
+
+## 1993
+
+- Thirty Years of Demography · [DOI](https://doi.org/10.2307/2061804)
+
+## 1992
+
+- Fertility transition, conscious choice, and numeracy · [DOI](https://doi.org/10.2307/2061848)
+- Personality traits and developmental experiences as antecedents of childbearing motivation · [DOI](https://doi.org/10.2307/2061731)
+- African-American marriage in 1910: Beneath the surface of census data · [DOI](https://doi.org/10.2307/2061359)
+- Religion and fertility in the United States: New patterns · [DOI](https://doi.org/10.2307/2061727)
+
+## 1991
+
+- Fertility decline in Taiwan: A study using parity progression ratios · [DOI](https://doi.org/10.2307/2061468)
+- Childhood events and circumstances influencing high school completion · [DOI](https://doi.org/10.2307/2061340)
+
+## 1989
+
+- Relative deprivation and international migration oded stark · [DOI](https://doi.org/10.2307/2061490)
+
+## 1988
+
+- Stability over time in the distribution of population forecast errors · [DOI](https://doi.org/10.2307/2061544)
+- Undocumented Mexican immigrants and the earnings of other workers in the United States · [DOI](https://doi.org/10.2307/2061476)
+
+## 1987
+
+- On Stable Population Theory With Immigration · [DOI](https://doi.org/10.2307/2061308)
+
+## 1985
+
+- Constraints, Satisfaction and Residential Mobility: Speare’s Model Reconsidered · [DOI](https://doi.org/10.2307/2061178)
+
+## 1984
+
+- Place, race and differential occupational opportunities · [DOI](https://doi.org/10.2307/2061043)
+- Social and economic change, intergenerational relationships, and family formation in Taiwan · [DOI](https://doi.org/10.2307/2060911)
+
+## 1983
+
+- A hazards-Model analysis of the covariates of infant and child mortality in Sri Lanka · [DOI](https://doi.org/10.2307/2060898)
+
+## 1982
+
+- Immigration and the Stable Population Model · [DOI](https://doi.org/10.2307/2061132)
+
+## 1981
+
+- The Harmonic Mean as the Basis of a Realistic Two-Sex Marriage Model · [DOI](https://doi.org/10.2307/2061093)
+- Social Structure and U.S. Inter-State Fertility Differentials in 1900 · [DOI](https://doi.org/10.2307/2060943)
+
+## 1980
+
+- Estimating the Approximate Size of The Illegal Alien Population in the United States by the Comparative Trend Analysis of Age-Specific Death Rates · [DOI](https://doi.org/10.2307/2061057)
+
+## 1979
+
+- Motivations for the inmigration component of population turnaround in nonmetropolitan areas · [DOI](https://doi.org/10.2307/2061141)
+- The end of “Catholic” fertility · [DOI](https://doi.org/10.2307/2061139)
+
+## 1974
+
+- Effect of Mortality Change on Stable Population Parameters · [DOI](https://doi.org/10.2307/2060703)
+
+## 1970
+
+- Some demographic determinants of average household size: An analytic approach · [DOI](https://doi.org/10.2307/2060023)
+
+## 1964
+
+- Rural depopulation in the united states: Some demographic consequences of agricultural adjustments · [DOI](https://doi.org/10.1007/bf03208467)

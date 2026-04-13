@@ -1,0 +1,24 @@
+{
+  "title": "The Harmonic Mean as the Basis of a Realistic Two-Sex Marriage Model",
+  "abstract": "Abstract The “two-sex problem” is one of attempting to preserve the essential character of male and female rates of marriage (or birth), since the expression of those rates is influenced both by the age-sex composition of the population and the underlying age-sex schedule of preferences. The present paper focuses on marriage and advances a theoretically based, realistic, and conceptually simple solution. In the continuous case, where exact male and female ages are used, equation (11) provides a mathematical relationship which equates the sum of the male and female marriage propensities of the observed population with that of the model. When discrete age intervals are used, the two-sex consistency condition is given by equation (14) which equates observed and model population rates calculated using the harmonic means of the number of persons in the relevant male and female age groups. The harmonic mean consistency condition is shown to be fully sensitive to the competitive nature of the “marriage market.” When compared with alternative approaches to the two-sex problem in the context of data for Sweden, 1961–64, the simple harmonic mean method yields results fairly similar to those of the other methods. None of the two-sex methods do particularly well at predicting the actual distribution of marriages, however. The likely reason is that the underlying marriage preferences changed, a circumstance which emphasizes the importance of carefully conceptualizing how observed behavior can be decomposed into the effects produced by age-sex composition and those produced by the underlying preferences.",
+  "authors": [
+    {
+      "raw": "Schoen, Robert",
+      "family": "Schoen",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Schoen, Robert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1981,
+  "doi": "10.2307/2061093",
+  "doi_url": "https://doi.org/10.2307/2061093",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2061093",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2061093.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

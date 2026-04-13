@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **340** 篇
+共 **342** 篇
 
 ---
 
@@ -1200,6 +1200,11 @@
 **作者**: Willer, Robb; Rogalin, Christabel L.; Conlon, Bridget 等4人
 **摘要**: The masculine overcompensation thesis asserts that men react to masculinity threats with extreme demonstrations of masculinity, a proposition tested here across four studies. In study 1, men and women were randomly given feedback suggesting they were either masculine or feminine.…
 
+### Quantitative Cross-National Sociology and the Methodological Abyss: Comment on Alcacer and Ingram
+**年份**: 2013 | **DOI**: [10.1086/670253](https://doi.org/10.1086/670253)
+**作者**: Schrank, Andrew
+**摘要**: （暂无）
+
 ### Echoes of the Past: Organizational Foundings as Sources of an Institutional Legacy of Mutualism
 **年份**: 2012 | **DOI**: [10.1086/667721](https://doi.org/10.1086/667721)
 **作者**: Greve, Henrich R.; Rao, Hayagreeva
@@ -1354,6 +1359,11 @@
 **年份**: 2012 | **DOI**: [10.1086/662706](https://doi.org/10.1086/662706)
 **作者**: Cole, Wade M.
 **摘要**: Much research has shown human rights treaties to be ineffective or even counterproductive, often contributing to greater levels of abuse among countries that ratify them. This article reevaluates the effect of four core human rights treaties on a variety of human rights outcomes.…
+
+### Interpretation and Social Knowledge: On the Use of Theory in the Human Sciences. By Isaac Ariail Reed. Chicago: University of Chicago Press, 2011. Pp. x+194. $20.00 (paper).
+**年份**: 2012 | **DOI**: [10.1086/666312](https://doi.org/10.1086/666312)
+**作者**: Lizardo, Omar
+**摘要**: （暂无）
 
 ### Educational Assortative Mating and Earnings Inequality in the United States
 **年份**: 2011 | **DOI**: [10.1086/661778](https://doi.org/10.1086/661778)

@@ -1,0 +1,29 @@
+{
+  "title": "Online Nonprobability Samples",
+  "abstract": "Online nonprobability samples provide social scientists with opportunities to conduct surveys and experiments on large, diverse samples at modest prices. Researchers may find bewildering the options offered by the many commercial entities that provide research participants, and our review seeks to orient researchers to key issues about their use. We discuss principles and evidence regarding estimates from nonprobability samples versus those from probability samples. We also describe methods for addressing certain types of problem participants that one encounters in these samples: professional respondents, participants who are inattentive or have low linguistic competence, and bogus participants (increasingly in the form of bots). We urge researchers not to take data quality for granted, not to rely on indirect information to vouch for data quality, and to proactively build methods that allow for the evaluation of data quality into their instruments.",
+  "authors": [
+    {
+      "raw": "Freese, Jeremy",
+      "family": "Freese",
+      "given": "Jeremy"
+    },
+    {
+      "raw": "Jin, Olivia",
+      "family": "Jin",
+      "given": "Olivia"
+    }
+  ],
+  "authors_text": "Freese, Jeremy; Jin, Olivia",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2025,
+  "doi": "10.1146/annurev-soc-090524-043117",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-090524-043117",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-090524-043117",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-090524-043117.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Annual_Review_of_Sociology.md"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Analyse biographique du travail féminin",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Kempeneers, Marianne",
+      "family": "Kempeneers",
+      "given": "Marianne"
+    },
+    {
+      "raw": "Lelièvre, Eva",
+      "family": "Lelièvre",
+      "given": "Eva"
+    }
+  ],
+  "authors_text": "Kempeneers, Marianne; Lelièvre, Eva",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 1991,
+  "doi": "10.1007/bf01796874",
+  "doi_url": "https://doi.org/10.1007/bf01796874",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fbf01796874",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/bf01796874.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": ""
+  }
+}

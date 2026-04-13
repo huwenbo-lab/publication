@@ -1,9 +1,13 @@
 # Chinese Sociological Review — 文章标题索引
 
-共 **268** 篇 | 年份范围：2011–2025
+共 **269** 篇 | 年份范围：2011–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
+
+## 2026
+
+- Subjective consequences of social movement participation: the impact of Occupy Central on mental health in Hong Kong · [DOI](https://doi.org/10.1080/21620555.2026.2650269)
 
 ## 2025
 

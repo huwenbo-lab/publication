@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2000–2009 年文章（含摘要）
 
-共 **353** 篇
+共 **368** 篇
 
 ---
 
@@ -205,6 +205,11 @@
 **作者**: Beller, Emily
 **摘要**: Conventional social mobility research, which measures family social class background relative to only fathers' characteristics, presents an outmoded picture of families-a picture wherein mothers' economic participation is neither common nor important.…
 
+### A Pragmatist Theory of Social Mechanisms
+**年份**: 2009 | **DOI**: [10.1177/000312240907400302](https://doi.org/10.1177/000312240907400302)
+**作者**: Gross, Neil
+**摘要**: Some sociologists have recently argued that a major aim of sociological inquiry is to identify the mechanisms by which cause and effect relationships in the social world come about. This article argues that existing accounts of social mechanisms are problematic because they rest on either inadequate…
+
 ### Inequality among American Families with Children, 1975 to 2005
 **年份**: 2008 | **DOI**: [10.1177/000312240807300602](https://doi.org/10.1177/000312240807300602)
 **作者**: Western, Bruce; Bloome, Deirdre; Percheski, Christine
@@ -374,6 +379,16 @@
 **年份**: 2008 | **DOI**: [10.1177/000312240807300507](https://doi.org/10.1177/000312240807300507)
 **作者**: Levels, Mark; Dronkers, Jaap; Kraaykamp, Gerbert
 **摘要**: This article explores the extent to which macro-level characteristics of destination countries, origin countries, and immigrant communities help explain differences in immigrant children educational achievement.…
+
+### Social Movements and Organizational Form: Cooperative Alternatives to Corporations in the American Insurance, Dairy, and Grain Industries
+**年份**: 2008 | **DOI**: [10.1177/000312240807300406](https://doi.org/10.1177/000312240807300406)
+**作者**: Schneiberg, Marc; King, Marissa; Smith, Thomas
+**摘要**: How do social movements promote diversity and alternative organizational forms? We address this question by analyzing how cooperative enterprise was affected by the Grange—a leading anticorporate movement in the United States during the late nineteenth and early twentieth centuries.…
+
+### The Social Production of Toxic Uncertainty
+**年份**: 2008 | **DOI**: [10.1177/000312240807300301](https://doi.org/10.1177/000312240807300301)
+**作者**: Auyero, Javier; Swistun, Debora
+**摘要**: Based on both archival research and two and a half years of ethnographic fieldwork in an Argentine shantytown with high levels of air, water, and ground contamination, this article examines the social production of environmental uncertainty.…
 
 ### Labor unions and good governance: A cross-national, comparative analysis
 **年份**: 2007 | **DOI**: [10.1177/000312240707200405](https://doi.org/10.1177/000312240707200405)
@@ -1235,6 +1250,21 @@
 **作者**: Quillian, L; Campbell, ME
 **摘要**: How will racial divisions in student friendship networks change as U.S. schools incorporate a growing Asian and Hispanic population? Drawing on theories of race in assimilation processes and the effects of relative group size on intergroup relations, several hypotheses are developed to address this …
 
+### Precision and Exaggeration in Interaction
+**年份**: 2003 | **DOI**: [10.1177/000312240306800606](https://doi.org/10.1177/000312240306800606)
+**作者**: Drew, Paul
+**摘要**: In medical consultations, court examination, and other such institutional interactions, claims, reports, and accounts may be questioned or challenged by showing that they are insufficiently precise. So too, in ordinary interaction participants may apply standards of relevant precision.…
+
+### Where Job Values Come From: Family and Schooling Background, Cognitive Ability, and Gender
+**年份**: 2003 | **DOI**: [10.1177/000312240306800204](https://doi.org/10.1177/000312240306800204)
+**作者**: Halaby, Charles N.
+**摘要**: This paper develops a framework for conceptualizing preferences for different job properties in terms of a tradeoff between risk and return in the pursuit of economic welfare. Following portfolio theory, job properties are viewed as having mean-variance properties with respect to the distribution of…
+
+### Social Capital and Finding a Job: Do Contacts Matter?
+**年份**: 2003 | **DOI**: [10.1177/000312240306800604](https://doi.org/10.1177/000312240306800604)
+**作者**: Mouw, Ted
+**摘要**: Does social capital affect labor market outcomes? The prevalent use of job contacts to find work suggests that “who you know” is an important means of getting a good job. Network theories of social capital argue that well-connected workers benefit because of the job information and influence they re…
+
 ### Democratic contraction? Political consequences of felon disenfranchisement in the United States
 **年份**: 2002 | **DOI**: [10.2307/3088970](https://doi.org/10.2307/3088970)
 **作者**: Uggen, C; Manza, J
@@ -1399,6 +1429,21 @@
 **年份**: 2002 | **DOI**: [10.2307/3088963](https://doi.org/10.2307/3088963)
 **作者**: Grant, DS; Jones, AW; Bergesen, AJ
 **摘要**: In their recent efforts to uncover the social structural causes of pollution, sociologists have explored the environmental effects of such factors as urbanization, modernization, class hierarchies, long economic cycles, and the world-system.…
+
+### Commemorating a Difficult Past: Yitzhak Rabin's Memorials
+**年份**: 2002 | **DOI**: [10.1177/000312240206700102](https://doi.org/10.1177/000312240206700102)
+**作者**: Vinitzky-Seroussi, Vered
+**摘要**: While the literature on collective memory suggests that a multivocal type of commemoration will be constructed in response to a difficult past, Yitzhak Rabin's commemorations provide a case study of a different type of commemoration of challenging events: a fragmented commemoration.…
+
+### Who is Multiracial? Assessing the Complexity of Lived Race
+**年份**: 2002 | **DOI**: [10.1177/000312240206700407](https://doi.org/10.1177/000312240206700407)
+**作者**: Harris, David R.; Sim, Jeremiah Joseph
+**摘要**: Patterns of racial classification in the National Longitudinal Study of Adolescent Health are examined. The survey's large sample size and multiple indicators of race permit generalizable claims about patterns and processes of social construction in the racial categorization of adolescents.…
+
+### The Impact of Incarceration on Wage Mobility and Inequality
+**年份**: 2002 | **DOI**: [10.1177/000312240206700403](https://doi.org/10.1177/000312240206700403)
+**作者**: Western, Bruce
+**摘要**: A life course perspective on crime indicates that incarceration can disrupt key life transitions. Life course analysis of occupations finds that earnings mobility depends on stable employment in career jobs.…
 
 ### Youth violence and the end of adolescence
 **年份**: 2001 | **DOI**: [10.2307/3088877](https://doi.org/10.2307/3088877)
@@ -1574,6 +1619,11 @@
 **年份**: 2001 | **DOI**: [10.2307/3088922](https://doi.org/10.2307/3088922)
 **作者**: Grodsky, E; Pager, D
 **摘要**: This study is, motivated by the idea that the racial gap in earnings is generated not only by individual differences but also by systematic variation in the occupational structure that attenuates or exacerbates the effects of race.…
+
+### Powerlessness and the Amplification of Threat: Neighborhood Disadvantage, Disorder, and Mistrust
+**年份**: 2001 | **DOI**: [10.1177/000312240106600405](https://doi.org/10.1177/000312240106600405)
+**作者**: Ross, Catherine E.; Mirowsky, John; Pribesh, Shana
+**摘要**: A theory of trust is developed and tested. The theory posits that mistrust develops in neighborhoods where resources are scarce and threat is common, and among individuals with few resources and who feel powerless to avoid or manage the threat.…
 
 ### Family chance, employment transitions, and the welfare state: Household income dynamics in the United States and Germany
 **年份**: 2000 | **DOI**: [10.2307/2657461](https://doi.org/10.2307/2657461)
@@ -1769,3 +1819,28 @@
 **年份**: 2000 | **DOI**: [10.2307/2657385](https://doi.org/10.2307/2657385)
 **作者**: Hurlbert, JS; Haines, VA; Beggs, JJ
 **摘要**: Social resources research has linked activated ties to outcomes-but not to the core networks from which the ties came. This study shifts the focus to the question of how networks allocate resources.…
+
+### Modernization, Cultural Change, and the Persistence of Traditional Values
+**年份**: 2000 | **DOI**: [10.1177/000312240006500103](https://doi.org/10.1177/000312240006500103)
+**作者**: Inglehart, Ronald; Baker, Wayne E.
+**摘要**: Modernization theorists from Karl Marx to Daniel Bell have argued that economic development brings pervasive cultural changes. But others, from Max Weber to Samuel Huntington, have claimed that cultural values are an enduring and autonomous influence on society.…
+
+### Biological Limits of Gender Construction
+**年份**: 2000 | **DOI**: [10.1177/000312240006500307](https://doi.org/10.1177/000312240006500307)
+**作者**: Udry, J. Richard
+**摘要**: A biosocial theory of gender is constructed on both the macro and micro levels. A micro-model of within-sex differences among females integrates the biological model current in primatology with the prevailing social science model.…
+
+### Analyzing Educational Careers: A Multinomial Transition Model
+**年份**: 2000 | **DOI**: [10.1177/000312240006500507](https://doi.org/10.1177/000312240006500507)
+**作者**: Breen, Richard; Jonsson, Jan O.
+**摘要**: The logit model of educational transitions has become standard in research in educational stratification. One limitation of the model, however, is the assumption that individuals progress through the educational system in a unilinear sequential mode.…
+
+### Is Engineering Hostile to Women? An Analysis of Data from the 1993 National Survey of College Graduates
+**年份**: 2000 | **DOI**: [10.1177/000312240006500210](https://doi.org/10.1177/000312240006500210)
+**作者**: Morgan, Laurie A.
+**摘要**: （暂无）
+
+### The Hidden Abode: Sociology as Analysis of the Unexpected
+**年份**: 2000 | **DOI**: [10.1177/000312240006500102](https://doi.org/10.1177/000312240006500102)
+**作者**: Portes, Alejandro
+**摘要**: Purposive social action has provided the bedrock for theoretical developments and model building in several social sciences. Since its beginnings, however, sociology has harbored, a “contrarian” vocation based on examining the unrecognized, unintended, and emergent consequences of goal-oriented acti…

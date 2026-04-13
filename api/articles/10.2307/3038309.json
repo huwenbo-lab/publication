@@ -1,0 +1,24 @@
+{
+  "title": "Age-distribution dynamics and aging indexes",
+  "abstract": "Abstract I analyze the dynamics of the age distribution as some vital rates change. When the fertility or mortality rate declines, the age distribution often manifests a dynamic stochastic-dominance relationship. I also propose some alternative indexes for measuring population aging. These indexes are closely connected with the age-distribution dynamics and contain more refined information about the distribution of age among the old.",
+  "authors": [
+    {
+      "raw": "Chu, C. Y. Cyrus",
+      "family": "Chu",
+      "given": "C. Y. Cyrus"
+    }
+  ],
+  "authors_text": "Chu, C. Y. Cyrus",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1997,
+  "doi": "10.2307/3038309",
+  "doi_url": "https://doi.org/10.2307/3038309",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3038309",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3038309.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "A hazards-Model analysis of the covariates of infant and child mortality in Sri Lanka",
+  "abstract": "Abstract The purpose of this paper is twofold: (a) to provide a complete self-contained exposition of estimating life tables with covariates through the use of hazards models, and (b) to illustrate this technique with a substan-tive analysis of child mortality in Sri Lanka, thereby demonstrating that World Fertility Survey data are a valuable source for the study of child mortality. We show that life tables with covariates can be easily estimated with standard computer packages designed for analysis of contingency tables. The substantive analysis confirms and supplements an earlier study of infant and child mortality in Sri Lanka by Meegama. Those factors found to be strongly associated with mortality are mother’s and father’s education, time period of birth, urban/rural/estate residence, ethnicity, sex, birth order, age of the mother at the birth, and type of toilet facility.",
+  "authors": [
+    {
+      "raw": "Trussell, James",
+      "family": "Trussell",
+      "given": "James"
+    },
+    {
+      "raw": "Hammerslough, Charles",
+      "family": "Hammerslough",
+      "given": "Charles"
+    }
+  ],
+  "authors_text": "Trussell, James; Hammerslough, Charles",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1983,
+  "doi": "10.2307/2060898",
+  "doi_url": "https://doi.org/10.2307/2060898",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2060898",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2060898.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

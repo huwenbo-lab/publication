@@ -1,0 +1,29 @@
+{
+  "title": "Social Networks and Health",
+  "abstract": "People are interconnected, and so their health is interconnected. In recognition of this social fact, there has been growing conceptual and empirical attention over the past decade to the impact of social networks on health. This article reviews prominent findings from this literature. After drawing a distinction between social network studies and social support studies, we explore current research on dyadic and supradyadic network influences on health, highlighting findings from both egocentric and sociocentric analyses. We then discuss the policy implications of this body of work, as well as future research directions. We conclude that the existence of social networks means that people's health is interdependent and that health and health care can transcend the individual in ways that patients, doctors, policy makers, and researchers should care about.",
+  "authors": [
+    {
+      "raw": "Smith, Kirsten P.",
+      "family": "Smith",
+      "given": "Kirsten P."
+    },
+    {
+      "raw": "Christakis, Nicholas A.",
+      "family": "Christakis",
+      "given": "Nicholas A."
+    }
+  ],
+  "authors_text": "Smith, Kirsten P.; Christakis, Nicholas A.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2008,
+  "doi": "10.1146/annurev.soc.34.040507.134601",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.34.040507.134601",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.34.040507.134601",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.34.040507.134601.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  }
+}

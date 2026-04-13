@@ -1,0 +1,29 @@
+{
+  "title": "Rumor and Public Opinion",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Peterson, Warren A.",
+      "family": "Peterson",
+      "given": "Warren A."
+    },
+    {
+      "raw": "Gist, Noel P.",
+      "family": "Gist",
+      "given": "Noel P."
+    }
+  ],
+  "authors_text": "Peterson, Warren A.; Gist, Noel P.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 1951,
+  "doi": "10.1086/220916",
+  "doi_url": "https://doi.org/10.1086/220916",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F220916",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/220916.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": ""
+  }
+}

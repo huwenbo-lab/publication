@@ -1,0 +1,24 @@
+{
+  "title": "Scholarly Consensus and Journal Rejection Rates",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Hargens, Lowell L.",
+      "family": "Hargens",
+      "given": "Lowell L."
+    }
+  ],
+  "authors_text": "Hargens, Lowell L.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 1988,
+  "doi": "10.2307/2095739",
+  "doi_url": "https://doi.org/10.2307/2095739",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2095739",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2095739.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": ""
+  }
+}

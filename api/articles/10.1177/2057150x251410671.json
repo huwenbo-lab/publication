@@ -1,0 +1,29 @@
+{
+  "title": "The Paris Climate Agreement and China's environmental policies: A pseudo-panel data model approach to analyzing the predictors of environmental policy intensity in China",
+  "abstract": "This paper provides insights into the interplay between international and domestic environmental governance by assessing the relationship between China's ratification of the Paris Climate Agreement and the intensity of its domestic environmental policies. Previous literature on the factors influencing environmental policy stringency in China has analyzed levels of bribery, regulatory failings, and information asymmetries among other domestic indicators, but has overlooked the international dimension of environmental governance. By applying a pseudo-panel data model analysis to a new dataset comprising 1721 Chinese environmental policies from 2000 to 2019, we conclude that China's ratification of the Paris Agreement has had a positive and significant impact on environmental policy intensity in China. Consequently, the analysis advances international environmental governance as a key explanatory factor for environmental policy intensity in China.",
+  "authors": [
+    {
+      "raw": "Aboubakr, Passant",
+      "family": "Aboubakr",
+      "given": "Passant"
+    },
+    {
+      "raw": "Gohli, Hannes",
+      "family": "Gohli",
+      "given": "Hannes"
+    }
+  ],
+  "authors_text": "Aboubakr, Passant; Gohli, Hannes",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2026,
+  "doi": "10.1177/2057150x251410671",
+  "doi_url": "https://doi.org/10.1177/2057150x251410671",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x251410671",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x251410671.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  }
+}

@@ -1,6 +1,6 @@
 # Work, Employment and Society — 文章标题索引
 
-共 **2331** 篇 | 年份范围：2000–2026
+共 **2346** 篇 | 年份范围：1990–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2416,3 +2416,42 @@
 - Social Science Contract Researchers in Higher Education: Perceptions of Craft Knowledge · [DOI](https://doi.org/10.1017/s0950017000000088)
 - Reworking Sex Work · [DOI](https://doi.org/10.1017/s0950017000000222)
 - The New Reality for UK Managers: Perpetual Change and Employment Instability · [DOI](https://doi.org/10.1177/09500170022118662)
+
+## 1999
+
+- School Age Workers: the Paid Employment of Children in Britain · [DOI](https://doi.org/10.1177/09500179922118015)
+- Change in the Benefits Agency: Empowering the Exhausted Worker? · [DOI](https://doi.org/10.1177/09500179922117773)
+- The Transition from Organisational Employment to Portfolio Working: Perceptions of `Boundarylessness' · [DOI](https://doi.org/10.1177/09500179922117962)
+
+## 1997
+
+- Checking Out Service: Evaluating Excellence, HRM and TQM in Retailing · [DOI](https://doi.org/10.1177/0950017097113005)
+- Youth, Gender and Part-Time Work-Students in the Labour Process · [DOI](https://doi.org/10.1177/0950017097114001)
+- The Family Enterprise and Business Strategies · [DOI](https://doi.org/10.1177/0950017097114005)
+- Who Decides What? Decision Making in Dual-Career Households · [DOI](https://doi.org/10.1177/0950017097112006)
+
+## 1996
+
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017096101023)
+
+## 1995
+
+- Employees' Perspectives on One Dimension of Labour Flexibility: Working at a Distance · [DOI](https://doi.org/10.1177/095001709593003)
+- Self-Employment Career Dynamics: The Case of `Unemployment Push' in UK Book Publishing · [DOI](https://doi.org/10.1177/095001709593004)
+
+## 1993
+
+- Air France's Strategic Plan: Benevolent `New Despotism'? · [DOI](https://doi.org/10.1177/095001709374004)
+
+## 1992
+
+- Where do You Draw the Line? Functional Flexibility, Training &amp; Skill in Britain &amp; France · [DOI](https://doi.org/10.1177/095001709263004)
+
+## 1991
+
+- Gendering Jobs: Corporate Strategy, Managerial Control and the Dynamics of Job Segregation · [DOI](https://doi.org/10.1177/0950017091005002003)
+- Consumers' Reports: Management by Customers in a Changing Economy · [DOI](https://doi.org/10.1177/0950017091005001002)
+
+## 1990
+
+- Gender and Skills · [DOI](https://doi.org/10.1177/0950017090004002002)

@@ -1,0 +1,39 @@
+{
+  "title": "Couple Mobility and Employment Patterns. A Gender Perspective in Six European Countries",
+  "abstract": "ABSTRACT Objective This study investigates how different couple‐based geographical mobility strategies affect employment probabilities for men and women in six European countries from a gender perspective. Background Although geographical mobility is often linked to improved labor market outcomes, women tend to face social and economic disadvantages compared to men. This discrepancy is frequently attributed to family migration dynamics, yet the specific effects of distinct couple mobility patterns remain underexplored. Method Using retrospective life‐history data from the SHARELIFE survey (Waves 3 and 7), this study analyzes the probability of employment among 24,780 individuals aged 50+ across Sweden, Poland, Germany, France, Italy, and Spain. Linear probability panel models with fixed effects are employed to examine changes in employment before and after relocation across various couple mobility configurations, stratified by education level. Results Men consistently gain higher employment probabilities due to geographical mobility regardless of strategy. In contrast, women's employment probabilities show more diverse patterns: single movers and those with higher education tend to experience higher chances of employment, whereas those with medium or low education, particularly when following a partner's move, are more likely to face reduced employment opportunities. These patterns are consistent across countries and tend to accumulate over the life course. Conclusion Couple mobility strategies yield gendered labor market outcomes, reinforcing inequalities in access to employment, particularly for less‐educated women.",
+  "authors": [
+    {
+      "raw": "Panichella, Nazareno",
+      "family": "Panichella",
+      "given": "Nazareno"
+    },
+    {
+      "raw": "Zhelenkova, Antonina",
+      "family": "Zhelenkova",
+      "given": "Antonina"
+    },
+    {
+      "raw": "Gaukel, Hanne",
+      "family": "Gaukel",
+      "given": "Hanne"
+    },
+    {
+      "raw": "Impicciatore, Roberto",
+      "family": "Impicciatore",
+      "given": "Roberto"
+    }
+  ],
+  "authors_text": "Panichella, Nazareno; Zhelenkova, Antonina; Gaukel, Hanne; Impicciatore, Roberto",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2026,
+  "doi": "10.1111/jomf.70063",
+  "doi_url": "https://doi.org/10.1111/jomf.70063",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70063",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70063.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  }
+}

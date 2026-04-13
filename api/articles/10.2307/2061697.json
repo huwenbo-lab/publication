@@ -1,0 +1,44 @@
+{
+  "title": "Geographic information systems, spatial network analysis, and contraceptive choice",
+  "abstract": "Abstract How does family planning accessibility affect contraceptive choice? In this paper we use techniques of spatial analysis to develop measures of family planning accessibility, and evaluate the effects of these geographically derived measures in a multilevel statistical model of temporary method choice in Nang Rong, Thailand. In our analyses we combine spatial data obtained from maps and Global Positioning System (GPS) readings with sociodemographic data from surveys and administrative records. The new measures reveal (1) important travel time effects even when family planning outlets are close by; (2) independent effects of road composition; (3) the relevance of alternative sources of family planning supply; and (4) the importance of the local history of program placement.",
+  "authors": [
+    {
+      "raw": "Entwisle, Barbara",
+      "family": "Entwisle",
+      "given": "Barbara"
+    },
+    {
+      "raw": "Rindfuss, Ronald R.",
+      "family": "Rindfuss",
+      "given": "Ronald R."
+    },
+    {
+      "raw": "Walsh, Stephen J.",
+      "family": "Walsh",
+      "given": "Stephen J."
+    },
+    {
+      "raw": "Evans, Tom P.",
+      "family": "Evans",
+      "given": "Tom P."
+    },
+    {
+      "raw": "Curran, Sara R.",
+      "family": "Curran",
+      "given": "Sara R."
+    }
+  ],
+  "authors_text": "Entwisle, Barbara; Rindfuss, Ronald R.; Walsh, Stephen J.; Evans, Tom P.; Curran, Sara R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1997,
+  "doi": "10.2307/2061697",
+  "doi_url": "https://doi.org/10.2307/2061697",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2061697",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2061697.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

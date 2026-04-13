@@ -1,0 +1,24 @@
+{
+  "title": "How the Outside Gets In: Modeling Conversational Permeation",
+  "abstract": "Conversation is incrementally, progressively produced, subject to constraints that ensure linearity (one person speaks at a time) irrespective of the identities, motives, and conversational resources of those present. And yet conversation is also receptive to influence from—or permeation by—external factors, such as attributes, formal status, and relationships. This review summarizes conversation-analytic work on how talk-in-interaction is produced and then evaluates quantitative research on permeation in terms of the realism of its assumptions. Research on rates is found particularly wanting, although the robustness of its results presents a challenge to the claim that the meaning of an action is inextricably tied to its local-sequential context. More theoretically adequate are modeling approaches that focus on transitions, sequences, and the local determinants of discrete events. However, these also frequently make unwarranted assumptions, such as that we can generalize from people who speak to those who do not or that what someone does upon speaking can be considered separately from who speaks in the first place. A solution to the second problem is to model who gets recruited from the ranks of all potential speakers to perform a particular conversational action. The review concludes with directions for future research.",
+  "authors": [
+    {
+      "raw": "Gibson, David R.",
+      "family": "Gibson",
+      "given": "David R."
+    }
+  ],
+  "authors_text": "Gibson, David R.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2008,
+  "doi": "10.1146/annurev.soc.34.040507.134556",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.34.040507.134556",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.34.040507.134556",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.34.040507.134556.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  }
+}

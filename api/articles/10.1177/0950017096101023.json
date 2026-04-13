@@ -1,0 +1,24 @@
+{
+  "title": "Book Reviews",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Huws, Ursula",
+      "family": "Huws",
+      "given": "Ursula"
+    }
+  ],
+  "authors_text": "Huws, Ursula",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 1996,
+  "doi": "10.1177/0950017096101023",
+  "doi_url": "https://doi.org/10.1177/0950017096101023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017096101023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017096101023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": ""
+  }
+}

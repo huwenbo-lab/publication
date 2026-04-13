@@ -1,0 +1,29 @@
+{
+  "title": "Pedagogy of Fear: Folklore and the Far-Right in Weimar Germany",
+  "abstract": "This article argues that folklore (orally transmitted group knowledge) shapes far-right voting by inculcating feeling rules that resonate with nativist and autocratic ideas. Drawing on recently rediscovered archives of nineteenth- and twentieth-century folklorists, we pair a dataset of local support for the far-right in all Reichstag elections in Germany’s Weimar period, with unique information on the prevalence of ethnic bogeymen in local folktales. Using spatial autoregressive models, we find a robust and considerable effect of the presence of fearful folktales on radical right voting. These effects are particularly strong for localities where citizens face political and economic threats. We use an instrumental variable analysis drawing on folklore data from the 1860s to establish the long-term roots of this pattern, disentangle the effect of folktales from contemporary political influences, and establish causal order. Our findings suggest that folklore plays a key role in aligning the supply and demand for far-right movements by shaping how citizens see and feel the world around them. In addition, we illustrate that folklore archives provide a unique opportunity to unpack affective-discursive canons across space and time.",
+  "authors": [
+    {
+      "raw": "Amaya, Elena",
+      "family": "Amaya",
+      "given": "Elena"
+    },
+    {
+      "raw": "Braun, Robert",
+      "family": "Braun",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Amaya, Elena; Braun, Robert",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2026,
+  "doi": "10.1177/00031224251409746",
+  "doi_url": "https://doi.org/10.1177/00031224251409746",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224251409746",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224251409746.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  }
+}

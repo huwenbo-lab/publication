@@ -1,0 +1,34 @@
+{
+  "title": "Tradition and Innovation in Scientists’ Research Strategies",
+  "abstract": "What factors affect a scientist’s choice of research problem? Qualitative research in the history and sociology of science suggests that this choice is patterned by an “essential tension” between productive tradition and risky innovation. We examine this tension through Bourdieu’s field theory of science, and we explore it empirically by analyzing millions of biomedical abstracts from MEDLINE. We represent the evolving state of chemical knowledge with networks extracted from these abstracts. We then develop a typology of research strategies on these networks. Scientists can introduce novel chemicals and chemical relationships (innovation) or delve deeper into known ones (tradition). They can consolidate knowledge clusters or bridge them. The aggregate distribution of published strategies remains remarkably stable. High-risk innovation strategies are rare and reflect a growing focus on established knowledge. An innovative publication is more likely to achieve high impact than a conservative one, but the additional reward does not compensate for the risk of failing to publish. By studying prizewinners in biomedicine and chemistry, we show that occasional gambles for extraordinary impact are a compelling explanation for observed levels of risky innovation. Our analysis of the essential tension identifies institutional forces that sustain tradition and suggests policy interventions to foster innovation.",
+  "authors": [
+    {
+      "raw": "Foster, Jacob G.",
+      "family": "Foster",
+      "given": "Jacob G."
+    },
+    {
+      "raw": "Rzhetsky, Andrey",
+      "family": "Rzhetsky",
+      "given": "Andrey"
+    },
+    {
+      "raw": "Evans, James A.",
+      "family": "Evans",
+      "given": "James A."
+    }
+  ],
+  "authors_text": "Foster, Jacob G.; Rzhetsky, Andrey; Evans, James A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1177/0003122415601618",
+  "doi_url": "https://doi.org/10.1177/0003122415601618",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122415601618",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122415601618.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  }
+}

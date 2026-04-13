@@ -1,0 +1,34 @@
+{
+  "title": "Does statistical discrimination explain grading bias? Evidence from a natural experiment",
+  "abstract": "Abstract Statistical discrimination theory suggests that discrimination arises when gatekeepers lack individual-level information and therefore draw on their beliefs on the group-level. According to this perspective, the policy solution is straight forward: provide gatekeepers with accurate individual-level information and discrimination will cease. One such area for intervention is teachers’ grading of students’ academic skills. Previous studies find that teachers exhibit negative grading bias against boys, ethnically and racially minoritized students, and students of parents with short educations so these groups receive signals about lower academic potential than merited. We test whether grading bias stems from statistical discrimination using Danish administrative registers on ninth grade students (N∼400,000) during 2008–2014. First, we leverage the introduction in 2010 of standardized national tests in Danish reading in eighth grade as a natural experiment: teachers were given individual-level information, and we analyse whether this information mitigates grading bias in ninth grade. We further test whether grading bias stems from statistical discrimination by analysing the role of the performance of a given social background group at the same school the year prior. We find substantial grading bias in Danish reading against boys, ethnically minoritized students, and students of non-university-educated parents and in written mathematics against boys and students of non-university educated parents but conclude that statistical discrimination is not likely to play a major role. Hence, our study suggests that other types of discrimination may account for grading bias.",
+  "authors": [
+    {
+      "raw": "Breinholt, Asta",
+      "family": "Breinholt",
+      "given": "Asta"
+    },
+    {
+      "raw": "Hjorth-Trolle, Anders",
+      "family": "Hjorth-Trolle",
+      "given": "Anders"
+    },
+    {
+      "raw": "Henriksen, Mikkel Büchler",
+      "family": "Henriksen",
+      "given": "Mikkel Büchler"
+    }
+  ],
+  "authors_text": "Breinholt, Asta; Hjorth-Trolle, Anders; Henriksen, Mikkel Büchler",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2026,
+  "doi": "10.1093/esr/jcag005",
+  "doi_url": "https://doi.org/10.1093/esr/jcag005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcag005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcag005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  }
+}

@@ -1,6 +1,6 @@
 # Socius — 文章标题索引
 
-共 **1014** 篇 | 年份范围：2016–2026
+共 **1015** 篇 | 年份范围：2016–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -26,6 +26,7 @@
 - Make America Great! How Political Geography Shaped White Male Veterans’ Mental Health after the 2016 Presidential Election · [DOI](https://doi.org/10.1177/23780231261419871)
 - Media Engagement and Avoidance: How Undocumented College Students Exert Agency · [DOI](https://doi.org/10.1177/23780231251379105)
 - Who Feels Prestigious? Gender Differences in Self-Rated Occupational Prestige · [DOI](https://doi.org/10.1177/23780231251412640)
+- “He Got More Felonies Than I Do!” Formerly Incarcerated Americans on President Trump · [DOI](https://doi.org/10.1177/23780231261431008)
 
 ## 2025
 

@@ -1,0 +1,34 @@
+{
+  "title": "Control variable selection in applied quantitative sociology: a critical review",
+  "abstract": "Abstract A review of all research papers published in the European Sociological Review in 2016 and 2017 (N = 118) shows that only a minority of papers clearly define the parameter of interest and provide sufficient reasoning for the selected control variables of the statistical analysis. Thus, the vast majority of papers does not reach minimal standards for the selection of control variables. Consequently, a majority of papers interpret biased coefficients, or statistics without proper sociological meaning. We postulate that authors and reviewers should be more careful about control variable selection. We propose graphical causal models in the form of directed acyclic graphs as an example for a parsimonious and powerful means to that end.",
+  "authors": [
+    {
+      "raw": "Kohler, Ulrich",
+      "family": "Kohler",
+      "given": "Ulrich"
+    },
+    {
+      "raw": "Class, Fabian",
+      "family": "Class",
+      "given": "Fabian"
+    },
+    {
+      "raw": "Sawert, Tim",
+      "family": "Sawert",
+      "given": "Tim"
+    }
+  ],
+  "authors_text": "Kohler, Ulrich; Class, Fabian; Sawert, Tim",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac078",
+  "doi_url": "https://doi.org/10.1093/esr/jcac078",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac078",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac078.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  }
+}

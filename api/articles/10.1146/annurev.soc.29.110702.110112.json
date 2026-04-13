@@ -1,0 +1,29 @@
+{
+  "title": "The Science of Asking Questions",
+  "abstract": "▪ Abstract Survey methodologists have drawn on and contributed to research by cognitive psychologists, conversation analysts, and others to lay a foundation for the science of asking questions. Our discussion of this work is structured around the decisions that must be made for two common types of inquiries: questions about events or behaviors and questions that ask for evaluations or attitudes. The issues we review for behaviors include definitions, reference periods, response dimensions, and response categories. The issues we review for attitudes include bipolar versus unipolar scales, number of categories, category labels, don't know filters, and acquiescence. We also review procedures for question testing and evaluation.",
+  "authors": [
+    {
+      "raw": "Schaeffer, Nora Cate",
+      "family": "Schaeffer",
+      "given": "Nora Cate"
+    },
+    {
+      "raw": "Presser, Stanley",
+      "family": "Presser",
+      "given": "Stanley"
+    }
+  ],
+  "authors_text": "Schaeffer, Nora Cate; Presser, Stanley",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2003,
+  "doi": "10.1146/annurev.soc.29.110702.110112",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.29.110702.110112",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.29.110702.110112",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.29.110702.110112.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  }
+}

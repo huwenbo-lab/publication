@@ -1,0 +1,24 @@
+{
+  "title": "Estimating the Approximate Size of The Illegal Alien Population in the United States by the Comparative Trend Analysis of Age-Specific Death Rates",
+  "abstract": "Abstract This paper presents the results of an attempt to determine, through the use of demographic analysis, the approximate magnitude of the resident illegal alien population in the United States. The method described is the comparative analysis of trends in age-specific death rates in the United States and selected States, 1950 to 1975. The procedure depends on two assumptions: (a) that few or no illegal aliens are included in decennial census counts or current population estimates; and (b) that the reported statistics on deaths include deaths to all or nearly all illegal aliens. If the illegal alien population has increased by several million since 1970, then death rates in geographic areas where illegal aliens are most concentrated should show substantial excesses over the rates for the remainder of the country. A roughly similar downward trend in the death rates of all age groups since 1970 in all areas of the United States is apparent and hence does not support the view that many millions of illegal residents (perhaps over 6 million) are living here. However, the finding of a persistent deviation in the death rate trend for 10 selected States since 1960 for whites males, ages 20 to 44, and for no other group, suggests that the deaths of illegal aliens are being recorded in our vital statistics system. A range of estimates of the illegal alien population based on this analysis is presented and compared with the results of other studies.",
+  "authors": [
+    {
+      "raw": "Robinson, J. Gregory",
+      "family": "Robinson",
+      "given": "J. Gregory"
+    }
+  ],
+  "authors_text": "Robinson, J. Gregory",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1980,
+  "doi": "10.2307/2061057",
+  "doi_url": "https://doi.org/10.2307/2061057",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2061057",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2061057.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

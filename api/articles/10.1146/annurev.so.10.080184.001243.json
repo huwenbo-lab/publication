@@ -1,0 +1,29 @@
+{
+  "title": "The Life Story Approach: A Continental View",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Bertaux, D",
+      "family": "Bertaux",
+      "given": "D"
+    },
+    {
+      "raw": "Kohli, M",
+      "family": "Kohli",
+      "given": "M"
+    }
+  ],
+  "authors_text": "Bertaux, D; Kohli, M",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 1984,
+  "doi": "10.1146/annurev.so.10.080184.001243",
+  "doi_url": "https://doi.org/10.1146/annurev.so.10.080184.001243",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.so.10.080184.001243",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.so.10.080184.001243.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": ""
+  }
+}

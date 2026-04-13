@@ -1,0 +1,34 @@
+{
+  "title": "Immigration and the Stable Population Model",
+  "abstract": "Abstract This paper reports on work aimed at extending stable population theory to include immigration. Its central finding is that, as long as fertility is below replacement, a constant number and age distribution of immigrants (with fixed fertility and mortality schedules) lead to a stationary population. Neither the level of the net reproduction rate nor the size of the annual immigration affects this conclusion; a stationary population eventually emerges. How this stationary population is created is studied, as is the generational distribution of the constant annual stream of births and of the total population. It is also shown that immigrants and their early descendants may have fertility well above replacement (as long as later generations adopt and maintain fertility below replacement), and the outcome will still be a long-run stationary population.",
+  "authors": [
+    {
+      "raw": "Espenshade, Thomas J.",
+      "family": "Espenshade",
+      "given": "Thomas J."
+    },
+    {
+      "raw": "Bouvier, Leon F.",
+      "family": "Bouvier",
+      "given": "Leon F."
+    },
+    {
+      "raw": "Arthur, W. Brian",
+      "family": "Arthur",
+      "given": "W. Brian"
+    }
+  ],
+  "authors_text": "Espenshade, Thomas J.; Bouvier, Leon F.; Arthur, W. Brian",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1982,
+  "doi": "10.2307/2061132",
+  "doi_url": "https://doi.org/10.2307/2061132",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2061132",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2061132.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

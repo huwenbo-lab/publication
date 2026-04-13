@@ -1,0 +1,24 @@
+{
+  "title": "Social Network Analysis",
+  "abstract": "This paper reports on the development of social network analysis, tracing its origins in classical sociology and its more recent formulation in social scientific and mathematical work. It is argued that the concept of social network provides a powerful model for social structure, and that a number of important formal methods of social network analysis can be discerned. Social network analysis has been used in studies of kinship structure, social mobility, science citations, contacts among members of deviant groups, corporate power, international trade exploitation, class structure, and many other areas. A review of the formal models proposed in graph theory, multidimensional scaling, and algebraic topology is followed by extended illustrations of social network analysis in the study of community structure and interlocking directorships.",
+  "authors": [
+    {
+      "raw": "Scott, John",
+      "family": "Scott",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Scott, John",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 1988,
+  "doi": "10.1177/0038038588022001007",
+  "doi_url": "https://doi.org/10.1177/0038038588022001007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038588022001007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038588022001007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": ""
+  }
+}

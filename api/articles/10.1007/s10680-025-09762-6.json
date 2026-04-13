@@ -1,0 +1,34 @@
+{
+  "title": "A Double Decomposition of Standard Deviation Below the Modal Age at Death and the Role of Causes of Death",
+  "abstract": "Abstract Lifespan inequality is a fundamental indicator of population health, reflecting inequalities in the timing of death. Life expectancy-based indicators have been widely used to monitor changes in lifespan variation across populations. This study proposes using indicators relative to the modal age at death ( M ): the standard deviation below the mode, $$SD(M-)$$ , which captures variation in premature mortality, and the standard deviation above the mode, $$SD(M+)$$ , which reflects variation in senescent mortality. Although trends in $$SD(M+)$$ are relatively well documented, less is known about how $$SD(M-)$$ has changed over time and what drives these changes. This study aims to (1) document and compare trends in $$SD(M-)$$ and $$SD(M+)$$ across high-income countries since 1960, and (2) examine the contribution of cause-specific mortality to changes in $$SD(M-)$$ in selected countries. To achieve this, we propose a novel two-step decomposition method. In the first step, changes in $$SD(M-)$$ are decomposed into two components: one attributable to shifts in the modal age itself (“mode” component) and another to changes in the shape of the age-at-death distribution (“distribution” component). In the second step, the “distribution” component is further decomposed by cause of death. Applying this framework to data from Japan and the U.S., results revealed that the decline in $$SD(M-)$$ in the U.S. was primarily driven by reductions in heart disease and neoplasm mortality. However, these gains were partially offset by increased variation linked to infectious diseases and external causes. In Japan, declines in $$SD(M-)$$ were primarily driven by reductions in cerebrovascular diseases, heart disease (women), and neoplasms (men), while increases in variation since the mid-1990s were largely attributable to external causes and neoplasms (women). This decomposition is a useful tool for identifying the factors that drive or hinder the compression of premature mortality.",
+  "authors": [
+    {
+      "raw": "Diaconu, Viorela",
+      "family": "Diaconu",
+      "given": "Viorela"
+    },
+    {
+      "raw": "Zarulli, Virginia",
+      "family": "Zarulli",
+      "given": "Virginia"
+    },
+    {
+      "raw": "Mazzuco, Stefano",
+      "family": "Mazzuco",
+      "given": "Stefano"
+    }
+  ],
+  "authors_text": "Diaconu, Viorela; Zarulli, Virginia; Mazzuco, Stefano",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2026,
+  "doi": "10.1007/s10680-025-09762-6",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09762-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09762-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09762-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  }
+}

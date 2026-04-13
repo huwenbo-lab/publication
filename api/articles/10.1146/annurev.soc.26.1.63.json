@@ -1,0 +1,29 @@
+{
+  "title": "Wealth Inequality in the United States",
+  "abstract": "Wealth ownership in the United States has long been concentrated in the hands of a small minority of the population, yet researchers have paid relatively little attention to the causes and consequences of this inequality. In this essay, we review the literature that does exist on wealth accumulation and distribution. We begin with an examination of the reasons that wealth inequality has received little empirical attention. We then discuss methods of creating empirical estimates of wealth accumulation and distribution, and we present some estimates of recent trends in wealth inequality. We explore a diverse collection of research that explains these trends, covering treatments of aggregate influences and individual and household factors. We conclude the chapter with a review of research on intergenerational processes and wealth mobility.",
+  "authors": [
+    {
+      "raw": "Keister, Lisa A.",
+      "family": "Keister",
+      "given": "Lisa A."
+    },
+    {
+      "raw": "Moller, Stephanie",
+      "family": "Moller",
+      "given": "Stephanie"
+    }
+  ],
+  "authors_text": "Keister, Lisa A.; Moller, Stephanie",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2000,
+  "doi": "10.1146/annurev.soc.26.1.63",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.26.1.63",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.26.1.63",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.26.1.63.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  }
+}

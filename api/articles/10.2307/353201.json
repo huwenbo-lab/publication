@@ -1,0 +1,29 @@
+{
+  "title": "Gender in Families: Women and Men in Marriage, Work, and Parenthood",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Thompson, Linda",
+      "family": "Thompson",
+      "given": "Linda"
+    },
+    {
+      "raw": "Walker, Alexis J.",
+      "family": "Walker",
+      "given": "Alexis J."
+    }
+  ],
+  "authors_text": "Thompson, Linda; Walker, Alexis J.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 1989,
+  "doi": "10.2307/353201",
+  "doi_url": "https://doi.org/10.2307/353201",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F353201",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/353201.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": ""
+  }
+}

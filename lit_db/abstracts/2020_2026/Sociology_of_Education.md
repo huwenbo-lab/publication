@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **113** 篇
+共 **118** 篇
 
 ---
 
@@ -29,6 +29,31 @@
 **年份**: 2026 | **DOI**: [10.1177/00380407251338844](https://doi.org/10.1177/00380407251338844)
 **作者**: Baker, Garrett; Kirk, David S.; Sampson, Robert J.
 **摘要**: A burgeoning literature suggests that criminal justice contact in adolescence hinders educational attainment, but prior research primarily considers short-term outcomes and relies on self-reported arrest information.…
+
+### Epistemic Dynamics and Intersectionality in Faculty Hiring: Who Presents as Engaged Scholars?
+**年份**: 2026 | **DOI**: [10.1177/00380407261424498](https://doi.org/10.1177/00380407261424498)
+**作者**: Gold, Jessica R.
+**摘要**: Higher education institutions widely promote engaged scholarship, yet it remains undervalued in academic reward systems, such as hiring and promotion, and it is especially risky for early career scholars.…
+
+### Who Can Afford to Be an English Major? Economic Origins, Debt, and Public Beliefs about Higher Education
+**年份**: 2026 | **DOI**: [10.1177/00380407261427410](https://doi.org/10.1177/00380407261427410)
+**作者**: Cohen, Emma D.; Quadlin, Natasha; Rouhani, Shiva
+**摘要**: In recent years, many Americans have grown critical of the cost of college, often drawing distinctions between which degrees are more and less worthwhile. These discussions have emerged at the same time that working-class and indebted students have become increasingly prevalent in higher education, …
+
+### “Who Is Anybody to Judge?” Educational Resistance through Recognition
+**年份**: 2026 | **DOI**: [10.1177/00380407261419106](https://doi.org/10.1177/00380407261419106)
+**作者**: Ciocca Eller, Christina; Ayala-Hurtado, Elena
+**摘要**: The United States is a “schooled society”: one where formal education is viewed as a primary conduit between American cultural ideals and people's moral worth and social value. Sociologists of education have described resistance against this dominant model through disinvestment from school, particul…
+
+### Care, Success, and Accountability: Cultural Logics, Expectation Drift, and the Complex Nature of Teacher Expectations
+**年份**: 2026 | **DOI**: [10.1177/00380407261432655](https://doi.org/10.1177/00380407261432655)
+**作者**: Cucchiara, Maia; Ferguson, Sherelle; Sheikh, Sidra
+**摘要**: Teacher expectations are key predictors of student outcomes, yet how they are produced and negotiated in practice remains understudied. Drawing on ethnographic research in two progressive high schools serving low-income students of color, we show expectations function less as individually held stabl…
+
+### Intergenerational Educational Mobility in Scandinavia and the United States
+**年份**: 2026 | **DOI**: [10.1177/00380407261424502](https://doi.org/10.1177/00380407261424502)
+**作者**: Thomsen, Jens-Peter; Andrade, Stefan Bastholm; Hertel, Florian R. 等5人
+**摘要**: Intergenerational educational mobility reflects a welfare state's ability to provide citizens with opportunities to climb the social ladder. Representing two distinct welfare state types, studies have contrasted mobility patterns in Scandinavia and the United States but have provided no consistent a…
 
 ### Cultivating Familiarity: Social Class and Help-Seeking in Academic Advising
 **年份**: 2025 | **DOI**: [10.1177/00380407251391756](https://doi.org/10.1177/00380407251391756)

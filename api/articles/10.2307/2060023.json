@@ -1,0 +1,24 @@
+{
+  "title": "Some demographic determinants of average household size: An analytic approach",
+  "abstract": "Abstract Descriptions of non-nuclear family systems in terms of rules of residence imply large and complex households, yet such households are not encountered as modal or average for large populations. Demographic factors, in particular high mortality, have been suggested as possible explanations for the apparent discrepancy. The purpose of this paper is to investigate the influence of demographic variables (viz., mortality, fertility, age at marriage) on average household size under different family systems—nuclear, extended and stem. The approach used has been applied by Coale to stationary populations. It has here been modified to apply to stable populations. The results indicate that under all family systems, average household size is positively correlated with fertility, life expectancy, and average age at marriage. Households under nuclear and stem family systems never exceed 10 persons on average. By contrast, under extended family systems, when mortality is low and fertility is high, average household size reaches levels seldom if ever observed in reality, e.g., 25 persons per household. Large households under the extended family system also tend to be fairly complex, often containing 5 or more adults. A number of modifications in the model would make for greater fit between model and real family systems. A more fruitful approach would involve the simulation of household formation and development.",
+  "authors": [
+    {
+      "raw": "Burch, Thomas K.",
+      "family": "Burch",
+      "given": "Thomas K."
+    }
+  ],
+  "authors_text": "Burch, Thomas K.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1970,
+  "doi": "10.2307/2060023",
+  "doi_url": "https://doi.org/10.2307/2060023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2060023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2060023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

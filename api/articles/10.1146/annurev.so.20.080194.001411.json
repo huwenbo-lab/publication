@@ -1,0 +1,24 @@
+{
+  "title": "Sociobiology and Sociology",
+  "abstract": "Sociobiology is the study of the biological bases of behavior in the context of neo-Darwinian evolutionary theory. This review organizes the contribution of sociobiology to the understanding of human behavior around a small number of major theoretical articulations. These include identification of the gene as the basic unit of selection: the concept of inclusive fitness and the role of relatedness: models of reciprocal altruism and the concept of evolutionarily stable strategy (ESS): and the theory of optimal reproductive investment. Sociobiological and evolutionary thinking is expected to affect sociology in a number of areas including sex and gender roles: the theory of collective action: and the elaboration of a richer and more complex model of human nature.",
+  "authors": [
+    {
+      "raw": "Nielsen, François",
+      "family": "Nielsen",
+      "given": "François"
+    }
+  ],
+  "authors_text": "Nielsen, François",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 1994,
+  "doi": "10.1146/annurev.so.20.080194.001411",
+  "doi_url": "https://doi.org/10.1146/annurev.so.20.080194.001411",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.so.20.080194.001411",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.so.20.080194.001411.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": ""
+  }
+}

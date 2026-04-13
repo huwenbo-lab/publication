@@ -1,0 +1,29 @@
+{
+  "title": "Adolescent Violence toward Parents",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Agnew, Robert",
+      "family": "Agnew",
+      "given": "Robert"
+    },
+    {
+      "raw": "Huguley, Sandra",
+      "family": "Huguley",
+      "given": "Sandra"
+    }
+  ],
+  "authors_text": "Agnew, Robert; Huguley, Sandra",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 1989,
+  "doi": "10.2307/352169",
+  "doi_url": "https://doi.org/10.2307/352169",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F352169",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/352169.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": ""
+  }
+}

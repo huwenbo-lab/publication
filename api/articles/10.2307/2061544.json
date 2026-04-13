@@ -1,0 +1,29 @@
+{
+  "title": "Stability over time in the distribution of population forecast errors",
+  "abstract": "AbstractA number of studies in recent years have investigated empirical approaches to the production of confidence intervals for population projections. The critical assumption underlying these approaches is that the distribution of forecast errors remains stable over time. In this article, we evaluate this assumption by making population projections for states for a number of time periods during the 20th century, comparing these projections with census enumerations to determine forecast errors, and analyzing the stability of the resulting error distributions over time. These data are then used to construct and test empirical confidence limits. We find that in this sample the distribution of absolute percentage errors remained relatively stable over time and data on past forecast errors provided very useful predictions of future forecast errors.",
+  "authors": [
+    {
+      "raw": "Smith, Stanley K.",
+      "family": "Smith",
+      "given": "Stanley K."
+    },
+    {
+      "raw": "Sincich, Terry",
+      "family": "Sincich",
+      "given": "Terry"
+    }
+  ],
+  "authors_text": "Smith, Stanley K.; Sincich, Terry",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1988,
+  "doi": "10.2307/2061544",
+  "doi_url": "https://doi.org/10.2307/2061544",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2061544",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2061544.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

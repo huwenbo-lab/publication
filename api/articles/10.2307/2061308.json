@@ -1,0 +1,24 @@
+{
+  "title": "On Stable Population Theory With Immigration",
+  "abstract": "Abstract The paper extends stable population theory to include a constant stream of immigration. Previous attempts at tackling the problem have either restricted themselves to a below-replacement native population or else used an approach that does not produce the values of all of the parameters explicitly. It is shown that under a constant stream of immigration, the population will asymptotically tend toward a constant, linear, or exponential behavior, depending on whether the fertility behavior is below, equal to, or above replacement level. All of the parameters are determined in terms of the characteristics of the population at the origin.",
+  "authors": [
+    {
+      "raw": "Cerone, Pietro",
+      "family": "Cerone",
+      "given": "Pietro"
+    }
+  ],
+  "authors_text": "Cerone, Pietro",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1987,
+  "doi": "10.2307/2061308",
+  "doi_url": "https://doi.org/10.2307/2061308",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2061308",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2061308.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

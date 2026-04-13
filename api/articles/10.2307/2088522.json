@@ -1,0 +1,24 @@
+{
+  "title": "Changes in Status and Age Identification",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Blau, Zena Smith",
+      "family": "Blau",
+      "given": "Zena Smith"
+    }
+  ],
+  "authors_text": "Blau, Zena Smith",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 1956,
+  "doi": "10.2307/2088522",
+  "doi_url": "https://doi.org/10.2307/2088522",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2088522",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2088522.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": ""
+  }
+}

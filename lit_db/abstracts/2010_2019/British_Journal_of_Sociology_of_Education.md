@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **649** 篇
+共 **652** 篇
 
 ---
 
@@ -695,6 +695,16 @@
 **作者**: Friedman, Jonathan Z.
 **摘要**: Cosmopolitanism has been cast by some in recent years as a form of cultural capital, disproportionately available to students on elite educational pathways. This article tests this supposition, by comparing the enactment of global citizenship education reforms at two high-status and two low-status u…
 
+### Race and Education: Meritocracy as White Middle Class Privilege
+**年份**: 2018 | **DOI**: [10.1080/01425692.2018.1523354](https://doi.org/10.1080/01425692.2018.1523354)
+**作者**: Crozier, Gill
+**摘要**: （暂无）
+
+### ‘Elites’
+**年份**: 2018 | **DOI**: [10.1080/01425692.2018.1424104](https://doi.org/10.1080/01425692.2018.1424104)
+**作者**: Waters, Johanna L.
+**摘要**: （暂无）
+
 ### Student perceptions of themselves as 'consumers' of higher education
 **年份**: 2017 | **DOI**: [10.1080/01425692.2015.1113856](https://doi.org/10.1080/01425692.2015.1113856)
 **作者**: Tomlinson, Michael
@@ -1069,6 +1079,11 @@
 **年份**: 2017 | **DOI**: [10.1080/01425692.2016.1253455](https://doi.org/10.1080/01425692.2016.1253455)
 **作者**: Francis, Becky; Archer, Louise; Moote, Julie 等5人
 **摘要**: Hyper-femininity and the construction of the girly girl' label have been documented widely, but there has been less attention to their content (or any distinctions between these constructs).…
+
+### Misplaced optimism: how higher education reproduces rather than reduces social inequality
+**年份**: 2017 | **DOI**: [10.1080/01425692.2017.1281648](https://doi.org/10.1080/01425692.2017.1281648)
+**作者**: Boliver, Vikki
+**摘要**: （暂无）
 
 ### Subjectivity as a site of struggle: refusing neoliberalism?
 **年份**: 2016 | **DOI**: [10.1080/01425692.2015.1044072](https://doi.org/10.1080/01425692.2015.1044072)

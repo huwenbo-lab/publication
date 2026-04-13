@@ -1,0 +1,24 @@
+{
+  "title": "Educational Assortative Marriage in Comparative Perspective",
+  "abstract": "Most studies of assortative marriage still rely on cross-sectional data and apply log-linear modeling of the contingency table of wives’ and husbands’ educational levels. However, these macro studies have provided quite ambiguous findings and interpretations. In comparison, the life course approach analyzes single individuals over the life course and explicitly recognizes the dynamic nature of partner decisions and the importance of educational roles and institutional circumstances. Based on life course studies, educational homogamy seems to be driven by three factors: (a) Individuals often prefer to associate with equally educated partners; (b) educational expansion increases contact opportunities for equally educated men and women at an age when young people start to look for partners and form couples; and (c) women's changing economic role in dual-earner societies increases the importance of women's education and labor force attachment.",
+  "authors": [
+    {
+      "raw": "Blossfeld, Hans-Peter",
+      "family": "Blossfeld",
+      "given": "Hans-Peter"
+    }
+  ],
+  "authors_text": "Blossfeld, Hans-Peter",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2009,
+  "doi": "10.1146/annurev-soc-070308-115913",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-070308-115913",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-070308-115913",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-070308-115913.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  }
+}

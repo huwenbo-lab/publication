@@ -1,0 +1,24 @@
+{
+  "title": "Social Indicators",
+  "abstract": "This paper reviews the development of the field of social indicators from its origins in the 1960s to the present. Three classes of social indicators are identified: normative welfare indicators, which focus on direct measures of welfare and are subject to the interpretation that if they change in the right direction while other things remain equal things have gotten better or people are better off; satisfaction indicators, which measure psychological satisfaction, happiness, and life fulfillment by using survey research instruments that ascertain the subjective reality in which people live; and the most inclusive category, descriptive social indicators, which are indexes of social conditions (i.e. contexts of human existence) and changes therein for various segments of a population. Correspondingly, two conceptions of how social indicators are to be interpreted and used are discussed: One, which emphasizes the policy-analytic uses of social indicators, presumes that the proper relationship of social indicators to social policy occurs at the level of operating or managing organizations; the other, which emphasizes the uses of social indicators in social reporting, presumes that the proper role of social indicators is public enlightenment and the formation of general as opposed to operational policy. Three sociological contributions to the descriptive social indicators/enlightenment approach are described: the development of replication and longitudinal studies, the production of analytical studies of social change and social reports, and the creation of formal models for the analysis of data on social change. Current research problems that are identified include the development of social accounting systems, the construction of indicators of institutional values and structures, and the production of improved social forecasts and forecasting techniques. It is concluded that, while issues of public concern may change from time to time, the critical public and private sectors continue to need statistical information about current social conditions and trends.",
+  "authors": [
+    {
+      "raw": "Land, Kenneth C.",
+      "family": "Land",
+      "given": "Kenneth C."
+    }
+  ],
+  "authors_text": "Land, Kenneth C.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 1983,
+  "doi": "10.1146/annurev.so.09.080183.000245",
+  "doi_url": "https://doi.org/10.1146/annurev.so.09.080183.000245",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.so.09.080183.000245",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.so.09.080183.000245.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": ""
+  }
+}

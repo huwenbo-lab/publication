@@ -1,7 +1,7 @@
 # European Sociological Review
 ## 2010–2019 年文章（含摘要）
 
-共 **693** 篇
+共 **694** 篇
 
 ---
 
@@ -274,6 +274,11 @@
 **年份**: 2019 | **DOI**: [10.1093/esr/jcy040](https://doi.org/10.1093/esr/jcy040)
 **作者**: Ersanilli, Evelyn; Charsley, Katharine
 **摘要**: This study applies exchange theory to transnational marriages between descendants of migrants to Europe, and partners from their (grand)parents' country of origin. Such marriages could offer socio-economic benefits for the European partner/family, if the opportunity of migration attracts a more high…
+
+### Corrigendum to ‘Does Gender Top Family Ties? Within-Couple and between-Sibling Sharing of Elderly Care’
+**年份**: 2019 | **DOI**: [10.1093/esr/jcz050](https://doi.org/10.1093/esr/jcz050)
+**作者**: Luppi, Matteo; Nazio, Tiziana
+**摘要**: （暂无）
 
 ### Some Methodological Problems in the Study of Multigenerational Mobility
 **年份**: 2018 | **DOI**: [10.1093/esr/jcy037](https://doi.org/10.1093/esr/jcy037)

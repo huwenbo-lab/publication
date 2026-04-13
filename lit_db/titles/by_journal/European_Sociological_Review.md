@@ -1,9 +1,15 @@
 # European Sociological Review — 文章标题索引
 
-共 **1543** 篇 | 年份范围：2000–2025
+共 **1558** 篇 | 年份范围：1986–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
+
+## 2026
+
+- Changing regional university availability and inequality of educational opportunity in Japan · [DOI](https://doi.org/10.1093/esr/jcag011)
+- Stratified scars: social inequality in the labour market consequences of apprenticeship dropout · [DOI](https://doi.org/10.1093/esr/jcag010)
+- Does statistical discrimination explain grading bias? Evidence from a natural experiment · [DOI](https://doi.org/10.1093/esr/jcag005)
 
 ## 2025
 
@@ -236,6 +242,7 @@
 - Accounting for the Value of Unpaid Domestic Work: A Cross-National Study of Variation across Household Types · [DOI](https://doi.org/10.1093/esr/jcac023)
 - Rebel without a Cause: The Effects of Social Origins and Disposable Income on Rule Violations · [DOI](https://doi.org/10.1093/esr/jcac016)
 - Who Stays Involved? A Longitudinal Study on Adolescents' Participation in Voluntary Associations in Germany · [DOI](https://doi.org/10.1093/esr/jcac013)
+- Control variable selection in applied quantitative sociology: a critical review · [DOI](https://doi.org/10.1093/esr/jcac078)
 
 ## 2022
 
@@ -480,6 +487,7 @@
 - Contingent Employment and Labour Market Pathways: Bridge or Trap? · [DOI](https://doi.org/10.1093/esr/jcy045)
 - Overeducation, Labour Market Dynamics, and Economic Downturn in Europe · [DOI](https://doi.org/10.1093/esr/jcy046)
 - A Good Match? Education, Labour Market Position, and British South Asian Transnational Marriage · [DOI](https://doi.org/10.1093/esr/jcy040)
+- Corrigendum to ‘Does Gender Top Family Ties? Within-Couple and between-Sibling Sharing of Elderly Care’ · [DOI](https://doi.org/10.1093/esr/jcz050)
 
 ## 2018
 
@@ -1625,3 +1633,40 @@
 - Class, State, and Counter-Revolution The Fascist Seizure of Power in Italy, 1919--1922 · [DOI](https://doi.org/10.1093/esr/16.3.301)
 - Parental divorce and outcomes for children: evidence and interpretation · [DOI](https://doi.org/10.1093/esr/16.1.67)
 - Rational choice theory and quantitative analysis. A comment on Goldthorpe's sociological alliance · [DOI](https://doi.org/10.1093/esr/16.1.1)
+
+## 1999
+
+- When Institutions Matter:Union Growth and Decline in Western Europe, 1950-1995 · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018257)
+
+## 1996
+
+- 'Losing my religion'1: a dynamic analysis of leaving the church in the Netherlands · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018179)
+
+## 1993
+
+- Segregated and Integrated Occupations: A New Approach to Analysing Social Change · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036682)
+
+## 1992
+
+- Testing the validity of the Goldthorpe class schema · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036638)
+
+## 1991
+
+- Grateful slaves and self-made women: fact and fantasy in women's work orientations · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036590)
+- Educational transition in Hungary from the post-war period to the end of the 1980s · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036602)
+
+## 1989
+
+- Educational systems and labor market outcomes · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036524)
+
+## 1988
+
+- Labor market segmentation in the Federal Republic of Germany: an empirical study of segmentation theories from a life course perspective · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036472)
+
+## 1987
+
+- Jobs and classes: structural constraints on career mobility · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036428)
+
+## 1986
+
+- Increasing equality in household work: patterns of time-use change in Norway · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036417)

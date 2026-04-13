@@ -1,0 +1,24 @@
+{
+  "title": "From Boardrooms to Platforms: Elite Brokerage and Digital Influence in Chilean Pro‐Market Think Tanks",
+  "abstract": "ABSTRACT This article examines how Chilean pro‐market think tanks—the Centro de Estudios Públicos (CEP) and the Fundación para el Progreso (FPP)—operate as performative brokers, translating elite network positions into epistemic authority across hybrid media environments. Through a mixed‐methods analysis combining social network analysis of interlocking directorates with statistical modelling of over 6000 media items (2012–2024), we develop the concept of performative brokerage : the enactment of public expertise through platform‐specific repertoires. Our findings reveal two distinct brokerage modalities. CEP exemplifies technocratic‐distributed brokerage, leveraging extensive corporate–academic interlocks and high interfield capacity to sustain authority through traditional media gatekeeping. In contrast, FPP employs compensatory brokerage, offsetting limited corporate embeddedness through algorithmic visibility and moral–ideological repertoires tailored to digital platforms. Methodologically, we introduce an interfield capacity index extending Burt's brokerage measures, and employ robust modelling strategies—Negative Binomial regressions, Spearman correlations, and zero‐inflation correction—to analyse platform‐specific engagement across Facebook, TikTok, and YouTube. Results show that while CEP dominates citation‐based authority, FPP achieves reach through platform efficiency rather than emotional escalation. By integrating Burt's structural holes, Bourdieusian capital conversion, and the sociology of economisation and performativity, we advance performative brokerage as a framework that explains how think tanks translate network advantages into public authority through platform‐specific credibility performances.",
+  "authors": [
+    {
+      "raw": "Torres‐Riquelme, Manuel",
+      "family": "Torres‐Riquelme",
+      "given": "Manuel"
+    }
+  ],
+  "authors_text": "Torres‐Riquelme, Manuel",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2026,
+  "doi": "10.1111/1468-4446.70117",
+  "doi_url": "https://doi.org/10.1111/1468-4446.70117",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.70117",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.70117.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  }
+}

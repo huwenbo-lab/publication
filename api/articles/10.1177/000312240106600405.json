@@ -1,0 +1,34 @@
+{
+  "title": "Powerlessness and the Amplification of Threat: Neighborhood Disadvantage, Disorder, and Mistrust",
+  "abstract": "A theory of trust is developed and tested. The theory posits that mistrust develops in neighborhoods where resources are scarce and threat is common, and among individuals with few resources and who feel powerless to avoid or manage the threat. Perceived neighborhood disorder, common in disadvantaged neighborhoods where disadvantaged individuals live, influences mistrust directly and indirectly by increasing residents’ perceptions of powerlessness which in turn amplify disorder's effect on mistrust. The hypotheses are examined using the Community, Crime, and Health data, a 1995 survey of a representative sample of 2,482 Illinois residents with linked data on neighborhoods. Net of individual disadvantage, residents of disadvantaged neighborhoods have low levels of trust as a result of high levels of disorder in their neighborhoods: People who report living in neighborhoods with high levels of crime, vandalism, graffiti, danger, noise, and drugs are more mistrusting. The sense of powerlessness, which is common in such neighborhoods, amplifies the effect of neighborhood disorder on mistrust.",
+  "authors": [
+    {
+      "raw": "Ross, Catherine E.",
+      "family": "Ross",
+      "given": "Catherine E."
+    },
+    {
+      "raw": "Mirowsky, John",
+      "family": "Mirowsky",
+      "given": "John"
+    },
+    {
+      "raw": "Pribesh, Shana",
+      "family": "Pribesh",
+      "given": "Shana"
+    }
+  ],
+  "authors_text": "Ross, Catherine E.; Mirowsky, John; Pribesh, Shana",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2001,
+  "doi": "10.1177/000312240106600405",
+  "doi_url": "https://doi.org/10.1177/000312240106600405",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240106600405",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240106600405.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  }
+}

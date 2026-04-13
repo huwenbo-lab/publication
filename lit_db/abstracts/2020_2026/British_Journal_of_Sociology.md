@@ -1,9 +1,44 @@
 # British Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **415** 篇
+共 **423** 篇
 
 ---
+
+### Taking Stock: Elite Studies and Social Change
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70093](https://doi.org/10.1111/1468-4446.70093)
+**作者**: Lena, Ajdacic; François, Schoenberger; Johanna, Behr 等14人
+**摘要**: ABSTRACT This article provides a systematic synthesis of contemporary elite sociology through the analytical lens of change and stability. We distinguish between two types of change: change within elites, referring to transformations in elite composition, circulation, or internal characteristics; an…
+
+### From Boardrooms to Platforms: Elite Brokerage and Digital Influence in Chilean Pro‐Market Think Tanks
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70117](https://doi.org/10.1111/1468-4446.70117)
+**作者**: Torres‐Riquelme, Manuel
+**摘要**: ABSTRACT This article examines how Chilean pro‐market think tanks—the Centro de Estudios Públicos (CEP) and the Fundación para el Progreso (FPP)—operate as performative brokers, translating elite network positions into epistemic authority across hybrid media environments.…
+
+### The Politics of Knowledge: Race, Decolonial Knowledge, and Activist Research in Belgium and the UK
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70116](https://doi.org/10.1111/1468-4446.70116)
+**作者**: Lootens, Elif
+**摘要**: （暂无）
+
+### Urban Power: Democracy and Inequality in São Paulo and Johannesburg. By BenjaminBradlow, New York: Princeton University Press, 2024. 224 pp. $29.95/£25.00 (paper)
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70109](https://doi.org/10.1111/1468-4446.70109)
+**作者**: de Souza Leão, Luciana
+**摘要**: （暂无）
+
+### Description, Articulation and Limitations in the Social Theory of Insurance
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70110](https://doi.org/10.1111/1468-4446.70110)
+**作者**: McFall, Liz
+**摘要**: ABSTRACT There have been surprisingly few sustained efforts to explain or theorise the role insurance plays in society. Even the most theoretically inflected insurance scholarship, emanating from governmentality and Actor Network Theory scholarship, tends to be grounded in empirical cases, set in pa…
+
+### The Politics of Unpaid Labour: How the Study of Unpaid Labour Can Help Address Inequality in Precarious Work. By V.Pulignano and M.Domecka, Oxford University Press, 2025. 299 pp
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70111](https://doi.org/10.1111/1468-4446.70111)
+**作者**: Parker, Jane
+**摘要**: （暂无）
+
+### Ficto‐Primitive Capital: What Wellness Seekers Gain From Practicing Shamanism and Other Healing Traditions
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70119](https://doi.org/10.1111/1468-4446.70119)
+**作者**: Tan, Catherine
+**摘要**: ABSTRACT Behind its worldly and socially conscious aesthetic, the wellness industry serves the health and fitness interests of North American and European consumers by commercializing non‐Western and Indigenous healing traditions, including shamanistic practices.…
 
 ### Securing Profit: Threat Production as a Mechanism of Racial Capitalism in US-Occupied Kabul
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.70065](https://doi.org/10.1111/1468-4446.70065)
@@ -834,6 +869,11 @@
 **年份**: 2024 | **DOI**: [10.1111/1468-4446.13052](https://doi.org/10.1111/1468-4446.13052)
 **作者**: Zheng, Enying
 **摘要**: How does a novel organizational prototype come about and succeed to the point where it becomes recognized as an icon? To address this question, this article examines the organizational emergence of a prestigious temple.…
+
+### Children picturing their own worlds: Using photovoice to amplify children’s voice in sociological research
+**年份**: 2024 | **DOI**: [10.1111/1468-4446.13130](https://doi.org/10.1111/1468-4446.13130)
+**作者**: Ferraro, A. C.; Maher, Erin J.
+**摘要**: AbstractThis research note highlights an emerging transdisciplinary research method—photovoice—and why it is particularly suited for sociological studies of children and youth. Traditional social science data collection methods can be limited in their ability to capture both the depth and breadth of…
 
 ### Deepening the divide: Does globalization increase the polarization between winners and losers of globalization?
 **年份**: 2023 | **DOI**: [10.1111/1468-4446.13060](https://doi.org/10.1111/1468-4446.13060)

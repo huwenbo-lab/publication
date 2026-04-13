@@ -1,0 +1,34 @@
+{
+  "title": "A standard international socio-economic index of occupational status",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Ganzeboom, Harry B.G.",
+      "family": "Ganzeboom",
+      "given": "Harry B.G."
+    },
+    {
+      "raw": "De Graaf, Paul M.",
+      "family": "De Graaf",
+      "given": "Paul M."
+    },
+    {
+      "raw": "Treiman, Donald J.",
+      "family": "Treiman",
+      "given": "Donald J."
+    }
+  ],
+  "authors_text": "Ganzeboom, Harry B.G.; De Graaf, Paul M.; Treiman, Donald J.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 1992,
+  "doi": "10.1016/0049-089x(92)90017-b",
+  "doi_url": "https://doi.org/10.1016/0049-089x(92)90017-b",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2F0049-089x%2892%2990017-b",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/0049-089x%2892%2990017-b.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": ""
+  }
+}

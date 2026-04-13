@@ -1,0 +1,29 @@
+{
+  "title": "A Study of the Behavior of Law",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Gottfredson, Michael R.",
+      "family": "Gottfredson",
+      "given": "Michael R."
+    },
+    {
+      "raw": "Hindelang, Michael J.",
+      "family": "Hindelang",
+      "given": "Michael J."
+    }
+  ],
+  "authors_text": "Gottfredson, Michael R.; Hindelang, Michael J.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 1979,
+  "doi": "10.2307/2094813",
+  "doi_url": "https://doi.org/10.2307/2094813",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2094813",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2094813.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": ""
+  }
+}

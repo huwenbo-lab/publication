@@ -1,0 +1,54 @@
+{
+  "title": "Artificial Social Intelligence",
+  "abstract": "Sociologists have begun to explore the gains for theory and research that might be achieved by artificial intelligence technology: symbolic processors, expert systems, neural networks, genetic algorithms, and classifier systems. The first major accomplishments of artificial social intelligence (ASI) have been in the realm of theory, where these techniques have inspired new theories as well as helping to render existing theories more rigorous. Two application areas for which ASI holds great promise are the sociological analysis of written texts and data retrieval from the forthcoming Global Information Infrastructure. ASI has already been applied to some kinds of statistical analysis, but how competitive it will be with more conventional techniques remains unclear. To take advantage of the opportunities offered by ASI, sociologists will have to become more computer literate and will have to reconsider the place of programming and computer science in the sociological curriculum. ASI may be a revolutionary approach with the potential to rescue sociology from the doldrums into which some observers believe it has fallen.",
+  "authors": [
+    {
+      "raw": "Bainbridge, William Sims",
+      "family": "Bainbridge",
+      "given": "William Sims"
+    },
+    {
+      "raw": "Brent, Edward E.",
+      "family": "Brent",
+      "given": "Edward E."
+    },
+    {
+      "raw": "Carley, Kathleen M.",
+      "family": "Carley",
+      "given": "Kathleen M."
+    },
+    {
+      "raw": "Heise, David R.",
+      "family": "Heise",
+      "given": "David R."
+    },
+    {
+      "raw": "Macy, Michael W.",
+      "family": "Macy",
+      "given": "Michael W."
+    },
+    {
+      "raw": "Markovsky, Barry",
+      "family": "Markovsky",
+      "given": "Barry"
+    },
+    {
+      "raw": "Skvoretz, John",
+      "family": "Skvoretz",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Bainbridge, William Sims; Brent, Edward E.; Carley, Kathleen M.; Heise, David R.; Macy, Michael W.; Markovsky, Barry; Skvoretz, John",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 1994,
+  "doi": "10.1146/annurev.so.20.080194.002203",
+  "doi_url": "https://doi.org/10.1146/annurev.so.20.080194.002203",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.so.20.080194.002203",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.so.20.080194.002203.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": ""
+  }
+}

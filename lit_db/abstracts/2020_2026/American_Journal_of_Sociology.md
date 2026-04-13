@@ -1,9 +1,23 @@
 # American Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **185** 篇
+共 **189** 篇
 
 ---
+
+### Exams, Meritocracy, and Disenchantment with the Chinese Dream
+**年份**: 2026 | **DOI**: [10.1086/738608](https://doi.org/10.1086/738608)
+**作者**: Wu, Xiaogang
+**摘要**: （暂无）
+
+### : Uncertainty: Individual Problems and Public Solutions
+**年份**: 2026 | **DOI**: [10.1086/739284](https://doi.org/10.1086/739284)
+**作者**: Rilinger, Georg
+**摘要**: （暂无）
+
+### Front Matter
+**年份**: 2026 | **DOI**: [10.1086/741246](https://doi.org/10.1086/741246)
+**摘要**: （暂无）
 
 ### Wealth Begins at Home: The Housing Benefits of the 1944 GI Bill and the Reproduction of Black-White Inequality in Homeownership and Home Value
 **年份**: 2025 | **DOI**: [10.1086/738245](https://doi.org/10.1086/738245)
@@ -129,6 +143,11 @@
 **年份**: 2025 | **DOI**: [10.1086/733122](https://doi.org/10.1086/733122)
 **作者**: York, Hunter; Song, Xi; Xie, Yu
 **摘要**: Studies of intergenerational occupational mobility typically characterize occupations quantitatively in one of two ways: gradationally or categorically. Both methods likely grossly oversimplify the complex realities of the transmission mechanisms of occupations across generations.…
+
+### We Need More Data
+**年份**: 2025 | **DOI**: [10.1086/736223](https://doi.org/10.1086/736223)
+**作者**: Desmond, Matthew; Clevenstine, Veronica
+**摘要**: （暂无）
 
 ### The Anatomy of Regime Change: Transnational Political Opposition and Domestic Foreign Policy Elites in the Making of US Foreign Policy on Iraq
 **年份**: 2024 | **DOI**: [10.1086/732155](https://doi.org/10.1086/732155)

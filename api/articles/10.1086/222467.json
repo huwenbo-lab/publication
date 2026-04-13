@@ -1,0 +1,24 @@
+{
+  "title": "The Power Elite-Reconsidered",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Bell, Daniel",
+      "family": "Bell",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Bell, Daniel",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 1958,
+  "doi": "10.1086/222467",
+  "doi_url": "https://doi.org/10.1086/222467",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F222467",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/222467.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": ""
+  }
+}

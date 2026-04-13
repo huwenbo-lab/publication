@@ -1,0 +1,34 @@
+{
+  "title": "The Socioeconomic Gradient in Joint Physical Custody: A Comparison of 32 Countries",
+  "abstract": "ABSTRACT Objective This study investigates the association between mothers' socioeconomic status (SES) and joint physical custody among children, focusing on how the SES gradient in joint physical custody relates to its country‐specific prevalence. Background Joint physical custody has become increasingly common in post‐divorce family arrangements. While joint physical custody can have a positive impact on child wellbeing, it is more prevalent in higher‐SES families, potentially increasing inequalities in divorce effects. Existing research has overlooked how country‐level characteristics, such as the prevalence of joint physical custody, impact the SES gradient in custody. Method Using data from the “Health Behaviour in School‐aged Children” (HBSC) studies of 2005/2006 and 2009/2010, we analyzed approximately 50,000 children aged 11, 13, and 15 in 32 countries. The analysis employed a multilevel design with children nested within countries as well as meta‐regression analyses. Results Findings indicate a positive association between mothers' SES and the likelihood of joint custody. Moreover, the strength of the link between mothers' SES and joint physical custody varies significantly across countries. The country‐specific prevalence of joint physical custody moderates the link between the SES gradient and joint physical custody. The more common joint custody is in countries, the stronger the SES gradient in joint physical custody. Conclusion Countries with a higher prevalence of joint physical custody show a stronger SES gradient, suggesting that the expansion of joint physical custody may introduce socioeconomic inequalities in the consequences of divorce.",
+  "authors": [
+    {
+      "raw": "(Anne) Brons, M. D.",
+      "family": "(Anne) Brons",
+      "given": "M. D."
+    },
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    },
+    {
+      "raw": "Poortman, Anne‐Rigt",
+      "family": "Poortman",
+      "given": "Anne‐Rigt"
+    }
+  ],
+  "authors_text": "(Anne) Brons, M. D.; Kalmijn, Matthijs; Poortman, Anne‐Rigt",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2026,
+  "doi": "10.1111/jomf.70056",
+  "doi_url": "https://doi.org/10.1111/jomf.70056",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70056",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70056.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  }
+}

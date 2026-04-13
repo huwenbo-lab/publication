@@ -1,0 +1,34 @@
+{
+  "title": "How Parents Fare",
+  "abstract": "The shift to more time-intensive and child-centered parenting in the United States is widely assumed to be positively linked to healthy child development, but implications for adult well-being are less clear. We assess multiple dimensions of parents’ subjective well-being in activities with children and explore how the gendered nature of time potentially contributes to differences in mothers’ and fathers’ parenting experiences. Relying on nationally representative time diary data linked to respondents’ feelings in activities from the 2010, 2012, and 2013 well-being module of the American Time Use Survey ( N = 12,163 persons and 36,036 activities), we find that parents consistently report greater subjective well-being in activities with children than without. Mothers, however, report less happiness, more stress, and greater fatigue in time with children than do fathers. These gaps are relatively small and can be accounted for by differences in the activities that mothers and fathers engage in with children, whether other adults are present, and the quality of their sleep and leisure. We go beyond prior work on parental happiness and life satisfaction to document how contemporary parenting is woven differently into the lives of mothers and fathers.",
+  "authors": [
+    {
+      "raw": "Musick, Kelly",
+      "family": "Musick",
+      "given": "Kelly"
+    },
+    {
+      "raw": "Meier, Ann",
+      "family": "Meier",
+      "given": "Ann"
+    },
+    {
+      "raw": "Flood, Sarah",
+      "family": "Flood",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Musick, Kelly; Meier, Ann; Flood, Sarah",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1177/0003122416663917",
+  "doi_url": "https://doi.org/10.1177/0003122416663917",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122416663917",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122416663917.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  }
+}

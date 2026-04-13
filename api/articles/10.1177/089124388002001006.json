@@ -1,0 +1,24 @@
+{
+  "title": "CITATIONS AND NETWORKING",
+  "abstract": "References to publications written by women constitute a significantly larger proportion of citations in articles written by women than in articles written by men in the same subfields. Further, the difference between citation patterns of men and women authors increases as the proportion of women in the discipline decreases, showing that these women are doubly disadvantaged in accumulating citations. These results suggest that the problems of members of an out-group tend to be most serious when their numbers are small and that they will find it increasingly easier to gain acceptance and recognition as their numbers increase.",
+  "authors": [
+    {
+      "raw": "FERBER, MARIANNE A.",
+      "family": "FERBER",
+      "given": "MARIANNE A."
+    }
+  ],
+  "authors_text": "FERBER, MARIANNE A.",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 1988,
+  "doi": "10.1177/089124388002001006",
+  "doi_url": "https://doi.org/10.1177/089124388002001006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F089124388002001006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/089124388002001006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": ""
+  }
+}

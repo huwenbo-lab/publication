@@ -1,0 +1,34 @@
+{
+  "title": "Stratified scars: social inequality in the labour market consequences of apprenticeship dropout",
+  "abstract": "Abstract While the association between apprenticeship dropout and negative labour market consequences is well documented, the causal link and social stratification in this effect are less clear. Using georeferenced German administrative data and a conditional instrumental variable approach that exploits distance between place of residence and large firms, we find negative financial consequences but show that the dropout penalty is entirely concentrated among individuals from disadvantaged backgrounds. We further show that these stratified scars partly reflect unequal educational reenrolment rates and unequal employment outcomes among dropouts who do not reenrol. Our results highlight the potential of policies targeting higher graduation rates to reduce social inequality and suggest social advantage buffers the negative financial consequences of apprenticeship dropout, even in institutional settings with strong links between credentials and labour market outcomes.",
+  "authors": [
+    {
+      "raw": "Ostermann, Kerstin",
+      "family": "Ostermann",
+      "given": "Kerstin"
+    },
+    {
+      "raw": "Patzina, Alexander",
+      "family": "Patzina",
+      "given": "Alexander"
+    },
+    {
+      "raw": "Morris, Katy",
+      "family": "Morris",
+      "given": "Katy"
+    }
+  ],
+  "authors_text": "Ostermann, Kerstin; Patzina, Alexander; Morris, Katy",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2026,
+  "doi": "10.1093/esr/jcag010",
+  "doi_url": "https://doi.org/10.1093/esr/jcag010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcag010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcag010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  }
+}

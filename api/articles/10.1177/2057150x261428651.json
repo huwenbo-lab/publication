@@ -1,0 +1,34 @@
+{
+  "title": "Job demands, job resources, and mental health among new graduates in China",
+  "abstract": "As the graduate cohort makes the transition from campus to the workplace, it is of great significance to pay attention to their mental state. Using data from the 2020 Panel Study of Chinese University Students (PSCUS), we explore how job demands and job resources are correlated with mental health among young employees in China. Structural equation modeling is used to examine the micro-mechanisms of the effects of job demands and job resources on mental health. The results show that job demands have a negative direct effect on mental health and an indirect effect with job stress as a mediating variable explaining 23% of the variance of job demands on mental health. Additionally, job resources have a positive effect on mental health that is partly explained by alleviating job stress. Job stress explains 10% of the variance in the effect of job resources on mental health. We validate and further develop job demands–resources theory, with a specific focus on the psychological pressures of a job rather than just the job characteristics. More importantly, a micro perspective is adopted to investigate the roles that job demands and job resources play in the mental health of young Chinese employees.",
+  "authors": [
+    {
+      "raw": "Guo, Wei",
+      "family": "Guo",
+      "given": "Wei"
+    },
+    {
+      "raw": "Yu, Hongfei",
+      "family": "Yu",
+      "given": "Hongfei"
+    },
+    {
+      "raw": "Shi, Yu",
+      "family": "Shi",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Guo, Wei; Yu, Hongfei; Shi, Yu",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2026,
+  "doi": "10.1177/2057150x261428651",
+  "doi_url": "https://doi.org/10.1177/2057150x261428651",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x261428651",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x261428651.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "The Design and Administration of Mail Surveys",
+  "abstract": "For reasons of cost and ease of implementation, mail surveys are more frequently used for social research than are either telephone or face-to-face interviews. In this chapter, the last two decades of research aimed at improving mail survey methods are examined. Discussion of this research is organized around progress made in overcoming four important sources of error: sampling , noncoverage, measurement, and nonresponse. Progress has been especially great in improving response rates as a means of reducing nonresponse error. Significant progress has also been made in finding means of overcoming measurement error. Because mail surveys generally present few, if any, special sampling error problems, little research in this area has been conducted. The lack of research on noncoverage issues is a major deficiency in research to date , and noncoverage error presents the most significant impediment to the increased use of mail surveys. The 1990s are likely to see increased research on mail surveys, as efforts are made to incorporate mail into cost-effective mixed mode designs.",
+  "authors": [
+    {
+      "raw": "Dillman, Don A.",
+      "family": "Dillman",
+      "given": "Don A."
+    }
+  ],
+  "authors_text": "Dillman, Don A.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 1991,
+  "doi": "10.1146/annurev.so.17.080191.001301",
+  "doi_url": "https://doi.org/10.1146/annurev.so.17.080191.001301",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.so.17.080191.001301",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.so.17.080191.001301.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": ""
+  }
+}

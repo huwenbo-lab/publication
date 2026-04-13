@@ -1,0 +1,34 @@
+{
+  "title": "Gender and Skills",
+  "abstract": "A survey of a random sample of over 600 employed adults in the Northampton area is used to compare men's and women's perceptions of the content of their jobs and to construct an index of skill. Differences were found between men and women in perceptions of both the types of skills required in their jobs, with women emphasising personal and social skills, and in the level of skill involved. Men's jobs on average appeared to be higher skilled, but the main difference was found in fact not to be by gender but between full- and part-time jobs. Some of these differences may be related to differences in perceptions of skill. Women part-timers were much less likely than men to perceive their jobs as skilled, even when sharing similar perceptions of job content.",
+  "authors": [
+    {
+      "raw": "Horrell, Sara",
+      "family": "Horrell",
+      "given": "Sara"
+    },
+    {
+      "raw": "Rubery, Jill",
+      "family": "Rubery",
+      "given": "Jill"
+    },
+    {
+      "raw": "Burchell, Brendan",
+      "family": "Burchell",
+      "given": "Brendan"
+    }
+  ],
+  "authors_text": "Horrell, Sara; Rubery, Jill; Burchell, Brendan",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 1990,
+  "doi": "10.1177/0950017090004002002",
+  "doi_url": "https://doi.org/10.1177/0950017090004002002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017090004002002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017090004002002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": ""
+  }
+}

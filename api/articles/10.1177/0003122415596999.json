@@ -1,0 +1,44 @@
+{
+  "title": "A Paper Ceiling",
+  "abstract": "In the early twenty-first century, women continue to receive substantially less media coverage than men, despite women’s much increased participation in public life. Media scholars argue that actors in news organizations skew news coverage in favor of men and male-related topics. However, no previous study has systematically examined whether such media bias exists beyond gender ratio imbalances in coverage that merely mirror societal-level structural and occupational gender inequalities. Using novel longitudinal data, we empirically isolate media-level factors and examine their effects on women’s coverage rates in hundreds of newspapers. We find that societal-level inequalities are the dominant determinants of continued gender differences in coverage. The media focuses nearly exclusively on the highest strata of occupational and social hierarchies, in which women’s representation has remained poor. We also find that women receive greater exposure in newspaper sections led by female editors, as well as in newspapers whose editorial boards have higher female representation. However, these differences appear to be mostly correlational, as women’s coverage rates do not noticeably improve when male editors are replaced by female editors in a given newspaper.",
+  "authors": [
+    {
+      "raw": "Shor, Eran",
+      "family": "Shor",
+      "given": "Eran"
+    },
+    {
+      "raw": "van de Rijt, Arnout",
+      "family": "van de Rijt",
+      "given": "Arnout"
+    },
+    {
+      "raw": "Miltsov, Alex",
+      "family": "Miltsov",
+      "given": "Alex"
+    },
+    {
+      "raw": "Kulkarni, Vivek",
+      "family": "Kulkarni",
+      "given": "Vivek"
+    },
+    {
+      "raw": "Skiena, Steven",
+      "family": "Skiena",
+      "given": "Steven"
+    }
+  ],
+  "authors_text": "Shor, Eran; van de Rijt, Arnout; Miltsov, Alex; Kulkarni, Vivek; Skiena, Steven",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1177/0003122415596999",
+  "doi_url": "https://doi.org/10.1177/0003122415596999",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122415596999",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122415596999.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  }
+}

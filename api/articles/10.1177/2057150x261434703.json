@@ -1,0 +1,39 @@
+{
+  "title": "Sex, digital media, and fertility intentions in China: A chain mediation analysis of media use and gender role attitudes",
+  "abstract": "China's continued decline in fertility rates—despite a series of policy relaxations—highlights the importance of individual fertility intentions in shaping demographic outcomes. This study investigates sex differences in fertility intentions and examines the mediating roles of media use and gender role attitudes. Using data from the China General Social Survey (2017–2021), we analyze responses from 11,184 individuals aged 18 to 45. Quasi-Poisson and logistic regression models, combined with a chain mediation approach, reveal that women report significantly lower fertility intentions than men. This disparity is partly explained by women's greater exposure to internet media and their endorsement of more egalitarian gender role attitudes. In contrast, while traditional media use is positively related to fertility intentions, it does not function as a significant mediator. The indirect pathway through internet use and gender role attitudes accounts for 33.33% of the total effect of sex on fertility intentions. Further cohort analysis indicates that the promotion of fertility intention by traditional media use is most evident among the younger generation, while the positive connection between gender role attitudes and fertility intention is also strengthened among the younger generation.",
+  "authors": [
+    {
+      "raw": "Fu, Yan",
+      "family": "Fu",
+      "given": "Yan"
+    },
+    {
+      "raw": "Guo, Fuqiang",
+      "family": "Guo",
+      "given": "Fuqiang"
+    },
+    {
+      "raw": "Xie, Caifen",
+      "family": "Xie",
+      "given": "Caifen"
+    },
+    {
+      "raw": "Liang, Zurong",
+      "family": "Liang",
+      "given": "Zurong"
+    }
+  ],
+  "authors_text": "Fu, Yan; Guo, Fuqiang; Xie, Caifen; Liang, Zurong",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2026,
+  "doi": "10.1177/2057150x261434703",
+  "doi_url": "https://doi.org/10.1177/2057150x261434703",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x261434703",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x261434703.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  }
+}

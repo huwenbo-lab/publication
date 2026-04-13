@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1659** 篇 | 年份范围：2000–2026
+共 **1689** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -17,6 +17,16 @@
 - What determines PhD graduates' employability in Chinese academia? A graduate capital perspective · [DOI](https://doi.org/10.1080/01425692.2025.2578231)
 - Pioneers at start-up universities: how pragmatist agency explains education decisions amid uncertainties · [DOI](https://doi.org/10.1080/01425692.2025.2576740)
 - Negotiating access to the labour market among mainland Chinese master's students in Hong Kong · [DOI](https://doi.org/10.1080/01425692.2025.2573060)
+- ‘I won’t remain here’: socially advantaged students and vocational education in China’s institutional tracking context · [DOI](https://doi.org/10.1080/01425692.2026.2642106)
+- Governing the desire: power, paradox and professionalism in further education · [DOI](https://doi.org/10.1080/01425692.2026.2642918)
+- Admissibility for sale: judgment devices, merit, and the economy of self in global education · [DOI](https://doi.org/10.1080/01425692.2026.2623495)
+- Reconstructing GenAI in education: a social systems theory approach · [DOI](https://doi.org/10.1080/01425692.2026.2642913)
+- Mapping overseas education through local lens: valuation, merit, and hierarchy in Chinese students’ college applications · [DOI](https://doi.org/10.1080/01425692.2026.2642098)
+- Exposure to exclusion: cultural capital and the reshaping of privileged-caste logics in Indian private schools · [DOI](https://doi.org/10.1080/01425692.2026.2642112)
+- Exploring the role of students’ ethnic-minority and socio-economic status in entering open-admissions higher education · [DOI](https://doi.org/10.1080/01425692.2026.2645105)
+- From policy to practice: religious diversity and critical multicultural pedagogy in Norwegian early childhood education · [DOI](https://doi.org/10.1080/01425692.2026.2616354)
+- When meritocracy breeds insecurity: moralized over-striving, temporal disciplining and resistance in China’s specialized college · [DOI](https://doi.org/10.1080/01425692.2026.2645104)
+- Correction · [DOI](https://doi.org/10.1080/01425692.2026.2648414)
 
 ## 2025
 
@@ -484,6 +494,7 @@
 - The purpose of travel in the cultivation practices of differently positioned parental groups in Israel · [DOI](https://doi.org/10.1080/01425692.2019.1666702)
 - Meritocracy, social mobility and a new form of class domination · [DOI](https://doi.org/10.1080/01425692.2019.1665496)
 - Heterogeneous middle-class and disparate educational advantage: parental investment in their children's schooling in Dehradun, India · [DOI](https://doi.org/10.1080/01425692.2019.1660142)
+- 40th anniversary special issue: the current and future shape of the sociology of education · [DOI](https://doi.org/10.1080/01425692.2020.1801222)
 
 ## 2019
 
@@ -628,6 +639,8 @@
 - 'I never did anything wrong' - Trojan Horse: a qualitative study uncovering the impact in Birmingham · [DOI](https://doi.org/10.1080/01425692.2017.1406334)
 - Muslims, home education and risk in British society · [DOI](https://doi.org/10.1080/01425692.2017.1406337)
 - The global citizenship agenda and the generation of cosmopolitan capital in British higher education · [DOI](https://doi.org/10.1080/01425692.2017.1366296)
+- Race and Education: Meritocracy as White Middle Class Privilege · [DOI](https://doi.org/10.1080/01425692.2018.1523354)
+- ‘Elites’ · [DOI](https://doi.org/10.1080/01425692.2018.1424104)
 
 ## 2017
 
@@ -706,6 +719,7 @@
 - Computer adaptive testing, big data and algorithmic approaches to education · [DOI](https://doi.org/10.1080/01425692.2016.1158640)
 - Conceptualising the surveillance of teachers · [DOI](https://doi.org/10.1080/01425692.2016.1218752)
 - Femininity, science, and the denigration of the girly girl · [DOI](https://doi.org/10.1080/01425692.2016.1253455)
+- Misplaced optimism: how higher education reproduces rather than reduces social inequality · [DOI](https://doi.org/10.1080/01425692.2017.1281648)
 
 ## 2016
 
@@ -1744,3 +1758,55 @@
 - Between the Margins and the Mainstream: Women's studies and academic feminism · [DOI](https://doi.org/10.1080/713655362)
 - Stokingham Sixth Form College: Institutional culture and dispositions to learning · [DOI](https://doi.org/10.1080/713655343)
 - ''The Curriculum of the Future: From 'new sociology of education' to a critical theory of learning'' (Michael F.D. Young) · [DOI](https://doi.org/10.1080/713655355)
+
+## 1999
+
+- Vertical and Horizontal Discourse: An essay · [DOI](https://doi.org/10.1080/01425699995380)
+- Racism in Schools and Ethnic Differentials in Educational Achievement: A brief comment on a recent debate · [DOI](https://doi.org/10.1080/01425699995344)
+- Self, Space and Place: Youth identities and citizenship · [DOI](https://doi.org/10.1080/01425699995236)
+
+## 1998
+
+- Class Differentiation in Education: rational choices? · [DOI](https://doi.org/10.1080/0142569980190101)
+- Inequality in Higher Education: a study of class barriers · [DOI](https://doi.org/10.1080/0142569980190401)
+- ’I Heard It on the Grapevine’: ‘hot’ knowledge and school choice · [DOI](https://doi.org/10.1080/0142569980190307)
+
+## 1997
+
+- Recognising Difference: the Romani ‘Gypsy’ child socialisation and education process · [DOI](https://doi.org/10.1080/0142569970180207)
+
+## 1995
+
+- Carry on Caring: the work of women teachers · [DOI](https://doi.org/10.1080/0142569950160102)
+
+## 1994
+
+- The Colonisation of Social Class in Education · [DOI](https://doi.org/10.1080/0142569940150301)
+
+## 1993
+
+- Critical Events in Education · [DOI](https://doi.org/10.1080/0142569930140401)
+
+## 1992
+
+- Reconceptualising Structure and Agency in the Sociology of Education: structuration theory and schooling · [DOI](https://doi.org/10.1080/0142569920130105)
+
+## 1990
+
+- Bourdieu on Education and Social and Cultural Reproduction · [DOI](https://doi.org/10.1080/0142569900110405)
+
+## 1989
+
+- Race, Categorisation and Educational Achievement · [DOI](https://doi.org/10.1080/0142569890100205)
+
+## 1987
+
+- Sex and Social Class Inequalities in Education: a re‐examination · [DOI](https://doi.org/10.1080/0142569870080304)
+
+## 1986
+
+- Policies on Inequality in the Third World: dependency or autonomy? · [DOI](https://doi.org/10.1080/0142569860070206)
+
+## 1980
+
+- History and the Sociology of Education · [DOI](https://doi.org/10.1080/0142569800010307)

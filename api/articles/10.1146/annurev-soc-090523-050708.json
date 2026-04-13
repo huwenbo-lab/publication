@@ -1,0 +1,29 @@
+{
+  "title": "Automation and Augmentation: Artificial Intelligence, Robots, and Work",
+  "abstract": "This article reviews the literature that examines the potential, limitations, and consequences of robots and artificial intelligence (AI) in automation and augmentation across various disciplines. It presents key observations and suggestions from the literature review. Firstly, displacement effects from task automation continue to persist. However, one should not assume an unequivocally increasing efficacy of technology in automation or augmentation, especially given the declining productivity growth in high-income countries and some large emerging economies in recent decades. Jobs less likely to be negatively impacted are those that require diverse tasks, physical dexterity, tacit knowledge, or flexibility, or are protected by professional or trade associations. Despite countervailing effects, without policy intervention, automation and augmentation could widen inequality between social groups, labor and capital, and firms. Secondly, AI's promise in task automation and labor augmentation is mixed. AI tools can cause harm, and dissatisfaction and disengagement often arise from their opaqueness, errors, disregard for critical contexts, lack of tacit knowledge, and lack of domain expertise, as well as their demand for extra labor time and resources. The inadequate autonomy to override AI-based assessments further frustrates users who have to use these AI tools at work. Finally, the article calls for sociological research to specify conditions and mechanisms that ameliorate adverse consequences and enhance labor augmentation by embedding the study of automation and augmentation in concrete social and political contexts at multiple levels.",
+  "authors": [
+    {
+      "raw": "Lei, Ya-Wen",
+      "family": "Lei",
+      "given": "Ya-Wen"
+    },
+    {
+      "raw": "Kim, Rachel",
+      "family": "Kim",
+      "given": "Rachel"
+    }
+  ],
+  "authors_text": "Lei, Ya-Wen; Kim, Rachel",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2024,
+  "doi": "10.1146/annurev-soc-090523-050708",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-090523-050708",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-090523-050708",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-090523-050708.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Annual_Review_of_Sociology.md"
+  }
+}

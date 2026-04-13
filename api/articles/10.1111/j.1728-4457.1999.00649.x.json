@@ -1,0 +1,29 @@
+{
+  "title": "Smallpox in Nineteenth‐Century India",
+  "abstract": "This study uses the large, but neglected, body of Indian historical demographic and health data to show that smallpox was a major killer in past times. At the start of the nineteenth century roughly 80 percent of India's population had no effective protection against the disease, and in these circumstances virtually everyone suffered from it in childhood. The main exception was Bengal, where the indigenous practice of inoculation greatly limited the prevalence of the disease. Smallpox case fatality in India was high—around 25–30 percent in unprotected populations—and significantly higher than estimated for unprotected populations in eighteenth‐century Europe. Although vaccination reached India in 1802, the practice spread slowly during the first half of the nineteenth century. From the 1870s onward there were considerable improvements in vaccination coverage. The study demonstrates a close link between the spread of vaccination and the decline of smallpox. Whereas at the start of the nineteenth century the disease may have accounted for more than 10 percent of all deaths in India, by the end of the century smallpox had become a comparatively minor cause of death as a result of improved vaccination coverage.",
+  "authors": [
+    {
+      "raw": "Banthia, Jayant",
+      "family": "Banthia",
+      "given": "Jayant"
+    },
+    {
+      "raw": "Dyson, Tim",
+      "family": "Dyson",
+      "given": "Tim"
+    }
+  ],
+  "authors_text": "Banthia, Jayant; Dyson, Tim",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 1999,
+  "doi": "10.1111/j.1728-4457.1999.00649.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.1999.00649.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.1999.00649.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.1999.00649.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": ""
+  }
+}

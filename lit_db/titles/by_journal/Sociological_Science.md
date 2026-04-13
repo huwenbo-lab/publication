@@ -1,6 +1,6 @@
 # Sociological Science — 文章标题索引
 
-共 **392** 篇 | 年份范围：2014–2026
+共 **394** 篇 | 年份范围：2014–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -24,6 +24,8 @@
 - Socio-Economic Advancement and Long-Term Trends in the Gender Gap in Early Career Occupational Status in France 1860–1960 · [DOI](https://doi.org/10.15195/v13.a15)
 - Are Occupations “Bundles of Skills”? Identifying Latent Skill Profiles in the Labor Market Using Topic Modeling · [DOI](https://doi.org/10.15195/v13.a16)
 - Generative AI in Sociological Research: State of the Discipline · [DOI](https://doi.org/10.15195/v13.a3)
+- Fathers’ Military Service and Children’s College Attainment · [DOI](https://doi.org/10.15195/v13.a18)
+- More Common, Less Equal: Disparities in College Internship Participation Over Time · [DOI](https://doi.org/10.15195/v13.a19)
 
 ## 2025
 

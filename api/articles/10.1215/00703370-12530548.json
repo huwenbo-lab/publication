@@ -1,0 +1,39 @@
+{
+  "title": "Causal Effects of Education on Marriage and Fertility in Japan: A Research Note on a Quasi-Experimental Approach Utilizing Zodiac Superstition as an Exogenous Shock",
+  "abstract": "Abstract Despite extensive research on education's relationship with family formation, causal evidence remains limited, particularly for postsecondary education in East Asia. This research note provides novel causal evidence on education's effects on marriage and fertility among Japanese women by exploiting a unique quasi-experimental design based on the 1966 “Firehorse” zodiac superstition. We leverage the mismatch between Japanese school year and calendar year to identify women who benefited from reduced educational competition without being directly affected by the superstition. Using a difference-in-differences approach and comprehensive data on approximately 1.8 million women from multiple administrative sources, we examine the effect of increased educational opportunities across all education levels. Our findings reveal that higher education leads to modest delays in marriage and childbearing—effects that are smaller than previously documented—without increasing lifelong singlehood. Women with more education show higher labor force participation at marriage and marry slightly younger spouses while maintaining traditional marriage practices. These results suggest that education's direct effect on family formation is moderate and that institutional factors beyond education may deserve greater attention in understanding demographic trends in East Asia. Our findings contribute to debates about effective family policies in rapidly aging societies facing declining marriage and fertility rates.",
+  "authors": [
+    {
+      "raw": "Fu, Rong",
+      "family": "Fu",
+      "given": "Rong"
+    },
+    {
+      "raw": "Wang, Senhu",
+      "family": "Wang",
+      "given": "Senhu"
+    },
+    {
+      "raw": "Shen, Yichen",
+      "family": "Shen",
+      "given": "Yichen"
+    },
+    {
+      "raw": "Noguchi, Haruko",
+      "family": "Noguchi",
+      "given": "Haruko"
+    }
+  ],
+  "authors_text": "Fu, Rong; Wang, Senhu; Shen, Yichen; Noguchi, Haruko",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2026,
+  "doi": "10.1215/00703370-12530548",
+  "doi_url": "https://doi.org/10.1215/00703370-12530548",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12530548",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12530548.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  }
+}

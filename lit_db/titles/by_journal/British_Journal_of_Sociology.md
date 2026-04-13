@@ -1,9 +1,19 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1727** 篇 | 年份范围：2000–2025
+共 **1794** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
+
+## 2026
+
+- Taking Stock: Elite Studies and Social Change · [DOI](https://doi.org/10.1111/1468-4446.70093)
+- From Boardrooms to Platforms: Elite Brokerage and Digital Influence in Chilean Pro‐Market Think Tanks · [DOI](https://doi.org/10.1111/1468-4446.70117)
+- The Politics of Knowledge: Race, Decolonial Knowledge, and Activist Research in Belgium and the UK · [DOI](https://doi.org/10.1111/1468-4446.70116)
+- Urban Power: Democracy and Inequality in São Paulo and Johannesburg. By BenjaminBradlow, New York: Princeton University Press, 2024. 224 pp. $29.95/£25.00 (paper) · [DOI](https://doi.org/10.1111/1468-4446.70109)
+- Description, Articulation and Limitations in the Social Theory of Insurance · [DOI](https://doi.org/10.1111/1468-4446.70110)
+- The Politics of Unpaid Labour: How the Study of Unpaid Labour Can Help Address Inequality in Precarious Work. By V.Pulignano and M.Domecka, Oxford University Press, 2025. 299 pp · [DOI](https://doi.org/10.1111/1468-4446.70111)
+- Ficto‐Primitive Capital: What Wellness Seekers Gain From Practicing Shamanism and Other Healing Traditions · [DOI](https://doi.org/10.1111/1468-4446.70119)
 
 ## 2025
 
@@ -176,6 +186,7 @@
 - Exploring the utility of eye tracking for sociological research on race · [DOI](https://doi.org/10.1111/1468-4446.13054)
 - Two Islamophobias? Racism and religion as distinct but mutually supportive dimensions of anti-Muslim prejudice · [DOI](https://doi.org/10.1111/1468-4446.13049)
 - Becoming Buddhists: The emergence of a prestigious temple · [DOI](https://doi.org/10.1111/1468-4446.13052)
+- Children picturing their own worlds: Using photovoice to amplify children’s voice in sociological research · [DOI](https://doi.org/10.1111/1468-4446.13130)
 
 ## 2023
 
@@ -524,6 +535,8 @@
 - Agency in advanced liberal services: grounding sociological knowledge in homeless people's accounts · [DOI](https://doi.org/10.1111/1468-4446.12346)
 - The struggle for Via Bologna street market: crisis, racial denial and speaking back to power in Naples Italy · [DOI](https://doi.org/10.1111/1468-4446.12347)
 - Science or liberal arts? Cultural capital and college major choice in China · [DOI](https://doi.org/10.1111/1468-4446.12342)
+- Omnivorousness and openness: comments to Tak Wing Chan · [DOI](https://doi.org/10.1111/1468-4446.12653)
+- What makes for a successful sociology? A response to “Against a descriptive turn” · [DOI](https://doi.org/10.1111/1468-4446.12713)
 
 ## 2018
 
@@ -1809,3 +1822,150 @@
 - From sociology to historical social science: prospects and obstacles · [DOI](https://doi.org/10.1080/000713100358417)
 - The power and limits of ethnonationalism: Palestinians and Eastern Jews in Israel, 1974-1991 · [DOI](https://doi.org/10.1080/00071310050131648)
 - Archiving cultures · [DOI](https://doi.org/10.1111/j.1468-4446.2000.00161.x)
+
+## 1999
+
+- Routes of success: influences on the occupational attainment of young British males · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00217.x)
+- Who killed whom?: victimization and culpability in the social construction of murder · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00489.x)
+- Boredom and social meaning · [DOI](https://doi.org/10.1080/000713199358572)
+
+## 1998
+
+- Rational Action Theory for Sociology · [DOI](https://doi.org/10.2307/591308)
+- The Religiosity of Women in the Modern West · [DOI](https://doi.org/10.2307/591293)
+- Habermas and Foucault: Thinkers for Civil Society? · [DOI](https://doi.org/10.2307/591310)
+
+## 1997
+
+- Narrow Roads of Gene Land: The Collected Papers of W. D. Hamilton, Volume 1: The Evolution of Social Behaviour · [DOI](https://doi.org/10.2307/591766)
+- Seasonal Sub-Communities: The Impact of Student Households on Residential Communities · [DOI](https://doi.org/10.2307/591753)
+- Television and the Reflexive Project of the Self: Soaps, Teenage Talk and Hybrid Identities · [DOI](https://doi.org/10.2307/591599)
+- The Late-Modern City as a Bazaar: Drug Markets, Illegal Enterprise and the 'Barricades' · [DOI](https://doi.org/10.2307/591910)
+
+## 1996
+
+- Measuring Left-Right and Libertarian-Authoritarian Values in the British Electorate · [DOI](https://doi.org/10.2307/591118)
+- Theorizing the Interview · [DOI](https://doi.org/10.2307/591728)
+
+## 1995
+
+- The Persistent Glass Ceiling: Gendered Inequalities in the Earnings of Lawyers · [DOI](https://doi.org/10.2307/591789)
+- Legitimacy and Order in Prisons · [DOI](https://doi.org/10.2307/591622)
+- Amateurs, Professionals and the Knowledge of Archaeology · [DOI](https://doi.org/10.2307/591853)
+
+## 1994
+
+- Mannheim's Sociology of Generations: An Undervalued Legacy · [DOI](https://doi.org/10.2307/591659)
+
+## 1992
+
+- Political Power beyond the State: Problematics of Government · [DOI](https://doi.org/10.2307/591464)
+
+## 1991
+
+- The Race Relations Problematic · [DOI](https://doi.org/10.2307/590837)
+- Disability and Social Stratification · [DOI](https://doi.org/10.2307/591447)
+
+## 1990
+
+- Patriarchy, Patrimonialism, and Filial Piety: A Comparison of China and Western Europe · [DOI](https://doi.org/10.2307/591019)
+
+## 1989
+
+- The Homosexual Escort Agency: Deviance Disavowal · [DOI](https://doi.org/10.2307/590288)
+
+## 1988
+
+- The Reproduction of Privilege in Australian Education · [DOI](https://doi.org/10.2307/590483)
+
+## 1987
+
+- Recent Marxist Theories of Nationalism and the Issue of Racism · [DOI](https://doi.org/10.2307/590577)
+- The Idea of Crisis in Modern Society · [DOI](https://doi.org/10.2307/590914)
+- Weber and the Classification of Forms of Legitimacy · [DOI](https://doi.org/10.2307/590532)
+
+## 1984
+
+- Beyond Functionalism: Towards a Nonequilibrium Analysis of Complex Social Systems · [DOI](https://doi.org/10.2307/590548)
+- The Structure of Closure: A Critique and Development of the Theories of Weber, Collins, and Parkin · [DOI](https://doi.org/10.2307/590434)
+- The Genesis of the Registrar-General's Social Classification of Occupations · [DOI](https://doi.org/10.2307/590433)
+- Immigrants, Socio-Economic Attainment, and Politics in Australia · [DOI](https://doi.org/10.2307/590972)
+
+## 1983
+
+- Goodwill and the Spirit of Market Capitalism · [DOI](https://doi.org/10.2307/590932)
+- The 'Old' and the 'New' Hermeneutic in Sociological Theory · [DOI](https://doi.org/10.2307/590937)
+
+## 1982
+
+- Social Fluidity in Industrial Nations: England, France and Sweden · [DOI](https://doi.org/10.2307/589335)
+- The Boundary of the Self-Fulfilling Prophecy and the Dilemma of Social Prediction · [DOI](https://doi.org/10.2307/589359)
+- Ethnic Jokes, Moral Values and Social Boundaries · [DOI](https://doi.org/10.2307/589483)
+- Are Social Facts Real? · [DOI](https://doi.org/10.2307/589936)
+
+## 1981
+
+- The Housing Decisions of Young People · [DOI](https://doi.org/10.2307/589449)
+- Sociological Paradigms and Organizational Analysis: Elements of the Sociology of Corporate Life · [DOI](https://doi.org/10.2307/589304)
+
+## 1980
+
+- The Problem of Thematic Unity in the Works of Max Weber · [DOI](https://doi.org/10.2307/589370)
+
+## 1979
+
+- Intergenerational Class Mobility in Three Western European Societies: England, France and Sweden · [DOI](https://doi.org/10.2307/589632)
+- Ideological Social Relations in Northern Ireland · [DOI](https://doi.org/10.2307/589501)
+- Strikes, Industrial Relations and Class Conflict in Capitalist Societies · [DOI](https://doi.org/10.2307/589523)
+
+## 1976
+
+- A World-System Perspective on the Social Sciences · [DOI](https://doi.org/10.2307/589620)
+- Anti-War Demonstrations and American Public Opinion on the War in Vietnam · [DOI](https://doi.org/10.2307/590029)
+- Woman Culture and Society · [DOI](https://doi.org/10.2307/590199)
+
+## 1975
+
+- Institutional Individualism · [DOI](https://doi.org/10.2307/589585)
+
+## 1974
+
+- The Methodological Implications of Symbolic Interactionism for the Study of Deviance · [DOI](https://doi.org/10.2307/589394)
+
+## 1968
+
+- The Sociology of the Betting Shop · [DOI](https://doi.org/10.2307/588541)
+
+## 1967
+
+- Interpersonal Perception: A Theory and a Method of Research · [DOI](https://doi.org/10.2307/588644)
+
+## 1965
+
+- Integration versus Segregation in the New Zealand Churches · [DOI](https://doi.org/10.2307/588355)
+
+## 1964
+
+- The Dehumanization of Anomie and Alienation: A Problem in the Ideology of Sociology · [DOI](https://doi.org/10.2307/588861)
+
+## 1962
+
+- The Denomination · [DOI](https://doi.org/10.2307/587942)
+- The Meaning of Poverty · [DOI](https://doi.org/10.2307/587266)
+
+## 1958
+
+- Social Change · [DOI](https://doi.org/10.2307/587016)
+
+## 1952
+
+- Prestige of Occupations · [DOI](https://doi.org/10.2307/587491)
+
+## 1951
+
+- Symbols of Class Status · [DOI](https://doi.org/10.2307/588083)
+- Bilingualism and Cultural Marginality · [DOI](https://doi.org/10.2307/588086)
+
+## 1950
+
+- Social Grading of Occupations · [DOI](https://doi.org/10.2307/587306)

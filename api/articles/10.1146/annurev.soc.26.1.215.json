@@ -1,0 +1,24 @@
+{
+  "title": "Volunteering",
+  "abstract": "Volunteering is any activity in which time is given freely to benefit another person, group or cause. Volunteering is part of a cluster of helping behaviors, entailing more commitment than spontaneous assistance but narrower in scope than the care provided to family and friends. Although developed somewhat independently, the study of volunteerism and of social activism have much in common. Since data gathering on volunteering from national samples began about a quarter of a century ago, the rate for the United States has been stable or, according to some studies, rising slightly. Theories that explain volunteering by pointing to individual attributes can be grouped into those that emphasize motives or self-understandings on the one hand and those that emphasize rational action and cost-benefit analysis on the other. Other theories seek to complement this focus on individual level factors by pointing to the role of social resources, specifically social ties and organizational activity, as explanations for volunteering. Support is found for all theories, although many issues remained unresolved. Age, gender and race differences in volunteering can be accounted for, in large part, by pointing to differences in self-understandings, human capital, and social resources. Less attention has been paid to contextual effects on volunteering and, while evidence is mixed, the impact of organizational, community, and regional characteristics on individual decisions to volunteer remains a fruitful field for exploration. Studies of the experience of volunteering have only just begun to plot and explain spells of volunteering over the life course and to examine the causes of volunteer turnover. Examining the premise that volunteering is beneficial for the helper as well as the helped, a number of studies have looked at the impact of volunteering on subjective and objective well-being. Positive effects are found for life-satisfaction, self-esteem, self-rated health, and for educational and occupational achievement, functional ability, and mortality. Studies of youth also suggest that volunteering reduces the likelihood of engaging in problem behaviors such as school truancy and drug abuse.",
+  "authors": [
+    {
+      "raw": "Wilson, John",
+      "family": "Wilson",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Wilson, John",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2000,
+  "doi": "10.1146/annurev.soc.26.1.215",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.26.1.215",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.26.1.215",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.26.1.215.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  }
+}

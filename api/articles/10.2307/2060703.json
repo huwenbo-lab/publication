@@ -1,0 +1,24 @@
+{
+  "title": "Effect of Mortality Change on Stable Population Parameters",
+  "abstract": "Abstract The stable population model is used to establish formulas expressing the effects of mortality change on population growth rates, birth rates, and age composition. The change in the intrinsic growth rate is shown to be quite accurately approximated by the average decline in age-specific death rates between age zero and the mean age at childbearing in the stable population. This change is essentially independent of the initial level of fertility in the population. Changes in birth rates and age composition are shown to be simple functions of the age pattern of cumulative changes in mortality rates relative to an appropriately defined “neutral” standard.",
+  "authors": [
+    {
+      "raw": "Preston, Samuel H.",
+      "family": "Preston",
+      "given": "Samuel H."
+    }
+  ],
+  "authors_text": "Preston, Samuel H.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1974,
+  "doi": "10.2307/2060703",
+  "doi_url": "https://doi.org/10.2307/2060703",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2060703",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2060703.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

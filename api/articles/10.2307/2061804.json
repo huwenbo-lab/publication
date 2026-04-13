@@ -1,0 +1,34 @@
+{
+  "title": "Thirty Years of Demography",
+  "abstract": "Abstract In this paper, we present a content analysis of Demography, the official journal of the Population Association of America. Our results reflect patterns of change and stability in a number of areas, including: subjects covered, number of authors, gender of authors, type of data used, source of data used, affiliation of authors and statistical procedures employed. The data suggest that the field of population research has become increasingly bureaucratized and complex, while at the same time continuing to focus on familiar research subjects. A relatively small number of population research centers contribute disproportionately to the journal.",
+  "authors": [
+    {
+      "raw": "Teachman, Jay D.",
+      "family": "Teachman",
+      "given": "Jay D."
+    },
+    {
+      "raw": "Paasch, Kathleen",
+      "family": "Paasch",
+      "given": "Kathleen"
+    },
+    {
+      "raw": "Carver, Karen Price",
+      "family": "Carver",
+      "given": "Karen Price"
+    }
+  ],
+  "authors_text": "Teachman, Jay D.; Paasch, Kathleen; Carver, Karen Price",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1993,
+  "doi": "10.2307/2061804",
+  "doi_url": "https://doi.org/10.2307/2061804",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2061804",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2061804.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Leveraging Experience Sampling/Ecological Momentary Assessment for Sociological Investigations of Everyday Life",
+  "abstract": "Experience sampling (ES)—also referred to as ecological momentary assessment (EMA)—is a data collection method that involves asking study participants to report on their thoughts, feelings, behaviors, activities, and environments in (or near) real time. ES/EMA is typically administered using an intensive longitudinal design (repeated assessments within and across days). Although use of ES/EMA is widespread in psychology and health sciences, uptake of the method among sociologists has been limited. We argue that ES/EMA offers key advantages for the investigation of sociologically relevant phenomena, particularly in light of recent disciplinary emphasis on investigating the everyday mechanisms through which social structures and micro (individual and relational) processes are mutually constitutive. We describe extant and potential research applications illustrating the advantages of ES/EMA regarding enhanced validity, illuminating micro-temporal processes, and the potential for linkage with spatially and temporally referenced data sources. We also consider methodological challenges facing sociological research using ES/EMA.",
+  "authors": [
+    {
+      "raw": "Browning, Christopher R.",
+      "family": "Browning",
+      "given": "Christopher R."
+    },
+    {
+      "raw": "Pinchak, Nicolo P.",
+      "family": "Pinchak",
+      "given": "Nicolo P."
+    },
+    {
+      "raw": "Calder, Catherine A.",
+      "family": "Calder",
+      "given": "Catherine A."
+    },
+    {
+      "raw": "Boettner, Bethany",
+      "family": "Boettner",
+      "given": "Bethany"
+    }
+  ],
+  "authors_text": "Browning, Christopher R.; Pinchak, Nicolo P.; Calder, Catherine A.; Boettner, Bethany",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2024,
+  "doi": "10.1146/annurev-soc-091523-013249",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-091523-013249",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-091523-013249",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-091523-013249.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Annual_Review_of_Sociology.md"
+  }
+}

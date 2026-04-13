@@ -1,0 +1,29 @@
+{
+  "title": "The Religiosity of Women in the Modern West",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Walter, Tony",
+      "family": "Walter",
+      "given": "Tony"
+    },
+    {
+      "raw": "Davie, Grace",
+      "family": "Davie",
+      "given": "Grace"
+    }
+  ],
+  "authors_text": "Walter, Tony; Davie, Grace",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 1998,
+  "doi": "10.2307/591293",
+  "doi_url": "https://doi.org/10.2307/591293",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F591293",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/591293.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": ""
+  }
+}

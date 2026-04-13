@@ -1,9 +1,19 @@
 # Chinese Journal of Sociology — 文章标题索引
 
-共 **250** 篇 | 年份范围：2015–2025
+共 **258** 篇 | 年份范围：2015–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
+
+## 2026
+
+- The Paris Climate Agreement and China's environmental policies: A pseudo-panel data model approach to analyzing the predictors of environmental policy intensity in China · [DOI](https://doi.org/10.1177/2057150x251410671)
+- Job demands, job resources, and mental health among new graduates in China · [DOI](https://doi.org/10.1177/2057150x261428651)
+- Sex, digital media, and fertility intentions in China: A chain mediation analysis of media use and gender role attitudes · [DOI](https://doi.org/10.1177/2057150x261434703)
+- China and the environment: The question of scale · [DOI](https://doi.org/10.1177/2057150x261417716)
+- Climate adaptation and institutional continuity: Understanding lock-in dynamics in China's grassland governance · [DOI](https://doi.org/10.1177/2057150x261420583)
+- Bridging planned and autonomous adaptation for flood resilience in multi-ethnic communities along China's Tea-Horse Road · [DOI](https://doi.org/10.1177/2057150x261419582)
+- Grandparents’ authoritative resources and intergenerational co-parenting relationships in urban Chinese families: Differences between maternal and paternal grandparents · [DOI](https://doi.org/10.1177/2057150x261437977)
 
 ## 2025
 
@@ -104,6 +114,7 @@
 - Internet involvement, information consumption, and political participation in urban China · [DOI](https://doi.org/10.1177/2057150X221121698)
 - Labor exportation, transnational production politics, and the formation of exploitation relationships-a case study of Chinese migrant workers in Japan · [DOI](https://doi.org/10.1177/2057150X221090359)
 - Heroines who are rebuilding their country: State-society circumstances and coping strategies of female leaders in post-genocide Rwanda · [DOI](https://doi.org/10.1177/2057150X221123622)
+- Sexuality in China: A review and new findings · [DOI](https://doi.org/10.1177/2057150x221114599)
 
 ## 2021
 

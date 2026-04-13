@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **457** 篇 | 年份范围：2000–2026
+共 **548** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -12,6 +12,11 @@
 - Underemployed and Penalized: Education-Occupation Mismatch and Racial/Ethnic Inequality among Highly Educated Workers · [DOI](https://doi.org/10.1177/00380407251356275)
 - Study Programs, Public Rankings, and College Enrollment Intentions: Results from a Survey Experiment on Study Program Content, Flexibility, and Support · [DOI](https://doi.org/10.1177/00380407251356274)
 - The Great Leveler? Juvenile Arrest, College Attainment, and the Future of American Inequality · [DOI](https://doi.org/10.1177/00380407251338844)
+- Epistemic Dynamics and Intersectionality in Faculty Hiring: Who Presents as Engaged Scholars? · [DOI](https://doi.org/10.1177/00380407261424498)
+- Who Can Afford to Be an English Major? Economic Origins, Debt, and Public Beliefs about Higher Education · [DOI](https://doi.org/10.1177/00380407261427410)
+- “Who Is Anybody to Judge?” Educational Resistance through Recognition · [DOI](https://doi.org/10.1177/00380407261419106)
+- Care, Success, and Accountability: Cultural Logics, Expectation Drift, and the Complex Nature of Teacher Expectations · [DOI](https://doi.org/10.1177/00380407261432655)
+- Intergenerational Educational Mobility in Scandinavia and the United States · [DOI](https://doi.org/10.1177/00380407261424502)
 
 ## 2025
 
@@ -241,6 +246,7 @@
 - Do Differences in School Quality Matter More Than We Thought? New Evidence on Educational Opportunity in the Twenty-first Century · [DOI](https://doi.org/10.1177/0038040714562006)
 - Innovative Education? A Test of Specialist Mimicry or Generalist Assimilation in Trends in Charter School Specialization Over Time · [DOI](https://doi.org/10.1177/0038040714561866)
 - Once You Go to a White School, You Kind of Adapt'': Black Adolescents and the Racial Classification of Schools · [DOI](https://doi.org/10.1177/0038040714555434)
+- (No) Harm in Asking · [DOI](https://doi.org/10.1177/0038040715614913)
 
 ## 2014
 
@@ -368,6 +374,7 @@
 - The Black-White-Other Achievement Gap: Testing Theories of Academic Performance Among Multiracial and Monoracial Adolescents · [DOI](https://doi.org/10.1177/003804070908200102)
 - The Black-White Gap in Mathematics Course Taking · [DOI](https://doi.org/10.1177/003804070908200103)
 - How African American Is the Net Black Advantage? Differences in College Attendance Among Immigrant Blacks, Native Blacks, and Whites · [DOI](https://doi.org/10.1177/003804070908200104)
+- The Downside of Social Closure: Brokerage, Parental Influence, and Delinquency Among African American Boys · [DOI](https://doi.org/10.1177/003804070908200203)
 
 ## 2008
 
@@ -440,6 +447,7 @@
 - School shootings as organizational deviance · [DOI](https://doi.org/10.1177/003804070507800104)
 - High school exit examinations and high school dropout in Texas and Florida, 1971-2000 · [DOI](https://doi.org/10.1177/003804070507800202)
 - Organizational environments and the emergence of charter schools in the United States · [DOI](https://doi.org/10.1177/003804070507800101)
+- Attainable Goals? The Spirit and Letter of the No Child Left Behind Act on Parental Involvement · [DOI](https://doi.org/10.1177/003804070507800207)
 
 ## 2004
 
@@ -456,6 +464,8 @@
 - Horizontal stratification of higher education in Russia: Trends, gender differences, and Labor market outcomes · [DOI](https://doi.org/10.1177/003804070407700102)
 - Intergenerational bonding in school: The behavioral and contextual correlates of student-teacher relationships · [DOI](https://doi.org/10.1177/003804070407700103)
 - Beyond the laboratory: Evaluating the survey evidence for the disidentification explanation of black-white differences in achievement · [DOI](https://doi.org/10.1177/003804070407700104)
+- Social Capital, Cultural Values, Immigration, and Academic Achievement: The Host Country Context and Contradictory Consequences · [DOI](https://doi.org/10.1177/003804070407700205)
+- Social Capital and Its Relevance to Minority and Immigrant Populations · [DOI](https://doi.org/10.1177/003804070407700204)
 
 ## 2003
 
@@ -525,6 +535,8 @@
 - Educational achievement, language-minority students, and the new second generation · [DOI](https://doi.org/10.2307/2673254)
 - The unfulfilled promise of cultural capital theory · [DOI](https://doi.org/10.2307/2673255)
 - Analyzing schools as organizations: Long-term permanence and short-term change · [DOI](https://doi.org/10.2307/2673256)
+- Comment: The First and Second Digital Divides · [DOI](https://doi.org/10.2307/2673277)
+- The Social Sources of Educational Credentialism: Status Cultures, Labor Markets, and Organizations · [DOI](https://doi.org/10.2307/2673251)
 
 ## 2000
 
@@ -542,3 +554,178 @@
 - The academic ethic and college grades: Does hard work help students to make the grade? · [DOI](https://doi.org/10.2307/2673197)
 - The distribution of dropout and turnover rates among urban and suburban high schools · [DOI](https://doi.org/10.2307/2673198)
 - Parental cultural capital and educational attainment in the Netherlands: A refinement of the cultural capital perspective · [DOI](https://doi.org/10.2307/2673239)
+
+## 1999
+
+- Educational Expectations of Asian American Youths: Determinants and Ethnic Differences · [DOI](https://doi.org/10.2307/2673184)
+- Effects of Feeder Patterns on Students' Transition to High School · [DOI](https://doi.org/10.2307/2673154)
+- Race, Cultural Capital, and Educational Resources: Persistent Inequalities and Achievement Returns · [DOI](https://doi.org/10.2307/2673227)
+- Students on the Move: Residential and Educational Mobility in America's Schools · [DOI](https://doi.org/10.2307/2673186)
+
+## 1998
+
+- Multidimensional Influences of Family Environment in Education: The Case of Socialist Czechoslovakia · [DOI](https://doi.org/10.2307/2673219)
+- Parent-Child Differences in Educational Expectations and the Academic Achievement of Immigrant and Native Students · [DOI](https://doi.org/10.2307/2673201)
+- "Moving On": Residential Mobility and Children's School Lives · [DOI](https://doi.org/10.2307/2673244)
+
+## 1997
+
+- From First Grade Forward: Early Foundations of High School Dropout · [DOI](https://doi.org/10.2307/2673158)
+
+## 1996
+
+- Educational Inequality among White and Mexican-Origin Adolescents in the American Southwest: 1990 · [DOI](https://doi.org/10.2307/2112803)
+- How Do Mothers Choose Child Care? Alternative Cultural Models in Poor Neighborhoods · [DOI](https://doi.org/10.2307/2112800)
+- Educational Progress of Children of Immigrants: The Roles of Class, Ethnicity, and School Context · [DOI](https://doi.org/10.2307/2112714)
+
+## 1995
+
+- Factors Contributing to the Academic Excellence of American Jewish and Asian Students · [DOI](https://doi.org/10.2307/2112761)
+- Extracurricular Activities and High School Dropouts · [DOI](https://doi.org/10.2307/2112764)
+- Effects of High School Restructuring and Size on Early Gains in Achievement and Engagement · [DOI](https://doi.org/10.2307/2112741)
+- Individual and Organizational Predictors of High School Track Placement · [DOI](https://doi.org/10.2307/2112743)
+
+## 1994
+
+- Tracking: From Theory to Practice · [DOI](https://doi.org/10.2307/2112697)
+- Lost Talent: Unrealized Educational Aspirations and Expectations among U.S. Youths · [DOI](https://doi.org/10.2307/2112789)
+
+## 1993
+
+- Effects of School Restructuring on the Achievement and Engagement of Middle-grade Students · [DOI](https://doi.org/10.2307/2112735)
+- Maximally Maintained Inequality: Expansion, Reform, and Opportunity in Irish Education, 1921-75 · [DOI](https://doi.org/10.2307/2112784)
+- Analyzing Distributions in School Effects Research: An Empirical Illustration · [DOI](https://doi.org/10.2307/2112757)
+- From Nerds to Normals: The Recovery of Identity among Adolescents from Middle School to High School · [DOI](https://doi.org/10.2307/2112783)
+
+## 1992
+
+- Paths to High School Graduation or Dropout: A Longitudinal Study of a First-Grade Cohort · [DOI](https://doi.org/10.2307/2112677)
+- World Expansion of Mass Education, 1870-1980 · [DOI](https://doi.org/10.2307/2112679)
+- Policy, School Structure, and Sociodemographic Effects on Statewide High School Dropout Rates · [DOI](https://doi.org/10.2307/2112694)
+
+## 1991
+
+- Employment During High School: Character Building or a Subversion of Academic Goals? · [DOI](https://doi.org/10.2307/2112850)
+- Class, Gender, and School Expansion in France: A Four-Systems Comparison · [DOI](https://doi.org/10.2307/2112705)
+
+## 1990
+
+- The Attitude-Achievement Paradox Among Black Adolescents · [DOI](https://doi.org/10.2307/2112896)
+- Students' Characteristics and the Peer-Influence Process · [DOI](https://doi.org/10.2307/2112858)
+
+## 1989
+
+- Sibling Resemblance and Intersibling Effects in Educational Attainment · [DOI](https://doi.org/10.2307/2112864)
+- A Multilevel Model of the Social Distribution of High School Achievement · [DOI](https://doi.org/10.2307/2112866)
+- Construction of the First Mass Education Systems in Nineteenth-Century Europe · [DOI](https://doi.org/10.2307/2112831)
+
+## 1988
+
+- The Expansion of Primary Education, 1870-1940: Trends and Issues · [DOI](https://doi.org/10.2307/2112627)
+- Curriculum Tracking as Mediating the Social Distribution of High School Achievement · [DOI](https://doi.org/10.2307/2112266)
+- Routines in the Peer Culture of American and Italian Nursery School Children · [DOI](https://doi.org/10.2307/2112305)
+- Friendship in School: Gender and Racial Homophily · [DOI](https://doi.org/10.2307/2112441)
+
+## 1987
+
+- The Political Construction of Mass Schooling: European Origins and Worldwide Institutionalization · [DOI](https://doi.org/10.2307/2112615)
+- Social Class Differences in Family-School Relationships: The Importance of Cultural Capital · [DOI](https://doi.org/10.2307/2112583)
+- The Stratification of High School Learning Opportunities · [DOI](https://doi.org/10.2307/2112271)
+
+## 1986
+
+- Mothers' Strategies for Children's School Achievement: Managing the Transition to High School · [DOI](https://doi.org/10.2307/2112340)
+- Instructional and Institutional Effects of Ability Grouping · [DOI](https://doi.org/10.2307/2112346)
+
+## 1985
+
+- Achievement Growth in Public and Catholic Schools · [DOI](https://doi.org/10.2307/2112249)
+- How Much Do High School Students Learn? · [DOI](https://doi.org/10.2307/2112252)
+- The Cycle of Popularity: Interpersonal Relations Among Female Adolescents · [DOI](https://doi.org/10.2307/2112416)
+- From Idealism to Pragmatic Detachment: The Academic Performance of College Athletes · [DOI](https://doi.org/10.2307/2112226)
+- Course Enrollment in the High School: The Perspective of Working-Class Females · [DOI](https://doi.org/10.2307/2112540)
+- Catholic-School Effects on Academic Achievement: New Evidence from the High School and Beyond Follow-Up Study · [DOI](https://doi.org/10.2307/2112250)
+
+## 1984
+
+- Sibling Similarities in Educational Attainment: A Comparison of Like-Sex and Cross-Sex Sibling Pairs · [DOI](https://doi.org/10.2307/2112464)
+
+## 1983
+
+- Systems of Ability Grouping and the Stratification of Achievement in Elementary Schools · [DOI](https://doi.org/10.2307/2112382)
+- The Effect of Language Background on Achievement Level and Learning Among Elementary School Students · [DOI](https://doi.org/10.2307/2112545)
+- The Rise and Decline of Vocational Education · [DOI](https://doi.org/10.2307/2112655)
+- Public and Private Schools Revisited · [DOI](https://doi.org/10.2307/2112551)
+- Youth Job Structure and School Enrollment, 1890-1920 · [DOI](https://doi.org/10.2307/2112383)
+- A Text and Reconceptualization of a Theoretical Model of College Withdrawal in a Commuter Institution Setting · [DOI](https://doi.org/10.2307/2112657)
+
+## 1982
+
+- The Structure of Significant Other Influence on Status Aspirations: Black-White Variations · [DOI](https://doi.org/10.2307/2112608)
+- High School Seniors' Occupational Plans and Values: Trends in Sex Differences 1976 through 1980 · [DOI](https://doi.org/10.2307/2112606)
+
+## 1981
+
+- Does Consistency of Parental Educational Encouragement Matter for Secondary School Students? · [DOI](https://doi.org/10.2307/2112567)
+- Research Productivity in Academia: A Comparative Study of the Sciences, Social Sciences and Humanities · [DOI](https://doi.org/10.2307/2112566)
+- Sex-Typing and Change in the Occupational Choices of High School Seniors: 1964-1975 · [DOI](https://doi.org/10.2307/2112509)
+
+## 1980
+
+- Significant Others and Self Conceptions: Factors Influencing Educational Expectations and Academic Performance · [DOI](https://doi.org/10.2307/2112576)
+
+## 1979
+
+- Young Children's Conception of Status and Role · [DOI](https://doi.org/10.2307/2112593)
+- Private Schooling and the Status Attainment Process · [DOI](https://doi.org/10.2307/2112448)
+- Using Panel Data to Improve Estimates of the Determinants of Educational Achievement · [DOI](https://doi.org/10.2307/2112449)
+
+## 1978
+
+- School Racial Composition and Black College Attendance and Achievement Test Performance · [DOI](https://doi.org/10.2307/2112241)
+- Socialization Via Interscholastic Athletics: Its Effects on Delinquency · [DOI](https://doi.org/10.2307/2112368)
+
+## 1977
+
+- Athletics, Aspirations, and Attainments · [DOI](https://doi.org/10.2307/2112373)
+
+## 1976
+
+- The Institutionalization of Academic Innovations: Two Models · [DOI](https://doi.org/10.2307/2112519)
+
+## 1975
+
+- A Comparative Analysis of Organizational Conflict in Schools · [DOI](https://doi.org/10.2307/2112050)
+
+## 1974
+
+- Recruiting Faculty and Students · [DOI](https://doi.org/10.2307/2112168)
+
+## 1972
+
+- Voluntary Withdrawal from a Total Adult Socializing Organization: A Model · [DOI](https://doi.org/10.2307/2112147)
+- Elementary School Predictors of High School Dropout among Black Males · [DOI](https://doi.org/10.2307/2112008)
+
+## 1970
+
+- Organizational Differentiation Of Students And Educational Opportunity · [DOI](https://doi.org/10.2307/2111838)
+- The Methodology of Research on College Impact, Part One · [DOI](https://doi.org/10.2307/2112065)
+
+## 1969
+
+- Patterns of Mobility of New Ph.D.'s Among American Academic Institutions · [DOI](https://doi.org/10.2307/2111806)
+
+## 1967
+
+- Sponsored and Contest Mobility of American Academic Scientists · [DOI](https://doi.org/10.2307/2112185)
+- Pre-Coded versus Open-Ended Items and Children's Reports of Father's Occupation · [DOI](https://doi.org/10.2307/2112190)
+- Socioeconomic Status, Intelligence, and the Attainment of Higher Education · [DOI](https://doi.org/10.2307/2112184)
+- The Differential Political Socialization of English Secondary School Students · [DOI](https://doi.org/10.2307/2112078)
+
+## 1964
+
+- Attitude Change and Education for International Understanding · [DOI](https://doi.org/10.2307/2112115)
+
+## 1963
+
+- Secondary Schooling and Social Mobility in a West African Nation · [DOI](https://doi.org/10.2307/2111950)

@@ -1,0 +1,29 @@
+{
+  "title": "Changing regional university availability and inequality of educational opportunity in Japan",
+  "abstract": "Abstract The uneven distribution of universities across regions has been argued to create educational inequalities based on place of residence. While studies have shown positive associations between college proximity, measured by distance to nearest college or its presence, and enrolment among local residents, regional availability has often been measured insufficiently, and longitudinal evidence on the relationship is limited. Using multiple social survey datasets combined with population census data from Japan, a country that has experienced significant policy shifts regarding university locations, we examine how longitudinal changes in regional university availability in an individual’s residential and neighbouring prefectures are associated with their likelihood of university enrolment and how these associations differ by parental class and education. Our results show that increased university availability in both residential and neighbouring prefectures is positively associated with enrolment. While the strength of the association does not differ significantly by parental class, individuals with tertiary-educated parents are more responsive to increased availability. These findings suggest that increased university availability in underserved areas could reduce spatial inequality in enrolment, though may have a limited role in reducing, or may even be positively associated with, inequality based on social origin.",
+  "authors": [
+    {
+      "raw": "Mugiyama, Ryota",
+      "family": "Mugiyama",
+      "given": "Ryota"
+    },
+    {
+      "raw": "Toyonaga, Kohei",
+      "family": "Toyonaga",
+      "given": "Kohei"
+    }
+  ],
+  "authors_text": "Mugiyama, Ryota; Toyonaga, Kohei",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2026,
+  "doi": "10.1093/esr/jcag011",
+  "doi_url": "https://doi.org/10.1093/esr/jcag011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcag011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcag011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Contagion of Stress across Multiple Roles",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Bolger, Niall",
+      "family": "Bolger",
+      "given": "Niall"
+    },
+    {
+      "raw": "DeLongis, Anita",
+      "family": "DeLongis",
+      "given": "Anita"
+    },
+    {
+      "raw": "Kessler, Ronald C.",
+      "family": "Kessler",
+      "given": "Ronald C."
+    },
+    {
+      "raw": "Wethington, Elaine",
+      "family": "Wethington",
+      "given": "Elaine"
+    }
+  ],
+  "authors_text": "Bolger, Niall; DeLongis, Anita; Kessler, Ronald C.; Wethington, Elaine",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 1989,
+  "doi": "10.2307/352378",
+  "doi_url": "https://doi.org/10.2307/352378",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F352378",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/352378.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": ""
+  }
+}

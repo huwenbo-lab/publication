@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2010–2019 年文章（含摘要）
 
-共 **318** 篇
+共 **319** 篇
 
 ---
 
@@ -1464,6 +1464,11 @@
 **年份**: 2011 | **DOI**: [10.1016/j.rssm.2011.01.005](https://doi.org/10.1016/j.rssm.2011.01.005)
 **作者**: Brown, David K.; Bills, David B.
 **摘要**: There are a variety of relatively new, and some old and persisting, empirical issues confronting scholars of credentialing. Success in understanding these matters will be aided by greater theoretical and methodological precision and sophistication, and by avoidance of morality-driven assumptions abo…
+
+### Introduction to symposium on unmeasured heterogeneity in school transition models
+**年份**: 2011 | **DOI**: [10.1016/j.rssm.2011.05.004](https://doi.org/10.1016/j.rssm.2011.05.004)
+**作者**: Mare, Robert D.
+**摘要**: （暂无）
 
 ### The impact of intermarriage on ethnic stratification: Jews in Israel
 **年份**: 2010 | **DOI**: [10.1016/j.rssm.2010.07.003](https://doi.org/10.1016/j.rssm.2010.07.003)

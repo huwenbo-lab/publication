@@ -1,0 +1,29 @@
+{
+  "title": "Sources of Demographic Data on Mainland China",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Krader, Lawrence",
+      "family": "Krader",
+      "given": "Lawrence"
+    },
+    {
+      "raw": "Aird, John",
+      "family": "Aird",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Krader, Lawrence; Aird, John",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 1959,
+  "doi": "10.2307/2096153",
+  "doi_url": "https://doi.org/10.2307/2096153",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2096153",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2096153.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": ""
+  }
+}

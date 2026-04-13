@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2010–2019 年文章（含摘要）
 
-共 **1230** 篇
+共 **1234** 篇
 
 ---
 
@@ -2384,6 +2384,26 @@
 **年份**: 2016 | **DOI**: [10.1016/j.ssresearch.2015.10.003](https://doi.org/10.1016/j.ssresearch.2015.10.003)
 **作者**: Adua, Lazarus; York, Richard; Schuelke-Leech, Beth-Anne
 **摘要**: Understanding the manifold human and physical dimensions of climate change has become an area of great interest to researchers in recent decades. Using a U.S. nationally representative data set and drawing on the ecological modernization, political economy, and human ecology perspectives, this study…
+
+### Education and fertility decline in China during transitional times: A cohort approach
+**年份**: 2016 | **DOI**: [10.1016/j.ssresearch.2015.10.001](https://doi.org/10.1016/j.ssresearch.2015.10.001)
+**作者**: Piotrowski, Martin; Tong, Yuying
+**摘要**: （暂无）
+
+### Grandparents' resources and grandchildren's schooling: Does grandparental involvement moderate the grandparent effect?
+**年份**: 2016 | **DOI**: [10.1016/j.ssresearch.2015.09.011](https://doi.org/10.1016/j.ssresearch.2015.09.011)
+**作者**: Bol, Thijs; Kalmijn, Matthijs
+**摘要**: （暂无）
+
+### Neither bridging nor bonding
+**年份**: 2016 | **DOI**: [10.1016/j.ssresearch.2015.09.005](https://doi.org/10.1016/j.ssresearch.2015.09.005)
+**作者**: van der Meer, Tom
+**摘要**: （暂无）
+
+### The declining influence of family background on educational attainment in Australia: The role of measured and unmeasured influences
+**年份**: 2016 | **DOI**: [10.1016/j.ssresearch.2015.10.002](https://doi.org/10.1016/j.ssresearch.2015.10.002)
+**作者**: Marks, Gary N.; Mooi-Reci, Irma
+**摘要**: （暂无）
 
 ### Developing spatial inequalities in carbon appropriation: A sociological analysis of changing local emissions across the United States
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.12.013](https://doi.org/10.1016/j.ssresearch.2014.12.013)

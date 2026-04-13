@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **182** 篇
+共 **183** 篇
 
 ---
 
@@ -444,6 +444,11 @@
 **年份**: 2015 | **DOI**: [10.1177/0038040714555434](https://doi.org/10.1177/0038040714555434)
 **作者**: Ispa-Landa, Simone; Conwell, Jordan
 **摘要**: Studies of when youth classify academic achievement in racial terms have focused on the racial classification of behaviors and individuals. However, institutionsincluding schoolsmay also be racially classified.…
+
+### (No) Harm in Asking
+**年份**: 2015 | **DOI**: [10.1177/0038040715614913](https://doi.org/10.1177/0038040715614913)
+**作者**: Jack, Anthony Abraham
+**摘要**: How do undergraduates engage authority figures in college? Existing explanations predict class-based engagement strategies. Using in-depth interviews with 89 undergraduates at an elite university, I show how undergraduates with disparate precollege experiences differ in their orientations toward and…
 
 ### Resisting Charters: A Comparative Policy Development Analysis of Washington and Kentucky, 2002-2012
 **年份**: 2014 | **DOI**: [10.1177/0038040714546756](https://doi.org/10.1177/0038040714546756)

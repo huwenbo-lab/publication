@@ -1,0 +1,24 @@
+{
+  "title": "Neither bridging nor bonding",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "van der Meer, Tom",
+      "family": "van der Meer",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "van der Meer, Tom",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2015.09.005",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2015.09.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2015.09.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2015.09.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  }
+}
