@@ -9,11 +9,11 @@ enrich_crossref.py — CrossRef API 数据补全脚本
 
 用法：
   source venv/bin/activate
-  python enrich_crossref.py                    # 全部阶段
-  python enrich_crossref.py --phase 1          # 仅执行某阶段
-  python enrich_crossref.py --phase 3,4        # 执行阶段3和4
-  python enrich_crossref.py --phase 4 --journal "Asian Population Studies"  # 仅抓指定期刊
-  python enrich_crossref.py --dry-run          # 仅显示计划，不执行
+  python scripts/enrich_crossref.py                    # 全部阶段
+  python scripts/enrich_crossref.py --phase 1          # 仅执行某阶段
+  python scripts/enrich_crossref.py --phase 3,4        # 执行阶段3和4
+  python scripts/enrich_crossref.py --phase 4 --journal "Asian Population Studies"  # 仅抓指定期刊
+  python scripts/enrich_crossref.py --dry-run          # 仅显示计划，不执行
 """
 import argparse
 import json
@@ -25,11 +25,12 @@ from urllib.parse import quote_plus
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
-ROOT = Path(__file__).resolve().parent
+from _paths import CACHE_DIR, ROOT
+
 ARTICLES_JSON = ROOT / "articles.json"
 DATA_JSON = ROOT / "data.json"
 DATA_JS = ROOT / "data.js"
-PROGRESS_FILE = ROOT / "enrich_progress.json"
+PROGRESS_FILE = CACHE_DIR / "enrich_progress.json"
 
 MAILTO = "hwbruc@gmail.com"
 SLEEP_SEC = 1.0

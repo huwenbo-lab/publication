@@ -8,6 +8,16 @@
 
 ---
 
+## 快速导航
+
+- 普通使用者：看 [docs/guides/使用指南.md](/Users/wenbohu/Downloads/文献库/期刊文献/docs/guides/使用指南.md)
+- 数据与站点入口：`index.html`、`app.js`、`style.css`、`articles.json`、`data.json`、`api/`、`lit_db/`
+- 维护脚本：看 [scripts/README.md](/Users/wenbohu/Downloads/文献库/期刊文献/scripts/README.md)
+- 报告与更新日志：看 [docs/reports/](/Users/wenbohu/Downloads/文献库/期刊文献/docs/reports)
+- 内部规划/交接：看 [docs/README.md](/Users/wenbohu/Downloads/文献库/期刊文献/docs/README.md)
+
+---
+
 ## 期刊列表（25本）
 
 | 期刊 | ISSN | 数据起始年 |
@@ -46,6 +56,7 @@
 publication/
 ├── README.md                  # 本文件
 ├── CLAUDE.md                  # 项目说明（供 Claude Code 使用）
+├── AGENTS.md                  # Codex / agent 工作说明
 ├── index.html                 # GitHub Pages 前端入口
 ├── app.js                     # 前端逻辑（搜索 / 浏览 / SQLite 回退）
 ├── style.css                  # 前端样式
@@ -54,19 +65,27 @@ publication/
 ├── articles.json              # 主数据文件（34k条，新格式）
 ├── data.json                  # 旧格式备用数据（前端回退模式使用）
 ├── data.js                    # JavaScript 版备用数据
-├── data_quality_report.md     # 数据质量检查报告
 │
-├── build_articles.py          # 从 XLS 构建 articles.json
-├── enrich_crossref.py         # CrossRef API 补全摘要/DOI/历史数据
-├── enrich_openalex.py         # OpenAlex + Semantic Scholar 补全摘要
-├── update.py                  # 定期更新脚本
-├── check_quality.py           # 数据质量检查
-├── build_lit_db.py            # 生成 lit_db/ 目录
-├── build_article_api.py       # 生成 api/ 静态 JSON 端点
-├── build_search_db.py         # 构建 SQLite FTS5 全文检索数据库
 ├── opensearch.xml             # 浏览器地址栏搜索描述文件
-├── .github/workflows/deploy-pages.yml # 构建 Pages 站点产物并发布 literature.db
-├── .github/workflows/update.yml # 每周自动更新 workflow
+│
+├── scripts/                   # 所有维护脚本集中在这里
+│   ├── README.md              # 常用命令速查
+│   ├── build_articles.py
+│   ├── enrich_crossref.py
+│   ├── enrich_openalex.py
+│   ├── update.py
+│   ├── check_quality.py
+│   ├── build_lit_db.py
+│   ├── build_article_api.py
+│   ├── build_search_db.py
+│   └── clean_data.py
+│
+├── docs/
+│   ├── README.md              # 文档导航
+│   ├── guides/                # 面向普通用户的使用文档
+│   ├── reports/               # 质量报告、更新日志
+│   ├── plans/                 # 历史规划文档
+│   └── handoff/               # agent 交接资料
 │
 ├── raw_data/                  # Web of Science 原始导出文件（归档）
 │   └── *.xls                  # 17 本期刊的 Excel 导出文件
@@ -111,43 +130,43 @@ publication/
 
 ```bash
 source venv/bin/activate
-python update.py              # 抓取最近 30 天新文章
-python update.py --days 60    # 抓取最近 60 天
-python update.py --dry-run    # 仅检查，不写入
+python scripts/update.py              # 抓取最近 30 天新文章
+python scripts/update.py --days 60    # 抓取最近 60 天
+python scripts/update.py --dry-run    # 仅检查，不写入
 ```
 
 更新后同步重建索引：
 
 ```bash
-python build_lit_db.py        # 重建 AI 查阅索引
-python build_article_api.py   # 重建静态 JSON 端点
-python build_search_db.py     # 重建全文检索数据库
+python scripts/build_lit_db.py        # 重建 AI 查阅索引
+python scripts/build_article_api.py   # 重建静态 JSON 端点
+python scripts/build_search_db.py     # 重建全文检索数据库
 ```
 
 ---
 
 ## 全文检索
 
-`build_search_db.py` 基于 SQLite FTS5 构建本地全文检索数据库（`literature.db`，约 64 MB），支持对标题、摘要和作者的关键词搜索，毫秒级返回结果。
+`scripts/build_search_db.py` 基于 SQLite FTS5 构建本地全文检索数据库（`literature.db`，约 64 MB），支持对标题、摘要和作者的关键词搜索，毫秒级返回结果。
 
 ```bash
 # 构建索引（首次使用，或 articles.json 更新后重建）
-python build_search_db.py
+python scripts/build_search_db.py
 
 # 基本搜索
-python build_search_db.py --search "education inequality China"
+python scripts/build_search_db.py --search "education inequality China"
 
 # 限制返回条数
-python build_search_db.py --search "marriage fertility" --limit 10
+python scripts/build_search_db.py --search "marriage fertility" --limit 10
 
 # 按期刊过滤
-python build_search_db.py --search "stratification" --journal "American Journal of Sociology"
+python scripts/build_search_db.py --search "stratification" --journal "American Journal of Sociology"
 
 # 按年份范围过滤
-python build_search_db.py --search "labor market" --year-from 2015 --year-to 2023
+python scripts/build_search_db.py --search "labor market" --year-from 2015 --year-to 2023
 
 # 强制重建索引
-python build_search_db.py --rebuild
+python scripts/build_search_db.py --rebuild
 ```
 
 搜索语法支持 SQLite FTS5 标准语法：
@@ -168,12 +187,12 @@ python build_search_db.py --rebuild
 
 ```bash
 source venv/bin/activate
-python build_articles.py      # 从 raw_data/*.xls 重建
-python enrich_crossref.py     # CrossRef 补全（耗时较长）
-python enrich_openalex.py     # OpenAlex + S2 二次补全摘要
-python build_lit_db.py        # 重建 AI 查阅索引
-python build_article_api.py   # 重建静态 JSON 端点
-python build_search_db.py     # 重建全文检索数据库
+python scripts/build_articles.py      # 从 raw_data/*.xls 重建
+python scripts/enrich_crossref.py     # CrossRef 补全（耗时较长）
+python scripts/enrich_openalex.py     # OpenAlex + S2 二次补全摘要
+python scripts/build_lit_db.py        # 重建 AI 查阅索引
+python scripts/build_article_api.py   # 重建静态 JSON 端点
+python scripts/build_search_db.py     # 重建全文检索数据库
 ```
 
 ---

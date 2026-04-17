@@ -2,9 +2,10 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+.claude/
 
 # 生成文件（从 articles.json 重建即可）
 literature.db
 
 # 补全进度缓存
-enrich_progress.json
+.cache/
