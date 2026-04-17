@@ -10,7 +10,8 @@ from pathlib import Path
 
 import xlrd
 
-ROOT = Path(__file__).resolve().parent
+from _paths import ROOT
+
 RAW_DATA = ROOT / "raw_data"   # XLS 原始文件目录
 
 # 文件名到标准期刊名映射

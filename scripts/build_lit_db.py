@@ -25,11 +25,11 @@ build_lit_db.py — 生成轻量级文献库供AI查阅
 import json
 import re
 import os
-from pathlib import Path
 from collections import defaultdict
 from datetime import datetime
 
-ROOT = Path(__file__).resolve().parent
+from _paths import ROOT
+
 LIT_DB = ROOT / "lit_db"
 
 ABSTRACT_TRUNCATE = 300  # 摘要截断字数
@@ -401,7 +401,7 @@ def build_readme():
         "",
         "```bash",
         "source venv/bin/activate",
-        "python build_lit_db.py",
+        "python scripts/build_lit_db.py",
         "```",
     ]
     out = LIT_DB / "README.md"

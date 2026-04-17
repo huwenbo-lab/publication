@@ -3,19 +3,19 @@ build_search_db.py — 构建 SQLite FTS5 全文检索数据库
 读取 articles.json，建立可搜索的 literature.db
 
 使用方法：
-    python build_search_db.py          # 构建索引
-    python build_search_db.py --search "education inequality China"
-    python build_search_db.py --search "marriage fertility" --limit 10
-    python build_search_db.py --search "stratification" --journal "American Journal of Sociology"
-    python build_search_db.py --search "labor market" --year-from 2015 --year-to 2023
+    python scripts/build_search_db.py          # 构建索引
+    python scripts/build_search_db.py --search "education inequality China"
+    python scripts/build_search_db.py --search "marriage fertility" --limit 10
+    python scripts/build_search_db.py --search "stratification" --journal "American Journal of Sociology"
+    python scripts/build_search_db.py --search "labor market" --year-from 2015 --year-to 2023
 """
 
 import json
 import sqlite3
 import argparse
-from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
+from _paths import ROOT
+
 DB_PATH = ROOT / "literature.db"
 ARTICLES_PATH = ROOT / "articles.json"
 
@@ -113,7 +113,7 @@ def search(query, limit=20, journal=None, year_from=None, year_to=None):
     year_from/year_to — 按年份范围过滤
     """
     if not DB_PATH.exists():
-        print("索引不存在，请先运行：python build_search_db.py")
+        print("索引不存在，请先运行：python scripts/build_search_db.py")
         return []
 
     conn = sqlite3.connect(DB_PATH)
@@ -181,11 +181,11 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 示例：
-  python build_search_db.py
-  python build_search_db.py --search "education inequality"
-  python build_search_db.py --search "marriage fertility" --limit 10
-  python build_search_db.py --search "stratification" --journal "American Journal of Sociology"
-  python build_search_db.py --search "labor market" --year-from 2015 --year-to 2023
+  python scripts/build_search_db.py
+  python scripts/build_search_db.py --search "education inequality"
+  python scripts/build_search_db.py --search "marriage fertility" --limit 10
+  python scripts/build_search_db.py --search "stratification" --journal "American Journal of Sociology"
+  python scripts/build_search_db.py --search "labor market" --year-from 2015 --year-to 2023
         """
     )
     parser.add_argument("--search",    metavar="QUERY",   help="搜索关键词")

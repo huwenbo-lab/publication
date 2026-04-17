@@ -32,7 +32,7 @@ jobs:
           python-version: "3.11"
 
       - name: Build SQLite search database
-        run: python build_search_db.py
+        run: python scripts/build_search_db.py
 
       - name: Assemble site bundle
         run: |

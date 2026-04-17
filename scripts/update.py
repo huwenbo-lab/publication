@@ -5,15 +5,15 @@ update.py — 自动更新脚本
 
 用法：
   source venv/bin/activate
-  python update.py              # 默认抓取最近30天
-  python update.py --days 60    # 抓取最近60天
-  python update.py --dry-run    # 仅检查，不写入
+  python scripts/update.py              # 默认抓取最近30天
+  python scripts/update.py --days 60    # 抓取最近60天
+  python scripts/update.py --dry-run    # 仅检查，不写入
 
 脚本会自动：
   1. 查询CrossRef获取指定天数内各期刊的新文章
   2. 按DOI去重（跳过已存在的文章）
   3. 新文章追加到 articles.json，同步更新 data.json 和 data.js
-  4. 在 update_log.md 中追加更新记录
+  4. 在 docs/reports/update_log.md 中追加更新记录
 """
 import argparse
 import json
@@ -27,21 +27,22 @@ from urllib.parse import quote_plus
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
-ROOT = Path(__file__).resolve().parent
+from _paths import REPORTS_DIR, ROOT, SCRIPTS_DIR
+
 ARTICLES_JSON = ROOT / "articles.json"
 DATA_JSON = ROOT / "data.json"
 DATA_JS = ROOT / "data.js"
-UPDATE_LOG = ROOT / "update_log.md"
+UPDATE_LOG = REPORTS_DIR / "update_log.md"
 
 MAILTO = "hwbruc@gmail.com"
 SLEEP_SEC = 1.0
 CROSSREF_BASE = "https://api.crossref.org"
 
 DERIVED_BUILDERS = [
-    ("AI 索引", [sys.executable, "build_lit_db.py"]),
-    ("文章 API", [sys.executable, "build_article_api.py"]),
-    ("全文检索库", [sys.executable, "build_search_db.py"]),
-    ("质量报告", [sys.executable, "check_quality.py"]),
+    ("AI 索引", [sys.executable, str(SCRIPTS_DIR / "build_lit_db.py")]),
+    ("文章 API", [sys.executable, str(SCRIPTS_DIR / "build_article_api.py")]),
+    ("全文检索库", [sys.executable, str(SCRIPTS_DIR / "build_search_db.py")]),
+    ("质量报告", [sys.executable, str(SCRIPTS_DIR / "check_quality.py")]),
 ]
 
 # 25本期刊配置
@@ -348,7 +349,7 @@ def main():
         total_new = len(all_new)
         print(f"\n共新增 {total_new} 篇，数据库现有 {len(articles):,} 条")
         append_update_log(run_date, args.days, journal_results, total_new, len(articles))
-        print(f"已更新 update_log.md")
+        print(f"已更新 {UPDATE_LOG.relative_to(ROOT)}")
         if not args.skip_derived:
             run_derived_builds()
     else:

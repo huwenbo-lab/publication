@@ -1,4 +1,6 @@
 # Agent 交接文档
+
+> 2026-04-17 注：维护脚本已统一迁移到 `scripts/`，普通用户说明移至 `docs/guides/使用指南.md`，报告与更新日志移至 `docs/reports/`。若本文出现旧路径，请以当前目录结构为准。
 ## 社会学与人口学期刊文献数据库 — 当前进度与待续任务
 
 > 本文档供接手的 AI agent 阅读，用于了解项目全貌、已完成工作和下一步任务。
@@ -187,20 +189,20 @@ url = f"https://api.elsevier.com/content/abstract/doi/{doi}?apiKey={API_KEY}"
 
 ### 5.3 日常更新
 
-`update.py` 已可用，从 CrossRef 抓取最新文章（默认 30 天内）。每次更新后需同步重建：
+`scripts/update.py` 已可用，从 CrossRef 抓取最新文章（默认 30 天内）。每次更新后需同步重建：
 
 ```bash
 source venv/bin/activate
-python update.py
-python build_search_db.py --rebuild
-python build_lit_db.py
+python scripts/update.py
+python scripts/build_search_db.py --rebuild
+python scripts/build_lit_db.py
 ```
 
 ### 5.4 数据质量的遗留小问题
 
 - 少量书评文章仍在库中（只删除了标题含明显书评标志的，但标题无法识别的书评无法批量处理）
 - 少量文章标题包含非 ASCII 特殊字符（破折号样式不统一），影响不大，暂不处理
-- `data_quality_report.md` 是基于原始 XLS 文件的报告，已不反映当前 articles.json 的状态，可用 `python check_quality.py` 重新生成（但该脚本读 raw_data/*.xls，不读 articles.json）
+- `docs/reports/data_quality_report.md` 是基于原始 XLS 文件的报告，已不反映当前 articles.json 的状态，可用 `python scripts/check_quality.py` 重新生成（但该脚本读 raw_data/*.xls，不读 articles.json）
 
 ---
 

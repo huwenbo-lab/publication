@@ -13,7 +13,8 @@ import json
 import re
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
+from _paths import ROOT
+
 ARTICLES_JSON = ROOT / "articles.json"
 DATA_JSON = ROOT / "data.json"
 DATA_JS = ROOT / "data.js"

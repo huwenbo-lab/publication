@@ -1,6 +1,6 @@
 """
 check_quality.py — 数据质量检查脚本
-读取所有 .xls 文件，生成 data_quality_report.md（中文报告）
+读取所有 .xls 文件，生成 docs/reports/data_quality_report.md（中文报告）
 """
 import os
 import re
@@ -9,7 +9,8 @@ from pathlib import Path
 
 import xlrd
 
-ROOT = Path(__file__).resolve().parent
+from _paths import REPORTS_DIR, ROOT
+
 RAW_DATA = ROOT / "raw_data"   # XLS 原始文件目录
 
 # 文件名到标准期刊名的映射（处理拼写错误等）
@@ -307,9 +308,9 @@ def main():
     lines.append("   - 补全缺失DOI（按标题搜索CrossRef）")
     lines.append("   - 抓取历史缺口年份数据（按ISSN+年份范围查CrossRef）")
     lines.append("   - 全量抓取8本缺失期刊的数据")
-    lines.append("3. **Step 4（自动更新）**：运行 `python update.py` 可定期从CrossRef获取最新文章")
+    lines.append("3. **Step 4（自动更新）**：运行 `python scripts/update.py` 可定期从CrossRef获取最新文章")
 
-    report_path = ROOT / "data_quality_report.md"
+    report_path = REPORTS_DIR / "data_quality_report.md"
     report_path.write_text("\n".join(lines), encoding="utf-8")
     print(f"\n报告已生成: {report_path}")
     print(f"总计: {len(results)} 本期刊, {all_rows_count:,} 条记录")

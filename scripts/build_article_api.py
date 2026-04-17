@@ -25,7 +25,8 @@ from datetime import datetime
 from pathlib import Path
 from urllib.parse import quote
 
-ROOT = Path(__file__).resolve().parent
+from _paths import ROOT
+
 API_DIR = ROOT / "api"
 ARTICLES_DIR = API_DIR / "articles"
 ARTICLES_JSON = ROOT / "articles.json"

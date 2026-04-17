@@ -185,7 +185,7 @@
 
 每个 Phase 完成后的验证标准：
 
-- **Phase 1**：在 GitHub Pages 上打开页面，5 秒内可输入搜索；搜索"education inequality China"返回结果与 `python build_search_db.py --search "education inequality China"` 一致
+- **Phase 1**：在 GitHub Pages 上打开页面，5 秒内可输入搜索；搜索"education inequality China"返回结果与 `python scripts/build_search_db.py --search "education inequality China"` 一致
 - **Phase 2**：从搜索结果点开任意文章，能跳转到正确的 DOI；BibTeX 导出格式可直接粘贴到 Zotero
 - **Phase 3**：手机访问页面，搜索/筛选/详情三个核心功能可用且不卡
 - **Phase 4**：访问 `https://huwenbo-lab.github.io/publication/api/articles/10.xxx.json` 能拿到单篇 JSON

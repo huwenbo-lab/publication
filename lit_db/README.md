@@ -38,5 +38,5 @@ lit_db/
 
 ```bash
 source venv/bin/activate
-python build_lit_db.py
+python scripts/build_lit_db.py
 ```

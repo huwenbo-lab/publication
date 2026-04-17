@@ -9,12 +9,12 @@ OpenAlex 能额外覆盖约 40% 的缺失，Semantic Scholar 再补约 10%。
   Round 2: Semantic Scholar（对 OpenAlex 未命中的文章二次尝试）
 
 用法：
-  python enrich_openalex.py                # 执行全部
-  python enrich_openalex.py --round 1      # 仅 OpenAlex
-  python enrich_openalex.py --round 2      # 仅 Semantic Scholar
-  python enrich_openalex.py --journal "Asian Population Studies"  # 仅处理指定期刊
-  python enrich_openalex.py --dry-run      # 仅统计，不写入
-  python enrich_openalex.py --skip-reviews # 跳过疑似书评
+  python scripts/enrich_openalex.py                # 执行全部
+  python scripts/enrich_openalex.py --round 1      # 仅 OpenAlex
+  python scripts/enrich_openalex.py --round 2      # 仅 Semantic Scholar
+  python scripts/enrich_openalex.py --journal "Asian Population Studies"  # 仅处理指定期刊
+  python scripts/enrich_openalex.py --dry-run      # 仅统计，不写入
+  python scripts/enrich_openalex.py --skip-reviews # 跳过疑似书评
 """
 
 import argparse
@@ -27,11 +27,12 @@ from urllib.parse import quote
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
-ROOT = Path(__file__).resolve().parent
+from _paths import CACHE_DIR, ROOT
+
 ARTICLES_JSON = ROOT / "articles.json"
 DATA_JSON = ROOT / "data.json"
 DATA_JS = ROOT / "data.js"
-PROGRESS_FILE = ROOT / "openalex_progress.json"
+PROGRESS_FILE = CACHE_DIR / "openalex_progress.json"
 
 MAILTO = "hwbruc@gmail.com"
 
@@ -378,7 +379,7 @@ def round2_semantic_scholar(articles, targets, dry_run=False, progress=None):
 def main():
     parser = argparse.ArgumentParser(
         description="用 OpenAlex + Semantic Scholar 补全缺失摘要",
-        epilog="示例：python enrich_openalex.py --round 1 --skip-reviews"
+        epilog="示例：python scripts/enrich_openalex.py --round 1 --skip-reviews"
     )
     parser.add_argument("--round", type=str, default="1,2",
                         help="执行哪几轮（1=OpenAlex, 2=Semantic Scholar），默认 1,2")

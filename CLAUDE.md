@@ -57,14 +57,15 @@
 articles.json          # 主数据文件（新格式，含DOI）
 data.json / data.js    # 旧格式数据（供index.html使用）
 index.html             # 前端展示页面
-check_quality.py       # 数据质量检查，生成 data_quality_report.md
-build_articles.py      # 从XLS清洗合并为 articles.json
-enrich_crossref.py     # CrossRef API补全摘要/DOI/缺失数据
-enrich_openalex.py     # OpenAlex + Semantic Scholar 补全摘要（CrossRef遗漏的）
-update.py              # 定期更新脚本
-build_lit_db.py        # 生成 lit_db/ 目录（AI查阅索引）
-build_search_db.py     # 构建 SQLite FTS5 全文检索数据库 → literature.db
-update_log.md          # 更新日志
+scripts/check_quality.py       # 数据质量检查，生成 docs/reports/data_quality_report.md
+scripts/build_articles.py      # 从XLS清洗合并为 articles.json
+scripts/enrich_crossref.py     # CrossRef API补全摘要/DOI/缺失数据
+scripts/enrich_openalex.py     # OpenAlex + Semantic Scholar 补全摘要（CrossRef遗漏的）
+scripts/update.py              # 定期更新脚本
+scripts/build_lit_db.py        # 生成 lit_db/ 目录（AI查阅索引）
+scripts/build_search_db.py     # 构建 SQLite FTS5 全文检索数据库 → literature.db
+docs/reports/update_log.md     # 更新日志
+docs/guides/使用指南.md        # 面向普通用户的使用说明
 raw_data/              # Web of Science原始导出文件（归档）
     *.xls              # 17本期刊的Excel导出文件
 lit_db/                # 轻量级文献索引（供AI查阅）
@@ -79,35 +80,35 @@ lit_db/                # 轻量级文献索引（供AI查阅）
 
 ```bash
 source venv/bin/activate
-python update.py              # 默认抓取最近30天新文章
-python update.py --days 60    # 抓取最近60天
-python update.py --dry-run    # 仅检查，不写入
+python scripts/update.py              # 默认抓取最近30天新文章
+python scripts/update.py --days 60    # 抓取最近60天
+python scripts/update.py --dry-run    # 仅检查，不写入
 ```
 
 脚本会自动：
 1. 从CrossRef查询25本期刊的最新文章
 2. 按DOI去重，避免重复录入
 3. 新文章追加到 `articles.json`，同步更新 `data.json` 和 `data.js`
-4. 在 `update_log.md` 中记录更新详情
+4. 在 `docs/reports/update_log.md` 中记录更新详情
 
 ### 全量重建
 
 ```bash
 source venv/bin/activate
-python build_articles.py      # 从XLS重建（仅已有Excel的17本期刊）
-python enrich_crossref.py     # CrossRef补全（摘要、DOI、历史数据、缺失期刊）
-python enrich_openalex.py     # OpenAlex+S2补全（CrossRef遗漏的摘要）
-python build_lit_db.py        # 重建AI查阅索引
-python build_search_db.py     # 重建全文检索数据库
+python scripts/build_articles.py      # 从XLS重建（仅已有Excel的17本期刊）
+python scripts/enrich_crossref.py     # CrossRef补全（摘要、DOI、历史数据、缺失期刊）
+python scripts/enrich_openalex.py     # OpenAlex+S2补全（CrossRef遗漏的摘要）
+python scripts/build_lit_db.py        # 重建AI查阅索引
+python scripts/build_search_db.py     # 重建全文检索数据库
 ```
 
 ### 全文检索
 
 ```bash
-python build_search_db.py --search "education inequality China"
-python build_search_db.py --search "marriage fertility" --limit 10
-python build_search_db.py --search "stratification" --journal "American Journal of Sociology"
-python build_search_db.py --search "labor market" --year-from 2015 --year-to 2023
+python scripts/build_search_db.py --search "education inequality China"
+python scripts/build_search_db.py --search "marriage fertility" --limit 10
+python scripts/build_search_db.py --search "stratification" --journal "American Journal of Sociology"
+python scripts/build_search_db.py --search "labor market" --year-from 2015 --year-to 2023
 ```
 
 `literature.db` 约 53 MB，为生成文件，不纳入 git 管理，可随时从 `articles.json` 重建。
