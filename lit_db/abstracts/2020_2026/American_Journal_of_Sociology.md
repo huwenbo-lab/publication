@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **189** 篇
+共 **191** 篇
 
 ---
 
@@ -17,6 +17,16 @@
 
 ### Front Matter
 **年份**: 2026 | **DOI**: [10.1086/741246](https://doi.org/10.1086/741246)
+**摘要**: （暂无）
+
+### Skill Diversification Beyond High-Paying Jobs
+**年份**: 2026 | **DOI**: [10.1086/741725](https://doi.org/10.1086/741725)
+**作者**: Han, Siqi; Cheng, Siwei
+**摘要**: （暂无）
+
+### Atlantic Reconstruction: Democracy, Abolition, and the Making of Political Personhood
+**年份**: 2026 | **DOI**: [10.1086/741674](https://doi.org/10.1086/741674)
+**作者**: Hammer, Ricarda
 **摘要**: （暂无）
 
 ### Wealth Begins at Home: The Housing Benefits of the 1944 GI Bill and the Reproduction of Black-White Inequality in Homeownership and Home Value

@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **183** 篇
+共 **184** 篇
 
 ---
 
@@ -359,6 +359,11 @@
 **年份**: 2016 | **DOI**: [10.1177/0038040715610883](https://doi.org/10.1177/0038040715610883)
 **作者**: Binder, Amy J.; Davis, Daniel B.; Bloom, Nick
 **摘要**: Elite universities are credited as launch points for the widest variety of meaningful careers. Yet, year after year at the most selective universities, nearly half the graduating seniors head to a surprisingly narrow band of professional options.…
+
+### Schooling, Skills, and Self-rated Health
+**年份**: 2016 | **DOI**: [10.1177/0038040716653168](https://doi.org/10.1177/0038040716653168)
+**作者**: Duke, Naomi; Macmillan, Ross
+**摘要**: Education is a key sociological variable in the explanation of health and health disparities. Conventional wisdom emphasizes a life course–human capital perspective with expectations of causal effects that are quasi-linear, large in magnitude for high levels of educational attainment, and reasonably…
 
 ### Instrumental and Expressive Education: College Planning in the Face of Poverty
 **年份**: 2015 | **DOI**: [10.1177/0038040715603428](https://doi.org/10.1177/0038040715603428)

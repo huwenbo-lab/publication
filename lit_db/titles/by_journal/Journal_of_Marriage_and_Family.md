@@ -1,6 +1,6 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2515** 篇 | 年份范围：1966–2026
+共 **2529** 篇 | 年份范围：1966–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -9,6 +9,7 @@
 
 - The Socioeconomic Gradient in Joint Physical Custody: A Comparison of 32 Countries · [DOI](https://doi.org/10.1111/jomf.70056)
 - Couple Mobility and Employment Patterns. A Gender Perspective in Six European Countries · [DOI](https://doi.org/10.1111/jomf.70063)
+- Life Course Changes in the Geographical Distance Between Adult Children of Immigrants and Their Parents: The Role of Partnership Formation and Dissolution · [DOI](https://doi.org/10.1111/jomf.70074)
 
 ## 2025
 
@@ -394,6 +395,7 @@
 - Family and household sources of poverty for Black, Hispanic, and White newborns · [DOI](https://doi.org/10.1111/jomf.12781)
 - Weekend work and work-family conflict: Evidence from Australian panel data · [DOI](https://doi.org/10.1111/jomf.12779)
 - Occupational characteristics and parents' childcare time · [DOI](https://doi.org/10.1111/jomf.12768)
+- Converging trends in developmental child care time by fathers' education? Comment on Cha and Park (2021) · [DOI](https://doi.org/10.1111/jomf.12889)
 
 ## 2021
 
@@ -2555,6 +2557,8 @@
 
 - "They Think You Ain't Much of Nothing": The Social Construction of the Welfare Mother · [DOI](https://doi.org/10.2307/353629)
 - The Impact of Husbands' and Wives' Relative Earnings on Marital Disruption · [DOI](https://doi.org/10.2307/353538)
+- Interparental Conflict Styles and Youth Problem Behaviors: A Two-Sample Replication Study · [DOI](https://doi.org/10.2307/353446)
+- Do Safety Nets Work? The Role of Anticipated Help in Times of Need · [DOI](https://doi.org/10.2307/353636)
 
 ## 1997
 
@@ -2575,6 +2579,12 @@
 - A Controlled Parenting Skills Outcome Study Examining Individual Difference and Attendance Effects · [DOI](https://doi.org/10.2307/353698)
 - Caregiver Burden: Differentiating the Content and Consequences of Family Caregiving · [DOI](https://doi.org/10.2307/353928)
 - Commitment and Dependency in Marriage · [DOI](https://doi.org/10.2307/353702)
+- Detecting and Correcting Attrition Bias in Longitudinal Family Research · [DOI](https://doi.org/10.2307/353412)
+- Beyond Drudgery, Power, and Equity: Toward an Expanded Discourse on the Moral Dimensions of Housework in Families · [DOI](https://doi.org/10.2307/353816)
+
+## 1994
+
+- Physical Wife Abuse in a Non-Western Society: An Integrated Theoretical Approach · [DOI](https://doi.org/10.2307/352709)
 
 ## 1993
 
@@ -2595,6 +2605,7 @@
 - Quantitative Research on Marital Quality in the 1980s: A Critical Review · [DOI](https://doi.org/10.2307/353304)
 - A Meta-Analytic Review of Family Structure Stereotypes · [DOI](https://doi.org/10.2307/353026)
 - Parenting Styles, Drug Use, and Children's Adjustment in Families of Young Adults · [DOI](https://doi.org/10.2307/352849)
+- Family Ties, Friendships, and Subjective Well-Being among Black Americans · [DOI](https://doi.org/10.2307/353027)
 
 ## 1989
 
@@ -2638,14 +2649,21 @@
 ## 1982
 
 - Adult Role Transitions, Parental Influence, and Status Aspirations Early in the Life Course · [DOI](https://doi.org/10.2307/351261)
+- Decision Making in Intergenerational Puerto Rican Families · [DOI](https://doi.org/10.2307/351584)
 
 ## 1981
 
 - Structural Exchange and Marital Interaction · [DOI](https://doi.org/10.2307/351340)
 
+## 1980
+
+- Marital Quality: A Review of the Seventies · [DOI](https://doi.org/10.2307/351827)
+
 ## 1979
 
 - Measuring Intrafamily Conflict and Violence: The Conflict Tactics (CT) Scales · [DOI](https://doi.org/10.2307/351733)
+- Measuring Marital Satisfaction in Three Generations: Positive and Negative Dimensions · [DOI](https://doi.org/10.2307/351705)
+- Implementation of a National Family Policy: The Role of the Social Scientist · [DOI](https://doi.org/10.2307/351618)
 
 ## 1977
 
@@ -2668,10 +2686,15 @@
 
 - Purdah in Pakistan: Seclusion and Modern Occupations for Women · [DOI](https://doi.org/10.2307/349849)
 
+## 1970
+
+- Satisfaction with Various Aspects of Marriage over the Life Cycle: A Random Middle Class Sample · [DOI](https://doi.org/10.2307/349968)
+
 ## 1969
 
 - Occupational Characteristics and Males' Role Performance in the Family · [DOI](https://doi.org/10.2307/349312)
 - Familial Behavior as Social Exchange · [DOI](https://doi.org/10.2307/349775)
+- Differential Childlessness by Color: The Destruction of a Cultural Belief · [DOI](https://doi.org/10.2307/349313)
 
 ## 1968
 

@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2000–2009 年文章（含摘要）
 
-共 **340** 篇
+共 **344** 篇
 
 ---
 
@@ -148,6 +148,11 @@
 ### FAO's Director‐General on How to Feed the World in 2050
 **年份**: 2009 | **DOI**: [10.1111/j.1728-4457.2009.00312.x](https://doi.org/10.1111/j.1728-4457.2009.00312.x)
 **摘要**: （暂无）
+
+### The End of “Lowest‐Low” Fertility?
+**年份**: 2009 | **DOI**: [10.1111/j.1728-4457.2009.00304.x](https://doi.org/10.1111/j.1728-4457.2009.00304.x)
+**作者**: Goldstein, Joshua R.; Sobotka, Tomáš; Jasilioniene, Aiva
+**摘要**: Total fertility rates fell to previously unseen levels in a large number of countries beginning in the early 1990s. The persistence of TFRs below 1.3 raised the possibility of rapid population aging and decline.…
 
 ### Stages of the demographic transition from a child's perspective: Family size, cohort size, and children's resources
 **年份**: 2008 | **DOI**: [10.1111/j.1728-4457.2008.00218.x](https://doi.org/10.1111/j.1728-4457.2008.00218.x)
@@ -459,6 +464,11 @@
 **作者**: Bhrolcháin, Máire Ní; Dyson, Tim
 **摘要**: （暂无）
 
+### Longevity Among Hunter‐ Gatherers: A Cross‐Cultural Examination
+**年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00171.x](https://doi.org/10.1111/j.1728-4457.2007.00171.x)
+**作者**: Gurven, Michael; Kaplan, Hillard
+**摘要**: Post‐reproductive longevity is a robust feature of human life and not only a recent phenomenon caused by improvements in sanitation, public health, and medical advances. We argue for an adaptive life span of 68‐78 years for modernHomo sapiensbased on our analysis of mortality profiles obtained from …
+
 ### Policy lessons of the East Asian demographic transition
 **年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00103.x](https://doi.org/10.1111/j.1728-4457.2006.00103.x)
 **作者**: McNicoll, G
@@ -622,6 +632,11 @@
 ### Cultural versus biological factors in explaining Asia's missing women: Response to Oster
 **年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00121.x](https://doi.org/10.1111/j.1728-4457.2006.00121.x)
 **作者**: Das Gupta, M
+**摘要**: （暂无）
+
+### Immigration and Ethnic Change in Low‐Fertility Countries: A Third Demographic Transition
+**年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00131.x](https://doi.org/10.1111/j.1728-4457.2006.00131.x)
+**作者**: Coleman, David
 **摘要**: （暂无）
 
 ### Brave new worlds: Philosophy, politics, and science in human biotechnology
@@ -1491,6 +1506,11 @@
 **年份**: 2001 | **DOI**: [10.1111/j.1728-4457.2001.00209.x](https://doi.org/10.1111/j.1728-4457.2001.00209.x)
 **作者**: [Anonymous]
 **摘要**: On 22 January 2001, the third day of the new US administration (the day that also marked the twenty-eighth? anniversary of Roe v. Wade, the US Supreme Court decision that liberalized abortion), President Bush issued an executive order, taking the form of a memorandum addressed to the Administrator o…
+
+### Life Span Extension in Humans Is Self‐Reinforcing: A General Theory of Longevity
+**年份**: 2001 | **DOI**: [10.1111/j.1728-4457.2001.00411.x](https://doi.org/10.1111/j.1728-4457.2001.00411.x)
+**作者**: Carey, James R.; Judge, Debra S.
+**摘要**: This article proposes that longevity is not merely the result of an absence of mortality but a self‐reinforcing and positively selected life‐history trait in social species. It argues that a small increase in longevity is amplified as (1) reductions in mortality at young ages increase natural select…
 
 ### Local and foreign models of reproduction in Nyanza Province, Kenya
 **年份**: 2000 | **DOI**: [10.1111/j.1728-4457.2000.00725.x](https://doi.org/10.1111/j.1728-4457.2000.00725.x)

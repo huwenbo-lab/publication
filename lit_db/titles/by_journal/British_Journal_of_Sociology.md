@@ -1,6 +1,6 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1794** 篇 | 年份范围：1950–2026
+共 **1815** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -14,6 +14,9 @@
 - Description, Articulation and Limitations in the Social Theory of Insurance · [DOI](https://doi.org/10.1111/1468-4446.70110)
 - The Politics of Unpaid Labour: How the Study of Unpaid Labour Can Help Address Inequality in Precarious Work. By V.Pulignano and M.Domecka, Oxford University Press, 2025. 299 pp · [DOI](https://doi.org/10.1111/1468-4446.70111)
 - Ficto‐Primitive Capital: What Wellness Seekers Gain From Practicing Shamanism and Other Healing Traditions · [DOI](https://doi.org/10.1111/1468-4446.70119)
+- Privileged Precarity: How the Mobile Middle Class Leverage Housing Insecurity as Labour Market Strategy · [DOI](https://doi.org/10.1111/1468-4446.70118)
+- The New Petty Bourgeoisie Versus the Lumpen PMC? A Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie by D. Evans, London: Repeater Books, 2023, 300 pp. £12.99 (paperback). ISBN-10: 1913462692, ISBN-13: 978-1913462697 · [DOI](https://doi.org/10.1111/1468-4446.70114)
+- Author Response to British Journal of Sociology Symposium for a Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie · [DOI](https://doi.org/10.1111/1468-4446.70112)
 
 ## 2025
 
@@ -448,6 +451,7 @@
 - Against a descriptive turn · [DOI](https://doi.org/10.1111/1468-4446.12715)
 - Remainers are nostalgic too: An exploration of attitudes towards the past and Brexit preferences · [DOI](https://doi.org/10.1111/1468-4446.12710)
 - Sibling violence: Understanding experiences, impacts, and the need for nuanced responses · [DOI](https://doi.org/10.1111/1468-4446.12712)
+- Preface to a special issue on the sociology of testing · [DOI](https://doi.org/10.1111/1468-4446.12757)
 
 ## 2019
 
@@ -537,6 +541,7 @@
 - Science or liberal arts? Cultural capital and college major choice in China · [DOI](https://doi.org/10.1111/1468-4446.12342)
 - Omnivorousness and openness: comments to Tak Wing Chan · [DOI](https://doi.org/10.1111/1468-4446.12653)
 - What makes for a successful sociology? A response to “Against a descriptive turn” · [DOI](https://doi.org/10.1111/1468-4446.12713)
+- On culture and inequality: distinction, omnivorousness, status and class · [DOI](https://doi.org/10.1111/1468-4446.12678)
 
 ## 2018
 
@@ -1834,6 +1839,8 @@
 - Rational Action Theory for Sociology · [DOI](https://doi.org/10.2307/591308)
 - The Religiosity of Women in the Modern West · [DOI](https://doi.org/10.2307/591293)
 - Habermas and Foucault: Thinkers for Civil Society? · [DOI](https://doi.org/10.2307/591310)
+- A Special Case of Voluntary Associations? Towards a Theory of Congregational Organization · [DOI](https://doi.org/10.2307/591291)
+- Durkheim, Morality and Modernity: Collective Effervescence, Homo Duplex and the Sources of Moral Action · [DOI](https://doi.org/10.2307/591309)
 
 ## 1997
 
@@ -1841,21 +1848,25 @@
 - Seasonal Sub-Communities: The Impact of Student Households on Residential Communities · [DOI](https://doi.org/10.2307/591753)
 - Television and the Reflexive Project of the Self: Soaps, Teenage Talk and Hybrid Identities · [DOI](https://doi.org/10.2307/591599)
 - The Late-Modern City as a Bazaar: Drug Markets, Illegal Enterprise and the 'Barricades' · [DOI](https://doi.org/10.2307/591910)
+- Politics and the Struggle to Define: A Discourse Analysis of the Framing Strategies of Competing Actors in a 'New' Participatory Forum · [DOI](https://doi.org/10.2307/591142)
 
 ## 1996
 
 - Measuring Left-Right and Libertarian-Authoritarian Values in the British Electorate · [DOI](https://doi.org/10.2307/591118)
 - Theorizing the Interview · [DOI](https://doi.org/10.2307/591728)
+- Public Religions in the Modern World · [DOI](https://doi.org/10.2307/591125)
 
 ## 1995
 
 - The Persistent Glass Ceiling: Gendered Inequalities in the Earnings of Lawyers · [DOI](https://doi.org/10.2307/591789)
 - Legitimacy and Order in Prisons · [DOI](https://doi.org/10.2307/591622)
 - Amateurs, Professionals and the Knowledge of Archaeology · [DOI](https://doi.org/10.2307/591853)
+- Five Feminist Myths about Women's Employment · [DOI](https://doi.org/10.2307/591850)
 
 ## 1994
 
 - Mannheim's Sociology of Generations: An Undervalued Legacy · [DOI](https://doi.org/10.2307/591659)
+- In Praise of Macro-Sociology: A Reply to Goldthorpe · [DOI](https://doi.org/10.2307/591524)
 
 ## 1992
 
@@ -1865,10 +1876,12 @@
 
 - The Race Relations Problematic · [DOI](https://doi.org/10.2307/590837)
 - Disability and Social Stratification · [DOI](https://doi.org/10.2307/591447)
+- Spotting the Invisible Man: The Influence of Male Gender on Fieldwork Relations · [DOI](https://doi.org/10.2307/590367)
 
 ## 1990
 
 - Patriarchy, Patrimonialism, and Filial Piety: A Comparison of China and Western Europe · [DOI](https://doi.org/10.2307/591019)
+- Joining a Political Party: A Reassessment of the Economic Approach to Membership · [DOI](https://doi.org/10.2307/590664)
 
 ## 1989
 
@@ -1883,6 +1896,10 @@
 - Recent Marxist Theories of Nationalism and the Issue of Racism · [DOI](https://doi.org/10.2307/590577)
 - The Idea of Crisis in Modern Society · [DOI](https://doi.org/10.2307/590914)
 - Weber and the Classification of Forms of Legitimacy · [DOI](https://doi.org/10.2307/590532)
+
+## 1986
+
+- Appraising Goffman · [DOI](https://doi.org/10.2307/590645)
 
 ## 1984
 
@@ -1907,6 +1924,7 @@
 
 - The Housing Decisions of Young People · [DOI](https://doi.org/10.2307/589449)
 - Sociological Paradigms and Organizational Analysis: Elements of the Sociology of Corporate Life · [DOI](https://doi.org/10.2307/589304)
+- The Nobel Scientists and the Origins of Scientific Achievement · [DOI](https://doi.org/10.2307/589284)
 
 ## 1980
 
@@ -1923,6 +1941,7 @@
 - A World-System Perspective on the Social Sciences · [DOI](https://doi.org/10.2307/589620)
 - Anti-War Demonstrations and American Public Opinion on the War in Vietnam · [DOI](https://doi.org/10.2307/590029)
 - Woman Culture and Society · [DOI](https://doi.org/10.2307/590199)
+- Consciousness and Contradiction: A Study of Student Protest in Zambia · [DOI](https://doi.org/10.2307/589562)
 
 ## 1975
 
@@ -1931,6 +1950,14 @@
 ## 1974
 
 - The Methodological Implications of Symbolic Interactionism for the Study of Deviance · [DOI](https://doi.org/10.2307/589394)
+
+## 1970
+
+- Weber on Legitimate Norms and Authority · [DOI](https://doi.org/10.2307/588403)
+
+## 1969
+
+- The Theme of Contemporary Social Movements · [DOI](https://doi.org/10.2307/588924)
 
 ## 1968
 
@@ -1943,6 +1970,8 @@
 ## 1965
 
 - Integration versus Segregation in the New Zealand Churches · [DOI](https://doi.org/10.2307/588355)
+- White-Collar Unionization: A Conceptual Framework · [DOI](https://doi.org/10.2307/588353)
+- Political Implications of the Modern Greek Concept of Self · [DOI](https://doi.org/10.2307/588565)
 
 ## 1964
 
@@ -1956,6 +1985,10 @@
 ## 1958
 
 - Social Change · [DOI](https://doi.org/10.2307/587016)
+
+## 1956
+
+- Sociology and the Study of Values · [DOI](https://doi.org/10.2307/588127)
 
 ## 1952
 

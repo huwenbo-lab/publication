@@ -1,6 +1,6 @@
 # Gender & Society — 文章标题索引
 
-共 **2220** 篇 | 年份范围：1987–2026
+共 **2231** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -33,6 +33,7 @@
 - Book Review: Crafting Marriages: Palestinian American Women Transforming Gender Boundaries By Enaya Hammad Othman Crafting Marriages: Palestinian American Women Transforming Gender Boundaries. By OthmanEnaya Hammad. Syracuse, NY: Syracuse University Press, 2025, 280 pp., $54.95 (hardcover; eBook). · [DOI](https://doi.org/10.1177/08912432261420719)
 - Book Review: Birth Behind Bars: The Carceral Control of Pregnant Women in Prison By Rebecca M. Rodriguez Carey Birth Behind Bars: The Carceral Control of Pregnant Women in Prison. By Rodriguez CareyRebecca M.New York: New York University Press, 2025, 264 pp., $30 (paper; e-book), $89.00 (cloth). · [DOI](https://doi.org/10.1177/08912432251409336)
 - The Myth of the Academic Social Contract · [DOI](https://doi.org/10.1177/08912432261431258)
+- Book Review: Feminist Climate Policy in Industrialised States: A Gender-Just Climate Emergency Response , Edited By Susan Buckingham, Martin Hultman, Gunnhilder Lily Magnusdottir, and Karen Morrow Feminist Climate Policy in Industrialised States: A Gender-Just Climate Emergency Response. Edited By BuckinghamSusanHultmanMartinMagnusdottirGunnhilder LilyMorrowKaren. London; New York, NY: Routledge, 2026, 307 pp., $57.99 (paper); $200.00 (hardcover). · [DOI](https://doi.org/10.1177/08912432261440895)
 
 ## 2025
 
@@ -2275,6 +2276,7 @@
 - The Limits of “The Male Sex Role” · [DOI](https://doi.org/10.1177/0891243298012003002)
 - REPLACING HOUSEWORK IN THE SERVICE ECONOMY · [DOI](https://doi.org/10.1177/089124398012002006)
 - Reply · [DOI](https://doi.org/10.1177/089124398012004009)
+- FEMINIST TACTICS AND FRIENDLY FIRE IN THE IRISH WOMEN'S MOVEMENT · [DOI](https://doi.org/10.1177/089124398012006005)
 
 ## 1997
 
@@ -2297,6 +2299,7 @@
 - DEPENDENCE AND INDEPENDENCE · [DOI](https://doi.org/10.1177/089124395009002004)
 - FRIENDSHIPS IN AUSTRALIA AND THE UNITED STATES · [DOI](https://doi.org/10.1177/089124395009001005)
 - SYMPOSIUM · [DOI](https://doi.org/10.1177/089124395009004010)
+- SYMPOSIUM · [DOI](https://doi.org/10.1177/089124395009004009)
 
 ## 1994
 
@@ -2312,6 +2315,7 @@
 - THE IMPORTANCE OF RESEARCHER'S GENDER IN THE IN-DEPTH INTERVIEW: · [DOI](https://doi.org/10.1177/089124393007002008)
 - GENDER AND SEXUALITY: · [DOI](https://doi.org/10.1177/089124393007002006)
 - GENDER, INTIMACY, AND LETHAL VIOLENCE: · [DOI](https://doi.org/10.1177/089124393007001005)
+- PATRIARCHAL BARGAINS AND LATENT AVENUES OF SOCIAL MOBILITY: · [DOI](https://doi.org/10.1177/089124393007003005)
 
 ## 1992
 
@@ -2321,6 +2325,8 @@
 
 - SERVING HAMBURGERS AND SELLING INSURANCE: · [DOI](https://doi.org/10.1177/089124391005002002)
 - GENDER, SOCIAL REPRODUCTION, AND WOMEN'S SELF-ORGANIZATION: · [DOI](https://doi.org/10.1177/089124391005003004)
+- CONTRADICTIONS OF FEMINIST METHODOLOGY · [DOI](https://doi.org/10.1177/089124391005004002)
+- The Tea Ceremony: · [DOI](https://doi.org/10.1177/089124391005001004)
 
 ## 1990
 
@@ -2333,10 +2339,13 @@
 - FRATERNITIES AND RAPE ON CAMPUS · [DOI](https://doi.org/10.1177/089124389003004004)
 - YOUNG SINGLES' SCRIPTS FOR A FIRST DATE · [DOI](https://doi.org/10.1177/089124389003002006)
 - HOUSEHOLD LABOR TIME AND THE GENDER GAP IN EARNINGS · [DOI](https://doi.org/10.1177/089124389003001007)
+- WOMEN AS FATHERS: · [DOI](https://doi.org/10.1177/089124389003001006)
 
 ## 1988
 
 - CITATIONS AND NETWORKING · [DOI](https://doi.org/10.1177/089124388002001006)
+- RACE AND CLASS BIAS IN QUALITATIVE RESEARCH ON WOMEN · [DOI](https://doi.org/10.1177/089124388002004003)
+- JESSIE BERNARD—A “REASONABLE REBEL” SPEAKS TO THE WORLD · [DOI](https://doi.org/10.1177/089124388002003003)
 
 ## 1987
 
@@ -2344,3 +2353,5 @@
 - LABOR MARKET GENDER INEQUALITY IN MINORITY GROUPS · [DOI](https://doi.org/10.1177/089124387001004004)
 - INTIMATE RELATIONSHIPS FROM A MICROSTRUCTURAL PERSPECTIVE: · [DOI](https://doi.org/10.1177/089124387001001002)
 - IN THE FACE OF THREAT: · [DOI](https://doi.org/10.1177/089124387001001003)
+- THE DEVELOPMENT OF FEMINIST CONSCIOUSNESS AMONG ASIAN AMERICAN WOMEN · [DOI](https://doi.org/10.1177/089124387001003004)
+- RE-VISIONING WOMEN AND SOCIAL CHANGE: · [DOI](https://doi.org/10.1177/089124387001001005)

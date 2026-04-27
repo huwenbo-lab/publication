@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **470** 篇
+共 **476** 篇
 
 ---
 
@@ -102,6 +102,36 @@
 
 ### Correction
 **年份**: 2026 | **DOI**: [10.1080/01425692.2026.2648414](https://doi.org/10.1080/01425692.2026.2648414)
+**摘要**: （暂无）
+
+### The Creative Art of Troublemaking in education,
+**年份**: 2026 | **DOI**: [10.1080/01425692.2025.2602256](https://doi.org/10.1080/01425692.2025.2602256)
+**作者**: Veitch, Rose
+**摘要**: （暂无）
+
+### A different kind of familiar: the insider-outsider paradox and negotiating teacher sense of belonging
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2657329](https://doi.org/10.1080/01425692.2026.2657329)
+**作者**: Sedawi, Orwa; Oplatka, Izhar
+**摘要**: （暂无）
+
+### Diversity of religion and belief in education: inequality, citizenship and belonging
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2648452](https://doi.org/10.1080/01425692.2026.2648452)
+**作者**: Hemming, Peter J.; Ma, Lin; Malone, Joanna 等5人
+**摘要**: （暂无）
+
+### Parents’ perspectives on special education in England: institutional disability discrimination and non-compliance with the law
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2638269](https://doi.org/10.1080/01425692.2026.2638269)
+**作者**: Holt, Louise; Trudgill, Marian; Azpitarte, Francisco
+**摘要**: （暂无）
+
+### Religion, agency, and choice in English state schools
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2616654](https://doi.org/10.1080/01425692.2026.2616654)
+**作者**: Hobson, Charlotte
+**摘要**: （暂无）
+
+### Academic statelessness: at-risk academics in the UK navigating the transition to post-fellowship positions
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2642107](https://doi.org/10.1080/01425692.2026.2642107)
+**作者**: Assaf, Dareen; Bridge, Jonathan W.; Adams, Gill 等4人
 **摘要**: （暂无）
 
 ### Numerical diversity only? The case of academic preparatory programs for the Negev Bedouin in Israel

@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2000–2009 年文章（含摘要）
 
-共 **368** 篇
+共 **371** 篇
 
 ---
 
@@ -1265,6 +1265,11 @@
 **作者**: Mouw, Ted
 **摘要**: Does social capital affect labor market outcomes? The prevalent use of job contacts to find work suggests that “who you know” is an important means of getting a good job. Network theories of social capital argue that well-connected workers benefit because of the job information and influence they re…
 
+### Emergent Public Spheres: Talking Politics in Participatory Governance
+**年份**: 2003 | **DOI**: [10.1177/000312240306800103](https://doi.org/10.1177/000312240306800103)
+**作者**: Baiocchi, Gianpaolo
+**摘要**: This article addresses the question of whether and how participation in government promotes the conditions for participants to engage in the open-ended and public-minded discussion heralded by democratic theorists.…
+
 ### Democratic contraction? Political consequences of felon disenfranchisement in the United States
 **年份**: 2002 | **DOI**: [10.2307/3088970](https://doi.org/10.2307/3088970)
 **作者**: Uggen, C; Manza, J
@@ -1444,6 +1449,11 @@
 **年份**: 2002 | **DOI**: [10.1177/000312240206700403](https://doi.org/10.1177/000312240206700403)
 **作者**: Western, Bruce
 **摘要**: A life course perspective on crime indicates that incarceration can disrupt key life transitions. Life course analysis of occupations finds that earnings mobility depends on stable employment in career jobs.…
+
+### Why More Americans Have No Religious Preference: Politics and Generations
+**年份**: 2002 | **DOI**: [10.1177/000312240206700201](https://doi.org/10.1177/000312240206700201)
+**作者**: Hout, Michael; Fischer, Claude S.
+**摘要**: The proportion of Americans who reported no religious preference doubled from 7 percent to 14 percent in the 1990s. This dramatic change may have resulted from demographic shifts, increasing religious skepticism, or the mix of politics and religion that characterized the 1990s.…
 
 ### Youth violence and the end of adolescence
 **年份**: 2001 | **DOI**: [10.2307/3088877](https://doi.org/10.2307/3088877)
@@ -1844,3 +1854,8 @@
 **年份**: 2000 | **DOI**: [10.1177/000312240006500102](https://doi.org/10.1177/000312240006500102)
 **作者**: Portes, Alejandro
 **摘要**: Purposive social action has provided the bedrock for theoretical developments and model building in several social sciences. Since its beginnings, however, sociology has harbored, a “contrarian” vocation based on examining the unrecognized, unintended, and emergent consequences of goal-oriented acti…
+
+### A New Solution to the Collective Action Problem: The Paradox of Voter Turnout
+**年份**: 2000 | **DOI**: [10.1177/000312240006500306](https://doi.org/10.1177/000312240006500306)
+**作者**: Kanazawa, Satoshi
+**摘要**: Macy's work offers a potential solution to the paradox of voter turnout. The stochastic learning theory of voter turnout (Kanazawa 1998) posits that citizens perceive a correlation between their behavior (voting versus abstention) and the outcome of collective action (win versus loss for their candi…

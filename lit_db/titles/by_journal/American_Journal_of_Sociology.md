@@ -1,6 +1,6 @@
 # American Journal of Sociology — 文章标题索引
 
-共 **932** 篇 | 年份范围：1896–2026
+共 **971** 篇 | 年份范围：1896–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -10,6 +10,8 @@
 - Exams, Meritocracy, and Disenchantment with the Chinese Dream · [DOI](https://doi.org/10.1086/738608)
 - : Uncertainty: Individual Problems and Public Solutions · [DOI](https://doi.org/10.1086/739284)
 - Front Matter · [DOI](https://doi.org/10.1086/741246)
+- Skill Diversification Beyond High-Paying Jobs · [DOI](https://doi.org/10.1086/741725)
+- Atlantic Reconstruction: Democracy, Abolition, and the Making of Political Personhood · [DOI](https://doi.org/10.1086/741674)
 
 ## 2025
 
@@ -400,6 +402,7 @@
 - Game Changer: The Topology of Creativity · [DOI](https://doi.org/10.1086/681213)
 - Family Structure Instability, Genetic Sensitivity, and Child Well-Being · [DOI](https://doi.org/10.1086/680681)
 - Race, Self-Selection, and the Job Search Process · [DOI](https://doi.org/10.1086/681072)
+- On the Run: Fugitive Life in an American City. By Alice Goffman. Chicago: University of Chicago Press, 2014. Pp. xiv+277. $25.00. · [DOI](https://doi.org/10.1086/681075)
 
 ## 2014
 
@@ -903,6 +906,8 @@
 - Is Social Capital Declining in the United States? A Multiple Indicator Assessment · [DOI](https://doi.org/10.1086/210268)
 - Book ReviewsMaking Race and Nation: A Comparison of South Africa, the United States, and Brazil.By Anthony W. Marx. New York: Cambridge University Press, 1998. Pp. xviii+390. $29.95. · [DOI](https://doi.org/10.1086/210340)
 - Systematic Social Observation of Public Spaces: A New Look at Disorder in Urban Neighborhoods · [DOI](https://doi.org/10.1086/210356)
+- Escape from the GDR, 1961–1989: Hybrid Exit Repertoires in a Disintegrating Leninist Regime · [DOI](https://doi.org/10.1086/210358)
+- Bending with the Wind: Strategic Change and Adaptation by Women's and Racial Minority Organizations · [DOI](https://doi.org/10.1086/210220)
 
 ## 1998
 
@@ -912,21 +917,28 @@
 ## 1997
 
 - Structuring a Theory of Moral Sentiments: Institutional and Organizational Coevolution in the Early Thrift Industry · [DOI](https://doi.org/10.1086/231128)
+- Celebration and Suppression: The Strategic Uses of Identity by the Lesbian and Gay Movement · [DOI](https://doi.org/10.1086/231250)
 
 ## 1996
 
 - Toward a Political Model of Incarceration: A Time-Series Examination of Multiple Explanations for Prison Admission Rates · [DOI](https://doi.org/10.1086/230949)
 - The Market Transition Debate: Toward a Synthesis? · [DOI](https://doi.org/10.1086/230791)
 - Fathers and Divorce.Terry Arendell · [DOI](https://doi.org/10.1086/230808)
+- Opportunity and Choice in Socially Structured Labor Markets · [DOI](https://doi.org/10.1086/230910)
+- Confirming Allusions: Toward an Empirical Account of Action · [DOI](https://doi.org/10.1086/230911)
 
 ## 1995
 
 - The Subcultural Theory of Urbanism: A Twentieth-Year Assessment · [DOI](https://doi.org/10.1086/230753)
+- The Organizational Context of Criminal Sentencing · [DOI](https://doi.org/10.1086/230635)
+- On the Edge or In Between: Niche Position, Niche Overlap, and the Duration of Voluntary Association Memberships · [DOI](https://doi.org/10.1086/230757)
 
 ## 1994
 
 - The Emergence of Exchange Structures: An Experimental Study of Uncertainty, Commitment, and Trust · [DOI](https://doi.org/10.1086/230539)
 - The Legalization of the Workplace · [DOI](https://doi.org/10.1086/230368)
+- Sons, Daughters, and Intergenerational Support in Taiwan · [DOI](https://doi.org/10.1086/230370)
+- Knowledge, Domination, and Criminal Punishment · [DOI](https://doi.org/10.1086/230367)
 
 ## 1993
 
@@ -939,6 +951,7 @@
 
 - I Will Follow Him: Family Ties, Gender-Role Beliefs, and Reluctance to Relocate for a Better Job · [DOI](https://doi.org/10.1086/229901)
 - Legal Ambiguity and Symbolic Structures: Organizational Mediation of Civil Rights Law · [DOI](https://doi.org/10.1086/229939)
+- Critical Theory and the Pragmatist Challenge · [DOI](https://doi.org/10.1086/230008)
 
 ## 1991
 
@@ -970,16 +983,19 @@
 - Network Connections and the Distribution of Power in Exchange Networks · [DOI](https://doi.org/10.1086/228826)
 - Intergenerational Consequences of Family Disruption · [DOI](https://doi.org/10.1086/228954)
 - Matching: Finding a Partner for Life or Otherwise · [DOI](https://doi.org/10.1086/228947)
+- She Works Hard for the Money: Household Responsibilities and the Allocation of Work Effort · [DOI](https://doi.org/10.1086/228863)
 
 ## 1987
 
 - How to Become a Dominant French Philosopher: The Case of Jacques Derrida · [DOI](https://doi.org/10.1086/228790)
 - Toward an Integrated Theory of White-Collar Crime · [DOI](https://doi.org/10.1086/228750)
 - Face and Favor: The Chinese Power Game · [DOI](https://doi.org/10.1086/228588)
+- Class in the Household: A Power-Control Theory of Gender and Delinquency · [DOI](https://doi.org/10.1086/228583)
 
 ## 1986
 
 - Copyrighted SubculturesShared Fantasy: Role Playing Games as Social Worlds.Gary Alan Fine · [DOI](https://doi.org/10.1086/228392)
+- War and Peace: The Evolution of Modern Personnel Administration in U.S. Industry · [DOI](https://doi.org/10.1086/228504)
 
 ## 1985
 
@@ -989,10 +1005,12 @@
 
 - Status, Autonomy, and Training in Occupational Mobility · [DOI](https://doi.org/10.1086/228020)
 - The Cumulative Texture of Local Urban Culture · [DOI](https://doi.org/10.1086/228080)
+- Sources of the Family Income Differentials among Hispanics, Blacks, and White Non-Hispanics · [DOI](https://doi.org/10.1086/227948)
 
 ## 1983
 
 - Comment on Kemper's "Social Constructionist and Positivist Approaches to the Sociology of Emotions" · [DOI](https://doi.org/10.1086/227874)
+- A Note on Emotionality, Self, and Interaction · [DOI](https://doi.org/10.1086/227871)
 
 ## 1982
 
@@ -1002,6 +1020,8 @@
 ## 1981
 
 - The Economics of Organization: The Transaction Cost Approach · [DOI](https://doi.org/10.1086/227496)
+- Analyzing Recent Trends in Prejudice Toward Blacks: Insights from Latent Class Models · [DOI](https://doi.org/10.1086/227421)
+- Status and Status Strain in the Professions · [DOI](https://doi.org/10.1086/227318)
 
 ## 1980
 
@@ -1013,6 +1033,9 @@
 - L'Acteur et le système: Les contraintes de l'action collective.Michel Crozier , Erhard Friedberg · [DOI](https://doi.org/10.1086/226914)
 - Structural Position in the World System and Economic Growth, 1955-1970: A Multiple-Network Analysis of Transnational Interactions · [DOI](https://doi.org/10.1086/226902)
 - Deterrence, Poverty, and Type of Homicide · [DOI](https://doi.org/10.1086/227052)
+- Some Economic Effects of Revolution: Models, Measurement, and the Cuban Evidence · [DOI](https://doi.org/10.1086/226903)
+- Indicators of Sex Typing: Traditional and Egalitarian, Situational and Ideological Responses · [DOI](https://doi.org/10.1086/227009)
+- Emotion Work, Feeling Rules, and Social Structure · [DOI](https://doi.org/10.1086/227049)
 
 ## 1978
 
@@ -1027,6 +1050,8 @@
 ## 1976
 
 - On the Concept of Face · [DOI](https://doi.org/10.1086/226145)
+- Development Towns in Israel: The Role of Community in Creating Ethnic Disparities in Labor Force Characteristics · [DOI](https://doi.org/10.1086/226142)
+- Simmel's Influence on American Sociology. II · [DOI](https://doi.org/10.1086/226187)
 
 ## 1975
 
@@ -1040,16 +1065,28 @@
 
 - Mayoral Influence in Urban Policy Making · [DOI](https://doi.org/10.1086/225587)
 - Maid of All Work or Departmental Sister-in-Law? The Faculty Wife Employed on Campus · [DOI](https://doi.org/10.1086/225401)
+- Reporting the News: An Organizational Analysis · [DOI](https://doi.org/10.1086/225511)
 
 ## 1972
 
 - Objectivity as Strategic Ritual: An Examination of Newsmen's Notions of Objectivity · [DOI](https://doi.org/10.1086/225193)
 - Insiders and Outsiders: A Chapter in the Sociology of Knowledge · [DOI](https://doi.org/10.1086/225294)
 - Psychiatry and Suicide: The Management of a Mistake · [DOI](https://doi.org/10.1086/225226)
+- Societal Complexity and Familial Complexity: Evidence for the Curvilinear Hypothesis · [DOI](https://doi.org/10.1086/225230)
+- The Positive Functions of Poverty · [DOI](https://doi.org/10.1086/225324)
+
+## 1971
+
+- Black Invisibility, the Press, and the Los Angeles Riot · [DOI](https://doi.org/10.1086/224978)
 
 ## 1970
 
 - High School Effects on College Intentions · [DOI](https://doi.org/10.1086/224906)
+
+## 1969
+
+- Queue Culture: The Waiting Line as a Social System · [DOI](https://doi.org/10.1086/224787)
+- Making Men Modern: On the Causes and Consequences of Individual Change in Six Developing Countries · [DOI](https://doi.org/10.1086/224767)
 
 ## 1968
 
@@ -1064,6 +1101,10 @@
 
 - Norms: The Problem of Definition and Classification · [DOI](https://doi.org/10.1086/223933)
 - On the Statistical Analysis of Mobility Tables · [DOI](https://doi.org/10.1086/223932)
+
+## 1964
+
+- Outsiders: Studies in the Sociology of Deviance.Howard S. Becker · [DOI](https://doi.org/10.1086/223626)
 
 ## 1963
 
@@ -1081,14 +1122,17 @@
 ## 1960
 
 - Structure and Process in Modern Societies.Talcott Parsons · [DOI](https://doi.org/10.1086/222828)
+- The Rural-Urban Continuum: Real but Relatively Unimportant · [DOI](https://doi.org/10.1086/222824)
 
 ## 1958
 
 - The Power Elite-Reconsidered · [DOI](https://doi.org/10.1086/222467)
+- The Urban-Rural Dichotomy: Concepts and Uses · [DOI](https://doi.org/10.1086/222422)
 
 ## 1957
 
 - The Optimum Size of Institutions a Theory of the Large Group · [DOI](https://doi.org/10.1086/222074)
+- The Natural History of Standard Metropolitan Areas · [DOI](https://doi.org/10.1086/222173)
 
 ## 1956
 
@@ -1127,6 +1171,7 @@
 
 - Urbanization and Fertility · [DOI](https://doi.org/10.1086/219078)
 - Operational Definitions in the Social Sciences · [DOI](https://doi.org/10.1086/219004)
+- Group Behavior in the Village Community of Lebanon · [DOI](https://doi.org/10.1086/219124)
 
 ## 1941
 
@@ -1146,6 +1191,10 @@
 ## 1938
 
 - The Voodoo Cult Among Negro Migrants in Detroit · [DOI](https://doi.org/10.1086/217872)
+
+## 1932
+
+- The Law of Retail Gravitation.William J. Reilly · [DOI](https://doi.org/10.1086/215884)
 
 ## 1930
 
@@ -1174,6 +1223,7 @@
 ## 1921
 
 - The Neighborhood: A Study of Local Life in the City of Columbus, Ohio. I. · [DOI](https://doi.org/10.1086/213301)
+- The Neighborhood: A Study of Local Life in the City of Columbus, Ohio. II. · [DOI](https://doi.org/10.1086/213346)
 
 ## 1914
 
@@ -1210,6 +1260,7 @@
 ## 1898
 
 - The Instinct of Workmanship and the Irksomeness of Labor · [DOI](https://doi.org/10.1086/210791)
+- The Persistence of Social Groups. III · [DOI](https://doi.org/10.1086/210769)
 
 ## 1896
 

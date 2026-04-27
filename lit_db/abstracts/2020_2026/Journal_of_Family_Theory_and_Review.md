@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **338** 篇
+共 **341** 篇
 
 ---
 
@@ -78,6 +78,21 @@
 **年份**: 2026 | **DOI**: [10.1111/jftr.70058](https://doi.org/10.1111/jftr.70058)
 **作者**: Wang, Qingqing; Deng, Lijuan
 **摘要**: ABSTRACT This article examines the rise of the hands‐on dad phenomenon on contemporary Chinese short‐video platforms. Adopting an interdisciplinary perspective that integrates gender studies, masculinity research, semiotics, and media studies, we analyze how hands‐on dads are constructed and how the…
+
+### Cooperative Rearing and Low Fertility Persistence: A Two‐Constraint Theoretical Framework
+**年份**: 2026 | **DOI**: [10.1111/jftr.70062](https://doi.org/10.1111/jftr.70062)
+**作者**: Zhang, Zhen; Li, Qiang
+**摘要**: ABSTRACT Despite expanded family policy spending across high‐income countries, fertility remains low. Quasi‐experimental evidence shows that cash and tax transfers tend to shift fertility mainly among lower socioeconomic status (SES) groups, with smaller or null effects among socioeconomically advan…
+
+### Discovering Legacies: Fathers, Sons, Masculinities, and Equity Within Families
+**年份**: 2026 | **DOI**: [10.1111/jftr.70052](https://doi.org/10.1111/jftr.70052)
+**作者**: Roy, Kevin
+**摘要**: ABSTRACT In this article, I examine how personal experiences within my family and my homeplace communities have shaped 20 years of basic and applied research, as well as theorizing, on fathering and masculinities.…
+
+### Constructing Meaning in Digital Lives: A Theory‐Driven and Practical Approach to Using Online Forums in Family Science
+**年份**: 2026 | **DOI**: [10.1111/jftr.70057](https://doi.org/10.1111/jftr.70057)
+**作者**: Monk, J. Kale; Jamison, Tyler B.; Basinger, Erin D. 等6人
+**摘要**: ABSTRACT Online forums offer family scholars a unique opportunity to learn how people make sense of complex issues related to family, identity, and relationships. These digital spaces often mirror or even amplify offline dynamics, as users interact to disclose sensitive information, construct narrat…
 
 ### Issue Information
 **年份**: 2025 | **DOI**: [10.1111/jftr.12564](https://doi.org/10.1111/jftr.12564)

@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1558** 篇 | 年份范围：1986–2026
+共 **1564** 篇 | 年份范围：1986–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -10,6 +10,9 @@
 - Changing regional university availability and inequality of educational opportunity in Japan · [DOI](https://doi.org/10.1093/esr/jcag011)
 - Stratified scars: social inequality in the labour market consequences of apprenticeship dropout · [DOI](https://doi.org/10.1093/esr/jcag010)
 - Does statistical discrimination explain grading bias? Evidence from a natural experiment · [DOI](https://doi.org/10.1093/esr/jcag005)
+- Parenthood, occupational sex segregation, and wage: motherhood penalty and fatherhood premium in China · [DOI](https://doi.org/10.1093/esr/jcag012)
+- Beyond absolute education: relative educational attainment and perceived discrimination among immigrants · [DOI](https://doi.org/10.1093/esr/jcaf054)
+- Correction to: Beyond absolute education: relative educational attainment and perceived discrimination among immigrants · [DOI](https://doi.org/10.1093/esr/jcag007)
 
 ## 2025
 
@@ -243,6 +246,7 @@
 - Rebel without a Cause: The Effects of Social Origins and Disposable Income on Rule Violations · [DOI](https://doi.org/10.1093/esr/jcac016)
 - Who Stays Involved? A Longitudinal Study on Adolescents' Participation in Voluntary Associations in Germany · [DOI](https://doi.org/10.1093/esr/jcac013)
 - Control variable selection in applied quantitative sociology: a critical review · [DOI](https://doi.org/10.1093/esr/jcac078)
+- Women’s aversion to majors that (seemingly) require systemizing skills causes gendered field of study choice · [DOI](https://doi.org/10.1093/esr/jcad021)
 
 ## 2022
 
@@ -1637,6 +1641,7 @@
 ## 1999
 
 - When Institutions Matter:Union Growth and Decline in Western Europe, 1950-1995 · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018257)
+- Military Service During Wartime Effects on Men's Occupational Trajectories and Later Economic Well-Being · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018261)
 
 ## 1996
 
@@ -1670,3 +1675,4 @@
 ## 1986
 
 - Increasing equality in household work: patterns of time-use change in Norway · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036417)
+- Social context and inter-ethnic relations: the case of migrant workers in West German urban areas · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036404)

@@ -1,13 +1,23 @@
 # Chinese Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **139** 篇
+共 **142** 篇
 
 ---
 
 ### Subjective consequences of social movement participation: the impact of Occupy Central on mental health in Hong Kong
 **年份**: 2026 | **DOI**: [10.1080/21620555.2026.2650269](https://doi.org/10.1080/21620555.2026.2650269)
 **作者**: Miao, Jia; Wu, Xiaogang
+**摘要**: （暂无）
+
+### Normalization, parent–child relationships and identity: becoming parents with tongxinglian (same-sex loving) sons/daughters in PFLAG China
+**年份**: 2026 | **DOI**: [10.1080/21620555.2026.2656195](https://doi.org/10.1080/21620555.2026.2656195)
+**作者**: Shi, Junpeng
+**摘要**: （暂无）
+
+### Large language models as a conduit for value shifts in contemporary China
+**年份**: 2026 | **DOI**: [10.1080/21620555.2026.2656193](https://doi.org/10.1080/21620555.2026.2656193)
+**作者**: Cao, Likun; Dai, Lianghao
 **摘要**: （暂无）
 
 ### Unlocking policy implementation logic: comparative analysis of Chinese Social Credit Systems in Rongcheng and Danyang with an enterprise focus
@@ -594,6 +604,11 @@
 **年份**: 2021 | **DOI**: [10.1080/21620555.2020.1820319](https://doi.org/10.1080/21620555.2020.1820319)
 **作者**: Qian, Yue; Hanser, Amy
 **摘要**: Wuhan, the original epicenter of the COVID-19 outbreak, was under strict lockdown for 76 days. We conducted 30 in-depth interviews to understand Wuhan residents' lived experiences of lockdown life.…
+
+### Migration and children in China: a review and future research agenda
+**年份**: 2021 | **DOI**: [10.1080/21620555.2021.1908823](https://doi.org/10.1080/21620555.2021.1908823)
+**作者**: Liang, Zai; Li, Wenli
+**摘要**: （暂无）
 
 ### Migrant Status, School Segregation, and Students' Academic Achievement in Urban China
 **年份**: 2020 | **DOI**: [10.1080/21620555.2019.1680280](https://doi.org/10.1080/21620555.2019.1680280)

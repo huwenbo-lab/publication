@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2020–2026 年文章（含摘要）
 
-共 **364** 篇
+共 **368** 篇
 
 ---
 
@@ -53,6 +53,21 @@
 ### Educational expansion, occupational upgrading, and the changing structure of education-occupation linkages in Sweden, 1960–2013
 **年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101135](https://doi.org/10.1016/j.rssm.2026.101135)
 **作者**: Xu, Xiaojie
+**摘要**: （暂无）
+
+### Estimating the intersecting labor market disparities for justice-impacted individuals with disabilities: Evidence from two United States national data sets
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101152](https://doi.org/10.1016/j.rssm.2026.101152)
+**作者**: Brooks, Jennifer; Saleh, Matthew; Gao, Star Yanxin
+**摘要**: （暂无）
+
+### The contingency of future vs. present orientation and status attainment
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101151](https://doi.org/10.1016/j.rssm.2026.101151)
+**作者**: Kwon, Hye Won; Erola, Jani
+**摘要**: （暂无）
+
+### Place of education, revisited: Effects on earnings by nativity, race, and gender
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101150](https://doi.org/10.1016/j.rssm.2026.101150)
+**作者**: Dunatchik, Allison; Schut, Rebecca Anna; Song, Xi
 **摘要**: （暂无）
 
 ### Inequalities in early childhood education and care by immigrant background
@@ -1823,4 +1838,9 @@
 ### What works to reduce inequalities in higher education? A systematic review of the (quasi-)experimental literature on outreach and financial aid
 **年份**: 2020 | **DOI**: [10.1016/j.rssm.2019.100442](https://doi.org/10.1016/j.rssm.2019.100442)
 **作者**: Herbaut, Estelle; Geven, Koen
+**摘要**: （暂无）
+
+### Introduction: Experimental methods in social stratification research
+**年份**: 2020 | **DOI**: [10.1016/j.rssm.2020.100478](https://doi.org/10.1016/j.rssm.2020.100478)
+**作者**: Barone, Carlo; Solga, Heike
 **摘要**: （暂无）

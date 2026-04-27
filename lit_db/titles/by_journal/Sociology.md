@@ -1,6 +1,6 @@
 # Sociology — 文章标题索引
 
-共 **2888** 篇 | 年份范围：1975–2026
+共 **2895** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2944,17 +2944,20 @@
 - BEING CONSTRUCTIVE: SOCIAL CONSTRUCTIONISM AND THE ENVIRONMENT · [DOI](https://doi.org/10.1017/s0038038599000188)
 - From Banana Time to Just-in-Time: Power and Resistance at Work · [DOI](https://doi.org/10.1177/s0038038599000486)
 - Consumer Culture and the Commodification of Policing and Security · [DOI](https://doi.org/10.1177/s003803859900022x)
+- Intimacy Transformed? A Critical Look at the `Pure Relationship' · [DOI](https://doi.org/10.1177/s0038038599000310)
 
 ## 1998
 
 - Professionalism as Enterprise: Service Class Politics and the Redefinition of Professionalism · [DOI](https://doi.org/10.1177/0038038598032001004)
 - Evaluating `Diaspora': Beyond Ethnicity? · [DOI](https://doi.org/10.1177/0038038598032003009)
 - Social Integration and System Integration: Reconsidering the Classical Distinction · [DOI](https://doi.org/10.1177/0038038598032003005)
+- The Data are Out there, or are They? Implications for Archiving and Revisiting Qualitative Data · [DOI](https://doi.org/10.1177/0038038598032004006)
 
 ## 1997
 
 - The Place of Inter-Rater Reliability in Qualitative Research: An Empirical Study · [DOI](https://doi.org/10.1177/0038038597031003015)
 - Subjectivity and the Labour Process: Conceptualising `Good Work' · [DOI](https://doi.org/10.1177/0038038597031003004)
+- Social Mobility, Individual Ability and the Inheritance of Class Inequality · [DOI](https://doi.org/10.1177/0038038597031004002)
 
 ## 1996
 
@@ -2978,11 +2981,13 @@
 - Does Class Analysis without Class Theory have a Promising Future?: A Reply to Goldthorpe and Marshall · [DOI](https://doi.org/10.1177/0038038593027002005)
 - `Black and Ethnic Minority' or `Asian, Black and Other Minority Ethnic': A Further Note on Nomenclature · [DOI](https://doi.org/10.1177/0038038593027004007)
 - De-Constructing Concepts of Care · [DOI](https://doi.org/10.1177/0038038593027004006)
+- Relative Merits: Family Culture and Kinship in Small Firms · [DOI](https://doi.org/10.1177/0038038593027004005)
 
 ## 1992
 
 - The Promising Future of Class Analysis: A Response to Recent Critiques · [DOI](https://doi.org/10.1177/0038038592026003002)
 - `Someone to Watch Over Me': Surveillance, Discipline and the Just-in-Time Labour Process · [DOI](https://doi.org/10.1177/0038038592026002009)
+- On Feminist Methodology: Male Reason Versus Female Empowerment · [DOI](https://doi.org/10.1177/0038038592026002003)
 
 ## 1991
 
@@ -3006,6 +3011,7 @@
 ## 1983
 
 - Women and Class Analysis: In Defence of the Conventional View · [DOI](https://doi.org/10.1177/0038038583017004001)
+- Social Life as Bootstrapped Induction · [DOI](https://doi.org/10.1177/0038038583017004004)
 
 ## 1982
 
@@ -3023,6 +3029,7 @@
 ## 1978
 
 - What's in a `Nyem'? · [DOI](https://doi.org/10.1177/003803857801200109)
+- Categorization, Authorization and Blame - Negotiation in Conversation · [DOI](https://doi.org/10.1177/003803857801200106)
 
 ## 1975
 

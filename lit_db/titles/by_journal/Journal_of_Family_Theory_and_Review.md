@@ -1,6 +1,6 @@
 # Journal of Family Theory & Review — 文章标题索引
 
-共 **837** 篇 | 年份范围：2009–2026
+共 **840** 篇 | 年份范围：2009–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -22,6 +22,9 @@
 - Disguising the Familiar: Considering Internal Confidentiality in Individual Interviews With Partners and Families · [DOI](https://doi.org/10.1111/jftr.70047)
 - Psychological Flexibility in Dementia Caregiving: The Adaptive Support Model · [DOI](https://doi.org/10.1111/jftr.70054)
 - Reconstructing Masculinity: The Role of Hands‐On Dads in Modern Chinese Families · [DOI](https://doi.org/10.1111/jftr.70058)
+- Cooperative Rearing and Low Fertility Persistence: A Two‐Constraint Theoretical Framework · [DOI](https://doi.org/10.1111/jftr.70062)
+- Discovering Legacies: Fathers, Sons, Masculinities, and Equity Within Families · [DOI](https://doi.org/10.1111/jftr.70052)
+- Constructing Meaning in Digital Lives: A Theory‐Driven and Practical Approach to Using Online Forums in Family Science · [DOI](https://doi.org/10.1111/jftr.70057)
 
 ## 2025
 

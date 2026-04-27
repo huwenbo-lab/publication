@@ -1,7 +1,7 @@
 # Chinese Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **142** 篇
+共 **143** 篇
 
 ---
 
@@ -484,6 +484,11 @@
 **年份**: 2022 | **DOI**: [10.1177/2057150x221114599](https://doi.org/10.1177/2057150x221114599)
 **作者**: Yu, Jia; Luo, Weixiang; Xie, Yu
 **摘要**: In the past four decades, sexuality research in China has made considerable advancements. From historical and sociological perspectives, our study reviews the literature and provides a comprehensive overview of sexuality in contemporary China by drawing on recent survey data that we collected.…
+
+### Knowledge production and epistemic politics: A scientometric review of Chinese sexuality studies in English-language academia
+**年份**: 2022 | **DOI**: [10.1177/2057150x221111523](https://doi.org/10.1177/2057150x221111523)
+**作者**: Luo, Muyuan; Chen, Gaoran; He, Qing 等4人
+**摘要**: In recent decades, sexuality studies has become an increasingly important field of social scientific research in and beyond China. This paper uses CiteSpace and VOSviewer to carry out a bibliometric analysis of 26,975 sexuality-related papers included in the Web of Science database in the past four …
 
 ### Women's perceived support of parents and parents-in-law in China: Socioeconomic resources, reciprocity, and family context
 **年份**: 2021 | **DOI**: [10.1177/2057150X211007225](https://doi.org/10.1177/2057150X211007225)

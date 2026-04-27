@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2010–2019 年文章（含摘要）
 
-共 **917** 篇
+共 **918** 篇
 
 ---
 
@@ -564,6 +564,11 @@
 **年份**: 2019 | **DOI**: [10.1177/0192513X19868270](https://doi.org/10.1177/0192513X19868270)
 **作者**: Eickmeyer, Kasey J.; Guzzo, Karen Benjamin; Manning, Wendy D. 等4人
 **摘要**: Income pooling is a common behavior among couples. However, cohabiting and married individuals in more complex families, namely those with stepchildren, are less likely to pool incomes.…
+
+### Resources, Time and Gender: Determinants of Women’s Housework in Bahir Dar and Nearby Rural Villages, Northwest Ethiopia
+**年份**: 2019 | **DOI**: [10.1177/0192513x19878862](https://doi.org/10.1177/0192513x19878862)
+**作者**: Desta, Chalachew Getahun
+**摘要**: Women’s disproportionate engagement in housework and its determinants has been relatively well studied for developed countries, but such research is absent for less developed countries.…
 
 ### Relationship Conflict, Work Conditions, and the Health of Mothers With Young Children
 **年份**: 2018 | **DOI**: [10.1177/0192513X18776415](https://doi.org/10.1177/0192513X18776415)

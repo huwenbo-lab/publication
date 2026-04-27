@@ -1,7 +1,7 @@
 # Work, Employment and Society
 ## 2020–2026 年文章（含摘要）
 
-共 **522** 篇
+共 **525** 篇
 
 ---
 
@@ -114,6 +114,21 @@
 **年份**: 2026 | **DOI**: [10.1177/09500170261424131](https://doi.org/10.1177/09500170261424131)
 **作者**: Kılıç, Sadık; Özel, Bülent
 **摘要**: This article offers a novel reinterpretation of John Kelly’s mobilization theory through the lens of the Great Strike of Zonguldak (1990–91), a landmark event involving over 100,000 workers and their families in a 120-km march for justice and dignity.…
+
+### The Intensification–Extensification Dynamic: Hybrid Work and Digital Connectivity
+**年份**: 2026 | **DOI**: [10.1177/09500170261424133](https://doi.org/10.1177/09500170261424133)
+**作者**: Marks, Abigail; Bösehans, Gustav; Mallett, Oliver
+**摘要**: This article examines how remote and hybrid work reshape the spatio-temporal organisation of labour through the dynamics of intensification and extensification. Drawing on three waves of survey data, each with over 1000 participants during and after the COVID-19 pandemic, alongside longitudinal inte…
+
+### The Role of Settlement Intentions (Un-)Certainty in the Labour Market Integration of Ukrainian Refugees in Germany
+**年份**: 2026 | **DOI**: [10.1177/09500170261425857](https://doi.org/10.1177/09500170261425857)
+**作者**: Adunts, Davit; Gatskova, Kseniia; Kosyakova, Yuliya 等4人
+**摘要**: This article examines how (un-)certainty in settlement intentions affects the socio-economic integration of Ukrainian refugees in Germany, using longitudinal data from the IAB-BiB/FReDA-BAMF-SOEP survey.…
+
+### Managing Mobility: Platform Work Models, Organizational Identification, and Food Delivery Couriers' Exit Intentions
+**年份**: 2026 | **DOI**: [10.1177/09500170261428386](https://doi.org/10.1177/09500170261428386)
+**作者**: Binyi, Yang; Quan, Meng
+**摘要**: Despite flexibility being central to the gig economy, platform businesses face challenges balancing operational needs with labor mobility. Through empirical analysis of China’s food delivery platforms, this study finds that professionally oriented couriers in the outsourced model, while viewing plat…
 
 ### Book Review: Alan Middleton, The Informal Sector in Ecuador: Artisans, Entrepreneurs and Precarious Family Firms MiddletonAlanThe Informal Sector in Ecuador: Artisans, Entrepreneurs and Precarious Family FirmsNew York: Routledge, 2023, £42.99 pbk, (ISBN: 9781032570723), 308 pp.
 **年份**: 2025 | **DOI**: [10.1177/09500170251350070](https://doi.org/10.1177/09500170251350070)

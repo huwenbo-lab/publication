@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **652** 篇
+共 **653** 篇
 
 ---
 
@@ -1389,6 +1389,11 @@
 **年份**: 2016 | **DOI**: [10.1080/01425692.2014.965806](https://doi.org/10.1080/01425692.2014.965806)
 **作者**: Courtney, Steven J.
 **摘要**: In this paper, I draw on a study of school leaders' experiences of inspection to argue that repeated changes to school inspection policy in England constitute a post-panoptic regime.…
+
+### Thomas Piketty’s relevance for the study of education: reflections on the political economy of education
+**年份**: 2016 | **DOI**: [10.1080/01425692.2016.1200821](https://doi.org/10.1080/01425692.2016.1200821)
+**作者**: Moeller, Kathryn; Tarlau, Rebecca
+**摘要**: （暂无）
 
 ### Classroom behaviour and academic achievement: how classroom behaviour categories relate to gender and academic performance
 **年份**: 2015 | **DOI**: [10.1080/01425692.2014.916601](https://doi.org/10.1080/01425692.2014.916601)

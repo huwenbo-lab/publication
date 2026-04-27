@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2020–2026 年文章（含摘要）
 
-共 **731** 篇
+共 **734** 篇
 
 ---
 
@@ -64,6 +64,11 @@
 **年份**: 2026 | **DOI**: [10.1177/0192513x261432512](https://doi.org/10.1177/0192513x261432512)
 **作者**: Wadei, Bernice; Wadei, Kwame Ansong; Ziemah, Aaron Kong-bahi 等4人
 **摘要**: Despite growing female workforce participation, societal norms still prioritize motherhood over professional roles. This study examines how maternal employment affects children’s well-being, and challenges concerns about maternal absence.…
+
+### Do Older Adults Expect Reciprocity When Providing Family Support to Different Generations? Evidence From a Nationally Representative Sample of Rural and Urban China
+**年份**: 2026 | **DOI**: [10.1177/0192513x261432539](https://doi.org/10.1177/0192513x261432539)
+**作者**: Shi, Cheng; Zhu, Yajing; Lum, Terry Yat-Sang 等4人
+**摘要**: The debate on whether family caregiving is reciprocal or altruistic remains unresolved. This study examined how older adults’ care expectation is associated with their caregiving for different generations, focusing on direct and indirect reciprocity and altruistic giving.…
 
 ### Fictive Kin Support Networks of African American and Black Caribbean Adolescents
 **年份**: 2025 | **DOI**: [10.1177/0192513X251379000](https://doi.org/10.1177/0192513X251379000)
@@ -3184,6 +3189,16 @@
 **年份**: 2021 | **DOI**: [10.1177/0192513X20929071](https://doi.org/10.1177/0192513X20929071)
 **作者**: Fonseca, Ana Laura; Ye, Tony; Curran, Melissa 等5人
 **摘要**: Intercultural romantic relationships and multicultural families have increased in the United States and worldwide. Researchers have found that intercultural couples report high rates of conflict and relationship instability, which may be partly explained by differences between partners in relationsh…
+
+### Does Family Decision-Making Power Improve Women’s Happiness?
+**年份**: 2021 | **DOI**: [10.1177/0192513x211030025](https://doi.org/10.1177/0192513x211030025)
+**作者**: Li, Zhongwu
+**摘要**: It is almost a consensus that the stronger family decision-making power a woman has, the happier she will be. While using the China Family Panel Studies, this study reveals a long-overlooked fact that women’s control over more family decision-making power does not necessarily improve their happiness…
+
+### Cohabitation and Its Consequences in Ghana
+**年份**: 2021 | **DOI**: [10.1177/0192513x21994155](https://doi.org/10.1177/0192513x21994155)
+**作者**: Obeng-Hinneh, Rosemary; Kpoor, Albert
+**摘要**: Although largely considered an unconventional form of domestic partnership, cohabitation is a growing phenomenon in Ghana. The lived experiences of cohabiting couples have, however, received little scholarly attention.…
 
 ### The Changing Status of Israeli Arab Women as Reflected in Their Role as Main Caregivers
 **年份**: 2020 | **DOI**: [10.1177/0192513X19898829](https://doi.org/10.1177/0192513X19898829)

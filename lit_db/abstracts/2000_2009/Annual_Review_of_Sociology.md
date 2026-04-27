@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **115** 篇
+共 **120** 篇
 
 ---
 
@@ -60,6 +60,16 @@
 **作者**: Davis, Shannon N.; Greenstein, Theodore N.
 **摘要**: The purpose of this article is to review research on the construction of gender ideology and its consequences. The article begins with a summary of research focused on measuring gender ideology—individuals' levels of support for a division of paid work and family responsibilities that is based on th…
 
+### Is America Fragmenting?
+**年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-115909](https://doi.org/10.1146/annurev-soc-070308-115909)
+**作者**: Fischer, Claude S.; Mattson, Greggor
+**摘要**: The view that America is fragmenting is popular among both pundits and academics and may well be endemic to American culture. We review claims that between 1970 and 2005 American society fragmented along lines of cultural politics, social class, immigration, race, or lifestyle.…
+
+### New Directions in Life Course Research
+**年份**: 2009 | **DOI**: [10.1146/annurev.soc.34.040507.134619](https://doi.org/10.1146/annurev.soc.34.040507.134619)
+**作者**: Mayer, Karl Ulrich
+**摘要**: Life courses are studied in sociology and neighboring fields as developmental processes, as culturally and normatively constructed life stages and age roles, as biographical meanings, as aging processes, as outcomes of institutional regulation and policies, as demographic accounts, or as mere empiri…
+
 ### From Mead to a structural symbolic interactionism and beyond
 **年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134649](https://doi.org/10.1146/annurev.soc.34.040507.134649)
 **作者**: Stryker, Sheldon
@@ -114,6 +124,11 @@
 **年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134549](https://doi.org/10.1146/annurev.soc.34.040507.134549)
 **作者**: McLanahan, Sara; Percheski, Christine
 **摘要**: Over the past four decades, income inequality has increased and family structures have diversified. We argue that family structure has become an important mechanism for the reproduction of class, race, and gender inequalities.…
+
+### Conditional Cash Transfers as Social Policy in Latin America: An Assessment of their Contributions and Limitations
+**年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134537](https://doi.org/10.1146/annurev.soc.34.040507.134537)
+**作者**: Valencia Lomelí, Enrique
+**摘要**: Conditional cash transfer programs have recently spread throughout Latin America, and early findings suggest their potential to overcome poverty and create human capital. This review undertakes an assessment of CCT programs and the conventional theory that has evolved to justify them.…
 
 ### Statistical magic and/or statistical serendipity: an age of progress in the analysis of categorical data
 **年份**: 2007 | **DOI**: [10.1146/annurev.soc.33.040406.131720](https://doi.org/10.1146/annurev.soc.33.040406.131720)
@@ -225,6 +240,11 @@
 **作者**: Johnson, Cathryn; Dowd, Timothy J.; Ridgeway, Cecilia L.
 **摘要**: To gain an in-depth understanding of legitimacy as a general social process, we review contemporary approaches to legitimacy within two areas of sociology: social psychology and organizations.…
 
+### Estimating the Causal Effect of Social Capital: A Review of Recent Research
+**年份**: 2006 | **DOI**: [10.1146/annurev.soc.32.061604.123150](https://doi.org/10.1146/annurev.soc.32.061604.123150)
+**作者**: Mouw, Ted
+**摘要**: Although there is a large literature on social capital, empirical estimates of the effect of social capital may be biased because of social homophily, the tendency of similar people to become friends with each other.…
+
 ### Doing justice to the group: Examining the roles of the group in justice research
 **年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122213](https://doi.org/10.1146/annurev.soc.31.041304.122213)
 **作者**: Hegtvedt, KA
@@ -324,6 +344,11 @@
 **年份**: 2004 | **DOI**: [10.1146/annurev.soc.30.012703.110538](https://doi.org/10.1146/annurev.soc.30.012703.110538)
 **作者**: Carruthers, Bruce G.; Ariovich, Laura
 **摘要**: Property rights matter for their effects on economic inequality and economic performance, and they unfold at the intersection of law, the state, politics, and the economy. Five dimensions of property are discussed: the objects of property (what can be owned), the subjects of property (who can own), …
+
+### Values: Reviving a Dormant Concept
+**年份**: 2004 | **DOI**: [10.1146/annurev.soc.30.012703.110640](https://doi.org/10.1146/annurev.soc.30.012703.110640)
+**作者**: Hitlin, Steven; Piliavin, Jane Allyn
+**摘要**: Over the past decades, the concept of values has gone in and out of fashion within sociology. Relatively recent advances in both the conceptualization and measurement of values offer the potential for a reincorporation of values into sociological work.…
 
 ### Beyond rational choice theory
 **年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100213](https://doi.org/10.1146/annurev.soc.29.010202.100213)

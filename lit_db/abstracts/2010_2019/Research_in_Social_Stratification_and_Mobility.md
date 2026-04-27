@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2010–2019 年文章（含摘要）
 
-共 **319** 篇
+共 **320** 篇
 
 ---
 
@@ -734,6 +734,11 @@
 **年份**: 2016 | **DOI**: [10.1016/j.rssm.2015.01.003](https://doi.org/10.1016/j.rssm.2015.01.003)
 **作者**: Bukodi, Erzsebet; Goldthorpe, John H.
 **摘要**: In recent years much research has been concerned with the patterns of association that exist between individuals' class origins, their educational attainment, and their eventual class destinations - the 'OED triangle'.…
+
+### Introduction to the special issue: Education as a positional good
+**年份**: 2016 | **DOI**: [10.1016/j.rssm.2016.03.003](https://doi.org/10.1016/j.rssm.2016.03.003)
+**作者**: Shavit, Yossi; Park, Hyunjoon
+**摘要**: （暂无）
 
 ### The high cost of missing a boat under the Japanese recruitment practices: Timing of regular and non-regular employment after school completion in Japan
 **年份**: 2015 | **DOI**: [10.1016/j.rssm.2015.06.002](https://doi.org/10.1016/j.rssm.2015.06.002)

@@ -1,6 +1,6 @@
 # Journal of Family Issues — 文章标题索引
 
-共 **2275** 篇 | 年份范围：1981–2026
+共 **2287** 篇 | 年份范围：1981–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -19,6 +19,7 @@
 - The Well-Being Implications of Having Children: Evidence From Chinese National Surveys · [DOI](https://doi.org/10.1177/0192513X251370665)
 - Educational Assortative Mating and Its Impact on Marital Quality in China · [DOI](https://doi.org/10.1177/0192513X251362455)
 - Balancing Work and Care: Exploring the Effects of Women’s Paid Employment on Children’s Development · [DOI](https://doi.org/10.1177/0192513x261432512)
+- Do Older Adults Expect Reciprocity When Providing Family Support to Different Generations? Evidence From a Nationally Representative Sample of Rural and Urban China · [DOI](https://doi.org/10.1177/0192513x261432539)
 
 ## 2025
 
@@ -658,6 +659,8 @@
 - Intimate Partner Violence Forgiveness Dynamics in the Context of Men's Positions as Victims and Perpetrators: A Dyadic Perspective · [DOI](https://doi.org/10.1177/0192513X20946340)
 - Why the Son-bias in Caregiving? Testing Sex-differences in the Associations Between Paternal Caregiving and Child Outcomes in England · [DOI](https://doi.org/10.1177/0192513X20941902)
 - Cultural Similarities and Differences in Relationship Goals in Intercultural Romantic Couples · [DOI](https://doi.org/10.1177/0192513X20929071)
+- Does Family Decision-Making Power Improve Women’s Happiness? · [DOI](https://doi.org/10.1177/0192513x211030025)
+- Cohabitation and Its Consequences in Ghana · [DOI](https://doi.org/10.1177/0192513x21994155)
 
 ## 2020
 
@@ -871,6 +874,7 @@
 - What Do Parents Regret About Having Children? Communicating Regrets Online · [DOI](https://doi.org/10.1177/0192513X18811388)
 - Female-Breadwinner Families in Germany: New Gender Roles? · [DOI](https://doi.org/10.1177/0192513X19843149)
 - A Research Note on Income Pooling in Partnerships: Incorporating Nonresident Children · [DOI](https://doi.org/10.1177/0192513X19868270)
+- Resources, Time and Gender: Determinants of Women’s Housework in Bahir Dar and Nearby Rural Villages, Northwest Ethiopia · [DOI](https://doi.org/10.1177/0192513x19878862)
 
 ## 2018
 
@@ -2346,6 +2350,7 @@
 
 - Young Adult Families · [DOI](https://doi.org/10.1177/019251397018006003)
 - Gender, High- and Low-Schedule-Control Housework Tasks, and Psychological Distress · [DOI](https://doi.org/10.1177/019251397018004003)
+- Counting on Grandmothers: Black Mothers' and Fathers' Reliance on Grandmothers for Parenting Support · [DOI](https://doi.org/10.1177/019251397018003002)
 
 ## 1996
 
@@ -2356,12 +2361,14 @@
 ## 1995
 
 - The Early Childhood HOME Inventory and HOME-Short Form in Differing Racial/Ethnic Groups · [DOI](https://doi.org/10.1177/019251395016005007)
+- Parent-Child Relationships During the Transition to Adulthood · [DOI](https://doi.org/10.1177/019251395016005003)
 
 ## 1994
 
 - Gender Differences in Parent-Child Relations · [DOI](https://doi.org/10.1177/019251394015001007)
 - Division of Household Work in the United States and Japan · [DOI](https://doi.org/10.1177/019251394015003002)
 - Work-Family Conflict · [DOI](https://doi.org/10.1177/019251394015003006)
+- Contact with Nonresident Parents, Interparental Conflict, and Children's Behavior · [DOI](https://doi.org/10.1177/0192513x94015002003)
 
 ## 1993
 
@@ -2370,6 +2377,7 @@
 ## 1992
 
 - Late-Life Divorce · [DOI](https://doi.org/10.1177/019251392013004008)
+- Gender Differences in Expectations of Self and Future Partner · [DOI](https://doi.org/10.1177/019251392013001004)
 
 ## 1991
 
@@ -2378,9 +2386,17 @@
 - Male Procreative Consciousness and Responsibility: · [DOI](https://doi.org/10.1177/019251391012003002)
 - Occupational Structure and Men's and Women's Parental Values · [DOI](https://doi.org/10.1177/019251391012003006)
 
+## 1990
+
+- Flextime · [DOI](https://doi.org/10.1177/019251390011004007)
+
 ## 1989
 
 - Parenthood and Psychological Well-Being · [DOI](https://doi.org/10.1177/019251389010004002)
+
+## 1988
+
+- The Division of Household Labor · [DOI](https://doi.org/10.1177/019251388009001007)
 
 ## 1986
 
@@ -2391,10 +2407,12 @@
 ## 1985
 
 - The Impact of Age and Children on Remarriage · [DOI](https://doi.org/10.1177/019251385006002003)
+- Transitions to Parenthood · [DOI](https://doi.org/10.1177/019251385006004004)
 
 ## 1983
 
 - The Family in an Aging Society · [DOI](https://doi.org/10.1177/019251383004003002)
+- Families, Prisons, and Men with Death Sentences · [DOI](https://doi.org/10.1177/019251383004004005)
 
 ## 1981
 
