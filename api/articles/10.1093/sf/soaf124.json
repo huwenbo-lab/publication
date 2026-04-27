@@ -1,0 +1,29 @@
+{
+  "title": "Deporting children: case outcomes for unaccompanied minors facing removal proceedings in US immigration court",
+  "abstract": "Abstract Using an originally compiled dataset of over 200,000 cases of unaccompanied minors decided in US immigration court between 2009 and 2023, this paper asks: what determines whether immigrant children are ordered deported? Past work has examined adults’ cases, focusing on adjudicator characteristics and legal representation as determinants of case outcomes. We add to newer scholarship that has shifted focus to the role of immigrant characteristics in shaping case outcomes. After accounting for legal representation, where, when, and by whom cases are decided, we find that sociodemographic characteristics, which we consider proxies for stigmatized and racialized identities, are key determinants of case outcomes among immigrant children. Concretely, we find that racialized Latino unaccompanied minors face far higher odds of deportation than all other origin groups. Indigenous language speakers are more likely to be ordered deported than Spanish-speaking children. Conversely, English speakers are less likely to be ordered deported than Spanish speakers. Teenage boys are more likely to be ordered deported, suggesting adultification and similar outcomes to male adults in what scholars have called the gendered racial removal program. This research builds on intersectional understandings of immigration enforcement, showing how race, gender, age, language, and Indigeneity contribute to explaining who is subject to deportation from the United States.",
+  "authors": [
+    {
+      "raw": "Galli, Chiara",
+      "family": "Galli",
+      "given": "Chiara"
+    },
+    {
+      "raw": "Padilla, Tatiana",
+      "family": "Padilla",
+      "given": "Tatiana"
+    }
+  ],
+  "authors_text": "Galli, Chiara; Padilla, Tatiana",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf124",
+  "doi_url": "https://doi.org/10.1093/sf/soaf124",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf124",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf124.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  }
+}

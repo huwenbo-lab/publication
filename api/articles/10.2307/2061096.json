@@ -1,0 +1,24 @@
+{
+  "title": "A Generalized Index of Dissimilarity",
+  "abstract": "Abstract The index of dissimilarity can be interpreted as the ratio of the number that must be moved from cells of excess to cells of deficit to achieve even distribution. This interpretation is used to generalize the index in two directions. First, the index is made applicable to more than two groups at a time. Second, an index and a test of significance are made available for explorations of cells of a two-way contingency table. DISSIM is the name of a computer program which provides these calculations for contingency tables.",
+  "authors": [
+    {
+      "raw": "Sakoda, James M.",
+      "family": "Sakoda",
+      "given": "James M."
+    }
+  ],
+  "authors_text": "Sakoda, James M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1981,
+  "doi": "10.2307/2061096",
+  "doi_url": "https://doi.org/10.2307/2061096",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2061096",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2061096.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

@@ -1,7 +1,7 @@
 # Social Forces
 ## 2020–2026 年文章（含摘要）
 
-共 **490** 篇
+共 **502** 篇
 
 ---
 
@@ -9,6 +9,26 @@
 **年份**: 2026 | **DOI**: [10.1093/sf/soag018](https://doi.org/10.1093/sf/soag018)
 **作者**: Friedman, Brittany
 **摘要**: （暂无）
+
+### Review of “Replace the State: How to Change the World When Elections and Protests Fail”
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf227](https://doi.org/10.1093/sf/soaf227)
+**作者**: Lu, Todd
+**摘要**: （暂无）
+
+### Does stringent climate policy decouple economic growth from greenhouse gas emissions?
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf217](https://doi.org/10.1093/sf/soaf217)
+**作者**: Thombs, Ryan P; Jorgenson, Andrew K
+**摘要**: Abstract A foundational question in environmental sociology is whether economic growth can be sufficiently decoupled from greenhouse gas emissions. Scholars working in different analytical perspectives assert that such a decoupling is largely contingent on more stringent climate policy that mandates…
+
+### Review of “The Returned: Former U.S. Migrants’ Lives in Mexico City”
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf221](https://doi.org/10.1093/sf/soaf221)
+**作者**: Parrado, Emilio A
+**摘要**: （暂无）
+
+### The racialized penalties of immigrant origin: meta-analytic evidence on hiring discrimination in twelve countries
+**年份**: 2026 | **DOI**: [10.1093/sf/soag028](https://doi.org/10.1093/sf/soag028)
+**作者**: Quillian, Lincoln; Midtbøen, Arnfinn H
+**摘要**: Abstract The role of discrimination in shaping the life chances of immigrants and their descendants is central to debates in the sociology of immigration. This study synthesizes evidence from 114 field experiments on hiring conducted across twelve countries, comparing discrimination against foreign-…
 
 ### Financialization and unintended emission reductions: evidence from the OECD, 1995-2020
 **年份**: 2025 | **DOI**: [10.1093/sf/soaf220](https://doi.org/10.1093/sf/soaf220)
@@ -649,6 +669,40 @@
 **年份**: 2025 | **DOI**: [10.1093/sf/soae127](https://doi.org/10.1093/sf/soae127)
 **作者**: Sheares, Alicia Myles
 **摘要**: Black people in the technology industry face various barriers, from encountering micro-aggressions from their coworkers to facing blocked advancement in their professional careers. These challenges are particularly pronounced in entrepreneurship, where Black founders receive just one percent of all …
+
+### Review of “Bordering on Indifference: Immigration Agents Negotiating Race and Morality.”
+**年份**: 2025 | **DOI**: [10.1093/sf/soaf171](https://doi.org/10.1093/sf/soaf171)
+**作者**: Martínez, Daniel E
+**摘要**: （暂无）
+
+### Review of “Bad Nature: How Rat Control Shapes Human and Nonhuman Worlds”
+**年份**: 2025 | **DOI**: [10.1093/sf/soaf209](https://doi.org/10.1093/sf/soaf209)
+**作者**: Colin, Jerolmack
+**摘要**: （暂无）
+
+### Correction to: Intergenerational family life courses and wealth accumulation in Norway
+**年份**: 2025 | **DOI**: [10.1093/sf/soaf125](https://doi.org/10.1093/sf/soaf125)
+**摘要**: （暂无）
+
+### Review of “Be Water: Collective Improvisation in Hong Kong’s Anti-Extradition Protests”
+**年份**: 2025 | **DOI**: [10.1093/sf/soaf185](https://doi.org/10.1093/sf/soaf185)
+**作者**: Wong, Kennedy
+**摘要**: （暂无）
+
+### Deporting children: case outcomes for unaccompanied minors facing removal proceedings in US immigration court
+**年份**: 2025 | **DOI**: [10.1093/sf/soaf124](https://doi.org/10.1093/sf/soaf124)
+**作者**: Galli, Chiara; Padilla, Tatiana
+**摘要**: Abstract Using an originally compiled dataset of over 200,000 cases of unaccompanied minors decided in US immigration court between 2009 and 2023, this paper asks: what determines whether immigrant children are ordered deported?…
+
+### Review of “The High School: Sports, Spirit, and Citizens, 1903–2024”
+**年份**: 2025 | **DOI**: [10.1093/sf/soaf179](https://doi.org/10.1093/sf/soaf179)
+**作者**: Oyewole, Kemi A
+**摘要**: （暂无）
+
+### Review of “Natural: Black Beauty and the Politics of Hair”
+**年份**: 2025 | **DOI**: [10.1093/sf/soaf052](https://doi.org/10.1093/sf/soaf052)
+**作者**: Taylor, Taura
+**摘要**: （暂无）
 
 ### Stability and Volatility in Cultural Models of Contention
 **年份**: 2024 | **DOI**: [10.1093/sf/soae134](https://doi.org/10.1093/sf/soae134)
@@ -2454,3 +2508,8 @@
 **年份**: 2020 | **DOI**: [10.1093/sf/soz026](https://doi.org/10.1093/sf/soz026)
 **作者**: Bukodi, Erzsebet; Paskov, Marii; Nolan, Brian
 **摘要**: Comparative research into intergenerational social mobility has been typically restricted to a relatively small number of countries. The aim of this paper is to widen the perspective, and to provide an up-to-date account of rates of intergenerational class mobility across 30 European countries, usin…
+
+### Fearing the Black Body: The Racial Origins of Fat Phobia
+**年份**: 2020 | **DOI**: [10.1093/sf/soz161](https://doi.org/10.1093/sf/soz161)
+**作者**: Strings, Sabrina
+**摘要**: （暂无）

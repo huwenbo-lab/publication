@@ -1,6 +1,6 @@
 # Chinese Journal of Sociology — 文章标题索引
 
-共 **258** 篇 | 年份范围：2015–2026
+共 **259** 篇 | 年份范围：2015–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -115,6 +115,7 @@
 - Labor exportation, transnational production politics, and the formation of exploitation relationships-a case study of Chinese migrant workers in Japan · [DOI](https://doi.org/10.1177/2057150X221090359)
 - Heroines who are rebuilding their country: State-society circumstances and coping strategies of female leaders in post-genocide Rwanda · [DOI](https://doi.org/10.1177/2057150X221123622)
 - Sexuality in China: A review and new findings · [DOI](https://doi.org/10.1177/2057150x221114599)
+- Knowledge production and epistemic politics: A scientometric review of Chinese sexuality studies in English-language academia · [DOI](https://doi.org/10.1177/2057150x221111523)
 
 ## 2021
 

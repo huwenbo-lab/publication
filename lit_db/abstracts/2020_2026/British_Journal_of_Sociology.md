@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **423** 篇
+共 **427** 篇
 
 ---
 
@@ -39,6 +39,21 @@
 **年份**: 2026 | **DOI**: [10.1111/1468-4446.70119](https://doi.org/10.1111/1468-4446.70119)
 **作者**: Tan, Catherine
 **摘要**: ABSTRACT Behind its worldly and socially conscious aesthetic, the wellness industry serves the health and fitness interests of North American and European consumers by commercializing non‐Western and Indigenous healing traditions, including shamanistic practices.…
+
+### Privileged Precarity: How the Mobile Middle Class Leverage Housing Insecurity as Labour Market Strategy
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70118](https://doi.org/10.1111/1468-4446.70118)
+**作者**: White, Tim
+**摘要**: ABSTRACT How does the ability to weather insecurity give some an upper‐hand over others? This paper examines the interrelationship between housing and labour market precarity among middle class young professionals.…
+
+### The New Petty Bourgeoisie Versus the Lumpen PMC? A Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie by D. Evans, London: Repeater Books, 2023, 300 pp. £12.99 (paperback). ISBN-10: 1913462692, ISBN-13: 978-1913462697
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70114](https://doi.org/10.1111/1468-4446.70114)
+**作者**: Thompson, Matthew
+**摘要**: （暂无）
+
+### Author Response to British Journal of Sociology Symposium for a Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70112](https://doi.org/10.1111/1468-4446.70112)
+**作者**: Evans, Daniel
+**摘要**: （暂无）
 
 ### Securing Profit: Threat Production as a Mechanism of Racial Capitalism in US-Occupied Kabul
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.70065](https://doi.org/10.1111/1468-4446.70065)
@@ -2119,3 +2134,8 @@
 **年份**: 2020 | **DOI**: [10.1111/1468-4446.12712](https://doi.org/10.1111/1468-4446.12712)
 **作者**: Elliott, Karla; Fitz-Gibbon, Kate; Maher, JaneMaree
 **摘要**: Sibling violence is an under-researched field, and the impact of adolescent family violence (AFV) in particular on siblings is not yet well understood. The Australian study Investigating Adolescent Family Violence in Victoria elicited responses from siblings who had experienced AFV from their brothe…
+
+### Preface to a special issue on the sociology of testing
+**年份**: 2020 | **DOI**: [10.1111/1468-4446.12757](https://doi.org/10.1111/1468-4446.12757)
+**作者**: Marres, Noortje; Stark, David
+**摘要**: （暂无）

@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2010–2019 年文章（含摘要）
 
-共 **897** 篇
+共 **899** 篇
 
 ---
 
@@ -2503,6 +2503,16 @@
 ### On the age-specific correlation between fertility and female employment
 **年份**: 2015 | **DOI**: [10.4054/demres.2015.32.23](https://doi.org/10.4054/demres.2015.32.23)
 **作者**: Brehm, Uta; Engelhardt, Henriette
+**摘要**: （暂无）
+
+### Migration signatures across the decades
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.38](https://doi.org/10.4054/demres.2015.32.38)
+**作者**: Johnson, Kenneth M.; Winkler, Richelle L.
+**摘要**: （暂无）
+
+### Quality of demographic data in GGS Wave 1
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.24](https://doi.org/10.4054/demres.2015.32.24)
+**作者**: Vergauwen, Jorik; Wood, Jonas; De Wachter, David 等4人
 **摘要**: （暂无）
 
 ### When people shed religious identity in Ireland and Austria: Evidence from censuses

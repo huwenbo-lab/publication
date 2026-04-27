@@ -1,0 +1,24 @@
+{
+  "title": "Estimating the Causal Effect of Social Capital: A Review of Recent Research",
+  "abstract": "Although there is a large literature on social capital, empirical estimates of the effect of social capital may be biased because of social homophily, the tendency of similar people to become friends with each other. Despite the methodological difficulties, a recent literature has emerged across several different disciplines that tries to estimate the causal effect of social capital. This paper reviews this recent empirical literature on social capital, paying close attention to the statistical and theoretical assumptions involved. Overall, there is evidence that genuine progress has been made in estimating the effect of social capital. The reviewed articles should provide useful examples for future research.",
+  "authors": [
+    {
+      "raw": "Mouw, Ted",
+      "family": "Mouw",
+      "given": "Ted"
+    }
+  ],
+  "authors_text": "Mouw, Ted",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2006,
+  "doi": "10.1146/annurev.soc.32.061604.123150",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.32.061604.123150",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.32.061604.123150",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.32.061604.123150.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  }
+}

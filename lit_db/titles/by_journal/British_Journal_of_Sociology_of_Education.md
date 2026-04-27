@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1689** 篇 | 年份范围：1980–2026
+共 **1706** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -27,6 +27,12 @@
 - From policy to practice: religious diversity and critical multicultural pedagogy in Norwegian early childhood education · [DOI](https://doi.org/10.1080/01425692.2026.2616354)
 - When meritocracy breeds insecurity: moralized over-striving, temporal disciplining and resistance in China’s specialized college · [DOI](https://doi.org/10.1080/01425692.2026.2645104)
 - Correction · [DOI](https://doi.org/10.1080/01425692.2026.2648414)
+- The Creative Art of Troublemaking in education, · [DOI](https://doi.org/10.1080/01425692.2025.2602256)
+- A different kind of familiar: the insider-outsider paradox and negotiating teacher sense of belonging · [DOI](https://doi.org/10.1080/01425692.2026.2657329)
+- Diversity of religion and belief in education: inequality, citizenship and belonging · [DOI](https://doi.org/10.1080/01425692.2026.2648452)
+- Parents’ perspectives on special education in England: institutional disability discrimination and non-compliance with the law · [DOI](https://doi.org/10.1080/01425692.2026.2638269)
+- Religion, agency, and choice in English state schools · [DOI](https://doi.org/10.1080/01425692.2026.2616654)
+- Academic statelessness: at-risk academics in the UK navigating the transition to post-fellowship positions · [DOI](https://doi.org/10.1080/01425692.2026.2642107)
 
 ## 2025
 
@@ -784,6 +790,7 @@
 - Field theory in cultural capital studies of educational attainment · [DOI](https://doi.org/10.1080/01425692.2014.969398)
 - From Aberfan to the 'Canvey Factor': schools, children and industrial disasters · [DOI](https://doi.org/10.1080/01425692.2014.961596)
 - Post-panopticism and school inspection in England · [DOI](https://doi.org/10.1080/01425692.2014.965806)
+- Thomas Piketty’s relevance for the study of education: reflections on the political economy of education · [DOI](https://doi.org/10.1080/01425692.2016.1200821)
 
 ## 2015
 
@@ -1764,16 +1771,22 @@
 - Vertical and Horizontal Discourse: An essay · [DOI](https://doi.org/10.1080/01425699995380)
 - Racism in Schools and Ethnic Differentials in Educational Achievement: A brief comment on a recent debate · [DOI](https://doi.org/10.1080/01425699995344)
 - Self, Space and Place: Youth identities and citizenship · [DOI](https://doi.org/10.1080/01425699995236)
+- Promotion, Persuasion and Class-taste: Marketing (in) the UK post-compulsory sector · [DOI](https://doi.org/10.1080/01425699995272)
 
 ## 1998
 
 - Class Differentiation in Education: rational choices? · [DOI](https://doi.org/10.1080/0142569980190101)
 - Inequality in Higher Education: a study of class barriers · [DOI](https://doi.org/10.1080/0142569980190401)
 - ’I Heard It on the Grapevine’: ‘hot’ knowledge and school choice · [DOI](https://doi.org/10.1080/0142569980190307)
+- Schools, Families and Academically Able Students: contrasting modes of involvement in secondary education · [DOI](https://doi.org/10.1080/0142569980190201)
 
 ## 1997
 
 - Recognising Difference: the Romani ‘Gypsy’ child socialisation and education process · [DOI](https://doi.org/10.1080/0142569970180207)
+
+## 1996
+
+- School Organization and Market Ecology: a realist sociological look at the infrastructure of school choice · [DOI](https://doi.org/10.1080/0142569960170403)
 
 ## 1995
 
@@ -1782,22 +1795,31 @@
 ## 1994
 
 - The Colonisation of Social Class in Education · [DOI](https://doi.org/10.1080/0142569940150301)
+- The Thirst for Learning, or Protecting One's Niche? The shaping of teacher training in Finland during the 19th and 20th centuries · [DOI](https://doi.org/10.1080/0142569940150405)
 
 ## 1993
 
 - Critical Events in Education · [DOI](https://doi.org/10.1080/0142569930140401)
+- The Sociology of School Effectiveness · [DOI](https://doi.org/10.1080/0142569930140309)
 
 ## 1992
 
 - Reconceptualising Structure and Agency in the Sociology of Education: structuration theory and schooling · [DOI](https://doi.org/10.1080/0142569920130105)
+- Teachers’ Struggle: the case of white English‐speaking teachers in South Africa · [DOI](https://doi.org/10.1080/0142569920130302)
 
 ## 1990
 
 - Bourdieu on Education and Social and Cultural Reproduction · [DOI](https://doi.org/10.1080/0142569900110405)
+- Agency as a Form of Discursive Practice. A Classroom Scene Observed · [DOI](https://doi.org/10.1080/0142569900110306)
+- Classroom Order as Practical Action: the making and un‐making of a quiet reproach · [DOI](https://doi.org/10.1080/0142569900110205)
 
 ## 1989
 
 - Race, Categorisation and Educational Achievement · [DOI](https://doi.org/10.1080/0142569890100205)
+
+## 1988
+
+- Constructing Teacher Culture · [DOI](https://doi.org/10.1080/0142569880090404)
 
 ## 1987
 
@@ -1806,6 +1828,10 @@
 ## 1986
 
 - Policies on Inequality in the Third World: dependency or autonomy? · [DOI](https://doi.org/10.1080/0142569860070206)
+
+## 1982
+
+- ’Technical Culture’ and Technical Education in France: a consideration of the work of Claude Grignon and its relevance to British further education curricula · [DOI](https://doi.org/10.1080/0142569820030203)
 
 ## 1980
 

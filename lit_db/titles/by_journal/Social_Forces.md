@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2850** 篇 | 年份范围：1929–2026
+共 **2888** 篇 | 年份范围：1926–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -8,6 +8,10 @@
 ## 2026
 
 - Review of “The Secrets of Silence: The Everyday Policing of Black Women and Their Stories About Violence” · [DOI](https://doi.org/10.1093/sf/soag018)
+- Review of “Replace the State: How to Change the World When Elections and Protests Fail” · [DOI](https://doi.org/10.1093/sf/soaf227)
+- Does stringent climate policy decouple economic growth from greenhouse gas emissions? · [DOI](https://doi.org/10.1093/sf/soaf217)
+- Review of “The Returned: Former U.S. Migrants’ Lives in Mexico City” · [DOI](https://doi.org/10.1093/sf/soaf221)
+- The racialized penalties of immigrant origin: meta-analytic evidence on hiring discrimination in twelve countries · [DOI](https://doi.org/10.1093/sf/soag028)
 
 ## 2025
 
@@ -139,6 +143,13 @@
 - Why do partners often prefer the same political parties? Evidence from couples in Germany · [DOI](https://doi.org/10.1093/sf/soae133)
 - On the up and up: the job mobility of skilled return migrants · [DOI](https://doi.org/10.1093/sf/soae132)
 - From adversity to advancement: uncovering how race and class shape Black tech entrepreneurial experiences · [DOI](https://doi.org/10.1093/sf/soae127)
+- Review of “Bordering on Indifference: Immigration Agents Negotiating Race and Morality.” · [DOI](https://doi.org/10.1093/sf/soaf171)
+- Review of “Bad Nature: How Rat Control Shapes Human and Nonhuman Worlds” · [DOI](https://doi.org/10.1093/sf/soaf209)
+- Correction to: Intergenerational family life courses and wealth accumulation in Norway · [DOI](https://doi.org/10.1093/sf/soaf125)
+- Review of “Be Water: Collective Improvisation in Hong Kong’s Anti-Extradition Protests” · [DOI](https://doi.org/10.1093/sf/soaf185)
+- Deporting children: case outcomes for unaccompanied minors facing removal proceedings in US immigration court · [DOI](https://doi.org/10.1093/sf/soaf124)
+- Review of “The High School: Sports, Spirit, and Citizens, 1903–2024” · [DOI](https://doi.org/10.1093/sf/soaf179)
+- Review of “Natural: Black Beauty and the Politics of Hair” · [DOI](https://doi.org/10.1093/sf/soaf052)
 
 ## 2024
 
@@ -515,6 +526,7 @@
 - Models and Morals: Elite-Oriented and Value-Neutral Discourse Dominates American Organizations' Framings of Climate Change · [DOI](https://doi.org/10.1093/sf/soz027)
 - The Social Production and Salience of Young Women's Desire for Sex · [DOI](https://doi.org/10.1093/sf/soz049)
 - Intergenerational Class Mobility in Europe: A New Account · [DOI](https://doi.org/10.1093/sf/soz026)
+- Fearing the Black Body: The Racial Origins of Fat Phobia · [DOI](https://doi.org/10.1093/sf/soz161)
 
 ## 2019
 
@@ -2875,12 +2887,17 @@
 
 - Uncertainty, Cooperation, and Crime: Understanding the Decision to Co-offend · [DOI](https://doi.org/10.2307/3006013)
 - Political Resources and Direct State Intervention: The Adoption of Public Venture Capital Programs in the American States, 1974-1990 · [DOI](https://doi.org/10.2307/3005837)
+- Strong Managers and Weak Owners: The Political Roots of American Corporate Finance. By Mark J. Roe. Princeton University Press, 1994. 324 pp · [DOI](https://doi.org/10.1093/sf/77.1.392)
+- The Timing of the Influences of Cumulative Poverty on Children's Cognitive Ability and Achievement · [DOI](https://doi.org/10.2307/3006017)
+- Race and the Reproduction of Educational Disadvantage · [DOI](https://doi.org/10.2307/3005702)
 
 ## 1996
 
 - Extremely Disadvantaged Neighborhoods and Urban Crime · [DOI](https://doi.org/10.2307/2580416)
 - Attitudes on Residential Integration: Perceived Status Differences, Mere In-Group Preference, or Racial Prejudice? · [DOI](https://doi.org/10.2307/2580385)
 - Deprivation and Race Riots: An Extension of Spilerman's Analysis · [DOI](https://doi.org/10.2307/2580387)
+- Collective Identity and Informal Groups in Revolutionary Mobilization: East Germany in 1989 · [DOI](https://doi.org/10.2307/2580758)
+- From Protest to Change of Regime: The 4-19 Revolt and the Fall of the Rhee Regime in South Korea · [DOI](https://doi.org/10.2307/2580348)
 
 ## 1995
 
@@ -2891,12 +2908,15 @@
 - Ethnic Economies in Metropolitan Regions: Miami and Beyond · [DOI](https://doi.org/10.2307/2579777)
 - Effects of Individual, Occupational, and Industrial Characteristics on Earnings: Intersections of Race and Gender · [DOI](https://doi.org/10.2307/2580296)
 - From Service Provision to Institutional Advocacy: The Shifting Legitimacy of Organizational Forms · [DOI](https://doi.org/10.2307/2580289)
+- Family Status and Criticism of Gender Inequality at Home and at Work · [DOI](https://doi.org/10.2307/2580293)
 
 ## 1993
 
 - Risk and Recreancy: Weber, the Division of Labor, and the Rationality of Risk Perceptions · [DOI](https://doi.org/10.2307/2580124)
 - Racial Segregation and Black Urban Homicide · [DOI](https://doi.org/10.2307/2580128)
 - Frame Disputes within the Nuclear Disarmament Movement · [DOI](https://doi.org/10.2307/2579890)
+- Religious Involvement and Self-Perception among Black Americans · [DOI](https://doi.org/10.2307/2580129)
+- The Organization of Survival: Women's and Racial-Ethnic Voluntarist and Activist Organizations, 1955-1985 · [DOI](https://doi.org/10.2307/2580123)
 
 ## 1992
 
@@ -2914,10 +2934,16 @@
 - Segregation in the Second Ghetto: Racial and Ethnic Segregation in American Public Housing, 1977 · [DOI](https://doi.org/10.2307/2579300)
 - A Contextual Analysis of Black Self-Employment in Large Metropolitan Areas, 1970-1980 · [DOI](https://doi.org/10.2307/2580246)
 - Gender and Small Business Success: An Inquiry into Women's Relative Disadvantage · [DOI](https://doi.org/10.2307/2580062)
+- Ethnic Entrepreneurs: Immigrant Business in Industrial Societies. By Roger Waldinger, Howard Aldrich, and Robin Ward. Sage Publications, 1990. 226 pp. Cloth, $35.00; paper, $16.95 · [DOI](https://doi.org/10.1093/sf/69.3.925)
+- The Case against Secularization: A Rebuttal · [DOI](https://doi.org/10.2307/2579304)
 
 ## 1990
 
 - The Formation of Intransitive Friendships · [DOI](https://doi.org/10.2307/2579671)
+- Public Beliefs about the Causes of Homelessness · [DOI](https://doi.org/10.2307/2579617)
+- The Impact of Occupational Segregation on Working Conditions · [DOI](https://doi.org/10.2307/2579353)
+- Compensating Differentials and the Male-Female Wage Gap: Evidence from the New York State Comparable Worth Study · [DOI](https://doi.org/10.2307/2579667)
+- Perceived Cohesion: A Conceptual and Empirical Examination · [DOI](https://doi.org/10.2307/2579670)
 
 ## 1989
 
@@ -2927,11 +2953,19 @@
 
 - The Power Structure of American Business. By Beth Mintz and Michael Schwartz, University of Chicago Press, 1985. 327 pp. $27.50 · [DOI](https://doi.org/10.1093/sf/66.3.843)
 
+## 1987
+
+- Family Transitions, Housing Market Context, and First Home Purchase by Young Married Households · [DOI](https://doi.org/10.2307/2578753)
+
 ## 1986
 
 - Economic Development and Female Labor Force Participation: A Reconsideration · [DOI](https://doi.org/10.2307/2578815)
 - A Longitudinal Examination of an Integrated Social Process Model of Deviant Behavior · [DOI](https://doi.org/10.2307/2578938)
 - Tokenism Reconsidered: Male Nurses and Female Physicians in a Hospital Setting · [DOI](https://doi.org/10.2307/2578787)
+
+## 1985
+
+- Racial Differences in Nonmetropolitan Population Deconcentration · [DOI](https://doi.org/10.2307/2578652)
 
 ## 1984
 
@@ -2952,10 +2986,15 @@
 
 - Enduring Effects of Military Service? Opinion Differences between U.S. Veterans and Nonveterans · [DOI](https://doi.org/10.2307/2577356)
 
+## 1978
+
+- When Can Age, Period, and Cohort be Separated? · [DOI](https://doi.org/10.2307/2577639)
+
 ## 1977
 
 - Socioeconomic Determinants of Intraethnic Marriage and Friendship · [DOI](https://doi.org/10.2307/2577568)
 - Resource Allocations in United Funds: Examination of Power and Dependence · [DOI](https://doi.org/10.2307/2577470)
+- The Structure of Adult Friendship Choices · [DOI](https://doi.org/10.2307/2577741)
 
 ## 1976
 
@@ -2967,6 +3006,10 @@
 - WAR, PRESIDENTS AND PUBLIC OPINION. By John E. Mueller. New York: Wiley, 1973. 300 pp · [DOI](https://doi.org/10.1093/sf/53.3.521-a)
 - The Division of Labor: Conceptualization and Related Measures · [DOI](https://doi.org/10.2307/2576589)
 - Microeconomic Theories of Fertility: A Critique · [DOI](https://doi.org/10.2307/2576080)
+
+## 1974
+
+- Social Class and Social Time Perspective · [DOI](https://doi.org/10.2307/2576837)
 
 ## 1973
 
@@ -2981,11 +3024,13 @@
 ## 1970
 
 - A Critical Examination of the Designation of Standard Metropolitan Statistical Areas · [DOI](https://doi.org/10.2307/2574651)
+- Life-Style Differences Among Urban and Suburban Blue-Collar Families · [DOI](https://doi.org/10.2307/2574652)
 
 ## 1968
 
 - THE DISCOVERY OF GROUNDED THEORY: STRATEGIES FOR QUALITATIVE RESEARCH. By Barney G. Glaser and Anselm L. Strauss. Chicago: Aldine Publishing Company, 1967. 271 pp. $6.75 · [DOI](https://doi.org/10.1093/sf/46.4.555)
 - Incomplete Professionalization: The Case of Pharmacy · [DOI](https://doi.org/10.2307/2574885)
+- The Discovery of Grounded Theory: Strategies for Qualitative Research. · [DOI](https://doi.org/10.2307/2575405)
 
 ## 1967
 
@@ -2999,11 +3044,13 @@
 
 - Society and the Adolescent Self-Image. · [DOI](https://doi.org/10.2307/2575639)
 - ALIENATION AND FREEDOM : THE FACTORY WORKER AND HIS INDUSTRY. By Robert Blauner. Chicago: The University of Chicago Press, 1964. 222 pp. Illustrated. $7.50 · [DOI](https://doi.org/10.2307/2574777)
+- Self-Reliance and the Inclination to Adopt the Sick Role · [DOI](https://doi.org/10.2307/2574463)
 
 ## 1960
 
 - Administrative Succession in Formal Organizations · [DOI](https://doi.org/10.2307/2574148)
 - A Power Analysis of Racial Discrimination · [DOI](https://doi.org/10.2307/2573575)
+- The Career Experience of the Symphony Musician · [DOI](https://doi.org/10.2307/2574085)
 
 ## 1959
 
@@ -3013,6 +3060,10 @@
 
 - Sexual Division of Labor and Cross-Cultural Research · [DOI](https://doi.org/10.2307/2573784)
 
+## 1957
+
+- Some Unapplauded Consequences of Social Mobility in a Mass Society · [DOI](https://doi.org/10.2307/2573743)
+
 ## 1956
 
 - A Typology of Community Leadership Based on Influence and Interaction within the Leader Subsystem · [DOI](https://doi.org/10.2307/2573665)
@@ -3020,6 +3071,10 @@
 ## 1955
 
 - The Military Academy as an Assimilating Institution · [DOI](https://doi.org/10.2307/2573000)
+
+## 1953
+
+- Toward a Sociology of Language · [DOI](https://doi.org/10.2307/2573708)
 
 ## 1949
 
@@ -3049,3 +3104,7 @@
 ## 1929
 
 - City Planning for Neighborhood Life · [DOI](https://doi.org/10.2307/2570059)
+
+## 1926
+
+- Case Work and the Statistical Method · [DOI](https://doi.org/10.2307/3004806)

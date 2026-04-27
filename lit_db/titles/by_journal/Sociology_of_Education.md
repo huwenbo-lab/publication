@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **548** 篇 | 年份范围：1963–2026
+共 **578** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -17,6 +17,7 @@
 - “Who Is Anybody to Judge?” Educational Resistance through Recognition · [DOI](https://doi.org/10.1177/00380407261419106)
 - Care, Success, and Accountability: Cultural Logics, Expectation Drift, and the Complex Nature of Teacher Expectations · [DOI](https://doi.org/10.1177/00380407261432655)
 - Intergenerational Educational Mobility in Scandinavia and the United States · [DOI](https://doi.org/10.1177/00380407261424502)
+- From Aspiration to Action: Socioeconomic Disparity in the Translation of Educational Goals into Time Investment · [DOI](https://doi.org/10.1177/00380407261432647)
 
 ## 2025
 
@@ -226,6 +227,7 @@
 - Does College Influence Sociopolitical Attitudes? · [DOI](https://doi.org/10.1177/0038040715617224)
 - Understanding Educational Policy Formation: The Case of School Violence Policies in Israel · [DOI](https://doi.org/10.1177/0038040715615923)
 - Career Funneling: How Elite Students Learn to Define and Desire Prestigious'' Jobs · [DOI](https://doi.org/10.1177/0038040715610883)
+- Schooling, Skills, and Self-rated Health · [DOI](https://doi.org/10.1177/0038040716653168)
 
 ## 2015
 
@@ -393,6 +395,7 @@
 - What types of students' efforts are rewarded with high marks? · [DOI](https://doi.org/10.1177/003804070808100102)
 - School strategies and the College-Linking process: Reconsidering the effects of high schools on college enrollment · [DOI](https://doi.org/10.1177/003804070808100103)
 - State high school exit examinations and postsecondary labor market outcomes · [DOI](https://doi.org/10.1177/003804070808100104)
+- Student Engagement, Peer Social Capital, and School Dropout Among Mexican American and Non-Latino White Students · [DOI](https://doi.org/10.1177/003804070808100201)
 
 ## 2007
 
@@ -466,6 +469,8 @@
 - Beyond the laboratory: Evaluating the survey evidence for the disidentification explanation of black-white differences in achievement · [DOI](https://doi.org/10.1177/003804070407700104)
 - Social Capital, Cultural Values, Immigration, and Academic Achievement: The Host Country Context and Contradictory Consequences · [DOI](https://doi.org/10.1177/003804070407700205)
 - Social Capital and Its Relevance to Minority and Immigrant Populations · [DOI](https://doi.org/10.1177/003804070407700204)
+- Social Capital and the Diffusion of Innovations Within Organizations: The Case of Computer Technology in Schools · [DOI](https://doi.org/10.1177/003804070407700203)
+- Social Capital and the Education of Immigrant Students: Categories and Generalizations · [DOI](https://doi.org/10.1177/003804070407700206)
 
 ## 2003
 
@@ -561,6 +566,8 @@
 - Effects of Feeder Patterns on Students' Transition to High School · [DOI](https://doi.org/10.2307/2673154)
 - Race, Cultural Capital, and Educational Resources: Persistent Inequalities and Achievement Returns · [DOI](https://doi.org/10.2307/2673227)
 - Students on the Move: Residential and Educational Mobility in America's Schools · [DOI](https://doi.org/10.2307/2673186)
+- Changes in the Black-White Gap in Achievement Test Scores · [DOI](https://doi.org/10.2307/2673179)
+- Moments of Social Inclusion and Exclusion Race, Class, and Cultural Capital in Family-School Relationships · [DOI](https://doi.org/10.2307/2673185)
 
 ## 1998
 
@@ -571,12 +578,16 @@
 ## 1997
 
 - From First Grade Forward: Early Foundations of High School Dropout · [DOI](https://doi.org/10.2307/2673158)
+- History and Agency in Men's Lives: Pathways to Achievement in Cohort Perspective · [DOI](https://doi.org/10.2307/2673192)
+- Effects of College Transition and Perceptions of the Campus Racial Climate on Latino College Students' Sense of Belonging · [DOI](https://doi.org/10.2307/2673270)
 
 ## 1996
 
 - Educational Inequality among White and Mexican-Origin Adolescents in the American Southwest: 1990 · [DOI](https://doi.org/10.2307/2112803)
 - How Do Mothers Choose Child Care? Alternative Cultural Models in Poor Neighborhoods · [DOI](https://doi.org/10.2307/2112800)
 - Educational Progress of Children of Immigrants: The Roles of Class, Ethnicity, and School Context · [DOI](https://doi.org/10.2307/2112714)
+- Opportunity-to-Learn Standards: A Sociological Critique · [DOI](https://doi.org/10.2307/3108455)
+- The Problem of Individualism in Family-School Policies · [DOI](https://doi.org/10.2307/3108454)
 
 ## 1995
 
@@ -589,6 +600,7 @@
 
 - Tracking: From Theory to Practice · [DOI](https://doi.org/10.2307/2112697)
 - Lost Talent: Unrealized Educational Aspirations and Expectations among U.S. Youths · [DOI](https://doi.org/10.2307/2112789)
+- The Path to Math: Gender and Racial-Ethnic Differences in Mathematics Participation from Middle School to High School · [DOI](https://doi.org/10.2307/2112791)
 
 ## 1993
 
@@ -602,11 +614,14 @@
 - Paths to High School Graduation or Dropout: A Longitudinal Study of a First-Grade Cohort · [DOI](https://doi.org/10.2307/2112677)
 - World Expansion of Mass Education, 1870-1980 · [DOI](https://doi.org/10.2307/2112679)
 - Policy, School Structure, and Sociodemographic Effects on Statewide High School Dropout Rates · [DOI](https://doi.org/10.2307/2112694)
+- Multinational Corporate Investment and Women's Participation in Higher Education in Noncore Nations · [DOI](https://doi.org/10.2307/2112691)
+- Contextual Effects on the Self-perceived Efficacy of High School Teachers · [DOI](https://doi.org/10.2307/2112680)
 
 ## 1991
 
 - Employment During High School: Character Building or a Subversion of Academic Goals? · [DOI](https://doi.org/10.2307/2112850)
 - Class, Gender, and School Expansion in France: A Four-Systems Comparison · [DOI](https://doi.org/10.2307/2112705)
+- The Effect of the Social Organization of Schools on Teachers' Efficacy and Satisfaction · [DOI](https://doi.org/10.2307/2112851)
 
 ## 1990
 
@@ -631,11 +646,15 @@
 - The Political Construction of Mass Schooling: European Origins and Worldwide Institutionalization · [DOI](https://doi.org/10.2307/2112615)
 - Social Class Differences in Family-School Relationships: The Importance of Cultural Capital · [DOI](https://doi.org/10.2307/2112583)
 - The Stratification of High School Learning Opportunities · [DOI](https://doi.org/10.2307/2112271)
+- Student Passivity: A Study of Question Asking in K-12 Classrooms · [DOI](https://doi.org/10.2307/2112275)
+- Ability Grouping and Sex Differences in Mathematics Achievement · [DOI](https://doi.org/10.2307/2112582)
 
 ## 1986
 
 - Mothers' Strategies for Children's School Achievement: Managing the Transition to High School · [DOI](https://doi.org/10.2307/2112340)
 - Instructional and Institutional Effects of Ability Grouping · [DOI](https://doi.org/10.2307/2112346)
+- A Hierarchical Model for Studying School Effects · [DOI](https://doi.org/10.2307/2112482)
+- Sex and Institutional Differences in Labor Market Effects on the Expansion of Higher Education, 1952 to 1980 · [DOI](https://doi.org/10.2307/2112347)
 
 ## 1985
 
@@ -649,6 +668,7 @@
 ## 1984
 
 - Sibling Similarities in Educational Attainment: A Comparison of Like-Sex and Cross-Sex Sibling Pairs · [DOI](https://doi.org/10.2307/2112464)
+- The College Channel: Private and Public Schools Reconsidered · [DOI](https://doi.org/10.2307/2112633)
 
 ## 1983
 
@@ -663,12 +683,16 @@
 
 - The Structure of Significant Other Influence on Status Aspirations: Black-White Variations · [DOI](https://doi.org/10.2307/2112608)
 - High School Seniors' Occupational Plans and Values: Trends in Sex Differences 1976 through 1980 · [DOI](https://doi.org/10.2307/2112606)
+- The Effects of Task Structure on Beliefs About Competence and Participation in Small Groups · [DOI](https://doi.org/10.2307/2112673)
+- Cognitive Outcomes in Public and Private Schools · [DOI](https://doi.org/10.2307/2112288)
+- The Cognitive Tests for High School and Beyond: An Assessment · [DOI](https://doi.org/10.2307/2112290)
 
 ## 1981
 
 - Does Consistency of Parental Educational Encouragement Matter for Secondary School Students? · [DOI](https://doi.org/10.2307/2112567)
 - Research Productivity in Academia: A Comparative Study of the Sciences, Social Sciences and Humanities · [DOI](https://doi.org/10.2307/2112566)
 - Sex-Typing and Change in the Occupational Choices of High School Seniors: 1964-1975 · [DOI](https://doi.org/10.2307/2112509)
+- Classroom Organization and the Perception of Ability · [DOI](https://doi.org/10.2307/2112357)
 
 ## 1980
 
@@ -679,11 +703,13 @@
 - Young Children's Conception of Status and Role · [DOI](https://doi.org/10.2307/2112593)
 - Private Schooling and the Status Attainment Process · [DOI](https://doi.org/10.2307/2112448)
 - Using Panel Data to Improve Estimates of the Determinants of Educational Achievement · [DOI](https://doi.org/10.2307/2112449)
+- Interaction Effects in Spady and Tinto's Conceptual Models of College Attrition · [DOI](https://doi.org/10.2307/2112401)
 
 ## 1978
 
 - School Racial Composition and Black College Attendance and Achievement Test Performance · [DOI](https://doi.org/10.2307/2112241)
 - Socialization Via Interscholastic Athletics: Its Effects on Delinquency · [DOI](https://doi.org/10.2307/2112368)
+- The Transition into Early Adolescence: A Longitudinal Comparison of Youth in Two Educational Contexts · [DOI](https://doi.org/10.2307/2112661)
 
 ## 1977
 
@@ -692,19 +718,26 @@
 ## 1976
 
 - The Institutionalization of Academic Innovations: Two Models · [DOI](https://doi.org/10.2307/2112519)
+- Education as a Dimension of Status Incongruence between Parents and the Self Perceptions of College Students · [DOI](https://doi.org/10.2307/2112233)
 
 ## 1975
 
 - A Comparative Analysis of Organizational Conflict in Schools · [DOI](https://doi.org/10.2307/2112050)
+- Innovation in Organizations: The Case of Schools · [DOI](https://doi.org/10.2307/2112048)
 
 ## 1974
 
 - Recruiting Faculty and Students · [DOI](https://doi.org/10.2307/2112168)
 
+## 1973
+
+- The School as a Social Environment for Learning: Social Organization and Micro-Social Process in Education · [DOI](https://doi.org/10.2307/2112204)
+
 ## 1972
 
 - Voluntary Withdrawal from a Total Adult Socializing Organization: A Model · [DOI](https://doi.org/10.2307/2112147)
 - Elementary School Predictors of High School Dropout among Black Males · [DOI](https://doi.org/10.2307/2112008)
+- The Organization Child: Experience Management in a Nursery School · [DOI](https://doi.org/10.2307/2112007)
 
 ## 1970
 

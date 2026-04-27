@@ -1,0 +1,39 @@
+{
+  "title": "Quality of demographic data in GGS Wave 1",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Vergauwen, Jorik",
+      "family": "Vergauwen",
+      "given": "Jorik"
+    },
+    {
+      "raw": "Wood, Jonas",
+      "family": "Wood",
+      "given": "Jonas"
+    },
+    {
+      "raw": "De Wachter, David",
+      "family": "De Wachter",
+      "given": "David"
+    },
+    {
+      "raw": "Neels, Karel",
+      "family": "Neels",
+      "given": "Karel"
+    }
+  ],
+  "authors_text": "Vergauwen, Jorik; Wood, Jonas; De Wachter, David; Neels, Karel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.32.24",
+  "doi_url": "https://doi.org/10.4054/demres.2015.32.24",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.32.24",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.32.24.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  }
+}

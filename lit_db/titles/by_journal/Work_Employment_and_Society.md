@@ -1,6 +1,6 @@
 # Work, Employment and Society — 文章标题索引
 
-共 **2346** 篇 | 年份范围：1990–2026
+共 **2351** 篇 | 年份范围：1990–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -29,6 +29,9 @@
 - Carol Wolkowitz remembered · [DOI](https://doi.org/10.1177/09500170251410868)
 - Spatial Control, Precarity, and Union Resistance in Digital Remote Work: An Analysis of ‘Work From Home’ in US and Canadian Call Centres · [DOI](https://doi.org/10.1177/09500170251401491)
 - Mobilization Theory in Practice: The Great Strike of Zonguldak · [DOI](https://doi.org/10.1177/09500170261424131)
+- The Intensification–Extensification Dynamic: Hybrid Work and Digital Connectivity · [DOI](https://doi.org/10.1177/09500170261424133)
+- The Role of Settlement Intentions (Un-)Certainty in the Labour Market Integration of Ukrainian Refugees in Germany · [DOI](https://doi.org/10.1177/09500170261425857)
+- Managing Mobility: Platform Work Models, Organizational Identification, and Food Delivery Couriers' Exit Intentions · [DOI](https://doi.org/10.1177/09500170261428386)
 
 ## 2025
 
@@ -2422,6 +2425,7 @@
 - School Age Workers: the Paid Employment of Children in Britain · [DOI](https://doi.org/10.1177/09500179922118015)
 - Change in the Benefits Agency: Empowering the Exhausted Worker? · [DOI](https://doi.org/10.1177/09500179922117773)
 - The Transition from Organisational Employment to Portfolio Working: Perceptions of `Boundarylessness' · [DOI](https://doi.org/10.1177/09500179922117962)
+- Contingent Workers and Health and Safety · [DOI](https://doi.org/10.1177/09500179922118024)
 
 ## 1997
 
@@ -2438,6 +2442,10 @@
 
 - Employees' Perspectives on One Dimension of Labour Flexibility: Working at a Distance · [DOI](https://doi.org/10.1177/095001709593003)
 - Self-Employment Career Dynamics: The Case of `Unemployment Push' in UK Book Publishing · [DOI](https://doi.org/10.1177/095001709593004)
+
+## 1994
+
+- Fiddly Jobs, Undeclared Working and the Something for Nothing Society · [DOI](https://doi.org/10.1177/095001709484002)
 
 ## 1993
 

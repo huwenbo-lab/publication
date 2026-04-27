@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-13T04:29:14",
+  "generated_at": "2026-04-27T04:38:36",
   "summary": {
-    "total_articles": 35256,
+    "total_articles": 35616,
     "total_journals": 25,
     "year_min": 1896,
     "year_max": 2026,
-    "articles_with_abstract": 27671,
-    "articles_missing_abstract": 7585,
-    "abstract_coverage_rate": 0.7849,
-    "records_with_doi": 35183,
-    "doi_coverage_rate": 0.9979,
-    "unique_article_json": 35180
+    "articles_with_abstract": 27780,
+    "articles_missing_abstract": 7836,
+    "abstract_coverage_rate": 0.78,
+    "records_with_doi": 35543,
+    "doi_coverage_rate": 0.998,
+    "unique_article_json": 35540
   },
   "year_counts": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "year": 1898,
-      "count": 1
+      "count": 2
     },
     {
       "year": 1899,
@@ -55,11 +55,11 @@
     },
     {
       "year": 1921,
-      "count": 1
+      "count": 2
     },
     {
       "year": 1926,
-      "count": 3
+      "count": 4
     },
     {
       "year": 1927,
@@ -79,7 +79,7 @@
     },
     {
       "year": 1932,
-      "count": 1
+      "count": 2
     },
     {
       "year": 1938,
@@ -99,11 +99,11 @@
     },
     {
       "year": 1942,
-      "count": 6
+      "count": 7
     },
     {
       "year": 1943,
-      "count": 1
+      "count": 2
     },
     {
       "year": 1944,
@@ -111,11 +111,11 @@
     },
     {
       "year": 1945,
-      "count": 1
+      "count": 2
     },
     {
       "year": 1946,
-      "count": 2
+      "count": 3
     },
     {
       "year": 1947,
@@ -139,7 +139,7 @@
     },
     {
       "year": 1953,
-      "count": 1
+      "count": 3
     },
     {
       "year": 1954,
@@ -151,23 +151,23 @@
     },
     {
       "year": 1956,
-      "count": 4
-    },
-    {
-      "year": 1957,
-      "count": 3
-    },
-    {
-      "year": 1958,
       "count": 6
     },
     {
+      "year": 1957,
+      "count": 5
+    },
+    {
+      "year": 1958,
+      "count": 7
+    },
+    {
       "year": 1959,
-      "count": 2
+      "count": 3
     },
     {
       "year": 1960,
-      "count": 5
+      "count": 8
     },
     {
       "year": 1961,
@@ -183,11 +183,11 @@
     },
     {
       "year": 1964,
-      "count": 3
+      "count": 4
     },
     {
       "year": 1965,
-      "count": 7
+      "count": 11
     },
     {
       "year": 1966,
@@ -195,155 +195,155 @@
     },
     {
       "year": 1967,
-      "count": 8
+      "count": 9
     },
     {
       "year": 1968,
-      "count": 6
-    },
-    {
-      "year": 1969,
-      "count": 5
-    },
-    {
-      "year": 1970,
-      "count": 6
-    },
-    {
-      "year": 1971,
-      "count": 3
-    },
-    {
-      "year": 1972,
-      "count": 8
-    },
-    {
-      "year": 1973,
-      "count": 5
-    },
-    {
-      "year": 1974,
       "count": 7
     },
     {
-      "year": 1975,
+      "year": 1969,
+      "count": 11
+    },
+    {
+      "year": 1970,
+      "count": 9
+    },
+    {
+      "year": 1971,
+      "count": 4
+    },
+    {
+      "year": 1972,
       "count": 12
+    },
+    {
+      "year": 1973,
+      "count": 10
+    },
+    {
+      "year": 1974,
+      "count": 10
+    },
+    {
+      "year": 1975,
+      "count": 14
     },
     {
       "year": 1976,
-      "count": 12
+      "count": 16
     },
     {
       "year": 1977,
-      "count": 14
+      "count": 17
     },
     {
       "year": 1978,
-      "count": 14
+      "count": 21
     },
     {
       "year": 1979,
-      "count": 22
+      "count": 28
     },
     {
       "year": 1980,
-      "count": 12
+      "count": 15
     },
     {
       "year": 1981,
-      "count": 13
-    },
-    {
-      "year": 1982,
-      "count": 14
-    },
-    {
-      "year": 1983,
-      "count": 22
-    },
-    {
-      "year": 1984,
-      "count": 18
-    },
-    {
-      "year": 1985,
-      "count": 18
-    },
-    {
-      "year": 1986,
       "count": 20
     },
     {
-      "year": 1987,
-      "count": 26
+      "year": 1982,
+      "count": 21
     },
     {
-      "year": 1988,
-      "count": 29
+      "year": 1983,
+      "count": 25
     },
     {
-      "year": 1989,
-      "count": 30
+      "year": 1984,
+      "count": 23
     },
     {
-      "year": 1990,
+      "year": 1985,
+      "count": 24
+    },
+    {
+      "year": 1986,
       "count": 27
     },
     {
-      "year": 1991,
-      "count": 44
+      "year": 1987,
+      "count": 37
     },
     {
-      "year": 1992,
+      "year": 1988,
+      "count": 39
+    },
+    {
+      "year": 1989,
       "count": 34
     },
     {
+      "year": 1990,
+      "count": 44
+    },
+    {
+      "year": 1991,
+      "count": 53
+    },
+    {
+      "year": 1992,
+      "count": 44
+    },
+    {
       "year": 1993,
-      "count": 37
+      "count": 46
     },
     {
       "year": 1994,
-      "count": 37
+      "count": 48
     },
     {
       "year": 1995,
-      "count": 45
+      "count": 54
     },
     {
       "year": 1996,
-      "count": 36
+      "count": 53
     },
     {
       "year": 1997,
-      "count": 43
+      "count": 51
     },
     {
       "year": 1998,
-      "count": 41
+      "count": 57
     },
     {
       "year": 1999,
-      "count": 50
+      "count": 59
     },
     {
       "year": 2000,
-      "count": 1116
+      "count": 1117
     },
     {
       "year": 2001,
-      "count": 1178
+      "count": 1179
     },
     {
       "year": 2002,
-      "count": 829
+      "count": 830
     },
     {
       "year": 2003,
-      "count": 910
+      "count": 911
     },
     {
       "year": 2004,
-      "count": 950
+      "count": 953
     },
     {
       "year": 2005,
@@ -351,19 +351,19 @@
     },
     {
       "year": 2006,
-      "count": 1093
+      "count": 1095
     },
     {
       "year": 2007,
-      "count": 1176
+      "count": 1177
     },
     {
       "year": 2008,
-      "count": 1221
+      "count": 1223
     },
     {
       "year": 2009,
-      "count": 1193
+      "count": 1196
     },
     {
       "year": 2010,
@@ -387,11 +387,11 @@
     },
     {
       "year": 2015,
-      "count": 1342
+      "count": 1346
     },
     {
       "year": 2016,
-      "count": 1414
+      "count": 1417
     },
     {
       "year": 2017,
@@ -403,119 +403,119 @@
     },
     {
       "year": 2019,
-      "count": 1517
+      "count": 1520
     },
     {
       "year": 2020,
-      "count": 1434
+      "count": 1437
     },
     {
       "year": 2021,
-      "count": 1491
+      "count": 1494
     },
     {
       "year": 2022,
-      "count": 1463
+      "count": 1467
     },
     {
       "year": 2023,
-      "count": 1465
+      "count": 1469
     },
     {
       "year": 2024,
-      "count": 1537
+      "count": 1538
     },
     {
       "year": 2025,
-      "count": 1780
+      "count": 1788
     },
     {
       "year": 2026,
-      "count": 242
+      "count": 306
     }
   ],
   "top_keywords": [
     {
       "term": "gender",
-      "count": 2215
+      "count": 2226
     },
     {
       "term": "family",
-      "count": 2125
+      "count": 2138
     },
     {
       "term": "work",
-      "count": 1643
+      "count": 1654
     },
     {
       "term": "education",
-      "count": 1486
+      "count": 1505
     },
     {
       "term": "women",
-      "count": 1296
+      "count": 1304
     },
     {
       "term": "press",
-      "count": 1202
-    },
-    {
-      "term": "university",
-      "count": 1194
+      "count": 1205
     },
     {
       "term": "life",
-      "count": 1186
+      "count": 1199
+    },
+    {
+      "term": "university",
+      "count": 1196
     },
     {
       "term": "educational",
-      "count": 1166
-    },
-    {
-      "term": "inequality",
-      "count": 1095
+      "count": 1174
     },
     {
       "term": "fertility",
-      "count": 1083
+      "count": 1105
     },
     {
-      "term": "united",
-      "count": 1032
+      "term": "inequality",
+      "count": 1102
     },
     {
       "term": "states",
-      "count": 1031
+      "count": 1038
+    },
+    {
+      "term": "united",
+      "count": 1036
     },
     {
       "term": "effects",
-      "count": 1005
+      "count": 1017
     },
     {
       "term": "health",
-      "count": 999
+      "count": 1003
     },
     {
       "term": "school",
-      "count": 868
+      "count": 882
     },
     {
       "term": "china",
-      "count": 834
+      "count": 840
     },
     {
       "term": "cloth",
-      "count": 828
+      "count": 829
     }
   ],
   "top_authors": [
     {
       "author": "Xie, Yu",
-      "count": 83
+      "count": 84
     },
     {
       "author": "Kalmijn, Matthijs",
-      "count": 74
+      "count": 75
     },
     {
       "author": "Manning, Wendy D.",
@@ -527,27 +527,27 @@
     },
     {
       "author": "Kohler, Hans-Peter",
-      "count": 49
+      "count": 50
     },
     {
       "author": "Liefbroer, Aart C.",
       "count": 44
     },
     {
+      "author": "Lichter, Daniel T.",
+      "count": 42
+    },
+    {
       "author": "Brown, Susan L.",
       "count": 42
     },
     {
-      "author": "Lichter, Daniel T.",
+      "author": "Park, Hyunjoon",
       "count": 41
     },
     {
       "author": "Kulu, Hill",
       "count": 41
-    },
-    {
-      "author": "Park, Hyunjoon",
-      "count": 40
     },
     {
       "author": "Amato, Paul R.",
@@ -561,171 +561,171 @@
   "top_journals": [
     {
       "journal": "Sociology",
-      "count": 2888
+      "count": 2895
     },
     {
       "journal": "Social Forces",
-      "count": 2850
+      "count": 2888
     },
     {
       "journal": "Journal of Marriage and Family",
-      "count": 2515
+      "count": 2529
     },
     {
       "journal": "Work, Employment and Society",
-      "count": 2346
+      "count": 2351
     },
     {
       "journal": "Journal of Family Issues",
-      "count": 2275
+      "count": 2287
     },
     {
       "journal": "Social Science Research",
-      "count": 2249
+      "count": 2260
     },
     {
       "journal": "Gender & Society",
-      "count": 2220
+      "count": 2231
     },
     {
       "journal": "Demography",
-      "count": 1953
+      "count": 1979
     },
     {
       "journal": "Demographic Research",
-      "count": 1835
+      "count": 1843
     },
     {
       "journal": "British Journal of Sociology",
-      "count": 1794
+      "count": 1815
     }
   ],
   "abstract_coverage_by_journal": [
     {
       "journal": "Sociology",
-      "count": 2888,
-      "with_abstract": 1864,
-      "coverage_rate": 0.6454
+      "count": 2895,
+      "with_abstract": 1869,
+      "coverage_rate": 0.6456
     },
     {
       "journal": "Social Forces",
-      "count": 2850,
-      "with_abstract": 2636,
-      "coverage_rate": 0.9249
+      "count": 2888,
+      "with_abstract": 2639,
+      "coverage_rate": 0.9138
     },
     {
       "journal": "Journal of Marriage and Family",
-      "count": 2515,
-      "with_abstract": 2180,
-      "coverage_rate": 0.8668
+      "count": 2529,
+      "with_abstract": 2182,
+      "coverage_rate": 0.8628
     },
     {
       "journal": "Work, Employment and Society",
-      "count": 2346,
-      "with_abstract": 1503,
-      "coverage_rate": 0.6407
+      "count": 2351,
+      "with_abstract": 1508,
+      "coverage_rate": 0.6414
     },
     {
       "journal": "Journal of Family Issues",
-      "count": 2275,
-      "with_abstract": 2231,
-      "coverage_rate": 0.9807
+      "count": 2287,
+      "with_abstract": 2243,
+      "coverage_rate": 0.9808
     },
     {
       "journal": "Social Science Research",
-      "count": 2249,
+      "count": 2260,
       "with_abstract": 1001,
-      "coverage_rate": 0.4451
+      "coverage_rate": 0.4429
     },
     {
       "journal": "Gender & Society",
-      "count": 2220,
-      "with_abstract": 934,
-      "coverage_rate": 0.4207
+      "count": 2231,
+      "with_abstract": 942,
+      "coverage_rate": 0.4222
     },
     {
       "journal": "Demography",
-      "count": 1953,
-      "with_abstract": 1922,
-      "coverage_rate": 0.9841
+      "count": 1979,
+      "with_abstract": 1944,
+      "coverage_rate": 0.9823
     },
     {
       "journal": "Demographic Research",
-      "count": 1835,
+      "count": 1843,
       "with_abstract": 1823,
-      "coverage_rate": 0.9935
+      "coverage_rate": 0.9891
     },
     {
       "journal": "British Journal of Sociology",
-      "count": 1794,
-      "with_abstract": 1226,
-      "coverage_rate": 0.6834
+      "count": 1815,
+      "with_abstract": 1227,
+      "coverage_rate": 0.676
     },
     {
       "journal": "British Journal of Sociology of Education",
-      "count": 1689,
+      "count": 1706,
       "with_abstract": 1514,
-      "coverage_rate": 0.8964
+      "coverage_rate": 0.8875
     },
     {
       "journal": "European Sociological Review",
-      "count": 1558,
-      "with_abstract": 1490,
-      "coverage_rate": 0.9564
+      "count": 1564,
+      "with_abstract": 1493,
+      "coverage_rate": 0.9546
     },
     {
       "journal": "American Sociological Review",
-      "count": 1119,
-      "with_abstract": 1002,
-      "coverage_rate": 0.8954
-    },
-    {
-      "journal": "Socius",
-      "count": 1015,
-      "with_abstract": 1015,
-      "coverage_rate": 1.0
+      "count": 1158,
+      "with_abstract": 1007,
+      "coverage_rate": 0.8696
     },
     {
       "journal": "Population and Development Review",
-      "count": 1004,
-      "with_abstract": 786,
-      "coverage_rate": 0.7829
+      "count": 1032,
+      "with_abstract": 791,
+      "coverage_rate": 0.7665
+    },
+    {
+      "journal": "Socius",
+      "count": 1021,
+      "with_abstract": 1021,
+      "coverage_rate": 1.0
     },
     {
       "journal": "American Journal of Sociology",
-      "count": 932,
+      "count": 971,
       "with_abstract": 773,
-      "coverage_rate": 0.8294
+      "coverage_rate": 0.7961
     },
     {
       "journal": "Research in Social Stratification and Mobility",
-      "count": 861,
+      "count": 866,
       "with_abstract": 664,
-      "coverage_rate": 0.7712
+      "coverage_rate": 0.7667
     },
     {
       "journal": "European Journal of Population",
-      "count": 859,
+      "count": 863,
       "with_abstract": 294,
-      "coverage_rate": 0.3423
+      "coverage_rate": 0.3407
     },
     {
       "journal": "Journal of Family Theory & Review",
-      "count": 837,
-      "with_abstract": 525,
-      "coverage_rate": 0.6272
+      "count": 840,
+      "with_abstract": 528,
+      "coverage_rate": 0.6286
     },
     {
       "journal": "Sociology of Education",
-      "count": 548,
-      "with_abstract": 452,
-      "coverage_rate": 0.8248
+      "count": 578,
+      "with_abstract": 456,
+      "coverage_rate": 0.7889
     },
     {
       "journal": "Annual Review of Sociology",
-      "count": 537,
-      "with_abstract": 520,
-      "coverage_rate": 0.9683
+      "count": 563,
+      "with_abstract": 544,
+      "coverage_rate": 0.9663
     },
     {
       "journal": "Asian Population Studies",
@@ -741,14 +741,14 @@
     },
     {
       "journal": "Chinese Sociological Review",
-      "count": 269,
+      "count": 272,
       "with_abstract": 267,
-      "coverage_rate": 0.9926
+      "coverage_rate": 0.9816
     },
     {
       "journal": "Chinese Journal of Sociology",
-      "count": 258,
-      "with_abstract": 255,
+      "count": 259,
+      "with_abstract": 256,
       "coverage_rate": 0.9884
     }
   ]

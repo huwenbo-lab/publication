@@ -1,0 +1,29 @@
+{
+  "title": "Measuring immigrant wage growth using matched CPS files",
+  "abstract": "Abstract Cross-sectional estimates of immigrant wage growth have painted an optimistic picture of the ability of immigrants to adapt to the U.S. labor market: Studies using cross-sectional data have generally found the wage growth of immigrants to exceed that of the native born. This optimistic picture of immigrant economic assimilation was challenged by the important finding that compared to earlier immigrant cohorts, recent immigrants started at much lower wages. As such, the high wage growth of immigrants relative to the native born measured in cross-sectional data may simply be the spurious result of declining immigrant earnings ability. In this paper, we match Current Population Survey samples so that the wages of individual immigrant and native-born men can be followed for one year. We find that the wage growth of immigrants does exceed that of the native born. The general finding of faster immigrant wage growth also holds when imposing the foreign-born geographic distribution upon natives, but not when imposing the native-born geographic distribution on the foreign born—a result consistent with some theories of immigrant assimilation. In each comparison, however, the actual wage growth of immigrants relative to natives is similar to the predictions of cross-sectional regressions. This similarity suggests that either there is no cohort quality bias in the cross-sectional estimates of immigrant wage growth, or that there has been a coincidental increase in immigrant wage growth as the entry wages of immigrants have fallen.",
+  "authors": [
+    {
+      "raw": "Duleep, Harriet Orcutt",
+      "family": "Duleep",
+      "given": "Harriet Orcutt"
+    },
+    {
+      "raw": "Regets, Mark C.",
+      "family": "Regets",
+      "given": "Mark C."
+    }
+  ],
+  "authors_text": "Duleep, Harriet Orcutt; Regets, Mark C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 1997,
+  "doi": "10.2307/2061702",
+  "doi_url": "https://doi.org/10.2307/2061702",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2061702",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2061702.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": ""
+  }
+}

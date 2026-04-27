@@ -1,6 +1,6 @@
 # Socius — 文章标题索引
 
-共 **1015** 篇 | 年份范围：2016–2026
+共 **1021** 篇 | 年份范围：2016–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -27,6 +27,12 @@
 - Media Engagement and Avoidance: How Undocumented College Students Exert Agency · [DOI](https://doi.org/10.1177/23780231251379105)
 - Who Feels Prestigious? Gender Differences in Self-Rated Occupational Prestige · [DOI](https://doi.org/10.1177/23780231251412640)
 - “He Got More Felonies Than I Do!” Formerly Incarcerated Americans on President Trump · [DOI](https://doi.org/10.1177/23780231261431008)
+- The “Most Familiar Stranger”: Chinese Perceptions of the Contemporary Japanese Ethnoracial Hierarchy · [DOI](https://doi.org/10.1177/23780231261437862)
+- The Sociology of “Dirty Research”: Interresearcher Positionality, Marginalization, and Stigma Management · [DOI](https://doi.org/10.1177/23780231261440318)
+- Are There Service Work-Games of Resistance? “Work-Play” and Relational Resistance in Dance Club Waitstaff Work · [DOI](https://doi.org/10.1177/23780231261435044)
+- Power, Status, Legitimacy, and Shame in Organizations · [DOI](https://doi.org/10.1177/23780231261438914)
+- The Changing Distribution of U.S. Asian Populations across Urban and Suburban Ethnic Neighborhoods · [DOI](https://doi.org/10.1177/23780231261442407)
+- Work-Family Conflict and Physical Activity: Exploring Gender Differences among Australian Parents · [DOI](https://doi.org/10.1177/23780231261429664)
 
 ## 2025
 

@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2249** 篇 | 年份范围：1972–2026
+共 **2260** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -26,6 +26,9 @@
 - Is my manager feeling threatened by me? Racial differences in content and activation of threat metastereotypes · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103306)
 - Polluting student test performance: School-based evidence on the adverse effects of air pollution · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103343)
 - The gender system: A cross-national perspective · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103344)
+- Childhood exposure to local wealth inequality, economic isolation in schools, and inter-class social ties in adulthood · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103355)
+- Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024 · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103347)
+- Gendered work and family trajectories: How do STEM graduates fare in the labor market? · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103345)
 
 ## 2025
 
@@ -2333,6 +2336,7 @@
 ## 1996
 
 - The Effect of Military Service on Educational, Occupational, and Income Attainment · [DOI](https://doi.org/10.1006/ssre.1996.0001)
+- Internationally Comparable Measures of Occupational Status for the 1988 International Standard Classification of Occupations · [DOI](https://doi.org/10.1006/ssre.1996.0010)
 
 ## 1995
 
@@ -2355,6 +2359,7 @@
 ## 1991
 
 - Estimating the size of an average personal network and of an event subpopulation: Some empirical results · [DOI](https://doi.org/10.1016/0049-089x(91)90012-r)
+- Leaving the faith: Testing theories of religious switching using survival models · [DOI](https://doi.org/10.1016/0049-089x(91)90015-u)
 
 ## 1989
 
@@ -2363,6 +2368,11 @@
 ## 1988
 
 - Estimation and hypothesis testing for seemingly unrelated regressions: A sociological application · [DOI](https://doi.org/10.1016/0049-089x(88)90010-5)
+- Conjoint scaling of the utility of money using paired comparisons · [DOI](https://doi.org/10.1016/0049-089x(88)90017-8)
+
+## 1987
+
+- Measuring the process of role change during the transition to adulthood · [DOI](https://doi.org/10.1016/0049-089x(87)90017-2)
 
 ## 1986
 
@@ -2375,7 +2385,17 @@
 ## 1978
 
 - Sex similarities in occupational status attainment: Are the results due to the restriction of the sample to employed women? · [DOI](https://doi.org/10.1016/0049-089x(78)90011-x)
+- Interorganizational resource networks: Formal patterns of overlap · [DOI](https://doi.org/10.1016/0049-089x(78)90006-6)
+
+## 1977
+
+- Body time and social time: Mood patterns by menstrual cycle phase and day of the week · [DOI](https://doi.org/10.1016/0049-089x(77)90013-8)
+
+## 1973
+
+- On the social structure of an ocean-going research vessel and other important things · [DOI](https://doi.org/10.1016/0049-089x(73)90016-1)
 
 ## 1972
 
 - A lower-bound method for the dimension-free measurement of internal consistency · [DOI](https://doi.org/10.1016/0049-089x(72)90082-8)
+- The size of national assemblies · [DOI](https://doi.org/10.1016/0049-089x(72)90084-1)

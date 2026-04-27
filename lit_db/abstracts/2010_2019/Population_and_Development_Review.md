@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2010–2019 年文章（含摘要）
 
-共 **333** 篇
+共 **334** 篇
 
 ---
 
@@ -197,6 +197,11 @@
 
 ### IPBES, 2019. Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science‐Policy Platform on Biodiversity and Ecosystem Services
 **年份**: 2019 | **DOI**: [10.1111/padr.12283](https://doi.org/10.1111/padr.12283)
+**作者**: Bongaarts, John
+**摘要**: （暂无）
+
+### Intergovernmental Panel on Climate ChangeSpecial Report on Global Warming of 1.5°CSwitzerland: IPCC, 2018.
+**年份**: 2019 | **DOI**: [10.1111/padr.12234](https://doi.org/10.1111/padr.12234)
 **作者**: Bongaarts, John
 **摘要**: （暂无）
 

@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2000–2009 年文章（含摘要）
 
-共 **168** 篇
+共 **171** 篇
 
 ---
 
@@ -159,6 +159,11 @@
 **年份**: 2008 | **DOI**: [10.1177/003804070808100104](https://doi.org/10.1177/003804070808100104)
 **作者**: Warren, John Robert; Grodsky, Eric; Lee, Jennifer C.
 **摘要**: Since the late 1970s, an increasing number of states have required students to pass statewide high school exit examinations (HSEEs) in order to graduate. States have usually adopted HSEEs in response to the perception that a substantial number of graduates lack skills that are required for success i…
+
+### Student Engagement, Peer Social Capital, and School Dropout Among Mexican American and Non-Latino White Students
+**年份**: 2008 | **DOI**: [10.1177/003804070808100201](https://doi.org/10.1177/003804070808100201)
+**作者**: Ream, Robert K.; Rumberger, Russell W.
+**摘要**: Policy makers are especially concerned about persistently high dropout rates among U.S. Latinos, the largest minority population in the United States. This study used a national longitudinal database to show that the behavioral and social aspects of schooling are dynamically linked in the process of…
 
 ### Where the rubber meets the road: Rethinking the connection between high-stakes testing policy and classroom instruction
 **年份**: 2007 | **DOI**: [10.1177/003804070708000401](https://doi.org/10.1177/003804070708000401)
@@ -463,6 +468,16 @@
 ### Social Capital and Its Relevance to Minority and Immigrant Populations
 **年份**: 2004 | **DOI**: [10.1177/003804070407700204](https://doi.org/10.1177/003804070407700204)
 **作者**: Kao, Grace
+**摘要**: （暂无）
+
+### Social Capital and the Diffusion of Innovations Within Organizations: The Case of Computer Technology in Schools
+**年份**: 2004 | **DOI**: [10.1177/003804070407700203](https://doi.org/10.1177/003804070407700203)
+**作者**: Frank, Kenneth A.; Zhao, Yong; Borman, Kathryn
+**摘要**: Although the educational community has learned much about better educational practices, less is known about processes for implementing new practices. The standard model of diffusion suggests that people change perceptions about the value of an innovation through communication, and these perceptions …
+
+### Social Capital and the Education of Immigrant Students: Categories and Generalizations
+**年份**: 2004 | **DOI**: [10.1177/003804070407700206](https://doi.org/10.1177/003804070407700206)
+**作者**: Noguera, Pedro A.
 **摘要**: （暂无）
 
 ### Reassessing the burden of 'acting white': The importance of peer groups in managing academic success

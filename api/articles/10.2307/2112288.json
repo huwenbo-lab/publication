@@ -1,0 +1,34 @@
+{
+  "title": "Cognitive Outcomes in Public and Private Schools",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Coleman, James",
+      "family": "Coleman",
+      "given": "James"
+    },
+    {
+      "raw": "Hoffer, Thomas",
+      "family": "Hoffer",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Kilgore, Sally",
+      "family": "Kilgore",
+      "given": "Sally"
+    }
+  ],
+  "authors_text": "Coleman, James; Hoffer, Thomas; Kilgore, Sally",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 1982,
+  "doi": "10.2307/2112288",
+  "doi_url": "https://doi.org/10.2307/2112288",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2112288",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2112288.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": ""
+  }
+}

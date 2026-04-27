@@ -1,7 +1,7 @@
 # Gender & Society
 ## 2020–2026 年文章（含摘要）
 
-共 **518** 篇
+共 **519** 篇
 
 ---
 
@@ -134,6 +134,11 @@
 **年份**: 2026 | **DOI**: [10.1177/08912432261431258](https://doi.org/10.1177/08912432261431258)
 **作者**: Chávez, Karma R.
 **摘要**: Conservative attacks on higher education have often expressed unique ire for feminist and gender studies as emblematic of a left-wing bias and overemphasis on identity in U.S. universities.…
+
+### Book Review: Feminist Climate Policy in Industrialised States: A Gender-Just Climate Emergency Response , Edited By Susan Buckingham, Martin Hultman, Gunnhilder Lily Magnusdottir, and Karen Morrow Feminist Climate Policy in Industrialised States: A Gender-Just Climate Emergency Response. Edited By BuckinghamSusanHultmanMartinMagnusdottirGunnhilder LilyMorrowKaren. London; New York, NY: Routledge, 2026, 307 pp., $57.99 (paper); $200.00 (hardcover).
+**年份**: 2026 | **DOI**: [10.1177/08912432261440895](https://doi.org/10.1177/08912432261440895)
+**作者**: Flavell, Joanna
+**摘要**: （暂无）
 
 ### Book Review: Proper Women: Feminism and the Politics of Respectability in Iran by Fae Chubin Proper Women: Feminism and the Politics of Respectability in Iran. By ChubinFae. Philadelphia, PA: Temple University Press, 2024, 208 pp., $89.50 (cloth); $29.95 (paper).
 **年份**: 2025 | **DOI**: [10.1177/08912432251343081](https://doi.org/10.1177/08912432251343081)

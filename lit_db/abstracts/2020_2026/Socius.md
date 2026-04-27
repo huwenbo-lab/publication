@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **726** 篇
+共 **732** 篇
 
 ---
 
@@ -104,6 +104,36 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231261431008](https://doi.org/10.1177/23780231261431008)
 **作者**: Umamaheswar, Janani
 **摘要**: President Trump has long espoused “tough-on-crime” rhetoric, and many of his current policy initiatives risk exacerbating challenges faced by the nation’s most vulnerable citizens, including formerly incarcerated people.…
+
+### The “Most Familiar Stranger”: Chinese Perceptions of the Contemporary Japanese Ethnoracial Hierarchy
+**年份**: 2026 | **DOI**: [10.1177/23780231261437862](https://doi.org/10.1177/23780231261437862)
+**作者**: Zhang, Xiaorui
+**摘要**: Since the coronavirus disease 2019 pandemic, anti-Asian racism has garnered scholarly attention worldwide. However, this literature focuses primarily on Asian panethnic frameworks in the North American context and obscures the significance of Sinophobia as a distinct facet of global anti-Asian racis…
+
+### The Sociology of “Dirty Research”: Interresearcher Positionality, Marginalization, and Stigma Management
+**年份**: 2026 | **DOI**: [10.1177/23780231261440318](https://doi.org/10.1177/23780231261440318)
+**作者**: Shor, Eran
+**摘要**: Although social science research has thoroughly reflected on researchers’ positionality vs. their field and informants, interresearcher positionality has been less rigorously explored.…
+
+### Are There Service Work-Games of Resistance? “Work-Play” and Relational Resistance in Dance Club Waitstaff Work
+**年份**: 2026 | **DOI**: [10.1177/23780231261435044](https://doi.org/10.1177/23780231261435044)
+**作者**: Chew, Matthew Ming-tak
+**摘要**: This study tackles an important yet marginalized question in the sociology of work: Are there service work-games of resistance? Sociologists kept trying to find them but had little success. Current studies only find service work-games of consent.…
+
+### Power, Status, Legitimacy, and Shame in Organizations
+**年份**: 2026 | **DOI**: [10.1177/23780231261438914](https://doi.org/10.1177/23780231261438914)
+**作者**: Dippong, Joseph; Moller, Stephanie; Ruppanner, Leah 等4人
+**摘要**: The power-status theory of emotions posits that emotions arise out of a process in which people compare the levels of status and power that they experience against some standard of status and power adequacy.…
+
+### The Changing Distribution of U.S. Asian Populations across Urban and Suburban Ethnic Neighborhoods
+**年份**: 2026 | **DOI**: [10.1177/23780231261442407](https://doi.org/10.1177/23780231261442407)
+**作者**: Kye, Samuel H.; Wei, Zhongze
+**摘要**: Although prior scholarship has highlighted the challenge that suburban ethnic communities pose to traditional theories of assimilation, less attention has been given to how many Asian residents these neighborhoods capture relative to traditional urban enclaves.…
+
+### Work-Family Conflict and Physical Activity: Exploring Gender Differences among Australian Parents
+**年份**: 2026 | **DOI**: [10.1177/23780231261429664](https://doi.org/10.1177/23780231261429664)
+**作者**: Maciejewski, Linda
+**摘要**: In this longitudinal study the author investigates the association among work-to-family conflict (WTFC) and family-to-work conflict (FTWC), gender, and the frequency of physical activity among Australian parents.…
 
 ### Gender Egalitarianism and Marital Dissolution: Understanding the Bifurcation of the “Gender Revolution” in the United States
 **年份**: 2025 | **DOI**: [10.1177/23780231251372790](https://doi.org/10.1177/23780231251372790)

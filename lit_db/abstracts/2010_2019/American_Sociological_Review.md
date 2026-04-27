@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2010–2019 年文章（含摘要）
 
-共 **413** 篇
+共 **414** 篇
 
 ---
 
@@ -999,6 +999,11 @@
 **年份**: 2015 | **DOI**: [10.1177/0003122415601618](https://doi.org/10.1177/0003122415601618)
 **作者**: Foster, Jacob G.; Rzhetsky, Andrey; Evans, James A.
 **摘要**: What factors affect a scientist’s choice of research problem? Qualitative research in the history and sociology of science suggests that this choice is patterned by an “essential tension” between productive tradition and risky innovation.…
+
+### Elements of Professional Expertise
+**年份**: 2015 | **DOI**: [10.1177/0003122415601157](https://doi.org/10.1177/0003122415601157)
+**作者**: Sandefur, Rebecca L.
+**摘要**: Lawyers keep the gates of public justice institutions, particularly through their roles in formal procedures like hearings and trials. Yet, it is not clear what lawyers do in such quintessentially legal settings: conclusions from past research are bedeviled by a lack of clear theory and inconsistenc…
 
 ### Union Strength, Neoliberalism, and Inequality: Contingent Political Analyses of US Income Differences since 1950
 **年份**: 2014 | **DOI**: [10.1177/0003122414536392](https://doi.org/10.1177/0003122414536392)

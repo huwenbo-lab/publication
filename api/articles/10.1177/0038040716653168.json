@@ -1,0 +1,29 @@
+{
+  "title": "Schooling, Skills, and Self-rated Health",
+  "abstract": "Education is a key sociological variable in the explanation of health and health disparities. Conventional wisdom emphasizes a life course–human capital perspective with expectations of causal effects that are quasi-linear, large in magnitude for high levels of educational attainment, and reasonably robust in the face of measured and unmeasured explanatory factors. We challenge this wisdom by offering an alternative theoretical account and an empirical investigation organized around the role of measured and unmeasured cognitive and noncognitive skills as confounders in the association between educational attainment and health. Based on longitudinal data from the National Longitudinal Survey of Youth-1997 spanning mid-adolescence through early adulthood, results indicate that (1) effects of educational attainment are vulnerable to issues of omitted variable bias, (2) measured indicators of cognitive and noncognitive skills account for a significant proportion of the traditionally observed effect of educational attainment, (3) such skills have effects larger than that of even the highest levels of educational attainment when appropriate controls for unmeasured heterogeneity are incorporated, and (4) models that most stringently control for such time-stable abilities show little evidence of a substantive association between educational attainment and health.",
+  "authors": [
+    {
+      "raw": "Duke, Naomi",
+      "family": "Duke",
+      "given": "Naomi"
+    },
+    {
+      "raw": "Macmillan, Ross",
+      "family": "Macmillan",
+      "given": "Ross"
+    }
+  ],
+  "authors_text": "Duke, Naomi; Macmillan, Ross",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2016,
+  "doi": "10.1177/0038040716653168",
+  "doi_url": "https://doi.org/10.1177/0038040716653168",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040716653168",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040716653168.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  }
+}

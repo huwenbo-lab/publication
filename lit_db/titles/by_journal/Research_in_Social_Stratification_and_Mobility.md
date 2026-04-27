@@ -1,6 +1,6 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **861** 篇 | 年份范围：2001–2026
+共 **866** 篇 | 年份范围：2001–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -17,6 +17,9 @@
 - The long-term effects of adolescent work on adult socioeconomic attainment · [DOI](https://doi.org/10.1016/j.rssm.2026.101137)
 - Stratification of post-birth labour supply in a high- and low- maternal employment regime · [DOI](https://doi.org/10.1016/j.rssm.2026.101133)
 - Educational expansion, occupational upgrading, and the changing structure of education-occupation linkages in Sweden, 1960–2013 · [DOI](https://doi.org/10.1016/j.rssm.2026.101135)
+- Estimating the intersecting labor market disparities for justice-impacted individuals with disabilities: Evidence from two United States national data sets · [DOI](https://doi.org/10.1016/j.rssm.2026.101152)
+- The contingency of future vs. present orientation and status attainment · [DOI](https://doi.org/10.1016/j.rssm.2026.101151)
+- Place of education, revisited: Effects on earnings by nativity, race, and gender · [DOI](https://doi.org/10.1016/j.rssm.2026.101150)
 
 ## 2025
 
@@ -389,6 +392,7 @@
 - Employment opportunities for ex-offenders A field experiment on how type of crime and applicants' ethnic background affect employment opportunities for low-educated men in the Netherlands · [DOI](https://doi.org/10.1016/j.rssm.2020.100476)
 - Ethnic and social class discrimination in education: Experimental evidence from Germany · [DOI](https://doi.org/10.1016/j.rssm.2019.100461)
 - What works to reduce inequalities in higher education? A systematic review of the (quasi-)experimental literature on outreach and financial aid · [DOI](https://doi.org/10.1016/j.rssm.2019.100442)
+- Introduction: Experimental methods in social stratification research · [DOI](https://doi.org/10.1016/j.rssm.2020.100478)
 
 ## 2019
 
@@ -547,6 +551,7 @@
 - What makes education positional? Institutions, overeducation and the competition for jobs · [DOI](https://doi.org/10.1016/j.rssm.2015.09.005)
 - Congested credentials: The material and positional economies of schooling · [DOI](https://doi.org/10.1016/j.rssm.2016.03.002)
 - Educational attainment - relative or absolute - as a mediator of intergenerational class mobility in Britain · [DOI](https://doi.org/10.1016/j.rssm.2015.01.003)
+- Introduction to the special issue: Education as a positional good · [DOI](https://doi.org/10.1016/j.rssm.2016.03.003)
 
 ## 2015
 

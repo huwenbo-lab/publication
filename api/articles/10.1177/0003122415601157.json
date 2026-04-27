@@ -1,0 +1,24 @@
+{
+  "title": "Elements of Professional Expertise",
+  "abstract": "Lawyers keep the gates of public justice institutions, particularly through their roles in formal procedures like hearings and trials. Yet, it is not clear what lawyers do in such quintessentially legal settings: conclusions from past research are bedeviled by a lack of clear theory and inconsistencies in research design. Conceptualizing litigation work in terms of professional expertise, I conduct a theoretically grounded synthesis of the findings of extant studies of lawyers’ impact on civil case outcomes. Using an innovative combination of statistical techniques—meta-analysis and nonparametric bounding—the present study transcends previous work to reveal a domain of consensus for lawyers’ effect on case outcomes and to explore why this effect varies so greatly across past studies. For the types of cases researched to date, knowledge of substantive law explains surprisingly little of lawyers’ advantage compared to lay people appearing unrepresented. Instead, lawyers’ impact is greatest when they assist in navigating relatively simple (to lawyers) procedures and where their relational expertise helps courts follow their own rules. Findings for law generalize to other professions, where substantive and relational expertise may shape the conduct and consequences of professional work.",
+  "authors": [
+    {
+      "raw": "Sandefur, Rebecca L.",
+      "family": "Sandefur",
+      "given": "Rebecca L."
+    }
+  ],
+  "authors_text": "Sandefur, Rebecca L.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1177/0003122415601157",
+  "doi_url": "https://doi.org/10.1177/0003122415601157",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122415601157",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122415601157.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  }
+}

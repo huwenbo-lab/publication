@@ -1,0 +1,34 @@
+{
+  "title": "More Education and Fewer Children? The Contribution of Educational Enrollment and Attainment to the Fertility Decline in Norway",
+  "abstract": "Abstract Period fertility has declined rapidly in Norway in the 2010s, reaching record lows. Although there is a clear education‒fertility dynamic, significant educational shifts have occurred and it is unclear how much this contributed to recent fertility declines. To disentangle this, we utilize high-quality Norwegian register data and model yearly transitions between educational enrollment, educational attainment, and childbearing for men and women born in 1964‒2006. Using a counterfactual simulation approach, we explore the contribution of educational expansion versus lower fertility within educational groups to the decline in period and cohort fertility. Forecasting is used to complete fertility for cohorts aged 30+. We found that educational expansion contributed partially to the observed cohort fertility decline (2.11 to 1.98 children) for 1964‒1978 female cohorts but stagnated for younger cohorts. The predicted decline thereafter (to 1.59 children by the 1992 cohort), as well as the 2010s period fertility decline, was fully driven by decreased fertility across educational levels. For men, educational expansion was slower and did not contribute to fertility decline. For both genders, the contribution of changed fertility behavior was strongest among the low and medium educated, particularly for predicted ultimate childlessness. Our results suggest that increased education is not the main fertility barrier in contemporary Norway. Instead, falling birth rates, particularly among lower educated groups, are driving the fertility decline for both genders.",
+  "authors": [
+    {
+      "raw": "Beck, Kathryn Christine",
+      "family": "Beck",
+      "given": "Kathryn Christine"
+    },
+    {
+      "raw": "Hellstrand, Julia",
+      "family": "Hellstrand",
+      "given": "Julia"
+    },
+    {
+      "raw": "Myrskylä, Mikko",
+      "family": "Myrskylä",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Beck, Kathryn Christine; Hellstrand, Julia; Myrskylä, Mikko",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2026,
+  "doi": "10.1215/00703370-12475875",
+  "doi_url": "https://doi.org/10.1215/00703370-12475875",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12475875",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12475875.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Antibiotic Pollution and Infant Mortality in India: A Research Note",
+  "abstract": "Abstract The number of deaths from antibiotic resistance is steadily rising and has become a global public health issue. Children in low- and middle-income countries are disproportionately affected, as last-line antibiotics are usually unavailable to them. Pollution of riverways caused by pharmaceutical products is one driver of antibiotic resistance. In this research note, we assess whether this channel contributes significantly to infant mortality in India. We show that living downstream of a producer increases the risk of infant mortality by 16% and that antibiotic production explains 17,000 infant deaths in India per year. These findings suggest that better monitoring, stronger regulations, improved production processes, and strategic considerations on the location of antibiotic producers are needed to ensure that production does not induce negative externalities on the local population.",
+  "authors": [
+    {
+      "raw": "Dumas, Christelle",
+      "family": "Dumas",
+      "given": "Christelle"
+    },
+    {
+      "raw": "Játiva, Ximena",
+      "family": "Játiva",
+      "given": "Ximena"
+    },
+    {
+      "raw": "Baumgartner, Stefanie",
+      "family": "Baumgartner",
+      "given": "Stefanie"
+    }
+  ],
+  "authors_text": "Dumas, Christelle; Játiva, Ximena; Baumgartner, Stefanie",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2026,
+  "doi": "10.1215/00703370-12459254",
+  "doi_url": "https://doi.org/10.1215/00703370-12459254",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12459254",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12459254.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  }
+}

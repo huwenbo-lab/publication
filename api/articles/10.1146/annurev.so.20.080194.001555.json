@@ -1,0 +1,29 @@
+{
+  "title": "Multilevel Models: Methods and Substance",
+  "abstract": "This paper reviews recent developments in the application of multilevel models to substantive problems in sociology. There is no single multilevel model in sociology, but rather a set of more or less closely related approaches for exploring the link between the macro and micro levels of social phenomena. Methodological developments of the last ten years are discussed and contrasted with older methods. Illustrative examples of how multilevel analysis has contributed to sociological knowledge are provided for several areas of the discipline, including demography, education, stratification, and criminology. Cautions in the use of these models for empirical research are discussed, along with possible further developments.",
+  "authors": [
+    {
+      "raw": "DiPrete, Thomas A.",
+      "family": "DiPrete",
+      "given": "Thomas A."
+    },
+    {
+      "raw": "Forristal, Jerry D.",
+      "family": "Forristal",
+      "given": "Jerry D."
+    }
+  ],
+  "authors_text": "DiPrete, Thomas A.; Forristal, Jerry D.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 1994,
+  "doi": "10.1146/annurev.so.20.080194.001555",
+  "doi_url": "https://doi.org/10.1146/annurev.so.20.080194.001555",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.so.20.080194.001555",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.so.20.080194.001555.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": ""
+  }
+}

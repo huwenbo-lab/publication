@@ -1,0 +1,34 @@
+{
+  "title": "Beyond Lifelong Marriage and Spousal Coresidence: A Research Note on Racial and Ethnic Differences in Late-Life Family and Living Arrangements",
+  "abstract": "Abstract We employ an innovative Bayesian multistate life table approach to examine how race, ethnicity, and sex shape marital status and living arrangements in later life. Using the Health and Retirement Study (1992–2018), we estimate expected years spent in various marital and living arrangements after age 50. Our findings reveal stark disparities: White adults largely follow traditional patterns, spending most of their later years married and living with a spouse. In contrast, Black adults experience the shortest durations of marriage and spousal coresidence, spending much of later life alone or with nonspouse family members. Hispanic adults occupy an intermediate position, maintaining substantial years in marriage while also spending extended time in multigenerational households. These patterns are further stratified by sex, with minority females experiencing significantly fewer years married and living with a spouse than males, amplifying their reliance on alternative family support structures. These findings highlight how the intersection of race, ethnicity, and sex shapes later life social and economic security, emphasizing the need for policies that account for diverse family structures in aging populations.",
+  "authors": [
+    {
+      "raw": "Wang, Xueqing",
+      "family": "Wang",
+      "given": "Xueqing"
+    },
+    {
+      "raw": "Zhang, Xuezhixing",
+      "family": "Zhang",
+      "given": "Xuezhixing"
+    },
+    {
+      "raw": "Zang, Emma",
+      "family": "Zang",
+      "given": "Emma"
+    }
+  ],
+  "authors_text": "Wang, Xueqing; Zhang, Xuezhixing; Zang, Emma",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2026,
+  "doi": "10.1215/00703370-12458349",
+  "doi_url": "https://doi.org/10.1215/00703370-12458349",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12458349",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12458349.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  }
+}

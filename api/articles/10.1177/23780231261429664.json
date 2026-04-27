@@ -1,0 +1,24 @@
+{
+  "title": "Work-Family Conflict and Physical Activity: Exploring Gender Differences among Australian Parents",
+  "abstract": "In this longitudinal study the author investigates the association among work-to-family conflict (WTFC) and family-to-work conflict (FTWC), gender, and the frequency of physical activity among Australian parents. On the basis of the stress process theory and the conservation of resources theory , higher work-family conflict will likely lead to decreased physical activity because of limited resources. Gender differences are hypothesized, reflecting gendered role identification with work and family. The analysis uses data from 6,370 employed parents in the Household, Income and Labour Dynamics in Australia Survey, using ordered logit regression models with fixed effects. The results show that both WTFC and FTWC are negatively associated with physical activity. Gendered patterns are observed: whereas WTFC is associated with reduced physical activity among fathers and mothers, FTWC is only negatively associated with physical activity among mothers. These findings emphasize the importance to consider conflict directions and gender when examining health behaviors. Physical activity might represent another competing domain, causing a work-family-health conflict.",
+  "authors": [
+    {
+      "raw": "Maciejewski, Linda",
+      "family": "Maciejewski",
+      "given": "Linda"
+    }
+  ],
+  "authors_text": "Maciejewski, Linda",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2026,
+  "doi": "10.1177/23780231261429664",
+  "doi_url": "https://doi.org/10.1177/23780231261429664",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231261429664",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231261429664.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  }
+}

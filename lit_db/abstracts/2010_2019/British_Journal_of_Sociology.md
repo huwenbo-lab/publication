@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **589** 篇
+共 **590** 篇
 
 ---
 
@@ -434,6 +434,11 @@
 **年份**: 2019 | **DOI**: [10.1111/1468-4446.12713](https://doi.org/10.1111/1468-4446.12713)
 **作者**: Savage, Mike
 **摘要**: AbstractThis paper responds to Nick Gane's “Against a descriptive turn”. I argue that descriptive research strategies are more open and inclusive than those which purport to be causal where explanatory adequacy is assessed by expert insiders.…
+
+### On culture and inequality: distinction, omnivorousness, status and class
+**年份**: 2019 | **DOI**: [10.1111/1468-4446.12678](https://doi.org/10.1111/1468-4446.12678)
+**作者**: Laurison, Daniel
+**摘要**: （暂无）
 
 ### Strategic ignorance and global governance: an ecumenical approach to epistemologies of global power
 **年份**: 2018 | **DOI**: [10.1111/1468-4446.12504](https://doi.org/10.1111/1468-4446.12504)

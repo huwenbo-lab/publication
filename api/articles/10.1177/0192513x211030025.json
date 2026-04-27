@@ -1,0 +1,24 @@
+{
+  "title": "Does Family Decision-Making Power Improve Women’s Happiness?",
+  "abstract": "It is almost a consensus that the stronger family decision-making power a woman has, the happier she will be. While using the China Family Panel Studies, this study reveals a long-overlooked fact that women’s control over more family decision-making power does not necessarily improve their happiness. The results of the ordinary least squares and ordinal logit model confirm this finding, and the propensity score matching method corroborates the conclusion. Heterogeneity analysis shows that among those women with less education and lower social status, the negative happiness effect of women’s family decision-making power is particularly significant. Women’s traditional attitudes and self-esteem are two important factors which hinder women’s family decision-making power from enhancing their happiness.",
+  "authors": [
+    {
+      "raw": "Li, Zhongwu",
+      "family": "Li",
+      "given": "Zhongwu"
+    }
+  ],
+  "authors_text": "Li, Zhongwu",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2021,
+  "doi": "10.1177/0192513x211030025",
+  "doi_url": "https://doi.org/10.1177/0192513x211030025",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x211030025",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x211030025.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  }
+}

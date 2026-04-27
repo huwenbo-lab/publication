@@ -1,0 +1,24 @@
+{
+  "title": "Beyond absolute education: relative educational attainment and perceived discrimination among immigrants",
+  "abstract": "Abstract The integration paradox—the positive association between absolute education and perceived discrimination among more visible immigrant groups—has been a central puzzle in migration research. This study asks whether this pattern truly reflects absolute education, as prior work assumes, or whether it is in fact driven by a factor with which it strongly correlates: immigrants’ relative premigration education, defined as their position within the educational distribution of their country of origin. Using survey data on immigrants in France (TeO1 and TeO2) and across 14 European countries (EU MIDIS II), two key findings emerge. First, relative education is positively and significantly associated with perceived discrimination among more visible immigrant groups. Second, once relative education is taken into account, the association between absolute education and discrimination becomes statistically insignificant, suggesting that, where distinguishable, education is better understood as relative rather than absolute effect. Additional analyses provide evidence that status loss—measured as the gap between subjective social status in origin and destination countries—is linked to stronger perceptions of discrimination, lending cautious support to the proposed mechanism of relative education. More broadly, the findings invite a reconceptualization of education: not only as an absolute good that brings skills and awareness, but also as a positional good, where expectations and social comparisons shape perceptions of discrimination. While this study focuses on immigrants’ premigration education, the positional perspective may also help explain positive educational gradients in perceived discrimination among the second generation and among other groups, such as women.",
+  "authors": [
+    {
+      "raw": "van Tubergen, Frank",
+      "family": "van Tubergen",
+      "given": "Frank"
+    }
+  ],
+  "authors_text": "van Tubergen, Frank",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2026,
+  "doi": "10.1093/esr/jcaf054",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  }
+}

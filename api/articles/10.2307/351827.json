@@ -1,0 +1,29 @@
+{
+  "title": "Marital Quality: A Review of the Seventies",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Spanier, Graham B.",
+      "family": "Spanier",
+      "given": "Graham B."
+    },
+    {
+      "raw": "Lewis, Robert A.",
+      "family": "Lewis",
+      "given": "Robert A."
+    }
+  ],
+  "authors_text": "Spanier, Graham B.; Lewis, Robert A.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 1980,
+  "doi": "10.2307/351827",
+  "doi_url": "https://doi.org/10.2307/351827",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F351827",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/351827.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": ""
+  }
+}

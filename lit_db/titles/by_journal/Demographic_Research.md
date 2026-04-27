@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1835** 篇 | 年份范围：1999–2026
+共 **1843** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -8,6 +8,11 @@
 ## 2026
 
 - The groupwise decomposition: Estimating group-specific contributions to differences between demographic measures · [DOI](https://doi.org/10.4054/demres.2026.54.14)
+- Settlement intentions of Ukrainian refugees in Germany: Adhering to social status back home or restarting again abroad? · [DOI](https://doi.org/10.4054/demres.2026.54.16)
+- Spatial perspective on environmental migration: Empirical insights from a spatiotemporal approach in the United States, 1970–2010 · [DOI](https://doi.org/10.4054/demres.2026.54.27)
+- Bayesian multidimensional mortality reconstruction · [DOI](https://doi.org/10.4054/demres.2026.54.28)
+- “Family-Anchored” transitions to adult life in Mexico · [DOI](https://doi.org/10.4054/demres.2026.54.2)
+- Probabilistic population forecasts for small regions · [DOI](https://doi.org/10.4054/demres.2026.54.23)
 
 ## 2025
 
@@ -81,6 +86,7 @@
 - Analysing migrant fertility using machine learning techniques: An application of random survival forest to longitudinal data from France · [DOI](https://doi.org/10.4054/demres.2025.53.21)
 - Amish fertility in the United States: Comparative evidence from the American Community Survey and Amish population registries · [DOI](https://doi.org/10.4054/demres.2025.52.26)
 - Life expectancy by religious affiliation in Finland 1972-2020 · [DOI](https://doi.org/10.4054/demres.2025.52.17)
+- Uncertainty, resilience, and fertility: Perceived capacity to overcome loss of employment and fertility intentions in Sweden, 2021 · [DOI](https://doi.org/10.4054/demres.2025.53.31)
 
 ## 2024
 
@@ -1042,6 +1048,8 @@
 - The low importance of marriage in eastern Germany - social norms and the role of peoples' perceptions of the past · [DOI](https://doi.org/10.4054/demres.2015.33.9)
 - Reconstructing trends in international migration with three questions in household surveys · [DOI](https://doi.org/10.4054/demres.2015.32.35)
 - On the age-specific correlation between fertility and female employment · [DOI](https://doi.org/10.4054/demres.2015.32.23)
+- Migration signatures across the decades · [DOI](https://doi.org/10.4054/demres.2015.32.38)
+- Quality of demographic data in GGS Wave 1 · [DOI](https://doi.org/10.4054/demres.2015.32.24)
 
 ## 2014
 

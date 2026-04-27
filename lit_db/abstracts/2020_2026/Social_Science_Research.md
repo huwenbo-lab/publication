@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2020–2026 年文章（含摘要）
 
-共 **530** 篇
+共 **533** 篇
 
 ---
 
@@ -98,6 +98,21 @@
 ### The gender system: A cross-national perspective
 **年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103344](https://doi.org/10.1016/j.ssresearch.2026.103344)
 **作者**: Quintana, Rafael
+**摘要**: （暂无）
+
+### Childhood exposure to local wealth inequality, economic isolation in schools, and inter-class social ties in adulthood
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103355](https://doi.org/10.1016/j.ssresearch.2026.103355)
+**作者**: Schechtl, Manuel
+**摘要**: （暂无）
+
+### Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103347](https://doi.org/10.1016/j.ssresearch.2026.103347)
+**作者**: Lee, Hyo Joo
+**摘要**: （暂无）
+
+### Gendered work and family trajectories: How do STEM graduates fare in the labor market?
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103345](https://doi.org/10.1016/j.ssresearch.2026.103345)
+**作者**: Weber, Rosa; Härtull, Camilla; Saarela, Jan
 **摘要**: （暂无）
 
 ### Who do they think you are? Inconsistencies in self-and proxy-reports of education within families

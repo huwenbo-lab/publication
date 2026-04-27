@@ -1,0 +1,29 @@
+{
+  "title": "The Sociology of Interpretation",
+  "abstract": "Recent years have seen a growing sociological interest in meaning. In fact, some argue that sociology cannot confront its foundational questions without addressing meaning. Yet sociologists mean many things when they talk about meaning. We propose a practical approach that conceptualizes meaning as an instance of an actor interpreting a stimulus. Reviewing existing literature, we find that most sociological accounts understand interpretation either as categorization or as semantic association. We show that an integrated approach is analytically useful for conceptualizing shared interpretation and the process by which people coordinate their interpretations. This provides a framework for addressing interpretative heterogeneity when studying attitudinal or behavioral variance. We conclude by highlighting how recent advances in computational linguistics have opened exciting new possibilities for the study of interpretation, and suggest several avenues for future research.",
+  "authors": [
+    {
+      "raw": "Goldberg, Amir",
+      "family": "Goldberg",
+      "given": "Amir"
+    },
+    {
+      "raw": "Singell, Madison H.",
+      "family": "Singell",
+      "given": "Madison H."
+    }
+  ],
+  "authors_text": "Goldberg, Amir; Singell, Madison H.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2024,
+  "doi": "10.1146/annurev-soc-020321-030515",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-020321-030515",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-020321-030515",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-020321-030515.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Annual_Review_of_Sociology.md"
+  }
+}

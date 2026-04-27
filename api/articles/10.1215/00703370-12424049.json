@@ -1,0 +1,24 @@
+{
+  "title": "A Research Note on Loneliness as a Driver of International Migration: Prospective Evidence From the Netherlands",
+  "abstract": "Abstract The well-established finding that migrants tend to be lonelier than their counterparts without a migration background in the country of settlement is typically ascribed to challenges that come with international migration. This study's point of departure is that migrants’ high levels of loneliness may, in part, also reflect what could be called a “lonely migrant effect,” that is, selection of lonely people into international migration. Selection of this kind was assessed using the 2012 and 2016 rounds of the Dutch Public Health Monitor (n = 685,088), enriched with administrative data on emigration in the three years following survey data collection. Overall, 2,401 respondents emigrated from the Netherlands in this period. Emigration was regressed on respondents’ baseline loneliness scores in logistic regression models adjusted for various potential confounders. Results indicate that people who were lonely, as indicated by a 3+ score on the De Jong Gierveld loneliness scale, were approximately 1.27 times as likely as their nonlonely peers to emigrate in the observed period. No significant differences were found between people who were moderately lonely and people who were severely lonely. These findings suggest that elevated loneliness among migrants may partly reflect preexisting loneliness and should be interpreted with this selection effect in mind.",
+  "authors": [
+    {
+      "raw": "van den Broek, Thijs",
+      "family": "van den Broek",
+      "given": "Thijs"
+    }
+  ],
+  "authors_text": "van den Broek, Thijs",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2026,
+  "doi": "10.1215/00703370-12424049",
+  "doi_url": "https://doi.org/10.1215/00703370-12424049",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12424049",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12424049.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  }
+}
