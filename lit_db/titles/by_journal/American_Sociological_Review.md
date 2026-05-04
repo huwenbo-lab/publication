@@ -1,6 +1,6 @@
 # American Sociological Review — 文章标题索引
 
-共 **1158** 篇 | 年份范围：1940–2026
+共 **1185** 篇 | 年份范围：1940–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -91,6 +91,7 @@
 - It's a Battle You Can't Win: Domination and Class Differences in Real-World Trust among Black Families · [DOI](https://doi.org/10.1177/00031224241278355)
 - Reiterated Fact-Making: Explaining Transformation and Continuity in Scientific Facts · [DOI](https://doi.org/10.1177/00031224241271100)
 - Cultural Tariffing: Appropriation and the Right to Cross Cultural Boundaries · [DOI](https://doi.org/10.1177/00031224231225665)
+- Acknowledgment of Referees · [DOI](https://doi.org/10.1177/00031224241291634)
 
 ## 2023
 
@@ -211,6 +212,7 @@
 - Marriage and Masculinity: Male-Breadwinner Culture, Unemployment, and Separation Risk in 29 Countries · [DOI](https://doi.org/10.1177/00031224211012442)
 - Does Schooling Decrease Socioeconomic Inequality in Early Achievement? A Differential Exposure Approach · [DOI](https://doi.org/10.1177/00031224211049188)
 - There Is an Eye on Us: International Imitation, Popular Representation, and the Regulation of Homosexuality in Senegal · [DOI](https://doi.org/10.1177/00031224211026546)
+- Relative to Whom? Comment on “Relative Education and the Advantage of a College Degree” · [DOI](https://doi.org/10.1177/00031224211042326)
 
 ## 2020
 
@@ -522,6 +524,7 @@
 - Why Status Matters for Inequality · [DOI](https://doi.org/10.1177/0003122413515997)
 - House of Green Cards: Statistical or Preference-Based Inequality in the Employment of Foreign Nationals · [DOI](https://doi.org/10.1177/0003122414553656)
 - Local Ethnic Composition and Natives' and Immigrants' Geographic Mobility in France, 1982-1999 · [DOI](https://doi.org/10.1177/0003122413514750)
+- Acknowledgment of Referees · [DOI](https://doi.org/10.1177/0003122414557779)
 
 ## 2013
 
@@ -653,6 +656,7 @@
 - Neighborhood Effects in Temporal Perspective: The Impact of Long-Term Exposure to Concentrated Disadvantage on High School Graduation · [DOI](https://doi.org/10.1177/0003122411420816)
 - Money, Moral Authority, and the Politics of Creditworthiness · [DOI](https://doi.org/10.1177/0003122411407737)
 - The Initial Assignment Effect: Local Employer Practices and Positive Career Outcomes for Work-Family Program Users · [DOI](https://doi.org/10.1177/0003122411401250)
+- Acknowledgment of Referees · [DOI](https://doi.org/10.1177/0003122411431065)
 
 ## 2010
 
@@ -820,6 +824,7 @@
 - Block, tract, and levels of aggregation: Neighborhood structure and crime and disorder as a case in point · [DOI](https://doi.org/10.1177/000312240707200501)
 - How Puerto Rico became white: Boundary dynamics and intercensus racial reclassification · [DOI](https://doi.org/10.1177/000312240707200604)
 - The implications of racial misclassification by observers · [DOI](https://doi.org/10.1177/000312240707200505)
+- Index · [DOI](https://doi.org/10.1177/000312240707200609)
 
 ## 2006
 
@@ -860,6 +865,9 @@
 - National context, religiosity, and volunteering: Results from 53 countries · [DOI](https://doi.org/10.1177/000312240607100202)
 - Fair inequality? Attitudes toward pay differentials: The United States in comparative perspective · [DOI](https://doi.org/10.1177/000312240607100305)
 - Scar effects of unemployment: An assessment of institutional complementarities · [DOI](https://doi.org/10.1177/000312240607100606)
+- Cultural Assets or Structural Advantages in Numbers Gambling? · [DOI](https://doi.org/10.1177/000312240607100107)
+- Free-Market and Religious Fundamentalists versus Poor Relief · [DOI](https://doi.org/10.1177/000312240607100309)
+- The Dynamics of Economic Disadvantage and Children's Life Chances · [DOI](https://doi.org/10.1177/000312240607100507)
 
 ## 2005
 
@@ -894,6 +902,8 @@
 - Aiding peace, abetting violence: Third parties and the management of conflict · [DOI](https://doi.org/10.1177/000312240507000207)
 - The legacy of lynching and southem homicide · [DOI](https://doi.org/10.1177/000312240507000405)
 - A comparative study of inequality and corruption · [DOI](https://doi.org/10.1177/000312240507000107)
+- Civic Associations and Authoritarian Regimes in Interwar Europe: Italy and Spain in Comparative Perspective · [DOI](https://doi.org/10.1177/000312240507000205)
+- Constructing Social Problems in an Age of Globalization: A French-American Comparison · [DOI](https://doi.org/10.1177/000312240507000203)
 
 ## 2004
 
@@ -932,6 +942,8 @@
 - Race, gender, and workplace power · [DOI](https://doi.org/10.1177/000312240406900303)
 - Tightening up: Declining class mobility during Russia's market transition · [DOI](https://doi.org/10.1177/000312240406900504)
 - The social construction of market value: Institutionalization and learning perspectives on stock market reactions · [DOI](https://doi.org/10.1177/000312240406900306)
+- Reply to Bienenstock and McBride: Cultural Transmission, Disproportionate Prior Exposure, and the Evolution of Cooperation · [DOI](https://doi.org/10.1177/000312240406900109)
+- The Political Economy of Imprisonment in Affluent Western Democracies, 1960—1990 · [DOI](https://doi.org/10.1177/000312240406900309)
 
 ## 2003
 
@@ -1009,6 +1021,8 @@
 - Who is Multiracial? Assessing the Complexity of Lived Race · [DOI](https://doi.org/10.1177/000312240206700407)
 - The Impact of Incarceration on Wage Mobility and Inequality · [DOI](https://doi.org/10.1177/000312240206700403)
 - Why More Americans Have No Religious Preference: Politics and Generations · [DOI](https://doi.org/10.1177/000312240206700201)
+- Assessing Alternative Perspectives on Race and Sex Employment Segregation · [DOI](https://doi.org/10.1177/000312240206700404)
+- Social Integration, Imitation, and the Geographic Patterning of Suicide · [DOI](https://doi.org/10.1177/000312240206700605)
 
 ## 2001
 
@@ -1048,6 +1062,7 @@
 - Losers and winners: The financial consequences of separation and divorce for men · [DOI](https://doi.org/10.2307/2657417)
 - The structure of disadvantage: Individual and occupational determinants of the black-white wage gap · [DOI](https://doi.org/10.2307/3088922)
 - Powerlessness and the Amplification of Threat: Neighborhood Disadvantage, Disorder, and Mistrust · [DOI](https://doi.org/10.1177/000312240106600405)
+- What is Gender? · [DOI](https://doi.org/10.1177/000312240106600407)
 
 ## 2000
 
@@ -1096,6 +1111,10 @@
 - Is Engineering Hostile to Women? An Analysis of Data from the 1993 National Survey of College Graduates · [DOI](https://doi.org/10.1177/000312240006500210)
 - The Hidden Abode: Sociology as Analysis of the Unexpected · [DOI](https://doi.org/10.1177/000312240006500102)
 - A New Solution to the Collective Action Problem: The Paradox of Voter Turnout · [DOI](https://doi.org/10.1177/000312240006500306)
+- Still the Missing Feminist Revolution? Inequalities of Race, Class, and Gender in Introductory Sociology Textbooks · [DOI](https://doi.org/10.1177/000312240006500309)
+- Leveraging the State: Private Money and the Development of Public Education for Blacks · [DOI](https://doi.org/10.1177/000312240006500503)
+- More or Less Educational Homogamy? A Test of Different Versions of Modernization Theory Using Cross-Temporal Evidence for 60 Countries · [DOI](https://doi.org/10.1177/000312240006500509)
+- Erratum · [DOI](https://doi.org/10.1177/000312240006500607)
 
 ## 1999
 
@@ -1103,6 +1122,7 @@
 - Embeddedness in the Making of Financial Capital: How Social Relations and Networks Benefit Firms Seeking Financing · [DOI](https://doi.org/10.2307/2657252)
 - Bureaucracy and Growth: A Cross-National Analysis of the Effects of "Weberian" State Structures on Economic Growth · [DOI](https://doi.org/10.2307/2657374)
 - Choice Shift and Group Polarization · [DOI](https://doi.org/10.1177/000312249906400606)
+- Organizational Mediation of Project-Based Labor Markets: Talent Agencies and the Careers of Screenwriters · [DOI](https://doi.org/10.1177/000312249906400106)
 
 ## 1998
 
@@ -1147,6 +1167,7 @@
 
 - The Seeds of Weak Power: An Extension of Network Exchange Theory · [DOI](https://doi.org/10.2307/2095966)
 - Booing: The Anatomy of a Disaffiliative Response · [DOI](https://doi.org/10.2307/2096221)
+- Money in the Bank: Transaction Costs and the Economic Organization of Marriage · [DOI](https://doi.org/10.2307/2096283)
 
 ## 1992
 
@@ -1156,6 +1177,7 @@
 - Summer Setback: Race, Poverty, School Composition, and Mathematics Achievement in the First Two Years of School · [DOI](https://doi.org/10.2307/2096145)
 - A Very Straight Gay: Masculinity, Homosexual Experience, and the Dynamics of Gender · [DOI](https://doi.org/10.2307/2096120)
 - Status Inconsistency in Task Situations: A Test of Four Status Processing Principles · [DOI](https://doi.org/10.2307/2096127)
+- The Social Organization of Sociological Knowledge: Modeling the Intersection of Specialties · [DOI](https://doi.org/10.2307/2096209)
 
 ## 1991
 
@@ -1199,6 +1221,8 @@
 - Rethinking Internal Labor Markets: New Insights from a Comparative Perspective · [DOI](https://doi.org/10.2307/2095583)
 - Structure as Process: Organization and Role · [DOI](https://doi.org/10.2307/2095494)
 - Income Inequality and Political Violence Reconsidered · [DOI](https://doi.org/10.2307/2095315)
+- On the Uses of Social Science Research · [DOI](https://doi.org/10.2307/2095587)
+- Voluntaristic Action as a Distinct Concept: Theoretical Foundations of Societal Constitutionalism · [DOI](https://doi.org/10.2307/2095365)
 
 ## 1985
 
@@ -1269,6 +1293,7 @@
 - Participation and Leadership in Small Groups · [DOI](https://doi.org/10.2307/2094156)
 - Revival Religion and Antislavery Politics · [DOI](https://doi.org/10.2307/2094230)
 - The Structure of Interorganizational Elite Cooptation: Interlocking Corporate Directorates · [DOI](https://doi.org/10.2307/2094297)
+- Bringing Beasts Back In: Toward a Biosocial Theory of Aggression · [DOI](https://doi.org/10.2307/2094152)
 
 ## 1973
 
@@ -1308,6 +1333,7 @@
 - The Cohort as a Concept in the Study of Social Change · [DOI](https://doi.org/10.2307/2090964)
 - Industrial Jobs and the Worker: An Investigation of Response to Task Attributes. · [DOI](https://doi.org/10.2307/2091181)
 - Durkheim's One Cause of Suicide · [DOI](https://doi.org/10.2307/2090966)
+- Max Weber and Empirical Social Research · [DOI](https://doi.org/10.2307/2091563)
 
 ## 1963
 
@@ -1369,6 +1395,7 @@
 
 - Organizational Structure and Employe Morale · [DOI](https://doi.org/10.2307/2086780)
 - Cultural Factors in the Selection of Marriage Mates · [DOI](https://doi.org/10.2307/2086915)
+- The Sociology of Georg Simmel. · [DOI](https://doi.org/10.2307/2086932)
 
 ## 1949
 

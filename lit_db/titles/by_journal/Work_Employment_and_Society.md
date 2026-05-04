@@ -1,6 +1,6 @@
 # Work, Employment and Society — 文章标题索引
 
-共 **2351** 篇 | 年份范围：1990–2026
+共 **2354** 篇 | 年份范围：1990–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2427,12 +2427,17 @@
 - The Transition from Organisational Employment to Portfolio Working: Perceptions of `Boundarylessness' · [DOI](https://doi.org/10.1177/09500179922117962)
 - Contingent Workers and Health and Safety · [DOI](https://doi.org/10.1177/09500179922118024)
 
+## 1998
+
+- Self-Employment and Home Ownership after the Enterprise Culture · [DOI](https://doi.org/10.1177/0950017098121005)
+
 ## 1997
 
 - Checking Out Service: Evaluating Excellence, HRM and TQM in Retailing · [DOI](https://doi.org/10.1177/0950017097113005)
 - Youth, Gender and Part-Time Work-Students in the Labour Process · [DOI](https://doi.org/10.1177/0950017097114001)
 - The Family Enterprise and Business Strategies · [DOI](https://doi.org/10.1177/0950017097114005)
 - Who Decides What? Decision Making in Dual-Career Households · [DOI](https://doi.org/10.1177/0950017097112006)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017097011004022)
 
 ## 1996
 
@@ -2442,6 +2447,7 @@
 
 - Employees' Perspectives on One Dimension of Labour Flexibility: Working at a Distance · [DOI](https://doi.org/10.1177/095001709593003)
 - Self-Employment Career Dynamics: The Case of `Unemployment Push' in UK Book Publishing · [DOI](https://doi.org/10.1177/095001709593004)
+- Cultural Capital and Social Exclusion: Some Observations on Recent Trends in Education, Employment and the Labour Market · [DOI](https://doi.org/10.1177/0950017095009001003)
 
 ## 1994
 

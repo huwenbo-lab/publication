@@ -1,0 +1,29 @@
+{
+  "title": "The Sociology of Markets",
+  "abstract": "The sociology of markets has been one of the most vibrant fields in sociology in the past 25 years. There is a great deal of agreement that markets are social structures characterized by extensive social relationships between firms, workers, suppliers, customers, and governments. But, like in many sociological literatures, the theory camps that have formed often seem to speak by each other. We show that some of the disagreement between theory camps is due to differences in conceptual language, and other disagreements stem from the fact that theory camps ignore the concepts in other theory camps, thereby making their theories less complete. We end by considering deeper controversies in the literature that seem open both to new conceptualization and further empirical research.",
+  "authors": [
+    {
+      "raw": "Fligstein, Neil",
+      "family": "Fligstein",
+      "given": "Neil"
+    },
+    {
+      "raw": "Dauter, Luke",
+      "family": "Dauter",
+      "given": "Luke"
+    }
+  ],
+  "authors_text": "Fligstein, Neil; Dauter, Luke",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2007,
+  "doi": "10.1146/annurev.soc.33.040406.131736",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.33.040406.131736",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.33.040406.131736",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.33.040406.131736.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  }
+}

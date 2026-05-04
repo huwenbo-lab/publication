@@ -1,7 +1,7 @@
 # Chinese Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **143** 篇
+共 **148** 篇
 
 ---
 
@@ -39,6 +39,16 @@
 **年份**: 2026 | **DOI**: [10.1177/2057150x261437977](https://doi.org/10.1177/2057150x261437977)
 **作者**: Chen, Jia; Du, Ping
 **摘要**: As major actors in intergenerational co-parenting, grandparents shape co-parenting relationships through daily interactions, but the specific mechanisms of this have yet to be fully discussed.…
+
+### When artificial intelligence makes everything similar: The risks of content homogenization
+**年份**: 2026 | **DOI**: [10.1177/2057150x261419573](https://doi.org/10.1177/2057150x261419573)
+**作者**: Xie, Yu; Xie, Yueqi
+**摘要**: Generative artificial intelligence (AI) models will increasingly replace humans in producing output for a variety of important tasks. While much prior work has mostly focused on the improvement in the average performance of generative AI models relative to humans’ performance, much less attention ha…
+
+### Born to work longer? Lifetime socioeconomic dynamics, pension eligibility, and late-life employment in urban China
+**年份**: 2026 | **DOI**: [10.1177/2057150x261420939](https://doi.org/10.1177/2057150x261420939)
+**作者**: Zhou, Shuai; Bai, Xue
+**摘要**: The expansion of an extended working life has been reported worldwide. While retirement researchers discuss socioeconomic inequalities in late careers in affluent Western countries, unequal retirement decisions in China have attracted growing attention.…
 
 ### Scholars like any other? An inquiry into productivity and citations in the field of contemporary China studies
 **年份**: 2025 | **DOI**: [10.1177/2057150X251345124](https://doi.org/10.1177/2057150X251345124)
@@ -155,6 +165,11 @@
 **作者**: Hou, Yuxin; Huang, Junming
 **摘要**: Text data has been a longstanding pivotal source for social science research, providing an informative lens across disciplines including sociology, psychology, and political science.…
 
+### AI's dual impact: Transforming society and social sciences
+**年份**: 2025 | **DOI**: [10.1177/2057150x251316601](https://doi.org/10.1177/2057150x251316601)
+**作者**: Cai, Tianji; Huang, Junming
+**摘要**: （暂无）
+
 ### The shackles of gender still exist: Chinese women authors' consciousness in boys' love fiction
 **年份**: 2024 | **DOI**: [10.1177/2057150X241226736](https://doi.org/10.1177/2057150X241226736)
 **作者**: Ma, Wen; Chen, Zhuo; Li, Ying 等5人
@@ -269,6 +284,11 @@
 **年份**: 2024 | **DOI**: [10.1177/2057150X231223288](https://doi.org/10.1177/2057150X231223288)
 **作者**: Lu, Yunfeng; Sheng, He
 **摘要**: This paper reviews research on the sociology of religion in China since the beginning of the new century. In terms of theoretical research, there are three main themes: first, research focusing on C. K.…
+
+### Introduction to the special issue on health and aging in China
+**年份**: 2024 | **DOI**: [10.1177/2057150x241273713](https://doi.org/10.1177/2057150x241273713)
+**作者**: Zheng, Hui; Li, Ting
+**摘要**: （暂无）
 
 ### Power space and governance performance: An analysis based on the Shanghai Urban Neighborhood Survey
 **年份**: 2023 | **DOI**: [10.1177/2057150X221150141](https://doi.org/10.1177/2057150X221150141)
@@ -489,6 +509,11 @@
 **年份**: 2022 | **DOI**: [10.1177/2057150x221111523](https://doi.org/10.1177/2057150x221111523)
 **作者**: Luo, Muyuan; Chen, Gaoran; He, Qing 等4人
 **摘要**: In recent decades, sexuality studies has become an increasingly important field of social scientific research in and beyond China. This paper uses CiteSpace and VOSviewer to carry out a bibliometric analysis of 26,975 sexuality-related papers included in the Web of Science database in the past four …
+
+### Social class differentials in marital sex in China (2000–2015)
+**年份**: 2022 | **DOI**: [10.1177/2057150x221107958](https://doi.org/10.1177/2057150x221107958)
+**作者**: Zhang, Yueyun; Wang, Xin; Pan, Suiming
+**摘要**: This study examines whether and how social class matters for marital sex in China since the beginning of the 21st century. We utilize data from a national sexuality survey that has been administered at four time points: 2000, 2006, 2010, and 2015.…
 
 ### Women's perceived support of parents and parents-in-law in China: Socioeconomic resources, reciprocity, and family context
 **年份**: 2021 | **DOI**: [10.1177/2057150X211007225](https://doi.org/10.1177/2057150X211007225)

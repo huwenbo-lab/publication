@@ -1,6 +1,6 @@
 # Journal of Family Theory & Review — 文章标题索引
 
-共 **840** 篇 | 年份范围：2009–2026
+共 **842** 篇 | 年份范围：2009–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -25,6 +25,8 @@
 - Cooperative Rearing and Low Fertility Persistence: A Two‐Constraint Theoretical Framework · [DOI](https://doi.org/10.1111/jftr.70062)
 - Discovering Legacies: Fathers, Sons, Masculinities, and Equity Within Families · [DOI](https://doi.org/10.1111/jftr.70052)
 - Constructing Meaning in Digital Lives: A Theory‐Driven and Practical Approach to Using Online Forums in Family Science · [DOI](https://doi.org/10.1111/jftr.70057)
+- Are We Willing to Change? A Feminist Agenda for the Study of Men in Families · [DOI](https://doi.org/10.1111/jftr.70061)
+- Adolescence: A Critical Media Review · [DOI](https://doi.org/10.1111/jftr.70059)
 
 ## 2025
 

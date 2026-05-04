@@ -1,0 +1,39 @@
+{
+  "title": "Predicting Divorce and Permanent Separation",
+  "abstract": "Using longitudinal interview data, we examine the predictive ability of a scale designed to predict divorce and permanent separation. We find that high scorers are nine times more likely to divorce than low scorers. Divorce rates for components of the scale indicate that dissolution is a process, becoming more likely as overt actions succeed attitudinal factors. Finally, discriminant analysis is used to test a model predicting the likelihood of individuals moving from instability to divorce. The results indicate that individuals are more apt to move on to divorce or permanent separation if alternative attractions are present, there are few barriers to divorce, or when the marriage retains fewer attractions. The results indicate that the marital instability index in conjunction with information on barriers and attractions provides the basis for a comprehensive model predicting divorce.",
+  "authors": [
+    {
+      "raw": "BOOTH, ALAN",
+      "family": "BOOTH",
+      "given": "ALAN"
+    },
+    {
+      "raw": "JOHNSON, DAVID R.",
+      "family": "JOHNSON",
+      "given": "DAVID R."
+    },
+    {
+      "raw": "WHITE, LYNN K.",
+      "family": "WHITE",
+      "given": "LYNN K."
+    },
+    {
+      "raw": "EDWARDS, JOHN N.",
+      "family": "EDWARDS",
+      "given": "JOHN N."
+    }
+  ],
+  "authors_text": "BOOTH, ALAN; JOHNSON, DAVID R.; WHITE, LYNN K.; EDWARDS, JOHN N.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 1985,
+  "doi": "10.1177/019251385006003005",
+  "doi_url": "https://doi.org/10.1177/019251385006003005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F019251385006003005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/019251385006003005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": ""
+  }
+}

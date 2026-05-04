@@ -1,0 +1,29 @@
+{
+  "title": "A Century of Progress in the Social Sciences",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Bernard, L. L.",
+      "family": "Bernard",
+      "given": "L. L."
+    },
+    {
+      "raw": "Bernard, J. S.",
+      "family": "Bernard",
+      "given": "J. S."
+    }
+  ],
+  "authors_text": "Bernard, L. L.; Bernard, J. S.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 1933,
+  "doi": "10.2307/2570271",
+  "doi_url": "https://doi.org/10.2307/2570271",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2570271",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2570271.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": ""
+  }
+}

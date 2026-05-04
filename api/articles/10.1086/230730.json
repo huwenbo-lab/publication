@@ -1,0 +1,39 @@
+{
+  "title": "Careers in Print: Books, Journals, and Scholarly Reputations",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Clemens, Elisabeth S.",
+      "family": "Clemens",
+      "given": "Elisabeth S."
+    },
+    {
+      "raw": "Powell, Walter W.",
+      "family": "Powell",
+      "given": "Walter W."
+    },
+    {
+      "raw": "McIlwaine, Kris",
+      "family": "McIlwaine",
+      "given": "Kris"
+    },
+    {
+      "raw": "Okamoto, Dina",
+      "family": "Okamoto",
+      "given": "Dina"
+    }
+  ],
+  "authors_text": "Clemens, Elisabeth S.; Powell, Walter W.; McIlwaine, Kris; Okamoto, Dina",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 1995,
+  "doi": "10.1086/230730",
+  "doi_url": "https://doi.org/10.1086/230730",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F230730",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/230730.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": ""
+  }
+}

@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **279** 篇
+共 **280** 篇
 
 ---
 
@@ -849,6 +849,11 @@
 **年份**: 2004 | **DOI**: [10.1086/378928](https://doi.org/10.1086/378928)
 **作者**: Huffman, ML; Cohen, PN
 **摘要**: Despite decades of research showing greater black-white inequality in local areas where the black population is relatively large, little is known about the mechanisms for this effect.…
+
+### Organizational Success and Worker Dignity: Complementary or Contradictory?
+**年份**: 2004 | **DOI**: [10.1086/422626](https://doi.org/10.1086/422626)
+**作者**: Hodson, Randy; Roscigno, Vincent J.
+**摘要**: （暂无）
 
 ### The strange history of employer-sponsored child care: Interested actors, uncertainty, and the transformation of law in organizational fields
 **年份**: 2003 | **DOI**: [10.1086/379631](https://doi.org/10.1086/379631)

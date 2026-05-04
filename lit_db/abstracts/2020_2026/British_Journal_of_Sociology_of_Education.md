@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **476** 篇
+共 **477** 篇
 
 ---
 
@@ -132,6 +132,11 @@
 ### Academic statelessness: at-risk academics in the UK navigating the transition to post-fellowship positions
 **年份**: 2026 | **DOI**: [10.1080/01425692.2026.2642107](https://doi.org/10.1080/01425692.2026.2642107)
 **作者**: Assaf, Dareen; Bridge, Jonathan W.; Adams, Gill 等4人
+**摘要**: （暂无）
+
+### Exploring anxiety and behaviour. Agency, liminality and relational embodiment in a PRU
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2664171](https://doi.org/10.1080/01425692.2026.2664171)
+**作者**: Woolhouse, Clare
 **摘要**: （暂无）
 
 ### Numerical diversity only? The case of academic preparatory programs for the Negev Bedouin in Israel

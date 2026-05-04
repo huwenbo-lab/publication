@@ -1,6 +1,6 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1815** 篇 | 年份范围：1950–2026
+共 **1823** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -683,6 +683,7 @@
 - The moral economy of austerity: analysing UK welfare reform · [DOI](https://doi.org/10.1111/1468-4446.12186)
 - Real social analytics: A contribution towards a phenomenology of a digital world · [DOI](https://doi.org/10.1111/1468-4446.12183)
 - Revitalizing sociology: urban life and mental illness between history and the present · [DOI](https://doi.org/10.1111/1468-4446.12188)
+- Graeber, D.The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of BureaucracyMelville House Publishing: New York2015 261 pp. £18.99 (hardback) · [DOI](https://doi.org/10.1111/1468-4446.12166)
 
 ## 2015
 
@@ -1833,6 +1834,8 @@
 - Routes of success: influences on the occupational attainment of young British males · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00217.x)
 - Who killed whom?: victimization and culpability in the social construction of murder · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00489.x)
 - Boredom and social meaning · [DOI](https://doi.org/10.1080/000713199358572)
+- Class voting, social change, and the left in Australia, 1943–961 · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00609.x)
+- Social mobility and personal satisfaction: evidence from ten countries* · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00028.x)
 
 ## 1998
 
@@ -1855,6 +1858,7 @@
 - Measuring Left-Right and Libertarian-Authoritarian Values in the British Electorate · [DOI](https://doi.org/10.2307/591118)
 - Theorizing the Interview · [DOI](https://doi.org/10.2307/591728)
 - Public Religions in the Modern World · [DOI](https://doi.org/10.2307/591125)
+- Agrarian Relations and Class Hegemony: A Comparative Analysis of Landlord, Social and Political Power - Italy 1861-1920 · [DOI](https://doi.org/10.2307/591725)
 
 ## 1995
 
@@ -1862,6 +1866,7 @@
 - Legitimacy and Order in Prisons · [DOI](https://doi.org/10.2307/591622)
 - Amateurs, Professionals and the Knowledge of Archaeology · [DOI](https://doi.org/10.2307/591853)
 - Five Feminist Myths about Women's Employment · [DOI](https://doi.org/10.2307/591850)
+- Rethinking 'Moral Panic' for Multi-Mediated Social Worlds · [DOI](https://doi.org/10.2307/591571)
 
 ## 1994
 
@@ -1900,6 +1905,10 @@
 ## 1986
 
 - Appraising Goffman · [DOI](https://doi.org/10.2307/590645)
+
+## 1985
+
+- Deskilling or Enskilling?: An Empirical Investigation of Recent Theories of the Labour Process · [DOI](https://doi.org/10.2307/590336)
 
 ## 1984
 
@@ -1951,6 +1960,10 @@
 
 - The Methodological Implications of Symbolic Interactionism for the Study of Deviance · [DOI](https://doi.org/10.2307/589394)
 
+## 1972
+
+- Dialectical Sociology: Toward a Resolution of the Current 'Crisis' in Western Sociology · [DOI](https://doi.org/10.2307/589076)
+
 ## 1970
 
 - Weber on Legitimate Norms and Authority · [DOI](https://doi.org/10.2307/588403)
@@ -1985,6 +1998,10 @@
 ## 1958
 
 - Social Change · [DOI](https://doi.org/10.2307/587016)
+
+## 1957
+
+- Sociology and Social Policy · [DOI](https://doi.org/10.2307/587367)
 
 ## 1956
 

@@ -1,6 +1,6 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **866** 篇 | 年份范围：2001–2026
+共 **867** 篇 | 年份范围：2001–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -88,6 +88,7 @@
 - The contribution of work values to early career mobility · [DOI](https://doi.org/10.1016/j.rssm.2024.100996)
 - Human capital and the upward occupational mobility of rural migrant workers in China · [DOI](https://doi.org/10.1016/j.rssm.2024.100997)
 - Disability discrimination in hiring: A systematic review · [DOI](https://doi.org/10.1016/j.rssm.2025.101069)
+- Origin, destination, or mobility? A systematic review of studies using diagonal reference models · [DOI](https://doi.org/10.1016/j.rssm.2025.101047)
 
 ## 2024
 

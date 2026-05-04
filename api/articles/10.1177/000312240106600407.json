@@ -1,0 +1,34 @@
+{
+  "title": "What is Gender?",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Kennelly, Ivy",
+      "family": "Kennelly",
+      "given": "Ivy"
+    },
+    {
+      "raw": "Merz, Sabine N.",
+      "family": "Merz",
+      "given": "Sabine N."
+    },
+    {
+      "raw": "Lorber, Judith",
+      "family": "Lorber",
+      "given": "Judith"
+    }
+  ],
+  "authors_text": "Kennelly, Ivy; Merz, Sabine N.; Lorber, Judith",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2001,
+  "doi": "10.1177/000312240106600407",
+  "doi_url": "https://doi.org/10.1177/000312240106600407",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240106600407",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240106600407.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  }
+}

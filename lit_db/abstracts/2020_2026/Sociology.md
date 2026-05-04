@@ -1,7 +1,7 @@
 # Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **576** 篇
+共 **580** 篇
 
 ---
 
@@ -114,6 +114,26 @@
 **年份**: 2026 | **DOI**: [10.1177/00380385261428292](https://doi.org/10.1177/00380385261428292)
 **作者**: Ischinsky, Emma
 **摘要**: Public visibility plays a crucial role in how inequality becomes publicly recognised and debated. Yet we know little about how often the very wealthy appear in the public sphere. This study examines the public visibility and invisibility among Germany’s 1718 richest individuals using Manager Magazin…
+
+### Vocational narratives: How students make sense of their educational choices
+**年份**: 2026 | **DOI**: [10.1177/00380385261434874](https://doi.org/10.1177/00380385261434874)
+**作者**: Tarabini, Aina; Rujas, Javier; Gil, Sara
+**摘要**: This article explores how young people use vocational narratives to make sense of their Post16 educational choices. Based on 97 qualitative interviews with students from Barcelona and Madrid, the analysis examines the vocabularies of motive – such as personal fit, passion, interest, ability and futu…
+
+### The social production of small urban rivers: The (re)making of two riverside spaces in Lewisham
+**年份**: 2026 | **DOI**: [10.1177/00380385261432893](https://doi.org/10.1177/00380385261432893)
+**作者**: Jackson, Emma; Rondel, Louise
+**摘要**: This article analyses how small urban rivers are implicated in different registers of place-making in Lewisham, London. We discuss the pleasures, possibilities and tensions that come with ‘opening up’ urban river spaces and the complex range of imaginaries and practices that feed into their producti…
+
+### The traditionalist illusion: How conventional gender role items obscure egalitarian views
+**年份**: 2026 | **DOI**: [10.1177/00380385261432890](https://doi.org/10.1177/00380385261432890)
+**作者**: Steckermeier, Leonie C.; Hess, Stephanie
+**摘要**: Survey items that capture attitudes towards gender roles in the private and public spheres typically only measure agreement with a traditional gender role attitude. Respondents who disagree with such items may hold egalitarian views – favouring either equality or role-reversal – or may endorse plura…
+
+### Gendered pleasures: Time trends in pornographic displays of pleasure and affection
+**年份**: 2026 | **DOI**: [10.1177/00380385261432884](https://doi.org/10.1177/00380385261432884)
+**作者**: Shor, Eran; Leblanc, Zacharie
+**摘要**: The Sociology of Emotions is characterized by a significant dearth of writing and research on positive emotions, including pleasure and affection. In this article, we examine gendered disparities in the prevalence and change over time of pleasure, climax, and affection in frequently watched mainstre…
 
 ### Social Positioning and Pathways of Social Mobility of Intermarried Ukrainian Migrants in Poland
 **年份**: 2025 | **DOI**: [10.1177/00380385251313900](https://doi.org/10.1177/00380385251313900)

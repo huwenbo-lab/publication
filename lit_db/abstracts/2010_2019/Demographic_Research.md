@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2010–2019 年文章（含摘要）
 
-共 **899** 篇
+共 **900** 篇
 
 ---
 
@@ -2164,6 +2164,11 @@
 **年份**: 2016 | **DOI**: —
 **作者**: Cazzola, Alberto; Pasquini, Lucia; Angeli, Aurora
 **摘要**: BACKGROUND Many analyses demonstrate that rising unemployment rates generate a feeling of uncertainty that can influence fertility behaviour, inducing a short-term reduction in fertility. The impact of the recent economic crisis in Italy is controversial in the current demographic literature.…
+
+### Loss aversion and duration of residence
+**年份**: 2016 | **DOI**: [10.4054/demres.2016.35.36](https://doi.org/10.4054/demres.2016.35.36)
+**作者**: Morrison, Philip S.; Clark, William A.V.
+**摘要**: （暂无）
 
 ### Which transition comes first? Urban and demographic transitions in Belgium and Sweden
 **年份**: 2015 | **DOI**: [10.4054/DemRes.2015.33.48](https://doi.org/10.4054/DemRes.2015.33.48)

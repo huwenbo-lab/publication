@@ -1,0 +1,39 @@
+{
+  "title": "Gender and Job Values",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Marini, Margaret Mooney",
+      "family": "Marini",
+      "given": "Margaret Mooney"
+    },
+    {
+      "raw": "Fan, Pi-Ling",
+      "family": "Fan",
+      "given": "Pi-Ling"
+    },
+    {
+      "raw": "Finley, Erica",
+      "family": "Finley",
+      "given": "Erica"
+    },
+    {
+      "raw": "Beutel, Ann M.",
+      "family": "Beutel",
+      "given": "Ann M."
+    }
+  ],
+  "authors_text": "Marini, Margaret Mooney; Fan, Pi-Ling; Finley, Erica; Beutel, Ann M.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 1996,
+  "doi": "10.2307/2112723",
+  "doi_url": "https://doi.org/10.2307/2112723",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2112723",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2112723.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": ""
+  }
+}

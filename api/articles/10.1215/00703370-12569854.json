@@ -1,0 +1,34 @@
+{
+  "title": "Bringing Age Back In: Accounting for Population Age Distribution in Forecasting Migration",
+  "abstract": "Abstract Existing models of country-level net migration ignore the effect of population age distribution on past and projected migration rates. We propose a method to estimate and forecast international net migration rates for the 200 most populous countries, taking account of changes in population age structure. We use age-standardized estimates of country-level net migration rates and in-migration (i.e., immigration) rates over five-year periods from 1990 through 2020 to decompose past net migration rates into in-migration rates and out-migration (i.e., emigration) rates. We then recalculate historic migration rates on a scale that removes the influence of the population age distribution. This is done by scaling past and projected migration rates in terms of a reference population and period using a quantity we call the migration age structure index (MASI). We use a Bayesian hierarchical model to generate joint probabilistic forecasts of net migration rates over five-year periods for all countries through 2100. We find that accounting for population age structure in historic and forecast net migration rates leads to narrower prediction intervals by the end of the century for most countries. Furthermore, accounting for population age structure leads to less out-migration among countries with rapidly aging populations that are forecast to contract most rapidly by the end of the century. This approach leads to less drastic population declines than are forecast without accounting for population age structure.",
+  "authors": [
+    {
+      "raw": "Welch, Nathan G.",
+      "family": "Welch",
+      "given": "Nathan G."
+    },
+    {
+      "raw": "Ševčíková, Hana",
+      "family": "Ševčíková",
+      "given": "Hana"
+    },
+    {
+      "raw": "Raftery, Adrian E.",
+      "family": "Raftery",
+      "given": "Adrian E."
+    }
+  ],
+  "authors_text": "Welch, Nathan G.; Ševčíková, Hana; Raftery, Adrian E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2026,
+  "doi": "10.1215/00703370-12569854",
+  "doi_url": "https://doi.org/10.1215/00703370-12569854",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12569854",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12569854.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  }
+}

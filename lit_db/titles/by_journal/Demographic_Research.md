@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1843** 篇 | 年份范围：1999–2026
+共 **1846** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -13,6 +13,8 @@
 - Bayesian multidimensional mortality reconstruction · [DOI](https://doi.org/10.4054/demres.2026.54.28)
 - “Family-Anchored” transitions to adult life in Mexico · [DOI](https://doi.org/10.4054/demres.2026.54.2)
 - Probabilistic population forecasts for small regions · [DOI](https://doi.org/10.4054/demres.2026.54.23)
+- Partnership life courses and completed fertility in Spain · [DOI](https://doi.org/10.4054/demres.2026.54.29)
+- Economic insecurity and material deprivation: Coping strategies among couple families with and without small children in Europe · [DOI](https://doi.org/10.4054/demres.2026.54.25)
 
 ## 2025
 
@@ -977,6 +979,7 @@
 - Gender inequalities in employment and wage-earning among internal labour migrants in Chinese cities
 - Does selection of mortality model make a difference in projecting population ageing? · [DOI](https://doi.org/10.4054/demres.2016.34.2)
 - The relationship between unemployment and fertility in Italy: A time-series analysis
+- Loss aversion and duration of residence · [DOI](https://doi.org/10.4054/demres.2016.35.36)
 
 ## 2015
 

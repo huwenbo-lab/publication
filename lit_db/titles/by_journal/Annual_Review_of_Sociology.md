@@ -1,6 +1,6 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **563** 篇 | 年份范围：1975–2026
+共 **577** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -42,6 +42,8 @@
 - Leveraging Experience Sampling/Ecological Momentary Assessment for Sociological Investigations of Everyday Life · [DOI](https://doi.org/10.1146/annurev-soc-091523-013249)
 - Automation and Augmentation: Artificial Intelligence, Robots, and Work · [DOI](https://doi.org/10.1146/annurev-soc-090523-050708)
 - The Sociology of Interpretation · [DOI](https://doi.org/10.1146/annurev-soc-020321-030515)
+- How Threat Mobilizes the Resurgence and Persistence of US White Supremacist Activism: The 1980s to the Present · [DOI](https://doi.org/10.1146/annurev-soc-031021-112151)
+- Online Illegal Cryptomarkets · [DOI](https://doi.org/10.1146/annurev-soc-090523-052916)
 
 ## 2023
 
@@ -475,6 +477,7 @@
 - Gender in Politics · [DOI](https://doi.org/10.1146/annurev.soc.33.040406.131651)
 - Lost and Found: The Sociological Ambivalence Toward Childhood · [DOI](https://doi.org/10.1146/annurev.soc.33.040406.131808)
 - Workforce Diversity and Inequality: Power, Status, and Numbers · [DOI](https://doi.org/10.1146/annurev.soc.33.040406.131805)
+- The Sociology of Markets · [DOI](https://doi.org/10.1146/annurev.soc.33.040406.131736)
 
 ## 2006
 
@@ -499,6 +502,7 @@
 - Agency theory · [DOI](https://doi.org/10.1146/annurev.soc.31.041304.122159)
 - Emerging theories of care work · [DOI](https://doi.org/10.1146/annurev.soc.31.041304.122317)
 - Macrostructural Analyses of Race, Ethnicity, and Violent Crime: Recent Lessons and New Directions for Research · [DOI](https://doi.org/10.1146/annurev.soc.31.041304.122308)
+- Multiethnic Cities in North America · [DOI](https://doi.org/10.1146/annurev.soc.31.041304.122246)
 
 ## 2004
 
@@ -531,6 +535,7 @@
 - The Science of Asking Questions · [DOI](https://doi.org/10.1146/annurev.soc.29.110702.110112)
 - Cognitive Skills and Noncognitive Traits and Behaviors in Stratification Processes · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.100023)
 - Population and African Society · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.100126)
+- The Urban Street Gang after 1970 · [DOI](https://doi.org/10.1146/annurev.soc.29.101602.130751)
 
 ## 2002
 
@@ -543,6 +548,7 @@
 - The Sociology of Intellectuals · [DOI](https://doi.org/10.1146/annurev.soc.28.110601.140745)
 - Chinese Social Stratification and Social Mobility · [DOI](https://doi.org/10.1146/annurev.soc.28.110601.140823)
 - Race, Gender, and Authority in the Workplace: Theory and Research · [DOI](https://doi.org/10.1146/annurev.soc.28.110601.141048)
+- New Economics of Sociological Criminology · [DOI](https://doi.org/10.1146/annurev.soc.28.110601.140752)
 
 ## 2001
 
@@ -633,6 +639,12 @@
 - Urban Sociology: The Contribution and Limits of Political Economy · [DOI](https://doi.org/10.1146/annurev.so.19.080193.001505)
 - The State and Fiscal Sociology · [DOI](https://doi.org/10.1146/annurev.so.19.080193.001115)
 - Macrocomparative Research Methods · [DOI](https://doi.org/10.1146/annurev.so.19.080193.001541)
+- Entry Into School: The Beginning School Transition and Educational Stratification in the United States · [DOI](https://doi.org/10.1146/annurev.so.19.080193.002153)
+
+## 1992
+
+- Concepts and Measurement of Prestige · [DOI](https://doi.org/10.1146/annurev.so.18.080192.001345)
+- Job Mobility and Career Processes · [DOI](https://doi.org/10.1146/annurev.so.18.080192.000351)
 
 ## 1991
 
@@ -654,14 +666,17 @@
 - The Social Psychology of Self-Efficacy · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001451)
 - Gender and Social Reproduction: Historical Perspectives · [DOI](https://doi.org/10.1146/annurev.so.15.080189.002121)
 - The Sociology of Emotions · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001533)
+- Immigration and Urban Change · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001235)
 
 ## 1988
 
 - Organizational Learning · [DOI](https://doi.org/10.1146/annurev.soc.14.1.319)
+- Soviet Sociology and Sociology in the Soviet Union · [DOI](https://doi.org/10.1146/annurev.so.14.080188.000531)
 
 ## 1987
 
 - Gentrification: Culture and Capital in the Urban Core · [DOI](https://doi.org/10.1146/annurev.so.13.080187.001021)
+- New Directions in Environmental Sociology · [DOI](https://doi.org/10.1146/annurev.so.13.080187.002341)
 
 ## 1985
 
@@ -681,6 +696,7 @@
 - Individual and Collective Behaviors Within Gatherings, Demonstrations, and Riots · [DOI](https://doi.org/10.1146/annurev.so.09.080183.003051)
 - Social Indicators · [DOI](https://doi.org/10.1146/annurev.so.09.080183.000245)
 - Resource Mobilization Theory and the Study of Social Movements · [DOI](https://doi.org/10.1146/annurev.so.09.080183.002523)
+- Generation as a Sociological Problem · [DOI](https://doi.org/10.1146/annurev.so.09.080183.001013)
 
 ## 1981
 
@@ -690,6 +706,7 @@
 
 - The Sociology of Labor Markets · [DOI](https://doi.org/10.1146/annurev.so.05.080179.002031)
 - Ascribed and Achieved Bases of Stratification · [DOI](https://doi.org/10.1146/annurev.so.05.080179.001251)
+- Environmental Sociology · [DOI](https://doi.org/10.1146/annurev.so.05.080179.001331)
 
 ## 1978
 

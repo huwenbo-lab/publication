@@ -1,6 +1,6 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2529** 篇 | 年份范围：1966–2026
+共 **2547** 篇 | 年份范围：1966–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2552,6 +2552,9 @@
 - Do Fertility Intentions Affect Fertility Behavior? · [DOI](https://doi.org/10.2307/353578)
 - Emotional Transmission in Couples Under Stress · [DOI](https://doi.org/10.2307/353881)
 - Nonresident Fathers and Children's Well-Being: A Meta-Analysis · [DOI](https://doi.org/10.2307/353560)
+- The Economic Risk of Childhood in America: Estimating the Probability of Poverty across the Formative Years · [DOI](https://doi.org/10.2307/354024)
+- Emotional Transmission in the Daily Lives of Families: A New Paradigm for Studying Family Process · [DOI](https://doi.org/10.2307/353879)
+- The Tripartite Nature of Marital Commitment: Personal, Moral, and Structural Reasons to Stay Married · [DOI](https://doi.org/10.2307/353891)
 
 ## 1998
 
@@ -2559,16 +2562,19 @@
 - The Impact of Husbands' and Wives' Relative Earnings on Marital Disruption · [DOI](https://doi.org/10.2307/353538)
 - Interparental Conflict Styles and Youth Problem Behaviors: A Two-Sample Replication Study · [DOI](https://doi.org/10.2307/353446)
 - Do Safety Nets Work? The Role of Anticipated Help in Times of Need · [DOI](https://doi.org/10.2307/353636)
+- Sibling Resemblance in Behavioral and Cognitive Outcomes: The Role of Father Presence · [DOI](https://doi.org/10.2307/353628)
 
 ## 1997
 
 - Consequences of Young Mothers' Marital Histories for Children's Cognitive Development · [DOI](https://doi.org/10.2307/353468)
 - Gender, Status, and Domestic Violence: An Integration of Feminist and Family Violence Approaches · [DOI](https://doi.org/10.2307/353952)
+- What Did You Do Today? Children's Use of Time, Family Composition, and the Acquisition of Social Capital · [DOI](https://doi.org/10.2307/353474)
 
 ## 1996
 
 - Living Separately as a Child-Care Strategy: Implications for Women's Work and Family in Urban Thailand · [DOI](https://doi.org/10.2307/353499)
 - Caring More or Less: Individualistic and Collectivist Systems of Family Eldercare · [DOI](https://doi.org/10.2307/353503)
+- Too Much of a Good Thing? Intergenerational Social Support and the Psychological Well-Being of Older Parents · [DOI](https://doi.org/10.2307/353984)
 
 ## 1995
 
@@ -2585,12 +2591,15 @@
 ## 1994
 
 - Physical Wife Abuse in a Non-Western Society: An Integrated Theoretical Approach · [DOI](https://doi.org/10.2307/352709)
+- Interwoven Lives: Parents, Marriage, and Guanxi in China · [DOI](https://doi.org/10.2307/353592)
+- Contextual Effects on the Sexual Behavior of Adolescent Women · [DOI](https://doi.org/10.2307/353107)
 
 ## 1993
 
 - American Family Decline, 1960-1990: A Review and Appraisal · [DOI](https://doi.org/10.2307/353333)
 - A Comparison of Voluntarily Childfree Adults and Parents · [DOI](https://doi.org/10.2307/353345)
 - Care of the Elderly in Japan: Changing Norms and Expectations · [DOI](https://doi.org/10.2307/353340)
+- Family Support to Single and Married African American Mothers: The Provision of Financial, Emotional, and Child Care Assistance · [DOI](https://doi.org/10.2307/352800)
 
 ## 1992
 
@@ -2599,6 +2608,8 @@
 ## 1991
 
 - Fathers, Sons, and Daughters: Differential Paternal Involvement in Parenting · [DOI](https://doi.org/10.2307/352730)
+- Parental Divorce and Adult Well-Being: A Meta-Analysis · [DOI](https://doi.org/10.2307/353132)
+- Determining Children's Home Environments: The Impact of Maternal Characteristics and Current Occupational and Family Conditions · [DOI](https://doi.org/10.2307/352909)
 
 ## 1990
 
@@ -2606,6 +2617,7 @@
 - A Meta-Analytic Review of Family Structure Stereotypes · [DOI](https://doi.org/10.2307/353026)
 - Parenting Styles, Drug Use, and Children's Adjustment in Families of Young Adults · [DOI](https://doi.org/10.2307/352849)
 - Family Ties, Friendships, and Subjective Well-Being among Black Americans · [DOI](https://doi.org/10.2307/353027)
+- Linking Economic Hardship to Marital Quality and Instability · [DOI](https://doi.org/10.2307/352931)
 
 ## 1989
 
@@ -2613,6 +2625,7 @@
 - Marital Satisfaction in Remarriage: A Meta-Analysis · [DOI](https://doi.org/10.2307/352170)
 - The Contagion of Stress across Multiple Roles · [DOI](https://doi.org/10.2307/352378)
 - Adolescent Violence toward Parents · [DOI](https://doi.org/10.2307/352169)
+- Some Economic Complexities of Child Care Provided by Grandmothers · [DOI](https://doi.org/10.2307/352158)
 
 ## 1988
 
@@ -2645,11 +2658,15 @@
 ## 1983
 
 - Age at Marriage, Role Enactment, Role Consensus, and Marital Satisfaction · [DOI](https://doi.org/10.2307/351792)
+- CHIP. Coping Health Inventory for Parents: An Assessment of Parental Coping Patterns in the Care of the Chronically Ill Child · [DOI](https://doi.org/10.2307/351514)
+- Mothers and Mothers-in-Law · [DOI](https://doi.org/10.2307/351307)
 
 ## 1982
 
 - Adult Role Transitions, Parental Influence, and Status Aspirations Early in the Life Course · [DOI](https://doi.org/10.2307/351261)
 - Decision Making in Intergenerational Puerto Rican Families · [DOI](https://doi.org/10.2307/351584)
+- Sampling Issues in Family Research · [DOI](https://doi.org/10.2307/351457)
+- Transmission of Religious and Social Values from Parents to Teenage Children · [DOI](https://doi.org/10.2307/351580)
 
 ## 1981
 
@@ -2704,3 +2721,4 @@
 ## 1966
 
 - An Analysis of Power Dynamics in Marriage · [DOI](https://doi.org/10.2307/349283)
+- Dating Behavior: A Framework for Analysis and an Illustration · [DOI](https://doi.org/10.2307/349537)

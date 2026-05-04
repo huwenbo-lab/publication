@@ -1,7 +1,7 @@
 # Demography
 ## 2020–2026 年文章（含摘要）
 
-共 **544** 篇
+共 **547** 篇
 
 ---
 
@@ -59,6 +59,16 @@
 **年份**: 2026 | **DOI**: [10.1215/00703370-12530362](https://doi.org/10.1215/00703370-12530362)
 **作者**: Ellison, Joanne; Bijak, Jakub; Dodd, Erengul
 **摘要**: Abstract Fertility projections inform population projections and are used to plan for the future provision of vital services such as maternity care and schooling. Existing fertility forecasting models tend to use aggregate births data indexed by age and time alone, thereby neglecting to include info…
+
+### Bringing Age Back In: Accounting for Population Age Distribution in Forecasting Migration
+**年份**: 2026 | **DOI**: [10.1215/00703370-12569854](https://doi.org/10.1215/00703370-12569854)
+**作者**: Welch, Nathan G.; Ševčíková, Hana; Raftery, Adrian E.
+**摘要**: Abstract Existing models of country-level net migration ignore the effect of population age distribution on past and projected migration rates. We propose a method to estimate and forecast international net migration rates for the 200 most populous countries, taking account of changes in population …
+
+### Impaired Cognitive and Behavioral Functioning in Childhood and Economic Outcomes in Adulthood
+**年份**: 2026 | **DOI**: [10.1215/00703370-12543998](https://doi.org/10.1215/00703370-12543998)
+**作者**: Corman, Hope; Noonan, Kelly; Reichman, Nancy E.
+**摘要**: Abstract Developmental disabilities are prevalent among U.S. children, child disability rates have been increasing, and the increases have been driven by cognitive and behavioral disorders.…
 
 ### Single Parenthood, Gender, and Mortality
 **年份**: 2025 | **DOI**: [10.1215/00703370-12234087](https://doi.org/10.1215/00703370-12234087)
@@ -2724,3 +2734,8 @@
 **年份**: 2020 | **DOI**: [10.1007/s13524-019-00836-9](https://doi.org/10.1007/s13524-019-00836-9)
 **作者**: Kuehnle, Daniel; Oberfichtner, Michael
 **摘要**: As many developed countries enact policies that allow children to begin universal childcare earlier, understanding how starting universal childcare earlier affects children's cognitive and noncognitive skills is an important policy question.…
+
+### Another Plea for Caution When Using Survey Income Data From the Far-Left Tail
+**年份**: 2020 | **DOI**: [10.1007/s13524-020-00936-x](https://doi.org/10.1007/s13524-020-00936-x)
+**作者**: Sullivan, James X.
+**摘要**: （暂无）

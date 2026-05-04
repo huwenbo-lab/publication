@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1564** 篇 | 年份范围：1986–2026
+共 **1570** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -724,6 +724,7 @@
 - Work-Life Conflict in Britain: Job Demands and Resources · [DOI](https://doi.org/10.1093/esr/jcu076)
 - Civic Engagement in Britain: The Role of Religion and Inclusive Values · [DOI](https://doi.org/10.1093/esr/jcu077)
 - Nation Building. A Long-Term Perspective and Global Analysis · [DOI](https://doi.org/10.1093/esr/jcu078)
+- The German Life History Study—An Introduction · [DOI](https://doi.org/10.1093/esr/jcv011)
 
 ## 2014
 
@@ -1643,9 +1644,18 @@
 - When Institutions Matter:Union Growth and Decline in Western Europe, 1950-1995 · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018257)
 - Military Service During Wartime Effects on Men's Occupational Trajectories and Later Economic Well-Being · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018261)
 
+## 1998
+
+- Reforms, Expansion, and Equality of Opportunity · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018226)
+
 ## 1996
 
 - 'Losing my religion'1: a dynamic analysis of leaving the church in the Netherlands · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018179)
+- The Salience of the Part-time Divide in the European Union · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018190)
+
+## 1994
+
+- Modelling Trends in Social Fluidity: The Core Model and a Measured-Variable Approach Compared · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036336)
 
 ## 1993
 
@@ -1654,6 +1664,7 @@
 ## 1992
 
 - Testing the validity of the Goldthorpe class schema · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036638)
+- Locating class cleavages in inter-generational mobility: cross-national commonalities and variations in mobility patterns · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036641)
 
 ## 1991
 
@@ -1676,3 +1687,7 @@
 
 - Increasing equality in household work: patterns of time-use change in Norway · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036417)
 - Social context and inter-ethnic relations: the case of migrant workers in West German urban areas · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036404)
+
+## 1985
+
+- Economic growth and the welfare state: leaky bucket or irrigation system? · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036387)

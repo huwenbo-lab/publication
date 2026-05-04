@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **1979** 篇 | 年份范围：1964–2026
+共 **1987** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -18,6 +18,8 @@
 - Beyond Income: Health, Wealth, and Racial Welfare Gaps Among Older Americans · [DOI](https://doi.org/10.1215/00703370-12460649)
 - Net Worth Poverty in Childhood: Duration, Timing, and Educational Outcomes · [DOI](https://doi.org/10.1215/00703370-12563780)
 - Can Incorporating Parity Information Improve the Reliability of Completed Cohort Fertility Projections? Insights From a Bayesian Generalized Additive Model Approach · [DOI](https://doi.org/10.1215/00703370-12530362)
+- Bringing Age Back In: Accounting for Population Age Distribution in Forecasting Migration · [DOI](https://doi.org/10.1215/00703370-12569854)
+- Impaired Cognitive and Behavioral Functioning in Childhood and Economic Outcomes in Adulthood · [DOI](https://doi.org/10.1215/00703370-12543998)
 
 ## 2025
 
@@ -569,6 +571,7 @@
 - Crime and Inequality in Academic Achievement Across School Districts in the United States · [DOI](https://doi.org/10.1007/s13524-019-00850-x)
 - Pathways to Low Fertility: 50 Years of Limitation, Curtailment, and Postponement of Childbearing · [DOI](https://doi.org/10.1007/s13524-019-00848-5)
 - Does Starting Universal Childcare Earlier Influence Children's Skill Development? · [DOI](https://doi.org/10.1007/s13524-019-00836-9)
+- Another Plea for Caution When Using Survey Income Data From the Far-Left Tail · [DOI](https://doi.org/10.1007/s13524-020-00936-x)
 
 ## 2019
 
@@ -2021,6 +2024,7 @@
 
 - Migradollars and mortality: The effects of migration on infant survival in Mexico · [DOI](https://doi.org/10.2307/2648057)
 - Religious involvement and U.S. adult mortality · [DOI](https://doi.org/10.2307/2648114)
+- The educational attainment of young women: Role model effects of female high school faculty · [DOI](https://doi.org/10.2307/2648107)
 
 ## 1998
 
@@ -2061,6 +2065,10 @@
 - Fertility decline in Taiwan: A study using parity progression ratios · [DOI](https://doi.org/10.2307/2061468)
 - Childhood events and circumstances influencing high school completion · [DOI](https://doi.org/10.2307/2061340)
 
+## 1990
+
+- The Origins of the Chinese Fertility Decline · [DOI](https://doi.org/10.2307/2061373)
+
 ## 1989
 
 - Relative deprivation and international migration oded stark · [DOI](https://doi.org/10.2307/2061490)
@@ -2076,6 +2084,7 @@
 - On Stable Population Theory With Immigration · [DOI](https://doi.org/10.2307/2061308)
 - Starting, stopping, and spacing during the early stages of fertility transition: The experience of German village populations in the 18th and 19th centuries · [DOI](https://doi.org/10.2307/2061627)
 - The effect of sex preference on fertility: A reply to bairagi · [DOI](https://doi.org/10.2307/2061514)
+- Socioeconomic development, family planning, and fertility in China · [DOI](https://doi.org/10.2307/2061390)
 
 ## 1986
 
@@ -2109,6 +2118,7 @@
 ## 1980
 
 - Estimating the Approximate Size of The Illegal Alien Population in the United States by the Comparative Trend Analysis of Age-Specific Death Rates · [DOI](https://doi.org/10.2307/2061057)
+- Foreign-Born Emigration from the United States: 1960 To 1970 · [DOI](https://doi.org/10.2307/2060964)
 
 ## 1979
 
@@ -2135,6 +2145,7 @@
 ## 1969
 
 - The Prediction of Completed Fertility · [DOI](https://doi.org/10.2307/2060089)
+- The pattern of mortality change in Latin America · [DOI](https://doi.org/10.2307/2060393)
 
 ## 1964
 

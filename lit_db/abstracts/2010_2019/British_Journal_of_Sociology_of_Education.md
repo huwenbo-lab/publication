@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **653** 篇
+共 **654** 篇
 
 ---
 
@@ -1083,6 +1083,11 @@
 ### Misplaced optimism: how higher education reproduces rather than reduces social inequality
 **年份**: 2017 | **DOI**: [10.1080/01425692.2017.1281648](https://doi.org/10.1080/01425692.2017.1281648)
 **作者**: Boliver, Vikki
+**摘要**: （暂无）
+
+### Rethinking education and poverty
+**年份**: 2017 | **DOI**: [10.1080/01425692.2017.1349654](https://doi.org/10.1080/01425692.2017.1349654)
+**作者**: Gewirtz, Sharon
 **摘要**: （暂无）
 
 ### Subjectivity as a site of struggle: refusing neoliberalism?

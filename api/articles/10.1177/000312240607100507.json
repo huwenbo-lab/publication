@@ -1,0 +1,44 @@
+{
+  "title": "The Dynamics of Economic Disadvantage and Children's Life Chances",
+  "abstract": "Recent research suggests that child well-being and subsequent status attainment are influenced not only by the duration of exposure to economic disadvantage during childhood, but also by the timing and sequencing of exposure. Unfortunately, traditional measures of children's economic deprivation typically fail to differentiate between exposures to disadvantage at different stages in childhood and largely ignore how economic circumstances change over time. In this article, the authors propose a new method for assessing economic disadvantage during childhood that simultaneously captures children's overall levels of exposure to economic disadvantage as well as the timing and sequencing of their exposure. This new method uses finite mixture modeling to classify children into a limited number of classes with similar histories of exposure to economic disadvantage. With this new methodology, it is possible both to assess how family characteristics affect patterns of exposure to disadvantage and to directly test alternative theories about the effect that different patterns of exposure have on achievement. The authors find that extended exposure to economic deprivation during childhood is least favorable to early adulthood achievement, but that—at least for human capital formation-the timing and sequencing of poverty also are important.",
+  "authors": [
+    {
+      "raw": "Wagmiller, Robert L.",
+      "family": "Wagmiller",
+      "given": "Robert L."
+    },
+    {
+      "raw": "Lennon, Mary Clare",
+      "family": "Lennon",
+      "given": "Mary Clare"
+    },
+    {
+      "raw": "Kuang, Li",
+      "family": "Kuang",
+      "given": "Li"
+    },
+    {
+      "raw": "Alberti, Philip M.",
+      "family": "Alberti",
+      "given": "Philip M."
+    },
+    {
+      "raw": "Aber, J. Lawrence",
+      "family": "Aber",
+      "given": "J. Lawrence"
+    }
+  ],
+  "authors_text": "Wagmiller, Robert L.; Lennon, Mary Clare; Kuang, Li; Alberti, Philip M.; Aber, J. Lawrence",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1177/000312240607100507",
+  "doi_url": "https://doi.org/10.1177/000312240607100507",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240607100507",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240607100507.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  }
+}

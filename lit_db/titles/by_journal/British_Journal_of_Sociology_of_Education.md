@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1706** 篇 | 年份范围：1980–2026
+共 **1712** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -33,6 +33,7 @@
 - Parents’ perspectives on special education in England: institutional disability discrimination and non-compliance with the law · [DOI](https://doi.org/10.1080/01425692.2026.2638269)
 - Religion, agency, and choice in English state schools · [DOI](https://doi.org/10.1080/01425692.2026.2616654)
 - Academic statelessness: at-risk academics in the UK navigating the transition to post-fellowship positions · [DOI](https://doi.org/10.1080/01425692.2026.2642107)
+- Exploring anxiety and behaviour. Agency, liminality and relational embodiment in a PRU · [DOI](https://doi.org/10.1080/01425692.2026.2664171)
 
 ## 2025
 
@@ -726,6 +727,7 @@
 - Conceptualising the surveillance of teachers · [DOI](https://doi.org/10.1080/01425692.2016.1218752)
 - Femininity, science, and the denigration of the girly girl · [DOI](https://doi.org/10.1080/01425692.2016.1253455)
 - Misplaced optimism: how higher education reproduces rather than reduces social inequality · [DOI](https://doi.org/10.1080/01425692.2017.1281648)
+- Rethinking education and poverty · [DOI](https://doi.org/10.1080/01425692.2017.1349654)
 
 ## 2016
 
@@ -1783,10 +1785,12 @@
 ## 1997
 
 - Recognising Difference: the Romani ‘Gypsy’ child socialisation and education process · [DOI](https://doi.org/10.1080/0142569970180207)
+- Disciplining Students: the construction of student subjectivities · [DOI](https://doi.org/10.1080/0142569970180106)
 
 ## 1996
 
 - School Organization and Market Ecology: a realist sociological look at the infrastructure of school choice · [DOI](https://doi.org/10.1080/0142569960170403)
+- Power, Meaning and Identity: critical sociology of education in the United States · [DOI](https://doi.org/10.1080/0142569960170201)
 
 ## 1995
 
@@ -1812,6 +1816,7 @@
 - Bourdieu on Education and Social and Cultural Reproduction · [DOI](https://doi.org/10.1080/0142569900110405)
 - Agency as a Form of Discursive Practice. A Classroom Scene Observed · [DOI](https://doi.org/10.1080/0142569900110306)
 - Classroom Order as Practical Action: the making and un‐making of a quiet reproach · [DOI](https://doi.org/10.1080/0142569900110205)
+- The ‘Third Wave’: education and the ideology of parentocracy · [DOI](https://doi.org/10.1080/0142569900110105)
 
 ## 1989
 
@@ -1832,6 +1837,7 @@
 ## 1982
 
 - ’Technical Culture’ and Technical Education in France: a consideration of the work of Claude Grignon and its relevance to British further education curricula · [DOI](https://doi.org/10.1080/0142569820030203)
+- The ‘Hidden Pedagogy’ and its Implications for Teacher Training · [DOI](https://doi.org/10.1080/0142569820030303)
 
 ## 1980
 

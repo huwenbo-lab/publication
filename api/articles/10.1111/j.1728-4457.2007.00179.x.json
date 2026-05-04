@@ -1,0 +1,24 @@
+{
+  "title": "Pandemic Influenza: A Review",
+  "abstract": "This essay, written ten years after the first human death from avian influenza, reviews scientific, social, and policy aspects of pandemic influenza, and asks whether the near‐crisis level of concern is justified. That there will be another influenza pandemic is certain, and a number of factors suggest it will occur sooner rather than later. It is impossible, however, to predict two of the pandemic's crucial characteristics—its pathogenicity and the age‐attack curve. The scientific arsenal has never been stronger, yet gaps in the availability of antiviral drugs and vaccines are inevitable, and the world is poorly prepared to cope with the politics of drug shortage. Some studies suggest emergent pandemics can be “ring‐fenced,” but these studies are not broadly accepted. Assuming that they cannot, rapid and global deployment of a range of responses, including social distancing, travel limitations, and prophylactic/curative application of antiviral drugs such as Tamiflu, can limit impacts. However, the impacts are bound to be significant if not severe. Overall health‐sector strengthening, rural development (particularly in the area of veterinary health), and addressing the local, national, and international governance issues that cut across all aspects of infectious disease are more likely to bear fruit, especially in the developing world, than the pandemic preparedness planning now in vogue.",
+  "authors": [
+    {
+      "raw": "MacKellar, Landis",
+      "family": "MacKellar",
+      "given": "Landis"
+    }
+  ],
+  "authors_text": "MacKellar, Landis",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2007,
+  "doi": "10.1111/j.1728-4457.2007.00179.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2007.00179.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2007.00179.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2007.00179.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  }
+}

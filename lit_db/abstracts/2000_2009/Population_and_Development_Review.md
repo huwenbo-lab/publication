@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2000–2009 年文章（含摘要）
 
-共 **344** 篇
+共 **346** 篇
 
 ---
 
@@ -469,6 +469,11 @@
 **作者**: Gurven, Michael; Kaplan, Hillard
 **摘要**: Post‐reproductive longevity is a robust feature of human life and not only a recent phenomenon caused by improvements in sanitation, public health, and medical advances. We argue for an adaptive life span of 68‐78 years for modernHomo sapiensbased on our analysis of mortality profiles obtained from …
 
+### Pandemic Influenza: A Review
+**年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00179.x](https://doi.org/10.1111/j.1728-4457.2007.00179.x)
+**作者**: MacKellar, Landis
+**摘要**: This essay, written ten years after the first human death from avian influenza, reviews scientific, social, and policy aspects of pandemic influenza, and asks whether the near‐crisis level of concern is justified.…
+
 ### Policy lessons of the East Asian demographic transition
 **年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00103.x](https://doi.org/10.1111/j.1728-4457.2006.00103.x)
 **作者**: McNicoll, G
@@ -753,6 +758,10 @@
 **年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00069.x](https://doi.org/10.1111/j.1728-4457.2005.00069.x)
 **作者**: De Walque, D
 **摘要**: Aspects of the long-term demographic impact of genocide during the period of the Khmer Rouge (1975-79) in Cambodia are analyzed. Mortality data for siblings from the Cambodia Demographic and Health Survey in 2000 demonstrate that excess mortality was extremely high and heavily concentrated during 19…
+
+### Environmental Degradation and Human Well-Being: Report of the Millennium Ecosystem Assessment
+**年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00073.x](https://doi.org/10.1111/j.1728-4457.2005.00073.x)
+**摘要**: （暂无）
 
 ### The origins and demise of the concept of race
 **年份**: 2004 | **DOI**: [10.1111/j.1728-4457.2004.00021.x](https://doi.org/10.1111/j.1728-4457.2004.00021.x)
