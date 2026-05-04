@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **279** 篇
+共 **280** 篇
 
 ---
 
@@ -1061,6 +1061,10 @@
 
 ### The Covid‐19 Pandemic in Latin America and the Caribbean
 **年份**: 2022 | **DOI**: [10.1111/padr.12484](https://doi.org/10.1111/padr.12484)
+**摘要**: （暂无）
+
+### The 2022 UN Long‐Range Population Projections
+**年份**: 2022 | **DOI**: [10.1111/padr.12512](https://doi.org/10.1111/padr.12512)
 **摘要**: （暂无）
 
 ### The Introduction of Bismarck's Social Security System and its Effects on Marriage and Fertility in Prussia

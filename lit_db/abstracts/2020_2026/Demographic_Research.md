@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2020–2026 年文章（含摘要）
 
-共 **508** 篇
+共 **510** 篇
 
 ---
 
@@ -33,6 +33,16 @@
 ### Probabilistic population forecasts for small regions
 **年份**: 2026 | **DOI**: [10.4054/demres.2026.54.23](https://doi.org/10.4054/demres.2026.54.23)
 **作者**: Goes, Julius; Engelhardt, Henriette
+**摘要**: （暂无）
+
+### Partnership life courses and completed fertility in Spain
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.29](https://doi.org/10.4054/demres.2026.54.29)
+**作者**: Vidal, Sergi; Bolano, Danilo; Lozano, Mariona
+**摘要**: （暂无）
+
+### Economic insecurity and material deprivation: Coping strategies among couple families with and without small children in Europe
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.25](https://doi.org/10.4054/demres.2026.54.25)
+**作者**: Grotti, Raffaele; Gritti, Davide; Scherer, Stefani
 **摘要**: （暂无）
 
 ### Shifting spousal age gaps in Kenya and Ghana: Does education matter?

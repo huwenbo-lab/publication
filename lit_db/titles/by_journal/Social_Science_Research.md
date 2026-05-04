@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2260** 篇 | 年份范围：1972–2026
+共 **2263** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2360,6 +2360,8 @@
 
 - Estimating the size of an average personal network and of an event subpopulation: Some empirical results · [DOI](https://doi.org/10.1016/0049-089x(91)90012-r)
 - Leaving the faith: Testing theories of religious switching using survival models · [DOI](https://doi.org/10.1016/0049-089x(91)90015-u)
+- Why do married men earn more than unmarried men? · [DOI](https://doi.org/10.1016/0049-089x(91)90002-k)
+- Density dependence in the organizational evolution of the American brewing industry across different levels of analysis · [DOI](https://doi.org/10.1016/0049-089x(91)90008-q)
 
 ## 1989
 
@@ -2390,6 +2392,10 @@
 ## 1977
 
 - Body time and social time: Mood patterns by menstrual cycle phase and day of the week · [DOI](https://doi.org/10.1016/0049-089x(77)90013-8)
+
+## 1976
+
+- Season's greetings: From my status to yours · [DOI](https://doi.org/10.1016/0049-089x(76)90003-x)
 
 ## 1973
 

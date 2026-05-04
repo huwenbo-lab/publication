@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2010–2019 年文章（含摘要）
 
-共 **334** 篇
+共 **336** 篇
 
 ---
 
@@ -670,6 +670,11 @@
 **作者**: Murphy, Michael
 **摘要**: I estimate the impact of migration on population size in 11 European countries from the middle of the nineteenth century to the present. I derive estimates under the assumption of zero net migration from various points during this period using information from the Human Mortality Database.…
 
+### WHO, UNICEF, UNFPA, World Bank Group, and United Nations Population DivisionTrends in Maternal Mortality: 1990 to 2015Geneva: World Health Organization, 2015.
+**年份**: 2016 | **DOI**: [10.1111/padr.12033](https://doi.org/10.1111/padr.12033)
+**作者**: Bongaarts, John
+**摘要**: （暂无）
+
 ### Could Pronatalist Policies Discourage Childbearing?
 **年份**: 2015 | **DOI**: [10.1111/j.1728-4457.2015.00048.x](https://doi.org/10.1111/j.1728-4457.2015.00048.x)
 **作者**: Botev, Nikolai
@@ -1329,6 +1334,11 @@
 **年份**: 2012 | **DOI**: [10.1111/j.1728-4457.2012.00474.x](https://doi.org/10.1111/j.1728-4457.2012.00474.x)
 **作者**: Greenhalgh, Susan
 **摘要**: Focusing on the craft aspect of population researchthe generally unremarked fact that behind our well-turned-out publications lie particular, historically situated humans using craft-type techniquesthis essay traces the history of the making of population knowledge about China by the author over som…
+
+### Ronald Lee and Andrew Mason, Population Aging and the Generational Economy: A Global Perspective
+**年份**: 2012 | **DOI**: [10.1111/j.1728-4457.2012.00477.x](https://doi.org/10.1111/j.1728-4457.2012.00477.x)
+**作者**: McNicoll, Geoffrey
+**摘要**: （暂无）
 
 ### Comparing Relative Effects of Education and Economic Resources on Infant Mortality in Developing Countries
 **年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00451.x](https://doi.org/10.1111/j.1728-4457.2011.00451.x)

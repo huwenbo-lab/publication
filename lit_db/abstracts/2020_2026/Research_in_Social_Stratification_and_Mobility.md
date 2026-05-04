@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2020–2026 年文章（含摘要）
 
-共 **368** 篇
+共 **369** 篇
 
 ---
 
@@ -393,6 +393,11 @@
 ### Disability discrimination in hiring: A systematic review
 **年份**: 2025 | **DOI**: [10.1016/j.rssm.2025.101069](https://doi.org/10.1016/j.rssm.2025.101069)
 **作者**: Schwitter, Nicole; Chatzitheochari, Stella; Liebe, Ulf
+**摘要**: （暂无）
+
+### Origin, destination, or mobility? A systematic review of studies using diagonal reference models
+**年份**: 2025 | **DOI**: [10.1016/j.rssm.2025.101047](https://doi.org/10.1016/j.rssm.2025.101047)
+**作者**: Shi, Songyun; Gugushvili, Alexi
 **摘要**: （暂无）
 
 ### His and hers earnings trajectories: Economic homogamy and long-term earnings inequality within and between different-sex couples☆

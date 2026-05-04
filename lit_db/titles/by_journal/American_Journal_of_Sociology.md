@@ -1,6 +1,6 @@
 # American Journal of Sociology — 文章标题索引
 
-共 **971** 篇 | 年份范围：1896–2026
+共 **991** 篇 | 年份范围：1896–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -776,6 +776,7 @@
 - Power and position in the world city system · [DOI](https://doi.org/10.1086/378930)
 - The opportunity structure for discrimination · [DOI](https://doi.org/10.1086/378536)
 - Racial wage inequality: Job segregation and devaluation across US labor markets' · [DOI](https://doi.org/10.1086/378928)
+- Organizational Success and Worker Dignity: Complementary or Contradictory? · [DOI](https://doi.org/10.1086/422626)
 
 ## 2003
 
@@ -932,6 +933,7 @@
 - The Subcultural Theory of Urbanism: A Twentieth-Year Assessment · [DOI](https://doi.org/10.1086/230753)
 - The Organizational Context of Criminal Sentencing · [DOI](https://doi.org/10.1086/230635)
 - On the Edge or In Between: Niche Position, Niche Overlap, and the Duration of Voluntary Association Memberships · [DOI](https://doi.org/10.1086/230757)
+- Careers in Print: Books, Journals, and Scholarly Reputations · [DOI](https://doi.org/10.1086/230730)
 
 ## 1994
 
@@ -939,6 +941,7 @@
 - The Legalization of the Workplace · [DOI](https://doi.org/10.1086/230368)
 - Sons, Daughters, and Intergenerational Support in Taiwan · [DOI](https://doi.org/10.1086/230370)
 - Knowledge, Domination, and Criminal Punishment · [DOI](https://doi.org/10.1086/230367)
+- Rules, Resources, and Legitimacy Processes: Some Implications for Social Conflict, Order, and Change · [DOI](https://doi.org/10.1086/230366)
 
 ## 1993
 
@@ -946,12 +949,16 @@
 - Racial Differences in Household and Family Structure at the Turn of the Century · [DOI](https://doi.org/10.1086/230090)
 - Disaster, Organizing, and Role Enactment: A Structural Approach · [DOI](https://doi.org/10.1086/230270)
 - Specifying the Relationship Between Social Ties and Activism · [DOI](https://doi.org/10.1086/230319)
+- When Partners Become Parents: The Big Life Change for Couples.Carolyn Pape Cowan , Philip A. Cowan · [DOI](https://doi.org/10.1086/230251)
+- Intraorganizational Power and Internal Secularization in Protestant Denominations · [DOI](https://doi.org/10.1086/230228)
 
 ## 1992
 
 - I Will Follow Him: Family Ties, Gender-Role Beliefs, and Reluctance to Relocate for a Better Job · [DOI](https://doi.org/10.1086/229901)
 - Legal Ambiguity and Symbolic Structures: Organizational Mediation of Civil Rights Law · [DOI](https://doi.org/10.1086/229939)
 - Critical Theory and the Pragmatist Challenge · [DOI](https://doi.org/10.1086/230008)
+- Law That Does Not Fit Society: Sentencing Guidelines as a Neoclassical Reaction to the Dilemmas of Substantivized Law · [DOI](https://doi.org/10.1086/229904)
+- Was There a Hawthorne Effect? · [DOI](https://doi.org/10.1086/230046)
 
 ## 1991
 
@@ -962,6 +969,7 @@
 - Prejudice, Discrimination, and the Labor Market: Attainments of Immigrants in Australia · [DOI](https://doi.org/10.1086/229818)
 - Adolescent Competence and the Shaping of the Life Course · [DOI](https://doi.org/10.1086/229609)
 - Mind, Self, Society, and Computer: Artificial Intelligence and the Sociology of Mind · [DOI](https://doi.org/10.1086/229649)
+- Human Capital Investments or Norms of Role Transition? How Women's Schooling and Career Affect the Process of Family Formation · [DOI](https://doi.org/10.1086/229743)
 
 ## 1990
 
@@ -991,6 +999,7 @@
 - Toward an Integrated Theory of White-Collar Crime · [DOI](https://doi.org/10.1086/228750)
 - Face and Favor: The Chinese Power Game · [DOI](https://doi.org/10.1086/228588)
 - Class in the Household: A Power-Control Theory of Gender and Delinquency · [DOI](https://doi.org/10.1086/228583)
+- Unification Research Programs: Integrating Two Structural Theories · [DOI](https://doi.org/10.1086/228632)
 
 ## 1986
 
@@ -1011,6 +1020,7 @@
 
 - Comment on Kemper's "Social Constructionist and Positivist Approaches to the Sociology of Emotions" · [DOI](https://doi.org/10.1086/227874)
 - A Note on Emotionality, Self, and Interaction · [DOI](https://doi.org/10.1086/227871)
+- Neutralizing Sexism in Mixed-Sex Groups: Do Women Have to Be Better Than Men? · [DOI](https://doi.org/10.1086/227731)
 
 ## 1982
 
@@ -1036,12 +1046,14 @@
 - Some Economic Effects of Revolution: Models, Measurement, and the Cuban Evidence · [DOI](https://doi.org/10.1086/226903)
 - Indicators of Sex Typing: Traditional and Egalitarian, Situational and Ideological Responses · [DOI](https://doi.org/10.1086/227009)
 - Emotion Work, Feeling Rules, and Social Structure · [DOI](https://doi.org/10.1086/227049)
+- Women and Work: The Psychological Effects of Occupational Conditions · [DOI](https://doi.org/10.1086/226974)
 
 ## 1978
 
 - Who Should Get What? Fairness Judgments of the Distribution of Earnings · [DOI](https://doi.org/10.1086/226826)
 - The Structural Sources of Adventurism: The Case of the California Gold Rush · [DOI](https://doi.org/10.1086/226709)
 - Max Weber's Elective Affinities: Sociology Within the Bounds of Pure Reason · [DOI](https://doi.org/10.1086/226788)
+- Arts and Crafts · [DOI](https://doi.org/10.1086/226635)
 
 ## 1977
 
@@ -1078,6 +1090,7 @@
 ## 1971
 
 - Black Invisibility, the Press, and the Los Angeles Riot · [DOI](https://doi.org/10.1086/224978)
+- Mobility and Work Satisfaction: A Discussion of the Use and Interpretation of Mobility Models · [DOI](https://doi.org/10.1086/225065)
 
 ## 1970
 
@@ -1124,6 +1137,11 @@
 - Structure and Process in Modern Societies.Talcott Parsons · [DOI](https://doi.org/10.1086/222828)
 - The Rural-Urban Continuum: Real but Relatively Unimportant · [DOI](https://doi.org/10.1086/222824)
 
+## 1959
+
+- Some Alternatives to Ecological Correlation · [DOI](https://doi.org/10.1086/222597)
+- Rural-Urban and Status Differences in Interpersonal Contacts · [DOI](https://doi.org/10.1086/222660)
+
 ## 1958
 
 - The Power Elite-Reconsidered · [DOI](https://doi.org/10.1086/222467)
@@ -1149,6 +1167,7 @@
 - Industrial Conflict and Its Mediation · [DOI](https://doi.org/10.1086/221533)
 - Efficiency and "The Fix": Informal Intergroup Relations in a Piecework Machine Shop · [DOI](https://doi.org/10.1086/221535)
 - The Concept of Neighborliness · [DOI](https://doi.org/10.1086/221507)
+- Concepts of Security and Insecurity · [DOI](https://doi.org/10.1086/221442)
 
 ## 1952
 
@@ -1162,6 +1181,7 @@
 ## 1949
 
 - The Sociology of Sociability · [DOI](https://doi.org/10.1086/220534)
+- Caste, Class, and Race: A Study in Social Dynamics.Oliver Cromwell Cox · [DOI](https://doi.org/10.1086/220401)
 
 ## 1944
 
@@ -1220,10 +1240,15 @@
 - The Sociology of Ferdinand Tonnies · [DOI](https://doi.org/10.1086/214126)
 - Insanity a Social Problem · [DOI](https://doi.org/10.1086/214026)
 
+## 1925
+
+- Christian Missions and Oriental Civilizations.Maurice T. Price · [DOI](https://doi.org/10.1086/213857)
+
 ## 1921
 
 - The Neighborhood: A Study of Local Life in the City of Columbus, Ohio. I. · [DOI](https://doi.org/10.1086/213301)
 - The Neighborhood: A Study of Local Life in the City of Columbus, Ohio. II. · [DOI](https://doi.org/10.1086/213346)
+- Sociology and the Social Sciences: The Social Organism and the Collective Mind · [DOI](https://doi.org/10.1086/213265)
 
 ## 1914
 
@@ -1240,6 +1265,7 @@
 ## 1909
 
 - Soziologie: Untersuchungen über die Formen der Gesellschaft.Georg Simmel · [DOI](https://doi.org/10.1086/211714)
+- The Teaching of Sociology in the United States · [DOI](https://doi.org/10.1086/211772)
 
 ## 1907
 

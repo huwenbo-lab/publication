@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **120** 篇
+共 **124** 篇
 
 ---
 
@@ -190,6 +190,11 @@
 **作者**: DiTomaso, Nancy; Post, Corinne; Parks-Yancy, Rochelle
 **摘要**: Workforce diversity refers to the composition of work units in terms of the cultural or demographic characteristics that are salient and symbolically meaningful in the relationships among group members.…
 
+### The Sociology of Markets
+**年份**: 2007 | **DOI**: [10.1146/annurev.soc.33.040406.131736](https://doi.org/10.1146/annurev.soc.33.040406.131736)
+**作者**: Fligstein, Neil; Dauter, Luke
+**摘要**: The sociology of markets has been one of the most vibrant fields in sociology in the past 25 years. There is a great deal of agreement that markets are social structures characterized by extensive social relationships between firms, workers, suppliers, customers, and governments.…
+
 ### The long twentieth century in American sociology: A semiautobiographical survey
 **年份**: 2006 | **DOI**: [10.1146/annurev.soc.32.061604.123051](https://doi.org/10.1146/annurev.soc.32.061604.123051)
 **作者**: Williams, Robin M., Jr.
@@ -279,6 +284,11 @@
 **年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122308](https://doi.org/10.1146/annurev.soc.31.041304.122308)
 **作者**: Peterson, Ruth D.; Krivo, Lauren J.
 **摘要**: In 1995, Sampson & Wilson assessed the state of knowledge on race and violence and set forth an approach for future research. We review macrostructural analyses of race, ethnicity, and violent crime since 1995 to evaluate progress in explaining inequality in criminal violence across racial and ethni…
+
+### Multiethnic Cities in North America
+**年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122246](https://doi.org/10.1146/annurev.soc.31.041304.122246)
+**作者**: Fong, Eric; Shibuya, Kumiko
+**摘要**: The growing Hispanic and Asian populations in most major North American cities have drastically transformed the urban demographic landscape to become racially and ethnically diversified.…
 
 ### The use of newspaper data in the study of collective action
 **年份**: 2004 | **DOI**: [10.1146/annurev.soc.30.012703.110603](https://doi.org/10.1146/annurev.soc.30.012703.110603)
@@ -410,6 +420,11 @@
 **作者**: Zuberi, Tukufu; Sibanda, Amson; Bawah, Ayaga 等4人
 **摘要**: ▪ Abstract African society is quite distinct in both its relationship to the rest of the world and its history. Africa seems beset by a myriad of crises, from famines, to civil wars, to economic meltdowns. In addition to these crises, profound population and social change has occurred.…
 
+### The Urban Street Gang after 1970
+**年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.101602.130751](https://doi.org/10.1146/annurev.soc.29.101602.130751)
+**作者**: Coughlin, Brenda C.; Venkatesh, Sudhir Alladi
+**摘要**: ▪ Abstract This review discusses research on the urban street gang after the 1960s, the period in which social scientists began to conceptualize the gang outside of the social-problems framework.…
+
 ### Barking up the wrong branch: Scientific alternatives to the current model of sociological science
 **年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.141122](https://doi.org/10.1146/annurev.soc.28.110601.141122)
 **作者**: Lieberson, S; Lynn, FB
@@ -454,6 +469,11 @@
 **年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.141048](https://doi.org/10.1146/annurev.soc.28.110601.141048)
 **作者**: Smith, Ryan A.
 **摘要**: ▪ Abstract This chapter surveys sociological approaches to the study of job authority, including theoretical foundations, measurement, and emergence as an important dimension of social inequality.…
+
+### New Economics of Sociological Criminology
+**年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.140752](https://doi.org/10.1146/annurev.soc.28.110601.140752)
+**作者**: McCarthy, Bill
+**摘要**: ▪ Abstract This paper begins with a summary of the rational choice approach and its implications for the study of criminal behavior. I then review research on offending that uses the rational choice approach in conjunction with more sociological orientations.…
 
 ### Cases and biographies: An essay on routinization and the nature of comparison
 **年份**: 2001 | **DOI**: [10.1146/annurev.soc.27.1.47](https://doi.org/10.1146/annurev.soc.27.1.47)

@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **590** 篇
+共 **591** 篇
 
 ---
 
@@ -1099,6 +1099,11 @@
 **年份**: 2016 | **DOI**: [10.1111/1468-4446.12188](https://doi.org/10.1111/1468-4446.12188)
 **作者**: Fitzgerald, Des; Rose, Nikolas; Singh, Ilina
 **摘要**: This paper proposes a re-thinking of the relationship between sociology and the biological sciences. Tracing lines of connection between the history of sociology and the contemporary landscape of biology, the paper argues for a reconfiguration of this relationship beyond popular rhetorics of biologi…
+
+### Graeber, D.The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of BureaucracyMelville House Publishing: New York2015 261 pp. £18.99 (hardback)
+**年份**: 2016 | **DOI**: [10.1111/1468-4446.12166](https://doi.org/10.1111/1468-4446.12166)
+**作者**: Komporozos‐Athanasiou, Aris
+**摘要**: （暂无）
 
 ### On reflexivity and the conduct of the self in everyday life: reflections on Bourdieu and Archer
 **年份**: 2015 | **DOI**: [10.1111/1468-4446.12150](https://doi.org/10.1111/1468-4446.12150)

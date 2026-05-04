@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **341** 篇
+共 **343** 篇
 
 ---
 
@@ -93,6 +93,16 @@
 **年份**: 2026 | **DOI**: [10.1111/jftr.70057](https://doi.org/10.1111/jftr.70057)
 **作者**: Monk, J. Kale; Jamison, Tyler B.; Basinger, Erin D. 等6人
 **摘要**: ABSTRACT Online forums offer family scholars a unique opportunity to learn how people make sense of complex issues related to family, identity, and relationships. These digital spaces often mirror or even amplify offline dynamics, as users interact to disclose sensitive information, construct narrat…
+
+### Are We Willing to Change? A Feminist Agenda for the Study of Men in Families
+**年份**: 2026 | **DOI**: [10.1111/jftr.70061](https://doi.org/10.1111/jftr.70061)
+**作者**: Garnett‐Deakin, Aran; Sanner, Caroline
+**摘要**: ABSTRACT Public concern over the increasingly visible crisis of hegemonic masculinity is growing. Young men are showing a rise in antifeminist rhetoric, worsening mental health, and a loneliness epidemic.…
+
+### Adolescence: A Critical Media Review
+**年份**: 2026 | **DOI**: [10.1111/jftr.70059](https://doi.org/10.1111/jftr.70059)
+**作者**: Andrea, Erin K.; Desens Gochanour, Emma M.; Nuñez Love, Lizee
+**摘要**: （暂无）
 
 ### Issue Information
 **年份**: 2025 | **DOI**: [10.1111/jftr.12564](https://doi.org/10.1111/jftr.12564)

@@ -1,6 +1,6 @@
 # Chinese Journal of Sociology — 文章标题索引
 
-共 **259** 篇 | 年份范围：2015–2026
+共 **267** 篇 | 年份范围：2015–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -14,6 +14,8 @@
 - Climate adaptation and institutional continuity: Understanding lock-in dynamics in China's grassland governance · [DOI](https://doi.org/10.1177/2057150x261420583)
 - Bridging planned and autonomous adaptation for flood resilience in multi-ethnic communities along China's Tea-Horse Road · [DOI](https://doi.org/10.1177/2057150x261419582)
 - Grandparents’ authoritative resources and intergenerational co-parenting relationships in urban Chinese families: Differences between maternal and paternal grandparents · [DOI](https://doi.org/10.1177/2057150x261437977)
+- When artificial intelligence makes everything similar: The risks of content homogenization · [DOI](https://doi.org/10.1177/2057150x261419573)
+- Born to work longer? Lifetime socioeconomic dynamics, pension eligibility, and late-life employment in urban China · [DOI](https://doi.org/10.1177/2057150x261420939)
 
 ## 2025
 
@@ -40,6 +42,7 @@
 - Navigating social and material challenges of sustainable consumption among the Chinese urban middle class: Environmentalism, simplicity, and frugality · [DOI](https://doi.org/10.1177/2057150X251371845)
 - The social impact of generative LLM-based AI · [DOI](https://doi.org/10.1177/2057150X251315997)
 - Natural language processing for social science research: A comprehensive review · [DOI](https://doi.org/10.1177/2057150X241306780)
+- AI's dual impact: Transforming society and social sciences · [DOI](https://doi.org/10.1177/2057150x251316601)
 
 ## 2024
 
@@ -66,6 +69,7 @@
 - Demographic pathways and intergenerational effects of changes in women's education: Evidence from China · [DOI](https://doi.org/10.1177/2057150X241246125)
 - Socioeconomic and gender disparities in depression among elderly Chinese individuals · [DOI](https://doi.org/10.1177/2057150X241269279)
 - Sociological studies on Chinese religion since the turn of the century · [DOI](https://doi.org/10.1177/2057150X231223288)
+- Introduction to the special issue on health and aging in China · [DOI](https://doi.org/10.1177/2057150x241273713)
 
 ## 2023
 
@@ -116,6 +120,7 @@
 - Heroines who are rebuilding their country: State-society circumstances and coping strategies of female leaders in post-genocide Rwanda · [DOI](https://doi.org/10.1177/2057150X221123622)
 - Sexuality in China: A review and new findings · [DOI](https://doi.org/10.1177/2057150x221114599)
 - Knowledge production and epistemic politics: A scientometric review of Chinese sexuality studies in English-language academia · [DOI](https://doi.org/10.1177/2057150x221111523)
+- Social class differentials in marital sex in China (2000–2015) · [DOI](https://doi.org/10.1177/2057150x221107958)
 
 ## 2021
 
@@ -216,6 +221,8 @@
 - Assimilation of China’s rural-to-urban migrants: A multidimensional process · [DOI](https://doi.org/10.1177/2057150x18764232)
 - What keeps China’s floating population from moving? · [DOI](https://doi.org/10.1177/2057150x17748296)
 - The system of special commissioners and the early labor movement of the Communist Party of China: Illustrated by the history of the Anyuan workers’ movement (1921–1925) · [DOI](https://doi.org/10.1177/2057150x18803586)
+- Call for Papers · [DOI](https://doi.org/10.1177/2057150x18793045)
+- Call for Papers · [DOI](https://doi.org/10.1177/2057150x18793278)
 
 ## 2017
 
@@ -271,6 +278,7 @@
 - Housing inequality in urban China · [DOI](https://doi.org/10.1177/2057150x15624894)
 - Universal, yet local: The religious factor in Chinese Muslims’ perception of world developmental hierarchy · [DOI](https://doi.org/10.1177/2057150x16674126)
 - Intergenerational relations and Chinese elderly's subjective well-being: An analysis of differentials by gender and residence · [DOI](https://doi.org/10.1177/2057150x16657936)
+- Corrigendum · [DOI](https://doi.org/10.1177/2057150x15625564)
 
 ## 2015
 

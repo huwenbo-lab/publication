@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2888** 篇 | 年份范围：1926–2026
+共 **2902** 篇 | 年份范围：1926–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -12,6 +12,9 @@
 - Does stringent climate policy decouple economic growth from greenhouse gas emissions? · [DOI](https://doi.org/10.1093/sf/soaf217)
 - Review of “The Returned: Former U.S. Migrants’ Lives in Mexico City” · [DOI](https://doi.org/10.1093/sf/soaf221)
 - The racialized penalties of immigrant origin: meta-analytic evidence on hiring discrimination in twelve countries · [DOI](https://doi.org/10.1093/sf/soag028)
+- Policy configurations and the elasticity of gendered patterns of paid and unpaid work—evidence from comparative conjoint analyses · [DOI](https://doi.org/10.1093/sf/soag038)
+- Are aging parents and adult children living farther apart? Decomposing trends in intergenerational proximity and coresidence among Finnish parents aged 60–69 (2003–2023) · [DOI](https://doi.org/10.1093/sf/soag043)
+- Volunteering trajectories across crises: resilience, persistence and spill-over between ordinary and crisis volunteering · [DOI](https://doi.org/10.1093/sf/soaf219)
 
 ## 2025
 
@@ -2948,6 +2951,7 @@
 ## 1989
 
 - Household Characteristics, Neighborhood Composition and Victimization Risk · [DOI](https://doi.org/10.2307/2579263)
+- The Effects of Children on Adults' Psychological Well-Being: 1957-1976 · [DOI](https://doi.org/10.2307/2579223)
 
 ## 1988
 
@@ -2976,6 +2980,7 @@
 
 - Achievement and Ascriptive Processes in the Recognition of Scientific Articles · [DOI](https://doi.org/10.2307/2578354)
 - Socioeconomic Returns to Migration among Married Women · [DOI](https://doi.org/10.2307/2578318)
+- Theory and Method in Comparative Research: Two Strategies · [DOI](https://doi.org/10.2307/2578132)
 
 ## 1980
 
@@ -2985,16 +2990,20 @@
 ## 1979
 
 - Enduring Effects of Military Service? Opinion Differences between U.S. Veterans and Nonveterans · [DOI](https://doi.org/10.2307/2577356)
+- Gender Advertisements. · [DOI](https://doi.org/10.2307/2577822)
 
 ## 1978
 
 - When Can Age, Period, and Cohort be Separated? · [DOI](https://doi.org/10.2307/2577639)
+- Work Satisfaction and Age: Some Evidence for the `Job Change' Hypothesis · [DOI](https://doi.org/10.2307/2577515)
+- A Structural Model of the Mobility Table · [DOI](https://doi.org/10.2307/2577226)
 
 ## 1977
 
 - Socioeconomic Determinants of Intraethnic Marriage and Friendship · [DOI](https://doi.org/10.2307/2577568)
 - Resource Allocations in United Funds: Examination of Power and Dependence · [DOI](https://doi.org/10.2307/2577470)
 - The Structure of Adult Friendship Choices · [DOI](https://doi.org/10.2307/2577741)
+- The Naval Reservist: An Empirical Assessment of Ephemeral Role Enactment · [DOI](https://doi.org/10.2307/2577468)
 
 ## 1976
 
@@ -3006,10 +3015,12 @@
 - WAR, PRESIDENTS AND PUBLIC OPINION. By John E. Mueller. New York: Wiley, 1973. 300 pp · [DOI](https://doi.org/10.1093/sf/53.3.521-a)
 - The Division of Labor: Conceptualization and Related Measures · [DOI](https://doi.org/10.2307/2576589)
 - Microeconomic Theories of Fertility: A Critique · [DOI](https://doi.org/10.2307/2576080)
+- Professionalization, Bureaucratization and Rationalization: The Views of Max Weber · [DOI](https://doi.org/10.2307/2576478)
 
 ## 1974
 
 - Social Class and Social Time Perspective · [DOI](https://doi.org/10.2307/2576837)
+- Forming Composite Scales and Estimating Their Validity Through Factor Analysis · [DOI](https://doi.org/10.2307/2576010)
 
 ## 1973
 
@@ -3039,6 +3050,7 @@
 ## 1966
 
 - Mass Communication and Social Change · [DOI](https://doi.org/10.2307/2575832)
+- The Religious Orientations of American Natural Scientists · [DOI](https://doi.org/10.2307/2575087)
 
 ## 1965
 
@@ -3092,10 +3104,15 @@
 
 - The Modern Caste School of Race Relations · [DOI](https://doi.org/10.2307/2570563)
 - The Process of Urbanization · [DOI](https://doi.org/10.2307/3005615)
+- The Significance of Comte · [DOI](https://doi.org/10.2307/2570423)
 
 ## 1939
 
 - The Professions and Social Structure · [DOI](https://doi.org/10.2307/2570695)
+
+## 1933
+
+- A Century of Progress in the Social Sciences · [DOI](https://doi.org/10.2307/2570271)
 
 ## 1932
 

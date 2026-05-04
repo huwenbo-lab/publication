@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **118** 篇
+共 **120** 篇
 
 ---
 
@@ -149,6 +149,16 @@
 **年份**: 2024 | **DOI**: [10.1146/annurev-soc-020321-030515](https://doi.org/10.1146/annurev-soc-020321-030515)
 **作者**: Goldberg, Amir; Singell, Madison H.
 **摘要**: Recent years have seen a growing sociological interest in meaning. In fact, some argue that sociology cannot confront its foundational questions without addressing meaning. Yet sociologists mean many things when they talk about meaning.…
+
+### How Threat Mobilizes the Resurgence and Persistence of US White Supremacist Activism: The 1980s to the Present
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-031021-112151](https://doi.org/10.1146/annurev-soc-031021-112151)
+**作者**: Simi, Pete; Futrell, Robert; Burston, Adam
+**摘要**: Despite a centuries-long history of violent mobilization, white supremacist activism (WSA) has received relatively little sociological attention outside a small, specialized subfield.…
+
+### Online Illegal Cryptomarkets
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-090523-052916](https://doi.org/10.1146/annurev-soc-090523-052916)
+**作者**: Haynie, Dana L.; Duxbury, Scott W.
+**摘要**: Cryptomarkets—online markets for illegal goods—have revolutionized the illegal drug trade, constituting about 10% of all drug trades and attracting users to a greater variety of and more addictive substances than available in offline drug markets.…
 
 ### Policing, Punishment, and Place: Spatial-Contextual Analyses of the Criminal Legal System
 **年份**: 2023 | **DOI**: [10.1146/annurev-soc-031021-035328](https://doi.org/10.1146/annurev-soc-031021-035328)

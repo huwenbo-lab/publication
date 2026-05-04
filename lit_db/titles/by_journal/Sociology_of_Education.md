@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **578** 篇 | 年份范围：1963–2026
+共 **592** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -588,6 +588,8 @@
 - Educational Progress of Children of Immigrants: The Roles of Class, Ethnicity, and School Context · [DOI](https://doi.org/10.2307/2112714)
 - Opportunity-to-Learn Standards: A Sociological Critique · [DOI](https://doi.org/10.2307/3108455)
 - The Problem of Individualism in Family-School Policies · [DOI](https://doi.org/10.2307/3108454)
+- Race, Cultural Capital, and Schooling: An Analysis of Trends in the United States · [DOI](https://doi.org/10.2307/2112721)
+- Gender and Job Values · [DOI](https://doi.org/10.2307/2112723)
 
 ## 1995
 
@@ -595,6 +597,7 @@
 - Extracurricular Activities and High School Dropouts · [DOI](https://doi.org/10.2307/2112764)
 - Effects of High School Restructuring and Size on Early Gains in Achievement and Engagement · [DOI](https://doi.org/10.2307/2112741)
 - Individual and Organizational Predictors of High School Track Placement · [DOI](https://doi.org/10.2307/2112743)
+- Religious Socialization and Female Subjectivity: Religious-Zionist Adolescent Girls in Israel · [DOI](https://doi.org/10.2307/2112763)
 
 ## 1994
 
@@ -608,6 +611,7 @@
 - Maximally Maintained Inequality: Expansion, Reform, and Opportunity in Irish Education, 1921-75 · [DOI](https://doi.org/10.2307/2112784)
 - Analyzing Distributions in School Effects Research: An Empirical Illustration · [DOI](https://doi.org/10.2307/2112757)
 - From Nerds to Normals: The Recovery of Identity among Adolescents from Middle School to High School · [DOI](https://doi.org/10.2307/2112783)
+- The Effect of the Number of Diplomas on Their Value · [DOI](https://doi.org/10.2307/2112737)
 
 ## 1992
 
@@ -616,6 +620,8 @@
 - Policy, School Structure, and Sociodemographic Effects on Statewide High School Dropout Rates · [DOI](https://doi.org/10.2307/2112694)
 - Multinational Corporate Investment and Women's Participation in Higher Education in Noncore Nations · [DOI](https://doi.org/10.2307/2112691)
 - Contextual Effects on the Self-perceived Efficacy of High School Teachers · [DOI](https://doi.org/10.2307/2112680)
+- Research, Teaching, and Publication Productivity: Mutuality Versus Competition in Academia · [DOI](https://doi.org/10.2307/2112772)
+- Short- and Long-Term Macroeconomic Returns to Higher Education · [DOI](https://doi.org/10.2307/2112690)
 
 ## 1991
 
@@ -627,6 +633,7 @@
 
 - The Attitude-Achievement Paradox Among Black Adolescents · [DOI](https://doi.org/10.2307/2112896)
 - Students' Characteristics and the Peer-Influence Process · [DOI](https://doi.org/10.2307/2112858)
+- Segmented Labor Markets in Institutions of Higher Learning · [DOI](https://doi.org/10.2307/2112834)
 
 ## 1989
 
@@ -640,6 +647,8 @@
 - Curriculum Tracking as Mediating the Social Distribution of High School Achievement · [DOI](https://doi.org/10.2307/2112266)
 - Routines in the Peer Culture of American and Italian Nursery School Children · [DOI](https://doi.org/10.2307/2112305)
 - Friendship in School: Gender and Racial Homophily · [DOI](https://doi.org/10.2307/2112441)
+- Educational Credentials and Promotions: Does Schooling do More than Get You in the Door? · [DOI](https://doi.org/10.2307/2112309)
+- Returning to School and Women's Occupational Attainment · [DOI](https://doi.org/10.2307/2112307)
 
 ## 1987
 
@@ -648,6 +657,7 @@
 - The Stratification of High School Learning Opportunities · [DOI](https://doi.org/10.2307/2112271)
 - Student Passivity: A Study of Question Asking in K-12 Classrooms · [DOI](https://doi.org/10.2307/2112275)
 - Ability Grouping and Sex Differences in Mathematics Achievement · [DOI](https://doi.org/10.2307/2112582)
+- Self-Selection in Japanese Junior High Schools: A Longitudinal Study of Students' Educational Plans · [DOI](https://doi.org/10.2307/2112274)
 
 ## 1986
 
@@ -678,6 +688,7 @@
 - Public and Private Schools Revisited · [DOI](https://doi.org/10.2307/2112551)
 - Youth Job Structure and School Enrollment, 1890-1920 · [DOI](https://doi.org/10.2307/2112383)
 - A Text and Reconceptualization of a Theoretical Model of College Withdrawal in a Commuter Institution Setting · [DOI](https://doi.org/10.2307/2112657)
+- The Wisconsin Model of Status Attainment: A National Replication with Improved Measures of Ability and Aspiration · [DOI](https://doi.org/10.2307/2112300)
 
 ## 1982
 
@@ -714,11 +725,13 @@
 ## 1977
 
 - Athletics, Aspirations, and Attainments · [DOI](https://doi.org/10.2307/2112373)
+- High School Context Effects on Aspirations · [DOI](https://doi.org/10.2307/2112499)
 
 ## 1976
 
 - The Institutionalization of Academic Innovations: Two Models · [DOI](https://doi.org/10.2307/2112519)
 - Education as a Dimension of Status Incongruence between Parents and the Self Perceptions of College Students · [DOI](https://doi.org/10.2307/2112233)
+- Interpersonal Influences on Educational Aspirations: A Cross-Cultural Analysis · [DOI](https://doi.org/10.2307/2112391)
 
 ## 1975
 
@@ -732,6 +745,7 @@
 ## 1973
 
 - The School as a Social Environment for Learning: Social Organization and Micro-Social Process in Education · [DOI](https://doi.org/10.2307/2112204)
+- Status Attainment Processes · [DOI](https://doi.org/10.2307/2112205)
 
 ## 1972
 

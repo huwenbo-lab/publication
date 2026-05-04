@@ -1,7 +1,7 @@
 # Social Forces
 ## 2020–2026 年文章（含摘要）
 
-共 **502** 篇
+共 **505** 篇
 
 ---
 
@@ -29,6 +29,21 @@
 **年份**: 2026 | **DOI**: [10.1093/sf/soag028](https://doi.org/10.1093/sf/soag028)
 **作者**: Quillian, Lincoln; Midtbøen, Arnfinn H
 **摘要**: Abstract The role of discrimination in shaping the life chances of immigrants and their descendants is central to debates in the sociology of immigration. This study synthesizes evidence from 114 field experiments on hiring conducted across twelve countries, comparing discrimination against foreign-…
+
+### Policy configurations and the elasticity of gendered patterns of paid and unpaid work—evidence from comparative conjoint analyses
+**年份**: 2026 | **DOI**: [10.1093/sf/soag038](https://doi.org/10.1093/sf/soag038)
+**作者**: Stadelmann-Steffen, Isabelle; Oehrli, Dominique; Lütolf, Meret
+**摘要**: Abstract A considerable number of scholars have discussed the role that family policies play in shaping the gendered division of labor within households. The majority of this research has focused on childcare and parental leave policies and their relationship with maternal employment.…
+
+### Are aging parents and adult children living farther apart? Decomposing trends in intergenerational proximity and coresidence among Finnish parents aged 60–69 (2003–2023)
+**年份**: 2026 | **DOI**: [10.1093/sf/soag043](https://doi.org/10.1093/sf/soag043)
+**作者**: Afable, Sanny D; Evans, Megan; Korhonen, Kaarina 等7人
+**摘要**: Abstract Closer distance between parents and their children facilitates intergenerational contact and exchanges of support in later life. There are mixed narratives and evidence regarding the divergence—or convergence—of intergenerational proximity in aging societies.…
+
+### Volunteering trajectories across crises: resilience, persistence and spill-over between ordinary and crisis volunteering
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf219](https://doi.org/10.1093/sf/soaf219)
+**作者**: Høgenhaven, Lærke; Møgelmose, Louis; Carlsen, Hjalmar Bang 等4人
+**摘要**: Abstract This study contributes to the sociology of volunteering and crisis research by analyzing the little studied relationship between crisis volunteering (addressing societal crises) and ordinary volunteering (unrelated to crises).…
 
 ### Financialization and unintended emission reductions: evidence from the OECD, 1995-2020
 **年份**: 2025 | **DOI**: [10.1093/sf/soaf220](https://doi.org/10.1093/sf/soaf220)

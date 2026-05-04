@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2010–2019 年文章（含摘要）
 
-共 **414** 篇
+共 **416** 篇
 
 ---
 
@@ -1270,6 +1270,10 @@
 **作者**: Rathelot, Roland; Safi, Mirna
 **摘要**: This article provides empirical results on patterns of native and immigrant geographic mobility in France. Using longitudinal data, we measure mobility from one French municipality (commune) to another over time and estimate the effect of the initial municipality's ethnic composition on the probabil…
 
+### Acknowledgment of Referees
+**年份**: 2014 | **DOI**: [10.1177/0003122414557779](https://doi.org/10.1177/0003122414557779)
+**摘要**: （暂无）
+
 ### Alliances and Perception Profiles in the Iranian Reform Movement, 1997 to 2005
 **年份**: 2013 | **DOI**: [10.1177/0003122413508285](https://doi.org/10.1177/0003122413508285)
 **作者**: Kadivar, Mohammad Ali
@@ -1879,6 +1883,10 @@
 **年份**: 2011 | **DOI**: [10.1177/0003122411401250](https://doi.org/10.1177/0003122411401250)
 **作者**: Briscoe, Forrest; Kellogg, Katherine C.
 **摘要**: One of the great paradoxes of inequality in organizations is that even when organizations introduce new programs designed to help employees in traditionally disadvantaged groups succeed, employees who use these programs often suffer negative career consequences.…
+
+### Acknowledgment of Referees
+**年份**: 2011 | **DOI**: [10.1177/0003122411431065](https://doi.org/10.1177/0003122411431065)
+**摘要**: （暂无）
 
 ### Effects of Prenatal Poverty on Infant Health: State Earned Income Tax Credits and Birth Weight
 **年份**: 2010 | **DOI**: [10.1177/0003122410374086](https://doi.org/10.1177/0003122410374086)

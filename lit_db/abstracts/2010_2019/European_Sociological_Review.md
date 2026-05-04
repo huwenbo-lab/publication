@@ -1,7 +1,7 @@
 # European Sociological Review
 ## 2010–2019 年文章（含摘要）
 
-共 **694** 篇
+共 **695** 篇
 
 ---
 
@@ -1379,6 +1379,11 @@
 **年份**: 2015 | **DOI**: [10.1093/esr/jcu078](https://doi.org/10.1093/esr/jcu078)
 **作者**: Wimmer, Andreas
 **摘要**: Why have some states been captured by specific ethnic elites and their clienteles, excluding all others from access to government power? Conversely, what explains political inclusion across ethnic divides or, in other words, successful 'nation building'?…
+
+### The German Life History Study—An Introduction
+**年份**: 2015 | **DOI**: [10.1093/esr/jcv011](https://doi.org/10.1093/esr/jcv011)
+**作者**: Mayer, Karl Ulrich
+**摘要**: （暂无）
 
 ### Contents
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu036](https://doi.org/10.1093/esr/jcu036)

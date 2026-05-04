@@ -1,6 +1,6 @@
 # Sociology — 文章标题索引
 
-共 **2895** 篇 | 年份范围：1975–2026
+共 **2907** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -29,6 +29,10 @@
 - Time Well Spent? Rhythms of Dating on Apps before, during and after COVID-19 Social Restrictions · [DOI](https://doi.org/10.1177/00380385251412565)
 - Love Your Neighbourhood and Leave It: Citizenship Ideals, Welfare Encounters and the Reproduction of Cross-Pressure in a Disadvantaged Helsinki Neighbourhood · [DOI](https://doi.org/10.1177/00380385261424076)
 - The Invisible Super-Rich? A Quantitative Analysis of the Press Coverage of Germany’s Wealth Elite · [DOI](https://doi.org/10.1177/00380385261428292)
+- Vocational narratives: How students make sense of their educational choices · [DOI](https://doi.org/10.1177/00380385261434874)
+- The social production of small urban rivers: The (re)making of two riverside spaces in Lewisham · [DOI](https://doi.org/10.1177/00380385261432893)
+- The traditionalist illusion: How conventional gender role items obscure egalitarian views · [DOI](https://doi.org/10.1177/00380385261432890)
+- Gendered pleasures: Time trends in pornographic displays of pleasure and affection · [DOI](https://doi.org/10.1177/00380385261432884)
 
 ## 2025
 
@@ -2952,12 +2956,14 @@
 - Evaluating `Diaspora': Beyond Ethnicity? · [DOI](https://doi.org/10.1177/0038038598032003009)
 - Social Integration and System Integration: Reconsidering the Classical Distinction · [DOI](https://doi.org/10.1177/0038038598032003005)
 - The Data are Out there, or are They? Implications for Archiving and Revisiting Qualitative Data · [DOI](https://doi.org/10.1177/0038038598032004006)
+- Gender, Methodology and People's Ways of Knowing: Some Problems with Feminism and the Paradigm Debate in Social Science · [DOI](https://doi.org/10.1177/0038038598032004005)
 
 ## 1997
 
 - The Place of Inter-Rater Reliability in Qualitative Research: An Empirical Study · [DOI](https://doi.org/10.1177/0038038597031003015)
 - Subjectivity and the Labour Process: Conceptualising `Good Work' · [DOI](https://doi.org/10.1177/0038038597031003004)
 - Social Mobility, Individual Ability and the Inheritance of Class Inequality · [DOI](https://doi.org/10.1177/0038038597031004002)
+- Social Movement Theory, Women and the Question of Interests · [DOI](https://doi.org/10.1177/0038038597031004003)
 
 ## 1996
 
@@ -2971,10 +2977,12 @@
 - Young People and their Contribution to Household Work · [DOI](https://doi.org/10.1177/0038038595029002008)
 - Incorporation without Integration: Palestinian Citizens in Israel's Labour Market · [DOI](https://doi.org/10.1177/0038038595029003004)
 - Death in the News: The Public Invigilation of Private Emotion · [DOI](https://doi.org/10.1177/0038038595029004002)
+- Outline of a Practical Theory of Football Violence · [DOI](https://doi.org/10.1177/0038038595029004005)
 
 ## 1994
 
 - Just-in-Time, `Regimes' and Reductionism · [DOI](https://doi.org/10.1177/0038038594028001003)
+- The Female Malady? Men, Women and Madness in Nineteenth Century Britain · [DOI](https://doi.org/10.1177/0038038594028001016)
 
 ## 1993
 
@@ -2982,6 +2990,7 @@
 - `Black and Ethnic Minority' or `Asian, Black and Other Minority Ethnic': A Further Note on Nomenclature · [DOI](https://doi.org/10.1177/0038038593027004007)
 - De-Constructing Concepts of Care · [DOI](https://doi.org/10.1177/0038038593027004006)
 - Relative Merits: Family Culture and Kinship in Small Firms · [DOI](https://doi.org/10.1177/0038038593027004005)
+- Modernity, Self-Identity and the Sequestration of Death · [DOI](https://doi.org/10.1177/0038038593027003005)
 
 ## 1992
 
@@ -3025,12 +3034,15 @@
 
 - The Poem's Defiance of Sociology · [DOI](https://doi.org/10.1177/003803857901300106)
 - A Phenomenology of Tourist Experiences · [DOI](https://doi.org/10.1177/003803857901300203)
+- Self-Selection and the Small Firm Worker-A Critique and an Alternative View · [DOI](https://doi.org/10.1177/003803857901300304)
 
 ## 1978
 
 - What's in a `Nyem'? · [DOI](https://doi.org/10.1177/003803857801200109)
 - Categorization, Authorization and Blame - Negotiation in Conversation · [DOI](https://doi.org/10.1177/003803857801200106)
+- The Sociology of Health and Illness: Its Present State, Future Prospects and Potential for Health Research · [DOI](https://doi.org/10.1177/003803857801200206)
 
 ## 1975
 
 - Holding the Middle Ground: The BBC, the Public and the Professional Broadcaster · [DOI](https://doi.org/10.1177/003803857500900104)
+- Social Class and Psychiatric Disturbance among Women in an Urban Population · [DOI](https://doi.org/10.1177/003803857500900203)
