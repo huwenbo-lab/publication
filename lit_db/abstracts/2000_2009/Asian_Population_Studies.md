@@ -1,7 +1,7 @@
 # Asian Population Studies
 ## 2000–2009 年文章（含摘要）
 
-共 **100** 篇
+共 **89** 篇
 
 ---
 
@@ -100,11 +100,6 @@
 **作者**: Yeoh, Brenda S. A.
 **摘要**: （暂无）
 
-### GUEST EDITORS' INTRODUCTION
-**年份**: 2009 | **DOI**: [10.1080/17441730903351446](https://doi.org/10.1080/17441730903351446)
-**作者**: Retherford, Robert D.; Ogawa, Naohiro
-**摘要**: （暂无）
-
 ### THE FUTURE OF DEMOGRAPHY
 **年份**: 2008 | **DOI**: [10.1080/17441730802496458](https://doi.org/10.1080/17441730802496458)
 **作者**: Hirschman, Charles
@@ -175,11 +170,6 @@
 **作者**: Harvey, William S.
 **摘要**: This article argues that despite the growing emphasis on brain circulation, most British and Indian scientists working in Boston, Massachusetts, USA are still contributing to a brain drain in their home countries.…
 
-### GUEST EDITORS’ INTRODUCTION
-**年份**: 2008 | **DOI**: [10.1080/17441730802496474](https://doi.org/10.1080/17441730802496474)
-**作者**: Yeoh, Brenda S. A.; Ah Eng, Lai
-**摘要**: （暂无）
-
 ### TEN BIG CHALLENGES CONFRONTING POPULATION AND DEVELOPMENT IN CHINA
 **年份**: 2008 | **DOI**: [10.1080/17441730801967160](https://doi.org/10.1080/17441730801967160)
 **作者**: Chen, Gong; Mu, Guangzong; Song, Xinming 等4人
@@ -219,16 +209,6 @@
 **年份**: 2007 | **DOI**: [10.1080/17441730701746367](https://doi.org/10.1080/17441730701746367)
 **作者**: Tai-Hwan, Kwon
 **摘要**: Korea has experienced marital transition since the 1920s, but recent data reveal rapid changes in marital behaviour and norms. Analysts usually relate these to the second fertility transition, fast growing gender equality, economic developments, and ideational changes, pointing to the necessity of u…
-
-### COMMENTARY
-**年份**: 2007 | **DOI**: [10.1080/17441730701672035](https://doi.org/10.1080/17441730701672035)
-**作者**: Hermalin, Albert I.
-**摘要**: （暂无）
-
-### OBITUARY
-**年份**: 2007 | **DOI**: [10.1080/17441730701672019](https://doi.org/10.1080/17441730701672019)
-**作者**: Mari Bhat, P. N.
-**摘要**: （暂无）
 
 ### BIRTH ATTENDANT UTILIZATION IN THE INDONESIAN MEGA-URBAN REGIONS OF JABODETABEK, BANDUNG AND SURABAYA
 **年份**: 2007 | **DOI**: [10.1080/17441730701672050](https://doi.org/10.1080/17441730701672050)
@@ -289,16 +269,6 @@
 **作者**: Kim Choe, Minja; Kim, Seung-Kwon
 **摘要**: This paper reviews the role of induced abortions in the fertility decline in South Korea and estimates the covariates of type of pregnancy termination in recent years. The use of induced abortions have played an important role in fertility control in South Korea, even under nearly universal access t…
 
-### Commentary
-**年份**: 2007 | **DOI**: [10.1080/17441730701270772](https://doi.org/10.1080/17441730701270772)
-**作者**: Croll, Elisabeth J.
-**摘要**: （暂无）
-
-### GUEST EDITOR'S INTRODUCTION
-**年份**: 2007 | **DOI**: [10.1080/17441730701499819](https://doi.org/10.1080/17441730701499819)
-**作者**: Khadria, Binod
-**摘要**: （暂无）
-
 ### EMERGING FORMS OF UNION FORMATION IN THE PHILIPPINES
 **年份**: 2007 | **DOI**: [10.1080/17441730701746417](https://doi.org/10.1080/17441730701746417)
 **作者**: Xenos, Peter; Kabamalan, M. Midea M.
@@ -343,11 +313,6 @@
 **作者**: Jampaklay, Aree
 **摘要**: Abstract This analysis draws upon the 2000–2003 data-set of a longitudinal study in Kanchanaburi province, Thailand in order to examine the extent to which parental absence has effects on children's school enrolment.…
 
-### COMMENTARY
-**年份**: 2006 | **DOI**: [10.1080/17441730601073763](https://doi.org/10.1080/17441730601073763)
-**作者**: Concepcion, Mercedes B.
-**摘要**: （暂无）
-
 ### MIGRATION AND THE WELL-BEING OF THE ‘LEFT BEHIND’ IN ASIA
 **年份**: 2006 | **DOI**: [10.1080/17441730600700507](https://doi.org/10.1080/17441730600700507)
 **作者**: Nguyen, Liem; Yeoh, Brenda S. A.; Toyota, Mika
@@ -367,11 +332,6 @@
 **年份**: 2006 | **DOI**: [10.1080/17441730600923125](https://doi.org/10.1080/17441730600923125)
 **作者**: Ruwanpura, Kanchana N.
 **摘要**: Using data and case study evidence gathered from fieldwork in eastern Sri Lanka during 1998–99, this paper fleshes out the particular situation of Sinhala female-heads. What conflict and non-conflict factors lead to female-headship?…
-
-### Commentary
-**年份**: 2006 | **DOI**: [10.1080/17441730600700440](https://doi.org/10.1080/17441730600700440)
-**作者**: Ananta, Aris
-**摘要**: （暂无）
 
 ### REVERSE BRAIN DRAIN
 **年份**: 2006 | **DOI**: [10.1080/17441730601073821](https://doi.org/10.1080/17441730601073821)
@@ -398,11 +358,6 @@
 **作者**: Xenos, Peter; Achmad, Sulistinah; Sheng Lin, Hui 等7人
 **摘要**: 1 1. The authors are the national survey directors and the AYARR (Asian Young Adult Reproductive Risk) international project co-ordinator. The authors’ names are listed in alphabetical order except for the senior author.…
 
-### COMMENTARY
-**年份**: 2006 | **DOI**: [10.1080/17441730600922853](https://doi.org/10.1080/17441730600922853)
-**作者**: Robinson, Warren C.
-**摘要**: （暂无）
-
 ### Ageing and Dependency in India
 **年份**: 2006 | **DOI**: [10.1080/17441730600923133](https://doi.org/10.1080/17441730600923133)
 **作者**: Bhagat, Ram B.; Unisa, Sayeed
@@ -428,10 +383,6 @@
 **作者**: Knodel, John; Loi, Vu Manh; Jayakody, Rukmalie 等4人
 **摘要**: We examine the extent of change in gender relations within the Vietnamese family in the Red River Delta over the last four decades. During this time socialist policies emphasized gender equality although recent commentators speculate about negative effects of the transition to the market economy.…
 
-### GUEST EDITORS’ INTRODUCTION
-**年份**: 2005 | **DOI**: [10.1080/17441730500317105](https://doi.org/10.1080/17441730500317105)
-**摘要**: This special issue of Asian Population Studies focuses on a phenomenon frequently called the "demographic window of opportunity." This window arises from the fact that during a certain phase in the process of demographic transition, the population of working age as a fraction of the total population…
-
 ### THE NEW INTERNATIONAL MIGRATION IN ASIA
 **年份**: 2005 | **DOI**: [10.1080/17441730500125953](https://doi.org/10.1080/17441730500125953)
 **作者**: Hugo, Graeme
@@ -456,10 +407,6 @@
 **年份**: 2005 | **DOI**: [10.1080/17441730500317246](https://doi.org/10.1080/17441730500317246)
 **作者**: Peng, Xiujian
 **摘要**: This paper uses a Computable General Equilibrium model to explore the macroeconomic impact of growth in the human capital stock for a given ageing profile of the population in China, during the first half of this century.…
-
-### INTRODUCTION TO ASIAN POPULATION STUDIES
-**年份**: 2005 | **DOI**: [10.1080/17441730500126068](https://doi.org/10.1080/17441730500126068)
-**摘要**: （暂无）
 
 ### HEALTH AND ITS IMPACT ON WORK AND DEPENDENCY AMONG THE ELDERLY IN JAPAN
 **年份**: 2005 | **DOI**: [10.1080/17441730500126019](https://doi.org/10.1080/17441730500126019)

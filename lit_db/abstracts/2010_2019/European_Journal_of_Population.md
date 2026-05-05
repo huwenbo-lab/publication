@@ -1,7 +1,7 @@
 # European Journal of Population
 ## 2010–2019 年文章（含摘要）
 
-共 **329** 篇
+共 **326** 篇
 
 ---
 
@@ -480,11 +480,6 @@
 **作者**: Theunis, Lindsay; Schnor, Christine; Willaert, Didier 等4人
 **摘要**: （暂无）
 
-### The End of East–West Divergence in European Life Expectancies? An Introduction to the Special Issue
-**年份**: 2017 | **DOI**: [10.1007/s10680-017-9452-2](https://doi.org/10.1007/s10680-017-9452-2)
-**作者**: Meslé, France; Vallin, Jacques
-**摘要**: （暂无）
-
 ### Changes in Employment Uncertainty and the Fertility Intention–Realization Link: An Analysis Based on the Swiss Household Panel
 **年份**: 2017 | **DOI**: [10.1007/s10680-016-9408-y](https://doi.org/10.1007/s10680-016-9408-y)
 **作者**: Hanappi, Doris; Ryser, Valérie-Anne; Bernardi, Laura 等4人
@@ -802,11 +797,6 @@
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9375-3](https://doi.org/10.1007/s10680-016-9375-3)
 **作者**: Zorlu, Aslan; van Gaalen, Ruben
 **摘要**: This study examines ethnic differences in leaving the parental home and the choice of destination (both location and quality of housing) in the Netherlands. Using unique individual administrative panel data, we study the mobility of the entire birth cohort 1983.…
-
-### The Parenthood Happiness Puzzle: An Introduction to Special Issue
-**年份**: 2016 | **DOI**: [10.1007/s10680-016-9392-2](https://doi.org/10.1007/s10680-016-9392-2)
-**作者**: Kohler, Hans-Peter; Mencarini, Letizia
-**摘要**: （暂无）
 
 ### When is the Second One Coming? The Effect of Couple’s Subjective Well-Being Following the Onset of Parenthood
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9388-y](https://doi.org/10.1007/s10680-016-9388-y)
@@ -1616,11 +1606,6 @@
 ### Mortality due to External Causes in Three Rural Areas of Senegal
 **年份**: 2010 | **DOI**: [10.1007/s10680-010-9213-y](https://doi.org/10.1007/s10680-010-9213-y)
 **作者**: Guyavarch, Emmanuelle; Pison, Gilles; Duthé, Géraldine 等5人
-**摘要**: （暂无）
-
-### Introduction to Special Issue of the European Journal of Population: ‘Economic Consequences of Low Fertility in Europe’
-**年份**: 2010 | **DOI**: [10.1007/s10680-010-9209-7](https://doi.org/10.1007/s10680-010-9209-7)
-**作者**: Bloom, David E.; Sousa-Poza, Alfonso
 **摘要**: （暂无）
 
 ### H. Stalford, S. Currie, and S. Veluti (eds.): Gender and Migration in the 21st Century Europe (Series Law and Migration)

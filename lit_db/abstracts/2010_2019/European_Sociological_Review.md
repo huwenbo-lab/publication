@@ -1,7 +1,7 @@
 # European Sociological Review
 ## 2010–2019 年文章（含摘要）
 
-共 **695** 篇
+共 **645** 篇
 
 ---
 
@@ -469,11 +469,6 @@
 **年份**: 2018 | **DOI**: [10.1093/esr/jcy004](https://doi.org/10.1093/esr/jcy004)
 **作者**: Qvist, Hans-Peter Y.; Munk, Martin D.
 **摘要**: This article examines the individual economic returns to volunteering during different stages of working life. The article uses a unique panel data set created by combining rich survey data from Denmark with information on wages from administrative registers covering the period from 2004 to 2012.…
-
-### Binary Response Models with Underlying Heterogeneity: Identification and Interpretation of Effects
-**年份**: 2018 | **DOI**: [10.1093/esr/jcy001](https://doi.org/10.1093/esr/jcy001)
-**作者**: Tutz, Gerhard
-**摘要**: Comparison of logit coefficients across groups can be misleading if underlying variance heterogeneity is present, in particular one might find spurious differences of effects that are caused by different variation in the groups.…
 
 ### Do Government Expenditures Shift Private Philanthropic Donations to Particular Fields of Welfare? Evidence from Cross-country Data
 **年份**: 2018 | **DOI**: [10.1093/esr/jcx086](https://doi.org/10.1093/esr/jcx086)
@@ -960,11 +955,6 @@
 **作者**: Visser, Mark; Gesthuizen, Maurice; Kraaykamp, Gerbert 等4人
 **摘要**: This study integrates a life course and social stratification perspective to examine early retirement in the Netherlands. Event history analysis of retrospective life course data from four rounds of the Family Survey Dutch Population reveals that employment career characteristics are strongly associ…
 
-### Beauty is in the Eye of the Beholder: Reply to Toshkov
-**年份**: 2016 | **DOI**: [10.1093/esr/jcw017](https://doi.org/10.1093/esr/jcw017)
-**作者**: Piatkowska, Sylwia J.; Messner, Steven F.; Raffalovich, Lawrence E.
-**摘要**: （暂无）
-
 ### No, Accession to the European Union Does Not Increase the Homicide Rate
 **年份**: 2016 | **DOI**: [10.1093/esr/jcw016](https://doi.org/10.1093/esr/jcw016)
 **作者**: Toshkov, Dimiter
@@ -1175,11 +1165,6 @@
 **作者**: Kosyakova, Yuliya; Kurakin, Dmitry; Blossfeld, Hans-Peter
 **摘要**: Using retrospective data from the Russian Education and Employment Survey, we examine labour market entry in Russia in terms of changes in horizontal gender segregation and vertical gender inequalities before and after the collapse of the Soviet regime in 1991.…
 
-### The Introduction of Bachelor Degrees and the Under-representation of Students from Low Social Origin in Higher Education in Germany: A Pseudo-Panel Approach
-**年份**: 2015 | **DOI**: [10.1093/esr/jcv061](https://doi.org/10.1093/esr/jcv061)
-**作者**: Neugebauer, Martin
-**摘要**: In the course of the Bologna Process, European higher education systems have experienced major reforms. In Germany as in several other countries, the main novelty was a reduction of the length of study to get a first-level degree (Bachelor), together with the introduction of a second-level degree (M…
-
 ### New Game, New Chance? Social Inequalities and Upgrading Secondary School Qualifications in West Germany
 **年份**: 2015 | **DOI**: [10.1093/esr/jcv062](https://doi.org/10.1093/esr/jcv062)
 **作者**: Buchholz, Sandra; Schier, Antonia
@@ -1380,15 +1365,6 @@
 **作者**: Wimmer, Andreas
 **摘要**: Why have some states been captured by specific ethnic elites and their clienteles, excluding all others from access to government power? Conversely, what explains political inclusion across ethnic divides or, in other words, successful 'nation building'?…
 
-### The German Life History Study—An Introduction
-**年份**: 2015 | **DOI**: [10.1093/esr/jcv011](https://doi.org/10.1093/esr/jcv011)
-**作者**: Mayer, Karl Ulrich
-**摘要**: （暂无）
-
-### Contents
-**年份**: 2014 | **DOI**: [10.1093/esr/jcu036](https://doi.org/10.1093/esr/jcu036)
-**摘要**: Journal Article Contents Get access European Sociological Review, Volume 30, Issue 6, December 2014, Page i7, https://doi.org/10.1093/esr/jcu036 Published: 29 November 2014
-
 ### Notes on Contributors
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu016](https://doi.org/10.1093/esr/jcu016)
 **摘要**: （暂无）
@@ -1416,10 +1392,6 @@
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu061](https://doi.org/10.1093/esr/jcu061)
 **作者**: Helbling, M.; Kriesi, H.
 **摘要**: While various studies have already shown that people prefer high- over low-skilled migrants, we know surprisingly little why this is so. This article tries to close this gap by investigating three explanatory models.…
-
-### European Sociological Review - Editorial
-**年份**: 2014 | **DOI**: [10.1093/esr/jcu011](https://doi.org/10.1093/esr/jcu011)
-**摘要**: （暂无）
 
 ### Subscriptions
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu026](https://doi.org/10.1093/esr/jcu026)
@@ -1454,14 +1426,6 @@
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu021](https://doi.org/10.1093/esr/jcu021)
 **摘要**: （暂无）
 
-### European Sociological Review - Editorial
-**年份**: 2014 | **DOI**: [10.1093/esr/jcu010](https://doi.org/10.1093/esr/jcu010)
-**摘要**: Journal Article European Sociological Review - Editorial Get access European Sociological Review, Volume 30, Issue 4, August 2014, Page i2, https://doi.org/10.1093/esr/jcu010 Published: 05 August 2014
-
-### Contents
-**年份**: 2014 | **DOI**: [10.1093/esr/jcu035](https://doi.org/10.1093/esr/jcu035)
-**摘要**: Journal Article Contents Get access European Sociological Review, Volume 30, Issue 5, October 2014, Page i8, https://doi.org/10.1093/esr/jcu035 Published: 03 September 2014
-
 ### Subscriptions
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu029](https://doi.org/10.1093/esr/jcu029)
 **摘要**: Journal Article Subscriptions Get access European Sociological Review, Volume 30, Issue 5, October 2014, Page i3, https://doi.org/10.1093/esr/jcu029 Published: 03 September 2014
@@ -1487,10 +1451,6 @@
 ### Notes to Contributors
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu020](https://doi.org/10.1093/esr/jcu020)
 **摘要**: Journal Article Notes to Contributors Get access European Sociological Review, Volume 30, Issue 2, April 2014, Page i4, https://doi.org/10.1093/esr/jcu020 Published: 07 April 2014
-
-### European Sociological Review - Editorial
-**年份**: 2014 | **DOI**: [10.1093/esr/jcu012](https://doi.org/10.1093/esr/jcu012)
-**摘要**: Journal Article European Sociological Review - Editorial Get access European Sociological Review, Volume 30, Issue 6, December 2014, Page i2, https://doi.org/10.1093/esr/jcu012 Published: 29 November 2014
 
 ### Occupational Segregation and Gender Differences in Sickness Absence: Evidence from 17 European Countries
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu059](https://doi.org/10.1093/esr/jcu059)
@@ -1550,10 +1510,6 @@
 **作者**: Schneider, T.
 **摘要**: The book edited by Michelle Jackson is a major contribution to the literature analysing class differences in educational attainment. It focuses on the importance of class-specific differences in performance and choice for educational transitions and their variance across eight countries and over his…
 
-### Contents
-**年份**: 2014 | **DOI**: [10.1093/esr/jcu034](https://doi.org/10.1093/esr/jcu034)
-**摘要**: Journal Article Contents Get access European Sociological Review, Volume 30, Issue 4, August 2014, Page i8, https://doi.org/10.1093/esr/jcu034 Published: 05 August 2014
-
 ### European Sociological Review Volume 30 Number 4 August 2014 - Front Cover
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu004](https://doi.org/10.1093/esr/jcu004)
 **摘要**: Journal Article European Sociological Review Volume 30 | Number 4 | August 2014 - Front Cover Get access European Sociological Review, Volume 30, Issue 4, August 2014, Page i1, https://doi.org/10.1093/esr/jcu004 Published: 05 August 2014
@@ -1586,10 +1542,6 @@
 **作者**: van Zantvliet, Pascale I.; Kalmijn, Matthijs; Verbakel, Ellen
 **摘要**: This study describes and explains parental involvement in partner choice among Turkish and Moroccan immigrants in the Netherlands. It thus contributes to previous research on third-party influence on partner choice.…
 
-### Contents
-**年份**: 2014 | **DOI**: [10.1093/esr/jcu032](https://doi.org/10.1093/esr/jcu032)
-**摘要**: Journal Article Contents Get access European Sociological Review, Volume 30, Issue 2, April 2014, Page i8, https://doi.org/10.1093/esr/jcu032 Published: 07 April 2014
-
 ### Notes on Contributors
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu014](https://doi.org/10.1093/esr/jcu014)
 **摘要**: （暂无）
@@ -1606,10 +1558,6 @@
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu063](https://doi.org/10.1093/esr/jcu063)
 **作者**: Grotti, Raffaele; Scherer, Stefani
 **摘要**: Growing employment insecurity has stimulated much research in social science, most of which describes the characteristics of insecure employment and investigates the career consequences for individuals. However, the consequences of insecure employment are moderated by the household context.…
-
-### European Sociological Review - Editorial
-**年份**: 2014 | **DOI**: [10.1093/esr/jcu007](https://doi.org/10.1093/esr/jcu007)
-**摘要**: Journal Article European Sociological Review - Editorial Get access European Sociological Review, Volume 30, Issue 1, February 2014, Page i2, https://doi.org/10.1093/esr/jcu007 Published: 06 February 2014
 
 ### Subscriptions
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu028](https://doi.org/10.1093/esr/jcu028)
@@ -1637,18 +1585,10 @@
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu024](https://doi.org/10.1093/esr/jcu024)
 **摘要**: Journal Article Notes to Contributors Get access European Sociological Review, Volume 30, Issue 6, December 2014, Page i4, https://doi.org/10.1093/esr/jcu024 Published: 29 November 2014
 
-### European Sociological Review - Editorial
-**年份**: 2014 | **DOI**: [10.1093/esr/jcu009](https://doi.org/10.1093/esr/jcu009)
-**摘要**: Journal Article European Sociological Review - Editorial Get access European Sociological Review, Volume 30, Issue 3, June 2014, Page i2, https://doi.org/10.1093/esr/jcu009 Published: 03 June 2014
-
 ### Relations between Second-Language Proficiency and National Identification: The Case of Immigrants in Germany
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu043](https://doi.org/10.1093/esr/jcu043)
 **作者**: Hochman, O.; Davidov, E.
 **摘要**: This article discusses and empirically tests the relations between German language proficiency and national identification with Germany among first-generation immigrants in Germany. It presents three theoretical arguments: (i) language proficiency positively affects national identification; (ii) con…
-
-### Contents
-**年份**: 2014 | **DOI**: [10.1093/esr/jcu033](https://doi.org/10.1093/esr/jcu033)
-**摘要**: （暂无）
 
 ### Examining the Association of Religious Context with Giving to Non-Profit Organizations
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu064](https://doi.org/10.1093/esr/jcu064)
@@ -1689,17 +1629,9 @@
 **作者**: Kersten, A.
 **摘要**: The expanded international exchange of culture products caused Western cultural fields to resemble each other. Hollywood movies prevail on import markets around the world, inducing homogenized film fields dominated by blockbusters.…
 
-### Contents
-**年份**: 2014 | **DOI**: [10.1093/esr/jcu031](https://doi.org/10.1093/esr/jcu031)
-**摘要**: （暂无）
-
 ### Subscriptions
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu027](https://doi.org/10.1093/esr/jcu027)
 **摘要**: Journal Article Subscriptions Get access European Sociological Review, Volume 30, Issue 3, June 2014, Page i3, https://doi.org/10.1093/esr/jcu027 Published: 03 June 2014
-
-### European Sociological Review - Editorial
-**年份**: 2014 | **DOI**: [10.1093/esr/jcu008](https://doi.org/10.1093/esr/jcu008)
-**摘要**: European Sociological Review - Editorial Get access European Sociological Review, Volume 30, Issue 2, April 2014, Page i2, https://doi.org/10.1093/esr/jcu008 Published: 07 April 2014
 
 ### The Religiosity of Children of Immigrants and Natives in England, Germany, and the Netherlands: The Role of Parents and Peers in Class
 **年份**: 2014 | **DOI**: [10.1093/esr/jcu038](https://doi.org/10.1093/esr/jcu038)
@@ -1755,10 +1687,6 @@
 ### Notes to Contributors
 **年份**: 2013 | **DOI**: [10.1093/esr/jcs107](https://doi.org/10.1093/esr/jcs107)
 **摘要**: Journal Article Notes to Contributors Get access European Sociological Review, Volume 29, Issue 3, June 2013, Page i3, https://doi.org/10.1093/esr/jcs107 Published: 31 May 2013
-
-### European Sociological Review - Editorial
-**年份**: 2013 | **DOI**: [10.1093/esr/jcs094](https://doi.org/10.1093/esr/jcs094)
-**摘要**: Journal Article European Sociological Review - Editorial Get access European Sociological Review, Volume 29, Issue 2, April 2013, Page i2, https://doi.org/10.1093/esr/jcs094 Published: 28 March 2013
 
 ### A Macro-Sociological Study into the Changes in the Popularity of Domestic, European, and American Pop Music in Western Countries
 **年份**: 2013 | **DOI**: [10.1093/esr/jct028](https://doi.org/10.1093/esr/jct028)
@@ -1817,14 +1745,6 @@
 **年份**: 2013 | **DOI**: [10.1093/esr/jct033](https://doi.org/10.1093/esr/jct033)
 **作者**: Delhey, J.; Dragolov, G.
 **摘要**: Are more equal societies ‘better’ societies? This article addresses the question as to whether and why income inequality lowers the degree of Europeans’ subjective well-being. While in broad international comparisons typically no clear-cut link between income inequality and (un)happiness exists, we …
-
-### European Sociological Review - Editorial
-**年份**: 2013 | **DOI**: [10.1093/esr/jcs093](https://doi.org/10.1093/esr/jcs093)
-**摘要**: European Sociological Review - Editorial Get access European Sociological Review, Volume 29, Issue 1, February 2013, Page i2, https://doi.org/10.1093/esr/jcs093 Published: 01 February 2013
-
-### Contents
-**年份**: 2013 | **DOI**: [10.1093/esr/jcs118](https://doi.org/10.1093/esr/jcs118)
-**摘要**: Contents Get access European Sociological Review, Volume 29, Issue 2, April 2013, Page i4, https://doi.org/10.1093/esr/jcs118 Published: 28 March 2013
 
 ### Education and Social Mobility: New Analytical Approaches
 **年份**: 2013 | **DOI**: [10.1093/esr/jct025](https://doi.org/10.1093/esr/jct025)
@@ -1888,10 +1808,6 @@
 **年份**: 2013 | **DOI**: [10.1093/esr/jcs115](https://doi.org/10.1093/esr/jcs115)
 **摘要**: Journal Article Subscriptions Get access European Sociological Review, Volume 29, Issue 5, October 2013, Page i6, https://doi.org/10.1093/esr/jcs115 Published: 05 October 2013
 
-### Contents
-**年份**: 2013 | **DOI**: [10.1093/esr/jcs119](https://doi.org/10.1093/esr/jcs119)
-**摘要**: Contents Get access European Sociological Review, Volume 29, Issue 3, June 2013, Pages i4–i5, https://doi.org/10.1093/esr/jcs119 Published: 31 May 2013
-
 ### Subscriptions
 **年份**: 2013 | **DOI**: [10.1093/esr/jcs113](https://doi.org/10.1093/esr/jcs113)
 **摘要**: Journal Article Subscriptions Get access European Sociological Review, Volume 29, Issue 3, June 2013, Page i6, https://doi.org/10.1093/esr/jcs113 Published: 31 May 2013
@@ -1899,10 +1815,6 @@
 ### Notes on Contributors
 **年份**: 2013 | **DOI**: [10.1093/esr/jcs099](https://doi.org/10.1093/esr/jcs099)
 **摘要**: （暂无）
-
-### Contents
-**年份**: 2013 | **DOI**: [10.1093/esr/jcs120](https://doi.org/10.1093/esr/jcs120)
-**摘要**: Journal Article Contents Get access European Sociological Review, Volume 29, Issue 4, August 2013, Pages i4–i5, https://doi.org/10.1093/esr/jcs120 Published: 05 August 2013
 
 ### Sickness Absence Among Immigrants in Norway: Does Occupational Disparity Matter?
 **年份**: 2013 | **DOI**: [10.1093/esr/jct007](https://doi.org/10.1093/esr/jct007)
@@ -1917,17 +1829,9 @@
 **年份**: 2013 | **DOI**: [10.1093/esr/jcs106](https://doi.org/10.1093/esr/jcs106)
 **摘要**: Notes to Contributors European Sociological Review, Volume 29, Issue 2, April 2013, Page i3, https://doi.org/10.1093/esr/jcs106 Published: 28 March 2013
 
-### Contents
-**年份**: 2013 | **DOI**: [10.1093/esr/jcs121](https://doi.org/10.1093/esr/jcs121)
-**摘要**: Journal Article Contents Get access European Sociological Review, Volume 29, Issue 5, October 2013, Pages i4–i5, https://doi.org/10.1093/esr/jcs121 Published: 05 October 2013
-
 ### Notes to Contributors
 **年份**: 2013 | **DOI**: [10.1093/esr/jcs105](https://doi.org/10.1093/esr/jcs105)
 **摘要**: Notes to Contributors Get access European Sociological Review, Volume 29, Issue 1, February 2013, Page i3, https://doi.org/10.1093/esr/jcs105 Published: 01 February 2013
-
-### Contents
-**年份**: 2013 | **DOI**: [10.1093/esr/jcs122](https://doi.org/10.1093/esr/jcs122)
-**摘要**: Journal Article Contents Get access European Sociological Review, Volume 29, Issue 6, December 2013, Pages i4–i5, https://doi.org/10.1093/esr/jcs122 Published: 05 December 2013
 
 ### Income and Income Inequality as Social Determinants of Health: Do Social Comparisons Play a Role?
 **年份**: 2013 | **DOI**: [10.1093/esr/jct035](https://doi.org/10.1093/esr/jct035)
@@ -1949,19 +1853,6 @@
 **作者**: Dewilde, Caroline; Lancee, Bram
 **摘要**: This article analyzes the relationship between income inequality and access to housing for low-income homeowners and renters ‘at market rent’ across Europe. We develop three arguments that explain how inequality affects housing affordability, quality, and quantity—together these dimensions indicate …
 
-### The Legacy and Future of the European Sociological Review: An Editorial Comment
-**年份**: 2013 | **DOI**: [10.1093/esr/jct032](https://doi.org/10.1093/esr/jct032)
-**作者**: Mills, M.
-**摘要**: Journal Article The Legacy and Future of the European Sociological Review: An Editorial Comment Get access Melinda Mills Melinda Mills University of Groningen Groningen, The NetherlandsEmail: m.c.mills@rug.nl Search for other works by this author on: Oxford Academic Google Scholar European Sociologi…
-
-### European Sociological Review - Editorial
-**年份**: 2013 | **DOI**: [10.1093/esr/jcs098](https://doi.org/10.1093/esr/jcs098)
-**摘要**: European Sociological Review - Editorial Get access European Sociological Review, Volume 29, Issue 6, December 2013, Page i2, https://doi.org/10.1093/esr/jcs098 Published: 05 December 2013
-
-### Contents
-**年份**: 2013 | **DOI**: [10.1093/esr/jcs117](https://doi.org/10.1093/esr/jcs117)
-**摘要**: Contents European Sociological Review, Volume 29, Issue 1, February 2013, Page i4, https://doi.org/10.1093/esr/jcs117 Published: 01 February 2013
-
 ### Ways to Richness: Determination of Household Wealth in 16 Countries
 **年份**: 2013 | **DOI**: [10.1093/esr/jct001](https://doi.org/10.1093/esr/jct001)
 **作者**: Semyonov, M.; Lewin-Epstein, N.
@@ -1972,10 +1863,6 @@
 **作者**: Chan, T. W.; Boliver, V.
 **摘要**: Erola and Moisio (2007) argue that in Finland the class positions of grandparents and grandchildren are almost independent of each other, once parents’ social class has been taken into account.…
 
-### European Sociological Review - Editorial
-**年份**: 2013 | **DOI**: [10.1093/esr/jcs096](https://doi.org/10.1093/esr/jcs096)
-**摘要**: Journal Article European Sociological Review - Editorial Get access European Sociological Review, Volume 29, Issue 4, August 2013, Page i2, https://doi.org/10.1093/esr/jcs096 Published: 05 August 2013
-
 ### Attitudes Towards Performing and Developing Erotic Capital in Consumer Culture
 **年份**: 2013 | **DOI**: [10.1093/esr/jct037](https://doi.org/10.1093/esr/jct037)
 **作者**: Sarpila, O.
@@ -1985,10 +1872,6 @@
 **年份**: 2013 | **DOI**: [10.1093/esr/jct005](https://doi.org/10.1093/esr/jct005)
 **作者**: Van Bavel, J.; De Winter, T.
 **摘要**: Given that the funding of pensions is at issue, governments across Europe now try to discourage early retirement. Yet, international research about the determinants of early retirement based on appropriate micro-data is scarce.…
-
-### European Sociological Review - Editorial
-**年份**: 2013 | **DOI**: [10.1093/esr/jcs095](https://doi.org/10.1093/esr/jcs095)
-**摘要**: Journal Article European Sociological Review - Editorial Get access European Sociological Review, Volume 29, Issue 3, June 2013, Page i2, https://doi.org/10.1093/esr/jcs095 Published: 31 May 2013
 
 ### Notes on Contributors
 **年份**: 2013 | **DOI**: [10.1093/esr/jcs101](https://doi.org/10.1093/esr/jcs101)
@@ -2065,10 +1948,6 @@
 **年份**: 2013 | **DOI**: [10.1093/esr/jcs103](https://doi.org/10.1093/esr/jcs103)
 **摘要**: （暂无）
 
-### European Sociological Review - Editorial
-**年份**: 2013 | **DOI**: [10.1093/esr/jcs097](https://doi.org/10.1093/esr/jcs097)
-**摘要**: Journal Article European Sociological Review - Editorial Get access European Sociological Review, Volume 29, Issue 5, October 2013, Page i2, https://doi.org/10.1093/esr/jcs097 Published: 05 October 2013
-
 ### Consumer Behavior in Moral Markets. On the Relevance of Identity, Justice Beliefs, Social Norms, Status, and Trust in Ethical Consumption
 **年份**: 2013 | **DOI**: [10.1093/esr/jct014](https://doi.org/10.1093/esr/jct014)
 **作者**: Andorfer, Veronika A.; Liebe, Ulf
@@ -2087,10 +1966,6 @@
 **年份**: 2012 | **DOI**: [10.1093/esr/jcs034](https://doi.org/10.1093/esr/jcs034)
 **摘要**: Journal Article Subscriptions Get access European Sociological Review, Volume 28, Issue 2, April 2012, Page i5, https://doi.org/10.1093/esr/jcs034 Published: 29 March 2012
 
-### European Sociological Review - Editorial
-**年份**: 2012 | **DOI**: [10.1093/esr/jcs018](https://doi.org/10.1093/esr/jcs018)
-**摘要**: Journal Article European Sociological Review - Editorial Get access European Sociological Review, Volume 28, Issue 6, December 2012, Page i2, https://doi.org/10.1093/esr/jcs018 Published: 26 November 2012
-
 ### The Composition of Family Background: The Influence of the Economic and Cultural Resources of both Parents on the Offspring's Educational Attainment in the Netherlands between 1939 and 1991
 **年份**: 2012 | **DOI**: [10.1093/esr/jcs009](https://doi.org/10.1093/esr/jcs009)
 **作者**: Buis, M. L.
@@ -2105,10 +1980,6 @@
 **年份**: 2012 | **DOI**: [10.1093/esr/jcs063](https://doi.org/10.1093/esr/jcs063)
 **作者**: Williams, M.
 **摘要**: Occupations provide a central unit of analysis for economic inequality in stratification research for two main reasons. First, occupations are supposed to structure inequality. Second, occupations are supposed to proxy as a source of inequality.…
-
-### European Sociological Review - Editorial
-**年份**: 2012 | **DOI**: [10.1093/esr/jcs014](https://doi.org/10.1093/esr/jcs014)
-**摘要**: （暂无）
 
 ### United in Precarious Employment? Employment Precarity of Young Couples in the Netherlands, 1992-2007
 **年份**: 2012 | **DOI**: [10.1093/esr/jcr093](https://doi.org/10.1093/esr/jcr093)
@@ -2134,26 +2005,10 @@
 **作者**: Breznau, N.
 **摘要**: Journal Article Claus Wendt, Monika Mischke, and Michaela Pfeifer: Welfare States and Public Opinion: Perceptions of Healthcare Systems, Family Policy and Benefits for the Unemployed and Poor in Europe Get access Claus Wendt, Monika Mischke, and Michaela Pfeifer: Welfare States and Public Opinion: P…
 
-### European Sociological Review - Editorial
-**年份**: 2012 | **DOI**: [10.1093/esr/jcs016](https://doi.org/10.1093/esr/jcs016)
-**摘要**: Journal Article European Sociological Review - Editorial Get access European Sociological Review, Volume 28, Issue 4, August 2012, Page i2, https://doi.org/10.1093/esr/jcs016 Published: 26 July 2012
-
 ### Heikki Ervasti, Jorgen Goul Andersen, Torben Fridberg and Kristen Ringdahl (Eds.): The Future of the Welfare State: Social Policy Attitudes and Social Capital in Europe
 **年份**: 2012 | **DOI**: [10.1093/esr/jcs073](https://doi.org/10.1093/esr/jcs073)
 **作者**: Papanastasiou, N.
 **摘要**: The Future of the Welfare State is an edited collection of comparative studies that focus on attitudes towards the welfare state. Using data from the 2008 European Social Survey, representing almost thirty European countries, the main issues analysed are social risks, shifts in the structure of fami…
-
-### Contents
-**年份**: 2012 | **DOI**: [10.1093/esr/jcs043](https://doi.org/10.1093/esr/jcs043)
-**摘要**: Contents Get access European Sociological Review, Volume 28, Issue 6, December 2012, Page i4, https://doi.org/10.1093/esr/jcs043 Published: 26 November 2012
-
-### Contents
-**年份**: 2012 | **DOI**: [10.1093/esr/jcs042](https://doi.org/10.1093/esr/jcs042)
-**摘要**: Contents European Sociological Review, Volume 28, Issue 5, October 2012, Page i4, https://doi.org/10.1093/esr/jcs042 Published: 24 September 2012
-
-### European Sociological Review - Editorial
-**年份**: 2012 | **DOI**: [10.1093/esr/jcs017](https://doi.org/10.1093/esr/jcs017)
-**摘要**: Journal Article European Sociological Review - Editorial Get access European Sociological Review, Volume 28, Issue 5, October 2012, Page i2, https://doi.org/10.1093/esr/jcs017 Published: 24 September 2012
 
 ### European Sociological Review Volume 28 Number 1 February 2012 - Front Cover
 **年份**: 2012 | **DOI**: [10.1093/esr/jcs003](https://doi.org/10.1093/esr/jcs003)
@@ -2279,10 +2134,6 @@
 **作者**: Begall, K.; Mills, M. C.
 **摘要**: Women have made considerable gains in educational attainment and increased their labour market participation, which has in turn impacted childbearing behaviour. The current study contributes to the growing literature on the impact of educational fields and occupation on fertility.…
 
-### Contents
-**年份**: 2012 | **DOI**: [10.1093/esr/jcs007](https://doi.org/10.1093/esr/jcs007)
-**摘要**: Journal Article Contents Get access European Sociological Review, Volume 28, Issue 1, February 2012, Page i4, https://doi.org/10.1093/esr/jcs007 Published: 24 January 2012
-
 ### Labour Market Exit and Social Stratification in Western Europe: The Effects of Social Class and Gender on the Timing of Retirement
 **年份**: 2012 | **DOI**: [10.1093/esr/jcs045](https://doi.org/10.1093/esr/jcs045)
 **作者**: Radl, Jonas
@@ -2311,10 +2162,6 @@
 **年份**: 2012 | **DOI**: [10.1093/esr/jcs076](https://doi.org/10.1093/esr/jcs076)
 **作者**: Drasch, K.
 **摘要**: Cross-sectional studies show that in West Germany, the labour force participation of mothers with different levels of educational attainment has changed during the past few decades, the most severe decrease of labour force participation has been observed for less educated mothers, whereas better edu…
-
-### Contents
-**年份**: 2012 | **DOI**: [10.1093/esr/jcs041](https://doi.org/10.1093/esr/jcs041)
-**摘要**: Journal Article Contents Get access European Sociological Review, Volume 28, Issue 4, August 2012, Page i4, https://doi.org/10.1093/esr/jcs041 Published: 26 July 2012
 
 ### Does Unemployment Hurt Less if There is More of it Around? A Panel Analysis of Life Satisfaction in Germany and Switzerland
 **年份**: 2012 | **DOI**: [10.1093/esr/jcs071](https://doi.org/10.1093/esr/jcs071)
@@ -2414,10 +2261,6 @@
 **作者**: Bauer, G.; Kneip, T.
 **摘要**: Fertility decisions typically involve two persons. This raises the question of how individual desires or preferences for further children transform into joint action. Previous research has proposed different approaches to this question, emphasizing gender, joint utility, consensus, or bargaining pow…
 
-### Contents
-**年份**: 2012 | **DOI**: [10.1093/esr/jcs040](https://doi.org/10.1093/esr/jcs040)
-**摘要**: Contents Get access European Sociological Review, Volume 28, Issue 3, June 2012, Page i4, https://doi.org/10.1093/esr/jcs040 Published: 25 May 2012
-
 ### Are There Catholic School Effects in Ontario, Canada?
 **年份**: 2012 | **DOI**: [10.1093/esr/jcs065](https://doi.org/10.1093/esr/jcs065)
 **作者**: Davies, S.
@@ -2438,10 +2281,6 @@
 **作者**: Solga, H.; Kohlrausch, B.
 **摘要**: In this article, we study differences within the group of low-achieving school leavers, asking who among these disadvantaged youth is successful in entering vocational training in Germany, and why.…
 
-### Contents
-**年份**: 2012 | **DOI**: [10.1093/esr/jcs039](https://doi.org/10.1093/esr/jcs039)
-**摘要**: Contents Get access European Sociological Review, Volume 28, Issue 2, April 2012, Page i4, https://doi.org/10.1093/esr/jcs039 Published: 29 March 2012
-
 ### Cognitive Skills Matter: The Employment Disadvantage of Low-Educated Workers in Comparative Perspective
 **年份**: 2012 | **DOI**: [10.1093/esr/jcs049](https://doi.org/10.1093/esr/jcs049)
 **作者**: Abrassart, A.
@@ -2461,17 +2300,9 @@
 **作者**: Modin, B.; Erikson, R.; Vagero, D.
 **摘要**: We investigate whether present-day ninth grade students with top marks in Swedish and mathematics tend to descend from grandparents who did well in these school-subjects too. We also examine the extent to which such inheritance is domain-specific and works through the educational attainment of the p…
 
-### European Sociological Review - Editorial
-**年份**: 2012 | **DOI**: [10.1093/esr/jcs002](https://doi.org/10.1093/esr/jcs002)
-**摘要**: European Sociological Review - Editorial Get access European Sociological Review, Volume 28, Issue 1, February 2012, Page i2, https://doi.org/10.1093/esr/jcs002 Published: 24 January 2012
-
 ### European Sociological Review Volume 28 Number 3 June 2012 - Front Cover
 **年份**: 2012 | **DOI**: [10.1093/esr/jcs020](https://doi.org/10.1093/esr/jcs020)
 **摘要**: European Sociological Review Volume 28 | Number 3 | June 2012 - Front Cover European Sociological Review, Volume 28, Issue 3, June 2012, Page i1, https://doi.org/10.1093/esr/jcs020 Published: 25 May 2012
-
-### European Sociological Review - Editorial
-**年份**: 2012 | **DOI**: [10.1093/esr/jcs015](https://doi.org/10.1093/esr/jcs015)
-**摘要**: European Sociological Review - Editorial European Sociological Review, Volume 28, Issue 3, June 2012, Page i2, https://doi.org/10.1093/esr/jcs015 Published: 25 May 2012
 
 ### Notes to Contributors
 **年份**: 2012 | **DOI**: [10.1093/esr/jcs029](https://doi.org/10.1093/esr/jcs029)
@@ -2569,19 +2400,10 @@
 **作者**: Andersen, P. L.; Hansen, M. N.
 **摘要**: According to Bourdieu, the culture of the most powerful classes serves as a legitimate culture that can be mastered to varying extents. Students who have been inculcated these cultural forms from childhood will have the greatest probability of academic success.…
 
-### Contents
-**年份**: 2011 | **DOI**: [10.1093/esr/jcr052](https://doi.org/10.1093/esr/jcr052)
-**摘要**: Contents European Sociological Review, Volume 27, Issue 3, June 2011, Page i4, https://doi.org/10.1093/esr/jcr052 Published: 28 May 2011
-
 ### Federico Varese: Mafias on the Move
 **年份**: 2011 | **DOI**: [10.1093/esr/jcr090](https://doi.org/10.1093/esr/jcr090)
 **作者**: Picci, L.
 **摘要**: According to one contemporary myth we live in a globalized age, where distance is dead and, as the title of a bestseller some years ago declared (Friedman, 2005), the world is flat. There is ample evidence that this is not so true.…
-
-### Family Investment in Children--A Reply to Kenneth Macdonald
-**年份**: 2011 | **DOI**: [10.1093/esr/jcr020](https://doi.org/10.1093/esr/jcr020)
-**作者**: Bonke, J.; Esping-Andersen, G.
-**摘要**: （暂无）
 
 ### Religion as Reassurance? Testing the Insecurity Theory in 26 European Countries
 **年份**: 2011 | **DOI**: [10.1093/esr/jcr072](https://doi.org/10.1093/esr/jcr072)
@@ -2605,10 +2427,6 @@
 **年份**: 2011 | **DOI**: [10.1093/esr/jcr038](https://doi.org/10.1093/esr/jcr038)
 **作者**: Daenekindt, S.; Roose, H.
 **摘要**: This article focuses on the effect of social mobility on aesthetic dispositions towards films. Central query is whether Bourdieu’s idea of a rather static, class-based habitus—and its associated way of appropriating works of art as voiced in La Distinction (1984)—holds anno 2011.…
-
-### Contents
-**年份**: 2011 | **DOI**: [10.1093/esr/jcr019](https://doi.org/10.1093/esr/jcr019)
-**摘要**: Journal Article Contents Get access European Sociological Review, Volume 27, Issue 2, April 2011, Page i4, https://doi.org/10.1093/esr/jcr019 Published: 29 March 2011
 
 ### Subscriptions
 **年份**: 2011 | **DOI**: [10.1093/esr/jcr078](https://doi.org/10.1093/esr/jcr078)
@@ -2663,10 +2481,6 @@
 **年份**: 2011 | **DOI**: [10.1093/esr/jcr030](https://doi.org/10.1093/esr/jcr030)
 **作者**: Schulz, Florian; Grunow, Daniela
 **摘要**: We compare the data obtained through time diaries and survey questions on time use. Based on German data, we assess the exchangeability of time diary and survey estimates for several statistics. We find that both measures yield rather consistent findings.…
-
-### European Sociological Review - Editorial
-**年份**: 2011 | **DOI**: [10.1093/esr/jcr074](https://doi.org/10.1093/esr/jcr074)
-**摘要**: European Sociological Review - Editorial Get access European Sociological Review, Volume 27, Issue 5, October 2011, Page i2, https://doi.org/10.1093/esr/jcr074 Published: 22 September 2011
 
 ### Xenophobia among Youngsters: The Effect of Inter-Ethnic Contact
 **年份**: 2011 | **DOI**: [10.1093/esr/jcr057](https://doi.org/10.1093/esr/jcr057)
@@ -2792,14 +2606,6 @@
 **年份**: 2011 | **DOI**: [10.1093/esr/jcr065](https://doi.org/10.1093/esr/jcr065)
 **摘要**: Subscriptions Get access European Sociological Review, Volume 27, Issue 4, August 2011, Page i5, https://doi.org/10.1093/esr/jcr065 Published: 30 July 2011
 
-### Contents
-**年份**: 2011 | **DOI**: [10.1093/esr/jcr079](https://doi.org/10.1093/esr/jcr079)
-**摘要**: Contents Get access European Sociological Review, Volume 27, Issue 5, October 2011, Page i4, https://doi.org/10.1093/esr/jcr079 Published: 22 September 2011
-
-### European Sociological Review - Editorial
-**年份**: 2011 | **DOI**: [10.1093/esr/jcr100](https://doi.org/10.1093/esr/jcr100)
-**摘要**: European Sociological Review - Editorial Get access European Sociological Review, Volume 27, Issue 6, December 2011, Page i2, https://doi.org/10.1093/esr/jcr100 Published: 06 December 2011
-
 ### The Impact of Religious Identity and Social Orientations on Visual Arts Appreciation
 **年份**: 2011 | **DOI**: [10.1093/esr/jcr006](https://doi.org/10.1093/esr/jcr006)
 **作者**: van Eijck, K.
@@ -2820,10 +2626,6 @@
 **作者**: Aassve, A.; Sironi, M.; Bassi, V.
 **摘要**: In recent decades, Europe has witnessed dramatic changes in demographic behaviour manifested by postponement of childbearing, cohabitation replacing marriage together with increased divorce rates.…
 
-### Contents
-**年份**: 2011 | **DOI**: [10.1093/esr/jcr066](https://doi.org/10.1093/esr/jcr066)
-**摘要**: Journal Article Contents Get access European Sociological Review, Volume 27, Issue 4, August 2011, Page i4, https://doi.org/10.1093/esr/jcr066 Published: 30 July 2011
-
 ### Explaining Membership in the British National Party: A Multilevel Analysis of Contact and Threat
 **年份**: 2011 | **DOI**: [10.1093/esr/jcr031](https://doi.org/10.1093/esr/jcr031)
 **作者**: Biggs, M.; Knauss, S.
@@ -2837,10 +2639,6 @@
 ### Notes to Contributors
 **年份**: 2011 | **DOI**: [10.1093/esr/jcr077](https://doi.org/10.1093/esr/jcr077)
 **摘要**: Notes to Contributors European Sociological Review, Volume 27, Issue 5, October 2011, Page i3, https://doi.org/10.1093/esr/jcr077 Published: 22 September 2011
-
-### Contents
-**年份**: 2011 | **DOI**: [10.1093/esr/jcr005](https://doi.org/10.1093/esr/jcr005)
-**摘要**: Journal Article Contents Get access European Sociological Review, Volume 27, Issue 1, February 2011, Page i4, https://doi.org/10.1093/esr/jcr005 Published: 28 January 2011
 
 ### Patterns of Immigrant Political Participation: Explaining Differences in Types of Political Participation between Immigrants and the Majority Population in Western Europe
 **年份**: 2011 | **DOI**: [10.1093/esr/jcr010](https://doi.org/10.1093/esr/jcr010)
@@ -2876,10 +2674,6 @@
 ### Notes on Contributors
 **年份**: 2011 | **DOI**: [10.1093/esr/jcr049](https://doi.org/10.1093/esr/jcr049)
 **摘要**: （暂无）
-
-### Contents
-**年份**: 2011 | **DOI**: [10.1093/esr/jcr096](https://doi.org/10.1093/esr/jcr096)
-**摘要**: Contents Get access European Sociological Review, Volume 27, Issue 6, December 2011, Page i4, https://doi.org/10.1093/esr/jcr096 Published: 06 December 2011
 
 ### Mechanisms of Social Inequality Development: Primary and Secondary Effects in the Transition to Tertiary Education Between 1976 and 2005
 **年份**: 2011 | **DOI**: [10.1093/esr/jcr032](https://doi.org/10.1093/esr/jcr032)

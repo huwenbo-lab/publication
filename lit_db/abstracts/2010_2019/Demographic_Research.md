@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2010–2019 年文章（含摘要）
 
-共 **900** 篇
+共 **889** 篇
 
 ---
 
@@ -44,11 +44,6 @@
 **年份**: 2019 | **DOI**: [10.4054/DemRes.2019.41.45](https://doi.org/10.4054/DemRes.2019.41.45)
 **作者**: Oshio, Takashi
 **摘要**: BACKGROUND The cross-sectional association between female employment and fertility across developed countries turned from negative to positive during the mid-1980s. The conventional view is that the observed positive association is spurious owing to country-specific heterogeneity.…
-
-### Introduction to the Special Collection on 'Children and family dynamics in sub-Saharan Africa'
-**年份**: 2019 | **DOI**: [10.4054/DemRes.2019.41.44](https://doi.org/10.4054/DemRes.2019.41.44)
-**作者**: Samuel, Olivia; Hertrich, Veronique
-**摘要**: BACKGROUND This submission for a Special Collection is based on a selection of contributions to the International Seminar 'Children and family dynamics in sub-Saharan Africa', held in Paris in October 2016 (http://slam.site.ined.fr/en/DyPE/seminar/).…
 
 ### The impact of the choice of life table statistics when forecasting mortality
 **年份**: 2019 | **DOI**: [10.4054/DemRes.2019.41.43](https://doi.org/10.4054/DemRes.2019.41.43)
@@ -144,11 +139,6 @@
 **年份**: 2019 | **DOI**: [10.4054/DemRes.2019.41.22](https://doi.org/10.4054/DemRes.2019.41.22)
 **作者**: Behrman, Julia A.; Erman, Jeylan
 **摘要**: BACKGROUND The paper explores why Muslim women in France have, on average, higher ideal family sizes than non-Muslim women to better understand the socioeconomic and sociocultural factors that underlie Muslim women's higher desired and realized fertility.…
-
-### Introduction to the special collection on spatial mobility, family dynamics, and gender relations
-**年份**: 2019 | **DOI**: [10.4054/DemRes.2019.41.21](https://doi.org/10.4054/DemRes.2019.41.21)
-**作者**: Vidal, Sergi; Huinink, Johannes
-**摘要**: BACKGROUND There is growing evidence that spatial mobility has an impact on and is driven by family dynamics and gender relations. In contexts where family diversity and complexity have increased and gender inequalities persist, it is particularly urgent that we advance our understanding of decision…
 
 ### How marriages based on bride capture differ: Evidence from Kyrgyzstan
 **年份**: 2019 | **DOI**: [10.4054/DemRes.2019.41.20](https://doi.org/10.4054/DemRes.2019.41.20)
@@ -1190,11 +1180,6 @@
 **作者**: Wittenberg, Martin; Collinson, Mark; Harris, Tom
 **摘要**: BACKGROUND Household trends are generally tracked by means of repeated cross-sections, such as censuses or nationally representative surveys. However, the trends may be driven either by changes within households over time or the way in which the processes of household formation/dissolution interact …
 
-### Introduction to the Special Collection on Separation, Divorce, Repartnering, and Remarriage around the World
-**年份**: 2017 | **DOI**: [10.4054/DemRes.2017.37.38](https://doi.org/10.4054/DemRes.2017.37.38)
-**作者**: Cherlin, Andrew J.
-**摘要**: BACKGROUND This is an introduction to a special collection of articles that, in earlier versions, were presented at the International Seminar on Union Breakdown and Repartnering around the World, in Montreal, Canada, in 2015, sponsored by the Panel on Nuptiality of the International Union for the Sc…
-
 ### Social policies, separation, and second birth spacing in Western Europe
 **年份**: 2017 | **DOI**: [10.4054/DemRes.2017.37.37](https://doi.org/10.4054/DemRes.2017.37.37)
 **作者**: Kreyenfeld, Michaela; Geisler, Esther; Castro Martin, Teresa 等12人
@@ -1399,11 +1384,6 @@
 **年份**: 2017 | **DOI**: [10.4054/DemRes.2017.36.52](https://doi.org/10.4054/DemRes.2017.36.52)
 **作者**: Behrman, Julia; Duvisac, Sara
 **摘要**: OBJECTIVE We explore whether women's paid employment is associated with reductions in women's stated son preference in India and whether these results vary by employment sector (agriculture, manufacturing, services, professional-technical) and skill level (education and literacy).…
-
-### The fertility response to the Great Recession in Europe and the United States: Structural economic conditions and perceived economic uncertainty
-**年份**: 2017 | **DOI**: [10.4054/DemRes.2017.36.51](https://doi.org/10.4054/DemRes.2017.36.51)
-**作者**: Comolli, Chiara Ludovica
-**摘要**: BACKGROUND This study further develops Goldstein et al.'s (2013) analysis of the fertility response to the Great Recession in western economies. OBJECTIVE The purpose of this paper is to shed light on the fertility reaction to different indicators of the crisis.…
 
 ### Divorce and separation in the Philippines: Trends and correlates
 **年份**: 2017 | **DOI**: [10.4054/DemRes.2017.36.50](https://doi.org/10.4054/DemRes.2017.36.50)
@@ -1920,11 +1900,6 @@
 **作者**: Bertrand-Dansereau, Anais; Clark, Shelley
 **摘要**: BACKGROUND Despite increased attention to shifting union-formation processes, there is little consensus as to which is more stable, modern unions or traditional marriages. This is especially relevant in Malawi, where divorce is common.…
 
-### Introduction to research on immigrant and ethnic minority families in Europe
-**年份**: 2016 | **DOI**: [10.4054/DemRes.2016.35.2](https://doi.org/10.4054/DemRes.2016.35.2)
-**作者**: Kulu, Hill; Hannemann, Tina
-**摘要**: BACKGROUND This article provides an introduction to the special collection of papers on partnership dynamics among immigrants and their descendants in five selected European countries: Sweden, France, the UK, Spain, and Estonia.…
-
 ### Types of spatial mobility and change in people's ethnic residential contexts
 **年份**: 2016 | **DOI**: [10.4054/DemRes.2016.34.41](https://doi.org/10.4054/DemRes.2016.34.41)
 **作者**: Magi, Kadi; Leetmaa, Kadri; Tammaru, Tiit 等4人
@@ -2164,11 +2139,6 @@
 **年份**: 2016 | **DOI**: —
 **作者**: Cazzola, Alberto; Pasquini, Lucia; Angeli, Aurora
 **摘要**: BACKGROUND Many analyses demonstrate that rising unemployment rates generate a feeling of uncertainty that can influence fertility behaviour, inducing a short-term reduction in fertility. The impact of the recent economic crisis in Italy is controversial in the current demographic literature.…
-
-### Loss aversion and duration of residence
-**年份**: 2016 | **DOI**: [10.4054/demres.2016.35.36](https://doi.org/10.4054/demres.2016.35.36)
-**作者**: Morrison, Philip S.; Clark, William A.V.
-**摘要**: （暂无）
 
 ### Which transition comes first? Urban and demographic transitions in Belgium and Sweden
 **年份**: 2015 | **DOI**: [10.4054/DemRes.2015.33.48](https://doi.org/10.4054/DemRes.2015.33.48)
@@ -2415,11 +2385,6 @@
 **作者**: Ortensi, Livia Elisa
 **摘要**: BACKGROUND Although women currently constitute half of the international migrant population, most theoretical frameworks used in the study of migration are still gender-neutral. Surprisingly, this is also true of the study of migrant fertility.…
 
-### TFR for males in Denmark - calculation and tempo-correction
-**年份**: 2015 | **DOI**: [10.4054/DemRes.2015.32.52](https://doi.org/10.4054/DemRes.2015.32.52)
-**作者**: Nordfalk, Francisca; Hvidtfeldt, Ulla A.; Keiding, Niels
-**摘要**: BACKGROUND Studies of trends and tempo corrections of fertility have focused on female rather than male fertility; one reason being that the necessary detailed data are more widely available for mothers than for fathers.…
-
 ### The causal effect of an additional sibling on completed fertility: An estimation of intergenerational fertility correlations by looking at siblings of twins
 **年份**: 2015 | **DOI**: [10.4054/DemRes.2015.32.51](https://doi.org/10.4054/DemRes.2015.32.51)
 **作者**: Kolk, Martin
@@ -2508,16 +2473,6 @@
 ### On the age-specific correlation between fertility and female employment
 **年份**: 2015 | **DOI**: [10.4054/demres.2015.32.23](https://doi.org/10.4054/demres.2015.32.23)
 **作者**: Brehm, Uta; Engelhardt, Henriette
-**摘要**: （暂无）
-
-### Migration signatures across the decades
-**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.38](https://doi.org/10.4054/demres.2015.32.38)
-**作者**: Johnson, Kenneth M.; Winkler, Richelle L.
-**摘要**: （暂无）
-
-### Quality of demographic data in GGS Wave 1
-**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.24](https://doi.org/10.4054/demres.2015.32.24)
-**作者**: Vergauwen, Jorik; Wood, Jonas; De Wachter, David 等4人
 **摘要**: （暂无）
 
 ### When people shed religious identity in Ireland and Austria: Evidence from censuses
@@ -2814,11 +2769,6 @@
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.39](https://doi.org/10.4054/demres.2014.31.39)
 **作者**: Piccione, Leonardo; Dalla Zuanna, Gianpiero; Minello, Alessandra
 **摘要**: A number of studies have examined the influence of life conditions in infancy (and pregnancy) on mortality risks in adulthood or old age. For those individuals who survived difficult life conditions, some scholars have found a prevalence of positive select
-
-### Socioeconomic status and fertility before, during, and after the demographic transition: An introduction
-**年份**: 2014 | **DOI**: [10.4054/demres.2014.31.7](https://doi.org/10.4054/demres.2014.31.7)
-**作者**: Dribe, Martin; Oris, Michel; Pozzi, Lucia
-**摘要**: Despite a long interest in the historical fertility transition, there is still a lack of knowledge about disaggregated patterns that could help us understand the mechanisms behind the transition. In previous research the widely held view is that there was
 
 ### Attitudes on marriage and new relationships
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.54](https://doi.org/10.4054/demres.2014.30.54)
@@ -3919,11 +3869,6 @@
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.16](https://doi.org/10.4054/demres.2011.24.16)
 **作者**: Billingsley, Sunnee
 **摘要**: This study assesses the decline in second birth rates for men and women across different skill levels in transitional Russia. Changes within educational groups and occupational classes are observed over three distinct time periods: the Soviet era, econ
-
-### An editorial on plagiarism
-**年份**: 2011 | **DOI**: [10.4054/demres.2011.24.17](https://doi.org/10.4054/demres.2011.24.17)
-**作者**: Keilman, Nico; Hinde, Andrew; Goldstein, Joshua R.
-**摘要**: In January this year, we were confronted with a case of plagiarism. One paper that had been submitted last year by a certain person turned out to be written by three other persons. It was presented by the three true authors at a conference in 2010, whe
 
 ### Challenges in moving from macro to micro: Population and family structures in ageing societies
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.10](https://doi.org/10.4054/demres.2011.25.10)

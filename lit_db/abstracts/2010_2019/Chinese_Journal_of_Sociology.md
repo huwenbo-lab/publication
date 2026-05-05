@@ -1,7 +1,7 @@
 # Chinese Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **119** 篇
+共 **114** 篇
 
 ---
 
@@ -24,11 +24,6 @@
 **年份**: 2019 | **DOI**: [10.1177/2057150x19837908](https://doi.org/10.1177/2057150x19837908)
 **作者**: Lyu, Mengjie; Li, Wangyang; Xie, Yu
 **摘要**: It is well known that children’s academic performances are affected by both their family backgrounds and contextual or structural factors such as the urban–rural difference and regional variation.…
-
-### Introduction to the special issue on ‘Life course and family dynamics in a comparative perspective’
-**年份**: 2019 | **DOI**: [10.1177/2057150x19840253](https://doi.org/10.1177/2057150x19840253)
-**作者**: Chan, Tak Wing
-**摘要**: （暂无）
 
 ### Trends in educational mobility: How does China compare to Europe and the United States?
 **年份**: 2019 | **DOI**: [10.1177/2057150x19835145](https://doi.org/10.1177/2057150x19835145)
@@ -214,14 +209,6 @@
 **年份**: 2018 | **DOI**: [10.1177/2057150x18803586](https://doi.org/10.1177/2057150x18803586)
 **作者**: Ma, Xuejun
 **摘要**: Existing literature on the Communist Party of China (CPC)-led labor movement places particular emphasis on the revolutionary discourse and analysis of class struggle but pays less attention to the organizational form of the CPC-led labor movement from the perspective of organizational sociology.…
-
-### Call for Papers
-**年份**: 2018 | **DOI**: [10.1177/2057150x18793045](https://doi.org/10.1177/2057150x18793045)
-**摘要**: （暂无）
-
-### Call for Papers
-**年份**: 2018 | **DOI**: [10.1177/2057150x18793278](https://doi.org/10.1177/2057150x18793278)
-**摘要**: （暂无）
 
 ### Back to historical views, reconstructing the sociological imagination: The new tradition of classical and historical studies in the modern Chinese transformation
 **年份**: 2017 | **DOI**: [10.1177/2057150x16686260](https://doi.org/10.1177/2057150x16686260)
@@ -428,11 +415,6 @@
 **作者**: Zhang, Chunni; Xie, Yu
 **摘要**: Among rural-to-urban migrants, migrant workers from the same origins tend to concentrate in the same workplaces. When this concentration in a workplace is sufficiently dense, we may consider it a native-place enclave.…
 
-### Introduction to Special Issue
-**年份**: 2016 | **DOI**: [10.1177/2057150x16670829](https://doi.org/10.1177/2057150x16670829)
-**作者**: Thornton, Arland; Xie, Yu
-**摘要**: （暂无）
-
 ### Developmental idealism in China
 **年份**: 2016 | **DOI**: [10.1177/2057150x16670835](https://doi.org/10.1177/2057150x16670835)
 **作者**: Thornton, Arland; Xie, Yu
@@ -467,10 +449,6 @@
 **年份**: 2016 | **DOI**: [10.1177/2057150x16657936](https://doi.org/10.1177/2057150x16657936)
 **作者**: Zhang, Li
 **摘要**: This research examines how intergenerational relations affect the Chinese elderly's subjective well-being, focusing on studying differences by gender and residence. Analyzing data from the 2011 wave of the Chinese Longitudinal Healthy Longevity Survey, the study shows that most forms of intergenerat…
-
-### Corrigendum
-**年份**: 2016 | **DOI**: [10.1177/2057150x15625564](https://doi.org/10.1177/2057150x15625564)
-**摘要**: Household context and individual departure: The case of escape in three ‘unfree’ East Asian populations, 1700–1900 Chinese Journal of Sociology December 2015 1(4): 515–539 DOI: 10.1177/2057150X15614547
 
 ### The Land Revolution in China from an academic history perspective: Changes of topics and paradigms
 **年份**: 2015 | **DOI**: [10.1177/2057150x15593713](https://doi.org/10.1177/2057150x15593713)

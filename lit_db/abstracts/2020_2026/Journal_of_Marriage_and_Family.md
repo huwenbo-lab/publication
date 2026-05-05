@@ -1,7 +1,7 @@
 # Journal of Marriage and Family
 ## 2020–2026 年文章（含摘要）
 
-共 **536** 篇
+共 **529** 篇
 
 ---
 
@@ -14,11 +14,6 @@
 **年份**: 2026 | **DOI**: [10.1111/jomf.70063](https://doi.org/10.1111/jomf.70063)
 **作者**: Panichella, Nazareno; Zhelenkova, Antonina; Gaukel, Hanne 等4人
 **摘要**: ABSTRACT Objective This study investigates how different couple‐based geographical mobility strategies affect employment probabilities for men and women in six European countries from a gender perspective.…
-
-### Life Course Changes in the Geographical Distance Between Adult Children of Immigrants and Their Parents: The Role of Partnership Formation and Dissolution
-**年份**: 2026 | **DOI**: [10.1111/jomf.70074](https://doi.org/10.1111/jomf.70074)
-**作者**: Pertzikovitz, Alon; Kalmijn, Matthijs; Das, Marjolijn 等4人
-**摘要**: ABSTRACT Objective This study explores how geographical distance between adult children of immigrants and their parents changes in response to partnership formation and partnership dissolution. Background Geographical distance between generations is a key factor in intergenerational support.…
 
 ### Gender Norms in Transition? Parents' Housework and Childcare Time in the COVID-19 Era
 **年份**: 2025 | **DOI**: [10.1111/jomf.70053](https://doi.org/10.1111/jomf.70053)
@@ -860,11 +855,6 @@
 **作者**: Andre, Stefanie; Remery, Chantal; Yerkes, Mara A.
 **摘要**: Objective: This article extends pre-pandemic theories, empirically testing the salience of pandemic-based absolute and relative resources and time availability mechanisms for understanding gendered divisions of childcare across the COVID-19 pandemic.Background: Multiple cross-sectional studies have …
 
-### Introduction to mid-decade Special Issue on Theory and Methods
-**年份**: 2024 | **DOI**: [10.1111/jomf.13039](https://doi.org/10.1111/jomf.13039)
-**作者**: Sayer, Liana C.
-**摘要**: This issue, Volume 86, number 5, is the sixth contribution to the Journal of Marriage and Family's tradition of mid-decade issues on theory and method. The objective of the mid-decade Special Issues is to showcase theoretical and methodological advances in family research over the last decade, with …
-
 ### The ties that bind: Questions for studying families in neighborhood contexts
 **年份**: 2024 | **DOI**: [10.1111/jomf.13026](https://doi.org/10.1111/jomf.13026)
 **作者**: Riina, Elizabeth M.
@@ -1200,11 +1190,6 @@
 **作者**: Goldberg, Abbie E.; Allen, Katherine R.; Sanner, Caroline
 **摘要**: Objective: This study aims to advance understanding of hidden, complex, and resilient family experiences as perceived by adult children from LGBTQ-parent families.Background: Difficult and taboo family topics (e.g., mental illness, substance abuse, violence, infidelity, poverty) are rarely examined,…
 
-### Geographic relocation in response to parents' health shocks: Who moves and how close?
-**年份**: 2024 | **DOI**: [10.1111/jomf.12939](https://doi.org/10.1111/jomf.12939)
-**作者**: Reyes, Adriana M.; Shang, Yongxin
-**摘要**: Objective: This article examines how parent-child geographic proximity changes around the onset of parental health shocks in the United States. Differences in the likelihood of moving closer across social groups are also investigated.Background: Adult children often care for older parents with healt…
-
 ### Negotiating good motherhood: Foodwork, emotion work, and downscaling
 **年份**: 2024 | **DOI**: [10.1111/jomf.12934](https://doi.org/10.1111/jomf.12934)
 **作者**: Fielding-Singh, Priya; Cooper, Marianne
@@ -1400,11 +1385,6 @@
 **作者**: Yu, Wei-Hsin; Hara, Yuko
 **摘要**: Objective This study investigates shifts in marriage desires during singlehood and the potential consequences associated with these shifts in Japan, a country epitomizing later and less marriage without substantial increases in nonmarital childbearing.…
 
-### Sexual passion in couple relationships: Emerging patterns from dyadic response surface analysis
-**年份**: 2023 | **DOI**: [10.1111/jomf.12888](https://doi.org/10.1111/jomf.12888)
-**作者**: Busby, Dean M.; Hanna-Walker, Veronica; Leonhardt, Nathan D. 等4人
-**摘要**: Objective The objective of this study was to explore the interrelationship between one partner's inhibited sexual passion (ISP) and the other partner's obsessive sexual passion (OSP) and how these two types of extrinsically motivated passion were associated with sexual satisfaction.…
-
 ### Child executive function linking marital adjustment to peer nominations of prosocial behavior
 **年份**: 2023 | **DOI**: [10.1111/jomf.12892](https://doi.org/10.1111/jomf.12892)
 **作者**: Wu, Chunxia; Zhang, Qing; Liu, Siman 等5人
@@ -1514,11 +1494,6 @@
 **年份**: 2023 | **DOI**: [10.1111/jomf.12833](https://doi.org/10.1111/jomf.12833)
 **作者**: Hwang, Woosang; Kim, Jeung Hyun; Brown, Maria T. 等4人
 **摘要**: Objective This study employs multiple religious dimensions and a developmental perspective to identify distinct classes of religiosity among young adults in early and middle adulthood, and to describe how transition patterns in religiosity classes are associated with filial elder-care norms in midli…
-
-### Transformative family scholarship: Introduction to the special issue
-**年份**: 2022 | **DOI**: [10.1111/jomf.12882](https://doi.org/10.1111/jomf.12882)
-**作者**: Dow, Dawn M.; Few-Demo, April L.; Williams, Deadric T.
-**摘要**: This introductory essay situates this special issue within the context of antiracism and social justice for family scholars. The editors underscore the political and social context that led the National Council on Family Relations' three flagship journals-Journal of Family Theory & Review (JFTR), Fa…
 
 ### You're biracial but horizontal ellipsis : Multiracial socialization discourse among mommy bloggers with Black and non-Black multiracial children
 **年份**: 2022 | **DOI**: [10.1111/jomf.12866](https://doi.org/10.1111/jomf.12866)
@@ -1885,11 +1860,6 @@
 **作者**: Hook, Jennifer L.; Ruppanner, Leah; Casper, Lynne M.
 **摘要**: Objective: This study examines how occupational resources and demands are associated with parents' childcare time. Background: Scholars recognize parental employment as important for understanding parental time use.…
 
-### Converging trends in developmental child care time by fathers' education? Comment on Cha and Park (2021)
-**年份**: 2022 | **DOI**: [10.1111/jomf.12889](https://doi.org/10.1111/jomf.12889)
-**作者**: Gao, Melody Ge
-**摘要**: AbstractObjectiveThis comment uses more recently available data to examine the robustness of the converging trends in developmental child care time by parental education argued by Cha & Park (2021, Journal of Marriage and Family, 83, 769–785).BackgroundDrawing on the 2003–2017 American Time Use Surv…
-
 ### My relatives are waiting: Barriers to tribal enrollment of fostered/adopted American Indians
 **年份**: 2021 | **DOI**: [10.1111/jomf.12797](https://doi.org/10.1111/jomf.12797)
 **作者**: Landers, Ashley L.; Danes, Sharon M.; Morgan, Amy A. 等5人
@@ -2219,11 +2189,6 @@
 **年份**: 2021 | **DOI**: [10.1111/jomf.12694](https://doi.org/10.1111/jomf.12694)
 **作者**: Tisch, Daria; Lersch, Philipp M.
 **摘要**: Objective This study examines fairness perceptions of experimentally manipulated savings arrangements in couples (i.e., distribution of control and ownership of savings) to identify distributive justice principles in marriage.…
-
-### Premarital Cohabitation and Marital Dissolution: A Reply to Manning, Smock, and Kuperberg
-**年份**: 2020 | **DOI**: [10.1111/jomf.12744](https://doi.org/10.1111/jomf.12744)
-**作者**: Rosenfeld, Michael J.; Roesler, Katharina
-**摘要**: Objective Our goal is to show how premarital cohabitation's association with marital dissolution can be measured consistently over time. Background Rosenfeld and Roesler (2019) showed that premarital cohabitation led to lower rates of marital dissolution early in marital duration, but higher rates o…
 
 ### Cash-for-Care Use and Union Dissolution in Finland
 **年份**: 2020 | **DOI**: [10.1111/jomf.12738](https://doi.org/10.1111/jomf.12738)

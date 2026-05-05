@@ -1,13 +1,9 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **343** 篇
+共 **306** 篇
 
 ---
-
-### Issue Information
-**年份**: 2026 | **DOI**: [10.1111/jftr.70044](https://doi.org/10.1111/jftr.70044)
-**摘要**: （暂无）
 
 ### Five Generations, One Household: An African American Autoethnography of Family Systems, Identity, and Intergenerational Resilience
 **年份**: 2026 | **DOI**: [10.1111/jftr.70055](https://doi.org/10.1111/jftr.70055)
@@ -79,35 +75,6 @@
 **作者**: Wang, Qingqing; Deng, Lijuan
 **摘要**: ABSTRACT This article examines the rise of the hands‐on dad phenomenon on contemporary Chinese short‐video platforms. Adopting an interdisciplinary perspective that integrates gender studies, masculinity research, semiotics, and media studies, we analyze how hands‐on dads are constructed and how the…
 
-### Cooperative Rearing and Low Fertility Persistence: A Two‐Constraint Theoretical Framework
-**年份**: 2026 | **DOI**: [10.1111/jftr.70062](https://doi.org/10.1111/jftr.70062)
-**作者**: Zhang, Zhen; Li, Qiang
-**摘要**: ABSTRACT Despite expanded family policy spending across high‐income countries, fertility remains low. Quasi‐experimental evidence shows that cash and tax transfers tend to shift fertility mainly among lower socioeconomic status (SES) groups, with smaller or null effects among socioeconomically advan…
-
-### Discovering Legacies: Fathers, Sons, Masculinities, and Equity Within Families
-**年份**: 2026 | **DOI**: [10.1111/jftr.70052](https://doi.org/10.1111/jftr.70052)
-**作者**: Roy, Kevin
-**摘要**: ABSTRACT In this article, I examine how personal experiences within my family and my homeplace communities have shaped 20 years of basic and applied research, as well as theorizing, on fathering and masculinities.…
-
-### Constructing Meaning in Digital Lives: A Theory‐Driven and Practical Approach to Using Online Forums in Family Science
-**年份**: 2026 | **DOI**: [10.1111/jftr.70057](https://doi.org/10.1111/jftr.70057)
-**作者**: Monk, J. Kale; Jamison, Tyler B.; Basinger, Erin D. 等6人
-**摘要**: ABSTRACT Online forums offer family scholars a unique opportunity to learn how people make sense of complex issues related to family, identity, and relationships. These digital spaces often mirror or even amplify offline dynamics, as users interact to disclose sensitive information, construct narrat…
-
-### Are We Willing to Change? A Feminist Agenda for the Study of Men in Families
-**年份**: 2026 | **DOI**: [10.1111/jftr.70061](https://doi.org/10.1111/jftr.70061)
-**作者**: Garnett‐Deakin, Aran; Sanner, Caroline
-**摘要**: ABSTRACT Public concern over the increasingly visible crisis of hegemonic masculinity is growing. Young men are showing a rise in antifeminist rhetoric, worsening mental health, and a loneliness epidemic.…
-
-### Adolescence: A Critical Media Review
-**年份**: 2026 | **DOI**: [10.1111/jftr.70059](https://doi.org/10.1111/jftr.70059)
-**作者**: Andrea, Erin K.; Desens Gochanour, Emma M.; Nuñez Love, Lizee
-**摘要**: （暂无）
-
-### Issue Information
-**年份**: 2025 | **DOI**: [10.1111/jftr.12564](https://doi.org/10.1111/jftr.12564)
-**摘要**: （暂无）
-
 ### Exploring Therapist's Worldview in a Family Therapy Theory Course: A Four‐Corners Learning Activity
 **年份**: 2025 | **DOI**: [10.1111/jftr.70010](https://doi.org/10.1111/jftr.70010)
 **作者**: Cho, Wonyoung L.; Cascino, Renée; Crombie, Hope 等6人
@@ -173,10 +140,6 @@
 **作者**: Monk, J. Kale; Ogolsky, Brian G.; Proulx, Christine M.
 **摘要**: AbstractAlthough relationship instability is one of the most widely studied relationship concepts, its definition remains unclear. To advance clarity and transparency in this area, we outline the diverse ways relationship instability is conceptualized and propose a conceptual model of relationship i…
 
-### Issue Information
-**年份**: 2025 | **DOI**: [10.1111/jftr.12562](https://doi.org/10.1111/jftr.12562)
-**摘要**: （暂无）
-
 ### Hurry up and wait: Developmental anxiety during the transition to adulthood
 **年份**: 2025 | **DOI**: [10.1111/jftr.12621](https://doi.org/10.1111/jftr.12621)
 **作者**: Ratner, Kaylin; Budesheim, Erin F.; Alexander, Chelsea S. 等9人
@@ -191,10 +154,6 @@
 **年份**: 2025 | **DOI**: [10.1111/jftr.70004](https://doi.org/10.1111/jftr.70004)
 **作者**: Li, Muzi Nina; Zhou, Xiang
 **摘要**: AbstractAs global family structures diversify and marginalized communities gain visibility, traditional health disparity frameworks like Minority Stress Theory remain limited by their individualistic focus and fail to capture how chronic marginalization impacts families collectively.…
-
-### Issue Information
-**年份**: 2025 | **DOI**: [10.1111/jftr.12563](https://doi.org/10.1111/jftr.12563)
-**摘要**: （暂无）
 
 ### Analyzing mental health among Black immigrant families through intersectionality
 **年份**: 2025 | **DOI**: [10.1111/jftr.12610](https://doi.org/10.1111/jftr.12610)
@@ -331,10 +290,6 @@
 **作者**: Weiser, Dana A.; Knopik, Valerie S.; Horn, Stacey S. 等10人
 **摘要**: Co-Guest editors Ramona Faith Oswald and Anisa Zvonkovic invited us to comment on the article by Dyer (2024) in the special issue, Theorizing Academia: Critical and Futuristic Perspectives.…
 
-### Issue Information
-**年份**: 2025 | **DOI**: [10.1111/jftr.12565](https://doi.org/10.1111/jftr.12565)
-**摘要**: （暂无）
-
 ### Having a House but Not a Home: A Critical Reflection on Prioritizing Youth Perspectives and Well‐Being in Research on Family Structural Transitions
 **年份**: 2025 | **DOI**: [10.1111/jftr.70026](https://doi.org/10.1111/jftr.70026)
 **作者**: Jensen, Todd M.
@@ -400,11 +355,6 @@
 **作者**: Lağap, Adar Cem; Güngör, Duygu
 **摘要**: ABSTRACT The current scoping review overviews articles that apply the relational turbulence model/theory to guide the implementation of actor‐partner interdependence modeling within a structural equation modeling framework. Sixteen studies are examined in the final synthesis of the review.…
 
-### Considering human development and family science from an HBCU faculty perspective: Commentary on Dyer
-**年份**: 2025 | **DOI**: [10.1111/jftr.12616](https://doi.org/10.1111/jftr.12616)
-**作者**: Ross, Jennifer J.
-**摘要**: AbstractThe article by Dyer (2024) tells the origin story of human development and family science (HDFS). Dyer suggested that HDFS inherited its discipline and department from home economics, but the phasing out of home economics from academia has led to disciplinary fragmentation.…
-
 ### Experienced Racism Among Asian American Adolescents and Emerging Adults Amid the COVID ‐19 Pandemic: A Systematic Review From the Perspective of Asian Critical Theory
 **年份**: 2025 | **DOI**: [10.1111/jftr.70025](https://doi.org/10.1111/jftr.70025)
 **作者**: Chang, Tzu‐Fen; Shih, Kristy Y.
@@ -454,11 +404,6 @@
 **年份**: 2025 | **DOI**: [10.1111/jftr.70009](https://doi.org/10.1111/jftr.70009)
 **作者**: Somech, Lior Y.
 **摘要**: ABSTRACT This article introduces the first systematic adaptation of Scharmer's Theory U to the parenting domain, offering an innovative theoretical framework for understanding parental transformation in families of children with behavioral problems.…
-
-### Elevating the story of HDFS: A response to the commentaries by Ross, Weiser et al., and Youngblade
-**年份**: 2025 | **DOI**: [10.1111/jftr.12617](https://doi.org/10.1111/jftr.12617)
-**作者**: Dyer, Kathleen D.
-**摘要**: （暂无）
 
 ### To boldly go: The paradigmatic framework, coordination theory, and the quest for unified theory
 **年份**: 2025 | **DOI**: [10.1111/jftr.12630](https://doi.org/10.1111/jftr.12630)
@@ -545,10 +490,6 @@
 **作者**: Mello, Zena R.
 **摘要**: AbstractThis article introduces a new conceptual model for examining classism among adolescents and families. Classism refers to the discrimination that individuals experience because of their social class.…
 
-### Issue Information
-**年份**: 2024 | **DOI**: [10.1111/jftr.12516](https://doi.org/10.1111/jftr.12516)
-**摘要**: （暂无）
-
 ### Attachment resilience in practice: The essential role of family keyworkers
 **年份**: 2024 | **DOI**: [10.1111/jftr.12552](https://doi.org/10.1111/jftr.12552)
 **作者**: Lordello, Silvia
@@ -604,10 +545,6 @@
 **作者**: Larrinaga‐Bidegain, Nerea; Gemignani, Marco; Hernández‐Albújar, Yolanda
 **摘要**: AbstractWhat psychosocial impacts does migrating without children have on parents? How do the reconfigurations of gendered dynamics in transnational families (TFs) affect the well‐being and subjectivities of mothers and fathers in the hosting and sending communities?…
 
-### Issue Information
-**年份**: 2024 | **DOI**: [10.1111/jftr.12517](https://doi.org/10.1111/jftr.12517)
-**摘要**: （暂无）
-
 ### Human development and family science: A story of disciplinary fragmentation and kinship
 **年份**: 2024 | **DOI**: [10.1111/jftr.12578](https://doi.org/10.1111/jftr.12578)
 **作者**: Dyer, Kathleen D.
@@ -648,11 +585,6 @@
 **作者**: Turner, Kaley G.; Parker, M. L.
 **摘要**: AbstractThis article aims to apply a family systems framework to the practice of couple relationship education (CRE) as an appropriate resource for couples experiencing violence. Intimate partner violence (IPV) is a multi‐faceted phenomenon that adversely affects the health and well‐being of individ…
 
-### Türkiye's responses to the 2023 earthquakes: An application of family adjustment and adaptation response model
-**年份**: 2024 | **DOI**: [10.1111/jftr.12597](https://doi.org/10.1111/jftr.12597)
-**作者**: Söylemez, Yudum; Aydın, Tuba
-**摘要**: AbstractAfter devastating earthquakes struck Türkiye in February 2023, the country faced the challenge of addressing the psychosocial needs of the survivors. This article uses the Family Adjustment and Adaptation Response (FAAR) model to conceptualize Türkiye's responses to the earthquakes in terms …
-
 ### Emerging Voices: Amplifying the perspectives of students and new professionals
 **年份**: 2024 | **DOI**: [10.1111/jftr.12582](https://doi.org/10.1111/jftr.12582)
 **作者**: Sanner, Caroline
@@ -688,10 +620,6 @@
 **作者**: Sanner, Caroline; Williams, Deadric T.; Mitchell, Sarah 等6人
 **摘要**: AbstractMany Americans believe that a breakdown in the “traditional” two‐married‐parent family and the rise in single‐parent families are responsible for persistent family inequality. The general argument is that children do best when they are raised by both biological parents.…
 
-### Issue Information
-**年份**: 2024 | **DOI**: [10.1111/jftr.12515](https://doi.org/10.1111/jftr.12515)
-**摘要**: （暂无）
-
 ### Celebrating the “good‐enough families”: Family challenges and resilience during global adversity
 **年份**: 2024 | **DOI**: [10.1111/jftr.12557](https://doi.org/10.1111/jftr.12557)
 **作者**: Crespo, Carla; Relvas, Ana Paula
@@ -701,10 +629,6 @@
 **年份**: 2024 | **DOI**: [10.1111/jftr.12576](https://doi.org/10.1111/jftr.12576)
 **作者**: Somjee, Ali Asad
 **摘要**: AbstractShared experiences are a fundamental aspect of couple and family life that impact both individual well‐being and satisfaction with close relationships. Optimal experience, also known as flow, is the state of complete absorption and fulfillment experienced when engaged in an intrinsically rew…
-
-### Issue Information
-**年份**: 2024 | **DOI**: [10.1111/jftr.12514](https://doi.org/10.1111/jftr.12514)
-**摘要**: （暂无）
 
 ### The influence of family‐based social assistance programs and parenting on child development: A conceptual framework for research with U.S. families in poverty
 **年份**: 2024 | **DOI**: [10.1111/jftr.12560](https://doi.org/10.1111/jftr.12560)
@@ -771,10 +695,6 @@
 **作者**: Banks, Ingrid
 **摘要**: AbstractThis article examines how the recent controversy about the College Board's A.P. African American Studies course has implications for studies on Black families. In relegating Black feminism and Black queer theory as optional research topics in the course, the College Board failed to recognize…
 
-### Issue Information
-**年份**: 2023 | **DOI**: [10.1111/jftr.12463](https://doi.org/10.1111/jftr.12463)
-**摘要**: （暂无）
-
 ### The secret history of home economics: How trailblazing women harnessed the power of home and changed the way we live. DanielleDreilinger. 2021. New York: W. W. Norton & Co. 348 pp.ISBN: 978‐1324004493. $13.99 Paperback. $9.99 e‐book.
 **年份**: 2023 | **DOI**: [10.1111/jftr.12505](https://doi.org/10.1111/jftr.12505)
 **作者**: Ermer, Ashley; Roach, Andrea
@@ -804,10 +724,6 @@
 **年份**: 2023 | **DOI**: [10.1111/jftr.12523](https://doi.org/10.1111/jftr.12523)
 **作者**: Pietromonaco, Paula R.; Overall, Nickola C.
 **摘要**: AbstractThe COVID‐19 pandemic continues to affect couples worldwide who vary in sociocultural values, norms, and expectations, but most work examining connections between pandemic‐related stress and couples' relationships has been conducted in the US or similar Western cultures.…
-
-### Issue Information
-**年份**: 2023 | **DOI**: [10.1111/jftr.12460](https://doi.org/10.1111/jftr.12460)
-**摘要**: （暂无）
 
 ### Women at the margins: Experiences with spousal incarceration inIndia
 **年份**: 2023 | **DOI**: [10.1111/jftr.12498](https://doi.org/10.1111/jftr.12498)
@@ -843,10 +759,6 @@
 **年份**: 2023 | **DOI**: [10.1111/jftr.12537](https://doi.org/10.1111/jftr.12537)
 **作者**: Berástegui, Ana; Pitillas, Carlos
 **摘要**: AbstractAttachment resilience is the ability of attachment relationships to survive adversity and maintain their functions in the face of stress and is a critical component of personal and family resilience. This property is the result of interactive influences across multiple systems of care.…
-
-### Issue Information
-**年份**: 2023 | **DOI**: [10.1111/jftr.12462](https://doi.org/10.1111/jftr.12462)
-**摘要**: （暂无）
 
 ### Mixing races, maintaining racism? Considering the connection between interracial families, social distance, and racial inequality
 **年份**: 2023 | **DOI**: [10.1111/jftr.12504](https://doi.org/10.1111/jftr.12504)
@@ -916,10 +828,6 @@
 ### Michael J. Rosenfeld. 2022. The Rainbow After the Storm: Marriage Equality and Social Change in the US. New York, NY: Oxford University Press. $27.95. Paperback. 319 pp. ISBN: 9780197600443.
 **年份**: 2023 | **DOI**: [10.1111/jftr.12483](https://doi.org/10.1111/jftr.12483)
 **作者**: Hoy, Aaron
-**摘要**: （暂无）
-
-### Issue Information
-**年份**: 2023 | **DOI**: [10.1111/jftr.12461](https://doi.org/10.1111/jftr.12461)
 **摘要**: （暂无）
 
 ### COVID‐19: Family resilience in a context of vulnerability
@@ -1062,10 +970,6 @@
 **作者**: Anderson, Leslie A.; Morton, LaRen; Trejo, Andrea N.
 **摘要**: AbstractThis article identifies the increased exposure of racialized violence against Black Americans directly and via the media as potentially posing a deleterious threat to the emotional health and well‐being of Black youth.…
 
-### Issue Information
-**年份**: 2022 | **DOI**: [10.1111/jftr.12420](https://doi.org/10.1111/jftr.12420)
-**摘要**: （暂无）
-
 ### Applying the family stress model to parental acculturative stress and Latinx youth adjustment: A review of the literature
 **年份**: 2022 | **DOI**: [10.1111/jftr.12448](https://doi.org/10.1111/jftr.12448)
 **作者**: Miller, Michelle; Csizmadia, Annamaria
@@ -1096,15 +1000,6 @@
 **作者**: Fantus, Sophia; Newman, Peter A.
 **摘要**: AbstractThe growing visibility of same‐sex two‐parent families and the increased use of surrogacy have expanded LGBT parenting scholarship to include experiences of gay and other men in same‐sex relationships.…
 
-### Mid‐range theories about families: A primer and introduction to the special issue
-**年份**: 2022 | **DOI**: [10.1111/jftr.12464](https://doi.org/10.1111/jftr.12464)
-**作者**: Adamsons, Kari; Crossman, Kimberly A.
-**摘要**: AbstractThere is a dearth of research in family science that truly uses theory to inform its hypotheses, methods, analyses, and interpretation of findings. On the deductive side, scholars often engage in “post hoc theorizing,” adding on whatever theory seems to fit their findings after the fact, or …
-
-### Issue Information
-**年份**: 2022 | **DOI**: [10.1111/jftr.12418](https://doi.org/10.1111/jftr.12418)
-**摘要**: （暂无）
-
 ### Toward a Du Boisian paradigm of family science
 **年份**: 2022 | **DOI**: [10.1111/jftr.12457](https://doi.org/10.1111/jftr.12457)
 **作者**: Battle, Brittany Pearl; Serrano, Uriel
@@ -1129,10 +1024,6 @@
 **年份**: 2022 | **DOI**: [10.1111/jftr.12459](https://doi.org/10.1111/jftr.12459)
 **作者**: Navarro, Jessica L.; Stephens, Christina; Rodrigues, Blenda C. 等8人
 **摘要**: AbstractBronfenbrenner's ecological (and later bioecological) theory has been a mainstay in the theoretical wheelhouse of developmental and family sciences since its inception in the 1970s.…
-
-### Issue Information
-**年份**: 2022 | **DOI**: [10.1111/jftr.12419](https://doi.org/10.1111/jftr.12419)
-**摘要**: （暂无）
 
 ### Adolescent pornography consumption: A symbolic interactionist lens
 **年份**: 2022 | **DOI**: [10.1111/jftr.12445](https://doi.org/10.1111/jftr.12445)
@@ -1199,11 +1090,6 @@
 **作者**: Dominguez‐Folgueras, Marta
 **摘要**: AbstractFamily scholars have used several approaches to explain the division of domestic work: economic exchange, time availability, and gender. These are often presented as analytically different and competing perspectives, although the consensus in the literature is that all of them contribute to …
 
-### Introduction to the special issue on theorizing families, anti‐racism, and social justice
-**年份**: 2022 | **DOI**: [10.1111/jftr.12477](https://doi.org/10.1111/jftr.12477)
-**作者**: van Eeden‐Moorefield, Brad; Shih, Kristy
-**摘要**: AbstractThis article introduces JFTR's contributions to the collaborative, three journal special issue on “Transformative family scholarship: Theory, practice, and research at the intersection of families, anti‐racism, and social justice.” We provide a brief perspective on the context from which thi…
-
 ### Intersectional stigma and developmental competence among youth living with HIV
 **年份**: 2022 | **DOI**: [10.1111/jftr.12468](https://doi.org/10.1111/jftr.12468)
 **作者**: Gabbidon, Kemesha; Chenneville, Tiffany; Earnshaw, Valerie 等4人
@@ -1244,10 +1130,6 @@
 **作者**: Jones, Janine; Hunter, Andrea G.; Tarver, Shuntay Z.
 **摘要**: AbstractUsing Audre Lorde's The Master's Tools as an epistemic guide, we propose two practice interventions for family science (FS) transformative praxes. The first, inspired by the thought of philosopher Charles Mills, challenges FS practitioners (research, practice, and policy) to explore differen…
 
-### Issue Information
-**年份**: 2022 | **DOI**: [10.1111/jftr.12421](https://doi.org/10.1111/jftr.12421)
-**摘要**: （暂无）
-
 ### Theorizing arranged marriage: The case of South Asian Muslim immigrants in love marriage societies
 **年份**: 2022 | **DOI**: [10.1111/jftr.12470](https://doi.org/10.1111/jftr.12470)
 **作者**: Wurm, Greg
@@ -1257,11 +1139,6 @@
 **年份**: 2022 | **DOI**: [10.1111/jftr.12465](https://doi.org/10.1111/jftr.12465)
 **作者**: Distefano, Rebecca; Meuwissen, Alyssa S.
 **摘要**: AbstractResearch has shown that autonomy‐supportive parenting is associated with positive academic and socioemotional outcomes across childhood. Many studies have examined the correlates of parental autonomy support to understand who is most likely to be autonomy‐supportive and under what conditions…
-
-### Final editorial: Principles that cut across professions and disciplines
-**年份**: 2022 | **DOI**: [10.1111/jftr.12489](https://doi.org/10.1111/jftr.12489)
-**作者**: Fine, Mark A.; Fine, Paul L.
-**摘要**: （暂无）
 
 ### Family systems and obesity: A review of key concepts and influences within and between family subsystems and a call for family‐informed interventions
 **年份**: 2022 | **DOI**: [10.1111/jftr.12474](https://doi.org/10.1111/jftr.12474)
@@ -1307,10 +1184,6 @@
 **年份**: 2021 | **DOI**: [10.1111/jftr.12431](https://doi.org/10.1111/jftr.12431)
 **作者**: Hall, Scott S.
 **摘要**: AbstractThe proposed double ABCM model of marital satisfaction draws from the double ABCX theory of family behavior framework to incorporate pre‐marital factors associated with getting married that carry‐over into the marriage itself; it also integrates marital demands, circumstances, and perception…
-
-### Issue Information
-**年份**: 2021 | **DOI**: [10.1111/jftr.12379](https://doi.org/10.1111/jftr.12379)
-**摘要**: （暂无）
 
 ### Age‐dissimilar couple relationships: 25 years in review
 **年份**: 2021 | **DOI**: [10.1111/jftr.12427](https://doi.org/10.1111/jftr.12427)
@@ -1407,10 +1280,6 @@
 **作者**: Walters, Tracy L.
 **摘要**: AbstractThis paper proposes a midrange model based on symbolic interactionism that identifies potential predictors of the experience of sex. Symbolic interactionism is a sociological framework which focuses on how individuals construct shared meanings for objects and events through repeated interact…
 
-### Issue Information
-**年份**: 2021 | **DOI**: [10.1111/jftr.12382](https://doi.org/10.1111/jftr.12382)
-**摘要**: （暂无）
-
 ### The politics of reproduction: Adoption, abortion, and surrogacy in the age of neoliberalism, ModhumitaRoy and MaryThompson (Eds.), 2019, Columbus, OH: Ohio State University
 **年份**: 2021 | **DOI**: [10.1111/jftr.12415](https://doi.org/10.1111/jftr.12415)
 **作者**: Sharov, Konstantin S.
@@ -1430,10 +1299,6 @@
 **年份**: 2021 | **DOI**: [10.1111/jftr.12414](https://doi.org/10.1111/jftr.12414)
 **作者**: Scott Crapo, J.; Bradford, Kay
 **摘要**: Abstract As one of the first true family theories, family development theory helps explain competing and complimentary development among family members. However, assumptions of universality and other limitations have reduced its usefulness.…
-
-### Issue Information
-**年份**: 2021 | **DOI**: [10.1111/jftr.12381](https://doi.org/10.1111/jftr.12381)
-**摘要**: （暂无）
 
 ### Engaging parents in preventive programs for adolescent mental health: A socio‐ecological framework
 **年份**: 2021 | **DOI**: [10.1111/jftr.12440](https://doi.org/10.1111/jftr.12440)
@@ -1470,10 +1335,6 @@
 **作者**: Hrapczynski, Katie M.
 **摘要**: （暂无）
 
-### Issue Information
-**年份**: 2021 | **DOI**: [10.1111/jftr.12380](https://doi.org/10.1111/jftr.12380)
-**摘要**: （暂无）
-
 ### Aging Together in Enduring Couple Relationships: A Life Course Systems Perspective
 **年份**: 2020 | **DOI**: [10.1111/jftr.12369](https://doi.org/10.1111/jftr.12369)
 **作者**: Wickrama, Kandauda (K. A. S.); O'Neal, Catherine Walker; Lee, Tae Kyoung
@@ -1503,15 +1364,6 @@
 **年份**: 2020 | **DOI**: [10.1111/jftr.12389](https://doi.org/10.1111/jftr.12389)
 **作者**: McCurdy, Amy L.; Williams, Kenneshia N.; Lee, Grace Y. 等5人
 **摘要**: This review focuses on the measurement of parental autonomy support across different developmental periods. We begin with a summary of current theoretical perspectives on autonomy development and how they have informed the conceptualization of autonomy supportive parenting.…
-
-### Introduction to the Special Issue on Theorizing in Family Gerontology: Beyond Broad Strokes to the Finer Details
-**年份**: 2020 | **DOI**: [10.1111/jftr.12377](https://doi.org/10.1111/jftr.12377)
-**作者**: Rauer, Amy; Humble, Áine M.; Radina, M. Elise
-**摘要**: （暂无）
-
-### Issue Information
-**年份**: 2020 | **DOI**: [10.1111/jftr.12335](https://doi.org/10.1111/jftr.12335)
-**摘要**: （暂无）
 
 ### Intimacy and Ageing: New Relationships in Later Life. TorbjörnBiltgård and PeterÖberg. 2017. London, England: Policy Press. ISBN 978‐1‐4473‐2649‐6.
 **年份**: 2020 | **DOI**: [10.1111/jftr.12375](https://doi.org/10.1111/jftr.12375)
@@ -1608,10 +1460,6 @@
 **作者**: Connidis, Ingrid Arnet
 **摘要**: A critical, multilevel conceptual framework provides alternative ways of addressing the question, Who counts as family later in life? The conceptual approach incorporates core ideas from life course, critical, and feminist perspectives, as well as the concept of ambivalence.…
 
-### Issue Information
-**年份**: 2020 | **DOI**: [10.1111/jftr.12337](https://doi.org/10.1111/jftr.12337)
-**摘要**: （暂无）
-
 ### Multigenerational social support in the face of the COVID‐19 pandemic
 **年份**: 2020 | **DOI**: [10.1111/jftr.12397](https://doi.org/10.1111/jftr.12397)
 **作者**: Gilligan, Megan; Suitor, J. Jill; Rurka, Marissa 等4人
@@ -1631,14 +1479,6 @@
 **年份**: 2020 | **DOI**: [10.1111/jftr.12368](https://doi.org/10.1111/jftr.12368)
 **作者**: Thomeer, Mieke Beth; Umberson, Debra; Reczek, Corinne
 **摘要**: This article employs the gender‐as‐relational (GAR) approach to enhance the study of the long‐term romantic relationships of sexual and gender minority mid‐ to later‐life adults. The GAR approach states that gender in relationships is shaped by three key factors: own gender, partner gender, and the …
-
-### Issue Information
-**年份**: 2020 | **DOI**: [10.1111/jftr.12334](https://doi.org/10.1111/jftr.12334)
-**摘要**: （暂无）
-
-### Issue Information
-**年份**: 2020 | **DOI**: [10.1111/jftr.12336](https://doi.org/10.1111/jftr.12336)
-**摘要**: （暂无）
 
 ### Black Families: A Systems Approach
 **年份**: 2020 | **DOI**: [10.1111/jftr.12400](https://doi.org/10.1111/jftr.12400)

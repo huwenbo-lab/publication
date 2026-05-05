@@ -1,7 +1,7 @@
 # Work, Employment and Society
 ## 2010–2019 年文章（含摘要）
 
-共 **956** 篇
+共 **649** 篇
 
 ---
 
@@ -25,16 +25,6 @@
 **作者**: Howley, Peter; Waqas, Muhammad; Moro, Mirko 等5人
 **摘要**: While much is known regarding the effects of immigration for objective outcomes, relatively little is known regarding the effects for perceived well-being. By exploiting spatial and temporal variation in the net-inflows of foreign-born individuals across local areas in England, we examine the relati…
 
-### Book Review: David Peetz and Georgina Murray (eds), Women, Labor Segmentation and Regulation: Varieties of Gender Gaps
-**年份**: 2019 | **DOI**: [10.1177/0950017019876826](https://doi.org/10.1177/0950017019876826)
-**作者**: Shand, Laura
-**摘要**: （暂无）
-
-### Book Review Symposium: Ulrich Jürgens and Martin Krzywdzinski, New Worlds of Work: Varieties of Work in Car Factories in the BRIC Countries
-**年份**: 2019 | **DOI**: [10.1177/0950017018813304](https://doi.org/10.1177/0950017018813304)
-**作者**: Barnes, Tom
-**摘要**: （暂无）
-
 ### Platform-Capital’s ‘App-etite’ for Control: A Labour Process Analysis of Food-Delivery Work in Australia
 **年份**: 2019 | **DOI**: [10.1177/0950017019836911](https://doi.org/10.1177/0950017019836911)
 **作者**: Veen, Alex; Barratt, Tom; Goods, Caleb
@@ -55,16 +45,6 @@
 **作者**: Kirton, Gill; Guillaume, Cécile
 **摘要**: This article utilizes a multi-method case study of the probation service of England and Wales to explore the perspectives of practitioners and their union on how restructuring/privatization affected the probation profession.…
 
-### Response to Reviews of New Worlds of Work
-**年份**: 2019 | **DOI**: [10.1177/0950017018813299](https://doi.org/10.1177/0950017018813299)
-**作者**: Jürgens, Ulrich; Krzywdzinski, Martin
-**摘要**: （暂无）
-
-### Book Review: Sergio Bologna, The Rise of the European Self-Employed Workforce
-**年份**: 2019 | **DOI**: [10.1177/0950017019827818](https://doi.org/10.1177/0950017019827818)
-**作者**: López-Andreu, Martí
-**摘要**: （暂无）
-
 ### The Value of Self-Employment to Ethnic Minorities
 **年份**: 2019 | **DOI**: [10.1177/0950017019855232](https://doi.org/10.1177/0950017019855232)
 **作者**: Brynin, Malcolm; Karim, Mohammed Shamsul; Zwysen, Wouter
@@ -74,11 +54,6 @@
 **年份**: 2019 | **DOI**: [10.1177/0950017019855510](https://doi.org/10.1177/0950017019855510)
 **作者**: Adamson, Maria; Roper, Ian
 **摘要**: As stated in our previous editorial (Beauregard et al, 2018) we aim to capitalise on the interdisciplinary expertise of our team and draw attention of the WES readership to some of the thematic issues through our short editorials.In our first editorial we debated the issues of gender at work.This th…
-
-### Book Review: Wing-Chung Ho, Occupational Health and Social Estrangement in China
-**年份**: 2019 | **DOI**: [10.1177/0950017019837186](https://doi.org/10.1177/0950017019837186)
-**作者**: Shan, Desai
-**摘要**: （暂无）
 
 ### Care More, Earn Less? The Association between Taking Paid Leave to Care for Sick Children and Wages among Swedish Parents
 **年份**: 2019 | **DOI**: [10.1177/0950017019868138](https://doi.org/10.1177/0950017019868138)
@@ -97,11 +72,6 @@
 
 ### Thank You to Referees
 **年份**: 2019 | **DOI**: [10.1177/0950017019880780](https://doi.org/10.1177/0950017019880780)
-**摘要**: （暂无）
-
-### Book Review: Arne L Kalleberg and Steven P Vallas (eds), Precarious Work (Research in the Sociology of Work, Volume 31)
-**年份**: 2019 | **DOI**: [10.1177/0950017019860709](https://doi.org/10.1177/0950017019860709)
-**作者**: Islam, Asiya
 **摘要**: （暂无）
 
 ### Hebdomadal Patterns of Compensatory Behaviour: Weekday and Weekend Housework Participation in Canada, 1986–2010
@@ -264,11 +234,6 @@
 **作者**: Ba’, Stefano
 **摘要**: This research is about parents in precarious employment, as the intersection of parental responsibilities and paid work represents a privileged site from which to explore the process of precarisation within a wider social context.…
 
-### Book Review: Olena Fedyuk and Paul Stewart (eds), Inclusion and Exclusion in Europe: Migration, Work and Employment Perspectives
-**年份**: 2019 | **DOI**: [10.1177/0950017019880082](https://doi.org/10.1177/0950017019880082)
-**作者**: Rodrigues, Pilar Luz
-**摘要**: （暂无）
-
 ### Sacrificial Labour: Social Inequality, Identity Work, and the Damaging Pursuit of Elusive Futures
 **年份**: 2019 | **DOI**: [10.1177/0950017019885069](https://doi.org/10.1177/0950017019885069)
 **作者**: Monahan, Torin; Fisher, Jill A
@@ -284,11 +249,6 @@
 **作者**: Bolíbar, Mireia; Verd, Joan Miquel; Barranco, Oriol
 **摘要**: Taking as a starting point the relationship between unemployment and the loss of social support put forward by social exclusion theory, this article aims to analyse how long-term unemployment affects young people’s support networks for job seeking.…
 
-### Book Review: Gregor Gall, Employment Relations in Financial Services: An Exploration of the Employee Experience after the Financial Crash
-**年份**: 2019 | **DOI**: [10.1177/0950017019835132](https://doi.org/10.1177/0950017019835132)
-**作者**: Klimecki, Robin
-**摘要**: （暂无）
-
 ### The Same, Only Different: Doing Management in the Intersection between Work and Private Life for Men and Women in Small-scale Enterprises
 **年份**: 2019 | **DOI**: [10.1177/0950017019871244](https://doi.org/10.1177/0950017019871244)
 **作者**: Hagqvist, Emma; Vinberg, Stig; Tritter, Jonathan Q 等5人
@@ -299,30 +259,15 @@
 **作者**: Carollo, Luca; Solari, Luca
 **摘要**: The article draws on the literature on the triangular employment relationship in the service industry, as well as on the debate on contemporary forms of professionalism, to explore the varied uses of the discourse of professionalism in a banking company.…
 
-### Book Review: Megha Amrith and Nina Sahraoui (eds), Gender, Work and Migration: Agency in Gendered Labour Settings
-**年份**: 2019 | **DOI**: [10.1177/0950017019827821](https://doi.org/10.1177/0950017019827821)
-**作者**: Brouwers, Lilith
-**摘要**: （暂无）
-
 ### Blue Solidarity: Police Unions, Race and Authoritarian Populism in North America
 **年份**: 2019 | **DOI**: [10.1177/0950017019863653](https://doi.org/10.1177/0950017019863653)
 **作者**: Thomas, Mark P; Tufts, Steven
 **摘要**: With a focus on police unions in the United States and Canada, this article argues that the construction of ‘blue solidarity’, including through recent Blue Lives Matter campaigns, serves to repress racial justice movements that challenge police authority, acts as a counter to broader working class …
 
-### Book Review Symposium: Ulrich Jürgens and Martin Krzywdzinski, New Worlds of Work: Varieties of Work in Car Factories in the BRIC Countries
-**年份**: 2019 | **DOI**: [10.1177/0950017018813298](https://doi.org/10.1177/0950017018813298)
-**作者**: Kuruvilla, Sarosh
-**摘要**: （暂无）
-
 ### The Rise in Pay for Performance Among Higher Managerial and Professional Occupations in Britain: Eroding or Enhancing the Service Relationship?
 **年份**: 2019 | **DOI**: [10.1177/0950017019841552](https://doi.org/10.1177/0950017019841552)
 **作者**: Williams, Mark; Zhou, Ying; Zou, Min
 **摘要**: Higher managerial and professional occupations are now the most incentivized occupational class in Britain. It is not yet known whether the rise in pay for performance (PFP) signifies an erosion or enhancement in the ‘service relationship’ that purportedly characterizes these occupations.…
-
-### Book Review Symposium: Ulrich Jürgens and Martin Krzywdzinski, New Worlds of Work: Varieties of Work in Car Factories in the BRIC Countries
-**年份**: 2019 | **DOI**: [10.1177/0950017018813296](https://doi.org/10.1177/0950017018813296)
-**作者**: Smith, Chris
-**摘要**: （暂无）
 
 ### Migrants and Low-Paid Employment in British Workplaces
 **年份**: 2019 | **DOI**: [10.1177/0950017019832509](https://doi.org/10.1177/0950017019832509)
@@ -353,11 +298,6 @@
 **年份**: 2019 | **DOI**: [10.1177/0950017019881939](https://doi.org/10.1177/0950017019881939)
 **作者**: Rydzik, Agnieszka; Anitha, Sundari
 **摘要**: This article examines migrant women tourism workers’ understandings of, and diverse responses to, exploitative working conditions by taking account of the constraints posed by oppressive contexts and ideologies.…
-
-### Book Review: Yasemin Besen-Cassino, The Cost of Being a Girl: Working Teens and the Origins of the Gender Wage Gap
-**年份**: 2019 | **DOI**: [10.1177/0950017019835140](https://doi.org/10.1177/0950017019835140)
-**作者**: Jokela, Merita
-**摘要**: （暂无）
 
 ### Politicising Women’s Part-Time Work in Norway: A Longitudinal Study of Ideas
 **年份**: 2019 | **DOI**: [10.1177/0950017018821277](https://doi.org/10.1177/0950017018821277)
@@ -394,11 +334,6 @@
 **作者**: Sampson, Helen; Turgo, Nelson; Acejo, Iris 等5人
 **摘要**: This article describes changes associated with increased bureaucratisation and surveillance in the regulation and management of the 21st century shipping industry. Drawing upon 303 ‘real-life’ vignette-based interviews, it describes how these transformations are experienced by contemporary navigatin…
 
-### Book Review: Ching Kwan Lee, The Specter of Global China: Politics, Labor, and Foreign Investment in Africa
-**年份**: 2019 | **DOI**: [10.1177/0950017018822936](https://doi.org/10.1177/0950017018822936)
-**作者**: Smith, Chris
-**摘要**: （暂无）
-
 ### National Board Quotas and the Gender Pay Gap among European Managers
 **年份**: 2019 | **DOI**: [10.1177/0950017019864509](https://doi.org/10.1177/0950017019864509)
 **作者**: Maume, David J; Heymann, Orlaith; Ruppanner, Leah
@@ -433,11 +368,6 @@
 **年份**: 2018 | **DOI**: [10.1177/0950017018789553](https://doi.org/10.1177/0950017018789553)
 **作者**: Rydzik, Agnieszka; Ellis-Vowles, Victoria
 **摘要**: Focusing on an unresearched group of women brewers, and drawing conceptually on embodiment and identity work, this article explores worker corporealities within the gendered landscape of microbreweries and deepens understanding of the body/work/gender nexus in the context of brewer’s work.…
-
-### Book Review: Eli Friedman, Zhongjin Li and Hao Ren (eds), China on Strike: Narratives of Workers’ Resistance
-**年份**: 2018 | **DOI**: [10.1177/0950017017749719](https://doi.org/10.1177/0950017017749719)
-**作者**: Cao, Xuebing
-**摘要**: （暂无）
 
 ### Lost in Administration: (Re)Producing Precarious Citizenship for Young University-Educated Intra-EU Migrants in Brussels
 **年份**: 2018 | **DOI**: [10.1177/0950017018755653](https://doi.org/10.1177/0950017018755653)
@@ -474,11 +404,6 @@
 **作者**: Tapia, Maite; Alberti, Gabriella
 **摘要**: This article reflects on the theoretical and empirical challenges that arise when researching trade union strategies towards migrant workers. By bringing together the debates on migration and intersectionality in Employment Relations, the authors highlight the problems of conflating different experi…
 
-### Book Review Symposium: Caroline Lloyd and Jonathan Payne, Skills in the Age of Over-Qualification: Comparing Service Sector Work in Europe
-**年份**: 2018 | **DOI**: [10.1177/0950017017748309](https://doi.org/10.1177/0950017017748309)
-**作者**: Knox, Angela
-**摘要**: （暂无）
-
 ### ‘A Minute’s a Life-Time in Fast-Food!’: Managerial Job Quality in the Quick Service Restaurant Sector
 **年份**: 2018 | **DOI**: [10.1177/0950017018777710](https://doi.org/10.1177/0950017018777710)
 **作者**: Butler, Peter; Hammer, Anita
@@ -488,11 +413,6 @@
 **年份**: 2018 | **DOI**: [10.1177/0950017018755652](https://doi.org/10.1177/0950017018755652)
 **作者**: Choi, Susanne YP
 **摘要**: This article examines how male rural-to-urban migrant taxi drivers’ experience of a loss of control over their working conditions and increasing financial insecurity are driven by state regulation and market reorganization of the taxi industry, and their status as second class citizens in urban Chin…
-
-### Book Review: Marcus Taylor and Sébastien Rioux, Global Labour Studies
-**年份**: 2018 | **DOI**: [10.1177/0950017018785614](https://doi.org/10.1177/0950017018785614)
-**作者**: Manolchev, Constantine
-**摘要**: （暂无）
 
 ### Tackling Precarious Work in Public Supply Chains: A Comparison of Local Government Procurement Policies in Denmark, Germany and the UK
 **年份**: 2018 | **DOI**: [10.1177/0950017018758216](https://doi.org/10.1177/0950017018758216)
@@ -504,25 +424,10 @@
 **作者**: Moore, Sian; Newsome, Kirsty
 **摘要**: This article explores supply chain pressures in parcel delivery and how the drive to contain costs to ‘preserve value in motion’, including the costs of failed delivery, underpins contractual differentiation. It focuses on owner-drivers and home couriers paid by delivery.…
 
-### Book Review: Stefania Marino, Judith Roosblad and Rinus Penninx (eds), Trade Unions and Migrant Workers: New Contexts and Challenges in Europe
-**年份**: 2018 | **DOI**: [10.1177/0950017018801722](https://doi.org/10.1177/0950017018801722)
-**作者**: Lundemark, Mai
-**摘要**: （暂无）
-
 ### ‘Bad’ Jobs in a ‘Good’ Sector: Examining the Employment Outcomes of Temporary Work in the Canadian Public Sector
 **年份**: 2018 | **DOI**: [10.1177/0950017018758217](https://doi.org/10.1177/0950017018758217)
 **作者**: Stecy-Hildebrandt, Natasha; Fuller, Sylvia; Burns, Alisyn
 **摘要**: Canada’s public sector has historically provided good jobs, but its increasing reliance on temporary workers has important implications for job quality. We compare temporary and permanent workers in the public sector on three dimensions of job quality (employment security, access to benefits and inc…
-
-### Book Review: Gilberto Antonelli and Boike Rehbein (eds), Inequality in Economics and Sociology: New Perspectives
-**年份**: 2018 | **DOI**: [10.1177/0950017018759906](https://doi.org/10.1177/0950017018759906)
-**作者**: Manolchev, Constantine
-**摘要**: （暂无）
-
-### Book Review Symposium: Caroline Lloyd and Jonathan Payne, Skills in the Age of Over-Qualification: Comparing Service Sector Work in Europe
-**年份**: 2018 | **DOI**: [10.1177/0950017017748310](https://doi.org/10.1177/0950017017748310)
-**作者**: Carré, Françoise
-**摘要**: （暂无）
 
 ### The Revival of Labour Movement Studies in Argentina: Old and Lost Agendas
 **年份**: 2018 | **DOI**: [10.1177/0950017018800233](https://doi.org/10.1177/0950017018800233)
@@ -564,20 +469,10 @@
 **作者**: Granter, Edward; Wankhade, Paresh; McCann, Leo 等5人
 **摘要**: Working life in public sector professions is undergoing significant change and becoming increasingly demanding. This article explores work intensity in NHS ambulance services in England, describing four distinct but interrelated dimensions of intensity: temporal; physical; emotional; and organizatio…
 
-### Book Review: Triin Roosalu and Dirk Hofäcker (eds), Rethinking Gender, Work and Care in a New Europe: Theorising Markets and Societies in the Post-Postsocialist Era
-**年份**: 2018 | **DOI**: [10.1177/0950017018796465](https://doi.org/10.1177/0950017018796465)
-**作者**: Radin, Arianna
-**摘要**: （暂无）
-
 ### Utility Manning: Young Filipino Men, Servitude and the Moral Economy of Becoming a Seafarer and Attaining Adulthood
 **年份**: 2018 | **DOI**: [10.1177/0950017018760182](https://doi.org/10.1177/0950017018760182)
 **作者**: Galam, Roderick G
 **摘要**: To get a job as a seafarer in the global maritime industry, thousands of male Filipino youths work for free as ‘utility men’ for manning agencies that supply seafarers to ship operators around the world.…
-
-### Book Review: Creativity and Precarity, from New Labour to Alt-Labour: Angela McRobbie, Be Creative: Making a Living in the New Culture Industries and Nicole S Cohen, Writers’ Rights: Freelance Journalism in a Digital Age
-**年份**: 2018 | **DOI**: [10.1177/0950017018758587](https://doi.org/10.1177/0950017018758587)
-**作者**: Pitts, Frederick Harry
-**摘要**: （暂无）
 
 ### ‘Going Underground’: A Tube Worker’s Experience of Struggles over the Frontier of Control
 **年份**: 2018 | **DOI**: [10.1177/0950017018758215](https://doi.org/10.1177/0950017018758215)
@@ -589,30 +484,10 @@
 **作者**: Pandeli, Jenna; Marinetto, Michael; Jenkins, Jean
 **摘要**: This article critiques a case of modern prison-labour by exploring prisoners’ attitudes towards the prison-work they undertake while incarcerated. The study is based at a privatised male prison in the UK, assigned the pseudonym ‘Bridgeville’.…
 
-### Book Review: Kevin JA Thomas, Contract Workers, Risk, and the War in Iraq: Sierra Leonean Labor Migrants at US Military Bases
-**年份**: 2018 | **DOI**: [10.1177/0950017018801731](https://doi.org/10.1177/0950017018801731)
-**作者**: Curran, Marcus
-**摘要**: （暂无）
-
-### Response to Reviews of Skills in the Age of Over-Qualification: Comparing Service Sector Work in Europe
-**年份**: 2018 | **DOI**: [10.1177/0950017017748311](https://doi.org/10.1177/0950017017748311)
-**作者**: Lloyd, Caroline; Payne, Jonathan
-**摘要**: （暂无）
-
 ### Class and Precarity: An Unhappy Coupling in China’s Working Class Formation
 **年份**: 2018 | **DOI**: [10.1177/0950017018762276](https://doi.org/10.1177/0950017018762276)
 **作者**: Smith, Chris; Pun, Ngai
 **摘要**: In refuting Guy Standing’s precariat as a class, we highlight that employment situation, worker identity and legal rights are mistakenly taken as theoretical components of class formation.…
-
-### Book Review: Jeffrey Rothstein, When Good Jobs Go Bad: Globalization, De-Unionization, and Declining Job Quality in the North American Auto Industry
-**年份**: 2018 | **DOI**: [10.1177/0950017018759904](https://doi.org/10.1177/0950017018759904)
-**作者**: Williams, Glynne
-**摘要**: （暂无）
-
-### Book Review: Thomas Amossé, Alex Bryson, John Forth and Héloïse Petit (eds), Comparative Workplace Employment Relations: An Analysis of Practice in Britain and France
-**年份**: 2018 | **DOI**: [10.1177/0950017018759903](https://doi.org/10.1177/0950017018759903)
-**作者**: Contrepois, Sylvie
-**摘要**: （暂无）
 
 ### Professional Misconduct in Healthcare: Setting Out a Research Agenda for Work Sociology
 **年份**: 2018 | **DOI**: [10.1177/0950017018793352](https://doi.org/10.1177/0950017018793352)
@@ -679,30 +554,10 @@
 **作者**: Rubery, Jill; Grimshaw, Damian; Keizer, Arjan 等4人
 **摘要**: Precarious work is increasingly considered the new ‘norm’ to which employment and social protection systems must adjust. This article explores the contradictions and tensions that arise from different processes of normalisation driven by social policies that simultaneously decommodify and recommodif…
 
-### Book Review: Violaine Delteil and Vassil Kirov (eds), Labour and Social Transformation in Central and Eastern Europe: Europeanization and Beyond
-**年份**: 2018 | **DOI**: [10.1177/0950017018759905](https://doi.org/10.1177/0950017018759905)
-**作者**: Almond, Phil
-**摘要**: （暂无）
-
-### Book Review: Jamie Woodcock, Working the Phones: Control and Resistance in Call Centres
-**年份**: 2018 | **DOI**: [10.1177/0950017017746087](https://doi.org/10.1177/0950017017746087)
-**作者**: Monroe, Julie
-**摘要**: （暂无）
-
 ### Household Employment and the Crisis in Europe
 **年份**: 2018 | **DOI**: [10.1177/0950017018809324](https://doi.org/10.1177/0950017018809324)
 **作者**: Sánchez-Mira, Núria; O’Reilly, Jacqueline
 **摘要**: The 2008 crisis had a significant impact on household employment in some European countries. An analysis of the EU Statistics on Income and Living Conditions generated a new cross-national typology of household employment structures and showed how these changed during the crisis and austerity period…
-
-### Joint Book Review: Susana Narotzky and Victoria Goddard (eds), Work and Livelihoods in Times of Crisis: History, Ethnography and Models in Times of Crisis and Jong Bum Kwon and Carrie M Lane (eds), Anthropologies of Unemployment: New Perspectives on Work and its Absence
-**年份**: 2018 | **DOI**: [10.1177/0950017018773588](https://doi.org/10.1177/0950017018773588)
-**作者**: Arqueros-Fernandez, Francisco
-**摘要**: （暂无）
-
-### Book Review Symposium: Caroline Lloyd and Jonathan Payne, Skills in the Age of Over-Qualification: Comparing Service Sector Work in Europe
-**年份**: 2018 | **DOI**: [10.1177/0950017017748308](https://doi.org/10.1177/0950017017748308)
-**作者**: Stuart, Mark
-**摘要**: （暂无）
 
 ### The Fearful and Anxious Professional: Partner Experiences of Working in the Financialized Professional Services Firm
 **年份**: 2018 | **DOI**: [10.1177/0950017018793348](https://doi.org/10.1177/0950017018793348)
@@ -753,16 +608,6 @@
 **作者**: Meliou, Elina; Mallett, Oliver; Rosenberg, Shoshanna
 **摘要**: This article presents an autobiographical account of an older woman’s lived experience of self-employment. Little is known about women who experience ongoing self-employment into their 50s and beyond.…
 
-### Book Review: Michael K Corman, Paramedics On and Off the Streets: Emergency Medical Services in the Age of Technological Governance
-**年份**: 2018 | **DOI**: [10.1177/0950017018796463](https://doi.org/10.1177/0950017018796463)
-**作者**: McCann, Leo
-**摘要**: （暂无）
-
-### Selective Consent and Dissent: Professional Response to Reform in the Post-Crisis Greek NHS
-**年份**: 2018 | **DOI**: [10.1177/0950017018774244](https://doi.org/10.1177/0950017018774244)
-**作者**: Bolton, Sharon C; Charalampopoulos, Vasilis; Skountridaki, Lila
-**摘要**: Utilising the sociology of the professions as an analytical framework, the article explores the response of the Greek medical profession to state-imposed managerialism during times of economic recession and socio-political turbulence.…
-
 ### Unfreedom Unbound: Developing a Cumulative Approach to Understanding Unfree Labour in Singapore
 **年份**: 2018 | **DOI**: [10.1177/0950017017738956](https://doi.org/10.1177/0950017017738956)
 **作者**: Yea, Sallie; Chok, Stephanie
@@ -793,11 +638,6 @@
 **作者**: Dotti Sani, Giulia M; Scherer, Stefani
 **摘要**: Maternal employment is still below the overall EU recommended level of 60% in many European countries. Understanding the individual, household and contextual circumstances under which mothers of children of different ages are likely to be employed is crucial to develop strategies capable of increasi…
 
-### Book Review: Suzan Lewis, Deirdre Anderson, Clare Lyonette, Nicola Payne and Stephen Wood (eds), Work–Life Balance in Times of Recession, Austerity and Beyond
-**年份**: 2017 | **DOI**: [10.1177/0950017017723240](https://doi.org/10.1177/0950017017723240)
-**作者**: Gannon, Judie M
-**摘要**: （暂无）
-
 ### Social Skills, Workplaces and Social Remittances: A Case of Post-Accession Migrants
 **年份**: 2017 | **DOI**: [10.1177/0950017017719840](https://doi.org/10.1177/0950017017719840)
 **作者**: Grabowska, Izabela
@@ -813,11 +653,6 @@
 **作者**: Mullan, Killian; Wajcman, Judy
 **摘要**: It is commonly claimed that ubiquitous connectivity erodes the boundaries that once separated work from other aspects of life. Mobile devices in particular enable people to perform work-related activities anytime anywhere.…
 
-### Book review symposium: Ruth Milkman, On Gender, Labor, and Inequality, by Tracey Warren
-**年份**: 2017 | **DOI**: [10.1177/0950017017708738](https://doi.org/10.1177/0950017017708738)
-**作者**: Warren, Tracey
-**摘要**: （暂无）
-
 ### Convergence or Divergence? Educational Discrepancies in Work-Care Arrangements of Mothers with Young Children in Germany
 **年份**: 2017 | **DOI**: [10.1177/0950017017692503](https://doi.org/10.1177/0950017017692503)
 **作者**: Stahl, Juliane Frederike; Schober, Pia Sophia
@@ -828,20 +663,10 @@
 **作者**: Noon, Mike
 **摘要**: The latest fashion of ‘unconscious bias training’ is a diversity intervention based on unproven suppositions and is unlikely to help eliminate racism in the workplace. Knowing about bias does not automatically result in changes in behaviour by managers and employees.…
 
-### Book review: Cathryn Costello and Mark Freedland, Migrants at Work: Immigration and Vulnerability in Labour Law
-**年份**: 2017 | **DOI**: [10.1177/0950017016687892](https://doi.org/10.1177/0950017016687892)
-**作者**: Shan, Desai
-**摘要**: （暂无）
-
 ### Anticipatory Socialization and the Construction of the Employable Graduate: A Critical Analysis of Employers’ Graduate Careers Websites
 **年份**: 2017 | **DOI**: [10.1177/0950017016686031](https://doi.org/10.1177/0950017016686031)
 **作者**: Handley, Karen
 **摘要**: A discourse of employability saturates the higher education sector in the UK. Government and employers call on universities to produce employable graduates who are attractive to the labour market and can sustain their future marketability by taking responsibility for protean self-development.…
-
-### Book Review: Susan Bisom-Rapp and Malcolm Sargeant, Lifetime Disadvantage, Discrimination and the Gendered Workforce
-**年份**: 2017 | **DOI**: [10.1177/0950017017717377](https://doi.org/10.1177/0950017017717377)
-**作者**: Kispeter, Erika
-**摘要**: （暂无）
 
 ### Institutional Logics and Low Skills: The Case of the Private Security Sector in Singapore
 **年份**: 2017 | **DOI**: [10.1177/0950017017719830](https://doi.org/10.1177/0950017017719830)
@@ -923,30 +748,10 @@
 **作者**: van der Lippe, Tanja; Treas, Judith; Norbutas, Lukas
 **摘要**: Unemployment, especially in insecure times, has devastating effects on families, but it is not clear what happens to domestic work. On the one hand, unemployment frees up time for more housework by both men and women.…
 
-### Book review symposium: Colin Crouch, Governing Social Risks in Post-Crisis Europe by Matt Vidal
-**年份**: 2017 | **DOI**: [10.1177/0950017016682191](https://doi.org/10.1177/0950017016682191)
-**作者**: Vidal, Matt
-**摘要**: （暂无）
-
-### Response to reviews of Governing Social Risks in Post-Crisis Europe
-**年份**: 2017 | **DOI**: [10.1177/0950017016682189](https://doi.org/10.1177/0950017016682189)
-**作者**: Crouch, Colin
-**摘要**: （暂无）
-
-### Book review symposium: Ruth Milkman, On Gender, Labor, and Inequality, by Jill Rubery
-**年份**: 2017 | **DOI**: [10.1177/0950017017708737](https://doi.org/10.1177/0950017017708737)
-**作者**: Rubery, Jill
-**摘要**: （暂无）
-
 ### The Institutionalised Undervaluation of Women’s Work: The Case of Local Government Sector Collective Agreements
 **年份**: 2017 | **DOI**: [10.1177/0950017017711100](https://doi.org/10.1177/0950017017711100)
 **作者**: Koskinen Sandberg, Paula; Törnroos, Maria; Kohvakka, Roosa
 **摘要**: This article analyses the role of collective agreements in institutionalising and legitimising the undervaluation of work conducted by women. The undervaluation of women’s work has been identified as one of the main causes of the gender pay gap.…
-
-### Book review symposium: Colin Crouch, Governing Social Risks in Post-Crisis Europe by Richard Hyman
-**年份**: 2017 | **DOI**: [10.1177/0950017016682192](https://doi.org/10.1177/0950017016682192)
-**作者**: Hyman, Richard
-**摘要**: （暂无）
 
 ### ‘The Only Way is Essex’: Gender, Union and Mobilisation among Fire Service Control Room Staff
 **年份**: 2017 | **DOI**: [10.1177/0950017017728613](https://doi.org/10.1177/0950017017728613)
@@ -957,11 +762,6 @@
 **年份**: 2017 | **DOI**: [10.1177/0950017017702602](https://doi.org/10.1177/0950017017702602)
 **作者**: Mayes, Robyn; Koshy, Paul
 **摘要**: This article addresses the need for critical attention to families and place in the labour migration literature. Through examination of the experiences of trailing wives, it highlights the interconnected roles of state regulation, industry practice and destination communities in the gendering of tra…
-
-### Book review: Minimum Wages, Collective Bargaining and Economic Development in Asia and Europe: A Labour Perspective and Non-Standard Employment in Post-Industrial Labour Markets: An Occupational Perspective
-**年份**: 2017 | **DOI**: [10.1177/0950017016673503](https://doi.org/10.1177/0950017016673503)
-**作者**: Ferreira, Jennifer
-**摘要**: （暂无）
 
 ### The ‘Problem’ with the Employment Tribunal System: Reform, Rhetoric and Realities for the Clients of Citizens’ Advice Bureaux
 **年份**: 2017 | **DOI**: [10.1177/0950017017701077](https://doi.org/10.1177/0950017017701077)
@@ -1003,11 +803,6 @@
 **作者**: Mallett, Oliver; Wapshott, Robert
 **摘要**: This e-special issue focuses on employment relations in the context of ‘small business revivalism’ and an ‘enterprise culture’ that has sought to establish a so-called ‘entrepreneurial economy’.…
 
-### Book review symposium: Colin Crouch, Governing Social Risks in Post-Crisis Europe by Janine Leschke
-**年份**: 2017 | **DOI**: [10.1177/0950017016682190](https://doi.org/10.1177/0950017016682190)
-**作者**: Leschke, Janine
-**摘要**: （暂无）
-
 ### From duping clients to institutional entrepreneurship in Mauritius: the account of a former BPO worker who became an activist
 **年份**: 2017 | **DOI**: [10.1177/0950017017695041](https://doi.org/10.1177/0950017017695041)
 **作者**: Emilien, Blandine; Veerta, Shankar
@@ -1043,16 +838,6 @@
 **作者**: Morrison, Claudio; Bizyukov, Petr
 **摘要**: Twenty five years of intense market reforms have not contributed to Russia developing a coherent and effective set of institutions regulating employment relations. The world of work instead has grown into a wilderness of highly differentiated, shadowy arrangements ruled by employers’ arbitrariness (…
 
-### Response to reviews of On Gender, Labor, and Inequality
-**年份**: 2017 | **DOI**: [10.1177/0950017017708743](https://doi.org/10.1177/0950017017708743)
-**作者**: Milkman, Ruth
-**摘要**: （暂无）
-
-### Book review symposium: Ruth Milkman, On Gender, Labor, and Inequality, by Leslie McCall
-**年份**: 2017 | **DOI**: [10.1177/0950017017708736](https://doi.org/10.1177/0950017017708736)
-**作者**: McCall, Leslie
-**摘要**: （暂无）
-
 ### Union renewal in historical perspective
 **年份**: 2017 | **DOI**: [10.1177/0950017017713950](https://doi.org/10.1177/0950017017713950)
 **作者**: Croucher, Richard; Wood, Geoffrey
@@ -1077,11 +862,6 @@
 **年份**: 2017 | **DOI**: [10.1177/0950017017714198](https://doi.org/10.1177/0950017017714198)
 **作者**: O’Connor, Pat; O’Hagan, Clare; Gray, Breda
 **摘要**: This article describes a typological framework with axes relating to career and (non-work) relationship commitment to show how a specific cohort of women enact femininity(ies) in the context of the institutionalised practices that define science, technology, engineering and mathematics (STEM) as a m…
-
-### Book Review: Emiliana Armano, Arianna Bove and Annalisa Murgia, Mapping Precariousness, Labour Insecurity and Uncertain Livelihoods: Subjectivities and Resistance
-**年份**: 2017 | **DOI**: [10.1177/0950017017730732](https://doi.org/10.1177/0950017017730732)
-**作者**: Manolchev, Constantine
-**摘要**: （暂无）
 
 ### Thank you to referees
 **年份**: 2017 | **DOI**: [10.1177/0950017017728457](https://doi.org/10.1177/0950017017728457)
@@ -1117,11 +897,6 @@
 **作者**: Röder, Antje; Ward, Mark; Frese, Carmen-Adriana
 **摘要**: Previous research on the labour market integration of migrants from EU Accession countries has primarily viewed migrants as individual economic actors, despite their increasing role in family formation.…
 
-### Book review: Stephen Edgell, Heidi Gottfried and Edward Granter (eds), The SAGE Handbook of the Sociology of Work and Employment
-**年份**: 2017 | **DOI**: [10.1177/0950017017701384](https://doi.org/10.1177/0950017017701384)
-**作者**: Elger, Tony
-**摘要**: （暂无）
-
 ### ‘Chicken and Duck Talk’: Life and Death of Language Training at a Japanese Multinational in China
 **年份**: 2017 | **DOI**: [10.1177/0950017017719008](https://doi.org/10.1177/0950017017719008)
 **作者**: Zheng, Yu; Smith, Chris
@@ -1142,30 +917,10 @@
 **作者**: Kamerāde, Daiga; Bennett, Matthew R
 **摘要**: Owing to increasing labour market flexibilization, a growing number of people are likely to experience unemployment and, as a consequence, lower mental health and well-being. This article examines cross-national differences in well-being and mental health between unemployed people who engage in volu…
 
-### Book review: Sarah Besky, The Darjeeling Distinction: Labor and Justice on Fair-Trade Tea Plantations in India
-**年份**: 2016 | **DOI**: [10.1177/0950017016640686](https://doi.org/10.1177/0950017016640686)
-**作者**: Nierling, Linda
-**摘要**: （暂无）
-
-### Book review: Matthias Ebenau, Ian Bruff and Christian May (eds), New Directions in Comparative Capitalisms Research: Critical and Global Perspectives
-**年份**: 2016 | **DOI**: [10.1177/0950017016659046](https://doi.org/10.1177/0950017016659046)
-**作者**: Hammer, Anita
-**摘要**: （暂无）
-
-### Book review: Andrew Dunn, Rethinking Unemployment and the Work Ethic: Beyond the ‘Quasi-Titmuss’ Paradigm
-**年份**: 2016 | **DOI**: [10.1177/0950017016651401](https://doi.org/10.1177/0950017016651401)
-**作者**: Hudson-Sharp, Nathan
-**摘要**: （暂无）
-
 ### Work in and beyond the Second Machine Age: the politics of production and digital technologies
 **年份**: 2016 | **DOI**: [10.1177/0950017016645716](https://doi.org/10.1177/0950017016645716)
 **作者**: Spencer, David
 **摘要**: Erik Brynjolfsson and Andrew McAfee, in their widely read and politically impactful book The Second Machine Age, highlight the costs and benefits of digital technologies for the volume and quality of work and identify reforms designed to ensure that digital technologies deliver net advantages to wor…
-
-### Book review: Christina Garsten and Anette Nyqvist (eds), Organisational Anthropology: Doing Ethnography in and among Complex Organisations
-**年份**: 2016 | **DOI**: [10.1177/0950017015618134](https://doi.org/10.1177/0950017015618134)
-**作者**: Whittaker, Xanthe
-**摘要**: （暂无）
 
 ### Gender, availability and dual emancipation in the Swedish ICT sector
 **年份**: 2016 | **DOI**: [10.1177/0950017016651378](https://doi.org/10.1177/0950017016651378)
@@ -1175,11 +930,6 @@
 ### Labour relations and labour unrest in China
 **年份**: 2016 | **DOI**: [10.1177/0950017016659047](https://doi.org/10.1177/0950017016659047)
 **作者**: Pflueger, Jessica; Enssner, Antonia
-**摘要**: （暂无）
-
-### Book review: Alan McKinlay and Philip Taylor, Foucault, Governmentality, and Organization: Inside the Factory of the Future
-**年份**: 2016 | **DOI**: [10.1177/0950017016643483](https://doi.org/10.1177/0950017016643483)
-**作者**: Martin, Douglas
 **摘要**: （暂无）
 
 ### Union formation and worker resistance in a multinational: A personal account of an Asian cabin crew member in UK civil aviation
@@ -1207,25 +957,10 @@
 **作者**: Brekke, Idunn; Nadim, Marjan
 **摘要**: Using longitudinal register data from Norway, the article examines the impact of having a child with intensified care needs on maternal and paternal employment, within a gender equality promoting welfare state.…
 
-### Book review: Stewart Johnstone and Peter Ackers (eds), Finding A Voice at Work? New Perspectives on Employment Relations
-**年份**: 2016 | **DOI**: [10.1177/0950017016650621](https://doi.org/10.1177/0950017016650621)
-**作者**: Atzeni, Maurizio
-**摘要**: （暂无）
-
-### Book review: Philip Taylor (ed.), Older Workers in an Ageing Society: Critical Topics in Research and Policy
-**年份**: 2016 | **DOI**: [10.1177/0950017015623931](https://doi.org/10.1177/0950017015623931)
-**作者**: O’Brien, Martin
-**摘要**: （暂无）
-
 ### Chinese employer associations, institutional complementarity and countervailing power
 **年份**: 2016 | **DOI**: [10.1177/0950017016643480](https://doi.org/10.1177/0950017016643480)
 **作者**: Zhu, Judith Shuqin; Nyland, Chris
 **摘要**: Prior to 2011 the China Enterprise Confederation (CEC) was the only employer association recognized by China’s government. Drawing on interviews with staff from employer associations, employers and state officials, this study clarifies the role of Chinese employer associations, with the focus being …
-
-### Joint book review: Daniel Berliner, Anne Regan Greenleaf, Milli Lake, Margaret Levi and Jennifer Noveck, Labour Standards in International Supply Chains: Aligning Rights and Incentives and Colin C Williams, Confronting the Shadow Economy: Evaluating Tax Compliance and Behaviour Policies
-**年份**: 2016 | **DOI**: [10.1177/0950017016646285](https://doi.org/10.1177/0950017016646285)
-**作者**: Druker, Janet
-**摘要**: （暂无）
 
 ### Labour market regulation and the ‘competition state’: an analysis of the implementation of the Agency Working Regulations in the UK
 **年份**: 2016 | **DOI**: [10.1177/0950017015622917](https://doi.org/10.1177/0950017015622917)
@@ -1272,11 +1007,6 @@
 **作者**: Hughes, Jason; Simpson, Ruth; Slutskaya, Natasha 等5人
 **摘要**: Drawing on a relational approach and based on an ethnographic study of street cleaners and refuse collectors, we redress a tendency towards an overemphasis on the discursive by exploring the co-constitution of the material and symbolic dynamics of dirt.…
 
-### Book review symposium: Melinda Cooper and Catherine Waldby, Clinical Labor: Tissue Donors and Research Subjects in the Global Bioeconomy
-**年份**: 2016 | **DOI**: [10.1177/0950017016656127](https://doi.org/10.1177/0950017016656127)
-**作者**: Wolkowitz, Carol
-**摘要**: （暂无）
-
 ### Beck’s unintended legacy for class analysis
 **年份**: 2016 | **DOI**: [10.1177/0950017016644419](https://doi.org/10.1177/0950017016644419)
 **作者**: Atkinson, Will
@@ -1286,16 +1016,6 @@
 **年份**: 2016 | **DOI**: [10.1177/0950017016631446](https://doi.org/10.1177/0950017016631446)
 **作者**: Fleming, Christopher M; Kifle, Temesgen; Kler, Parvinder
 **摘要**: This research note takes an occupational attainment approach to examining the economic assimilation of immigrants in Australia. This approach differs from much of the existing literature, which tends to examine economic assimilation by looking at levels of (un)employment or wages.…
-
-### Book review symposium: Melinda Cooper and Catherine Waldby, Clinical Labor: Tissue Donors and Research Subjects in the Global Bioeconomy
-**年份**: 2016 | **DOI**: [10.1177/0950017016656129](https://doi.org/10.1177/0950017016656129)
-**作者**: Peterson, Kristin
-**摘要**: （暂无）
-
-### Book review: Gregor Gall, Sex Worker Unionization: Global Developments, Challenges and Possibilities
-**年份**: 2016 | **DOI**: [10.1177/0950017016673504](https://doi.org/10.1177/0950017016673504)
-**作者**: Klambauer, Eva
-**摘要**: （暂无）
 
 ### ‘I’ll do it step by step’: care, cover and quiet campaigning
 **年份**: 2016 | **DOI**: [10.1177/0950017016655262](https://doi.org/10.1177/0950017016655262)
@@ -1331,11 +1051,6 @@
 **作者**: Köhler, Holm-Detlev
 **摘要**: The article reconstructs the re-birth of Industrial Sociology in Germany after the Second World War in a comparative perspective. Although sharing the main context conditions and maintaining a constant and fluent exchange with their colleagues in other countries, the German intellectual traditions a…
 
-### Book review symposium: Authors’ response to reviews of Clinical Labor: Tissue Donors and Research Subjects in the Global Bioeconomy
-**年份**: 2016 | **DOI**: [10.1177/0950017016656128](https://doi.org/10.1177/0950017016656128)
-**作者**: Cooper, Melinda; Waldby, Catherine
-**摘要**: （暂无）
-
 ### Union learning representatives in the UK: activity, impact and organization
 **年份**: 2016 | **DOI**: [10.1177/0950017016630247](https://doi.org/10.1177/0950017016630247)
 **作者**: Saundry, Richard; Antcliff, Valerie; Hollinrake, Alison
@@ -1345,11 +1060,6 @@
 **年份**: 2016 | **DOI**: [10.1177/0950017015617676](https://doi.org/10.1177/0950017015617676)
 **作者**: Cushen, Jean; Thompson, Paul
 **摘要**: Despite expanding literatures on financialization, scholarship exploring its relationship to labour and the labour process remains under-developed. A further obstacle has arisen from arguments that novel financialized modes of value extraction render the labour process and labour process analysis le…
-
-### Book review: Thomas Janoski, David Luke and Christopher Oliver, The Causes of Structural Unemployment: Four Factors That Keep People from the Jobs They Deserve
-**年份**: 2016 | **DOI**: [10.1177/0950017015612336](https://doi.org/10.1177/0950017015612336)
-**作者**: Yates, Ed
-**摘要**: （暂无）
 
 ### Neo-villeiny and the service sector: the case of hyper flexible and precarious work in fitness centres
 **年份**: 2016 | **DOI**: [10.1177/0950017016638023](https://doi.org/10.1177/0950017016638023)
@@ -1406,11 +1116,6 @@
 **作者**: Roderick, Martin; Schumacker, James
 **摘要**: This ‘On the front line’ article focuses on the work and employment situation for an insecure, individualized sports worker whose main job task is fundamentally and publically collaborative.…
 
-### Book review: Leo McCann, International and Comparative Business: Foundations of Political Economies
-**年份**: 2016 | **DOI**: [10.1177/0950017016646286](https://doi.org/10.1177/0950017016646286)
-**作者**: Bo, Le
-**摘要**: （暂无）
-
 ### Understanding contemporary employment insecurity: Beck’s legacy
 **年份**: 2016 | **DOI**: [10.1177/0950017016644416](https://doi.org/10.1177/0950017016644416)
 **作者**: Chan, Sharni; Tweedie, Dale
@@ -1441,16 +1146,6 @@
 **作者**: Ashley, Louise; Empson, Laura
 **摘要**: This article explores social exclusion in elite professional service firms (PSFs) through a qualitative study of six legal, accounting, investment banking and consulting firms. Employing a Bourdieusian perspective we find that all six firms privilege candidates with the same narrow forms of cultural…
 
-### Book review: Alice Bloch, Nando Sigona and Roger Zetter, Sans Papier: The Social and Economic Lives of Young Undocumented Migrants
-**年份**: 2016 | **DOI**: [10.1177/0950017015618135](https://doi.org/10.1177/0950017015618135)
-**作者**: Tangen, James
-**摘要**: （暂无）
-
-### Book review: Kirsty Newsome, Philip Taylor, Jennifer Bair and Al Rainnie (eds), Putting Labour in Its Place: Labour Process Analysis and Global Value Chains
-**年份**: 2016 | **DOI**: [10.1177/0950017016632147](https://doi.org/10.1177/0950017016632147)
-**作者**: Land, Christopher
-**摘要**: （暂无）
-
 ### Regulating class in the neoliberal era: the role of the state in the restructuring of work and employment relations
 **年份**: 2016 | **DOI**: [10.1177/0950017015595954](https://doi.org/10.1177/0950017015595954)
 **作者**: Howell, Chris
@@ -1470,11 +1165,6 @@
 **年份**: 2016 | **DOI**: [10.1177/0950017015609036](https://doi.org/10.1177/0950017015609036)
 **作者**: Prosser, Thomas
 **摘要**: A recent upsurge in the incidence of precarious work in Europe necessitates fresh examination of the origins of this trend. On the basis of field research in eight European countries and with reference to theories of liberalization and dualization, the factors that drive precarious work in discrete …
-
-### Book review: Linsey McGoey, No Such Thing as a Free Gift: The Gates Foundation and the Price of Philanthropy
-**年份**: 2016 | **DOI**: [10.1177/0950017016638274](https://doi.org/10.1177/0950017016638274)
-**作者**: Taylor, Scott
-**摘要**: （暂无）
 
 ### Trade unions, equality and diversity: an inconsistent record of transformative action
 **年份**: 2016 | **DOI**: [10.1177/0950017016650622](https://doi.org/10.1177/0950017016650622)
@@ -1500,11 +1190,6 @@
 **年份**: 2016 | **DOI**: [10.1177/0950017015570726](https://doi.org/10.1177/0950017015570726)
 **作者**: Rodrigues, Ricardo; Guest, David; Budjanovcanin, Alexandra
 **摘要**: The article argues that the long-running debate between organizationally bounded and boundaryless careers has been too narrow and neglects the variety and distinctive characteristics of career boundaries.…
-
-### Book Review: Colin Hay and Anthony Payne, Civic Capitalism
-**年份**: 2016 | **DOI**: [10.1177/0950017016665319](https://doi.org/10.1177/0950017016665319)
-**作者**: Kahana, Jeffrey
-**摘要**: （暂无）
 
 ### Race and racism in an elite postcolonial context: reflections from investment banking
 **年份**: 2016 | **DOI**: [10.1177/0950017016661269](https://doi.org/10.1177/0950017016661269)
@@ -1536,11 +1221,6 @@
 **作者**: van den Broek, Diane; Groutsis, Dimitria
 **摘要**: Discussion of skilled migration often focuses on skill shortages and global labour market trends, with little attention directed to the individual experiences of the migrants themselves. ‘Divina’ is a migrant nurse who left her home country of the Philippines to gain work in Australia.…
 
-### Book review: Aileen O’Carroll, Working Time, Knowledge Work and Post-Industrial Society: Unpredictable Work
-**年份**: 2016 | **DOI**: [10.1177/0950017016665321](https://doi.org/10.1177/0950017016665321)
-**作者**: Scaglione, Matías D
-**摘要**: （暂无）
-
 ### Trading health for money: agential struggles in the (re)configuration of subjectivity, the body and pain among construction workers
 **年份**: 2016 | **DOI**: [10.1177/0950017016668141](https://doi.org/10.1177/0950017016668141)
 **作者**: Ajslev, Jeppe ZN; Møller, Jeppe L; Persson, Roger 等4人
@@ -1551,25 +1231,10 @@
 **作者**: Laaser, Knut
 **摘要**: Over the last three decades work and employment in the private and public sector are increasingly subject to marketization processes. A defining feature of marketized employment is the rise of performance management systems (PMS).…
 
-### Book review: Jesse Potter, Crisis at Work: Identity and the End of Career
-**年份**: 2016 | **DOI**: [10.1177/0950017016638278](https://doi.org/10.1177/0950017016638278)
-**作者**: Adamson, Maria
-**摘要**: （暂无）
-
 ### Non-profits and the ‘hollowed out’ state: the transformation of working conditions through personalizing social care services during an era of austerity
 **年份**: 2016 | **DOI**: [10.1177/0950017016636983](https://doi.org/10.1177/0950017016636983)
 **作者**: Cunningham, Ian
 **摘要**: This article explores the impact of state reforms to increase customer authority in social care at a time of public sector austerity in Scotland. The article focuses on the implications of these reforms for state–non-profit relations and the latter’s employment policies.…
-
-### Book review: Dan Zuberi, Cleaning Up: How Hospital Outsourcing Is Hurting Workers and Endangering Patients
-**年份**: 2016 | **DOI**: [10.1177/0950017016632150](https://doi.org/10.1177/0950017016632150)
-**作者**: Davies, Steve
-**摘要**: （暂无）
-
-### Book review: Pat O’Connor, Management and Gender in Higher Education
-**年份**: 2016 | **DOI**: [10.1177/0950017016665318](https://doi.org/10.1177/0950017016665318)
-**作者**: Courtney, Richard
-**摘要**: （暂无）
 
 ### The value of and values in the work of teachers in Estonia
 **年份**: 2016 | **DOI**: [10.1177/0950017016676436](https://doi.org/10.1177/0950017016676436)
@@ -1591,11 +1256,6 @@
 **作者**: Price, Robin
 **摘要**: Food retail is known for its use of flexible labour and for the centralisation of functions at head office, resulting in a reduction of managerial autonomy at store level. This article employs a typology of controls developed from labour process scholarship to explore how retail managers negotiate t…
 
-### Book review: Jukka Vuori, Roland Blonk and Richard H Price (eds), Sustainable Working Lives: Managing Work Transitions and Health throughout the Life Course
-**年份**: 2016 | **DOI**: [10.1177/0950017016638291](https://doi.org/10.1177/0950017016638291)
-**作者**: Foubert, Josephine
-**摘要**: （暂无）
-
 ### ‘Nimble’ intersectionality in employment research: a way to resolve methodological dilemmas
 **年份**: 2016 | **DOI**: [10.1177/0950017015620768](https://doi.org/10.1177/0950017015620768)
 **作者**: Mooney, Shelagh
@@ -1606,21 +1266,6 @@
 **作者**: Williams, Mark
 **摘要**: This article explores the relationship between the job characteristics underlying the Goldthorpe model of social class (work monitoring difficulty and human asset specificity) and those underlying theories of technological change (routine and analytical tasks) highlighted as key drivers for growing …
 
-### Book review symposium: Melinda Cooper and Catherine Waldby, Clinical Labor: Tissue Donors and Research Subjects in the Global Bioeconomy
-**年份**: 2016 | **DOI**: [10.1177/0950017016656126](https://doi.org/10.1177/0950017016656126)
-**作者**: Weinbaum, Alys Eve
-**摘要**: （暂无）
-
-### Book review: Lucia Pradella, Globalisation and the Critique of Political Economy: New Insights from Marx’s Writings
-**年份**: 2016 | **DOI**: [10.1177/0950017015618133](https://doi.org/10.1177/0950017015618133)
-**作者**: Choonara, Joseph
-**摘要**: （暂无）
-
-### Book review: Greg Hearn, Ruth Bridgstock, Ben Goldsmith and Jess Rodgers (eds), Creative Work beyond the Creative Industries: Innovation, Employment and Education
-**年份**: 2016 | **DOI**: [10.1177/0950017016632148](https://doi.org/10.1177/0950017016632148)
-**作者**: Williams, Kathy
-**摘要**: （暂无）
-
 ### Social exclusion
 **年份**: 2016 | **DOI**: [10.1177/0950017016644417](https://doi.org/10.1177/0950017016644417)
 **作者**: Curran, Dean
@@ -1630,21 +1275,6 @@
 **年份**: 2016 | **DOI**: [10.1177/0950017016653094](https://doi.org/10.1177/0950017016653094)
 **作者**: Birdsell Bauer, Louise; Cranford, Cynthia
 **摘要**: Union renewal research calls for moving beyond broad terms, like community unionism, to specify how social relations of work shape renewal for different workers, sectors and contexts.…
-
-### Book review: Christoph Hermann, Capitalism and the Political Economy of Work Time
-**年份**: 2016 | **DOI**: [10.1177/0950017015612335](https://doi.org/10.1177/0950017015612335)
-**作者**: Spencer, David A
-**摘要**: （暂无）
-
-### Joint book review:Karim WF YoussefJacek Tittenbrun, Anti-Capital: Human, Social and Cultural and Maurizio Atzeni (ed.), Workers and Labour in a Globalised Capitalism: Contemporary Themes and Theoretical Issues
-**年份**: 2016 | **DOI**: [10.1177/0950017015612337](https://doi.org/10.1177/0950017015612337)
-**作者**: Youssef, Karim WF
-**摘要**: （暂无）
-
-### Book review: Mary Romero, Valerie Preston and Wenona Giles (eds), When Care Work Goes Global: Locating the Social Relations of Domestic Work
-**年份**: 2016 | **DOI**: [10.1177/0950017016665320](https://doi.org/10.1177/0950017016665320)
-**作者**: Rainnie, Al
-**摘要**: （暂无）
 
 ### Escaping the rural pay penalty: location, migration and the labour market
 **年份**: 2016 | **DOI**: [10.1177/0950017016640685](https://doi.org/10.1177/0950017016640685)
@@ -1681,35 +1311,15 @@
 **作者**: Randle, Keith; Hardy, Kate
 **摘要**: Inequalities in the creative industries are known to be persistent and systemic. The model of production in UK film and television (UKF&TV) is argued to exclude on the basis of gender, race and class. This article considers a social category that has been overlooked in these debates: disability.…
 
-### Joint book review
-**年份**: 2016 | **DOI**: [10.1177/0950017016638290](https://doi.org/10.1177/0950017016638290)
-**作者**: Sadurska-Duffy, Ewa
-**摘要**: （暂无）
-
 ### Employee satisfaction and use of flexible working arrangements
 **年份**: 2016 | **DOI**: [10.1177/0950017016631447](https://doi.org/10.1177/0950017016631447)
 **作者**: Wheatley, Daniel
 **摘要**: This article considers the impact of flexible working arrangements (FWAs), using the British Household Panel Survey and Understanding Society, 2001–10/11. Results of panel logit, ANCOVA and change-score analysis are indicative of positive impacts from use of a number of FWAs, including homeworking h…
 
-### Book review: Abdulhadi Khalaf, Omar AlShehabi and Adam Hanieh (eds), Transit States: Labour, Migration and Citizenship in the Gulf
-**年份**: 2016 | **DOI**: [10.1177/0950017015623930](https://doi.org/10.1177/0950017015623930)
-**作者**: Ciupijus, Zinovijus
-**摘要**: （暂无）
-
 ### A floor to exploitation? Social economy organizations at the edge of a restructuring economy
 **年份**: 2016 | **DOI**: [10.1177/0950017016638020](https://doi.org/10.1177/0950017016638020)
 **作者**: Visser, M. Anne
 **摘要**: Despite research documenting social economy organizations (SEOs) as important labour market intermediaries in the informal economy, the impact of these organizations on employment outcomes experienced by workers engaged in these labour markets is relatively unknown.…
-
-### Joint book review:Tony ElgerRuth Milkman and Ed Ott (eds), New Labor in New York: Precarious Workers and the Future of the Labor Movement; Gilbert Felipe Mireles, Continuing La Causa: Organizing Labor in California’s Strawberry Fields
-**年份**: 2016 | **DOI**: [10.1177/0950017015614213](https://doi.org/10.1177/0950017015614213)
-**作者**: Elger, Tony
-**摘要**: （暂无）
-
-### Book review: Alan Felstead, Duncan Gallie and Francis Green (eds), Unequal Britain at Work
-**年份**: 2016 | **DOI**: [10.1177/0950017016665317](https://doi.org/10.1177/0950017016665317)
-**作者**: Morris, Huw
-**摘要**: （暂无）
 
 ### Deskilling emotional labour: evidence from department store retail
 **年份**: 2016 | **DOI**: [10.1177/0950017015609031](https://doi.org/10.1177/0950017015609031)
@@ -1721,21 +1331,6 @@
 **作者**: Lersch, Philipp M; Uunk, Wilfred
 **摘要**: Previous research has shown that labour supply – especially of partnered women with supplemental incomes – is positively associated with homeownership status. This literature is advanced by testing whether wanting to move into homeownership before the actual entry into homeownership affects individu…
 
-### Book review: Lina Dencik and Peter Wilkin, Worker Resistance and Media: Challenging Global Corporate Power in the 21st Century
-**年份**: 2016 | **DOI**: [10.1177/0950017016638287](https://doi.org/10.1177/0950017016638287)
-**作者**: Wood, Alex J
-**摘要**: （暂无）
-
-### Joint book review: Sharon Louden (ed.), Living and Sustaining a Creative Life: Essays by 40 Working Artists and Manos Spyridakis, The Liminal Worker: An Ethnography of Work, Unemployment and Precariousness in Contemporary Greece
-**年份**: 2016 | **DOI**: [10.1177/0950017015623928](https://doi.org/10.1177/0950017015623928)
-**作者**: Paraskevopoulou, Anna
-**摘要**: （暂无）
-
-### Book review: A Hodder and L Kretsos (eds), Young Workers and Trade Unions: A Global View
-**年份**: 2016 | **DOI**: [10.1177/0950017015614214](https://doi.org/10.1177/0950017015614214)
-**作者**: Holgate, Jane
-**摘要**: （暂无）
-
 ### Speaking up, leaving or keeping silent: racialized employees in the Swedish elderly care sector
 **年份**: 2016 | **DOI**: [10.1177/0950017016667042](https://doi.org/10.1177/0950017016667042)
 **作者**: Behtoui, Alireza; Boréus, Kristina; Neergaard, Anders 等4人
@@ -1746,35 +1341,10 @@
 **作者**: Connolly, Sara; Aldrich, Matthew; O’Brien, Margaret 等5人
 **摘要**: This article examines the working lives of British couple families across the first decade of the millennium using EU Labour Force Survey data (2001–13) taking a multiple equilibria approach.…
 
-### Book review: Linda Milbourne, Voluntary Sector in Transition: Hard Times or New Opportunities?
-**年份**: 2015 | **DOI**: [10.1177/0950017015590344](https://doi.org/10.1177/0950017015590344)
-**作者**: Gregory, Lee
-**摘要**: （暂无）
-
-### Book review symposium: Response to reviews of Huw Beynon, Working for Ford: Men, Masculinity, Mass Production and Militancy
-**年份**: 2015 | **DOI**: [10.1177/0950017015598260](https://doi.org/10.1177/0950017015598260)
-**作者**: Beynon, Huw
-**摘要**: （暂无）
-
-### Book review: Guy Standing, A Precariat Charter: From Denizens to Citizens
-**年份**: 2015 | **DOI**: [10.1177/0950017015574662](https://doi.org/10.1177/0950017015574662)
-**作者**: Hudson-Sharp, Nathan
-**摘要**: （暂无）
-
-### Book review: Maura J Mills (ed.), Gender and the Work–Family Experience: An Intersection of Two Domains
-**年份**: 2015 | **DOI**: [10.1177/0950017015602165](https://doi.org/10.1177/0950017015602165)
-**作者**: van der Horst, Mariska
-**摘要**: （暂无）
-
 ### Transnational regulation of temporary agency work compromised partnership between Private Employment Agencies and Global Union Federations
 **年份**: 2015 | **DOI**: [10.1177/0950017014545265](https://doi.org/10.1177/0950017014545265)
 **作者**: Cotton, Elizabeth
 **摘要**: This article critically assesses the potential for the international regulation of temporary agency work (TAW) through building partnership between the Global Union Federations (GUFs) and major Private Employment Agencies (PrEAs).…
-
-### Book review: Nicole Constable, Born out of Place: Migrant Mothers and the Politics of International Labor
-**年份**: 2015 | **DOI**: [10.1177/0950017015578795](https://doi.org/10.1177/0950017015578795)
-**作者**: Wang, Sean H
-**摘要**: （暂无）
 
 ### Discrimination in the labour market: nationality, ethnicity and the recession
 **年份**: 2015 | **DOI**: [10.1177/0950017014563104](https://doi.org/10.1177/0950017014563104)
@@ -1785,16 +1355,6 @@
 **年份**: 2015 | **DOI**: [10.1177/0950017014564602](https://doi.org/10.1177/0950017014564602)
 **作者**: Stam, Kirsten; Sieben, Inge; Verbakel, Ellen 等4人
 **摘要**: This article examines to what extent a social norm to work moderates the relationship between employment status and subjective well-being. It was expected that the detrimental impact of non-employment on subjective well-being would be larger in countries with a stronger social norm.…
-
-### Book review symposium: Linda McDowell, Working Lives: Gender, Migration and Employment in Britain, 1945–2007
-**年份**: 2015 | **DOI**: [10.1177/0950017015579155](https://doi.org/10.1177/0950017015579155)
-**作者**: Glucksmann, Miriam
-**摘要**: （暂无）
-
-### Book review: Jane Horan, How Asian Women Lead: Lessons for Global Corporations
-**年份**: 2015 | **DOI**: [10.1177/0950017015579598](https://doi.org/10.1177/0950017015579598)
-**作者**: Adamson, Maria
-**摘要**: （暂无）
 
 ### The work-related affordances of business travel: a disaggregated analysis of journey stage and mode of transport
 **年份**: 2015 | **DOI**: [10.1177/0950017014559767](https://doi.org/10.1177/0950017014559767)
@@ -1814,11 +1374,6 @@
 **年份**: 2015 | **DOI**: [10.1177/0950017015577898](https://doi.org/10.1177/0950017015577898)
 **作者**: Hetland, Gabriel
 **摘要**: In the USA, the UK and elsewhere, community unionism appears a potentially fruitful strategy for organizing the growing numbers of workers holding precarious employment. In the USA there is increasing interest in a form of community unionism that may gain traction in the UK: union-worker centre coll…
-
-### Book review: Jennifer M Silva, Coming up Short: Working-Class Adulthood in an Age of Uncertainty
-**年份**: 2015 | **DOI**: [10.1177/0950017015572332](https://doi.org/10.1177/0950017015572332)
-**作者**: Cole, Matthew
-**摘要**: （暂无）
 
 ### The dynamics of union responses to migrant workers in Canada
 **年份**: 2015 | **DOI**: [10.1177/0950017014559964](https://doi.org/10.1177/0950017014559964)
@@ -1840,16 +1395,6 @@
 **作者**: Mallett, Oliver; Wapshott, Robert
 **摘要**: The enterprise culture is a pervasive socio-historical discourse. This article adopts a narrative identity work approach to explore how individuals may exert agency to make sense of and negotiate with the structuring features of such discourses.…
 
-### Book review symposium: Åke Sandberg (ed.), Nordic Lights: Work, Management and Welfare in Scandinavia
-**年份**: 2015 | **DOI**: [10.1177/0950017015594316](https://doi.org/10.1177/0950017015594316)
-**作者**: Bosch, Gerhard
-**摘要**: （暂无）
-
-### Book review: Maarten Keune and Amparo Serrano (eds), Deconstructing Flexicurity and Developing Alternative Approaches: Towards New Concepts and Approaches for Employment and Social Policy
-**年份**: 2015 | **DOI**: [10.1177/0950017015581766](https://doi.org/10.1177/0950017015581766)
-**作者**: Lalioti, Varvara
-**摘要**: （暂无）
-
 ### From the middle to the margins: addressing job insecurity, income inequality and social fragmentation
 **年份**: 2015 | **DOI**: [10.1177/0950017015569833](https://doi.org/10.1177/0950017015569833)
 **作者**: Lafferty, George
@@ -1861,11 +1406,6 @@
 
 ### Books for review
 **年份**: 2015 | **DOI**: [10.1177/0950017015579327](https://doi.org/10.1177/0950017015579327)
-**摘要**: （暂无）
-
-### Book review: Savita Kumra, Ruth Simpson and Ronald J Burke (eds), The Oxford Handbook of Gender in Organizations
-**年份**: 2015 | **DOI**: [10.1177/0950017015575685](https://doi.org/10.1177/0950017015575685)
-**作者**: Wright, Tessa
 **摘要**: （暂无）
 
 ### Workplace bullying: exploring an emerging framework
@@ -1888,50 +1428,15 @@
 **作者**: Mehdizadeh, Narjes
 **摘要**: In recent academic debates on work–family balance, there has frequently been a disparity between theory and practice. With ageing populations globally, it is expected that both men and women will work later into life, and greater effort is needed on the part of governments and families to ensure car…
 
-### Book review: Paul Edwards, Joe O’Mahoney and Steve Vincent (eds), Studying Organizations Using Critical Realism: A Practical Guide
-**年份**: 2015 | **DOI**: [10.1177/0950017014567563](https://doi.org/10.1177/0950017014567563)
-**作者**: McLachlan, Christopher
-**摘要**: （暂无）
-
 ### The (performance) management of retirement and the limits of individual choice
 **年份**: 2015 | **DOI**: [10.1177/0950017014559963](https://doi.org/10.1177/0950017014559963)
 **作者**: Beck, Vanessa; Williams, Glynne
 **摘要**: The removal of the default retirement age in the UK has been broadly welcomed as the disposal of an age-discriminatory measure. It is argued here that a focus on formal equality has been at the expense of a more critical analysis of the employment relations consequences.…
 
-### Book review: Richard Mitchell, Anthony O’Donnell, Shelley Marshall, Ian Ramsay and Meredith Jones, Law, Corporate Governance and Partnerships at Work: A Study of Australian Regulatory Style and Business Practice
-**年份**: 2015 | **DOI**: [10.1177/0950017014567562](https://doi.org/10.1177/0950017014567562)
-**作者**: Shan, Desai
-**摘要**: （暂无）
-
-### Book review: Michael J White and Jennifer E Glick, Achieving Anew: How New Immigrants Do in American Schools, Jobs and Neighborhoods
-**年份**: 2015 | **DOI**: [10.1177/0950017015591746](https://doi.org/10.1177/0950017015591746)
-**作者**: Malancu, Natalia C
-**摘要**: （暂无）
-
-### Book review: Benjamin Selwyn, The Global Development Crisis
-**年份**: 2015 | **DOI**: [10.1177/0950017015591747](https://doi.org/10.1177/0950017015591747)
-**作者**: Souza Queiroz, Allan
-**摘要**: （暂无）
-
-### Book review: Eric S Brown, The Black Professional Middle Class: Race, Class, and Community in the Post-Civil Rights Era
-**年份**: 2015 | **DOI**: [10.1177/0950017015602163](https://doi.org/10.1177/0950017015602163)
-**作者**: Saini, Rima
-**摘要**: （暂无）
-
-### Book review: Satnam Virdee, Racism, Class and the Racialized Outsider
-**年份**: 2015 | **DOI**: [10.1177/0950017015574663](https://doi.org/10.1177/0950017015574663)
-**作者**: Holgate, Jane
-**摘要**: （暂无）
-
 ### Contesting the history and politics of enterprise and entrepreneurship
 **年份**: 2015 | **DOI**: [10.1177/0950017014559265](https://doi.org/10.1177/0950017014559265)
 **作者**: Mallett, Oliver; Wapshott, Robert
 **摘要**: Enterprise and entrepreneurship are frequently constructed within political discourse in terms of economic growth and prosperity. In the UK, for example, the cross-party political consensus on the value of 'the entrepreneur' ensures that this hegemony is rarely questioned.…
-
-### Book review: Tom Malleson, After Occupy: Economic Democracy for the 21st Century
-**年份**: 2015 | **DOI**: [10.1177/0950017015575686](https://doi.org/10.1177/0950017015575686)
-**作者**: Wood, Alex J
-**摘要**: （暂无）
 
 ### Migrant workers’ engagement with labour market intermediaries in Europe: symbolic power guiding transnational exchange
 **年份**: 2015 | **DOI**: [10.1177/0950017015594968](https://doi.org/10.1177/0950017015594968)
@@ -1942,11 +1447,6 @@
 **年份**: 2015 | **DOI**: [10.1177/0950017014559960](https://doi.org/10.1177/0950017014559960)
 **作者**: Behling, Felix; Harvey, Mark
 **摘要**: Governments in Europe and elsewhere have renewed their attention to the fiscal regulation of their economies in order to close tax loopholes and boost revenues in response to the financial crisis.…
-
-### Book review: Christel Lane, The Cultivation of Taste: Chefs and the Organization of Fine Dining
-**年份**: 2015 | **DOI**: [10.1177/0950017015577763](https://doi.org/10.1177/0950017015577763)
-**作者**: Stanyer, Rebecca
-**摘要**: （暂无）
 
 ### Flexible working and work–life balance: midwives’ experiences and views
 **年份**: 2015 | **DOI**: [10.1177/0950017015570724](https://doi.org/10.1177/0950017015570724)
@@ -1967,11 +1467,6 @@
 **年份**: 2015 | **DOI**: [10.1177/0950017015581768](https://doi.org/10.1177/0950017015581768)
 **作者**: Cullen, John G
 **摘要**: In the contemporary late capitalist milieu, changes in the nature of labour have resulted in long-standing divisions between work and family life being compromised. The three texts reviewed in this essay are all concerned with what happens when long-established boundaries between work and non-work a…
-
-### Book review symposium: Åke Sandberg (ed.), Nordic Lights: Work, Management and Welfare in Scandinavia
-**年份**: 2015 | **DOI**: [10.1177/0950017015594317](https://doi.org/10.1177/0950017015594317)
-**作者**: Bergman, Ann
-**摘要**: （暂无）
 
 ### Migrant workers and the north of Ireland: between neo-liberalism and sectarianism
 **年份**: 2015 | **DOI**: [10.1177/0950017014556800](https://doi.org/10.1177/0950017014556800)
@@ -2001,20 +1496,10 @@
 **年份**: 2015 | **DOI**: [10.1177/0950017015579325](https://doi.org/10.1177/0950017015579325)
 **摘要**: （暂无）
 
-### Book review: Jamie Cross, Dream Zones: Anticipating Capitalism and Development in India
-**年份**: 2015 | **DOI**: [10.1177/0950017015602166](https://doi.org/10.1177/0950017015602166)
-**作者**: Hammer, Anita
-**摘要**: （暂无）
-
 ### The ideal worker as real abstraction: labour conflict and subjectivity in nursing
 **年份**: 2015 | **DOI**: [10.1177/0950017014563102](https://doi.org/10.1177/0950017014563102)
 **作者**: Granberg, Magnus
 **摘要**: The article interrogates the significance of the ideal nurse as an ideal worker in a context of labour conflict, using interview material from a study of an episode of conflict ending in the collective resignation of a group of nurses from a Swedish hospital ward.…
-
-### Book review symposium: Huw Beynon, Working for Ford: Men, Masculinity, Mass Production and Militancy
-**年份**: 2015 | **DOI**: [10.1177/0950017015598261](https://doi.org/10.1177/0950017015598261)
-**作者**: Ramalho, José Ricardo
-**摘要**: （暂无）
 
 ### Gender and the achievement of skilled status in the workplace: the case of women leaders in the UK Fire and Rescue Service
 **年份**: 2015 | **DOI**: [10.1177/0950017015573693](https://doi.org/10.1177/0950017015573693)
@@ -2031,11 +1516,6 @@
 **作者**: Bünning, Mareike; Pollmann-Schult, Matthias
 **摘要**: Despite extensive research on the effect of family policies on the labour supply of mothers, little is known about how these policies affect fathers’ labour market outcomes. Using European panel data (EU-SILC) from 2003 to 2009 and multi-level models, this study analyses the effect of family policie…
 
-### Book review: Saskia Sassen, Expulsions: Brutality and Complexity in the Global Economy
-**年份**: 2015 | **DOI**: [10.1177/0950017015572331](https://doi.org/10.1177/0950017015572331)
-**作者**: Gillespie, Tom
-**摘要**: （暂无）
-
 ### Using social media content for screening in recruitment and selection: pros and cons
 **年份**: 2015 | **DOI**: [10.1177/0950017015613746](https://doi.org/10.1177/0950017015613746)
 **作者**: Jeske, Debora; Shultz, Kenneth S
@@ -2045,21 +1525,6 @@
 **年份**: 2015 | **DOI**: [10.1177/0950017015587874](https://doi.org/10.1177/0950017015587874)
 **作者**: Frank, Kristyn; Hou, Feng
 **摘要**: Previous studies find a strong association between source country female labour force participation level and immigrant women’s labour market activity in the host country. This relationship is interpreted as the continued influence of source country gender role attitudes on women’s labour market beh…
-
-### Book review: Jake Rosenfeld, What Unions No Longer Do
-**年份**: 2015 | **DOI**: [10.1177/0950017015590345](https://doi.org/10.1177/0950017015590345)
-**作者**: Williams, Mark
-**摘要**: （暂无）
-
-### Book review: Madonna Harrington Meyer, Grandmothers at Work: Juggling Families and Jobs
-**年份**: 2015 | **DOI**: [10.1177/0950017015602164](https://doi.org/10.1177/0950017015602164)
-**作者**: Lain, David; Loretto, Wendy
-**摘要**: （暂无）
-
-### Book review symposium: Linda McDowell, Working Lives: Gender, Migration and Employment in Britain, 1945–2007
-**年份**: 2015 | **DOI**: [10.1177/0950017015579153](https://doi.org/10.1177/0950017015579153)
-**作者**: Skeggs, Beverley
-**摘要**: （暂无）
 
 ### Why migrants earn less: in search of the factors producing the ethno-migrant pay gap in a Dutch public organization
 **年份**: 2015 | **DOI**: [10.1177/0950017014568138](https://doi.org/10.1177/0950017014568138)
@@ -2101,21 +1566,6 @@
 **作者**: Brandth, Berit; Kvande, Elin
 **摘要**: Research on work-family balance has seen flexible work arrangements as a key solution for reconciling work and family, but it has given contradictory results in regard to fathers. This article focuses on flexible parental leave for fathers in Norway, which until now has rarely been studied.…
 
-### Book review: Rebecca Selberg, Femininity at Work: Gender, Labour and Changing Relations of Power in a Swedish Hospital
-**年份**: 2015 | **DOI**: [10.1177/0950017015569834](https://doi.org/10.1177/0950017015569834)
-**作者**: Rollmann, Hans
-**摘要**: （暂无）
-
-### Book review: Arianna Rossi, Amy Luinstra and John Pickles (eds), Towards Better Work: Understanding Labour in Apparel Global Value Chains
-**年份**: 2015 | **DOI**: [10.1177/0950017015578794](https://doi.org/10.1177/0950017015578794)
-**作者**: Wanjiru, Roseline
-**摘要**: （暂无）
-
-### Book review: Steve Williams, Harriet Bradley, Ranji Devadason and Mark Erickson, Globalization and Work
-**年份**: 2015 | **DOI**: [10.1177/0950017015573175](https://doi.org/10.1177/0950017015573175)
-**作者**: Mathers, Andy
-**摘要**: （暂无）
-
 ### Militant partnership: a radical pluralist analysis of workforce dialectics
 **年份**: 2015 | **DOI**: [10.1177/0950017014559961](https://doi.org/10.1177/0950017014559961)
 **作者**: Dundon, Tony; Dobbins, Tony
@@ -2136,31 +1586,6 @@
 **作者**: Loretto, Wendy; Vickerstaff, Sarah
 **摘要**: In many countries economic and social concerns associated with ageing populations have focused attention onto flexible forms of working as key to encouraging people to work longer and delay retirement.…
 
-### Book review symposium: Response to reviews of Åke Sandberg (ed.), Nordic Lights: Work, Management and Welfare in Scandinavia
-**年份**: 2015 | **DOI**: [10.1177/0950017015594319](https://doi.org/10.1177/0950017015594319)
-**作者**: Sandberg, Åke
-**摘要**: （暂无）
-
-### Book review symposium: Huw Beynon, Working for Ford: Men, Masculinity, Mass Production and Militancy
-**年份**: 2015 | **DOI**: [10.1177/0950017015598258](https://doi.org/10.1177/0950017015598258)
-**作者**: McDowell, Linda
-**摘要**: （暂无）
-
-### Book review: John H Pencavel (ed.), The Economics of Worker Cooperatives
-**年份**: 2015 | **DOI**: [10.1177/0950017015572330](https://doi.org/10.1177/0950017015572330)
-**作者**: Cheney, George
-**摘要**: （暂无）
-
-### Book review: Eileen Boris and Jennifer Klein, Caring for America: Home Health Workers in the Shadow of the Welfare State
-**年份**: 2015 | **DOI**: [10.1177/0950017015581767](https://doi.org/10.1177/0950017015581767)
-**作者**: Wibberley, Gemma
-**摘要**: （暂无）
-
-### Book review symposium: Åke Sandberg (ed.), Nordic Lights: Work, Management and Welfare in Scandinavia
-**年份**: 2015 | **DOI**: [10.1177/0950017015594318](https://doi.org/10.1177/0950017015594318)
-**作者**: Ackroyd, Stephen
-**摘要**: （暂无）
-
 ### The health and well-being of bankers following downsizing: a comparison of stayers and leavers
 **年份**: 2015 | **DOI**: [10.1177/0950017014563106](https://doi.org/10.1177/0950017014563106)
 **作者**: Snorradóttir, Ásta; Tómasson, Kristinn; Vilhjálmsson, Rúnar 等4人
@@ -2180,11 +1605,6 @@
 **年份**: 2015 | **DOI**: [10.1177/0950017014568137](https://doi.org/10.1177/0950017014568137)
 **作者**: McCollum, David; Findlay, Allan
 **摘要**: There is considerable academic and policy interest in how immigrants fare in the labour market of their host economy. This research is situated within these debates and explores the nexus between migrant labour and segmented labour markets.…
-
-### Book review: Eileen Appelbaum and Rosemary Batt, Private Equity at Work: When Wall Street Manages Main Street
-**年份**: 2015 | **DOI**: [10.1177/0950017015579597](https://doi.org/10.1177/0950017015579597)
-**作者**: Thompson, Paul
-**摘要**: （暂无）
 
 ### Books for review
 **年份**: 2015 | **DOI**: [10.1177/0950017015605452](https://doi.org/10.1177/0950017015605452)
@@ -2240,16 +1660,6 @@
 **作者**: Powell, Abigail; Craig, Lyn
 **摘要**: Despite a wealth of research on working at home, few studies have examined the effects of working at home in relation to its regularity and fewer still have used time use studies to do so.…
 
-### Book review: Adrian Wilkinson, Jimmy Donaghey, Tony Dundon and Richard B Freeman (eds), Handbook of Research on Employee Voice
-**年份**: 2015 | **DOI**: [10.1177/0950017015574661](https://doi.org/10.1177/0950017015574661)
-**作者**: Timming, Andrew R
-**摘要**: （暂无）
-
-### Book review: Emily van der Meulen, Elya M Durisin and Victoria Love (eds), Selling Sex: Experience, Advocacy and Research on Sex Work in Canada
-**年份**: 2015 | **DOI**: [10.1177/0950017015575687](https://doi.org/10.1177/0950017015575687)
-**作者**: Laing, Mary
-**摘要**: （暂无）
-
 ### The gender wage gap in highly prestigious occupations: a case study of Swedish medical doctors
 **年份**: 2015 | **DOI**: [10.1177/0950017015590760](https://doi.org/10.1177/0950017015590760)
 **作者**: Magnusson, Charlotta
@@ -2260,35 +1670,10 @@
 **作者**: Hodder, Andy; Edwards, Paul
 **摘要**: Academics have long investigated trade union behaviour through the complex interaction of identity, ideology and purpose. At the same time, there have been increasing calls to gain a deeper understanding of the purpose of strategies but the two bodies of literature seldom overlap.…
 
-### Book review: Ben Selwyn, Workers, State and Development in Brazil: Powers of Labour, Chains of Value
-**年份**: 2015 | **DOI**: [10.1177/0950017014567564](https://doi.org/10.1177/0950017014567564)
-**作者**: Erdogan, Emine
-**摘要**: （暂无）
-
-### Book review symposium: Linda McDowell, Working Lives: Gender, Migration and Employment in Britain, 1945–2007
-**年份**: 2015 | **DOI**: [10.1177/0950017015579156](https://doi.org/10.1177/0950017015579156)
-**作者**: McIlwaine, Cathy
-**摘要**: （暂无）
-
 ### Welfare reform, precarity and the re-commodification of labour
 **年份**: 2015 | **DOI**: [10.1177/0950017015572578](https://doi.org/10.1177/0950017015572578)
 **作者**: Greer, Ian
 **摘要**: While welfare reform matters for workers and workplaces, it is peripheral in English-language sociology of work and industrial relations research. This article’s core proposition is that active labour market policies (ALMPs) are altering the institutional constitution of the labour market by intensi…
-
-### Book review symposium: We are labour: response to reviews of Linda McDowell, Working Lives: Gender, Migration and Employment in Britain, 1945–2007
-**年份**: 2015 | **DOI**: [10.1177/0950017015579154](https://doi.org/10.1177/0950017015579154)
-**作者**: McDowell, Linda
-**摘要**: （暂无）
-
-### Book review: Stephen Sweet and Peter Meiksins, Changing Contours of Work: Jobs and Opportunities in the New Economy, 2nd Edition
-**年份**: 2015 | **DOI**: [10.1177/0950017015590343](https://doi.org/10.1177/0950017015590343)
-**作者**: Pantea, Maria-Carmen
-**摘要**: （暂无）
-
-### Book review symposium: Huw Beynon, Working for Ford: Men, Masculinity, Mass Production and Militancy
-**年份**: 2015 | **DOI**: [10.1177/0950017015598259](https://doi.org/10.1177/0950017015598259)
-**作者**: Edwards, Paul
-**摘要**: （暂无）
 
 ### Seeking a role: disciplining jobseekers as actors in the labour market
 **年份**: 2015 | **DOI**: [10.1177/0950017015594097](https://doi.org/10.1177/0950017015594097)
@@ -2305,16 +1690,6 @@
 **作者**: Hebson, Gail; Rubery, Jill; Grimshaw, Damian
 **摘要**: Studies of care workers frequently reveal relatively high levels of job satisfaction despite poor employment conditions. The rewarding nature of care work, altruistic motivations and gendered social norms have all been used to explain why subjective job satisfaction is high despite poor pay and term…
 
-### Book review: Michaela Brockman, Linda Clarke and Christopher Winch, Knowledge, Skills and Competence in the European Labour Market: What’s in a Vocational Qualification?
-**年份**: 2015 | **DOI**: [10.1177/0950017013501958](https://doi.org/10.1177/0950017013501958)
-**作者**: Malik, Fatima
-**摘要**: （暂无）
-
-### Book review: Carol Wolkowitz, Rachel Lara Cohen, Teela Sanders and Kate Hardy (eds), Body/Sex/Work: Intimate, Embodied and Sexualized Labour
-**年份**: 2015 | **DOI**: [10.1177/0950017015569835](https://doi.org/10.1177/0950017015569835)
-**作者**: Boris, Eileen
-**摘要**: （暂无）
-
 ### Tracking habitus across a transnational professional field
 **年份**: 2015 | **DOI**: [10.1177/0950017015574824](https://doi.org/10.1177/0950017015574824)
 **作者**: Spence, Crawford; Carter, Chris; Belal, Ataur 等6人
@@ -2330,11 +1705,6 @@
 **作者**: van den Broek, Di; Harvey, William; Groutsis, Dimitria
 **摘要**: Like all migration, skilled migration depends on intermediary operators providing services that assist the mobility, labour market entry and integration of migrant workers. However, within what is a relatively disparate body of literature on migrant work, there is often either a complete neglect, or…
 
-### Book review: Fabio Berton, Matteo Richiardi and Stefano Sacchi, The Political Economy of Work Security and Flexibility: Italy in Comparative Perspective
-**年份**: 2015 | **DOI**: [10.1177/0950017015573176](https://doi.org/10.1177/0950017015573176)
-**作者**: Solera, Cristina
-**摘要**: （暂无）
-
 ### Households’ responses to spousal job loss: ‘all change’ or ‘carry on as usual’?
 **年份**: 2015 | **DOI**: [10.1177/0950017014556411](https://doi.org/10.1177/0950017014556411)
 **作者**: Gush, Karon; Scott, James; Laurie, Heather
@@ -2345,20 +1715,10 @@
 **作者**: Hatton, Erin
 **摘要**: Scholars have examined many different types of labour, including ‘nonmarket’, ‘informal’ and ‘underground’ work. Such studies elucidate the conditions and consequences for workers in these jobs, while also generally accepting as unproblematic the basic distinctions between such categories of labour …
 
-### Book review: Stephanie Ross and Larry Savage (eds), Public Sector Unions in the Age of Austerity
-**年份**: 2015 | **DOI**: [10.1177/0950017014559266](https://doi.org/10.1177/0950017014559266)
-**作者**: Rioux, Sébastien
-**摘要**: （暂无）
-
 ### Does adult education contribute to securing non-precarious employment? A cross-national comparison
 **年份**: 2015 | **DOI**: [10.1177/0950017014561335](https://doi.org/10.1177/0950017014561335)
 **作者**: Vono de Vilhena, Daniela; Kosyakova, Yuliya; Kilpi-Jakonen, Elina 等4人
 **摘要**: The objective of this article is to analyse the effect of acquiring a new formal qualification as an adult (measured as an upgrade or a side-step) on the likelihood of being in non-precarious employment. Three countries with similar longitudinal datasets are compared: Spain, the UK and Russia.…
-
-### Book review: Michael Barry and Adrian Wilkinson (eds), Research Handbook of Comparative Employment Relations
-**年份**: 2014 | **DOI**: [10.1177/0950017014521678](https://doi.org/10.1177/0950017014521678)
-**作者**: Huang, Wei
-**摘要**: （暂无）
 
 ### Mental and physical health: re-assessing the relationship with employment propensity
 **年份**: 2014 | **DOI**: [10.1177/0950017013491450](https://doi.org/10.1177/0950017013491450)
@@ -2375,70 +1735,25 @@
 **作者**: Lehr, Alex; Akkerman, Agnes; Torenvlied, René
 **摘要**: Using unique survey data on Dutch collective agreement negotiators, the authors model how information about other collective bargaining events influences the probability of negotiators encountering bargaining impasses or industrial action during collective bargaining.…
 
-### Book review symposium: Response to Reviewers of Kathi Weeks, The Problem with Work: Feminism, Marxism, Antiwork Politics, and Postwork Imaginaries
-**年份**: 2014 | **DOI**: [10.1177/0950017014526346c](https://doi.org/10.1177/0950017014526346c)
-**作者**: Weeks, Kathi
-**摘要**: （暂无）
-
 ### The birth of French labour sociology after the War: some reflections on the nature of the corporate state and intellectual engagement for the sociology of work in the UK today
 **年份**: 2014 | **DOI**: [10.1177/0950017014536458](https://doi.org/10.1177/0950017014536458)
 **作者**: Durand, Jean-Pierre; Stewart, Paul
 **摘要**: The controversies in French sociology of labour between 1945 and the early 60s sometimes overlook its place in the period of national reconstruction. As part of the social consensus marking reconstruction sociologists, encouraged by state fonctionnaires, sustained a research agenda perceived as ‘use…
-
-### Book review: Maria Karamessini and Jill Rubery (eds), Women and Austerity: The Economic Crisis and the Future for Gender Equality
-**年份**: 2014 | **DOI**: [10.1177/0950017014548306](https://doi.org/10.1177/0950017014548306)
-**作者**: Milkman, Ruth
-**摘要**: （暂无）
-
-### Book review: Heidi Gottfried, Gender, Work, and Economy: Unpacking the Global Economy
-**年份**: 2014 | **DOI**: [10.1177/0950017014548308](https://doi.org/10.1177/0950017014548308)
-**作者**: Smith, Vicki
-**摘要**: （暂无）
-
-### Book review: Kavita Datta, Migrants and Their Money: Surviving Financial Exclusion
-**年份**: 2014 | **DOI**: [10.1177/0950017014526447](https://doi.org/10.1177/0950017014526447)
-**作者**: Demantas, Ilana
-**摘要**: （暂无）
-
-### Response to protecting research participants: in defence of Citizens Advice
-**年份**: 2014 | **DOI**: [10.1177/0950017014548305](https://doi.org/10.1177/0950017014548305)
-**作者**: Holgate, Jane; Pollert, Anna; Keles, Janroj 等4人
-**摘要**: This article is a response to a critique of our paper, ‘De-collectivization and employment problems: the experiences of minority ethnic workers seeking help through Citizens Advice’, published in this journal in 2012.…
 
 ### Branding resources: extractive communities, industrial brandscapes and themed environments
 **年份**: 2014 | **DOI**: [10.1177/0950017013519844](https://doi.org/10.1177/0950017013519844)
 **作者**: Scott, Rebecca; Bennett, Elizabeth
 **摘要**: As the labour process is mechanized and Fordist social contracts between company and workers erode, extractive communities bear increased costs while receiving fewer benefits. The authors use two case studies to elucidate how processes that characterize post-industrial culture elsewhere are now tran…
 
-### Extended book review: Brigid Van Wanrooy, Helen Bewley, Alex Bryson, John Forth, Stephanie Freeth, Lucy Stokes and Stephen Wood, Employment Relations in the Shadow of Recession: Findings from the 2011 Workplace Employment Relations Study
-**年份**: 2014 | **DOI**: [10.1177/0950017014548309](https://doi.org/10.1177/0950017014548309)
-**作者**: Hoque, Kim
-**摘要**: （暂无）
-
 ### Social movement unionism in practice: organizational dimensions of union mobilization in the Los Angeles immigrant rights marches
 **年份**: 2014 | **DOI**: [10.1177/0950017014552027](https://doi.org/10.1177/0950017014552027)
 **作者**: Engeman, Cassandra
 **摘要**: To revitalize union movements globally, labour scholars frequently prescribe social movement unionism. This union strategy adopts social change goals beyond member representation and contract negotiations and often requires allying with community organizations in pursuit of these goals.…
 
-### Book review: Jonathan Crary, 24/7: Late Capitalism and the Ends of Sleep
-**年份**: 2014 | **DOI**: [10.1177/0950017014543133](https://doi.org/10.1177/0950017014543133)
-**作者**: Meadows, Robert
-**摘要**: （暂无）
-
 ### Unions, joint regulation and workplace equality policy and practice in Britain: evidence from the 2004 Workplace Employment Relations Survey
 **年份**: 2014 | **DOI**: [10.1177/0950017012460320](https://doi.org/10.1177/0950017012460320)
 **作者**: Hoque, Kim; Bacon, Nicolas
 **摘要**: This article provides an empirical assessment of the relationship between unionization and the adoption of equal opportunities (EO) policies and practices in British workplaces, using data from the 2004 Workplace Employment Relations Survey.…
-
-### Book review: Kevin Stainback and Donald Tomaskovic-Devey, Documenting Desegregation: Racial and Gender Segregation in Private-Sector Employment Since the Civil Rights Act
-**年份**: 2014 | **DOI**: [10.1177/0950017014521677](https://doi.org/10.1177/0950017014521677)
-**作者**: Brynin, Malcolm
-**摘要**: （暂无）
-
-### Book review symposium: Kathi Weeks, The Problem with Work: Feminism, Marxism, Antiwork Politics, and Postwork Imaginaries
-**年份**: 2014 | **DOI**: [10.1177/0950017014526346b](https://doi.org/10.1177/0950017014526346b)
-**作者**: Alberti, Gabriella; Barbagallo, Camille; Cruz, Katie 等5人
-**摘要**: （暂无）
 
 ### The political economy of ‘lap dancing’: contested careers and women’s work in the stripping industry
 **年份**: 2014 | **DOI**: [10.1177/0950017014554969](https://doi.org/10.1177/0950017014554969)
@@ -2450,40 +1765,15 @@
 **作者**: Feuls, Miriam; Fieseler, Christian; Suphan, Anne
 **摘要**: Many people who are unemployed tend to experience forms of psychological and social losses, including a weakened time structure, diminished social contacts, an absence of collective purpose, falling status, and inactivity.…
 
-### Book review: Peter Kelly, The Self as Enterprise: Foucault and the Spirit of 21st Century Capitalism
-**年份**: 2014 | **DOI**: [10.1177/0950017014532872](https://doi.org/10.1177/0950017014532872)
-**作者**: Taylor, Scott
-**摘要**: （暂无）
-
 ### Training for the unemployed: differential effects in white- and blue-collar workers with respect to mental well-being
 **年份**: 2014 | **DOI**: [10.1177/0950017013510761](https://doi.org/10.1177/0950017013510761)
 **作者**: Saloniemi, Antti; Romppainen, Katri; Strandh, Mattias 等4人
 **摘要**: In this study we investigate the effects of active labour market policy measures on health and well-being and how these effects are connected with socioeconomic status. The data were collected among the participants (n = 212) in 24 conventional vocational training courses in Finland.…
 
-### Making interview transcripts real: the reader’s response
-**年份**: 2014 | **DOI**: [10.1177/0950017014523482](https://doi.org/10.1177/0950017014523482)
-**作者**: Butler, Clare
-**摘要**: This research note considers how we interact with verbatim interview transcripts. Drawing on reader-response theory, the note examines the possible effect of readers’ engagement with this often dysfluent talk-as-text.…
-
 ### Cabin crew collectivism: labour process and the roots of mobilization
 **年份**: 2014 | **DOI**: [10.1177/0950017014538336](https://doi.org/10.1177/0950017014538336)
 **作者**: Taylor, Phil; Moore, Sian
 **摘要**: The protracted dispute (2009–11) between British Airways and BASSA (British Airways Stewards and Stewardesses Association) was notable for the strength of collective action by cabin crew.…
-
-### Book review: Chris Rhomberg, The Broken Table: The Detroit Newspaper Strike and the State of American Labor
-**年份**: 2014 | **DOI**: [10.1177/0950017014543134](https://doi.org/10.1177/0950017014543134)
-**作者**: Mah, Alice
-**摘要**: （暂无）
-
-### Book review: Trebor Scholz (ed.), Digital Labor: The Internet as Playground and Factory
-**年份**: 2014 | **DOI**: [10.1177/0950017013511517](https://doi.org/10.1177/0950017013511517)
-**作者**: Aroles, Jeremy
-**摘要**: （暂无）
-
-### Book review symposium: Kathi Weeks, The Problem with Work: Feminism, Marxism, Antiwork Politics, and Postwork Imaginaries
-**年份**: 2014 | **DOI**: [10.1177/0950017014526346](https://doi.org/10.1177/0950017014526346)
-**作者**: Barchiesi, Franco
-**摘要**: （暂无）
 
 ### Clear, rigorous and relevant: publishing quantitative research articles in Work, employment and society
 **年份**: 2014 | **DOI**: [10.1177/0950017014526448](https://doi.org/10.1177/0950017014526448)
@@ -2505,21 +1795,6 @@
 **作者**: Chesley, Noelle
 **摘要**: Recent scholarship on work suggests that information and communication technology (ICT) use may be significantly altering job conditions in ways that are indicative of work intensification, which, in turn, contributes to employee strain and distress.…
 
-### Book review: Karen D Hughes and Jennifer E Jennings (eds), Global Women’s Entrepreneurship Research: Diverse Settings, Questions and Approaches
-**年份**: 2014 | **DOI**: [10.1177/0950017014526449](https://doi.org/10.1177/0950017014526449)
-**作者**: Sappleton, Natalie
-**摘要**: （暂无）
-
-### Book review: Bryn Caless, Policing at the Top: The Roles, Values and Attitudes of Chief Police Officers
-**年份**: 2014 | **DOI**: [10.1177/0950017014526446](https://doi.org/10.1177/0950017014526446)
-**作者**: Antonopoulos, Georgios A
-**摘要**: （暂无）
-
-### Book review: Mick Matthys, Cultural Capital, Identity, and Social Mobility: The Life Course of Working-Class University Graduates
-**年份**: 2014 | **DOI**: [10.1177/0950017014532870](https://doi.org/10.1177/0950017014532870)
-**作者**: Warhurst, Chris
-**摘要**: （暂无）
-
 ### Thank you to referees
 **年份**: 2014 | **DOI**: [10.1177/0950017014554600](https://doi.org/10.1177/0950017014554600)
 **摘要**: （暂无）
@@ -2528,16 +1803,6 @@
 **年份**: 2014 | **DOI**: [10.1177/0950017012466688](https://doi.org/10.1177/0950017012466688)
 **作者**: Dundon, Tony; Dobbins, Tony; Cullinane, Niall 等5人
 **摘要**: This article shows how both employers and the state have influenced macro-level processes and structures concerning the content and transposition of the European Union (EU) Employee Information and Consultation (I&C) Directive.…
-
-### Book review: Premilla D’Cruz, Workplace Bullying in India
-**年份**: 2014 | **DOI**: [10.1177/0950017013501950](https://doi.org/10.1177/0950017013501950)
-**作者**: Dutt, Manasi
-**摘要**: （暂无）
-
-### Book review: Manuel Castells, Communication Power
-**年份**: 2014 | **DOI**: [10.1177/0950017013511515](https://doi.org/10.1177/0950017013511515)
-**作者**: Sayers, Janet Grace
-**摘要**: （暂无）
 
 ### Tradeoffs and paradoxes in the pursuit of gender equality in the labour market
 **年份**: 2014 | **DOI**: [10.1177/0950017014523466](https://doi.org/10.1177/0950017014523466)
@@ -2554,11 +1819,6 @@
 **作者**: Potter, Michael; Hamilton, Jennifer
 **摘要**: This article examines precarious employment in the context of the mushroom industry in Northern Ireland. Migrant workers engaged in mushroom picking were interviewed in the context of wider research investigating forced labour in Northern Ireland.…
 
-### Book review: Reza Hasmath, The Ethnic Penalty: Immigration, Education and the Labour Market
-**年份**: 2014 | **DOI**: [10.1177/0950017014532871](https://doi.org/10.1177/0950017014532871)
-**作者**: Naseem, Jawiria
-**摘要**: （暂无）
-
 ### Using occupation-based social classifications
 **年份**: 2014 | **DOI**: [10.1177/0950017013519845](https://doi.org/10.1177/0950017013519845)
 **作者**: Lambert, Paul S; Bihagen, Erik
@@ -2573,11 +1833,6 @@
 **年份**: 2014 | **DOI**: [10.1177/0950017014535834](https://doi.org/10.1177/0950017014535834)
 **作者**: Holmes, Helen
 **摘要**: This article joins with Richard Sennett’s (2008) reclamation of the craft worker, but also extends it. Through a focus on craft as experience and repetitive practice, Sennett reveals how craft is a key facet of several contemporary professions.…
-
-### Book review: Andrew McGettigan, The Great University Gamble: Money, Markets and the Future of Higher Education
-**年份**: 2014 | **DOI**: [10.1177/0950017014532873](https://doi.org/10.1177/0950017014532873)
-**作者**: Muddiman, Esther
-**摘要**: （暂无）
 
 ### Trade union struggles
 **年份**: 2014 | **DOI**: [10.1177/0950017014540976](https://doi.org/10.1177/0950017014540976)
@@ -2604,16 +1859,6 @@
 **作者**: Olcott, George; Oliver, Nick
 **摘要**: Despite two decades of stagnation in Japan since 1990, there is remarkably little evidence of radical change in Japanese economic institutions, including employment relations. However, Japan has seen a steady increase in foreign mergers and acquisitions, which can challenge existing institutional pa…
 
-### Book review: Tracy Shildrick, Robert MacDonald, Colin Webster and Kayleigh Garthwaite, Poverty and Insecurity: Life in Low-Pay, No-Pay Britain
-**年份**: 2014 | **DOI**: [10.1177/0950017014526445](https://doi.org/10.1177/0950017014526445)
-**作者**: Ray, Kathryn
-**摘要**: （暂无）
-
-### Book review symposium: Kathi Weeks, The Problem with Work: Feminism, Marxism, Antiwork Politics, and Postwork Imaginaries
-**年份**: 2014 | **DOI**: [10.1177/0950017014526346a](https://doi.org/10.1177/0950017014526346a)
-**作者**: Pitts, Frederick H
-**摘要**: （暂无）
-
 ### Global labour governance: potential and limits of an emerging perspective
 **年份**: 2014 | **DOI**: [10.1177/0950017014534007](https://doi.org/10.1177/0950017014534007)
 **作者**: Meardi, Guglielmo; Marginson, Paul
@@ -2621,11 +1866,6 @@
 
 ### Books for review
 **年份**: 2014 | **DOI**: [10.1177/0950017014542203](https://doi.org/10.1177/0950017014542203)
-**摘要**: （暂无）
-
-### Book review: Patrick Emmenegger, Silja Häusermann, Bruno Palier and Martin Seeleib-Kaiser (eds), The Age of Dualization: The Changing Face of Inequality in Deindustrializing Societies
-**年份**: 2014 | **DOI**: [10.1177/0950017014521674](https://doi.org/10.1177/0950017014521674)
-**作者**: Krings, Torben
 **摘要**: （暂无）
 
 ### Do options for job flexibility diminish in times of economic uncertainty?
@@ -2637,11 +1877,6 @@
 **年份**: 2014 | **DOI**: [10.1177/0950017014542499](https://doi.org/10.1177/0950017014542499)
 **作者**: van der Wel, Kjetil A; Halvorsen, Knut
 **摘要**: This article investigates how welfare generosity and active labour market policies relate to employment commitment. As social policy is increasingly directed towards stimulating employment in broader sections of society, this article particularly studies employment commitment among groups with tradi…
-
-### Book review: Angela Lait, Telling Tales: Work, Narrative and Identity in a Market Age
-**年份**: 2014 | **DOI**: [10.1177/0950017014526464](https://doi.org/10.1177/0950017014526464)
-**作者**: Pascoe-Deslauriers, Rachelle
-**摘要**: （暂无）
 
 ### Employer disability practice in Britain: assessing the impact of the Positive About Disabled People ‘Two Ticks’ symbol
 **年份**: 2014 | **DOI**: [10.1177/0950017012472757](https://doi.org/10.1177/0950017012472757)
@@ -2657,11 +1892,6 @@
 **作者**: Simpson, Ruth; Hughes, Jason; Slutskaya, Natasha 等4人
 **摘要**: Through a study of the butcher trade, this article explores the meanings that men give to ‘dirty work’, that is jobs or roles that are seen as distasteful or ‘undesirable’. Based on qualitative data, we identify three themes from butchers’ accounts that relate to work-based meanings: sacrifice throu…
 
-### Book review: Steffen Lehndorff, A Triumph of Failed Ideas: European Models of Capitalism in the Crisis
-**年份**: 2014 | **DOI**: [10.1177/0950017014543135](https://doi.org/10.1177/0950017014543135)
-**作者**: Jordan, Jamie
-**摘要**: （暂无）
-
 ### Trusting technical change in call centres
 **年份**: 2014 | **DOI**: [10.1177/0950017013510763](https://doi.org/10.1177/0950017013510763)
 **作者**: Prichard, Jane; Turnbull, Joanne; Halford, Susan 等4人
@@ -2676,16 +1906,6 @@
 **年份**: 2014 | **DOI**: [10.1177/0950017013512713](https://doi.org/10.1177/0950017013512713)
 **作者**: Wright, Tessa
 **摘要**: The UK construction and transport sectors remain the most heavily male-dominated industries, showing minimal progress in women’s participation. Long and inflexible working hours presume a male model of the worker unconstrained by caring responsibilities.…
-
-### Book review: Frank Cooper, Professional Boundaries in Social Work and Social Care: A Practical Guide to Understanding, Maintaining and Managing your Professional Boundaries
-**年份**: 2014 | **DOI**: [10.1177/0950017013501954](https://doi.org/10.1177/0950017013501954)
-**作者**: Maxwell, Tanita L
-**摘要**: （暂无）
-
-### Book review: Carrie M Lane, A Company of One: Insecurity, Independence, and the New World of White-Collar Employment
-**年份**: 2014 | **DOI**: [10.1177/0950017014521675](https://doi.org/10.1177/0950017014521675)
-**作者**: Densberger, Kathryn
-**摘要**: （暂无）
 
 ### Reframing employee voice: a case study in Sri Lanka’s export processing zones
 **年份**: 2014 | **DOI**: [10.1177/0950017013491451](https://doi.org/10.1177/0950017013491451)
@@ -2722,21 +1942,6 @@
 **作者**: Oliver, Liz
 **摘要**: （暂无）
 
-### Book review: Romit Dasgupta, Re-Reading the Salaryman in Japan: Crafting Masculinities
-**年份**: 2014 | **DOI**: [10.1177/0950017013511518](https://doi.org/10.1177/0950017013511518)
-**作者**: McCann, Leo
-**摘要**: （暂无）
-
-### Book review: Yana van der Meulen Rodgers, Maternal Employment and Child Health: Global Issues and Policy Solutions
-**年份**: 2014 | **DOI**: [10.1177/0950017014521676](https://doi.org/10.1177/0950017014521676)
-**作者**: Walthery, Pierre
-**摘要**: （暂无）
-
-### Book review: Tilman Brück and Hartmut Lehmann (eds), In the Grip of Transition: Economic and Social Consequences of Restructuring in Russia and Ukraine
-**年份**: 2014 | **DOI**: [10.1177/0950017014543132](https://doi.org/10.1177/0950017014543132)
-**作者**: Osipian, Ararat
-**摘要**: （暂无）
-
 ### Books for review
 **年份**: 2014 | **DOI**: [10.1177/0950017014542202](https://doi.org/10.1177/0950017014542202)
 **摘要**: （暂无）
@@ -2751,25 +1956,10 @@
 **作者**: Butler, Clare; Doherty, Anne Marie; Finniear, Jocelyn 等4人
 **摘要**: Prior research suggests that it is through providing direct support to citizens that public servants gain a source of meaning in their work; and affirm their public service identities.…
 
-### Book review: Rodolphe Durand and Jean-Philippe Vergne, The Pirate Organization: Lessons from the Fringes of Capitalism
-**年份**: 2014 | **DOI**: [10.1177/0950017014526463](https://doi.org/10.1177/0950017014526463)
-**作者**: Parker, Martin
-**摘要**: （暂无）
-
-### Book review: Patricia H Thornton, William Ocasio and Michael Lounsbury, The Institutional Logics Perspective: A New Approach to Culture, Structure, and Process
-**年份**: 2014 | **DOI**: [10.1177/0950017013511519](https://doi.org/10.1177/0950017013511519)
-**作者**: Gill, Michael
-**摘要**: （暂无）
-
 ### We, the people at work: propositions for revitalizing industrial democracy through the use of Étienne Balibar’s concepts
 **年份**: 2014 | **DOI**: [10.1177/0950017013500118](https://doi.org/10.1177/0950017013500118)
 **作者**: Casey, Catherine
 **摘要**: Current debates in social and political studies raise concerns about a ‘democratic deficit’ in society. Critical debates in work, employment and industrial relations raise similar concerns about intensified employer and managerial power and weak workers’ voice in substantive decision-making in organ…
-
-### Book review: Gregor Gall (ed.), New Forms and Expressions of Conflict at Work
-**年份**: 2014 | **DOI**: [10.1177/0950017014548307](https://doi.org/10.1177/0950017014548307)
-**作者**: Ackroyd, Stephen
-**摘要**: （暂无）
 
 ### Intersectionality: are we taking enough notice in the field of work and employment relations?
 **年份**: 2014 | **DOI**: [10.1177/0950017014538337](https://doi.org/10.1177/0950017014538337)
@@ -2805,11 +1995,6 @@
 **年份**: 2014 | **DOI**: [10.1177/0950017014534135](https://doi.org/10.1177/0950017014534135)
 **摘要**: （暂无）
 
-### Book review: Colette Fagan, Maria C González Menéndez and Silvia Gómez Ansón, Women on Corporate Boards and in Top Management: European Trends and Policy
-**年份**: 2014 | **DOI**: [10.1177/0950017014521673](https://doi.org/10.1177/0950017014521673)
-**作者**: O’Reilly, Jacqueline
-**摘要**: （暂无）
-
 ### Rethinking the relationship between gender and technology: a study of the Indian example
 **年份**: 2014 | **DOI**: [10.1177/0950017014556410](https://doi.org/10.1177/0950017014556410)
 **作者**: Gupta, Namrata
@@ -2825,16 +2010,6 @@
 **作者**: Butler, Clare
 **摘要**: The discussion of aesthetic labour has largely been confined to ‘looking good’. However, aesthetic labour also includes ‘sounding right’, where ‘excellent communication skills’ is an almost mandatory component of job advertisements.…
 
-### Book review symposium: Response to reviewers of The End of Organized Capitalism
-**年份**: 2013 | **DOI**: [10.1177/0950017013479687](https://doi.org/10.1177/0950017013479687)
-**作者**: Lash, Scott; Urry, John
-**摘要**: （暂无）
-
-### Book review symposium: Arne L Kalleberg, Good Jobs, Bad Jobs: The Rise of Polarized and Precarious Employment Systems in the United States, 1970s to 2000s
-**年份**: 2013 | **DOI**: [10.1177/0950017013480402](https://doi.org/10.1177/0950017013480402)
-**作者**: Blyton, Paul
-**摘要**: （暂无）
-
 ### The ill-treatment of employees with disabilities in British workplaces
 **年份**: 2013 | **DOI**: [10.1177/0950017012460311](https://doi.org/10.1177/0950017012460311)
 **作者**: Fevre, Ralph; Robinson, Amanda; Lewis, Duncan 等4人
@@ -2845,11 +2020,6 @@
 **作者**: Rose, Emily
 **摘要**: Many employees experience a strained relationship between their paid work and personal lives. Information and communication technologies present new opportunities for reshaping this relationship. In particular, they challenge the spatial and temporal boundary that typically separates the realms.…
 
-### Book review: Noelle J Molé, Labor Disorders in Neoliberal Italy: Mobbing, Well-being, and the Workplace
-**年份**: 2013 | **DOI**: [10.1177/0950017013501953](https://doi.org/10.1177/0950017013501953)
-**作者**: Cullen, John G
-**摘要**: （暂无）
-
 ### The degradation of work and the end of the skilled emotion worker at Aer Lingus: is it all trolley dollies now?
 **年份**: 2013 | **DOI**: [10.1177/0950017012460317](https://doi.org/10.1177/0950017012460317)
 **作者**: Curley, Caitriona; Royle, Tony
@@ -2859,26 +2029,6 @@
 **年份**: 2013 | **DOI**: [10.1177/0950017013479828](https://doi.org/10.1177/0950017013479828)
 **作者**: Bolton, Sharon C; Laaser, Knut
 **摘要**: In this article a moral economy approach is proposed that is informed by Karl Polanyi and E. P. Thompson, who capture the ubiquitous tension between a stable, moral and human society and the economic practices of self-regulating markets, and by Andrew Sayer’s consideration of lay morality.…
-
-### Book review: Per Skedinger, Employment Protection Legislation: Evolution, Effects, Winners and Losers
-**年份**: 2013 | **DOI**: [10.1177/0950017012464414](https://doi.org/10.1177/0950017012464414)
-**作者**: Duman, Anil
-**摘要**: （暂无）
-
-### Critical realism and systematic dialectics: a reply to Andrew Brown
-**年份**: 2013 | **DOI**: [10.1177/0950017013501955](https://doi.org/10.1177/0950017013501955)
-**作者**: Fleetwood, Steve
-**摘要**: In ‘Approach with caution: critical realism in social research’, Andrew Brown sets out a series of criticisms of critical realism from the perspective of systematic dialectics. This current article is one critical realist’s reply to Brown.
-
-### Book review: Donald Palmer, Normal Organizational Wrongdoing: A Critical Analysis of Theories of Misconduct in and by Organizations
-**年份**: 2013 | **DOI**: [10.1177/0950017013501948](https://doi.org/10.1177/0950017013501948)
-**作者**: Towers, Ian
-**摘要**: （暂无）
-
-### Book review: Yann Moulier-Boutang, Cognitive Capitalism
-**年份**: 2013 | **DOI**: [10.1177/0950017013501952](https://doi.org/10.1177/0950017013501952)
-**作者**: Tsogas, George
-**摘要**: （暂无）
 
 ### Workplace injury and voice: a comparison of management and union perceptions
 **年份**: 2013 | **DOI**: [10.1177/0950017012460307](https://doi.org/10.1177/0950017012460307)
@@ -2910,25 +2060,10 @@
 **作者**: Kim, Young-Mi
 **摘要**: The purpose of this study is to explore changes in career mobility in the US labour market during the late 1990s and early 2000s, a period in which career boundaries weakened and workers’ employment options became increasingly flexible.…
 
-### Book review: Ewald Engelen, Ismail Ertürk, Julie Froud, Sukhdev Johal, Adam Leaver, Mick Moran, Adriana Nilsson and Karel Williams, After the Great Complacence: Financial Crisis and the Politics of Reform
-**年份**: 2013 | **DOI**: [10.1177/0950017013501957](https://doi.org/10.1177/0950017013501957)
-**作者**: Wright, Chris F
-**摘要**: （暂无）
-
-### Book review: David Card and Alan B Krueger (edited by Randall KQ Akee and Klaus Zimmermann), Wages, School Quality and Employment Demand
-**年份**: 2013 | **DOI**: [10.1177/0950017012470980](https://doi.org/10.1177/0950017012470980)
-**作者**: Lamprianou, Iasonas
-**摘要**: （暂无）
-
 ### Working on the edge: remediation work in the UK travel sector
 **年份**: 2013 | **DOI**: [10.1177/0950017013490334](https://doi.org/10.1177/0950017013490334)
 **作者**: Ball, Kirstie; Canhoto, Ana; Daniel, Elizabeth 等6人
 **摘要**: In response to recent terror attacks, Western governments now involve private sector organizations in national security regimes in key strategic areas such as travel, communication and financial services. The UK’s e-Borders programme is one such regime.…
-
-### Book review symposium: Arne L Kalleberg, Good Jobs, Bad Jobs: The Rise of Polarized and Precarious Employment Systems in the United States, 1970s to 2000s
-**年份**: 2013 | **DOI**: [10.1177/0950017013480405](https://doi.org/10.1177/0950017013480405)
-**作者**: Jaros, Stephen
-**摘要**: （暂无）
 
 ### Employability of offshore service sector workers in the Philippines: opportunities for upward labour mobility or dead-end jobs?
 **年份**: 2013 | **DOI**: [10.1177/0950017012469065](https://doi.org/10.1177/0950017012469065)
@@ -2944,16 +2079,6 @@
 **年份**: 2013 | **DOI**: [10.1177/0950017012460306](https://doi.org/10.1177/0950017012460306)
 **作者**: Ingold, Jo; Etherington, David
 **摘要**: In industrialized countries women have increasingly become a target group for active labour market policies, or ‘activation’. However, to date, the burgeoning literature on activation has tended to overlook its link with the highly gendered nature of welfare.…
-
-### Book review: Chrissie Rogers and Susie Weller (eds), Critical Approaches to Care: Understanding Caring Relations, Identities and Culture
-**年份**: 2013 | **DOI**: [10.1177/0950017013493473](https://doi.org/10.1177/0950017013493473)
-**作者**: Gabriel, Yiannis
-**摘要**: （暂无）
-
-### Book review: Anita Chan (ed.), Walmart in China
-**年份**: 2013 | **DOI**: [10.1177/0950017012470982](https://doi.org/10.1177/0950017012470982)
-**作者**: Cao, Xuebing
-**摘要**: （暂无）
 
 ### ‘Commodifying institutions’: vertical disintegration and institutional change in German labour relations
 **年份**: 2013 | **DOI**: [10.1177/0950017012464423](https://doi.org/10.1177/0950017012464423)
@@ -2979,26 +2104,6 @@
 **年份**: 2013 | **DOI**: [10.1177/0950017012461838](https://doi.org/10.1177/0950017012461838)
 **作者**: Brook, Paul; Darlington, Ralph
 **摘要**: Despite a thriving tradition of critical scholarship in United Kingdom-based sociology of work, Burawoy’s call for a partisan organic public sociology that is part of ‘a social movement beyond the academy’ and Bourdieu’s plea for committed scholarship in the service of the social movement against ne…
-
-### Book review symposium: Scott Lash and John Urry The End of Organised Capitalism
-**年份**: 2013 | **DOI**: [10.1177/0950017013479551](https://doi.org/10.1177/0950017013479551)
-**作者**: Martínez Lucio, Miguel
-**摘要**: （暂无）
-
-### Book review: Luc Fransen, Corporate Social Responsibility and Global Labor Standards: Firms and Activists in the Making of Private Regulation
-**年份**: 2013 | **DOI**: [10.1177/0950017013501949](https://doi.org/10.1177/0950017013501949)
-**作者**: Neilson, Lisa
-**摘要**: （暂无）
-
-### Book review: S. Contrepois, V. Delteil, P. Dieuaide and S. Kefferys (eds), Globalizing Employment Relations: Multinational Firms and Central and Eastern Europe Transitions
-**年份**: 2013 | **DOI**: [10.1177/0950017013493472](https://doi.org/10.1177/0950017013493472)
-**作者**: Tongo, Constantine
-**摘要**: （暂无）
-
-### Book review symposium: Sylvia Walby, Globalization and Inequalities: Complexity and Contested Modernities
-**年份**: 2013 | **DOI**: [10.1177/0950017013487575](https://doi.org/10.1177/0950017013487575)
-**作者**: Durbin, Susan
-**摘要**: （暂无）
 
 ### ‘The future’s bright, the future’s mobile’: a study of Apple and Google mobile application developers
 **年份**: 2013 | **DOI**: [10.1177/0950017012474709](https://doi.org/10.1177/0950017012474709)
@@ -3040,16 +2145,6 @@
 **作者**: Hodgson, Damian; Briand, Louise
 **摘要**: The creative industries have recently been hailed as presenting a liberating model for the future of work and a valuable terrain on which to examine purported new regimes of workplace control.…
 
-### Book review symposium: Richard Wilkinson and Kate Pickett, The Spirit Level: Why Equality is Better for Everyone
-**年份**: 2013 | **DOI**: [10.1177/0950017012464416](https://doi.org/10.1177/0950017012464416)
-**作者**: Charlwood, Andy
-**摘要**: （暂无）
-
-### Book review symposium: Scott Lash and John Urry The End of Organised Capitalism
-**年份**: 2013 | **DOI**: [10.1177/0950017013479554](https://doi.org/10.1177/0950017013479554)
-**作者**: Burrell, Gibson
-**摘要**: （暂无）
-
 ### A matter of time: young professionals’ experiences of long work hours
 **年份**: 2013 | **DOI**: [10.1177/0950017012460318](https://doi.org/10.1177/0950017012460318)
 **作者**: Sturges, Jane
@@ -3064,11 +2159,6 @@
 **年份**: 2013 | **DOI**: [10.1177/0950017013491453](https://doi.org/10.1177/0950017013491453)
 **作者**: Cangiano, Alessio; Walsh, Kieran
 **摘要**: Older adult care in Ireland and the UK has seen substantial recruitment of migrant registered nurses and care assistants. However, there is little information on recruitment methods in this sector and on how the current immigration systems influence these strategies.…
-
-### Book review: David Hesmondhalgh and Sarah Baker, Creative Labour: Media Work in Three Cultural Industries
-**年份**: 2013 | **DOI**: [10.1177/0950017012470981](https://doi.org/10.1177/0950017012470981)
-**作者**: Proctor-Thomson, Sarah B
-**摘要**: （暂无）
 
 ### Bleak house: pessimism and prescription about management, responsibility and society in the early 21st century
 **年份**: 2013 | **DOI**: [10.1177/0950017013481258](https://doi.org/10.1177/0950017013481258)
@@ -3090,11 +2180,6 @@
 **作者**: Shan, Hongxia
 **摘要**: Under-employment and unemployment of immigrants has often been attributed to immigrants’ lack of human capital skills and/or cultural and social capital endowments. Few studies have addressed the fact that despite these possible ‘capital’ disadvantages, immigrant niches are occasionally made in prof…
 
-### Book review symposium: Sylvia Walby, Globalization and Inequalities: Complexity and Contested Modernities
-**年份**: 2013 | **DOI**: [10.1177/0950017013487576](https://doi.org/10.1177/0950017013487576)
-**作者**: Acker, Joan
-**摘要**: （暂无）
-
 ### The customer in the sociology of work: different ways of going beyond the management–worker dyad
 **年份**: 2013 | **DOI**: [10.1177/0950017012464424](https://doi.org/10.1177/0950017012464424)
 **作者**: Korczynski, Marek
@@ -3115,20 +2200,10 @@
 **作者**: Dobbins, Tony; Plows, Alexandra; Lloyd-Williams, Huw
 **摘要**: This article tracks workers’ responses to redundancy and impact on the local labour market and regional unemployment policy after the closure of a large employer, Anglesey Aluminium (AA), on Anglesey in North Wales.…
 
-### Book review essay: Dominance by default: neoliberalism’s continuing ascendancy
-**年份**: 2013 | **DOI**: [10.1177/0950017012464421](https://doi.org/10.1177/0950017012464421)
-**作者**: Lafferty, George
-**摘要**: （暂无）
-
 ### Emotion management from the client’s perspective: the case of personal home care
 **年份**: 2013 | **DOI**: [10.1177/0950017013477901](https://doi.org/10.1177/0950017013477901)
 **作者**: Cranford, Cynthia J; Miller, Diana
 **摘要**: Recent scholarship examines multiple types of emotion management but these efforts are limited by the absence of service recipients’ perspectives. Using interviews with personal home care clients in Toronto, this article extends discussions of emotion management.…
-
-### Book review symposium: Arne L Kalleberg, Good Jobs, Bad Jobs: The Rise of Polarized and Precarious Employment Systems in the United States, 1970s to 2000s
-**年份**: 2013 | **DOI**: [10.1177/0950017013480404](https://doi.org/10.1177/0950017013480404)
-**作者**: Gallie, Duncan
-**摘要**: （暂无）
 
 ### The gender wage gap and its institutional context: a comparative analysis of European graduates
 **年份**: 2013 | **DOI**: [10.1177/0950017012460322](https://doi.org/10.1177/0950017012460322)
@@ -3145,11 +2220,6 @@
 **作者**: Bloch, Alice
 **摘要**: The article draws on data from in-depth interviews and testimonies with 75 young undocumented migrants from Brazil, China, Kurds from Turkey, Ukraine and Zimbabwe living in England. The article provides a detailed qualitative understanding of the working lives and decision making of undocumented mig…
 
-### Book review: Marian Baird, Keith Hancock and Joe Isaac (eds), Work and Employment Relations: An Era of Change
-**年份**: 2013 | **DOI**: [10.1177/0950017013493471](https://doi.org/10.1177/0950017013493471)
-**作者**: Ravenswood, Katherine
-**摘要**: （暂无）
-
 ### Re-conceptualizing member participation: informal activist careers in unions
 **年份**: 2013 | **DOI**: [10.1177/0950017012472756](https://doi.org/10.1177/0950017012472756)
 **作者**: Yu, Kyoung-Hee
@@ -3160,59 +2230,19 @@
 **作者**: Buchanan, John; Dymski, Gary; Froud, Julie 等6人
 **摘要**: This Debates and Controversies contribution introduces the notion of an employment portfolio to explore how economies create combinations of employment. It is not simply the number of jobs but the factor share distributed to labour and the sectoral mix and composition that matter.…
 
-### Book review symposium: Sylvia Walby, Globalization and Inequalities: Complexity and Contested Modernities
-**年份**: 2013 | **DOI**: [10.1177/0950017013488638](https://doi.org/10.1177/0950017013488638)
-**作者**: Moghadam, Val
-**摘要**: （暂无）
-
-### Book review: Alain Klarsfeld (ed.), International Handbook on Diversity Management at Work: Country Perspectives on Diversity and Equal Treatment
-**年份**: 2013 | **DOI**: [10.1177/0950017012470983](https://doi.org/10.1177/0950017012470983)
-**作者**: Stephenson, Jacqueline H
-**摘要**: （暂无）
-
 ### Customer abuse to service workers: an analysis of its social creation within the service economy
 **年份**: 2013 | **DOI**: [10.1177/0950017012468501](https://doi.org/10.1177/0950017012468501)
 **作者**: Korczynski, Marek; Evans, Claire
 **摘要**: Evidence from a range of sources suggests that customer abuse to service workers is a significant phenomenon. This article argues that a large part of customer abuse is endogenously created within the fabric of the service economy.…
 
-### Book review: John W Budd, The Thought of Work
-**年份**: 2013 | **DOI**: [10.1177/0950017013487574](https://doi.org/10.1177/0950017013487574)
-**作者**: Gilfillan, Paul
-**摘要**: （暂无）
-
-### Book review: Chris Warhurst, Françoise Carré, Patricia Findlay and Chris Tilly (eds), Are Bad Jobs Inevitable? Trends, Determinants and Responses to Job Quality in the Twenty-First Century
-**年份**: 2013 | **DOI**: [10.1177/0950017013493474](https://doi.org/10.1177/0950017013493474)
-**作者**: Webster, Edward
-**摘要**: （暂无）
-
 ### Books for review
 **年份**: 2013 | **DOI**: [10.1177/0950017013484677](https://doi.org/10.1177/0950017013484677)
-**摘要**: （暂无）
-
-### Book review: Daniel Vaughan-Whitehead, Work Inequalities in the Crisis: Evidence from Europe
-**年份**: 2013 | **DOI**: [10.1177/0950017013487577](https://doi.org/10.1177/0950017013487577)
-**作者**: Gebel, Michael
 **摘要**: （暂无）
 
 ### Does the effect of job loss on psychological distress differ by educational level?
 **年份**: 2013 | **DOI**: [10.1177/0950017012460312](https://doi.org/10.1177/0950017012460312)
 **作者**: Mandemakers, Jornt J; Monden, Christiaan WS
 **摘要**: We examine the impact of involuntary job loss on psychological distress and investigate whether the impact differs by educational level using a sample of men drawn from the British Household Panel Study.…
-
-### Book review symposium: Response to Reviews of Arne L Kalleberg, Good Jobs, Bad Jobs: The Rise of Polarized and Precarious Employment Systems in the United States, 1970s to 2000s
-**年份**: 2013 | **DOI**: [10.1177/0950017013480403](https://doi.org/10.1177/0950017013480403)
-**作者**: Kalleberg, Arne L
-**摘要**: （暂无）
-
-### Book review symposium: Richard Wilkinson and Kate Pickett, The Spirit Level: Why Equality is Better for Everyone
-**年份**: 2013 | **DOI**: [10.1177/0950017012464415](https://doi.org/10.1177/0950017012464415)
-**作者**: Regan, Aidan
-**摘要**: （暂无）
-
-### Richard Wilkinson and Kate Pickett reply to three reviews of The Spirit Level: Why Equality Is Better for Everyone
-**年份**: 2013 | **DOI**: [10.1177/0950017012464419](https://doi.org/10.1177/0950017012464419)
-**作者**: Wilkinson, Richard; Pickett, Kate
-**摘要**: （暂无）
 
 ### Compromising conventions: attitudes of dissonance and indifference towards full-time maternal employment in Denmark, Spain, Poland and the UK
 **年份**: 2013 | **DOI**: [10.1177/0950017013491307](https://doi.org/10.1177/0950017013491307)
@@ -3228,21 +2258,6 @@
 **年份**: 2013 | **DOI**: [10.1177/0950017013481877](https://doi.org/10.1177/0950017013481877)
 **作者**: Bélanger, Jacques; Edwards, Paul
 **摘要**: Empirical studies increasingly reflect the importance of service work in the economy. This article analyses the implications of this evolution for theories of work and employment. It critically reviews some key notions that are taken for granted in the research literature on service work and elabora…
-
-### Book review: Jun Imai, The Transformation of Japanese Employment Relations: Reform without Labor
-**年份**: 2013 | **DOI**: [10.1177/0950017012464422](https://doi.org/10.1177/0950017012464422)
-**作者**: Elger, Tony
-**摘要**: （暂无）
-
-### Book review: Owen Jones, Chavs: The Demonization of the Working Class
-**年份**: 2013 | **DOI**: [10.1177/0950017012464412](https://doi.org/10.1177/0950017012464412)
-**作者**: Lumsden, Karen
-**摘要**: （暂无）
-
-### Book review: Kate Hardy, Sarah Kingston and Teela Sanders (eds), New Sociologies of Sex Work
-**年份**: 2013 | **DOI**: [10.1177/0950017013487578](https://doi.org/10.1177/0950017013487578)
-**作者**: Sardadvar, Karin
-**摘要**: （暂无）
 
 ### ‘I’d rather work in a supermarket’: privatization of home care work in Japan
 **年份**: 2013 | **DOI**: [10.1177/0950017013500113](https://doi.org/10.1177/0950017013500113)
@@ -3277,35 +2292,10 @@
 **作者**: Kirton, Gill; Healy, Geraldine
 **摘要**: This article asks what sustains women union leaders’ long-term union participation given an internal environment often hostile to women and an external context antagonistic to unions.…
 
-### Book review: John Hassard, Leo McCann and Jonathan Morris, Managing in the Modern Corporation: The Intensification of Managerial Work in the USA
-**年份**: 2013 | **DOI**: [10.1177/0950017013487571](https://doi.org/10.1177/0950017013487571)
-**作者**: Bozkurt, Ödül
-**摘要**: （暂无）
-
-### Book review symposium: Scott Lash and John Urry The End of Organised Capitalism
-**年份**: 2013 | **DOI**: [10.1177/0950017013479553](https://doi.org/10.1177/0950017013479553)
-**作者**: Greer, Ian
-**摘要**: （暂无）
-
 ### Liberalization, flexibility and industrial relations institutions: evidence from Italian and Greek banking
 **年份**: 2013 | **DOI**: [10.1177/0950017012466930](https://doi.org/10.1177/0950017012466930)
 **作者**: Kornelakis, Andreas
 **摘要**: The article seeks to explain how institutions change within varieties of capitalism, focusing on an important institution for the world of work: wage bargaining. Although there is a widespread expectation that liberalization and firms’ needs for flexibility brings convergence to the liberal market m…
-
-### Book review: Andrew Dawson and Sean P Holmes (eds), Working in the Global Film and Television Industries: Creativity, Systems, Space, Patronage
-**年份**: 2013 | **DOI**: [10.1177/0950017013487573](https://doi.org/10.1177/0950017013487573)
-**作者**: Randle, Keith
-**摘要**: （暂无）
-
-### Book review: Peter Fairbrother, John O’Brien, Michael O’Donnell, Anne Junor and Glynne Williams, Unions and Globalisation: Governments, Management and the State at Work
-**年份**: 2013 | **DOI**: [10.1177/0950017012470984](https://doi.org/10.1177/0950017012470984)
-**作者**: Wright, Chris F
-**摘要**: （暂无）
-
-### Book review: A. Kamp and H. Hvid (eds), Elderly Care in Transition: Management, Meaning and Identity at Work. A Scandinavian Perspective
-**年份**: 2013 | **DOI**: [10.1177/0950017013493470](https://doi.org/10.1177/0950017013493470)
-**作者**: Scales, Kezia
-**摘要**: （暂无）
 
 ### Reframing workplace relations? Conflict resolution and mediation in a primary care trust
 **年份**: 2013 | **DOI**: [10.1177/0950017012472236](https://doi.org/10.1177/0950017012472236)
@@ -3326,11 +2316,6 @@
 **年份**: 2013 | **DOI**: [10.1177/0950017013481639](https://doi.org/10.1177/0950017013481639)
 **作者**: Clarke, Linda; Winch, Christopher; Brockmann, Michaela
 **摘要**: This article shows why qualifications built on occupational capacity rather than on trade-based skills have more potential to accommodate the aims of the European Qualifications Framework (EQF) and changes in the labour process, going together with the development of occupational labour markets.…
-
-### Book review symposium: Richard Wilkinson and Kate Pickett, The Spirit Level: Why Equality is Better for Everyone
-**年份**: 2013 | **DOI**: [10.1177/0950017012464420](https://doi.org/10.1177/0950017012464420)
-**作者**: Cornelius, Nelarine
-**摘要**: （暂无）
 
 ### Finance versus democracy? Theorizing finance in society
 **年份**: 2013 | **DOI**: [10.1177/0950017013479741](https://doi.org/10.1177/0950017013479741)
@@ -3372,11 +2357,6 @@
 **作者**: Nemoto, Kumiko
 **摘要**: While the rise of non-regular women workers in Japanese firms drew much attention, little attention has been paid to employment barriers that regular women workers continue to face in Japanese firms today.…
 
-### Book review symposium: Response to reviewers of Globalization and Inequalities: Complexity and Contested Modernities
-**年份**: 2013 | **DOI**: [10.1177/0950017013487572](https://doi.org/10.1177/0950017013487572)
-**作者**: Walby, Sylvia
-**摘要**: （暂无）
-
 ### What is work? Insights from the evolution of state foster care
 **年份**: 2013 | **DOI**: [10.1177/0950017012460323](https://doi.org/10.1177/0950017012460323)
 **作者**: Kirton, Derek
@@ -3386,11 +2366,6 @@
 **年份**: 2013 | **DOI**: [10.1177/0950017012461836](https://doi.org/10.1177/0950017012461836)
 **作者**: Hancock, Philip
 **摘要**: The labour of interactive service work, particularly its emotional and aesthetic dimensions, has been the focus of significant research. This article investigates the occupational practices of perhaps one of the most immediately recognizable of interactive service workers, the Santa Claus performer.…
-
-### Book review: Charles M Beach, Alan G Green and Christopher Worswick, Toward Improving Canada’s Skilled Immigration Policy: An Evaluation Approach
-**年份**: 2013 | **DOI**: [10.1177/0950017012464413](https://doi.org/10.1177/0950017012464413)
-**作者**: Chatterjee, Soma
-**摘要**: （暂无）
 
 ### Thank you to referees
 **年份**: 2013 | **DOI**: [10.1177/0950017013514710](https://doi.org/10.1177/0950017013514710)
@@ -3454,16 +2429,6 @@
 **年份**: 2012 | **DOI**: [10.1177/0950017012439276](https://doi.org/10.1177/0950017012439276)
 **摘要**: （暂无）
 
-### Book review: A Alexandrou (ed.), Union Learning Representatives: Challenges and Opportunities
-**年份**: 2012 | **DOI**: [10.1177/0950017011426304](https://doi.org/10.1177/0950017011426304)
-**作者**: Findlay, Patricia
-**摘要**: （暂无）
-
-### Book review: JK Tina Basi, Women, Identity and India’s Call Centre Industry
-**年份**: 2012 | **DOI**: [10.1177/0950017012438570](https://doi.org/10.1177/0950017012438570)
-**作者**: Stevens, Andrew
-**摘要**: （暂无）
-
 ### Managing people ‘spiritually’: a Bourdieusian critique
 **年份**: 2012 | **DOI**: [10.1177/0950017012438573](https://doi.org/10.1177/0950017012438573)
 **作者**: Kamoche, Ken; Pinnington, Ashly H
@@ -3494,11 +2459,6 @@
 **作者**: Schober, Pia; Scott, Jacqueline
 **摘要**: This study examines how changes in gender role attitudes of couples after childbirth relate to women’s paid work and the type of childcare used. Identifying attitude-practice dissonances matters because how they get resolved influences mothers’ future employment.…
 
-### Book review symposium: Guy Standing, The Precariat: The New Dangerous Class, reviewed by Hazel Conley
-**年份**: 2012 | **DOI**: [10.1177/0950017012445108](https://doi.org/10.1177/0950017012445108)
-**作者**: Conley, Hazel
-**摘要**: （暂无）
-
 ### ‘Monday will never be the same again’: the transformation of employment and work in a public-private partnership
 **年份**: 2012 | **DOI**: [10.1177/0950017011426319](https://doi.org/10.1177/0950017011426319)
 **作者**: Smith, Andrew
@@ -3514,25 +2474,10 @@
 **作者**: Howcroft, Debra; Richardson, Helen
 **摘要**: This article explores a neglected aspect of IT-enabled service work: the back office. The fieldwork study reveals how back office service work has been identified as suitable for ongoing reorganization and reconfiguration as firms respond to the pressures of contemporary capitalism.…
 
-### Book review: Frederick F Wherry, The Culture of Markets
-**年份**: 2012 | **DOI**: [10.1177/0950017012458018](https://doi.org/10.1177/0950017012458018)
-**作者**: Pitluck, Aaron Z
-**摘要**: （暂无）
-
 ### The Big Society, values and co-operation
 **年份**: 2012 | **DOI**: [10.1177/0950017012438572](https://doi.org/10.1177/0950017012438572)
 **作者**: Wilson, Fiona; MacLean, Donald
 **摘要**: In a context of government promotion of co-operatives, a growth in the co-operative economy, and in times when use of the term ‘co-operative’ appears to have broadened to include any form of employee ownership, this article sets out a research agenda for exploring producer co-operatives, focusing on…
-
-### Book review: J Kirk and C Wall, Work and Identity: Historical and Cultural Contexts
-**年份**: 2012 | **DOI**: [10.1177/0950017011432914](https://doi.org/10.1177/0950017011432914)
-**作者**: Addison, Michelle
-**摘要**: （暂无）
-
-### Joint book review
-**年份**: 2012 | **DOI**: [10.1177/0950017012458020](https://doi.org/10.1177/0950017012458020)
-**作者**: Scott, Peter
-**摘要**: （暂无）
 
 ### A new form of union organizing in Japan? Community unions and the case of the McDonald’s ‘McUnion’
 **年份**: 2012 | **DOI**: [10.1177/0950017012445093](https://doi.org/10.1177/0950017012445093)
@@ -3578,16 +2523,6 @@
 **作者**: Forkert, Kirsten
 **摘要**: （暂无）
 
-### Book review: Carole Thornley, Steve Jefferys and Beatrice Appay (eds), Globalization and Precarious Forms of Production and Employment: Challenges for Workers and Unions
-**年份**: 2012 | **DOI**: [10.1177/0950017011432909](https://doi.org/10.1177/0950017011432909)
-**作者**: Royle, Tony
-**摘要**: （暂无）
-
-### Book review: David Guest, Kerstin Isaksson and Hans de Witte (eds), Employment Contracts, Psychological Contracts and Employee Well-being
-**年份**: 2012 | **DOI**: [10.1177/0950017012438580](https://doi.org/10.1177/0950017012438580)
-**作者**: Burchell, Brendan
-**摘要**: （暂无）
-
 ### Political Congruence and Trade Union Renewal
 **年份**: 2012 | **DOI**: [10.1177/0950017012451643](https://doi.org/10.1177/0950017012451643)
 **作者**: Upchurch, Martin; Croucher, Richard; Flynn, Matt
@@ -3602,26 +2537,6 @@
 **年份**: 2012 | **DOI**: [10.1177/0950017012458024](https://doi.org/10.1177/0950017012458024)
 **作者**: Foster, Karen
 **摘要**: Sociologists of work have been drawn into a conversation over work’s significance as a source of identity and social affiliation – ‘needs’ which, according to late modern theorists, are increasingly fulfilled in multiple other realms.…
-
-### Book review: Johan FM Swinnen (ed.), The Economics of Beer
-**年份**: 2012 | **DOI**: [10.1177/0950017012465786](https://doi.org/10.1177/0950017012465786)
-**作者**: Bednarek, Antje
-**摘要**: （暂无）
-
-### Book review: M Ramesh, Eduardo Araral and Xun Wu (eds), Reasserting the Public in Public Services: New Public Management Reforms
-**年份**: 2012 | **DOI**: [10.1177/0950017012465785](https://doi.org/10.1177/0950017012465785)
-**作者**: Bennett, Hayley
-**摘要**: （暂无）
-
-### Editorial: Book review symposium
-**年份**: 2012 | **DOI**: [10.1177/0950017012453543](https://doi.org/10.1177/0950017012453543)
-**作者**: Tomlinson, Jennifer
-**摘要**: （暂无）
-
-### Book review: Keith Townsend and Adrian Wilkinson (eds), Research Handbook on the Future of Work and Employment Relations
-**年份**: 2012 | **DOI**: [10.1177/0950017012451637](https://doi.org/10.1177/0950017012451637)
-**作者**: Risak, Martin
-**摘要**: （暂无）
 
 ### Women’s equality in the Scandinavian academy: a distant dream?
 **年份**: 2012 | **DOI**: [10.1177/0950017011432918](https://doi.org/10.1177/0950017011432918)
@@ -3643,40 +2558,10 @@
 **作者**: Carter, Bob; Stevenson, Howard
 **摘要**: Early attempts to examine the labour process of teaching concentrated on the processes of de-skilling and proletarianization and were largely ignored. Subsequent attempts to amend the approach have had similarly limited impact.…
 
-### Book review response: Guy Standing, The Precariat: The New Dangerous Class
-**年份**: 2012 | **DOI**: [10.1177/0950017012448226](https://doi.org/10.1177/0950017012448226)
-**作者**: Standing, Guy
-**摘要**: （暂无）
-
 ### Ethnic penalties in graduate level over-education, unemployment and wages: evidence from Britain
 **年份**: 2012 | **DOI**: [10.1177/0950017012458021](https://doi.org/10.1177/0950017012458021)
 **作者**: Rafferty, Anthony
 **摘要**: Although access to higher education has helped many minority ethnic men and women improve their labour market position compared to prior generations or the less qualified, it remains unclear to what extent higher level qualifications facilitate an equalization of labour market outcomes with comparab…
-
-### Book review: Anita Ilta Garey and Karen V Hansen (eds), At the Heart of Work and Family: Engaging the Ideas of Arlie Hochschild
-**年份**: 2012 | **DOI**: [10.1177/0950017011426318](https://doi.org/10.1177/0950017011426318)
-**作者**: Gregory, Sheree
-**摘要**: （暂无）
-
-### Book review: Joergen Oerstroem Moeller, How Asia Can Shape the World: From the Era of Plenty to the Era of Scarcities
-**年份**: 2012 | **DOI**: [10.1177/0950017012458026](https://doi.org/10.1177/0950017012458026)
-**作者**: Hickey, Will
-**摘要**: （暂无）
-
-### Book review: Jacqueline Scott, Rosemary Crompton and Clare Lyonette (eds), Gender Inequalities in the 21st Century: New Barriers and Continuing Constraints
-**年份**: 2012 | **DOI**: [10.1177/0950017011432911](https://doi.org/10.1177/0950017011432911)
-**作者**: Wright, Tessa
-**摘要**: （暂无）
-
-### Joint book review
-**年份**: 2012 | **DOI**: [10.1177/0950017011426308](https://doi.org/10.1177/0950017011426308)
-**作者**: Gotcheva, Nadezhda
-**摘要**: （暂无）
-
-### Book review: Jon C Messenger and Naj Ghosheh (eds), Offshoring and Working Conditions in Remote Work
-**年份**: 2012 | **DOI**: [10.1177/0950017011426311](https://doi.org/10.1177/0950017011426311)
-**作者**: Rainnie, Al
-**摘要**: （暂无）
 
 ### An analysis of the impact of the 2008–9 recession on the provision of training in the UK
 **年份**: 2012 | **DOI**: [10.1177/0950017012458016](https://doi.org/10.1177/0950017012458016)
@@ -3721,11 +2606,6 @@
 **年份**: 2012 | **DOI**: [10.1177/0950017011432919](https://doi.org/10.1177/0950017011432919)
 **作者**: Coulson, Susan
 **摘要**: Recent interest in ‘creative’ work practices has been brought about by organizational restructuring and the emergence of the creative industries as an economic power. Drawing on research with musicians in the North East of England, this article explores musicians’ understandings of their working liv…
-
-### Book review: HP Blossfeld, S Bucholz and K Kurz (eds), Aging Populations, Globalization and the Labor Market
-**年份**: 2012 | **DOI**: [10.1177/0950017012451636](https://doi.org/10.1177/0950017012451636)
-**作者**: Carmichael, Fiona
-**摘要**: （暂无）
 
 ### Samantha Velluti, New Governance and the European Employment Strategy and Stella Vettori (ed.), Ageing Populations and Changing Labour Markets: Social and Economic Impacts of the Demographic Time Bomb
 **年份**: 2012 | **DOI**: [10.1177/0950017011432915](https://doi.org/10.1177/0950017011432915)
@@ -3772,11 +2652,6 @@
 **作者**: Truss, Catherine; Conway, Edel; d’Amato, Alessia 等7人
 **摘要**: Knowledge-intensive firms (KIFs) have been the subject of growing interest from researchers. However, investigations into the comparative experiences of men and women in KIFs remain sparse, and little is known about women’s participation in the processes of innovation and knowledge exchange and comb…
 
-### Book review symposium: Guy Standing, The Precariat: The New Dangerous Class, reviewed by Arne Kalleberg
-**年份**: 2012 | **DOI**: [10.1177/0950017012445107](https://doi.org/10.1177/0950017012445107)
-**作者**: Kalleberg, Arne L
-**摘要**: （暂无）
-
 ### The Warwick School of Industrial Relations
 **年份**: 2012 | **DOI**: [10.1177/0950017012451640](https://doi.org/10.1177/0950017012451640)
 **作者**: Ackers, Peter
@@ -3796,26 +2671,6 @@
 **年份**: 2012 | **DOI**: [10.1177/0950017011426302](https://doi.org/10.1177/0950017011426302)
 **作者**: Heery, Edmund; Williams, Steve; Abbott, Brian
 **摘要**: Sociologists of labour have explored the relationship of trade unions to other social movements and the conditions that allow ‘coalitions across the class divide’ to be formed. This article examines this question by presenting evidence on the interaction between trade unions and other civil society …
-
-### Book review: David Gaunlett, Making is Connecting: The Social Meaning of Creativity from DIY and Knitting to YouTube and Web 2.0
-**年份**: 2012 | **DOI**: [10.1177/0950017012465787](https://doi.org/10.1177/0950017012465787)
-**作者**: Tedder, Victoria
-**摘要**: （暂无）
-
-### Book review: Irena Grugulis and Ödül Bozkurt (eds), Retail Work
-**年份**: 2012 | **DOI**: [10.1177/0950017012451638](https://doi.org/10.1177/0950017012451638)
-**作者**: Brook, Paul
-**摘要**: （暂无）
-
-### Book review: Michael W Kramer, Organizational Socialization: Joining and Leaving Organizations
-**年份**: 2012 | **DOI**: [10.1177/0950017011432908](https://doi.org/10.1177/0950017011432908)
-**作者**: Hewapathirana, Gertrude Iranganie
-**摘要**: （暂无）
-
-### Book review: Neal E Chalofsky, Meaningful Workplaces: Reframing How and Where We Work
-**年份**: 2012 | **DOI**: [10.1177/0950017012438582](https://doi.org/10.1177/0950017012438582)
-**作者**: Munn, Sunny L
-**摘要**: （暂无）
 
 ### Individual employment rights and the renewal of economic citizenship: lessons from the Rights Commissioners in Ireland
 **年份**: 2012 | **DOI**: [10.1177/0950017012445092](https://doi.org/10.1177/0950017012445092)
@@ -3837,16 +2692,6 @@
 **作者**: Dean, Deborah
 **摘要**: There has been little research on the entertainment industry trade union Equity, one of the few longstanding examples of a union that organizes contingent workers as core members. An explanation for this is considered to be the perception of acting as not ‘real’ work.…
 
-### Book review: Erin Hatton, The Temp Economy: From Kelly Girls to Permatemps in Postwar America
-**年份**: 2012 | **DOI**: [10.1177/0950017012451639](https://doi.org/10.1177/0950017012451639)
-**作者**: Kandlik Eltanani, Mor
-**摘要**: （暂无）
-
-### Book review: Jane L Collins and Victoria Mayer, Both Hands Tied: Welfare Reform and the Race to the Bottom of the Low-Wage Labor Market
-**年份**: 2012 | **DOI**: [10.1177/0950017011426315](https://doi.org/10.1177/0950017011426315)
-**作者**: Burrows, Scott
-**摘要**: （暂无）
-
 ### Books for review
 **年份**: 2012 | **DOI**: [10.1177/0950017012459828](https://doi.org/10.1177/0950017012459828)
 **摘要**: （暂无）
@@ -3855,26 +2700,6 @@
 **年份**: 2012 | **DOI**: [10.1177/0950017012445095](https://doi.org/10.1177/0950017012445095)
 **作者**: Brynin, Malcolm; Güveli, Ayse
 **摘要**: The pay gap between white British workers and other ethnic groups is largely in favour of whites, which suggests that discrimination might be a factor. However, discrimination can occur at two points, at entry to the job and within the job.…
-
-### Joint book review
-**年份**: 2012 | **DOI**: [10.1177/0950017011426305](https://doi.org/10.1177/0950017011426305)
-**作者**: Connolly, Heather
-**摘要**: （暂无）
-
-### Book review symposium: Guy Standing, The Precariat: The New Dangerous Class, reviewed by David Spencer
-**年份**: 2012 | **DOI**: [10.1177/0950017012445094](https://doi.org/10.1177/0950017012445094)
-**作者**: Spencer, David A
-**摘要**: （暂无）
-
-### Book review: Robert A Brooks Cheaper by the Hour: Temporary Lawyers and the Deprofessionalization of the Law
-**年份**: 2012 | **DOI**: [10.1177/0950017012458017](https://doi.org/10.1177/0950017012458017)
-**作者**: Kuruvilla, Sarosh
-**摘要**: （暂无）
-
-### Book review: Shireen Ally, From Servants to Workers: South African Domestic Workers and the Democratic State
-**年份**: 2012 | **DOI**: [10.1177/0950017012438583](https://doi.org/10.1177/0950017012438583)
-**作者**: Dwyer, Peter
-**摘要**: （暂无）
 
 ### Working in large food retailers in France and the USA: the key role of institutions
 **年份**: 2012 | **DOI**: [10.1177/0950017012445105](https://doi.org/10.1177/0950017012445105)
@@ -3886,25 +2711,10 @@
 **作者**: Williams, Colin C; Nadin, Sara
 **摘要**: For much of the previous century, the informal sector was largely represented as a residue of a previous mode of production confined to marginal populations and gradually disappearing due to the inevitable and natural shift towards the formal economy across the globe.…
 
-### Book review: L Susan Williams and Michelle Bemiller, Women at Work: Tupperware, Passion Parties and Beyond
-**年份**: 2012 | **DOI**: [10.1177/0950017011426316](https://doi.org/10.1177/0950017011426316)
-**作者**: Watts, Jacqueline H
-**摘要**: （暂无）
-
 ### Housework conflict and divorce: a multi-level analysis
 **年份**: 2012 | **DOI**: [10.1177/0950017012445106](https://doi.org/10.1177/0950017012445106)
 **作者**: Ruppanner, Leah
 **摘要**: Macro-level measures of divorce have important consequences on individual-level housework dynamics. Previous research has focused on the relationship between access to divorce at the country level and divisions of housework at the individual level.…
-
-### Book review: Chris Harman, Zombie Capitalism: Global Crisis and the Relevance of Marx
-**年份**: 2012 | **DOI**: [10.1177/0950017011426317](https://doi.org/10.1177/0950017011426317)
-**作者**: Upchurch, Martin
-**摘要**: （暂无）
-
-### Book review: Mats Alvesson, Todd Bridgman and Hugh Willmott (eds), Oxford Handbook of Critical Management Studies
-**年份**: 2012 | **DOI**: [10.1177/0950017012458019](https://doi.org/10.1177/0950017012458019)
-**作者**: Hodson, Randy
-**摘要**: （暂无）
 
 ### Financial stress and the long-term outcomes of job loss
 **年份**: 2012 | **DOI**: [10.1177/0950017011426307](https://doi.org/10.1177/0950017011426307)
@@ -3940,11 +2750,6 @@
 **年份**: 2011 | **DOI**: [10.1177/0950017011407965a](https://doi.org/10.1177/0950017011407965a)
 **摘要**: （暂无）
 
-### Book review: Community Unionism: A Comparative Analysis of Concepts and Contexts
-**年份**: 2011 | **DOI**: [10.1177/0950017010389231c](https://doi.org/10.1177/0950017010389231c)
-**作者**: Roper, Ian
-**摘要**: （暂无）
-
 ### Do employability skills really matter in the UK graduate labour market? The case of business and management graduates
 **年份**: 2011 | **DOI**: [10.1177/0950017010389244](https://doi.org/10.1177/0950017010389244)
 **作者**: Wilton, Nick
@@ -3965,11 +2770,6 @@
 **作者**: Spencer, David A.
 **摘要**: This article seeks to critique and transcend the economics of personnel, a new and fast growing area of mainstream labour economics that focuses upon the study of human resources issues.…
 
-### Joint book review
-**年份**: 2011 | **DOI**: [10.1177/0950017011398888](https://doi.org/10.1177/0950017011398888)
-**作者**: Cuzzocrea, Valentina
-**摘要**: （暂无）
-
 ### In search of the perfect manager? Work-life balance and managerial work
 **年份**: 2011 | **DOI**: [10.1177/0950017011398895](https://doi.org/10.1177/0950017011398895)
 **作者**: Ford, Jackie; Collinson, David
@@ -3979,11 +2779,6 @@
 **年份**: 2011 | **DOI**: [10.1177/0950017011407975](https://doi.org/10.1177/0950017011407975)
 **作者**: Lee, Yu-Hao; Lin, Holin
 **摘要**: Developments in personal information communication technology (ICT) are facilitating opportunities for turning internet-based hobbies into self-employed occupations. Real income can be earned by trading virtual objects and currencies used in massively multiplayer online games – a form of economic ac…
-
-### Book review: Maurizio Atzeni, Workplace Conflict: Mobilization and Solidarity in Argentina
-**年份**: 2011 | **DOI**: [10.1177/0950017011419713](https://doi.org/10.1177/0950017011419713)
-**作者**: Rodriguez, Jenny K
-**摘要**: （暂无）
 
 ### Books For Review
 **年份**: 2011 | **DOI**: [10.1177/095001701038923i](https://doi.org/10.1177/095001701038923i)
@@ -3998,11 +2793,6 @@
 **年份**: 2011 | **DOI**: [10.1177/0950017011407962](https://doi.org/10.1177/0950017011407962)
 **作者**: Ciupijus, Zinovijus
 **摘要**: Since European Union (EU) enlargement in 2004, over a million mobile central eastern Europeans (CEEs) have found employment in Britain. This unprecedented wave of labour mobility could be interpreted equally as labour migration and as an exercise of the right of freedom of movement extended by EU ci…
-
-### Book review: C. Solera, Women in and out of Paid Work: Changes across Generations in Italy and Britain
-**年份**: 2011 | **DOI**: [10.1177/0950017011419709](https://doi.org/10.1177/0950017011419709)
-**作者**: Edgell, Stephen
-**摘要**: （暂无）
 
 ### Managing uncertainty: the crisis, its consequences and the global workforce
 **年份**: 2011 | **DOI**: [10.1177/0950017011421714](https://doi.org/10.1177/0950017011421714)
@@ -4029,26 +2819,6 @@
 **作者**: Stuart, Mark; Grugulis, Irena; Forde, Chris 等6人
 **摘要**: （暂无）
 
-### Book review: Ethical Socialism and the Trade Unions: Allan Flanders and British Industrial Relations Reform
-**年份**: 2011 | **DOI**: [10.1177/0950017011398899](https://doi.org/10.1177/0950017011398899)
-**作者**: Voskeritsian, Horen
-**摘要**: （暂无）
-
-### Book review: Leah F Vosko, Managing the Margins: Gender, Citizenship, and the International Regulation of Precarious Employment
-**年份**: 2011 | **DOI**: [10.1177/0950017011419719](https://doi.org/10.1177/0950017011419719)
-**作者**: Mirchandani, Kiran
-**摘要**: （暂无）
-
-### Book review: Working Bodies: Interactive Service Employment and Workplace Identities
-**年份**: 2011 | **DOI**: [10.1177/0950017010389231g](https://doi.org/10.1177/0950017010389231g)
-**作者**: Lugosi, Peter
-**摘要**: （暂无）
-
-### Joint book review
-**年份**: 2011 | **DOI**: [10.1177/0950017011419714](https://doi.org/10.1177/0950017011419714)
-**作者**: Chen, Yen-Chun
-**摘要**: （暂无）
-
 ### Assessing the impact of Union Learning Representatives on training: evidence from a matched sample of ULRs and managers
 **年份**: 2011 | **DOI**: [10.1177/0950017011398889](https://doi.org/10.1177/0950017011398889)
 **作者**: Hoque, Kim; Bacon, Nicolas
@@ -4068,16 +2838,6 @@
 **年份**: 2011 | **DOI**: [10.1177/0950017010389231i](https://doi.org/10.1177/0950017010389231i)
 **摘要**: （暂无）
 
-### Book review: Workplace Flexibility: Realigning 20th-Century Jobs for a 21st-Century Workforce
-**年份**: 2011 | **DOI**: [10.1177/0950017011398898](https://doi.org/10.1177/0950017011398898)
-**作者**: Yeow, Jillian
-**摘要**: （暂无）
-
-### Book Review: One Company, Diverse Workplaces: The Social Construction of Employment Practices in Western and Eastern Europe
-**年份**: 2011 | **DOI**: [10.1177/0950017011407965](https://doi.org/10.1177/0950017011407965)
-**作者**: Mrozowicki, Adam
-**摘要**: （暂无）
-
 ### Books for review
 **年份**: 2011 | **DOI**: [10.1177/0950017011403846a](https://doi.org/10.1177/0950017011403846a)
 **摘要**: （暂无）
@@ -4086,16 +2846,6 @@
 **年份**: 2011 | **DOI**: [10.1177/0950017011419706](https://doi.org/10.1177/0950017011419706)
 **作者**: McBride, Jo; Lucio, Miguel Martínez
 **摘要**: This essay argues that the notion of there being a decline in collectivism does not adequately engage with a whole new set of initiatives within labour process theory on collectivism in its various forms.…
-
-### Book review: Business in Society: People, Work and Organizations
-**年份**: 2011 | **DOI**: [10.1177/0950017011398897](https://doi.org/10.1177/0950017011398897)
-**作者**: Glover, Ian
-**摘要**: （暂无）
-
-### Book review: Accountants’ Truth: Knowledge and Ethics in the Financial World
-**年份**: 2011 | **DOI**: [10.1177/0950017010389234](https://doi.org/10.1177/0950017010389234)
-**作者**: Pitluck, Aaron Z.
-**摘要**: （暂无）
 
 ### Flourishing lives: the capabilities approach as a framework for new thinking about employment, work and welfare in the 21st century
 **年份**: 2011 | **DOI**: [10.1177/0950017011403848](https://doi.org/10.1177/0950017011403848)
@@ -4117,16 +2867,6 @@
 **作者**: McDonald, Paula; Pini, Barbara; Bailey, Janis 等4人
 **摘要**: Young people are arguably facing more ‘complex and contested’ transitions to adulthood and an increasing array of ‘non-linear’ paths. Education and training have been extended, identity is increasingly shaped through leisure and consumerism and youth must navigate their life trajectories in highly i…
 
-### Joint book review
-**年份**: 2011 | **DOI**: [10.1177/0950017011407964](https://doi.org/10.1177/0950017011407964)
-**作者**: Beauregard, T. Alexandra
-**摘要**: （暂无）
-
-### Book review: Beyond Skill: Institutions, Organisations and Human Capability
-**年份**: 2011 | **DOI**: [10.1177/0950017011403847](https://doi.org/10.1177/0950017011403847)
-**作者**: Stoyanova, Dimitrinka
-**摘要**: （暂无）
-
 ### Measuring discrimination facing ethnic minority job applicants: an Irish experiment
 **年份**: 2011 | **DOI**: [10.1177/0950017011419722](https://doi.org/10.1177/0950017011419722)
 **作者**: McGinnity, Frances; Lunn, Peter D.
@@ -4142,40 +2882,15 @@
 **作者**: Craig, Lyn; Powell, Abigail
 **摘要**: What effect do non-standard work schedules have on how parents of young children can meet the combined and growing demands of work and family? This article uses the Australian Bureau of Statistics Time Use Survey 2006 to explore the relationship between parents’ non-standard work hours, and the time…
 
-### Book review: Developing Women Leaders: A Guide for Men and Women in Organizations
-**年份**: 2011 | **DOI**: [10.1177/0950017010389231e](https://doi.org/10.1177/0950017010389231e)
-**作者**: Grosvold, Johanne
-**摘要**: （暂无）
-
-### Book review: Laid-Off Workers in a Workers’ State: Unemployment with Chinese Characteristics
-**年份**: 2011 | **DOI**: [10.1177/0950017010389234a](https://doi.org/10.1177/0950017010389234a)
-**作者**: Umney, Charles
-**摘要**: （暂无）
-
 ### Beyond interaction
 **年份**: 2011 | **DOI**: [10.1177/0950017010389240](https://doi.org/10.1177/0950017010389240)
 **作者**: Sherman, Rachel
 **摘要**: The literature on the role of customers in service work has neglected work that does not involve significant face-to-face interaction, assuming it to be distant from customer influence and thus highly routinisable.…
 
-### Book review: Vocational Training: International Perspectives
-**年份**: 2011 | **DOI**: [10.1177/0950017010389231](https://doi.org/10.1177/0950017010389231)
-**作者**: Stuart, Mark
-**摘要**: （暂无）
-
-### Book review: Barbara Sieben and Åsa Wettergren (eds), Emotionalizing Organizations and Organizing Emotions
-**年份**: 2011 | **DOI**: [10.1177/0950017011419720](https://doi.org/10.1177/0950017011419720)
-**作者**: Brook, Paul
-**摘要**: （暂无）
-
 ### Europe and the economic crisis: forms of labour market adjustment and varieties of capitalism
 **年份**: 2011 | **DOI**: [10.1177/0950017011419717](https://doi.org/10.1177/0950017011419717)
 **作者**: Lallement, Michel
 **摘要**: The economic crisis that beset Europe in 2007 had a considerable impact on employment. Since 2008, unemployment has increased throughout Europe, but adjustment mechanisms affecting the labour market have varied from one country to another.…
-
-### Book review: Human Resource Management: A Critical Approach
-**年份**: 2011 | **DOI**: [10.1177/0950017010389231f](https://doi.org/10.1177/0950017010389231f)
-**作者**: Siegele, Lisa
-**摘要**: （暂无）
 
 ### Collective narratives and politics in the contemporary study of work: the new management practices debate
 **年份**: 2011 | **DOI**: [10.1177/0950017011398890](https://doi.org/10.1177/0950017011398890)
@@ -4186,11 +2901,6 @@
 **年份**: 2011 | **DOI**: [10.1177/0950017011419705](https://doi.org/10.1177/0950017011419705)
 **作者**: Baranowska, Anna; Gebel, Michael; Kotowska, Irena E
 **摘要**: Poland has become an interesting outlier in Europe in terms of employment flexibility, with an extremely high incidence of fixed-term contracts, particularly at labour market entry. In this article, detailed retrospective data from the Polish School Leavers Survey are used to analyse the dynamics of…
-
-### Book review: Steven P Vallas, William Finlay and Amy S Wharton, The Sociology of Work: Structures and Inequalities
-**年份**: 2011 | **DOI**: [10.1177/0950017011419715](https://doi.org/10.1177/0950017011419715)
-**作者**: Fritz, Martin
-**摘要**: （暂无）
 
 ### Identity on the line: constructing professional identity in a HR call centre
 **年份**: 2011 | **DOI**: [10.1177/0950017011407970](https://doi.org/10.1177/0950017011407970)
@@ -4207,31 +2917,6 @@
 **作者**: Grugulis, Irena; Stoyanova, Dimitrinka
 **摘要**: Learning at, and through, work is a key part of the skills literature. However, the idea and ideal of the ‘community of practice’ assumes that workplaces are coherent communities where the skilful are available for novices to consult and observe. This is not always the case.…
 
-### Book review: Sustainable Prosperity in the New Economy? Business Organization and High-Tech Employment in the USA
-**年份**: 2011 | **DOI**: [10.1177/0950017010389231a](https://doi.org/10.1177/0950017010389231a)
-**作者**: Pawlik, Aleksandra
-**摘要**: （暂无）
-
-### Book review: Working Life: Renewing Labour Process Analysis
-**年份**: 2011 | **DOI**: [10.1177/0950017011403846](https://doi.org/10.1177/0950017011403846)
-**作者**: Vidal, Matt
-**摘要**: （暂无）
-
-### Joint book review
-**年份**: 2011 | **DOI**: [10.1177/0950017011419724](https://doi.org/10.1177/0950017011419724)
-**作者**: Hodson, Randy
-**摘要**: （暂无）
-
-### Book review: The Management of Meaning in Organizations
-**年份**: 2011 | **DOI**: [10.1177/0950017010389231d](https://doi.org/10.1177/0950017010389231d)
-**作者**: Murray, William C.
-**摘要**: （暂无）
-
-### Book review: Power in Coalition: Strategies for Strong Unions and Social Change
-**年份**: 2011 | **DOI**: [10.1177/0950017010389231b](https://doi.org/10.1177/0950017010389231b)
-**作者**: Holgate, Jane
-**摘要**: （暂无）
-
 ### The impact of the economic crisis on international migration: a review
 **年份**: 2011 | **DOI**: [10.1177/0950017011421799](https://doi.org/10.1177/0950017011421799)
 **作者**: Tilly, Chris
@@ -4241,11 +2926,6 @@
 **年份**: 2011 | **DOI**: [10.1177/0950017010389239](https://doi.org/10.1177/0950017010389239)
 **作者**: Donaghey, Jimmy; Cullinane, Niall; Dundon, Tony 等4人
 **摘要**: A growing literature has emerged on employee silence, located within the field of organisational behaviour. Scholars have investigated when and how employees articulate voice and when and how they will opt for silence.…
-
-### Book Review: Gerhard Bosch and Jean Charest (eds) Vocational Training: International Perspectives Abingdon: Routledge, 2009, 100.00 hbk, (ISBN: 9780415467216), 308 pp
-**年份**: 2011 | **DOI**: [10.1177/0950017010389231h](https://doi.org/10.1177/0950017010389231h)
-**作者**: Stuart, M.
-**摘要**: （暂无）
 
 ### A matter of culture and cost? A comparison of the employment decisions made by mothers with a lower, intermediate and higher level of education in the Netherlands
 **年份**: 2011 | **DOI**: [10.1177/0950017011407963](https://doi.org/10.1177/0950017011407963)
@@ -4282,21 +2962,6 @@
 **作者**: Bergman, Ann; Karlsson, Jan Ch.
 **摘要**: （暂无）
 
-### Book review: Keith Sisson, Employment Relations Matters
-**年份**: 2011 | **DOI**: [10.1177/0950017011419716](https://doi.org/10.1177/0950017011419716)
-**作者**: Kelly, John
-**摘要**: （暂无）
-
-### Book review: Social Theory in the Twentieth Century and Beyond
-**年份**: 2011 | **DOI**: [10.1177/0950017011398900](https://doi.org/10.1177/0950017011398900)
-**作者**: Eikhof, Doris Ruth
-**摘要**: （暂无）
-
-### Book Review: Up in the Air: How Airlines Improve Performance by Engaging their Employees
-**年份**: 2011 | **DOI**: [10.1177/0950017011407967](https://doi.org/10.1177/0950017011407967)
-**作者**: Lucio, Miguel Martinez
-**摘要**: （暂无）
-
 ### ‘We both need to work’
 **年份**: 2011 | **DOI**: [10.1177/0950017010389243](https://doi.org/10.1177/0950017010389243)
 **作者**: Lyonette, Clare; Kaufman, Gayle; Crompton, Rosemary
@@ -4327,11 +2992,6 @@
 **作者**: Pas, Berber; Peters, Pascale; Eisinga, Rob 等5人
 **摘要**: The gender imbalance in senior medical positions is often attributed to an alleged lack of motivation on the part of female doctors, especially those with young children. Some researchers argue that an unsupportive work-home culture in the medical workplace also plays a role.…
 
-### Book review: A Wilkinson, P Gollan, M Marchington and D Lewin, The Oxford Handbook of Participation in Organizations
-**年份**: 2011 | **DOI**: [10.1177/0950017011419712](https://doi.org/10.1177/0950017011419712)
-**作者**: Royle, Tony
-**摘要**: （暂无）
-
 ### ‘White knuckle care work’: violence, gender and new public management in the voluntary sector
 **年份**: 2011 | **DOI**: [10.1177/0950017011419710](https://doi.org/10.1177/0950017011419710)
 **作者**: Baines, Donna; Cunningham, Ian
@@ -4352,35 +3012,10 @@
 **作者**: Jenkins, Sarah; Delbridge, Rick; Roberts, Ashley
 **摘要**: Researchers have demonstrated the variety of interactive service sector work yet relatively little research has focused on the middle ground of ‘mass customised service work’. In particular, the complex character of emotional work in such workplaces remains under investigated.…
 
-### Book Review: Alan Felstead, Alison Fuller, Nick Jewson and Lorna Unwin Improving Working as Learning Abingdon: Routledge, 2009, £21.99 pbk, (ISBN: 9780415496469), 248 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240041305](https://doi.org/10.1177/09500170100240041305)
-**作者**: Parker, Gordon
-**摘要**: （暂无）
-
-### Book Review: Elisabeth Kelan Performing Gender at Work Basingstoke: Palgrave Macmillan, 2009, £60.00 hbk, (ISBN: 9780230577817), 253 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240041302](https://doi.org/10.1177/09500170100240041302)
-**作者**: Watts, Jacqueline H
-**摘要**: （暂无）
-
-### Book Review: Chris Rowley and Vimolwan Yukongdi (eds) The Changing Face of Women Managers in Asia London: Routledge, 2008, £30.99 pbk, (ISBN: 9780415437677), xxii + 264 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240031207](https://doi.org/10.1177/09500170100240031207)
-**作者**: Al Ariss, Akram
-**摘要**: （暂无）
-
 ### Remembering Mike Rose
 **年份**: 2010 | **DOI**: [10.1177/0950017010371425](https://doi.org/10.1177/0950017010371425)
 **作者**: Gallie, Duncan
 **摘要**: With Mike Rose's death, British economic sociology has lost one of its most knowledgeable and loveable characters. Mike had a mastery of the history and literature of the discipline that few could rival not only of Anglo-Saxon research but also of the French tradition of 'sociologie du travail'.…
-
-### Book Review: Patrick Reedy The Manager’s Tale: Stories of Managerial Identity Farnham: Ashgate, 2009, £55.00 hbk, no price stated pbk, (ISBN: 9780754646648) vi + 194 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240021504](https://doi.org/10.1177/09500170100240021504)
-**作者**: Chandler, John
-**摘要**: （暂无）
-
-### E-specials editorial and call for tenders
-**年份**: 2010 | **DOI**: [10.1177/0950017010361423](https://doi.org/10.1177/0950017010361423)
-**作者**: Taylor, Phil; Warhurst, Chris; Thompson, Paul 等4人
-**摘要**: （暂无）
 
 ### Parenthood, policy and work-family time in Australia 1992—2006
 **年份**: 2010 | **DOI**: [10.1177/0950017009353778](https://doi.org/10.1177/0950017009353778)
@@ -4392,16 +3027,6 @@
 **作者**: Bartram, David
 **摘要**: Sociologists, when offering suggestions for policy arising from their empirical research, typically do not provide explicit reflection on the values or interests such ‘policy implications’ are meant to advance.…
 
-### Book Review Essay: The uncertain destiny of an incomplete revolution
-**年份**: 2010 | **DOI**: [10.1177/0950017010371660](https://doi.org/10.1177/0950017010371660)
-**作者**: Bolzonaro, Fabio
-**摘要**: （暂无）
-
-### Book Review: Bill Fletcher and Fernando Gaspin Solidarity Divided: The Crisis in Organized Labour and a New Path Toward Social Justice Chichester: Wiley, 2008, £14.95 hbk, (ISBN: 978-0-5202-5525-8), 304 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240011208](https://doi.org/10.1177/09500170100240011208)
-**作者**: Bolzonaro, Fabio
-**摘要**: （暂无）
-
 ### Organising for what? Where is the debate on the politics of organising?
 **年份**: 2010 | **DOI**: [10.1177/0950017010361413](https://doi.org/10.1177/0950017010361413)
 **作者**: Simms, Melanie; Holgate, Jane
@@ -4412,29 +3037,9 @@
 **作者**: Konietzka, Dirk; Kreyenfeld, Michaela
 **摘要**: This article investigates whether the increase in the labour force participation of mothers in western Germany has been accompanied by growing social inequalities in maternal employment.…
 
-### Book Review: Suzan Lewis, Julia Brannen and Ann Nilsen (eds) Work, Families and Organisations in Transition: European Perspectives Bristol: Policy Press, 2009, £65.00 hbk, (ISBN: 9781847422200), x + 214 pp
-**年份**: 2010 | **DOI**: [10.1177/0950017010371661](https://doi.org/10.1177/0950017010371661)
-**作者**: Kelliher, Clare
-**摘要**: （暂无）
-
 ### Joint Review: M. Banks The Politics of Cultural Work Basingstoke: Palgrave Macmillan, 2007, £45.00 hbk, (ISBN: 978-0-1300-1921-8), vii + 228pp. J.T. Caldwell Production Culture: Industrial Reflexivity and Critical Practice in Film and Television Durham, NC: Duke University Press, 2008, £13.99 pbk, (ISBN: 978-0-8223-4111-6), vii + 445pp
 **年份**: 2010 | **DOI**: [10.1177/0950017009353665](https://doi.org/10.1177/0950017009353665)
 **作者**: Greenman, Andrew
-**摘要**: （暂无）
-
-### Book Review: Geraint Harvey Management in the Airline Industry Oxford: Routledge, 2007, £65.00 hbk (ISBN: 978-0-4153-9078-1), xv + 176 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240011203](https://doi.org/10.1177/09500170100240011203)
-**作者**: Child, Sue
-**摘要**: （暂无）
-
-### Book Review: Paul Adler (ed.) The Oxford Handbook of Sociology and Organization Studies: Classical Foundations Oxford: Oxford University Press, 2009, £85.00 hbk, (ISBN: 9780199535231) 679 pp
-**年份**: 2010 | **DOI**: [10.1177/0950017010362851](https://doi.org/10.1177/0950017010362851)
-**作者**: Bolton, Sharon
-**摘要**: （暂无）
-
-### Book Review: D. Hugh Whittaker Comparative Entrepreneurship: The UK, Japan, and the Shadow of Silicon Valley Oxford: Oxford University Press, 2009, £45.00 hbk, no price stated pbk, (ISBN: 9780199563661), ix + 209 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240021505](https://doi.org/10.1177/09500170100240021505)
-**作者**: Pawlik, Aleksandra
 **摘要**: （暂无）
 
 ### The shackled runner: time to rethink positive discrimination?
@@ -4442,20 +3047,10 @@
 **作者**: Noon, Mike
 **摘要**: This article argues a case for reconsidering positive discrimination as a viable and necessary policy intervention to speed up the progression to equality in the workplace. It provides counter-arguments to the four main objections to positive discrimination: the failure to select the ‘best’ candidat…
 
-### Book Review Essay: Active citizenship and work: what and where is the strategic vision?
-**年份**: 2010 | **DOI**: [10.1177/0950017010380632](https://doi.org/10.1177/0950017010380632)
-**作者**: Ketelaar, Grainne
-**摘要**: （暂无）
-
 ### Early career consequences of temporary employment in Germany and the UK
 **年份**: 2010 | **DOI**: [10.1177/0950017010380645](https://doi.org/10.1177/0950017010380645)
 **作者**: Gebel, Michael
 **摘要**: This article investigates the effects of temporary employment at labour market entry on subsequent individual careers, drawing on data from the British Household Panel Study (BHPS) and the German Socio-Economic Panel (GSOEP) from the period 1991 to 2007.…
-
-### Book Review: Martin Upchurch, Graham Taylor and Andrew Mathers The Crisis of Social Democratic Trade Unionism in Western Europe: The Search for Alternatives Aldershot: Ashgate, 2009, £55.00 hbk, (ISBN: 9780754670537), 244 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240031202](https://doi.org/10.1177/09500170100240031202)
-**作者**: Grady, Jo
-**摘要**: （暂无）
 
 ### Books for Review
 **年份**: 2010 | **DOI**: [10.1177/0950017010382958](https://doi.org/10.1177/0950017010382958)
@@ -4465,11 +3060,6 @@
 **年份**: 2010 | **DOI**: [10.1177/0950017009353656](https://doi.org/10.1177/0950017009353656)
 **作者**: Wiborg, Øyvind Nicolay; Møberg, Rasmus Juul
 **摘要**: This study uses comparable Danish and Norwegian administrative registers in the period 1992 to 2003 to examine how social origin affects unemployment risks and social assistance reception over the early life course.…
-
-### Book Review: Edward Granter Critical Social Theory and the End of Work Aldershot: Ashgate, 2009, £55.00 hbk, (ISBN: 9780754676973), vii + 202 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240041308](https://doi.org/10.1177/09500170100240041308)
-**作者**: Frayne, David
-**摘要**: （暂无）
 
 ### The myth of the reflexive worker: class and work histories in neo-liberal times
 **年份**: 2010 | **DOI**: [10.1177/0950017010371659](https://doi.org/10.1177/0950017010371659)
@@ -4486,20 +3076,10 @@
 **作者**: Cohen, Rachel Lara
 **摘要**: This article investigates the relationship between spatial mobility and the labour process, developing a typology of ‘mobile work’. Working while mobile is a largely white-collar (and well researched) phenomenon whereas mobility as work and mobility for work involve more diverse occupations and have…
 
-### Book Review: Royston Greenwood, Christine Oliver, Roy Suddaby and Kerstin Sahlin-Andersson (eds) The SAGE Handbook of Organizational Institutionalism London: Sage, 2008, (ISBN: 978-1-4129-3123-6), 840 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240011205](https://doi.org/10.1177/09500170100240011205)
-**作者**: Bondy, Krista
-**摘要**: （暂无）
-
 ### Moving beyond skills as a social and economic panacea
 **年份**: 2010 | **DOI**: [10.1177/0950017010371663](https://doi.org/10.1177/0950017010371663)
 **作者**: Keep, Ewart; Mayhew, Ken
 **摘要**: This article examines two inter-related issues. First, the tendency for UK skills policies to act as a substitute for other social and economic measures. Second, the problem of current conceptualisations of skills policy creating narrowly-drawn, technicist interventions that are frequently incommens…
-
-### Book Review: Marilyn Hammick, Della Freeth, Danë Goodsman and Jeanette Copperman Being Interprofessional Cambridge: Polity, 2009, £19.99 pbk, (ISBN: 9780745643069), 208 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240031206](https://doi.org/10.1177/09500170100240031206)
-**作者**: Campbell, Shelagh
-**摘要**: （暂无）
 
 ### Banks, bailouts and bonuses: a personal account of working in Halifax Bank of Scotland during the financial crisis
 **年份**: 2010 | **DOI**: [10.1177/0950017010380649](https://doi.org/10.1177/0950017010380649)
@@ -4510,51 +3090,6 @@
 **年份**: 2010 | **DOI**: [10.1177/0950017010371662](https://doi.org/10.1177/0950017010371662)
 **作者**: Dibben, Pauline
 **摘要**: Declining membership levels in industrialised and emerging economies have generated debate about the role and potential impact of trade unions and the most appropriate strategies for union renewal.…
-
-### Book Review: Béla Galgóczi, Janine Leschke and Andrew Watt (eds) EU Labour Migration since Enlargement: Trends, Impacts and Policies Aldershot: Ashgate, 2009, £65.00 hbk, (ISBN: 9780754676843), 336 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240041304](https://doi.org/10.1177/09500170100240041304)
-**作者**: Belyaev, Demyan
-**摘要**: （暂无）
-
-### Book Review: Mark Deuze Media Work: Digital Media and Society Series Cambridge: Polity Press, 2007, £14.99 pbk, (ISBN: 978-0-7456-3925-3), xiii + 278 pp
-**年份**: 2010 | **DOI**: [10.1177/0950017009353654](https://doi.org/10.1177/0950017009353654)
-**作者**: Catacchio, Claudia
-**摘要**: （暂无）
-
-### Book Review: Casper van Ewijk and Michiel van Leuvensteijn (eds) Homeownership and the Labour Market in Europe Oxford, Oxford University Press, 2009, £55.00 hbk (ISBN 9780199543946), 255 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240021506](https://doi.org/10.1177/09500170100240021506)
-**作者**: Walthery, Pierre
-**摘要**: （暂无）
-
-### Book Review: Elizabeth Shove, Frank Trentmann and Richard Wilk (eds) Time, Consumption and Everyday Life: Practice, Materiality and Culture Oxford: Berg, 2009, £57.00 hbk, (ISBN: 9781847883643), 256 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240041307](https://doi.org/10.1177/09500170100240041307)
-**作者**: O'Carroll, Aileen
-**摘要**: （暂无）
-
-### Book Review: Richard Croucher and Elizabeth Cotton Global Unions, Global Business: Global Union Federations and International Business London: Middlesex University Press, 2009, £30.00 hbk, no price stated pbk (ISBN: 9781904750628), 220 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240021507](https://doi.org/10.1177/09500170100240021507)
-**作者**: Belzak, Steve
-**摘要**: （暂无）
-
-### Book Review: Kenneth A. Root and Rosemarie J. Park Forced Out: Older Workers Confront Job Loss Boulder, CO: Lynne Rienner, 2009, $57.98 hbk, (ISBN: 9781935049036), 266 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240031205](https://doi.org/10.1177/09500170100240031205)
-**作者**: Beck, Vanessa
-**摘要**: （暂无）
-
-### Book Review: Dan Coffey and Carole Thornley Globalization and Varieties of Capitalism: New Labour, Economic Policy and the Abject State Basingstoke: Palgrave Macmillan, 2009, £55.00 hbk, (ISBN: 9780230553095), x + 188 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240031204](https://doi.org/10.1177/09500170100240031204)
-**作者**: Martin, Douglas
-**摘要**: （暂无）
-
-### Book Review: David A. Spencer The Political Economy of Work Basingstoke: Routledge, 2008, £60.00 hbk, (ISBN: 978-0-4154-5793-4), xviii + 170 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240011202](https://doi.org/10.1177/09500170100240011202)
-**作者**: Belzak, Steve
-**摘要**: （暂无）
-
-### Book Review: Deborah Howcroft and Helen Richardson (eds) Work and Life in the Global Economy: A Gendered Analysis of Service Work Basingstoke: Palgrave Macmillan, 2010, £60.00 hbk, (ISBN: 9780230580848), xii + 284 pp
-**年份**: 2010 | **DOI**: [10.1177/0950017010380647](https://doi.org/10.1177/0950017010380647)
-**作者**: Mitev, Nathalie
-**摘要**: （暂无）
 
 ### Female part-time managers: networks and career mobility
 **年份**: 2010 | **DOI**: [10.1177/0950017010380631](https://doi.org/10.1177/0950017010380631)
@@ -4576,25 +3111,10 @@
 **作者**: Roper, Juliet; Ganesh, Shiv; Inkson, Kerr
 **摘要**: Decades of critical research have established that economic and political ideologies permeate and shape thought, text and action, and academic knowledge production is no exception. This article examines how ideologies might permeate academic texts, by assessing the reach and influence of neoliberali…
 
-### Book Review: Egil J. Skorstad and Helge Ramsdal (eds) Flexible Organizations and the New Working Life: A European Perspective Farnham: Ashgate, 2009, £60.00 hbk, (ISBN: 9780754674207), xvi + 272 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240031208](https://doi.org/10.1177/09500170100240031208)
-**作者**: Anderson, Deirdre
-**摘要**: （暂无）
-
 ### Leadership and collective action in the Egyptian trade unions
 **年份**: 2010 | **DOI**: [10.1177/0950017010362144](https://doi.org/10.1177/0950017010362144)
 **作者**: Alexander, Anne
 **摘要**: This article explores leadership and collective action in the Egyptian workers’ movement since the 1940s, with a focus on the competition between different models of leadership. It argues that leadership is a dialogical process, and distinguishes between two models of leadership — bureaucratic and d…
-
-### Book Review: Steven A.Y. Poelmans and Paula Caligiuri Harmonizing Work, Family, and Personal Life: From Policy to Practice Cambridge: Cambridge University Press, 2008, (ISBN: 978-0-5218-5869-4), xvii + 305 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240011207](https://doi.org/10.1177/09500170100240011207)
-**作者**: Ketelaar, Grainne
-**摘要**: （暂无）
-
-### Book Review: Paul Stewart, Ken Murphy, Andy Danford, Tony Richardson, Mike Richardson and Vicki Wass We Sell Our Time No More: Workers’ Struggles against Lean Production in the British Car Industry London: Pluto Press, 2009, £16.99 pbk, (ISBN: 9780745328679), xiii + 258 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240031209](https://doi.org/10.1177/09500170100240031209)
-**作者**: Kilmister, Andrew
-**摘要**: （暂无）
 
 ### Worker agency and trade union renewal: the case of Poland
 **年份**: 2010 | **DOI**: [10.1177/0950017010362143](https://doi.org/10.1177/0950017010362143)
@@ -4626,11 +3146,6 @@
 **作者**: Porcellato, Lorna; Carmichael, Fiona; Hulme, Claire 等5人
 **摘要**: This article contributes to the literature on older workers and employment, providing a regional perspective on the relationship between age and work. The study is based on interviews in conjunction with occupational-event calendars with 56 individuals in North West England.…
 
-### Survey errors and survey costs: a response to Timming’s critique of the Survey of Employees Questionnaire in WERS 2004
-**年份**: 2010 | **DOI**: [10.1177/0950017010371647](https://doi.org/10.1177/0950017010371647)
-**作者**: Forth, John; Bewley, Helen; Bryson, Alex 等5人
-**摘要**: A recent article in this journal provided a critique of the design of the Survey of Employees Questionnaire within the 2004 Workplace Employment Relations Survey. The principal criticisms concerned the use of vague response categories, double-barrelled questions, needless ordinal measurements and th…
-
 ### Conflict and repression in an Argentinean car factory: a cycle of resistance from a worker’s perspective
 **年份**: 2010 | **DOI**: [10.1177/0950017010362155](https://doi.org/10.1177/0950017010362155)
 **作者**: Atzeni, Maurizio
@@ -4641,25 +3156,10 @@
 **作者**: Ashley, Louise
 **摘要**: The UK’s elite law firms have recently seen a shift from talking about equality of opportunity alone to the adoption of a diversity discourse as well. This article examines this transition for what it can tell us about the value of diversity strategies as a means for widening access to the corporate…
 
-### Book Review: Lisl Klein The Meaning of Work: Papers on Work Organization and the Design of Jobs London: Karmac Books, 2008, (ISBN: 978-1-8557-5348-8), xix + 315 pp. Lisl Klein Working across the Gap: The Practice of Social Science in Organizations London: Karmac Books, 2005, (ISBN: 978-1-8557-5382-2), xi + 262 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240011209](https://doi.org/10.1177/09500170100240011209)
-**作者**: Brown, William
-**摘要**: （暂无）
-
-### Book Review Essay: Re-Working Studs Terkel
-**年份**: 2010 | **DOI**: [10.1177/0950017010362160](https://doi.org/10.1177/0950017010362160)
-**作者**: Fink, Leon
-**摘要**: （暂无）
-
 ### Labour market structures and women’s employment levels
 **年份**: 2010 | **DOI**: [10.1177/0950017010362142](https://doi.org/10.1177/0950017010362142)
 **作者**: Buchmann, Marlis C.; Kriesi, Irene; Sacchi, Stefan
 **摘要**: With the rise in women’s part-time work in many Western industrialised countries, a better understanding of women’s employment decisions necessitates the distinction between different employment levels and varying structural opportunities that facilitate or hinder female employment.…
-
-### Book Review: Hendrik Meyer-Ohle Japanese Workplaces in Transition: Employee Perceptions Basingstoke: Palgrave MacMillan, 2009, £65.00 hbk, (ISBN: 9780230229389), x + 218 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240041303](https://doi.org/10.1177/09500170100240041303)
-**作者**: Raman, Anuratha
-**摘要**: （暂无）
 
 ### The transition to motherhood and part-time working: mutuality and incongruence in the psychological contracts existing between managers and employees
 **年份**: 2010 | **DOI**: [10.1177/0950017010371648](https://doi.org/10.1177/0950017010371648)
@@ -4671,20 +3171,10 @@
 **作者**: Turner, Thomas
 **摘要**: Recently Ireland experienced rapid economic growth and an inflow of immigrants into the labour force. Using census data this article examines the occupational distribution of immigrants by country of origin and whether immigrants displace native workers from jobs.…
 
-### Book Review: Chris Warhurst, Doris Ruth Eikhof and Axel Haunschild (eds) Work Less, Live More? Critical Analysis of the Work-Life Boundary Basingstoke: Palgrave Macmillan, 2008, £25.99 pbk, (ISBN: 978-0-2305-3560-2), xiii + 231 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240011206](https://doi.org/10.1177/09500170100240011206)
-**作者**: Ortlieb, Renate
-**摘要**: （暂无）
-
 ### ‘Lost in translation’: an analysis of temporary work agency employment in hotels
 **年份**: 2010 | **DOI**: [10.1177/0950017010371652](https://doi.org/10.1177/0950017010371652)
 **作者**: Knox, Angela
 **摘要**: Temporary work continues to stimulate research and debate in many developed countries. This research provides contemporary data on temporary work agency employment in the Australian hotel industry.…
-
-### Book Review: Peter Fleming Authenticity and the Cultural Politics of Work: New Forms of Informal Control Oxford: Oxford University Press, 2009, (ISBN: 9780199547159), 224 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240021502](https://doi.org/10.1177/09500170100240021502)
-**作者**: Paulsen, Roland
-**摘要**: （暂无）
 
 ### Making the connections: bringing skill formation into global value chain analysis
 **年份**: 2010 | **DOI**: [10.1177/0950017010380641](https://doi.org/10.1177/0950017010380641)
@@ -4695,16 +3185,6 @@
 **年份**: 2010 | **DOI**: [10.1177/0950017010371664](https://doi.org/10.1177/0950017010371664)
 **作者**: Hampson, Ian; Junor, Anne
 **摘要**: Service skill definitions have been over-extended, by equating compliance with skill, and underdeveloped, by not recognising service jobs’ invisible social and organisational aspects.…
-
-### Book Review: Simon Bridge, Brendan Murtagh and Ken O'Neill Understanding the Social Economy and the Third Sector Basingstoke: Palgrave Macmillan, 2008, £24.99 pbk, (ISBN: 978-0-2305-1813-1), 320 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240011204](https://doi.org/10.1177/09500170100240011204)
-**作者**: Palazon, Tim
-**摘要**: （暂无）
-
-### Book Review: Kevin Doogan New Capitalism? The Transformation of Work Cambridge: Polity, 2009, £16.99 pbk, (ISBN: 9780754633251), xiii + 234 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240031203](https://doi.org/10.1177/09500170100240031203)
-**作者**: Álvarez-Galván, José-Luis
-**摘要**: （暂无）
 
 ### Organisational restructuring and emerging service value chains: implications for work and employment
 **年份**: 2010 | **DOI**: [10.1177/0950017010380635](https://doi.org/10.1177/0950017010380635)
@@ -4721,11 +3201,6 @@
 **作者**: Sullivan, Richard
 **摘要**: Most labour scholars view the unionised share of the labour market, union density, as the movement’s primary source of power. Conversely, social movement scholars usually consider power embedded in disruption, organisational networks, resources, or political opportunities.…
 
-### Book Review: Alan McKinlay and Chris Smith (eds) Creative Labour: Working in the Creative Industries Basingstoke: Palgrave Macmillan, 2009, £26.99 pbk (ISBN: 9780230222007), xi + 270 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240021503](https://doi.org/10.1177/09500170100240021503)
-**作者**: Brook, Paul
-**摘要**: （暂无）
-
 ### Social capital and wage disadvantages among immigrant workers
 **年份**: 2010 | **DOI**: [10.1177/0950017010380640](https://doi.org/10.1177/0950017010380640)
 **作者**: Behtoui, Alireza; Neergaard, Anders
@@ -4735,16 +3210,6 @@
 **年份**: 2010 | **DOI**: [10.1177/0950017009353657](https://doi.org/10.1177/0950017009353657)
 **作者**: Ortiz, Luis
 **摘要**: Recent educational expansion in many OECD countries has renewed interest in over-education. The educational system has often been highlighted as the main source of over-education, whereas the role of the labour market has been neglected.…
-
-### Managerial control and workplace regimes: an introduction
-**年份**: 2010 | **DOI**: [10.1177/0950017010384546](https://doi.org/10.1177/0950017010384546)
-**作者**: Thompson, Paul; van den Broek, Diane
-**摘要**: Managerial control and its wider setting in workplace and societal regimes has been an important feature of debates in Work, Employment and Society since its inception, providing some of its most highly cited articles.…
-
-### Book Review: K. Anders Ericsson (ed.) Development of Professional Expertise: Toward Measurement of Expert Performance and Design of Optimal Learning Environments New York, NY: Cambridge University Press, 2009, £21.99 pbk, (ISBN: 9780521740081), xvi + 552 pp
-**年份**: 2010 | **DOI**: [10.1177/09500170100240041306](https://doi.org/10.1177/09500170100240041306)
-**作者**: Holmes, Leonard
-**摘要**: （暂无）
 
 ### The contents of partnership agreements in Britain 1990-2007
 **年份**: 2010 | **DOI**: [10.1177/0950017010371646](https://doi.org/10.1177/0950017010371646)

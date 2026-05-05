@@ -1,24 +1,9 @@
 # Gender & Society
 ## 2000–2009 年文章（含摘要）
 
-共 **737** 篇
+共 **537** 篇
 
 ---
-
-### Book Review: Adoption in a Color-Blind Society. By Pamela Anne Quiroz. Lanham, MD: Rowman & Littlefield, 2007, 144 pp., $60.00 (cloth); $19.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209340035](https://doi.org/10.1177/0891243209340035)
-**作者**: Roschelle, Anne R.
-**摘要**: （暂无）
-
-### Book Review: New Choices, New Families: How Lesbians Decide About Motherhood. By Nancy J. Mezey. Baltimore: The Johns Hopkins University Press, 2008, 187 pp., $55.00 (cloth); $25.00 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209339323](https://doi.org/10.1177/0891243209339323)
-**作者**: Schapiro, Naomi A.
-**摘要**: （暂无）
-
-### Book Review: Out in the Storm: Drug-Addicted Women Living as Shoplifters and Sex Workers. By Gail A. Caputo. Boston: Northeastern University Press, 2008, 231 pp., $60.00 (cloth), $24.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209349736](https://doi.org/10.1177/0891243209349736)
-**作者**: Swan, Holly
-**摘要**: （暂无）
 
 ### Gendered Sexuality in Young Adulthood
 **年份**: 2009 | **DOI**: [10.1177/0891243209345829](https://doi.org/10.1177/0891243209345829)
@@ -40,30 +25,10 @@
 **作者**: Jurik, Nancy C.; Siemsen, Cynthia
 **摘要**: （暂无）
 
-### Book Review: Taking the Stand: Rape Survivors and the Prosecution of Rapists. By Amanda Konradi. Westport, CT: Praeger, 2007, 240 pp., $49.95 (hardcover)
-**年份**: 2009 | **DOI**: [10.1177/0891243209351030](https://doi.org/10.1177/0891243209351030)
-**作者**: Maier, Shana L.
-**摘要**: （暂无）
-
-### Book Review: Criminal Intimacy: Prison and the Uneven History of Modern American Sexuality. By Regina Kunzel. Chicago: University of Chicago Press, 2008, 371 pp., $29.00 (cloth)
-**年份**: 2009 | **DOI**: [10.1177/0891243209333790](https://doi.org/10.1177/0891243209333790)
-**作者**: Kennedy, Amanda
-**摘要**: （暂无）
-
 ### Gender Ideology Construction
 **年份**: 2009 | **DOI**: [10.1177/0891243209337507](https://doi.org/10.1177/0891243209337507)
 **作者**: Vespa, Jonathan
 **摘要**: Using life course and intersectional perspectives, this study examines how changes in life experiences such as marriage, parenthood, and work are associated with changes in individuals' gender ideology.…
-
-### Book Review: Sisterhood, Interrupted: From Radical Women to Grrls Gone Wild. By Deborah Siegel. New York: Palgrave Macmillan, 2007, 224 pp., $14.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209340036](https://doi.org/10.1177/0891243209340036)
-**作者**: Kalish, Rachel
-**摘要**: （暂无）
-
-### Book Review: Fixing Families: Parents, Power, and the Child Welfare System. By Jennifer A. Reich. New York: Routledge, 2005, 368 pp., $130.00 (cloth), $39.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209345501](https://doi.org/10.1177/0891243209345501)
-**作者**: Harris, Deborah A.
-**摘要**: （暂无）
 
 ### Categories Are Not Enough
 **年份**: 2009 | **DOI**: [10.1177/0891243208327081](https://doi.org/10.1177/0891243208327081)
@@ -85,25 +50,10 @@
 **作者**: Vidal-Ortiz, Salvador
 **摘要**: often visit my birth family in Manati, a mid-size town in Puerto Rico.For over 20 years, I have driven on a main road (before the expresswaywas built) that connected the West and the North parts of the Island.…
 
-### Book Review: Guyland: The Perilous World Where Boys Become Men. By Michael Kimmel. New York: HarperCollins, 2008, 332 pp., $25.95 (cloth)
-**年份**: 2009 | **DOI**: [10.1177/0891243209339750](https://doi.org/10.1177/0891243209339750)
-**作者**: Bridges, Tristan S.
-**摘要**: （暂无）
-
-### Book Review: Gender and Work in Urban China: Women Workers of the Unlucky Generation. By Jieyu Liu. London: Routledge, 2007, 178 pp., $160.00 (cloth)
-**年份**: 2009 | **DOI**: [10.1177/0891243209336742](https://doi.org/10.1177/0891243209336742)
-**作者**: Fuller, Ellen V.
-**摘要**: （暂无）
-
 ### Doing Gender, Doing Heteronormativity
 **年份**: 2009 | **DOI**: [10.1177/0891243209340034](https://doi.org/10.1177/0891243209340034)
 **作者**: Schilt, Kristen; Westbrook, Laurel
 **摘要**: This article brings together two case studies that examine how nontransgender people, “gender normals,” interact with transgender people to highlight the connections between doing gender and heteronormativity.…
-
-### Book Review: Revisioning Women and Drug Use: Gender, Power and the Body. By Elizabeth Ettorre. Houndmills, Basingstoke, Hampshire, UK: Palgrave MacMillan, 2007, 166 pp., $74.95 (cloth)
-**年份**: 2009 | **DOI**: [10.1177/0891243208325890](https://doi.org/10.1177/0891243208325890)
-**作者**: Robbins, Cynthia A.
-**摘要**: （暂无）
 
 ### Defining Gendered Oppression in U.S. Newspapers
 **年份**: 2009 | **DOI**: [10.1177/0891243209334938](https://doi.org/10.1177/0891243209334938)
@@ -125,40 +75,10 @@
 **作者**: West, Candace; Zimmerman, Don H.
 **摘要**: W e're delighted to have Doing Gender and its sequelae as the subjects of this symposium. The serious readings of our work by Professors Connell, Jones, Kitzinger, Messerschmidt, Risman, Smith, and Vidal-Ortiz do us honor, and we welcome the chance to address them.…
 
-### Book Review: Queering Reproduction: Achieving Pregnancy in the Age of Technoscience. By Laura Mamo. Durham, NC: Duke University Press, 2007, 320 pp., $84.95 (cloth); $23.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209341372](https://doi.org/10.1177/0891243209341372)
-**作者**: Franklin, Sarah
-**摘要**: （暂无）
-
-### Book Review: Women Behind Bars: The Crisis of Women in the U.S. Prison System.By Silja J. A. Talvi. Emeryville, CA: Seal Press, 2007, 384 pp., $15.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243208327580](https://doi.org/10.1177/0891243208327580)
-**作者**: O'Brien, Patricia
-**摘要**: （暂无）
-
-### Book Review: Hooking Up: Sex, Dating, and Relationships on Campus. By Kathleen A. Bogle. New York: New York University Press, 2008, 240 pp., $60.00 (cloth); $17.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243208320408](https://doi.org/10.1177/0891243208320408)
-**作者**: Kalish, Rachel
-**摘要**: （暂无）
-
 ### Doing Gender
 **年份**: 2009 | **DOI**: [10.1177/0891243208326730](https://doi.org/10.1177/0891243208326730)
 **作者**: Kitzinger, Celia
 **摘要**: R e-reading Doing Gender has confirmed its status for me both as a landmark publication and as a missed opportunity. Its achievement was to build on, develop, and promote Garfinkel's (1967) focus on the mundane production of in interaction.…
-
-### Book Review: Intimate Partner Violence. By Angela J. Hattery. New York: Rowman & Littlefield Publishers, Inc., 2008, 222 pp., $75.00 (cloth); $28.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209341186](https://doi.org/10.1177/0891243209341186)
-**作者**: Coston, Bethany
-**摘要**: （暂无）
-
-### Book Review: Judith Butler: From Norms to Politics. By Moya Lloyd. Malden, MA: Polity, 2007, 201 pp., $90.00 (cloth); $24.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209336740](https://doi.org/10.1177/0891243209336740)
-**作者**: Crawley, Sara L.
-**摘要**: （暂无）
-
-### Book Review: Producing Knowledge, Protecting Forests: Rural Encounters with Gender, Ecotourism, and International Aid in the Dominican Republic. By Light Carruyo. University Park: Pennsylvania State University Press, 2008, 136 pp., $45.00 (cloth)
-**年份**: 2009 | **DOI**: [10.1177/0891243209344591](https://doi.org/10.1177/0891243209344591)
-**作者**: Bandy, Joe
-**摘要**: （暂无）
 
 ### Separating the Men from the Moms
 **年份**: 2009 | **DOI**: [10.1177/0891243208327363](https://doi.org/10.1177/0891243208327363)
@@ -169,16 +89,6 @@
 **年份**: 2009 | **DOI**: [10.1177/0891243209342406](https://doi.org/10.1177/0891243209342406)
 **作者**: Sargent, Carey
 **摘要**: Masculinities vary by organizational context, demonstrating that organizational culture shapes the gendering of work even within the same occupation. The author draws on comparative and ethnographic data collected in two retail environments (large and small musical instrument stores) to understand h…
-
-### Book Review: Sweet Tea: Black Gay Men of the South: An Oral History. By E. Patrick Johnson. Chapel Hill: University of North Carolina Press, 2008, 584 pp., $35.00 (hardcover)
-**年份**: 2009 | **DOI**: [10.1177/0891243209351031](https://doi.org/10.1177/0891243209351031)
-**作者**: Thomas, Harry
-**摘要**: （暂无）
-
-### Book Review: Opting Out? Why Women Really Quit Careers and Head Home. By Pamela Stone. Berkeley: University of California Press, 2007, 295 pp., $24.95 (hardcover), $16.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243208319577](https://doi.org/10.1177/0891243208319577)
-**作者**: Webber, Gretchen
-**摘要**: （暂无）
 
 ### “We’re All Sisters”
 **年份**: 2009 | **DOI**: [10.1177/0891243209344723](https://doi.org/10.1177/0891243209344723)
@@ -200,26 +110,6 @@
 **作者**: Wingfield, Adia Harvey
 **摘要**: Many men who work in women's professions experience a glass escalator effect that facilitates their advancement and upward mobility within these fields. Research finds that subtle aspects of the interactions, norms, and expectations in women's professions push men upward and outward into the higher-…
 
-### Book Review: White Weddings: Romancing Heterosexuality in Popular Culture, 2nd edition. By Chrys Ingraham. New York: Routledge, 2008, 304 pp., $130 (cloth), $34.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209349846](https://doi.org/10.1177/0891243209349846)
-**作者**: Samblanet, Sarah
-**摘要**: （暂无）
-
-### Book Review: She's Got a Gun. By Nancy Floyd. Philadelphia: Temple University Press, 2008, 248 pp., $76.50 (cloth); $27.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209334571](https://doi.org/10.1177/0891243209334571)
-**作者**: Whitney, Cindy
-**摘要**: （暂无）
-
-### Book Review: Equal Play: Title IX and Social Change. Edited by Nancy Hogshead-Makar and Andrew Zimbalist. Philadelphia: Temple University Press, 2007, 328 pp., $86.50 (cloth); $39.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209336279](https://doi.org/10.1177/0891243209336279)
-**作者**: Henning, April Dawn
-**摘要**: （暂无）
-
-### Book Review: Feminist Cultural Studies of Science and Technology. By Maureen McNeil. London and New York: Routledge, 2008, 200 pp., $150.00 (cloth)
-**年份**: 2009 | **DOI**: [10.1177/0891243209334939](https://doi.org/10.1177/0891243209334939)
-**作者**: Kramer, Laura
-**摘要**: （暂无）
-
 ### Hetero-Romantic Love and Heterosexiness in Children's G-Rated Films
 **年份**: 2009 | **DOI**: [10.1177/0891243209335635](https://doi.org/10.1177/0891243209335635)
 **作者**: Martin, Karin A.; Kazyak, Emily
@@ -235,11 +125,6 @@
 **作者**: Loscocco, Karyn; Monnat, Shannon M.; Moore, Gwen 等4人
 **摘要**: This study demonstrates the importance of social context to the study of networks vital to business success. Results from analyses of the personal and business characteristics associated with different types of networks, a topic that has been neglected in past research, show the importance of struct…
 
-### Book Review: Getting Played: African American Girls, Urban Inequality, and Gendered Violence. By Jody Miller. New York: New York University Press, 2008, 336 pp., $75.00 (cloth); $22.00 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243208325891](https://doi.org/10.1177/0891243208325891)
-**作者**: Logan, Laura S.
-**摘要**: （暂无）
-
 ### Where Credit Is Due
 **年份**: 2009 | **DOI**: [10.1177/0891243209351029](https://doi.org/10.1177/0891243209351029)
 **作者**: Jacobs, Jerry A.
@@ -250,30 +135,10 @@
 **作者**: Schmalzbauer, Leah
 **摘要**: In this article, the author draws from ethnographic field work with Mexican migrants in southwestern Montana, an emerging rural settlement of the Mountain West, to analyze the ways in which context of reception affects gender relations.…
 
-### Book Review: Buddy System: Understanding Male Friendships. By Geoffrey L. Greif. New York: Oxford University Press, 2008, 320 pp., $29.95 (cloth)
-**年份**: 2009 | **DOI**: [10.1177/0891243209345502](https://doi.org/10.1177/0891243209345502)
-**作者**: Price, Jammie
-**摘要**: （暂无）
-
-### Book Review: Global Perspectives on Gender Equality: Reversing the Gaze. Edited by Naila Kabeer, Agneta Stark, and Edda Magnus. New York: Routledge, 2008, 312 pp., $95.00 (cloth). Gender Equality and Welfare Politics in Scandinavia: The Limits of Political Ambition? Edited by Kari Melby, Anna-Birte Ravn, and Christina Carlsson Wetterberg. Bristol, UK: Policy Press, 2008, 256 pp., $125.00 (cloth)
-**年份**: 2009 | **DOI**: [10.1177/0891243209335102](https://doi.org/10.1177/0891243209335102)
-**作者**: Valiente, Celia
-**摘要**: （暂无）
-
 ### Accountable Conduct
 **年份**: 2009 | **DOI**: [10.1177/0891243208327175](https://doi.org/10.1177/0891243208327175)
 **作者**: Connell, Raewyn
 **摘要**: Candace West and Don Zimmerman's (1987) classic and beautifully constructed article was written and published in interesting times. The mid and late 1980s saw a number of attempts by feminists to formulate accounts of gender and sex on a more coherent sociological basis: in Britain (Caplan 1987; Wal…
-
-### Book Review: The Making of Our Bodies, Ourselves: How Feminism Knowledge Travels across Borders. By Kathy Davis. Durham, NC: Duke University Press, 2007, 296 pp., $79.95 (cloth); $22.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209344431](https://doi.org/10.1177/0891243209344431)
-**作者**: Blum, Linda M.; Elson, Jean
-**摘要**: （暂无）
-
-### Book Review: Gender and Health: The Effects of Constrained Choices and Social Policies. By Chloe E. Bird and Patricia P. Rieker. New York: Cambridge University Press, 2008, 256 pp., $85.00 (cloth); $25.99 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209339751](https://doi.org/10.1177/0891243209339751)
-**作者**: Simonstein, Frida
-**摘要**: （暂无）
 
 ### With Thanks
 **年份**: 2009 | **DOI**: [10.1177/0891243209349411](https://doi.org/10.1177/0891243209349411)
@@ -283,11 +148,6 @@
 **年份**: 2009 | **DOI**: [10.1177/0891243209335412](https://doi.org/10.1177/0891243209335412)
 **作者**: Guenther, Katja M.
 **摘要**: A fundamental debate within feminist scholarship and activism centers on what relationship feminism should have with the state. This article explores this debate empirically by examining differences in the emotion cultures of a state-dependent and an autonomous feminist organization in postsocialist…
-
-### Book Review: The Gender Gap in College. By Linda J. Sax. San Francisco: Jossey-Bass, 2008, 352 pp., $40.00 (cloth)
-**年份**: 2009 | **DOI**: [10.1177/0891243209345470](https://doi.org/10.1177/0891243209345470)
-**作者**: Jacobs, Jerry A.
-**摘要**: （暂无）
 
 ### “We're There and Queer”
 **年份**: 2009 | **DOI**: [10.1177/0891243209340570](https://doi.org/10.1177/0891243209340570)
@@ -299,55 +159,15 @@
 **作者**: Wolkomir, Michelle
 **摘要**: As a central organizing institution in society, marriage presents an idealized package for sociosexual relations that reproduces and intertwines gender power dynamics and heterosexual desire.…
 
-### Book Review: Respectably Queer: Diversity Culture in LGBT Activist Organizations. By Jane Ward. Nashville, TN: Vanderbilt University Press, 2008, 178 pp., $59.95 (cloth), $24.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209351294](https://doi.org/10.1177/0891243209351294)
-**作者**: Collins, Dana
-**摘要**: （暂无）
-
-### Book Review: Body Panic: Gender, Health, and the Selling of Fitness. By Shari L. Dworkin and Faye Linda Wachs. New York University Press, 2009, 272 pp., $22.00 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209344432](https://doi.org/10.1177/0891243209344432)
-**作者**: Andersen, Margaret L.
-**摘要**: （暂无）
-
-### Book Review: The Anorexic Self: A Personal, Political Analysis of a Diagnostic Discourse. By Paula Saukko. Albany: State University of New York Press, 2008, 142 pp., $59.50 (hardcover); $19.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209349944](https://doi.org/10.1177/0891243209349944)
-**作者**: Waggoner, Miranda R.
-**摘要**: （暂无）
-
-### Book Review: “It's Just Easier Not to Go to School”: Adolescent Girls and Disengagement in Middle School. By Lori Olafson. New York: Peter Lang, 2006, 163 pp., $29.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243208325889](https://doi.org/10.1177/0891243208325889)
-**作者**: Johnson, Sara K.; Garey, Anita Ilta
-**摘要**: （暂无）
-
 ### How Will We Recognize Each Other as Mapuche?
 **年份**: 2009 | **DOI**: [10.1177/0891243209351293](https://doi.org/10.1177/0891243209351293)
 **作者**: Warren, Sarah D.
 **摘要**: This article builds on the literature of “doing” identities through a case study of indigenous Mapuche people in Argentina. Argentina is a unique place to study indigenous identities because they are not rigidly defined by the state or by Argentine society, thus making social interactions more visib…
 
-### Book Review: Taking Charge of Breast Cancer. By Julia A. Ericksen. Berkeley: University of California Press, 2008, 336 pp., $55.00 (cloth), $21.95 (paper). The Biopolitics of Breast Cancer: Changing Cultures of Disease and Activism. By Maren Klawiter. Minneapolis: University of Minnesota Press, 2008, 408 pp., $75.00 (cloth), $25.00 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209349735](https://doi.org/10.1177/0891243209349735)
-**作者**: Yoo, Grace J.
-**摘要**: （暂无）
-
-### Book Review: Managing Elites: Professional Socialization in Law and Business Schools. By Debra Schleef. Lanham, MD: Roman and Littlefield, 2006, 256 pp., $82.50 (cloth), $28.95 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243207312786](https://doi.org/10.1177/0891243207312786)
-**作者**: Epstein, Cynthia Fuchs
-**摘要**: （暂无）
-
-### Book Review: Women and Migration in the U.S.—Mexico Border. Edited by Denise Segura and Patricia Zavella. Durham, NC: Duke University Press, 2007, 595 pp., $29.95 (cloth)
-**年份**: 2009 | **DOI**: [10.1177/0891243209351295](https://doi.org/10.1177/0891243209351295)
-**作者**: Garcia, Alma M.
-**摘要**: （暂无）
-
 ### A Tale of Two Technologies
 **年份**: 2009 | **DOI**: [10.1177/0891243209352490](https://doi.org/10.1177/0891243209352490)
 **作者**: Carpenter, Laura M.; Casper, Monica J.
 **摘要**: This article brings insights from feminist science and technology studies to bear on recent public debates over the human papillomavirus (HPV) vaccine, which prevents many cervical cancers, and male circumcision as potential HIV preventive.…
-
-### Book Review: Damaged Goods? Women Living with Incurable Sexually Transmitted Diseases. By Adina Nack. Philadelphia: Temple University Press, 2008, 249 pp., $19.75 (paper)
-**年份**: 2009 | **DOI**: [10.1177/0891243209339380](https://doi.org/10.1177/0891243209339380)
-**作者**: Alston, Naomi
-**摘要**: （暂无）
 
 ### The Reaches of Heteronormativity
 **年份**: 2009 | **DOI**: [10.1177/0891243209340903](https://doi.org/10.1177/0891243209340903)
@@ -378,21 +198,6 @@
 **作者**: García-López, Gladys
 **摘要**: The practice of law is an occupation that has historically been dominated by white men. In recent decades, however, a small but growing number of Chicanas have entered this field. Their entry raises a number of questions regarding their occupational incorporation and mobility.…
 
-### Book Review: Forgotten Families: Ending the Growing Crisis Confronting Children and Working Parents in the Global Economy. By Jody Heymann. Oxford, UK: Oxford University Press, 2007, 306 pp., $27.50 (cloth), $17.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207311418](https://doi.org/10.1177/0891243207311418)
-**作者**: Hynes, Kathryn
-**摘要**: （暂无）
-
-### Book Review: The Power of Women's Organizing: Gender, Caste, and Class in India. By Mangala Subramaniam. Landham, MD: Lexington Books, 2006, 176 pp., $88.00 (cloth)
-**年份**: 2008 | **DOI**: [10.1177/0891243208315775](https://doi.org/10.1177/0891243208315775)
-**作者**: Chatterjee, Piya
-**摘要**: （暂无）
-
-### Book Review: George W. Bush and the War on Women. By Barbara Finlay. New York: Zed Books, 2006, 268 pp., $25.00 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207312133](https://doi.org/10.1177/0891243207312133)
-**作者**: Esterchild, Elizabeth
-**摘要**: （暂无）
-
 ### Sociology: the Good, the Bad, and the Public
 **年份**: 2008 | **DOI**: [10.1177/0891243208323924](https://doi.org/10.1177/0891243208323924)
 **作者**: Sprague, Joey
@@ -403,24 +208,9 @@
 **作者**: Korteweg, Anna C.
 **摘要**: In late 2003, the Canadian media reported that the Islamic Institute of Civil Justice would start offering arbitration in family disputes in accordance with both Islamic legal principles and Ontario's Arbitration Act of 1991.…
 
-### Book Review: Race, Work, and Family in the Lives of African Americans. Edited by Marlese Durr and Shirley A. Hill. Lanham, MD: Rowman & Littlefield, 2006, 256 pp., $32.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207313081](https://doi.org/10.1177/0891243207313081)
-**作者**: Jones, Andrew W.
-**摘要**: （暂无）
-
-### Book Review: Gendering Bodies. By Sara L. Crawley, Lara J. Foley, and Constance L. Shehan. New York: Rowman & Littlefield, 2008, 304 pp., $80.00 (cloth), $29.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243209332740](https://doi.org/10.1177/0891243209332740)
-**作者**: Boyd, Emily M.
-**摘要**: （暂无）
-
 ### Feminist Theory's Unfinished Business
 **年份**: 2008 | **DOI**: [10.1177/0891243207309897](https://doi.org/10.1177/0891243207309897)
 **作者**: Acker, Joan
-**摘要**: （暂无）
-
-### Book Review: The Politics of Disgust: The Public Identity of the Welfare Queen. By Ange-Marie Hancock. New York: New York University Press, 2004, 209 pp., $65.00 (cloth), $20.00 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208316864](https://doi.org/10.1177/0891243208316864)
-**作者**: Boris, Eileen
 **摘要**: （暂无）
 
 ### Race and Gender in Families and at Work
@@ -443,25 +233,10 @@
 **作者**: Vandegrift, Darcie
 **摘要**: Tourism has received relatively scant attention in feminist analysis of women's work under economic restructuring. The industry creates a sector without a shop floor based on the provision of authenticity, leisure, and price-sensitive services.…
 
-### Book Review: The Caveman Mystique: Pop-Darwinism and the Debates Over Sex, Violence, and Science. By Martha McCaughey. New York: Routledge, 2007, 157 pp., $90.00 (cloth), $25.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207310717](https://doi.org/10.1177/0891243207310717)
-**作者**: Wade, Lisa
-**摘要**: （暂无）
-
 ### “Keeping The Dancers In Check”
 **年份**: 2008 | **DOI**: [10.1177/0891243208316518](https://doi.org/10.1177/0891243208316518)
 **作者**: Price, Kim
 **摘要**: Strip clubs have rarely been analyzed in terms of their gendered organization. Instead, the literature on stripping emphasizes interaction-based perspectives that focus on strippers, patrons, and broader macro-structural trends.…
-
-### Book Review: Black Feminist Voices in Politics. By Evelyn M. Simien. Albany: State University of New York Press, 2006, 196 pp., $71.50 (cloth); $23.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207311419](https://doi.org/10.1177/0891243207311419)
-**作者**: Jackson, Barbara L.
-**摘要**: （暂无）
-
-### Book Review: Girls in Trouble with the Law. By Laurie Schaffner. Piscataway, NJ: Rutgers University Press, 2006, 272 pp., $23.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208316865](https://doi.org/10.1177/0891243208316865)
-**作者**: Gaarder, Emily
-**摘要**: （暂无）
 
 ### Mestiza Double Consciousness
 **年份**: 2008 | **DOI**: [10.1177/0891243208321274](https://doi.org/10.1177/0891243208321274)
@@ -478,34 +253,9 @@
 **作者**: Glenn, Evelyn Nakano
 **摘要**: With the breakdown of traditional racial boundaries in many areas of the world, the widespread and growing consumption of skin-lightening products testifies to the increasing significance of colorism—social hierarchy based on gradations of skin tone within and between racial/ethnic groups.…
 
-### Book Review: Negotiating Decolonization in the United Nations: Politics of Space, Identity, and International Community. By Vrushali Patil. New York and London: Routledge, 2008, 195 pp., $95.00 (cloth)
-**年份**: 2008 | **DOI**: [10.1177/0891243208325039](https://doi.org/10.1177/0891243208325039)
-**作者**: Zwingel, Susanne
-**摘要**: （暂无）
-
 ### From the Editor
 **年份**: 2008 | **DOI**: [10.1177/0891243207311698](https://doi.org/10.1177/0891243207311698)
 **作者**: Britton, Dana M.
-**摘要**: （暂无）
-
-### Book Review: Laboring On: Birth in Transition in the United States. By Wendy Simonds, Barbara Katz Rothman, and Bari Meltzer Norman. New York: Routledge, 2006, 320 pp., $105.00 (cloth); $29.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208318821](https://doi.org/10.1177/0891243208318821)
-**作者**: Omori, Megumi
-**摘要**: （暂无）
-
-### Book Review: The Purchase of Intimacy. By Viviana A. Zelizer. Princeton, NJ: Princeton University Press, 2005, 356 pp., $47.50 (cloth), $19.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208316866](https://doi.org/10.1177/0891243208316866)
-**作者**: Valentine, Catherine G.
-**摘要**: （暂无）
-
-### Book Review: Silent Racism: How Well-Meaning White People Perpetuate the Racial Divide. By Barbara Trepagnier. Boulder, CO: Paradigm, 2006, 181 pp., $70.00 (cloth), $24.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207312135](https://doi.org/10.1177/0891243207312135)
-**作者**: Wilder, Jeffrianne
-**摘要**: （暂无）
-
-### Book Review: Latina Activists across Borders: Women's Grassroots Organizing in Mexico and Texas. By Milagros Peña. Durham, NC: Duke University Press, 2007, 192 pp., $74.95 (cloth), $21.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207313079](https://doi.org/10.1177/0891243207313079)
-**作者**: Prindeville, Diane-Michele
 **摘要**: （暂无）
 
 ### Gendered Paths to Teenage Political Participation
@@ -528,19 +278,9 @@
 **作者**: McKim, Allison
 **摘要**: Using ethnographic data gathered at a mandated, community-based drug treatment program for women offenders, this article analyzes how gendered notions of the self and of autonomy shape penal governance.…
 
-### Book Review: Black behind the Ears: Dominican Racial Identity from Museums to Beauty Shops. By Ginetta E. B. Candelario. Durham, NC: Duke University Press, 2007, 340 pp., $84.95 (cloth), $23.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208321519](https://doi.org/10.1177/0891243208321519)
-**作者**: Almaguer, Tomas
-**摘要**: （暂无）
-
 ### Power and Embodiment
 **年份**: 2008 | **DOI**: [10.1177/0891243207310716](https://doi.org/10.1177/0891243207310716)
 **作者**: Paap, Kris
-**摘要**: （暂无）
-
-### Book Review: When Sex Became Gender. By Shira Tarrant. New York: Routledge, 2006, 285 pp., $100.00 (cloth), $32.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208315384](https://doi.org/10.1177/0891243208315384)
-**作者**: Jo Deegan, Mary
 **摘要**: （暂无）
 
 ### Beyond Separate Silos
@@ -558,55 +298,20 @@
 **作者**: Barber, Kristen
 **摘要**: This study explores how men make sense of their participation in the feminized practice of salon hair care. By placing white, middle-class, heterosexual men at the center of analysis, I investigate the meaning of beauty work for a population that has been overlooked in research on gender and the bea…
 
-### Book Review: Style and Status: Selling Beauty to African American Women, 1920-1975. By Susannah Walker. Lexington: University of Kentucky Press, 2007, 250 pp., $40.00 (cloth)
-**年份**: 2008 | **DOI**: [10.1177/0891243207306804](https://doi.org/10.1177/0891243207306804)
-**作者**: Masi De Casanova, Erynn
-**摘要**: （暂无）
-
-### Book Review: Cultures of Masculinity. By Tim Edwards. London: Routledge, 2006, 192 pp., $135.00 (cloth), $42.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207313078](https://doi.org/10.1177/0891243207313078)
-**作者**: Anderson, Eric
-**摘要**: （暂无）
-
 ### “Doing Religion” In a Secular World
 **年份**: 2008 | **DOI**: [10.1177/0891243208321019](https://doi.org/10.1177/0891243208321019)
 **作者**: Avishai, Orit
 **摘要**: Sociological studies of women's experiences with conservative religions are typically framed by a paradox that ponders women's complicity. The prevailing view associates agency with strategic subjects who use religion to further extra-religious ends and pays little attention to the cultural and inst…
-
-### Book Review: Stripped: Inside the Lives of Exotic Dancers. By Bernadette Barton. New York: New York University Press, 2006, 195 pp., $65.00 (cloth); $20.00 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207309905](https://doi.org/10.1177/0891243207309905)
-**作者**: Price, Kim
-**摘要**: （暂无）
 
 ### Postponed Marriage
 **年份**: 2008 | **DOI**: [10.1177/0891243208315868](https://doi.org/10.1177/0891243208315868)
 **作者**: Nemoto, Kumiko
 **摘要**: Sociologists have argued that marriage today is based on individual desires, democratic contracts, and self-development. However, feminist scholars have criticized such a view of modern marriage, arguing that it obscures persistent inequality and social restrictions in marriage.…
 
-### Introduction
-**年份**: 2008 | **DOI**: [10.1177/0891243208321520](https://doi.org/10.1177/0891243208321520)
-**作者**: Segura, Denise A.; Zavella, Patricia
-**摘要**: With Borderlands/Ea Frontera: The New Mestiza, Gloria Anzald?a burst onto the feminist conceptual scene offering new ways of exploring relationships of power and domination, resistance and agency, among women and men hitherto cast as marginalized others.…
-
-### Book Review: Wannabes, Goths, and Christians: The Boundaries of Sex, Style, and Status. By Amy C. Wilkins. Chicago, IL: University of Chicago Press, 2008, 256 pp., $55.00 (cloth); $22.00 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207311524](https://doi.org/10.1177/0891243207311524)
-**作者**: Best, Amy L.
-**摘要**: （暂无）
-
 ### Mothers in “Good” and “Bad” Part-time Jobs
 **年份**: 2008 | **DOI**: [10.1177/0891243208325698](https://doi.org/10.1177/0891243208325698)
 **作者**: Webber, Gretchen; Williams, Christine
 **摘要**: Part-time work schedules are a popular option for many women struggling to reconcile the competing demands of employment and motherhood. They are controversial among feminists because they are associated with job penalties that promote gender inequality.…
-
-### Book Review: The Politics of Sexual Harassment: A Comparative Study of the United States, the European Union, and Germany. By Kathrin S. Zippel. Cambridge, UK: Cambridge University Press, 2006, 255 pp., $34.99 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208320252](https://doi.org/10.1177/0891243208320252)
-**作者**: Gorman, Elizabeth
-**摘要**: （暂无）
-
-### Book Review: Women in Science, Engineering and Technology: Three Decades of UK Initiatives. By Alison Phipps. Stoke on Trent, UK: Trentham Books, 2008, 184 pp., $25.50, £16.99 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208328592](https://doi.org/10.1177/0891243208328592)
-**作者**: Faulkner, Wendy
-**摘要**: （暂无）
 
 ### Migration as Engendered Practice: Mexican Men, Masculinity, and Northward Migration
 **年份**: 2008 | **DOI**: [10.1177/0891243208321275](https://doi.org/10.1177/0891243208321275)
@@ -628,80 +333,10 @@
 **作者**: Wyrod, Robert
 **摘要**: Across the African continent, women's rights have become integral to international declarations, regional treaties, national legislation, and grassroots activism. Yet there is little research on how African men have understood these shifts and how African masculinities are implicated in such changes…
 
-### Book Review: Globalizing Women: Transnational Feminist Networks. By Valentine M. Moghadam. Baltimore: Johns Hopkins University Press, 2005, 251 pp., $18.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208317375](https://doi.org/10.1177/0891243208317375)
-**作者**: Salime, Zakia
-**摘要**: （暂无）
-
-### Book Review: Something Old, Something Bold: Bridal Showers and Bachelorette Parties. By Beth Montemurro. New Brunswick, NJ: Rutgers University Press, 2006, 224 pp., $65.00 (cloth); $21.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208322052](https://doi.org/10.1177/0891243208322052)
-**作者**: Grindstaff, Laura
-**摘要**: （暂无）
-
-### Book Review: Sperm Counts: Overcome by Man's Most Precious Fluid. By Lisa Jean Moore. New York: New York University Press, 2007, 256 pp., $26.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207312136](https://doi.org/10.1177/0891243207312136)
-**作者**: Spanier, Bonnie B.
-**摘要**: （暂无）
-
-### Book Review: Fixing Men: Sex, Birth Control, and AIDS in Mexico. By Matthew Gutmann. Berkeley: University of California Press, 2007, 280 pp., $55.00 (cloth), $21.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208320161](https://doi.org/10.1177/0891243208320161)
-**作者**: Choudhury, Shonali M.
-**摘要**: （暂无）
-
-### Book Review: Running Scared: Masculinity and the Representations of the Male Body. New Edition. By Peter Lehman. Detroit, MI: Wayne State University Press, 2007, 304 pp., $34.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208317211](https://doi.org/10.1177/0891243208317211)
-**作者**: King, Neal
-**摘要**: （暂无）
-
-### Book Review: Single Mother: The Emergence of the Domestic Intellectual. By Jane Juffer. New York: New York University Press, 2006, 288 pp., $21.00 (paper). The Social Economy of Single Motherhood: Raising Children in Rural America. By Margaret K. Nelson. New York: Routledge, 2005, 272 pp., $95.00 (cloth); $29.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207309906](https://doi.org/10.1177/0891243207309906)
-**作者**: Brush, Lisa D.
-**摘要**: （暂无）
-
-### Book Review: Single by Chance, Mothers by Choice: How Women are Choosing Parenthood without Marriage and Creating the New American Family. By Rosanna Hertz. New York and Oxford: Oxford University Press, 2006, 304 pp., $26.00 (cloth)
-**年份**: 2008 | **DOI**: [10.1177/0891243208315776](https://doi.org/10.1177/0891243208315776)
-**作者**: Kefalas, Maria
-**摘要**: （暂无）
-
-### Book Review: Women Building Peace: What They Do, Why It Matters. By Sanam Naraghi Anderlini. Boulder, CO, and London: Lynne Rienner, 2007, 257 pp., $58.50 (cloth); $22.00 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208318820](https://doi.org/10.1177/0891243208318820)
-**作者**: Rinaldo, Rachel
-**摘要**: （暂无）
-
 ### The Impact of Religious Conservatism On Men's Work and Family Involvement
 **年份**: 2008 | **DOI**: [10.1177/0891243207310714](https://doi.org/10.1177/0891243207310714)
 **作者**: Civettini, Nicole H.W.; Glass, Jennifer
 **摘要**: The social conservatism of evangelical and fundamentalist groups includes their support for premarital sexual restraint, husband leadership, and father involvement. The authors explore whether religious conservatism affects work–family outcomes of men using the National Survey of Families and Househ…
-
-### Book Review: Global Cinderellas: Migrant Domestics and Newly Rich Employers in Taiwan. By Pei-Chia Lan. Durham, NC: Duke University Press, 2006, 322 pp., $79.95 (cloth), $22.95 (paper). Serving the Household and the Nation: Filipina Domestics and the Politics of Identity in Taiwan. By Shu-Ju Ada Cheng. Lanham, MD: Lexington Books, 2006, 277 pp., $83.00 (cloth)
-**年份**: 2008 | **DOI**: [10.1177/0891243207312134](https://doi.org/10.1177/0891243207312134)
-**作者**: Salzinger, Leslie
-**摘要**: （暂无）
-
-### Book Review: Changing Rhythms of American Family Life. By Suzanne M. Bianchi, John P. Robinson, and Melissa A. Milkie. New York: Russell Sage Foundation, 2006, 272 pp., $37.50 (cloth), $17.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208315383](https://doi.org/10.1177/0891243208315383)
-**作者**: Cunningham, Mick
-**摘要**: （暂无）
-
-### Book Review: The Meanings of Marital Equality. By Scott R. Harris. Albany: State University of New York Press, 2006, 193 pp., $61.95 (cloth); $21.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208325038](https://doi.org/10.1177/0891243208325038)
-**作者**: Kettlitz, Robert E.
-**摘要**: （暂无）
-
-### Book Review: Producing Desire: Changing Sexual Discourse in the Ottoman Middle East, 1500-1900. By Dror Ze'evi. Berkeley and London: University of California Press, 2006, i-xv + 223 pp., $24.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207311047](https://doi.org/10.1177/0891243207311047)
-**作者**: Zirinski, Roni
-**摘要**: （暂无）
-
-### Book Review: North African Women in France: Gender, Culture, and Identity. By Caitlin Killian. Stanford, CA: Stanford University Press, 2006, 279 pp., $21.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208317212](https://doi.org/10.1177/0891243208317212)
-**作者**: Oduor, Dora
-**摘要**: （暂无）
-
-### Book Review: Girls in Power: Gender, Body, and Menstruation in Adolescence. By Laura Fingerson. New York: State University of New York Press, 2006, 190 pp., $65.50 (cloth), $21.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207313080](https://doi.org/10.1177/0891243207313080)
-**作者**: Enke, Janet
-**摘要**: （暂无）
 
 ### Feminism's Sexual Problem
 **年份**: 2008 | **DOI**: [10.1177/0891243207310030](https://doi.org/10.1177/0891243207310030)
@@ -712,21 +347,6 @@
 **年份**: 2008 | **DOI**: [10.1177/0891243208321380](https://doi.org/10.1177/0891243208321380)
 **作者**: Deeb-Sossa, Natalia; Bickham Mendez, Jennifer
 **摘要**: Drawing from ethnographic research in the Research Triangle of North Carolina and Williamsburg, Virginia, the authors build on Anzaldúa's conceptualization of “borderlands” to analyze how borders of social membership are constructed and enforced in “el Nuevo South.” Our gender analysis reveals that …
-
-### Book Review: Out in Public: Configurations of Women's Bodies in Nineteenth-Century America. By Alison Piepmeier. Chapel Hill: University of North Carolina Press, 2004, 272 pp., $55.00 (cloth), $21.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243208317355](https://doi.org/10.1177/0891243208317355)
-**作者**: Kibler, M. Alison
-**摘要**: （暂无）
-
-### Book Review: Surrogate Motherhood and the Politics of Reproduction. By Susan Markens. Berkeley: University of California Press, 2007, 277 pp., $60.00 (cloth), $24.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207311417](https://doi.org/10.1177/0891243207311417)
-**作者**: Katz Rothman, Barbara
-**摘要**: （暂无）
-
-### Book Review: “Rice Plus”: Widows and Economic Survival in Rural Cambodia. By Susan Hagood Lee. New York: Routledge, 2006, 182 pp., $80.00 (cloth)
-**年份**: 2008 | **DOI**: [10.1177/0891243208324565](https://doi.org/10.1177/0891243208324565)
-**作者**: Caldwell, Melissa L.
-**摘要**: （暂无）
 
 ### The Problem of Women's Sociality in Contemporary North American Feminist Memoir
 **年份**: 2008 | **DOI**: [10.1177/0891243208324598](https://doi.org/10.1177/0891243208324598)
@@ -758,11 +378,6 @@
 **作者**: Van Echtelt, Patricia; Glebbeek, Arie; Lewis, Suzan 等4人
 **摘要**: There is debate about whether the post-Fordist or high-performance work organization can overcome the disadvantages women encounter in traditional gendered organizations. Some authors argue that substituting a performance logic for control by the clock offers opportunities for combining work and fam…
 
-### Book Review: Assembling Women: The Feminization of Global Manufacturing. By Teri L. Caraway. Ithaca, NY: Cornell University Press, 2007, 208 pp., $57.95 (cloth), $18.95 (paper). Transnational Tortillas: Race, Gender, and Shop-Floor Politics in Mexico and the United States. By Carolina Bank-Muñoz. Ithaca, NY: Cornell University Press, 2008, 202 pp., $49.95 (cloth), $18.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243209332793](https://doi.org/10.1177/0891243209332793)
-**作者**: Williams, Christine L.
-**摘要**: （暂无）
-
 ### Women's Anti-Imperialism, “The White Man's Burden,” and the Philippine-American War
 **年份**: 2008 | **DOI**: [10.1177/0891243209333791](https://doi.org/10.1177/0891243209333791)
 **作者**: Murphy, Erin L.
@@ -773,40 +388,15 @@
 **作者**: Morris, Edward W.
 **摘要**: Research with predominately minority, urban students has documented an educational “gender gap,” where girls tend to be more likely to go to college, make higher grades, and aspire to higher status occupations than boys.…
 
-### Book Review: Feminist Methodologies for Critical Researchers: Bridging Differences. By Joey Sprague. Walnut Creek, CA: AltaMira Press, 2005, 237 pp., $80.00 (cloth), $29.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207313463](https://doi.org/10.1177/0891243207313463)
-**作者**: Neitz, Mary Jo
-**摘要**: （暂无）
-
 ### Gall, Gallantry, and the Gallows
 **年份**: 2008 | **DOI**: [10.1177/0891243208318029](https://doi.org/10.1177/0891243208318029)
 **作者**: Linders, Annulla; Van Gundy-Yoder, Alana
 **摘要**: In this article, the authors examine how the debate over women's executions during the nineteenth and early twentieth century funneled and in various ways processed the contrary demands of gender and capital justice.…
 
-### Book Review: In an Abusive State: How Neoliberalism Appropriated the Feminist Movement against Sexual Violence. By Kristin Bumiller. Durham, NC: Duke University Press, 2008, 215 pp., $79.95 (cloth), $22.95 (paper). A Typology of Domestic Violence: Intimate Terrorism, Violent Resistance, and Situational Couple Violence. By Michael P. Johnson. Boston: Northeastern University Press, 2008, 161 pp., $60.00 (cloth), $19.95 (paper). Violent Partners: A Breakthrough Plan for Ending the Cycle of Abuse. By Linda G. Mills. New York: Basic Books, 2008, 298 pp., $26.95 (hardback). Coercive Control: How Men Entrap Women in Personal Life. By Evan Stark. Oxford: Oxford University Press, 2007, 464 pp., $35.00 (hardback)
-**年份**: 2008 | **DOI**: [10.1177/0891243208329888](https://doi.org/10.1177/0891243208329888)
-**作者**: Brush, Lisa D.
-**摘要**: （暂无）
-
-### Book Review: Expansion of Publicly Funded Health Insurance in the United States: The Children's Health Insurance Program and Its Implications. By Jennie Jacobs Kronenfeld. Lanham, MD: Lexington Books, 2006. 161 pp., $60.00 (cloth)
-**年份**: 2008 | **DOI**: [10.1177/0891243207309904](https://doi.org/10.1177/0891243207309904)
-**作者**: Brubaker, Sarah Jane
-**摘要**: （暂无）
-
-### Book Review: Making Sense of Race, Class, and Gender: Commonsense, Power, and Privilege in the United States. By Celine-Marie Pascale. New York: Routledge, 2007, 153 pp., $29.95 (paper)
-**年份**: 2008 | **DOI**: [10.1177/0891243207311697](https://doi.org/10.1177/0891243207311697)
-**作者**: Banks, Ingrid
-**摘要**: （暂无）
-
 ### An Intersectional Analysis of Sexual Harassment in Housing
 **年份**: 2008 | **DOI**: [10.1177/0891243208317827](https://doi.org/10.1177/0891243208317827)
 **作者**: Tester, Griff
 **摘要**: Research on sexual harassment in the workplace is extensive, yet research on sexual harassment in housing is extremely limited. In this study, the author qualitatively analyzes 60 cases of sexual harassment in rental housing to expand on recent research addressing this topic by examining the forms a…
-
-### Book Review: Same-Sex Marriage: The Cultural Politics of Love and Law. By Kathleen E. Hull. New York: Cambridge University Press, 2006, 277 pp., $75.00 (cloth), $29.99 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207299722](https://doi.org/10.1177/0891243207299722)
-**作者**: Chillmon, Carly M.
-**摘要**: （暂无）
 
 ### We (Have to) Try Harder
 **年份**: 2007 | **DOI**: [10.1177/0891243207309900](https://doi.org/10.1177/0891243207309900)
@@ -848,21 +438,6 @@
 **作者**: Gallagher, Sally K.
 **摘要**: Drawing on theories of structure and agency, this article assesses how women in lower-income households in Damascus use existing gender schemas to avoid unattractive employment and improve their access to income and employment.…
 
-### Book Review: Gendered Processes: Korean Immigrant Small Business Ownership. By Eunju Lee. New York: LFB Scholarly, 2006, 211 pp. $60.00 (hardcover)
-**年份**: 2007 | **DOI**: [10.1177/0891243206295856](https://doi.org/10.1177/0891243206295856)
-**作者**: Harvey, Adia M.
-**摘要**: （暂无）
-
-### Book Review: The Gender of Desire: Essays on Male Sexuality. By Michael Kimmel. Albany: SUNY Press, 2005, 272 pp., $89.50 (cloth), $27.95 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207301093](https://doi.org/10.1177/0891243207301093)
-**作者**: Rutter, Virginia E.
-**摘要**: （暂无）
-
-### Book Review: Ethnic Routes to Becoming American: Indian Immigrants and the Cultures of Citizenship. By Sharmila Rudrappa. New Brunswick, NJ: Rutgers University Press, 2004, 239 pp., $22.95 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207299950](https://doi.org/10.1177/0891243207299950)
-**作者**: Woo, Deborah
-**摘要**: （暂无）
-
 ### Feminism and Profit in American Hospitals
 **年份**: 2007 | **DOI**: [10.1177/0891243207299947](https://doi.org/10.1177/0891243207299947)
 **作者**: Thomas, Jan E.; Zimmerman, Mary K.
@@ -878,24 +453,9 @@
 **作者**: Winterich, Julie A.
 **摘要**: （暂无）
 
-### Book Review: Inside Toyland: Working, Shopping, and Social Inequality. By Christine L. Williams. Berkeley: University of California Press, 2006, 240 pp., $45.00 (cloth), $16.95 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243206297798](https://doi.org/10.1177/0891243206297798)
-**作者**: Talwar, Jennifer Parker
-**摘要**: （暂无）
-
-### Book Review: Not-So-Nuclear Families. By Karen V. Hansen. New Brunswick, NJ: Rutgers University Press, 2005, 261 pp., $23.95 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207309909](https://doi.org/10.1177/0891243207309909)
-**作者**: Nelson, Margaret K.
-**摘要**: （暂无）
-
 ### Book Reviews: Be Not Deceived: The Sacred and Sexual Struggles of Gay and Ex-gay Christian Men. By Michelle Wolkomir. New Brunswick, NJ: Rutgers University Press, 2006, 225 pp., $23.95 (paper)
 **年份**: 2007 | **DOI**: [10.1177/0891243207306388](https://doi.org/10.1177/0891243207306388)
 **作者**: McQueeney, Krista
-**摘要**: （暂无）
-
-### Book Review: Militarized Modernity and Gendered Citizenship in South Korea
-**年份**: 2007 | **DOI**: [10.1177/0891243206295167](https://doi.org/10.1177/0891243206295167)
-**作者**: Choi, Hyaeweol
 **摘要**: （暂无）
 
 ### Book Reviews: Dude, You're a Fag: Masculinity and Sexuality in High School. By C. J. Pascoe. Berkeley: University of California Press, 2007, 227 pp., $19.95 (paper)
@@ -918,11 +478,6 @@
 **作者**: Haas, Linda; Hwang, C. Philip
 **摘要**: This study explores company support for men's participation in child care in Sweden, where the government promotes gender equality. The authors investigate the influence of two ideologies about gender, the doctrine of separate spheres and masculine hegemony, on the responsiveness to fathers shown by…
 
-### Book Review: When Sex Goes to School: Warring Views on Sex—and Sex Education— Since the Sixties. By Kristin Luker. New York: Norton, 2006, 368 pp., $25.95 (cloth)
-**年份**: 2007 | **DOI**: [10.1177/0891243207301588](https://doi.org/10.1177/0891243207301588)
-**作者**: Elliott, Sinikka
-**摘要**: （暂无）
-
 ### Quotidian Disruption and Women's Activism in Times of Crisis, Argentina 2002-2003
 **年份**: 2007 | **DOI**: [10.1177/0891243207306383](https://doi.org/10.1177/0891243207306383)
 **作者**: Borland, Elizabeth; Sutton, Barbara
@@ -938,11 +493,6 @@
 **作者**: Wall, Glenda; Arnold, Stephanie
 **摘要**: While popular cultural representations portray the “new father” of the past two decades as more involved, more nurturing, and capable of coparenting, many argue that actual fathering conduct has not kept pace.…
 
-### Book Review: Gender and Governance. By Lisa D. Brush. Walnut Creek, CA: Altamira Press, 2003. 149 pp., $27.95 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207309902](https://doi.org/10.1177/0891243207309902)
-**作者**: Moore, Gwen
-**摘要**: （暂无）
-
 ### Book Reviews: Selling Women Short: Gender and Money on Wall Street. By Louise Marie Roth. Princeton, NJ: Princeton University Press, 2006, 251 pp., $27.95 (cloth)
 **年份**: 2007 | **DOI**: [10.1177/0891243207303519](https://doi.org/10.1177/0891243207303519)
 **作者**: Connell, Catherine
@@ -953,45 +503,15 @@
 **作者**: Robinson, Christine M.; Spivey, Sue E.
 **摘要**: The purpose of this research is to investigate the masculinity politics of the ex-gay movement, a loose-knit network of religious, scientific, and political organizations that advocates change for homosexuals.…
 
-### Book Review: Unsung Heroines: Single Mothers and the American Dream. By Ruth Sidel. Los Angeles: University of California Press, 2006, 251 pp., $17.95 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207299718](https://doi.org/10.1177/0891243207299718)
-**作者**: Adair, Vivyan C.
-**摘要**: （暂无）
-
-### Book Review: The Trouble between Us: An Uneasy History of White and Black Women in the Feminist Movement
-**年份**: 2007 | **DOI**: [10.1177/0891243206295519](https://doi.org/10.1177/0891243206295519)
-**作者**: Taylor, Verta
-**摘要**: （暂无）
-
-### Book Review: The Games Black Girls Play: Learning the Ropes from Double-Dutch to Hip-Hop. By Kyra D. Gaunt. New Brunswick, NJ: New York University Press, 2006, 221 pp., $65.00 (cloth), $20.00 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207299724](https://doi.org/10.1177/0891243207299724)
-**作者**: Best, Amy L.
-**摘要**: （暂无）
-
 ### “Unity Admirable But Not Necessarily Heeded”
 **年份**: 2007 | **DOI**: [10.1177/0891243207299615](https://doi.org/10.1177/0891243207299615)
 **作者**: Mullaney, Jamie L.
 **摘要**: Drawing on interviews, this article examines how the third wave of the straight edge (sXe) hardcore music scene can promote a gender-progressive image in light of evidence that suggests men's continued advantage over women in the scene.…
 
-### Book Review: The History of Men: Essays on the History of American and British Masculinities
-**年份**: 2007 | **DOI**: [10.1177/0891243206293383](https://doi.org/10.1177/0891243206293383)
-**作者**: Kann, Mark E.
-**摘要**: （暂无）
-
 ### Negotiating Hegemonic Masculinity in a Batterer Intervention Program
 **年份**: 2007 | **DOI**: [10.1177/0891243207304975](https://doi.org/10.1177/0891243207304975)
 **作者**: Schrock, Douglas P.; Padavic, Irene
 **摘要**: Domestic violence represents a crucial underpinning of women's continued subordination, which is why much scholarly and activist energy has been expended in designing, implementing, and evaluating programs to reduce it.…
-
-### Book Review: Women, Gender, and Technology. Edited by Mary Frank Fox, Deborah G. Johnson, and Sue V. Rosser. Urbana and Chicago: University of Illinois Press, 2006, 204 pp., $55.00 (cloth); $20.00 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207309910](https://doi.org/10.1177/0891243207309910)
-**作者**: Lehr, Jane L.
-**摘要**: （暂无）
-
-### Book Review: Working Construction: Why White Working-Class Men Put Themselves—and the Labor Movement—in Harm's Way. By Kris Paap. Ithaca, NY: Cornell University Press, 2006, 235 pp., $52.50 (cloth); $19.95 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207309912](https://doi.org/10.1177/0891243207309912)
-**作者**: Pinsky, Dina
-**摘要**: （暂无）
 
 ### Bravas, Permitidas, Obsoletas
 **年份**: 2007 | **DOI**: [10.1177/0891243207304971](https://doi.org/10.1177/0891243207304971)
@@ -1033,16 +553,6 @@
 **作者**: Foley, Lara; Gill, Sandra; Guidroz, Kathleen 等4人
 **摘要**: （暂无）
 
-### Book Review: Global Dimensions of Gender and Carework. Edited by Mary K. Zimmerman, Jacquelyn S. Litt, and Christine E. Bose. Palo Alto, CA: Stanford University Press, 2006, 400 pp., $65.00 (cloth), $24.95 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207301591](https://doi.org/10.1177/0891243207301591)
-**作者**: Rivas, Lynn May
-**摘要**: （暂无）
-
-### Book Review: From Black Power to Hip Hop: Racism, Nationalism, and Feminism
-**年份**: 2007 | **DOI**: [10.1177/0891243206293579](https://doi.org/10.1177/0891243206293579)
-**作者**: Ferber, Abby L.
-**摘要**: （暂无）
-
 ### Helping the “Neediest of the Needy”
 **年份**: 2007 | **DOI**: [10.1177/0891243207306380](https://doi.org/10.1177/0891243207306380)
 **作者**: Deeb-Sossa, Natalia
@@ -1053,25 +563,10 @@
 **作者**: Shapiro, Eve
 **摘要**: This case study of the feminist drag troupe the Disposable Boy Toys (DBT) examines the relationship between drag and gender identity. Drawing on multiple methods, the author explores the range of gender identities that emerged through participation in DBT.…
 
-### Book Review: The Language of Battered Women: A Rhetorical Analysis of Personal Theologies. By Carol L. Winkelmann. New York: State University of New York Press, 2004, 273 pp., $29.95 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207301844](https://doi.org/10.1177/0891243207301844)
-**作者**: Loseke, Donileen R.
-**摘要**: （暂无）
-
 ### Metaphors at Work
 **年份**: 2007 | **DOI**: [10.1177/0891243206293378](https://doi.org/10.1177/0891243206293378)
 **作者**: Ollilainen, Marjukka; Calasanti, Toni
 **摘要**: Self-managing teams have been predicted to break down organizational hierarchies and sex-segregated functional divisions. Based on participant observation and interviews with 39 men and women in service-oriented self-managing teams, the authors found that the metaphor of family emerged in interviews…
-
-### Book Review: The Power of Women's Informal Networks: Lessons in Social Change from South Asia and West Africa. Edited by Bandana Purkayastha and Mangala Subramaniam. Landham, MD: Lexington Books, 2004, 132 pp., $69.00 (cloth), $24.95 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207308447](https://doi.org/10.1177/0891243207308447)
-**作者**: Moghadam, Valentine M.
-**摘要**: （暂无）
-
-### Book Review: Erotic Journeys: Mexican Americans and Their Sex Lives
-**年份**: 2007 | **DOI**: [10.1177/0891243206295147](https://doi.org/10.1177/0891243206295147)
-**作者**: Ellis, Kate
-**摘要**: （暂无）
 
 ### Book Reviews: Changing Gender Relations, Changing Families: Tracing the Pace of Change over Time. By Oriel Sullivan. Lanham, MD: Rowman & Littlefield, 2006, 141 pp., $19.95 (paper)
 **年份**: 2007 | **DOI**: [10.1177/0891243207306389](https://doi.org/10.1177/0891243207306389)
@@ -1082,11 +577,6 @@
 **年份**: 2007 | **DOI**: [10.1177/0891243207309907](https://doi.org/10.1177/0891243207309907)
 **作者**: Desai, Manisha
 **摘要**: With some exceptions, feminist scholars have written either about gender and globalizations or about transnational feminisms but rarely examined the relationship between them. In this essay, the author wants to reflect on this relationship to highlight how they have shaped each other.…
-
-### Book Review: The New Single Woman. By E. Kay Trimberger. Boston: Beacon, 2005, 316 pp., $25.95 (cloth), $16.00 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207301582](https://doi.org/10.1177/0891243207301582)
-**作者**: Goldscheider, Frances
-**摘要**: （暂无）
 
 ### “'Cause That's What Girls Do”
 **年份**: 2007 | **DOI**: [10.1177/0891243207306382](https://doi.org/10.1177/0891243207306382)
@@ -1103,20 +593,10 @@
 **作者**: Miller, Tina
 **摘要**: This article focuses on transition to first-time motherhood and explores the experiences of a group of women as they anticipate, give birth, and engage in early mothering. It illuminates how these women draw on, weave together, and challenge dominant strands of discourse that circumscribe their jour…
 
-### Book Review: Going the Whiteman's Way: Kinship and Marriage among Australian Aborigines. By David McKnight. Burlington, VT: Ashgate, 2004, 252 pp., $89.95 (hardcover)
-**年份**: 2007 | **DOI**: [10.1177/0891243207301576](https://doi.org/10.1177/0891243207301576)
-**作者**: Wurtzburg, Susan J.
-**摘要**: （暂无）
-
 ### Work—Family Policies and Poverty for Partnered and Single Women in Europe and North America
 **年份**: 2007 | **DOI**: [10.1177/0891243207308445](https://doi.org/10.1177/0891243207308445)
 **作者**: Misra, Joya; Moller, Stephanie; Budig, Michelle J.
 **摘要**: Work—family policy strategies reflect gendered assumptions about the roles of men and women within families and therefore may lead to significantly different outcomes, particularly for families headed by single mothers.…
-
-### Book Review: Medicalized Masculinities. Edited by Dana Rosenfeld and Christopher A. Faircloth. Philadelphia: Temple University Press, 2006, 272 pp., $24.95 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207300896](https://doi.org/10.1177/0891243207300896)
-**作者**: Braksmajer, Amy; Kimmel, Michael
-**摘要**: （暂无）
 
 ### You Have to Show Strength
 **年份**: 2007 | **DOI**: [10.1177/0891243206294108](https://doi.org/10.1177/0891243206294108)
@@ -1126,11 +606,6 @@
 ### Book Reviews: The Career Mystique: Cracks in the American Dream. By Phyllis Moen and Patricia Roehling. Lanham, MD: Rowman & Littlefield, 2005, 304 pp., $72.00 (cloth), $24.95 (paper)
 **年份**: 2007 | **DOI**: [10.1177/0891243207306390](https://doi.org/10.1177/0891243207306390)
 **作者**: Winslow-Bowe, Sarah
-**摘要**: （暂无）
-
-### Book Review: Flesh and Blood: Adolescent Gender Diversity and Violence. By James W. Messerschmidt. Lanham, MD: Rowman and Littlefield, 2004, 176 pp., $21.95 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207299713](https://doi.org/10.1177/0891243207299713)
-**作者**: Joe Laidler, Karen A.
 **摘要**: （暂无）
 
 ### State Abortion and Nonmarital Birthrates in the Post—Welfare Reform Era
@@ -1148,11 +623,6 @@
 **作者**: Romero, Mary
 **摘要**: （暂无）
 
-### Book Review: Pink Ribbons, Inc.: Breast Cancer and the Politics of Philanthropy. By Samantha King. Minneapolis: University of Minnesota Press, 2006, 157 pp., $24.95 (cloth)
-**年份**: 2007 | **DOI**: [10.1177/0891243207306386](https://doi.org/10.1177/0891243207306386)
-**作者**: Wachs, Faye Linda
-**摘要**: （暂无）
-
 ### The Dignity of Resistance: Women Residents' Activism in Chicago Public Housing. By Roberta M. Feldman and Susan Stall. New York: Cambridge University Press, 2004, 388 pp., $43.99 (hardcover)
 **年份**: 2007 | **DOI**: [10.1177/0891243206295169](https://doi.org/10.1177/0891243206295169)
 **作者**: Weber, Clare
@@ -1163,60 +633,10 @@
 **作者**: Cranford, Cynthia J.
 **摘要**: Based on an ethnography of a Latina/Latino immigrant union, the author examines changes in gender inequality along five dimensions. Union renewal weakened the structural division of union labor, allowing women on staff to realize feminist values of leadership development in concrete goals.…
 
-### Book Review: Global Feminism: Transnational Women's Activism, Organizing, and Human Rights. Edited by Myra Marx Ferree and Aili Mari Tripp. New York: New York University Press, 2006, 336 pp., $65.00 (cloth), $23.00 (paper)
-**年份**: 2007 | **DOI**: [10.1177/0891243207308446](https://doi.org/10.1177/0891243207308446)
-**作者**: Bose, Christine E.
-**摘要**: （暂无）
-
-### Book Review: The Myth of the Military-Nation: Militarism, Gender, and Education in Turkey
-**年份**: 2006 | **DOI**: [10.1177/0891243205279806](https://doi.org/10.1177/0891243205279806)
-**作者**: Hasso, Frances S.
-**摘要**: （暂无）
-
-### Book Review: Encountering Nationalism
-**年份**: 2006 | **DOI**: [10.1177/0891243206292588](https://doi.org/10.1177/0891243206292588)
-**作者**: Misra, Joya
-**摘要**: （暂无）
-
-### Book Review: Virginity Lost: An Intimate Portrait of First Sexual Experiences
-**年份**: 2006 | **DOI**: [10.1177/0891243206291113](https://doi.org/10.1177/0891243206291113)
-**作者**: Fetner, Tina
-**摘要**: （暂无）
-
-### Book Review: Gender, Politics, and Islam, New Pythian Voices: Women Building Political Capital in NGOs in the Middle East
-**年份**: 2006 | **DOI**: [10.1177/0891243205280939](https://doi.org/10.1177/0891243205280939)
-**作者**: Ozyegin, Gul
-**摘要**: （暂无）
-
 ### “I’m Not Thinking of It as Sexual Harassment”
 **年份**: 2006 | **DOI**: [10.1177/0891243205282785](https://doi.org/10.1177/0891243205282785)
 **作者**: Welsh, Sandy; Carr, Jacquie; MacQuarrie, Barbara 等4人
 **摘要**: How do diverse groups of women in Canada define sexual harassment? To answer this question requires incorporating race and citizenship into the analysis of sexual harassment. The authors use data from seven focus groups of Canadian women.…
-
-### Book Review: Making Sense of Motherhood: A Narrative Approach
-**年份**: 2006 | **DOI**: [10.1177/0891243206288822](https://doi.org/10.1177/0891243206288822)
-**作者**: Copelton, Denise A.
-**摘要**: （暂无）
-
-### Book Review: Israeli Women's Studies: A Reader
-**年份**: 2006 | **DOI**: [10.1177/0891243206288487](https://doi.org/10.1177/0891243206288487)
-**作者**: Glazer, Ilsa M.
-**摘要**: （暂无）
-
-### Book Review: Lucia: Testimonies of a Brazilian Drug Dealer’s Woman
-**年份**: 2006 | **DOI**: [10.1177/0891243206292761](https://doi.org/10.1177/0891243206292761)
-**作者**: Titterington, Victoria B.
-**摘要**: （暂无）
-
-### Book Review: Mucho Macho: Seduction, Desire, and the Homoerotic Lives of Latin Men
-**年份**: 2006 | **DOI**: [10.1177/0891243205281615](https://doi.org/10.1177/0891243205281615)
-**作者**: González-López, Gloria
-**摘要**: （暂无）
-
-### Book Review: Prozac on the Couch: Prescribing Gender in the Era of Wonder Drugs
-**年份**: 2006 | **DOI**: [10.1177/0891243206288332](https://doi.org/10.1177/0891243206288332)
-**作者**: Mamo, Laura
-**摘要**: （暂无）
 
 ### Taking Women Professionals Out of the Office
 **年份**: 2006 | **DOI**: [10.1177/0891243205283107](https://doi.org/10.1177/0891243205283107)
@@ -1228,35 +648,10 @@
 **作者**: Acker, Joan
 **摘要**: In this article, the author addresses two feminist issues: first, how to conceptualize intersectionality, the mutual reproduction of class, gender, and racial relations of inequality, and second, how to identify barriers to creating equality in work organizations.…
 
-### Book Review: Breaking the Bowls: Degendering and Feminist Change
-**年份**: 2006 | **DOI**: [10.1177/0891243205285013](https://doi.org/10.1177/0891243205285013)
-**作者**: Purkayastha, Bandana
-**摘要**: （暂无）
-
-### Book Review: Geographies of Muslim Women: Gender, Religion, and Space
-**年份**: 2006 | **DOI**: [10.1177/0891243206292857](https://doi.org/10.1177/0891243206292857)
-**作者**: Hasso, Frances S.
-**摘要**: （暂无）
-
-### Book Review: Abortion in the USA and the UK
-**年份**: 2006 | **DOI**: [10.1177/0891243206290505](https://doi.org/10.1177/0891243206290505)
-**作者**: Morton, Christine H.
-**摘要**: （暂无）
-
-### Book Review: Making Sweatshops: The Globalization of the U.S. Apparel Industry
-**年份**: 2006 | **DOI**: [10.1177/0891243205284321](https://doi.org/10.1177/0891243205284321)
-**作者**: Mendez, Jennifer Bickham
-**摘要**: （暂无）
-
 ### Retrofitting Frontier Masculinity for Alaska's War Against Wolves
 **年份**: 2006 | **DOI**: [10.1177/0891243206286319](https://doi.org/10.1177/0891243206286319)
 **作者**: Anahita, Sine; Mix, Tamara L.
 **摘要**: The state of Alaska has a complex historical relationship with its wild wolf packs. The authors expand Connell's concept of frontier masculinity to interpret articles from the Anchorage Daily News as an alternative way to understand Alaska's shifting wolf policies.…
-
-### Book Review: Chinese Visions of Family and State, 1915-1953
-**年份**: 2006 | **DOI**: [10.1177/0891243205285117](https://doi.org/10.1177/0891243205285117)
-**作者**: Lee, Jender
-**摘要**: （暂无）
 
 ### The Power of the Purse
 **年份**: 2006 | **DOI**: [10.1177/0891243206286742](https://doi.org/10.1177/0891243206286742)
@@ -1268,16 +663,6 @@
 **作者**: Steinbugler, Amy C.; Press, Julie E.; Dias, Janice Johnson
 **摘要**: In this article, the authors operationalize the intersection of gender and race in survey research. Using quantitative data from the Multi-City Study of Urban Inequality, they investigate how gender/racial stereotypes about African Americans affect Whites’ attitudes about two types of affirmative ac…
 
-### Book Review: Pobladoras, Indígenas, and the State: Conflicts over Women’s Rights in Chile
-**年份**: 2006 | **DOI**: [10.1177/0891243205281839](https://doi.org/10.1177/0891243205281839)
-**作者**: Franceschet, Susan
-**摘要**: （暂无）
-
-### Book Review: Backlash against Welfare Mothers: Past and Present
-**年份**: 2006 | **DOI**: [10.1177/0891243206289227](https://doi.org/10.1177/0891243206289227)
-**作者**: Cheng, Shu-Ju Ada
-**摘要**: （暂无）
-
 ### Hard Drives and Glass Ceilings
 **年份**: 2006 | **DOI**: [10.1177/0891243205285371](https://doi.org/10.1177/0891243205285371)
 **作者**: McKay, Steven C.
@@ -1287,11 +672,6 @@
 **年份**: 2006 | **DOI**: [10.1177/0891243205284498](https://doi.org/10.1177/0891243205284498)
 **作者**: Petrzelka, Peggy; Mannon, Susan E.
 **摘要**: Past studies have shown that women’s volunteer work benefits communities but that women themselves tend to minimize their efforts. Most of these studies, however, have been limited to women volunteering in suburban and urban contexts.…
-
-### Book Review: Latina Legacies: Identity, Biography and Community
-**年份**: 2006 | **DOI**: [10.1177/0891243206293775](https://doi.org/10.1177/0891243206293775)
-**作者**: Garcia, Alma M.
-**摘要**: （暂无）
 
 ### Love in the Time of Neo-Liberalism
 **年份**: 2006 | **DOI**: [10.1177/0891243206288042](https://doi.org/10.1177/0891243206288042)
@@ -1323,35 +703,10 @@
 **作者**: Budig, Michelle J.
 **摘要**: Using data from the 1979 to 1998 waves of the National Longitudinal Survey of Youth, the author explores how gender, family, and class alter the impact of self-employment on earnings.…
 
-### Book Review: Negotiating Ethnicity: South Asian Americans Traverse a Transnational World
-**年份**: 2006 | **DOI**: [10.1177/0891243206293302](https://doi.org/10.1177/0891243206293302)
-**作者**: Abraham, Margaret
-**摘要**: （暂无）
-
-### Book Review: Heads above Water: Gender, Class, and the Family in the Grand Forks Flood
-**年份**: 2006 | **DOI**: [10.1177/0891243206289294](https://doi.org/10.1177/0891243206289294)
-**作者**: Feltey, Kathryn
-**摘要**: （暂无）
-
 ### Does Father Care Mean Fathers Share?
 **年份**: 2006 | **DOI**: [10.1177/0891243205285212](https://doi.org/10.1177/0891243205285212)
 **作者**: Craig, Lyn
 **摘要**: This article uses diary data from the most recent Australian Bureau of Statistics Time Use Survey (N > 4,000) to compare by gender total child care time calculated in the measurements of (1) main activity, (2) main or secondary activity, and (3) total time spent in the company of children.…
-
-### Book Review: Bootstrap Dreams: U.S. Microenterprise Development in an Era of Welfare Reform
-**年份**: 2006 | **DOI**: [10.1177/0891243205281780](https://doi.org/10.1177/0891243205281780)
-**作者**: Dworkin, Shari L.
-**摘要**: （暂无）
-
-### Book Review: Transnational Adoption: A Cultural Economy of Race, Gender, and Kinship
-**年份**: 2006 | **DOI**: [10.1177/0891243206292856](https://doi.org/10.1177/0891243206292856)
-**作者**: Traver, Amy E.
-**摘要**: （暂无）
-
-### Book Review: Professional Identity Crisis: Race, Class, Gender and Success at Professional Schools
-**年份**: 2006 | **DOI**: [10.1177/0891243206291787](https://doi.org/10.1177/0891243206291787)
-**作者**: Davis, Shannon N.
-**摘要**: （暂无）
 
 ### “Hitting is not Manly”
 **年份**: 2006 | **DOI**: [10.1177/0891243206292002](https://doi.org/10.1177/0891243206292002)
@@ -1373,35 +728,15 @@
 **作者**: Shih, Johanna
 **摘要**: This article compares the experiences of U.S.-born white women, Asian men, and Asian women immigrant engineers in Silicon Valley. It focuses on two particular characteristics of the region’s economic structure: the norm of job-hopping and the centrality of networks to high-skilled workers’ career li…
 
-### Book Review: Weaving a Family: Untangling Race and Adoption
-**年份**: 2006 | **DOI**: [10.1177/0891243205285277](https://doi.org/10.1177/0891243205285277)
-**作者**: Laube, Heather
-**摘要**: （暂无）
-
 ### “No Way My Boys Are Going to Be Like That!”
 **年份**: 2006 | **DOI**: [10.1177/0891243205284276](https://doi.org/10.1177/0891243205284276)
 **作者**: Kane, Emily W.
 **摘要**: Drawing on qualitative interviews with parents of preschool children, the author addresses parental responses to children’s gender nonconformity. The author’s analyses indicate that parents welcome what they perceive as gender nonconformity among their young daughters, while their responses in relat…
 
-### Book Review: A Vision for Girls: Gender, Education, and the Bryn Mawr School
-**年份**: 2006 | **DOI**: [10.1177/0891243205285405](https://doi.org/10.1177/0891243205285405)
-**作者**: Wysocki, Diane Kholos
-**摘要**: （暂无）
-
 ### Poor Women's Discourses of Legitimacy, Poverty, and Health
 **年份**: 2006 | **DOI**: [10.1177/0891243206286939](https://doi.org/10.1177/0891243206286939)
 **作者**: Reid, Colleen; Tom, Allison
 **摘要**: In this study, we sought a better understanding of how poor women made meaning of their poverty and health. Twenty research participants used varied, multiple, and at times contradictory discourses that shaped their identities as both legitimate and powerful and illegitimate and powerless.…
-
-### Book Review: Birthing Fathers: The Transformation of Men in American Rites of Birth
-**年份**: 2006 | **DOI**: [10.1177/0891243205281836](https://doi.org/10.1177/0891243205281836)
-**作者**: Rothman, Barbara Katz
-**摘要**: （暂无）
-
-### Book Review: Feminism and Method: Ethnography, Discourse Analysis, and Activist Research
-**年份**: 2006 | **DOI**: [10.1177/0891243205279805](https://doi.org/10.1177/0891243205279805)
-**作者**: Hood, Jane
-**摘要**: （暂无）
 
 ### Making Men in Gay Fraternities
 **年份**: 2006 | **DOI**: [10.1177/0891243205281267](https://doi.org/10.1177/0891243205281267)
@@ -1427,16 +762,6 @@
 **年份**: 2006 | **DOI**: [10.1177/0891243206291046](https://doi.org/10.1177/0891243206291046)
 **摘要**: （暂无）
 
-### Book Review: The Qualities of a Citizen: Women, Immigration, and Citizenship, 1870-1965
-**年份**: 2006 | **DOI**: [10.1177/0891243206286747](https://doi.org/10.1177/0891243206286747)
-**作者**: Parreñas, Rhacel Salazar
-**摘要**: （暂无）
-
-### Book Review: Writing the Wrongs: Eva Valesh and the Rise of Labor Journalism
-**年份**: 2006 | **DOI**: [10.1177/0891243205280793](https://doi.org/10.1177/0891243205280793)
-**作者**: Batch, Rachel A.
-**摘要**: （暂无）
-
 ### Honor and Virtue
 **年份**: 2006 | **DOI**: [10.1177/0891243205282660](https://doi.org/10.1177/0891243205282660)
 **作者**: Dreby, Joanna
@@ -1447,21 +772,6 @@
 **作者**: Chong, Kelly H.
 **摘要**: Based on ethnographic research, this study investigates the meaning and impact of women’s involvement in South Korean evangelicalism. While recent works addressing the “paradox” of women’s participation in conservative religions have highlighted the significance of these religions as unexpected vehi…
 
-### Book Review: The Violent Woman: Femininity, Narrative, and Violence in Contemporary American Cinema; Wonder Women: Feminisms and Superheroes
-**年份**: 2006 | **DOI**: [10.1177/0891243205283658](https://doi.org/10.1177/0891243205283658)
-**作者**: King, Neal
-**摘要**: （暂无）
-
-### Book Review: Promises I Can Keep: Why Poor Women Put Motherhood before Marriage
-**年份**: 2006 | **DOI**: [10.1177/0891243206290119](https://doi.org/10.1177/0891243206290119)
-**作者**: Pugh, Allison J.
-**摘要**: （暂无）
-
-### Book Review: Men in the Middle: Searching for Masculinity in the 1950s
-**年份**: 2006 | **DOI**: [10.1177/0891243206286471](https://doi.org/10.1177/0891243206286471)
-**作者**: De Oca, Jeffrey Montez
-**摘要**: （暂无）
-
 ### Gendered Modernity and Ethnicized Citizenship
 **年份**: 2006 | **DOI**: [10.1177/0891243206291412](https://doi.org/10.1177/0891243206291412)
 **作者**: Choo, Hae Yeon
@@ -1471,21 +781,6 @@
 **年份**: 2006 | **DOI**: [10.1177/0891243206290720](https://doi.org/10.1177/0891243206290720)
 **作者**: Kempner, Joanna
 **摘要**: Cluster headache is a notoriously painful and dramatic disorder. Unlike other pain disorders, which tend to affect women, cluster headache is thought to predominantly affect men. Drawing on ethnography, interviews with headache researchers, and an analysis of the medical literature, this article des…
-
-### Book Review: Empire of Care: Nursing and Migration in Filipino American History, Home Bound: Filipino American Lives across Cultures, Communities, and Countries
-**年份**: 2005 | **DOI**: [10.1177/0891243205277266](https://doi.org/10.1177/0891243205277266)
-**作者**: Cheng, Shu-Ju Ada
-**摘要**: （暂无）
-
-### Book Review: Framing a Domain for Work and Family: A Study of Women in Residential Real Estate Sales Work
-**年份**: 2005 | **DOI**: [10.1177/0891243204269102](https://doi.org/10.1177/0891243204269102)
-**作者**: Henson, Kevin D.
-**摘要**: （暂无）
-
-### Book Review: Women’s Activism and Globalization: Linking Local Struggles and Transnational Politics
-**年份**: 2005 | **DOI**: [10.1177/0891243204264270](https://doi.org/10.1177/0891243204264270)
-**作者**: Slobin, Kathleen
-**摘要**: （暂无）
 
 ### Becoming Entrepreneurs
 **年份**: 2005 | **DOI**: [10.1177/0891243205280104](https://doi.org/10.1177/0891243205280104)
@@ -1502,11 +797,6 @@
 **作者**: McCormack, Karen
 **摘要**: The welfare mother is a powerful symbol of the supposed irresponsible, sexually promiscuous, and immoral behavior of the poor. Resting on dominant ideologies of race, class, and gender, the welfare mother suggests not a poor mother but a bad mother.…
 
-### Book Review: Dangerous Desire: Sexual Freedom and Sexual Violence since the Sixties
-**年份**: 2005 | **DOI**: [10.1177/0891243205279255](https://doi.org/10.1177/0891243205279255)
-**作者**: King, Neal
-**摘要**: （暂无）
-
 ### Turncoat Bodies
 **年份**: 2005 | **DOI**: [10.1177/0891243204273076](https://doi.org/10.1177/0891243204273076)
 **作者**: Tambiah, Yasmin
@@ -1517,35 +807,10 @@
 **作者**: Norgaard, Kari; York, Richard
 **摘要**: There are several compelling reasons to expect that gender equality may serve to foster state environmentalism. However, most previous research on environmental politics has neglected gender.…
 
-### Book Review: Prostitution, Race & Politics: Policing Venereal Disease in the British Empire
-**年份**: 2005 | **DOI**: [10.1177/0891243204269509](https://doi.org/10.1177/0891243204269509)
-**作者**: Kuo, Lenore
-**摘要**: （暂无）
-
 ### Engendering Trauma
 **年份**: 2005 | **DOI**: [10.1177/0891243205277310](https://doi.org/10.1177/0891243205277310)
 **作者**: McGuffey, C. Shawn
 **摘要**: Using extra familial child sexual abuse (CSA) as an example of family trauma, the author interviewed 60 parents of sexually abused boys on multiple occasions to analyze the organization of gender, race, and class in parental coping processes.…
-
-### Book Review: Self-Made Men: Identity and Embodiment among Transsexual Men
-**年份**: 2005 | **DOI**: [10.1177/0891243204268771](https://doi.org/10.1177/0891243204268771)
-**作者**: Schilt, Kristen
-**摘要**: （暂无）
-
-### Book Review: Sex and the State: Abortion, Divorce, and the Family under Latin American Dictatorships and Democracies
-**年份**: 2005 | **DOI**: [10.1177/0891243204264294](https://doi.org/10.1177/0891243204264294)
-**作者**: Lind, Amy
-**摘要**: （暂无）
-
-### Book Review: Couldn’t Keep It to Myself: Testimonies from Our Imprisoned Sisters, Convicted Survivors: The Imprisonment of Battered Women Who Kill
-**年份**: 2005 | **DOI**: [10.1177/0891243205274542](https://doi.org/10.1177/0891243205274542)
-**作者**: Lempert, Lora Bex
-**摘要**: （暂无）
-
-### Book Review: Disciplining Gender: Rhetorics of Sex Identity in Contemporary U.S. Culture
-**年份**: 2005 | **DOI**: [10.1177/0891243204272511](https://doi.org/10.1177/0891243204272511)
-**作者**: Friedman, Asia
-**摘要**: （暂无）
 
 ### Sex, Drugs, and HIV
 **年份**: 2005 | **DOI**: [10.1177/0891243205280106](https://doi.org/10.1177/0891243205280106)
@@ -1567,11 +832,6 @@
 **作者**: Trautner, Mary Nell
 **摘要**: Organizations are not only gendered; they are also classed—that is, they articulate ideas and presentations of gender that are mediated by class position. This article pursues the idea of organizations as gendered and classed by means of a comparative ethnographic analysis of the performance of sexu…
 
-### Book Review: “A Roof over My Head”: Homeless Women and the Shelter Industry
-**年份**: 2005 | **DOI**: [10.1177/0891243204268840](https://doi.org/10.1177/0891243204268840)
-**作者**: Simonds, Wendy
-**摘要**: （暂无）
-
 ### Dress Matters
 **年份**: 2005 | **DOI**: [10.1177/0891243204269716](https://doi.org/10.1177/0891243204269716)
 **作者**: Huisman, Kimberly; Hondagneu-Sotelo, Pierrette
@@ -1592,21 +852,6 @@
 **作者**: Schrock, Douglas; Reid, Lori; Boyd, Emily M.
 **摘要**: This article draws on in-depth interviews with nine white, middle-class, male-to-female transsexuals to examine how they produce and experience bodily transformation. Interviewees’ bodywork entailed retraining, redecorating, and reshaping the physical body, which shaped their feelings, role-taking, …
 
-### Book Review: Working Feminism
-**年份**: 2005 | **DOI**: [10.1177/0891243205277880](https://doi.org/10.1177/0891243205277880)
-**作者**: Akalin, Ayse
-**摘要**: （暂无）
-
-### Book Review: Immigrant Women Tell Their Stories
-**年份**: 2005 | **DOI**: [10.1177/0891243205277104](https://doi.org/10.1177/0891243205277104)
-**作者**: Budani, Donna
-**摘要**: （暂无）
-
-### Book Review: A Courtship after Marriage: Sexuality and Love in Mexican Transnational Families
-**年份**: 2005 | **DOI**: [10.1177/0891243204271498](https://doi.org/10.1177/0891243204271498)
-**作者**: Menjivar, Cecilia
-**摘要**: （暂无）
-
 ### Selling Compromise
 **年份**: 2005 | **DOI**: [10.1177/0891243205279286](https://doi.org/10.1177/0891243205279286)
 **作者**: Pugh, Allison J.
@@ -1616,26 +861,6 @@
 **年份**: 2005 | **DOI**: [10.1177/0891243204272861](https://doi.org/10.1177/0891243204272861)
 **作者**: Radhakrishnan, Smitha
 **摘要**: Facing marginalization in the political context of the “new South Africa” and lost social and economic privileges under a Black government, South African Indians articulate the need to keep up culture.…
-
-### Book Review: The Minds of Marginalized Black Men: Making Sense of Mobility, Opportunity, and Future Life Chances
-**年份**: 2005 | **DOI**: [10.1177/0891243205274821](https://doi.org/10.1177/0891243205274821)
-**作者**: Gunn, Raymond
-**摘要**: （暂无）
-
-### Book Review: Evolution’s Rainbow: Diversity, Gender, and Sexuality in Nature and People
-**年份**: 2005 | **DOI**: [10.1177/0891243204269612](https://doi.org/10.1177/0891243204269612)
-**作者**: Simpson, Layne A.
-**摘要**: （暂无）
-
-### Book Review: Workers and Warriors: Masculinity and the Struggle for Nation in South Africa
-**年份**: 2005 | **DOI**: [10.1177/0891243204272515](https://doi.org/10.1177/0891243204272515)
-**作者**: Washington, Robert E.
-**摘要**: （暂无）
-
-### Book Review: Feminism without Borders: Decolonizing Theory, Practicing Solidarity
-**年份**: 2005 | **DOI**: [10.1177/0891243204264818](https://doi.org/10.1177/0891243204264818)
-**作者**: Veeraghanta, Seetha
-**摘要**: （暂无）
 
 ### Who Manages Feminist-Inspired Reform? An In-Depth Look at Title IX Coordinators in the United States
 **年份**: 2005 | **DOI**: [10.1177/0891243204272616](https://doi.org/10.1177/0891243204272616)
@@ -1672,30 +897,10 @@
 **作者**: Duffy, Mignon
 **摘要**: The author uses census data to assess the consequences of two alternative theoretical formulations of care work for understanding the intersections of gender, race, and economic inequalities in paid care.…
 
-### Book Review: Recognition Struggles and Social Movements: Contested Identities, Agency and Power
-**年份**: 2005 | **DOI**: [10.1177/0891243204274266](https://doi.org/10.1177/0891243204274266)
-**作者**: Misra, Joya
-**摘要**: （暂无）
-
-### Book Review: United Apart: Gender and the Rise of Craft Unionism
-**年份**: 2005 | **DOI**: [10.1177/0891243205276940](https://doi.org/10.1177/0891243205276940)
-**作者**: Luce, Stephanie
-**摘要**: （暂无）
-
 ### Make Room for Daddy
 **年份**: 2005 | **DOI**: [10.1177/0891243205277309](https://doi.org/10.1177/0891243205277309)
 **作者**: Stein, Arlene
 **摘要**: What are the sources of continuing antipathy toward homosexuality, and what might they tell us about changing forms of American masculinity? This article documents some emergent homophobias circulating among conservative activists in relation to campaigns against gay rights in the early 1990s and ag…
-
-### Book Review: Women’s Studies in the Academy: Origins and Impact
-**年份**: 2005 | **DOI**: [10.1177/0891243204271445](https://doi.org/10.1177/0891243204271445)
-**作者**: Howe, Barbara J.
-**摘要**: （暂无）
-
-### Book Review: Feminist Activism in the Supreme Court: Legal Mobilization and the Women’s Legal Education and Action Fund
-**年份**: 2005 | **DOI**: [10.1177/0891243204269056](https://doi.org/10.1177/0891243204269056)
-**作者**: Gorman, Elizabeth
-**摘要**: （暂无）
 
 ### Looking Behind the Stereotypes of the “Angry Black Woman”
 **年份**: 2005 | **DOI**: [10.1177/0891243205276755](https://doi.org/10.1177/0891243205276755)
@@ -1717,16 +922,6 @@
 **作者**: McCabe, Janice
 **摘要**: Although scholars and media critics have suspected a disconnect between feminist self-identification and attitudes among the U.S. public, little is known empirically about this relationship.…
 
-### Book Review: Reforming Welfare by Rewarding Work: One State’s Successful Experiment
-**年份**: 2005 | **DOI**: [10.1177/0891243205274586](https://doi.org/10.1177/0891243205274586)
-**作者**: Embser-Herbert, Melissa Sheridan
-**摘要**: （暂无）
-
-### Book Review: On the Move: Women in Rural-to-Urban Migration in Contemporary China
-**年份**: 2005 | **DOI**: [10.1177/0891243204269137](https://doi.org/10.1177/0891243204269137)
-**作者**: Zhang, Naihua
-**摘要**: （暂无）
-
 ### A Self of One’s Own
 **年份**: 2005 | **DOI**: [10.1177/0891243204273125](https://doi.org/10.1177/0891243204273125)
 **作者**: Chen, Carolyn
@@ -1737,30 +932,10 @@
 **作者**: Hennen, Peter
 **摘要**: Bears comprise a subculture of gay men who valorize the larger, hirsute body. This research interrogates Bear culture as a gendered strategy for repudiating effeminacy that simultaneously challenges and reproduces norms of hegemonic masculinity.…
 
-### Book Review: Emotional Trials: The Moral Dilemmas of Women Criminal Defense Attorneys
-**年份**: 2005 | **DOI**: [10.1177/0891243204274171](https://doi.org/10.1177/0891243204274171)
-**作者**: Foley, Lara
-**摘要**: （暂无）
-
 ### Hegemonic Masculinity
 **年份**: 2005 | **DOI**: [10.1177/0891243205278639](https://doi.org/10.1177/0891243205278639)
 **作者**: Connell, R. W.; Messerschmidt, James W.
 **摘要**: The concept of hegemonic masculinity has influenced gender studies across many academic fields but has also attracted serious criticism. The authors trace the origin of the concept in a convergence of ideas in the early 1980s and map the ways it was applied when research on men and masculinities exp…
-
-### Book Review: Consuming the Caribbean: From Arawaks to Zombies
-**年份**: 2005 | **DOI**: [10.1177/0891243205276399](https://doi.org/10.1177/0891243205276399)
-**作者**: Karides, Marina
-**摘要**: （暂无）
-
-### Book Review: Connecting Girls and Science: Constructivism, Feminism, and Science Education Reform
-**年份**: 2005 | **DOI**: [10.1177/0891243205276254](https://doi.org/10.1177/0891243205276254)
-**作者**: Kramer, Laura
-**摘要**: （暂无）
-
-### Book Review: Am I Still a Woman? Hysterectomy and Gender Identity
-**年份**: 2005 | **DOI**: [10.1177/0891243204268681](https://doi.org/10.1177/0891243204268681)
-**作者**: Fingerson, Laura
-**摘要**: （暂无）
 
 ### The Gendered Rice Bowl
 **年份**: 2005 | **DOI**: [10.1177/0891243205276794](https://doi.org/10.1177/0891243205276794)
@@ -1782,28 +957,8 @@
 **作者**: Valocchi, Stephen
 **摘要**: This article gauges the progress that sociologists of gender and sexuality have made in employing the insights of queer theory by examining four recent monographs that have utilized aspects of queer theory in their empirical work: Rupp and Taylor (2003), Seidman (2002), Bettie (2003), and Schippers …
 
-### Book Review: Migration, Mujercitas, and Medicine Men: Living in Urban Mexico
-**年份**: 2005 | **DOI**: [10.1177/0891243205274704](https://doi.org/10.1177/0891243205274704)
-**作者**: Menjívar, Cecilia
-**摘要**: （暂无）
-
-### Book Review: Philosophical Chaucer: Love, Sex, and Agency in the Canterbury Tales
-**年份**: 2005 | **DOI**: [10.1177/0891243205279565](https://doi.org/10.1177/0891243205279565)
-**作者**: Castaldo, Annalisa
-**摘要**: （暂无）
-
 ### With Thanks
 **年份**: 2005 | **DOI**: [10.1177/0891243205280893](https://doi.org/10.1177/0891243205280893)
-**摘要**: （暂无）
-
-### Book Review: Governing NOW: Grassroots Activism in the National Organization for Women
-**年份**: 2005 | **DOI**: [10.1177/0891243205279151](https://doi.org/10.1177/0891243205279151)
-**作者**: Staggenborg, Suzanne
-**摘要**: （暂无）
-
-### Book Review: New Spaces and Old Frontiers: Women, Social Space, and Islamization in Sudan
-**年份**: 2005 | **DOI**: [10.1177/0891243205277504](https://doi.org/10.1177/0891243205277504)
-**作者**: Mason, Kathryn
 **摘要**: （暂无）
 
 ### Transnational Sexualities in One Place
@@ -1816,40 +971,10 @@
 **作者**: Prokos, Anastasia; Padavic, Irene
 **摘要**: This article uses a nationally representative data set to determine the role of glass ceiling barriers and cohort effects on the earnings differences between women and men in an elite and growing group of professionals: Scientists and engineers.…
 
-### Book Review: The Melodrama of Mobility: Women, Talk, and Class in Contemporary South Korea
-**年份**: 2005 | **DOI**: [10.1177/0891243204270728](https://doi.org/10.1177/0891243204270728)
-**作者**: Moon, Seungsook
-**摘要**: （暂无）
-
 ### The Elusive Ingénue
 **年份**: 2005 | **DOI**: [10.1177/0891243204272781](https://doi.org/10.1177/0891243204272781)
 **作者**: Tambe, Ashwini
 **摘要**: European prostitutes occupied an important intermediary status in colonial Bombay’s racially stratified sexual order. In this article, the author offers a transnational feminist analysis of how the colonial state managed its racial and spatial location.…
-
-### Book Review: Separate Roads to Feminism: Black, Chicana, and White Feminist Movements in America's Second Wave
-**年份**: 2005 | **DOI**: [10.1177/0891243205279287](https://doi.org/10.1177/0891243205279287)
-**作者**: Richards, Patricia
-**摘要**: （暂无）
-
-### Book Review: Changing Corporate America from Inside Out: Lesbian and Gay Workplace Rights
-**年份**: 2005 | **DOI**: [10.1177/0891243205279731](https://doi.org/10.1177/0891243205279731)
-**作者**: Giuffre, Patti A.
-**摘要**: （暂无）
-
-### Book Review: Pledged: The Secret Life of Sororities
-**年份**: 2005 | **DOI**: [10.1177/0891243204274168](https://doi.org/10.1177/0891243204274168)
-**作者**: Joseph, Lauren
-**摘要**: （暂无）
-
-### Book Review: Global Prescriptions: Gendering Health and Human Rights
-**年份**: 2005 | **DOI**: [10.1177/0891243204264295](https://doi.org/10.1177/0891243204264295)
-**作者**: Booth, Karen M.
-**摘要**: （暂无）
-
-### Book Review: Feeding Anorexia: Gender and Power at a Treatment Center
-**年份**: 2005 | **DOI**: [10.1177/0891243204270903](https://doi.org/10.1177/0891243204270903)
-**作者**: Citeroni, Tracy B.
-**摘要**: （暂无）
 
 ### Menopause is the “Good Old”
 **年份**: 2005 | **DOI**: [10.1177/0891243204271350](https://doi.org/10.1177/0891243204271350)
@@ -1881,11 +1006,6 @@
 **作者**: Hammons-Bryner, Sue
 **摘要**: （暂无）
 
-### Book Review: Rapunzel’s Daughters: What Women’s Hair Tells Us about Women’s Lives
-**年份**: 2004 | **DOI**: [10.1177/0891243204267957](https://doi.org/10.1177/0891243204267957)
-**作者**: Drentea, Patricia
-**摘要**: （暂无）
-
 ### Gender As a Social Structure
 **年份**: 2004 | **DOI**: [10.1177/0891243204265349](https://doi.org/10.1177/0891243204265349)
 **作者**: Risman, Barbara J.
@@ -1904,11 +1024,6 @@
 ### Book Reviews
 **年份**: 2004 | **DOI**: [10.1177/0891243203260737](https://doi.org/10.1177/0891243203260737)
 **作者**: Paulsen, Krista E.
-**摘要**: （暂无）
-
-### Book Review: Contentious Lives, Two ArgentineWomen, Two Protests, and the Quest for Recognition
-**年份**: 2004 | **DOI**: [10.1177/0891243204268447](https://doi.org/10.1177/0891243204268447)
-**作者**: Martín, Kathleen R.
 **摘要**: （暂无）
 
 ### Girls’ Low Self-Esteem
@@ -1950,11 +1065,6 @@
 **年份**: 2004 | **DOI**: [10.1177/0891243204265138](https://doi.org/10.1177/0891243204265138)
 **作者**: Predelli, Line Nyhagen
 **摘要**: This article explores variation in how immigrant Muslim women in Oslo, Norway, interpret and practice gender relations within the framework of Islam. Religion, family, and work are important sites for the formation, negotiation, and change of gender relations.…
-
-### Book Review: Gender and Social Theory
-**年份**: 2004 | **DOI**: [10.1177/0891243204267845](https://doi.org/10.1177/0891243204267845)
-**作者**: Branaman, Ann
-**摘要**: （暂无）
 
 ### Book Reviews
 **年份**: 2004 | **DOI**: [10.1177/089124320401800507](https://doi.org/10.1177/089124320401800507)
@@ -2038,11 +1148,6 @@
 ### Queer Parenting in the New Millennium
 **年份**: 2004 | **DOI**: [10.1177/0891243204269396](https://doi.org/10.1177/0891243204269396)
 **作者**: Naples, Nancy A.
-**摘要**: （暂无）
-
-### Book Review: What Is Sexual Harassment? From Capital Hill to the Sorbonne
-**年份**: 2004 | **DOI**: [10.1177/0891243204267844](https://doi.org/10.1177/0891243204267844)
-**作者**: Giuffre, Patti A.
 **摘要**: （暂无）
 
 ### Sexuality, Power, and Camaraderie in Service Work
@@ -2174,11 +1279,6 @@
 **作者**: Stombler, Mindy
 **摘要**: （暂无）
 
-### Book Review: Competing Devotions: Career and Family among Women Executives, Flat Broke with Children: Women in the Age of Welfare Reform
-**年份**: 2004 | **DOI**: [10.1177/0891243204267958](https://doi.org/10.1177/0891243204267958)
-**作者**: Calasanti, Toni; Jebo, Jennifer
-**摘要**: （暂无）
-
 ### Book Reviews
 **年份**: 2004 | **DOI**: [10.1177/0891243203260430](https://doi.org/10.1177/0891243203260430)
 **作者**: Dillaway, Heather E.
@@ -2202,11 +1302,6 @@
 ### Book Reviews
 **年份**: 2003 | **DOI**: [10.1177/08912432030175008](https://doi.org/10.1177/08912432030175008)
 **作者**: Phillips, Mona Taylor
-**摘要**: （暂无）
-
-### Book Review: Doméstica: Immigrant Workers Cleaning and Caring in the Shadows of Affluence. By Pierrette Hondagneu-Sotelo. Berkeley: University of California Press, 2001, $59.95 (cloth), $19.95 (paper).
-**年份**: 2003 | **DOI**: [10.1177/0891243203017002016](https://doi.org/10.1177/0891243203017002016)
-**作者**: Wrigley, Julia
 **摘要**: （暂无）
 
 ### Women's Gendered Experiences as Long-Term Three Mile Island Activists
@@ -2234,25 +1329,10 @@
 **作者**: Bose, Christine E.
 **摘要**: （暂无）
 
-### Book Review: Complex Inequality: Gender, Class, and Race in the New Economy. By Leslie Mccall. New York: Routledge, 2001, 228 pp., $85.00 (cloth), $22.95 (paper)
-**年份**: 2003 | **DOI**: [10.1177/0891243202238984](https://doi.org/10.1177/0891243202238984)
-**作者**: Karides, Marina
-**摘要**: （暂无）
-
-### From the Book Review Editors: Disciplines and Borderlands
-**年份**: 2003 | **DOI**: [10.1177/0891243203017003001](https://doi.org/10.1177/0891243203017003001)
-**作者**: Grant, Linda; Beoku-Betts, Josephine
-**摘要**: （暂无）
-
 ### Central State Child Care Policies In Postauthoritarian Spain
 **年份**: 2003 | **DOI**: [10.1177/0891243202250849](https://doi.org/10.1177/0891243202250849)
 **作者**: Valiente, Celia
 **摘要**: In Spain, public preschool programs have continuously expanded in the past three decades. However, this education policy has done little to support increases in the proportion of women in the paid workforce.…
-
-### Book Review: The Corporation as Family: The Gendering of Corporate Welfare, 1890-1930. By Nikki Mandell. Chapel Hill: University of North Carolina Press, 2002, 208 pp., $49.95 (cloth), $19.95 (paper)
-**年份**: 2003 | **DOI**: [10.1177/0891243202238991](https://doi.org/10.1177/0891243202238991)
-**作者**: Moller, Stephanie
-**摘要**: （暂无）
 
 ### Korean “Comfort Women”
 **年份**: 2003 | **DOI**: [10.1177/0891243203257584](https://doi.org/10.1177/0891243203257584)
@@ -2318,11 +1398,6 @@
 **作者**: Sheff, Elisabeth
 **摘要**: （暂无）
 
-### Book Review: Medical Careers and Feminist Agendas. By Elianne Riska. New York: Aldine de Gruyter, 2001, 172 pp., $39.95 (cloth), $19.95 (paperback)
-**年份**: 2003 | **DOI**: [10.1177/0891243202238992](https://doi.org/10.1177/0891243202238992)
-**作者**: Boulis, Ann
-**摘要**: （暂无）
-
 ### Trafficking, Migration, and the Law
 **年份**: 2003 | **DOI**: [10.1177/0891243203257477](https://doi.org/10.1177/0891243203257477)
 **作者**: Chapkis, Wendy
@@ -2342,11 +1417,6 @@
 **年份**: 2003 | **DOI**: [10.1177/0891243202238980](https://doi.org/10.1177/0891243202238980)
 **作者**: Fischer, Nancy L.
 **摘要**: This article describes the meaning of incest in contemporary popular culture. The author explores how feminism and changes in systems of kinship and sexuality have affected present-day discourse on incest, comparing the significance of blood relations and notions of abuse in constructing incest.…
-
-### Book Review: The Paradox of Natural Mothering. By Chris Bobel. Philadelphia: Temple University Press, 2002, 226 pp., $59.50 (cloth), $18.95 (paper).
-**年份**: 2003 | **DOI**: [10.1177/0891243202250853](https://doi.org/10.1177/0891243202250853)
-**作者**: Chase, Susan E.
-**摘要**: （暂无）
 
 ### Sex, Menopause, and Culture
 **年份**: 2003 | **DOI**: [10.1177/0891243203253962](https://doi.org/10.1177/0891243203253962)
@@ -2423,11 +1493,6 @@
 **作者**: Najafizadeh, Mehrangiz
 **摘要**: The Republic of Azerbaijan has undergone major social, political, and economic transition since declaring independence from the Soviet Union in 1991. In this article, the author examines how this transition and the Nagorno-Karabakh War with Armenia have affected women’s caregiving roles and how wome…
 
-### Book Review: The Invisible Heart: Economics and Family Values. By Nancy Folbre. New York: New Press, 2001, 267 pp., $24.95 (cloth).
-**年份**: 2003 | **DOI**: [10.1177/0891243203017002017](https://doi.org/10.1177/0891243203017002017)
-**作者**: Glass, Jennifer
-**摘要**: （暂无）
-
 ### The Managed Hand
 **年份**: 2003 | **DOI**: [10.1177/0891243203257632](https://doi.org/10.1177/0891243203257632)
 **作者**: Kang, Miliann
@@ -2441,16 +1506,6 @@
 ### Book Reviews
 **年份**: 2003 | **DOI**: [10.1177/0891243203256441](https://doi.org/10.1177/0891243203256441)
 **作者**: Theberge, Nancy
-**摘要**: （暂无）
-
-### Guest Editors’ Introduction
-**年份**: 2003 | **DOI**: [10.1177/0891243202250714](https://doi.org/10.1177/0891243202250714)
-**作者**: Litt, Jacquelyn S.; Zimmerman, Mary K.
-**摘要**: This issue of Gender & Society offers in-depth analyses of carework in a wide variety of circumstances and locations around the globe: Azerbaijan, Bangladesh, Botswana, Brazil, Canada, China, the Philippines, Spain, Taiwan, and the United States.…
-
-### Book Review: Inside Organized Racism: Women in the Hate Movement. By Kathleen M. Blee. Berkeley: University of California Press, 2002, 272 pp., $35.00 (cloth)
-**年份**: 2003 | **DOI**: [10.1177/0891243202238988](https://doi.org/10.1177/0891243202238988)
-**作者**: Werum, Regina E.
 **摘要**: （暂无）
 
 ### Book Reviews
@@ -2518,19 +1573,9 @@
 **作者**: Ganguly-Scrase, Ruchira
 **摘要**: Globalization of the Indian economy has dramatically influenced social life in India. The expansion of the middle class is said to have occurred as a consequence of this process. Based on ethnographic research among lower-middle-class families in West Bengal, India, the author examines the apparent …
 
-### Book Review: Palestinian Women: Patriarchy and Resistance in the West Bank. By Cheryl A. Rubenberg. Boulder, CO: Lynne Rienner, 2001, 317 pp., $59.95 (cloth)
-**年份**: 2003 | **DOI**: [10.1177/0891243202238996](https://doi.org/10.1177/0891243202238996)
-**作者**: Gerami, Shahin
-**摘要**: （暂无）
-
 ### Book Reviews
 **年份**: 2003 | **DOI**: [10.1177/08912432030175016](https://doi.org/10.1177/08912432030175016)
 **作者**: Segal, Alan
-**摘要**: （暂无）
-
-### Book Review: Family Men: Middle-Class Fatherhood in Early Industrializing America. By Shawn Johansen. New York: Routledge, 2001, 249 pp., $80.00 (cloth), $21.99 (paper).
-**年份**: 2003 | **DOI**: [10.1177/0891243203017002018](https://doi.org/10.1177/0891243203017002018)
-**作者**: LaRossa, Ralph
 **摘要**: （暂无）
 
 ### The Pervasiveness and Persistence of the Feminine Beauty Ideal in Children's Fairy Tales
@@ -2552,11 +1597,6 @@
 **年份**: 2003 | **DOI**: [10.1177/0891243203257200](https://doi.org/10.1177/0891243203257200)
 **作者**: Moon, Seungsook
 **摘要**: Despite the increase of middle-class people among Asian immigrants to the United States over the past three decades,research has paid little attention to these women. Focusing on women’s paid employment, prior research also tends to overlook the significance of mothering to the analysis of gender re…
-
-### Book Review: Medicalized Motherhood: Perspectives from the Lives of African-American and Jewish Women. By Jacquelyn S. Litt. New Brunswick, NJ: Rutgers University Press, 2000, 189 pp., $50.00 (cloth), $20.00 (paper); Mothering Inner-City Children: The Early School Years. By Katherine Brown Rosier. New Brunswick, NJ: Rutgers University Press, 2000, 301 pp., $52.00 (cloth), $22.00 (paper); Mothers and Children: Feminist Analyses and Personal Narratives. Edited by Susan E. Chase and Mary F. Rogers. New Brunswick, NJ: Rutgers University Press, 2001, 343 pp., $55.00 (cloth), $25.00 (paper).
-**年份**: 2003 | **DOI**: [10.1177/0891243203017002015](https://doi.org/10.1177/0891243203017002015)
-**作者**: Stalp, Marybeth C.
-**摘要**: （暂无）
 
 ### Strong And Large Black Women?
 **年份**: 2003 | **DOI**: [10.1177/0891243202238981](https://doi.org/10.1177/0891243202238981)
@@ -2623,11 +1663,6 @@
 **作者**: Bose, Christine E.
 **摘要**: （暂无）
 
-### Book Review: The Color of Rape: Gender and Race in Television’s Public Spheres. By Sujata Moorti. Albany: State University of New York Press, 2002, 267 pp., $62.50 (cloth), $20.95 (paper)
-**年份**: 2003 | **DOI**: [10.1177/0891243202238990](https://doi.org/10.1177/0891243202238990)
-**作者**: Clay-Warner, Jody
-**摘要**: （暂无）
-
 ### Book Reviews
 **年份**: 2003 | **DOI**: [10.1177/0891243203017003011](https://doi.org/10.1177/0891243203017003011)
 **作者**: Hasso, Frances S.
@@ -2683,11 +1718,6 @@
 **作者**: QUINN, BETH A.
 **摘要**: That women tend to see harassment where men see harmless fun or normal gendered interaction is one of the more robust findings in sexual harassment research. Using in-depth interviews with employed men and women, this article argues that these differences may be partially explained by the performati…
 
-### Guest Editors' Introduction
-**年份**: 2002 | **DOI**: [10.1177/0891243202016004002](https://doi.org/10.1177/0891243202016004002)
-**作者**: DURR, MARLESE; HILL, SHIRLEY A.
-**摘要**: （暂无）
-
 ### Mapping a Global Labor Market
 **年份**: 2002 | **DOI**: [10.1177/089124302237895](https://doi.org/10.1177/089124302237895)
 **作者**: COLLINS, JANE L.
@@ -2697,11 +1727,6 @@
 **年份**: 2002 | **DOI**: [10.1177/08912430222104903](https://doi.org/10.1177/08912430222104903)
 **作者**: AGADJANIAN, VICTOR
 **摘要**: The place of men in reproductive and contraceptive changes and the role of informal social interaction in these processes have become central themes in recent research on fertility change in sub-Saharan Africa and other developing regions.…
-
-### From the Book Review Editors
-**年份**: 2002 | **DOI**: [10.1177/0891243202016003001](https://doi.org/10.1177/0891243202016003001)
-**作者**: BEOKU-BETTS, JOSEPHINE; GRANT, LINDA
-**摘要**: （暂无）
 
 ### “Where My Girls At?”
 **年份**: 2002 | **DOI**: [10.1177/0891243202016001007](https://doi.org/10.1177/0891243202016001007)
@@ -3196,11 +2221,6 @@
 **作者**: BOSE, CHRISTINE E.
 **摘要**: （暂无）
 
-### From the Book Review Editors
-**年份**: 2001 | **DOI**: [10.1177/089124301015003001](https://doi.org/10.1177/089124301015003001)
-**作者**: BEOKU-BETTS, JOSEPHINE; GRANT, LINDA
-**摘要**: （暂无）
-
 ### Book Reviews
 **年份**: 2001 | **DOI**: [10.1177/089124301015004008](https://doi.org/10.1177/089124301015004008)
 **作者**: NJAMBI, WAIRIM
@@ -3346,11 +2366,6 @@
 **作者**: FOX, MARY FRANK
 **摘要**: In the study of gender and society, science is a strategic analytic research site—because of the hierarchical nature of gendered relations, generally, and the hierarchy of science, particularly. Academic science, especially, is crucial to, and revealing of, status in science and society.…
 
-### From the Book Review Editor
-**年份**: 2000 | **DOI**: [10.1177/089124300014003001](https://doi.org/10.1177/089124300014003001)
-**作者**: MORRISSEY, MARIETTA
-**摘要**: （暂无）
-
 ### From the SWS President
 **年份**: 2000 | **DOI**: [10.1177/089124300014005001](https://doi.org/10.1177/089124300014005001)
 **作者**: KRONENFELD, JENNIE JACOBS
@@ -3359,11 +2374,6 @@
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/089124300014003008](https://doi.org/10.1177/089124300014003008)
 **作者**: MAZZARELLA, MARTHA TERRIE
-**摘要**: （暂无）
-
-### RESPONSE TO BAXTER AND WRIGHT
-**年份**: 2000 | **DOI**: [10.1177/089124300014006006](https://doi.org/10.1177/089124300014006006)
-**作者**: BRITTON, DANA M.; WILLIAMS, CHRISTINE L.
 **摘要**: （暂无）
 
 ### Book Reviews
@@ -3570,16 +2580,6 @@
 **年份**: 2000 | **DOI**: [10.1177/089124300014004003](https://doi.org/10.1177/089124300014004003)
 **作者**: RUDD, ELIZABETH C.
 **摘要**: This article traces the gendered consequences of changes in the problem of combining work and family caused by the collapse of state socialism in former East Germany. The transition to capitalism made the trade-offs between work and family more extreme, amplified the experiential distance between wo…
-
-### GUEST EDITORS' INTRODUCTION
-**年份**: 2000 | **DOI**: [10.1177/089124300014001002](https://doi.org/10.1177/089124300014001002)
-**作者**: LEMPERT, LORA BEX; DeVAULT, MARJORIE L.
-**摘要**: （暂无）
-
-### Book Review
-**年份**: 2000 | **DOI**: [10.1177/089124300014004007](https://doi.org/10.1177/089124300014004007)
-**作者**: DUNHAM, CHARLOTTE CHORN
-**摘要**: （暂无）
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/089124300014003010](https://doi.org/10.1177/089124300014003010)

@@ -1,7 +1,7 @@
 # Social Forces
 ## 2010–2019 年文章（含摘要）
 
-共 **1049** 篇
+共 **1038** 篇
 
 ---
 
@@ -1109,11 +1109,6 @@
 **年份**: 2016 | **DOI**: [10.1093/sf/sow036](https://doi.org/10.1093/sf/sow036)
 **作者**: Lewis, Kevin
 **摘要**: Romantic partnership is often considered an optimal barometer of intergroup relations. To date, however, it has been challenging to distinguish the characteristics people prefer in a partner from the types of partners that are locally available.…
-
-### Negative Compliance as an Organizational Response to Legal Pressures: The Case of Japanese Equal Employment Opportunity Law
-**年份**: 2016 | **DOI**: [10.1093/sf/sov118](https://doi.org/10.1093/sf/sov118)
-**作者**: Mun, Eunmi
-**摘要**: Scholars have conceptualized the interaction between law and organizations as a game of tug-of-war in which organizations try to protect those internal operations regulated by law. This suggests that organizations are likely to substantively comply if symbolic compliance alone is insufficient.…
 
 ### Ethnic Diversity and Support for Redistributive Social Policies
 **年份**: 2016 | **DOI**: [10.1093/sf/sow021](https://doi.org/10.1093/sf/sow021)
@@ -2573,11 +2568,6 @@
 **作者**: Mize, Ronald
 **摘要**: Journal Article The New Face of Small-Town America: Snapshots of Latino Life in Allentown, Pennsylvania By Edgar Sandoval Pennsylvania State University Press. 2010. 168 pages. $29.95 cloth, $24.95 paper Get access The New Face of Small-Town America: Snapshots of Latino Life in Allentown, Pennsylvani…
 
-### The Crisis of the European Union: A Response By Jürgen Habermas. Translated by Ciaran Cronin. Polity Press. 2012. 120 pages. $19.95 (cloth)
-**年份**: 2013 | **DOI**: [10.1093/sf/sot053](https://doi.org/10.1093/sf/sot053)
-**作者**: Chambers, Simone
-**摘要**: This is a small book that nevertheless contains the full spectrum of Jürgen Habermas's political thought. From the German public intellectual criticizing Angela Merkel to the Kantian political philosopher sketching a vision of a cosmopolitan democratic order, the reader gets a comprehensive picture …
-
 ### Job Authority and Breast Cancer
 **年份**: 2013 | **DOI**: [10.1093/sf/sot082](https://doi.org/10.1093/sf/sot082)
 **作者**: Pudrovska, Tetyana
@@ -3127,10 +3117,6 @@
 **年份**: 2012 | **DOI**: [10.1093/sf/sos025](https://doi.org/10.1093/sf/sos025)
 **摘要**: （暂无）
 
-### Masthead
-**年份**: 2012 | **DOI**: [10.1093/sf/sos139](https://doi.org/10.1093/sf/sos139)
-**摘要**: Masthead Get access Social Forces, Volume 90, Issue 4, June 2012, Page NP, https://doi.org/10.1093/sf/sos139 Published: 01 June 2012
-
 ### Guilt and Defense: On the Legacies of National Socialism in Postwar Germany By Theodor W. Adorno; edited, translated, and introduced by Jeffrey K. Olick and Andrew J. Perrin Harvard University Press. 2010. 247 pages. $39.95 cloth * Group Experiment and Other Writings: The Frankfurt School on Public Opinion in Postwar Germany By Friedrich Pollock, Theodor W. Adorno and Colleagues; edited, translated, and introduced by Andrew J. Perrin and Jeffrey K. Olick Harvard University Press. 2011. 268 pages. $49.95 cloth
 **年份**: 2012 | **DOI**: [10.1093/sf/sos181](https://doi.org/10.1093/sf/sos181)
 **作者**: Benzer, M.
@@ -3309,10 +3295,6 @@
 **年份**: 2012 | **DOI**: [10.1093/sf/sos175](https://doi.org/10.1093/sf/sos175)
 **作者**: Winders, J.
 **摘要**: Beyond the Borderlands: Migration and Belonging in the United States and Mexico is part of a growing literature on the politics of immigrant incorporation in nontraditional destinations in the United States.…
-
-### Masthead
-**年份**: 2012 | **DOI**: [10.1093/sf/sos027](https://doi.org/10.1093/sf/sos027)
-**摘要**: Masthead Get access Social Forces, Volume 91, Issue 1, September 2012, Page NP, https://doi.org/10.1093/sf/sos027 Published: 01 September 2012
 
 ### Do Survey Data Estimate Earnings Inequality Correctly? Measurement Errors Among Black and White Male Workers
 **年份**: 2012 | **DOI**: [10.1093/sf/sor042](https://doi.org/10.1093/sf/sor042)
@@ -3544,10 +3526,6 @@
 **作者**: Madeira, J. L.
 **摘要**: （暂无）
 
-### Masthead
-**年份**: 2012 | **DOI**: [10.1093/sf/sos028](https://doi.org/10.1093/sf/sos028)
-**摘要**: Journal Article Masthead Get access Social Forces, Volume 91, Issue 2, December 2012, Page NP, https://doi.org/10.1093/sf/sos028 Published: 01 December 2012
-
 ### Housework: Who Did, Does or Will Do It, and How Much Does It Matter?
 **年份**: 2012 | **DOI**: [10.1093/sf/sos120](https://doi.org/10.1093/sf/sos120)
 **作者**: Bianchi, S. M.; Sayer, L. C.; Milkie, M. A. 等4人
@@ -3619,10 +3597,6 @@
 **年份**: 2012 | **DOI**: [10.1093/sf/sos043](https://doi.org/10.1093/sf/sos043)
 **作者**: Sandole-Staroste, I.
 **摘要**: Ann Towns has set out to address important and underexplored theoretical and empirical issues in the field of international relations (IR). Focusing on state behavior in the context of international society, she takes a unique approach to examining how states make use of women by implementing practi…
-
-### Masthead
-**年份**: 2012 | **DOI**: [10.1093/sf/sos026](https://doi.org/10.1093/sf/sos026)
-**摘要**: Masthead Social Forces, Volume 90, Issue 3, March 2012, Page NP, https://doi.org/10.1093/sf/sos026 Published: 01 March 2012
 
 ### Divergent Social Worlds: Neighborhood Crime and the Racial-Spatial Divide By Ruth D. Peterson and Lauren J. Krivo Russell Sage Foundation. 2010. 184 pages. $37.50 cloth, $24.95 paper
 **年份**: 2012 | **DOI**: [10.1093/sf/sos093](https://doi.org/10.1093/sf/sos093)
@@ -4003,11 +3977,6 @@
 **作者**: Haluza-DeLay, R.
 **摘要**: （暂无）
 
-### Rejoinder: On the Dangers of Rosy Lenses: Reply to Alba, Kasinitz and Waters
-**年份**: 2011 | **DOI**: [10.1093/sf/89.3.775](https://doi.org/10.1093/sf/89.3.775)
-**作者**: Haller, W.; Portes, A.; Lynch, S. M.
-**摘要**: （暂无）
-
 ### Cohort Changes in the Socio-demographic Determinants of Gender Egalitarianism
 **年份**: 2011 | **DOI**: [10.1353/sof.2011.0011](https://doi.org/10.1353/sof.2011.0011)
 **作者**: Pampel, F.
@@ -4379,10 +4348,6 @@
 **作者**: Bugg, D.
 **摘要**: Gun Crusaders: The NRA's Culture War By Scott Melzer New York University Press. 2009. 336 pages. $45 cloth Get access David Bugg David Bugg SUNY, Potsdam Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 89, Issue 3, March 2011, Pages 1066–1067, https://d…
 
-### Masthead
-**年份**: 2011 | **DOI**: [10.1093/sf/sos008](https://doi.org/10.1093/sf/sos008)
-**摘要**: Journal Article Masthead Get access Social Forces, Volume 90, Issue 2, December 2011, Page NP, https://doi.org/10.1093/sf/sos008 Published: 01 December 2011
-
 ### The End of White World Supremacy: Black Internationalism and the Problem of the Color Line By Roderick D. Bush Temple University Press. 2009. 259 pages. $79.50 cloth, $28.95 paper
 **年份**: 2011 | **DOI**: [10.1353/sof.2011.0014](https://doi.org/10.1353/sof.2011.0014)
 **作者**: Hohle, R.
@@ -4412,11 +4377,6 @@
 **年份**: 2011 | **DOI**: [10.1093/sf/89.4.1097](https://doi.org/10.1093/sf/89.4.1097)
 **作者**: Agadjanian, V.; Arnaldo, C.; Cau, B.
 **摘要**: The study employs survey data from rural Mozambique to examine how men's labor migration affects their non-migrating wives' perceptions of HIV/AIDS risks. Using a conceptual framework centered on tradeoffs between economic security and health risks that men's migration entails for their left-behind …
-
-### Commentary: The Kids Are (Mostly) Alright: Second-Generation Assimilation: Comments on Haller, Portes and Lynch
-**年份**: 2011 | **DOI**: [10.1093/sf/89.3.763](https://doi.org/10.1093/sf/89.3.763)
-**作者**: Alba, R.; Kasinitz, P.; Waters, M. C.
-**摘要**: Journal Article Commentary: The Kids Are (Mostly) Alright: Second-Generation Assimilation: Comments on Haller, Portes and Lynch Get access Richard Alba, Richard Alba CUNY Search for other works by this author on: Oxford Academic Google Scholar Philip Kasinitz, Philip Kasinitz CUNY Search for other w…
 
 ### Migration, Remittances and Educational Stratification among Blacks in Apartheid and Post-Apartheid South Africa
 **年份**: 2011 | **DOI**: [10.1093/sf/89.4.1119](https://doi.org/10.1093/sf/89.4.1119)
@@ -4487,11 +4447,6 @@
 **年份**: 2010 | **DOI**: [10.1353/sof.0.0317](https://doi.org/10.1353/sof.0.0317)
 **作者**: Coyne, G.; Saxena, P.; Reese, E.
 **摘要**: Journal Article The World and US Social Forums Judith Blau and Marina Karides, editors Lexington Books. 2009. 252 pages. $29.95 paper Get access Gary Coyne, Gary Coyne University of California-Riverside Search for other works by this author on: Oxford Academic Google Scholar Preeta Saxena, Preeta Sa…
-
-### Commentaries: Racial Differences in Test Preparation Strategies: A commentary on Shadow Education, American Style: Test Preparation, the SAT and College Enrollment
-**年份**: 2010 | **DOI**: [10.1353/sof.2010.0053](https://doi.org/10.1353/sof.2010.0053)
-**作者**: Alon, S.
-**摘要**: （暂无）
 
 ### Societal Responses to Endemic Terror: Evidence from Driving Behavior in Israel
 **年份**: 2010 | **DOI**: [10.1353/sof.2010.0027](https://doi.org/10.1353/sof.2010.0027)
@@ -5127,11 +5082,6 @@
 **年份**: 2010 | **DOI**: [10.1353/sof.2010.0037](https://doi.org/10.1353/sof.2010.0037)
 **作者**: Collett, J. L.; Lizardo, O.
 **摘要**: Journal Article Occupational Status and the Experience of Anger Get access Jessica L. Collett, Jessica L. Collett University of Notre Dame Search for other works by this author on: Oxford Academic Google Scholar Omar Lizardo Omar Lizardo University of Notre Dame Direct correspondence to Omar Lizardo…
-
-### Commentaries: Learning in the Shadows and in the Light of Day: A commentary on Shadow Education, American Style: Test Preparation, the SAT and College Enrollment
-**年份**: 2010 | **DOI**: [10.1353/sof.2010.0063](https://doi.org/10.1353/sof.2010.0063)
-**作者**: Grodsky, E.
-**摘要**: （暂无）
 
 ### The Mismatched Worker By Arne L. Kalleberg W.W. Norton & Company. 2006. 322 pages. $18.12 paper
 **年份**: 2010 | **DOI**: [10.1353/sof.2010.0075](https://doi.org/10.1353/sof.2010.0075)

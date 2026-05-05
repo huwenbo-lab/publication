@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **477** 篇
+共 **465** 篇
 
 ---
 
@@ -98,45 +98,6 @@
 ### When meritocracy breeds insecurity: moralized over-striving, temporal disciplining and resistance in China’s specialized college
 **年份**: 2026 | **DOI**: [10.1080/01425692.2026.2645104](https://doi.org/10.1080/01425692.2026.2645104)
 **作者**: Zheng, Tongjing
-**摘要**: （暂无）
-
-### Correction
-**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2648414](https://doi.org/10.1080/01425692.2026.2648414)
-**摘要**: （暂无）
-
-### The Creative Art of Troublemaking in education,
-**年份**: 2026 | **DOI**: [10.1080/01425692.2025.2602256](https://doi.org/10.1080/01425692.2025.2602256)
-**作者**: Veitch, Rose
-**摘要**: （暂无）
-
-### A different kind of familiar: the insider-outsider paradox and negotiating teacher sense of belonging
-**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2657329](https://doi.org/10.1080/01425692.2026.2657329)
-**作者**: Sedawi, Orwa; Oplatka, Izhar
-**摘要**: （暂无）
-
-### Diversity of religion and belief in education: inequality, citizenship and belonging
-**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2648452](https://doi.org/10.1080/01425692.2026.2648452)
-**作者**: Hemming, Peter J.; Ma, Lin; Malone, Joanna 等5人
-**摘要**: （暂无）
-
-### Parents’ perspectives on special education in England: institutional disability discrimination and non-compliance with the law
-**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2638269](https://doi.org/10.1080/01425692.2026.2638269)
-**作者**: Holt, Louise; Trudgill, Marian; Azpitarte, Francisco
-**摘要**: （暂无）
-
-### Religion, agency, and choice in English state schools
-**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2616654](https://doi.org/10.1080/01425692.2026.2616654)
-**作者**: Hobson, Charlotte
-**摘要**: （暂无）
-
-### Academic statelessness: at-risk academics in the UK navigating the transition to post-fellowship positions
-**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2642107](https://doi.org/10.1080/01425692.2026.2642107)
-**作者**: Assaf, Dareen; Bridge, Jonathan W.; Adams, Gill 等4人
-**摘要**: （暂无）
-
-### Exploring anxiety and behaviour. Agency, liminality and relational embodiment in a PRU
-**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2664171](https://doi.org/10.1080/01425692.2026.2664171)
-**作者**: Woolhouse, Clare
 **摘要**: （暂无）
 
 ### Numerical diversity only? The case of academic preparatory programs for the Negev Bedouin in Israel
@@ -413,11 +374,6 @@
 **年份**: 2025 | **DOI**: [10.1080/01425692.2025.2511103](https://doi.org/10.1080/01425692.2025.2511103)
 **作者**: Calpe, Roser Giros
 **摘要**: Class-based parenting approaches assume that children in working-class environments participate less in extracurricular activities than those in affluent areas. However, there is a mediating role played by parents navigating out-of-school educational opportunities and neighbourhood risks, also shape…
-
-### Changes in religious education in response to growing diversity: a comparison of Brazil, Canada and England
-**年份**: 2025 | **DOI**: [10.1080/01425692.2025.2509960](https://doi.org/10.1080/01425692.2025.2509960)
-**作者**: Lefebvre, Solange; Montero, Paula; Woodhead, Linda 等6人
-**摘要**: This article examines the evolving role of religion in public, state-funded schools in Brazil, England, and Canada-three countries where Christianity has historically dominated. It focuses on how religious education (RE) addresses growing diversity.…
 
 ### Gender inequalities in UK music higher education: the role of institutional stratification
 **年份**: 2025 | **DOI**: [10.1080/01425692.2025.2502802](https://doi.org/10.1080/01425692.2025.2502802)
@@ -1714,11 +1670,6 @@
 **作者**: Li, Yumei; White, Cameron; Zou, Yali
 **摘要**: Drawing on a broader study that focused on understanding rural college students for equity and personal growth in higher education, this paper presents Ying's story of learning and living as a female college student from rural China.…
 
-### Appropriate modelling of school compositional effects: a response to Malatinszky and Armor, and Marks
-**年份**: 2021 | **DOI**: [10.1080/01425692.2021.1959301](https://doi.org/10.1080/01425692.2021.1959301)
-**作者**: Sciffer, Michael; Perry, Laura; McConney, Andrew
-**摘要**: We respond to Malatinszky and Armor's, and Marks' comments on our article recently published in this journal. We agree with Marks in the use of prior achievement to control for spurious effects in school effects research.…
-
 ### Oh, the education (you think) you'll have! Relative deprivation and students' academic expectations, aspirations, and attainment
 **年份**: 2021 | **DOI**: [10.1080/01425692.2021.1959300](https://doi.org/10.1080/01425692.2021.1959300)
 **作者**: Nieuwenhuis, Jaap; Chiang, Yi-Lin
@@ -1763,16 +1714,6 @@
 **年份**: 2021 | **DOI**: [10.1080/01425692.2021.1941766](https://doi.org/10.1080/01425692.2021.1941766)
 **作者**: Linde, Jonna; Lindgren, Joakim; Sundelin, Asa
 **摘要**: In this article we analyse what happens to career counselling when it is intertwined with the asylum process. A Swedish example is an amendment to the education legislation, regarding residence permits for upper secondary level students.…
-
-### 'Pandemia': a reckoning of UK universities' corporate response to COVID-19 and its academic fallout
-**年份**: 2021 | **DOI**: [10.1080/01425692.2021.1937058](https://doi.org/10.1080/01425692.2021.1937058)
-**作者**: Watermeyer, Richard; Shankar, Kalpana; Crick, Tom 等9人
-**摘要**: Universities in the UK, and in other countries like Australia and the USA, have responded to the operational and financial challenges presented by the COVID-19 pandemic by prioritising institutional solvency and enforcing changes to the work practices and profiles of their staff.…
-
-### School socioeconomic-background effects are generally small: a response to Sciffer, Perry, and McConney
-**年份**: 2021 | **DOI**: [10.1080/01425692.2021.1929842](https://doi.org/10.1080/01425692.2021.1929842)
-**作者**: Marks, Gary N.
-**摘要**: Recently in this journal, Sciffer, Perry, and McConney (2020) argued that school socioeconomic-background (SES) compositional effects are important for both research and policy. In response, this commentary argues that realistic school SES effects can only be identified in properly specified models.…
 
 ### A humanist university in a posthuman world: relations, responsibilities, and rights
 **年份**: 2021 | **DOI**: [10.1080/01425692.2021.1922268](https://doi.org/10.1080/01425692.2021.1922268)

@@ -2,17 +2,18 @@
 
 ## 项目介绍
 
-本项目是一个社会学与人口学领域的学术文献数据库，收录24本核心期刊2000年至今的文章元数据（标题、摘要、作者、DOI等）。研究方向涵盖社会分层、婚姻与家庭、人口学。
+本项目是一个社会学与人口学领域的学术文献数据库，收录25本核心期刊2000年至今的文章元数据（标题、摘要、作者、DOI等）。研究方向涵盖社会分层、婚姻与家庭、人口学。
 
 数据来源：Web of Science导出 + CrossRef API补全。前端为静态HTML页面，部署在GitHub Pages。
 
-## 期刊列表（24本）
+## 期刊列表（25本）
 
 | 期刊名称 | ISSN | 数据起始年 |
 |---|---|---|
 | American Journal of Sociology | 0002-9602 | 2000 |
 | American Sociological Review | 0003-1224 | 2000 |
 | Annual Review of Sociology | 0360-0572 | 2000 |
+| Asian Population Studies | 1744-1730 | 2005 |
 | British Journal of Sociology | 0007-1315 | 2000 |
 | British Journal of Sociology of Education | 0142-5692 | 2000 |
 | Chinese Journal of Sociology | 2057-150X | 2015 |
@@ -61,8 +62,11 @@ scripts/build_articles.py      # 从XLS清洗合并为 articles.json
 scripts/enrich_crossref.py     # CrossRef API补全摘要/DOI/缺失数据
 scripts/enrich_openalex.py     # OpenAlex + Semantic Scholar 补全摘要（CrossRef遗漏的）
 scripts/update.py              # 定期更新脚本
+scripts/build_article_api.py   # 生成 api/ 静态端点、浏览索引和作者索引
 scripts/build_lit_db.py        # 生成 lit_db/ 目录（AI查阅索引）
 scripts/build_search_db.py     # 构建 SQLite FTS5 全文检索数据库 → literature.db
+scripts/audit_non_articles.py  # 审计/清理非文献条目，默认只自动删高置信度条目
+scripts/audit_volume_issue.py  # dry-run 检测 raw_data 可补充的卷期字段
 docs/reports/update_log.md     # 更新日志
 docs/guides/使用指南.md        # 面向普通用户的使用说明
 raw_data/              # Web of Science原始导出文件（归档）
@@ -85,10 +89,11 @@ python scripts/update.py --dry-run    # 仅检查，不写入
 ```
 
 脚本会自动：
-1. 从CrossRef查询24本期刊的最新文章
+1. 从CrossRef查询25本期刊的最新文章
 2. 按DOI去重，避免重复录入
-3. 新文章追加到 `articles.json`，同步更新 `data.json` 和 `data.js`
-4. 在 `docs/reports/update_log.md` 中记录更新详情
+3. 用 `scripts/audit_non_articles.py` 的同一套规则筛查新增条目，跳过非文献和需复核候选，避免重新混入
+4. 新文章追加到 `articles.json`，同步更新 `data.json` 和 `data.js`
+5. 在 `docs/reports/update_log.md` 中记录更新详情和非文献跳过数量
 
 ### 全量重建
 
@@ -98,8 +103,27 @@ python scripts/build_articles.py      # 从XLS重建（仅已有Excel的17本期
 python scripts/enrich_crossref.py     # CrossRef补全（摘要、DOI、历史数据、缺失期刊）
 python scripts/enrich_openalex.py     # OpenAlex+S2补全（CrossRef遗漏的摘要）
 python scripts/build_lit_db.py        # 重建AI查阅索引
+python scripts/build_article_api.py   # 重建静态API、浏览索引、作者索引
 python scripts/build_search_db.py     # 重建全文检索数据库
 ```
+
+### 非文献条目审计
+
+```bash
+python scripts/audit_non_articles.py --dry-run   # 只生成 exports/*.csv 和 docs/reports/non_article_audit_report.md
+python scripts/audit_non_articles.py --apply     # 只删除高置信度行政性/目录性条目，先备份 articles.json
+python scripts/audit_non_articles.py --apply --include-review  # 人工确认后连同复核候选一起删除
+```
+
+边界条目（Editorial、Introduction、Book Review、Correction、Erratum、Commentary、Reply、Response 等）默认只进入人工复核清单，不自动删除。若研究者已经逐批确认这些条目不应保留，可使用 `--apply --include-review`；脚本会先备份 `articles.json`，并输出带时间戳的删除清单归档。
+
+### 卷期字段补充 dry-run
+
+```bash
+python scripts/audit_volume_issue.py --dry-run
+```
+
+当前 `articles.json` 不含 `volume` / `issue` 字段，网页只实现“期刊—年份—文章”层级。卷期补充必须先通过 dry-run 清单和人工抽样确认，不能硬造。
 
 ### 全文检索
 

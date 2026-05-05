@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **427** 篇
+共 **418** 篇
 
 ---
 
@@ -39,21 +39,6 @@
 **年份**: 2026 | **DOI**: [10.1111/1468-4446.70119](https://doi.org/10.1111/1468-4446.70119)
 **作者**: Tan, Catherine
 **摘要**: ABSTRACT Behind its worldly and socially conscious aesthetic, the wellness industry serves the health and fitness interests of North American and European consumers by commercializing non‐Western and Indigenous healing traditions, including shamanistic practices.…
-
-### Privileged Precarity: How the Mobile Middle Class Leverage Housing Insecurity as Labour Market Strategy
-**年份**: 2026 | **DOI**: [10.1111/1468-4446.70118](https://doi.org/10.1111/1468-4446.70118)
-**作者**: White, Tim
-**摘要**: ABSTRACT How does the ability to weather insecurity give some an upper‐hand over others? This paper examines the interrelationship between housing and labour market precarity among middle class young professionals.…
-
-### The New Petty Bourgeoisie Versus the Lumpen PMC? A Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie by D. Evans, London: Repeater Books, 2023, 300 pp. £12.99 (paperback). ISBN-10: 1913462692, ISBN-13: 978-1913462697
-**年份**: 2026 | **DOI**: [10.1111/1468-4446.70114](https://doi.org/10.1111/1468-4446.70114)
-**作者**: Thompson, Matthew
-**摘要**: （暂无）
-
-### Author Response to British Journal of Sociology Symposium for a Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie
-**年份**: 2026 | **DOI**: [10.1111/1468-4446.70112](https://doi.org/10.1111/1468-4446.70112)
-**作者**: Evans, Daniel
-**摘要**: （暂无）
 
 ### Securing Profit: Threat Production as a Mechanism of Racial Capitalism in US-Occupied Kabul
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.70065](https://doi.org/10.1111/1468-4446.70065)
@@ -635,11 +620,6 @@
 **作者**: Stewart, Callum
 **摘要**: For Black, Indigenous, and other colonised peoples, decolonisation and racial justice are urgent imperatives, but their demands are often dismissed as utopian, impossible, or otherwise out-of-time.…
 
-### Social science is explanation or it is nothing. Introduction to a debate
-**年份**: 2024 | **DOI**: [10.1111/1468-4446.13100](https://doi.org/10.1111/1468-4446.13100)
-**作者**: Krause, Monika
-**摘要**: This essay introduces contributions to a special section, which documents and extends a debate on the proposition Social Science is Explanation or it is Nothing held at the London School of Economics on October 13th, 2022.…
-
 ### What is social science if not critical?
 **年份**: 2024 | **DOI**: [10.1111/1468-4446.13142](https://doi.org/10.1111/1468-4446.13142)
 **作者**: Bacevic, Jana
@@ -965,11 +945,6 @@
 **作者**: Sivis, Selin
 **摘要**: Elaborating on salient contextual factors, such as historical conditions, national history, militarised masculinity, and language, this study looks at how repertoires of everyday nationhood are deployed in relation to boundary-drawing in the context of the recent refugee influx in Turkey.…
 
-### Anticolonial thought, the sociological imagination, and social science: A reply to critics
-**年份**: 2023 | **DOI**: [10.1111/1468-4446.13025](https://doi.org/10.1111/1468-4446.13025)
-**作者**: Go, Julian
-**摘要**: This essay responds to commentaries (this issue) on Go's Thinking Against Empire: Anticolonial Thought as Social Theory (this issue). The essay addressed shared concerns and underlying themes of the commentaries, most of which pivot around the problem of the anticolonial and the status of disciplina…
-
 ### Civic involvement in deprived communities: A longitudinal study of England
 **年份**: 2023 | **DOI**: [10.1111/1468-4446.13024](https://doi.org/10.1111/1468-4446.13024)
 **作者**: Bezzo, Franco Bonomi; Jeannet, Anne-Marie
@@ -1084,11 +1059,6 @@
 **年份**: 2023 | **DOI**: [10.1111/1468-4446.12997](https://doi.org/10.1111/1468-4446.12997)
 **作者**: Wang, Jingjing; Wu, Yuxiao
 **摘要**: This study examines how social context, in this case, income inequality, shapes the role of cultural capital in educational success. First, we revisit the associations between (objectified) cultural capital and academic achievement, and cultural capital's role in mediating the relationship between f…
-
-### Sociology after the postcolonial: Response to Julian Go's 'thinking against empire'
-**年份**: 2023 | **DOI**: [10.1111/1468-4446.12995](https://doi.org/10.1111/1468-4446.12995)
-**作者**: Valluvan, Sivamohan; Kapoor, Nisha
-**摘要**: Julian Go's 'Thinking Against Empire' identifies the corpus of 'anticolonial thought' as being instructive for a wider rethinking of how sociology might rally its key conceptualisations of social relations.…
 
 ### Different while being similar: The dual institutional process and differential organizational status
 **年份**: 2023 | **DOI**: [10.1111/1468-4446.12996](https://doi.org/10.1111/1468-4446.12996)
@@ -1490,11 +1460,6 @@
 **作者**: Fritz, Martin; Koch, Max; Johansson, Hakan 等6人
 **摘要**: We explore peoples' dispositions and practices with regard to social-ecological transformations based on a sustainable welfare policy strategy in Sweden. We draw on Bourdieu's concept of habitus to highlight the relations between social positions, dispositions, and position-takings.…
 
-### The adaptation of educational expectations in response to ability tracking: Variations by migration background
-**年份**: 2021 | **DOI**: [10.1111/1468-4446.12886](https://doi.org/10.1111/1468-4446.12886)
-**作者**: Geven, Sara; Forster, Andrea G.
-**摘要**: In various educational systems, students are sorted into separate secondary schools on the basis of their academic ability. Research suggests that this type of tracking impacts students' educational expectations, as expectations generally align with students' ability track.…
-
 ### Neither acquiescence nor defiance: Tuscan wineries' flexible reactivity to the Italian government's quality regulation system
 **年份**: 2021 | **DOI**: [10.1111/1468-4446.12883](https://doi.org/10.1111/1468-4446.12883)
 **作者**: Yoo, Taeyoung; Schilke, Oliver; Bachmann, Reinhard
@@ -1644,11 +1609,6 @@
 **年份**: 2021 | **DOI**: [10.1111/1468-4446.12803](https://doi.org/10.1111/1468-4446.12803)
 **作者**: Sanchez-Ancochea, Diego
 **摘要**: This review essay evaluates Capital and Ideology in light of the Latin American experience. Given its history of exploitation and high levels of inequality, the region constitutes an essential case study.…
-
-### From liberal to neoliberal citizenship: A commentary on Marion Fourcade
-**年份**: 2021 | **DOI**: [10.1111/1468-4446.12825](https://doi.org/10.1111/1468-4446.12825)
-**作者**: Joppke, Christian
-**摘要**: I argue that Marion Fourcade`s ordinal citizenship, which is an obsession with scoring and ranking, is part of a larger change of citizenship, from liberal to neoliberal. This is a citizenship whose equality promise has been hollowed-out by the inequalities of global capitalism, and in which not onl…
 
 ### Charismatic authority and fractured polities: A cross-national analysis
 **年份**: 2021 | **DOI**: [10.1111/1468-4446.12841](https://doi.org/10.1111/1468-4446.12841)
@@ -2134,8 +2094,3 @@
 **年份**: 2020 | **DOI**: [10.1111/1468-4446.12712](https://doi.org/10.1111/1468-4446.12712)
 **作者**: Elliott, Karla; Fitz-Gibbon, Kate; Maher, JaneMaree
 **摘要**: Sibling violence is an under-researched field, and the impact of adolescent family violence (AFV) in particular on siblings is not yet well understood. The Australian study Investigating Adolescent Family Violence in Victoria elicited responses from siblings who had experienced AFV from their brothe…
-
-### Preface to a special issue on the sociology of testing
-**年份**: 2020 | **DOI**: [10.1111/1468-4446.12757](https://doi.org/10.1111/1468-4446.12757)
-**作者**: Marres, Noortje; Stark, David
-**摘要**: （暂无）

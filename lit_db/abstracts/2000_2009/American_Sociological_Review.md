@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2000–2009 年文章（含摘要）
 
-共 **386** 篇
+共 **366** 篇
 
 ---
 
@@ -585,10 +585,6 @@
 **作者**: Campbell, Mary E.; Troyer, Lisa
 **摘要**: We hypothesize that individuals who self-identify with one racial group but are routinely perceived by observers as looking like another racial group may experience negative outcomes associated with this stressful situation.…
 
-### Index
-**年份**: 2007 | **DOI**: [10.1177/000312240707200609](https://doi.org/10.1177/000312240707200609)
-**摘要**: （暂无）
-
 ### The rise of anti-foreigner sentiment in European societies, 1988-2000
 **年份**: 2006 | **DOI**: [10.1177/000312240607100304](https://doi.org/10.1177/000312240607100304)
 **作者**: Semyonov, Moshe; Raijman, Rebeca; Gorodzeisky, Anastasia
@@ -774,21 +770,6 @@
 **作者**: Gangl, Markus
 **摘要**: This article uses panel data from the Survey of Income and Program Participation (SIPP) and the European Community Household Panel (ECHP) for a comparative analysis of workers'post-unemployment earnings trajectories in the United States and 12 Western European countries.…
 
-### Cultural Assets or Structural Advantages in Numbers Gambling?
-**年份**: 2006 | **DOI**: [10.1177/000312240607100107](https://doi.org/10.1177/000312240607100107)
-**作者**: Lee, Jennifer
-**摘要**: （暂无）
-
-### Free-Market and Religious Fundamentalists versus Poor Relief
-**年份**: 2006 | **DOI**: [10.1177/000312240607100309](https://doi.org/10.1177/000312240607100309)
-**作者**: Hicks, Alexander
-**摘要**: （暂无）
-
-### The Dynamics of Economic Disadvantage and Children's Life Chances
-**年份**: 2006 | **DOI**: [10.1177/000312240607100507](https://doi.org/10.1177/000312240607100507)
-**作者**: Wagmiller, Robert L.; Lennon, Mary Clare; Kuang, Li 等5人
-**摘要**: Recent research suggests that child well-being and subsequent status attainment are influenced not only by the duration of exposure to economic disadvantage during childhood, but also by the timing and sequencing of exposure.…
-
 ### Gender stereotypes, same-gender preferences, and organizational variation in the hiring of women: Evidence from law firms
 **年份**: 2005 | **DOI**: [10.1177/000312240507000408](https://doi.org/10.1177/000312240507000408)
 **作者**: Gorman, EH
@@ -943,16 +924,6 @@
 **年份**: 2005 | **DOI**: [10.1177/000312240507000107](https://doi.org/10.1177/000312240507000107)
 **作者**: You, JS; Khagram, S
 **摘要**: This article argues that income inequality increases the level of corruption through material and normative mechanisms. The wealthy have both greater motivation and more opportunity to engage in corruption, whereas the poor are more vulnerable to extortion and less able to monitor and hold the rich …
-
-### Civic Associations and Authoritarian Regimes in Interwar Europe: Italy and Spain in Comparative Perspective
-**年份**: 2005 | **DOI**: [10.1177/000312240507000205](https://doi.org/10.1177/000312240507000205)
-**作者**: Riley, Dylan
-**摘要**: What is the relationship between civic associations and authoritarian regimes? While Tocquevillian theories have concentrated mostly on the connection between civic associationism and democracy, this article develops a Gramscian approach, suggesting that a strong associational sphere can facilitate …
-
-### Constructing Social Problems in an Age of Globalization: A French-American Comparison
-**年份**: 2005 | **DOI**: [10.1177/000312240507000203](https://doi.org/10.1177/000312240507000203)
-**作者**: Benson, Rodney; Saguy, Abigail C.
-**摘要**: Despite growing academic interest in political and cultural globalization, sociologists have failed to systematically account for the factors that favor cross-national convergence or divergence in the form or content of public political debates in news media.…
 
 ### Sexual harassment as a gendered expression of power
 **年份**: 2004 | **DOI**: [10.1177/000312240406900105](https://doi.org/10.1177/000312240406900105)
@@ -1129,16 +1100,6 @@
 **作者**: Zajac, EJ; Westphal, JD
 **摘要**: This study advances a social constructionist view of financial market behavior The paper suggests that the market's reaction to particular corporate practices, such as stock repurchase plans, are not, as financial economists contend, simply a function of the inherent efficiency of such practices.…
 
-### Reply to Bienenstock and McBride: Cultural Transmission, Disproportionate Prior Exposure, and the Evolution of Cooperation
-**年份**: 2004 | **DOI**: [10.1177/000312240406900109](https://doi.org/10.1177/000312240406900109)
-**作者**: Mark, Noah
-**摘要**: （暂无）
-
-### The Political Economy of Imprisonment in Affluent Western Democracies, 1960—1990
-**年份**: 2004 | **DOI**: [10.1177/000312240406900309](https://doi.org/10.1177/000312240406900309)
-**作者**: Sutton, John R.
-**摘要**: （暂无）
-
 ### Where job values come from: Family and schooling background, cognitive ability, and gender
 **年份**: 2003 | **DOI**: [10.2307/1519768](https://doi.org/10.2307/1519768)
 **作者**: Halaby, CN
@@ -1303,11 +1264,6 @@
 **年份**: 2003 | **DOI**: [10.1177/000312240306800604](https://doi.org/10.1177/000312240306800604)
 **作者**: Mouw, Ted
 **摘要**: Does social capital affect labor market outcomes? The prevalent use of job contacts to find work suggests that “who you know” is an important means of getting a good job. Network theories of social capital argue that well-connected workers benefit because of the job information and influence they re…
-
-### Emergent Public Spheres: Talking Politics in Participatory Governance
-**年份**: 2003 | **DOI**: [10.1177/000312240306800103](https://doi.org/10.1177/000312240306800103)
-**作者**: Baiocchi, Gianpaolo
-**摘要**: This article addresses the question of whether and how participation in government promotes the conditions for participants to engage in the open-ended and public-minded discussion heralded by democratic theorists.…
 
 ### Democratic contraction? Political consequences of felon disenfranchisement in the United States
 **年份**: 2002 | **DOI**: [10.2307/3088970](https://doi.org/10.2307/3088970)
@@ -1489,21 +1445,6 @@
 **作者**: Western, Bruce
 **摘要**: A life course perspective on crime indicates that incarceration can disrupt key life transitions. Life course analysis of occupations finds that earnings mobility depends on stable employment in career jobs.…
 
-### Why More Americans Have No Religious Preference: Politics and Generations
-**年份**: 2002 | **DOI**: [10.1177/000312240206700201](https://doi.org/10.1177/000312240206700201)
-**作者**: Hout, Michael; Fischer, Claude S.
-**摘要**: The proportion of Americans who reported no religious preference doubled from 7 percent to 14 percent in the 1990s. This dramatic change may have resulted from demographic shifts, increasing religious skepticism, or the mix of politics and religion that characterized the 1990s.…
-
-### Assessing Alternative Perspectives on Race and Sex Employment Segregation
-**年份**: 2002 | **DOI**: [10.1177/000312240206700404](https://doi.org/10.1177/000312240206700404)
-**作者**: Kaufman, Robert L.
-**摘要**: Four major explanations for employment segregation—skill deficits, worker preferences, economic and organizational structure, and stereotyping/queuing—are assessed using a diverse and overlapping set of predictors: general skills and training, product market structure, race- and sex-typed tasks and …
-
-### Social Integration, Imitation, and the Geographic Patterning of Suicide
-**年份**: 2002 | **DOI**: [10.1177/000312240206700605](https://doi.org/10.1177/000312240206700605)
-**作者**: Baller, Robert D.; Richardson, Kelly K.
-**摘要**: One of sociology's defining debates centers on explanations of the geographic patterning of suicide. This classic debate is revisited using techniques of spatial analysis and data for two geographies: late nineteenth-century French departments, and late twentieth-century U.S. counties.…
-
 ### Youth violence and the end of adolescence
 **年份**: 2001 | **DOI**: [10.2307/3088877](https://doi.org/10.2307/3088877)
 **作者**: Hagan, J; Foster, H
@@ -1568,11 +1509,6 @@
 **年份**: 2001 | **DOI**: [10.2307/3088923](https://doi.org/10.2307/3088923)
 **作者**: Ross, CE; Mirowsky, J; Pribesh, S
 **摘要**: A theory of trust is developed and tested. The theory posits that mistrust develops in neighborhoods, where resources are scarce and threat is common, and among individuals with few resources and who feel powerless to avoid or manage the threat.…
-
-### Feminist critics uncover determinism, positivism, and antiquated theory - Reply
-**年份**: 2001 | **DOI**: [10.2307/3088927](https://doi.org/10.2307/3088927)
-**作者**: Udry, JR
-**摘要**: Kanter, Rosabeth. 1977. Men and Women of the Corporation. New York: Harper and Row. Lorber, Judith. 1994. Paradoxes of New Haven, CT: Yale University Press. Maccoby, Eleanor. 1998. Two Sexes. Cambridge, MA: Belknap Press of Harvard University. Meyers, Kristen, Cynthia Anderson, and Barbara Risman.…
 
 ### Time-dependent effects of wives' employment on marital dissolution
 **年份**: 2001 | **DOI**: [10.2307/2657416](https://doi.org/10.2307/2657416)
@@ -1684,11 +1620,6 @@
 **作者**: Ross, Catherine E.; Mirowsky, John; Pribesh, Shana
 **摘要**: A theory of trust is developed and tested. The theory posits that mistrust develops in neighborhoods where resources are scarce and threat is common, and among individuals with few resources and who feel powerless to avoid or manage the threat.…
 
-### What is Gender?
-**年份**: 2001 | **DOI**: [10.1177/000312240106600407](https://doi.org/10.1177/000312240106600407)
-**作者**: Kennelly, Ivy; Merz, Sabine N.; Lorber, Judith
-**摘要**: （暂无）
-
 ### Family chance, employment transitions, and the welfare state: Household income dynamics in the United States and Germany
 **年份**: 2000 | **DOI**: [10.2307/2657461](https://doi.org/10.2307/2657461)
 **作者**: DiPrete, TA; McManus, PA
@@ -1698,11 +1629,6 @@
 **年份**: 2000 | **DOI**: [10.2307/2657465](https://doi.org/10.2307/2657465)
 **作者**: Kanazawa, S
 **摘要**: Macy's work offers a potential solution to the paradox of voter turnout. The stochastic learning theory of voter turnout (Kanazawa 1998) posits that citizens perceive a correlation between their behavior (voting versus abstention) and the outcome of collective action (win versus loss for their candi…
-
-### Environmentalism as a global institution -: Reply to Buttel
-**年份**: 2000 | **DOI**: [10.2307/2657293](https://doi.org/10.2307/2657293)
-**作者**: Frank, DJ; Hironaka, A; Schofer, E
-**摘要**: （暂无）
 
 ### Routes to children's economic recovery after divorce: Are cohabitation and remarriage equivalent?
 **年份**: 2000 | **DOI**: [10.2307/2657383](https://doi.org/10.2307/2657383)
@@ -1908,27 +1834,3 @@
 **年份**: 2000 | **DOI**: [10.1177/000312240006500102](https://doi.org/10.1177/000312240006500102)
 **作者**: Portes, Alejandro
 **摘要**: Purposive social action has provided the bedrock for theoretical developments and model building in several social sciences. Since its beginnings, however, sociology has harbored, a “contrarian” vocation based on examining the unrecognized, unintended, and emergent consequences of goal-oriented acti…
-
-### A New Solution to the Collective Action Problem: The Paradox of Voter Turnout
-**年份**: 2000 | **DOI**: [10.1177/000312240006500306](https://doi.org/10.1177/000312240006500306)
-**作者**: Kanazawa, Satoshi
-**摘要**: Macy's work offers a potential solution to the paradox of voter turnout. The stochastic learning theory of voter turnout (Kanazawa 1998) posits that citizens perceive a correlation between their behavior (voting versus abstention) and the outcome of collective action (win versus loss for their candi…
-
-### Still the Missing Feminist Revolution? Inequalities of Race, Class, and Gender in Introductory Sociology Textbooks
-**年份**: 2000 | **DOI**: [10.1177/000312240006500309](https://doi.org/10.1177/000312240006500309)
-**作者**: Manza, Jeff; Schyndel, Debbie Van
-**摘要**: （暂无）
-
-### Leveraging the State: Private Money and the Development of Public Education for Blacks
-**年份**: 2000 | **DOI**: [10.1177/000312240006500503](https://doi.org/10.1177/000312240006500503)
-**作者**: Strong, David; Walters, Pamela Barnhouse; Driscoll, Brian 等4人
-**摘要**: This study analyses African Americans’ success in getting the state to improve access to a basic social right—the right to a public education—in the late nineteenth-and early twentieth-century South.…
-
-### More or Less Educational Homogamy? A Test of Different Versions of Modernization Theory Using Cross-Temporal Evidence for 60 Countries
-**年份**: 2000 | **DOI**: [10.1177/000312240006500509](https://doi.org/10.1177/000312240006500509)
-**作者**: Smits, Jeroen; Ultee, Wout; Lammers, Jan
-**摘要**: （暂无）
-
-### Erratum
-**年份**: 2000 | **DOI**: [10.1177/000312240006500607](https://doi.org/10.1177/000312240006500607)
-**摘要**: （暂无）

@@ -1,7 +1,7 @@
 # Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **580** 篇
+共 **479** 篇
 
 ---
 
@@ -14,11 +14,6 @@
 **年份**: 2026 | **DOI**: [10.1177/00380385251408235](https://doi.org/10.1177/00380385251408235)
 **作者**: Dixon, Kevin; Cashmore, Ellis; Cleland, Jamie
 **摘要**: This article examines how digital infrastructures mediate the production and circulation of gendered harm through the cultural prominence of Andrew Tate, a controversial online figure associated with misogynistic rhetoric.…
-
-### Book Review: Sergio Tonkonoff, Reintroducing Gabriel Tarde TonkonoffSergioReintroducing Gabriel TardeLondon/New York: Routledge, 2024, £33.59 pbk (ISBN: 9781032053974), 152 pp.
-**年份**: 2026 | **DOI**: [10.1177/00380385261416277](https://doi.org/10.1177/00380385261416277)
-**作者**: Lanis, Lucio
-**摘要**: （暂无）
 
 ### English or Perish? The Value of Linguistic Capital in the Social Sciences and Humanities
 **年份**: 2026 | **DOI**: [10.1177/00380385251406882](https://doi.org/10.1177/00380385251406882)
@@ -60,20 +55,10 @@
 **作者**: Wang, Kelly Y; Moraes, Caroline; Szmigin, Isabelle 等4人
 **摘要**: This study examines everyday fashion sharing through the lens of Erving Goffman’s concept of the sheath. Drawing upon 40 qualitative interviews, we extend the concept generatively, beyond its egocentric function as a personal bodily territory encasing the body, by establishing its social, utilitaria…
 
-### Book Review: Andréa Becker, Get It Out: On the Politics of Hysterectomy BeckerAndréaGet It Out: On the Politics of HysterectomyNew York: New York University Press, 2025, $28.00 (ISBN: 9781479826605), 208 pp.
-**年份**: 2026 | **DOI**: [10.1177/00380385261422046](https://doi.org/10.1177/00380385261422046)
-**作者**: Pacześna, Alina
-**摘要**: （暂无）
-
 ### Teaching Sociology in Turbulent Times: Ethical Pedagogy and the Politics of the Classroom
 **年份**: 2026 | **DOI**: [10.1177/00380385261417961](https://doi.org/10.1177/00380385261417961)
 **作者**: Piacentini, Teresa
 **摘要**: This article calls for a critical reimagining of sociology teaching in today’s political climate, where post-pandemic learning, rising inequalities and institutional power demand urgent reflection.…
-
-### Book Review: Wolfgang Streeck, Taking Back Control? States and State Systems after Globalism StreeckWolfgangTaking Back Control? States and State Systems after GlobalismLondon: Verso, 2024, £25.00 hbk (ISBN: 9781839767296), 416 pp.
-**年份**: 2026 | **DOI**: [10.1177/00380385261428285](https://doi.org/10.1177/00380385261428285)
-**作者**: O’Ralaigh, Chris
-**摘要**: （暂无）
 
 ### Nurturing Students’ Reflexive Approach to Data Analysis by Crafting Collective Zines
 **年份**: 2026 | **DOI**: [10.1177/00380385251412628](https://doi.org/10.1177/00380385251412628)
@@ -95,11 +80,6 @@
 **作者**: Lehtonen, Aura; Roeschert, Franca; Jones, Peter
 **摘要**: This article examines the characteristics of traditionally academic vis-a-vis practice-based pedagogies in sociology; questions the former’s widely assumed superiority and the UK’s current state of pedagogical exceptionalism; and considers arguments and challenges associated with a more substantiall…
 
-### Book Review PatrickO’MahonyCommunicative Reason: A Sociological RestatementLondon: Routledge, 2025, £140 (ISBN: 9780367182939), 330 pp.
-**年份**: 2026 | **DOI**: [10.1177/00380385261417982](https://doi.org/10.1177/00380385261417982)
-**作者**: Milner, Richard
-**摘要**: （暂无）
-
 ### Time Well Spent? Rhythms of Dating on Apps before, during and after COVID-19 Social Restrictions
 **年份**: 2026 | **DOI**: [10.1177/00380385251412565](https://doi.org/10.1177/00380385251412565)
 **作者**: Yodovich, Neta; Heaphy, Brian; Garcia-Iglesias, Jaime
@@ -114,26 +94,6 @@
 **年份**: 2026 | **DOI**: [10.1177/00380385261428292](https://doi.org/10.1177/00380385261428292)
 **作者**: Ischinsky, Emma
 **摘要**: Public visibility plays a crucial role in how inequality becomes publicly recognised and debated. Yet we know little about how often the very wealthy appear in the public sphere. This study examines the public visibility and invisibility among Germany’s 1718 richest individuals using Manager Magazin…
-
-### Vocational narratives: How students make sense of their educational choices
-**年份**: 2026 | **DOI**: [10.1177/00380385261434874](https://doi.org/10.1177/00380385261434874)
-**作者**: Tarabini, Aina; Rujas, Javier; Gil, Sara
-**摘要**: This article explores how young people use vocational narratives to make sense of their Post16 educational choices. Based on 97 qualitative interviews with students from Barcelona and Madrid, the analysis examines the vocabularies of motive – such as personal fit, passion, interest, ability and futu…
-
-### The social production of small urban rivers: The (re)making of two riverside spaces in Lewisham
-**年份**: 2026 | **DOI**: [10.1177/00380385261432893](https://doi.org/10.1177/00380385261432893)
-**作者**: Jackson, Emma; Rondel, Louise
-**摘要**: This article analyses how small urban rivers are implicated in different registers of place-making in Lewisham, London. We discuss the pleasures, possibilities and tensions that come with ‘opening up’ urban river spaces and the complex range of imaginaries and practices that feed into their producti…
-
-### The traditionalist illusion: How conventional gender role items obscure egalitarian views
-**年份**: 2026 | **DOI**: [10.1177/00380385261432890](https://doi.org/10.1177/00380385261432890)
-**作者**: Steckermeier, Leonie C.; Hess, Stephanie
-**摘要**: Survey items that capture attitudes towards gender roles in the private and public spheres typically only measure agreement with a traditional gender role attitude. Respondents who disagree with such items may hold egalitarian views – favouring either equality or role-reversal – or may endorse plura…
-
-### Gendered pleasures: Time trends in pornographic displays of pleasure and affection
-**年份**: 2026 | **DOI**: [10.1177/00380385261432884](https://doi.org/10.1177/00380385261432884)
-**作者**: Shor, Eran; Leblanc, Zacharie
-**摘要**: The Sociology of Emotions is characterized by a significant dearth of writing and research on positive emotions, including pleasure and affection. In this article, we examine gendered disparities in the prevalence and change over time of pleasure, climax, and affection in frequently watched mainstre…
 
 ### Social Positioning and Pathways of Social Mobility of Intermarried Ukrainian Migrants in Poland
 **年份**: 2025 | **DOI**: [10.1177/00380385251313900](https://doi.org/10.1177/00380385251313900)
@@ -190,11 +150,6 @@
 **作者**: Carbonai, Davide; San Martin, Aline Schmidt
 **摘要**: This regional roundtable addresses the persistence of slave-like labor in rural areas of Rio Grande do Sul, Brazil—a theme brought to national attention following two major rescue operations in early 2023.…
 
-### Book Review: Alexandrina Vanke, The Urban Life of Workers in Post-Soviet Russia: Engaging in Everyday Struggles VankeAlexandrinaThe Urban Life of Workers in Post-Soviet Russia: Engaging in Everyday StrugglesManchester: Manchester University Press, 2024, £85 hbk (ISBN: 9781526167637), 256 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251386375](https://doi.org/10.1177/00380385251386375)
-**作者**: Shadrina, Anna
-**摘要**: （暂无）
-
 ### The Reproduction of Wealth Inequality: How Middle- and Upper-Class Parents Instil Financial Orientations in Their Children
 **年份**: 2025 | **DOI**: [10.1177/00380385251373004](https://doi.org/10.1177/00380385251373004)
 **作者**: Rogstad, Jon; Eriksen, Ingunn Marie; Moberg, Karolin
@@ -209,11 +164,6 @@
 **年份**: 2025 | **DOI**: [10.1177/00380385251331393](https://doi.org/10.1177/00380385251331393)
 **作者**: Mehta, Shray
 **摘要**: This article argues that authoritarian populism poses a serious challenge to sociological theorization. Decolonial Theory has formed the intellectual backbone of the rise of Narendra Modi to power in India and, since 2014, has become a productive force, manifesting itself in new forms of statecraft …
-
-### Book Review: Michael Mann, On Wars MannMichaelOn WarsNew Haven, CT and London: Yale University Press, 2023, £30.00 hbk (ISBN: 9780300266818), 616 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251322601](https://doi.org/10.1177/00380385251322601)
-**作者**: Quinlan, Alexander Reece Loescher
-**摘要**: （暂无）
 
 ### Bare Fridges and Burnt Tortillas: Conflictual Moments in the Making of Coupledom
 **年份**: 2025 | **DOI**: [10.1177/00380385251331388](https://doi.org/10.1177/00380385251331388)
@@ -265,11 +215,6 @@
 **作者**: Scott, Susie
 **摘要**: This article analyses the micro-social processes of interaction that can be found in the domain of ‘everynight life’. Drawing on Goffman’s dramaturgical perspective and the symbolic interactionist tradition, it explores the negotiated meanings of social behaviour in nocturnal spaces.…
 
-### Book Review: Anne Rogers and David Pilgrim, Living with Health Inequalities: Upstream–Downstream Connections RogersAnnePilgrimDavidLiving with Health Inequalities: Upstream–Downstream ConnectionsLondon: Routledge, 2024, £26.99 (pbk); £101.25 (hbk) (ISBN: 9780367458362 (hbk); 9780367458379 (pbk); 9781003025641 (ebk)), ix + 176 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251343504](https://doi.org/10.1177/00380385251343504)
-**作者**: Patra, Mahua; Chakraborty, Dipto
-**摘要**: （暂无）
-
 ### Sociology amid Climate Breakdown: A Call for Systemic Pedagogical Transformation
 **年份**: 2025 | **DOI**: [10.1177/00380385251388552](https://doi.org/10.1177/00380385251388552)
 **作者**: Gardner, Peter; Müller, Tobias
@@ -310,11 +255,6 @@
 **作者**: Islam, Asiya; Philip, Shannon
 **摘要**: This article proposes the concept of ‘embodied acting’ to understand workers’ transformations of their appearances (clothes, makeup) and related behaviours (English speaking, eating out, dating) to create belonging in new service work in Global South contexts characterised by continuing social inequ…
 
-### Book Review: Aaron Reeves and Sam Freidman, Born to Rule: The Making and Re-Making of the British Elite ReevesAaronFreidmanSamBorn to Rule: The Making and Re-Making of the British EliteCambridge, Massachusetts: Harvard University Press, 2024, (ISBN: 9780674257719), 317 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251357530](https://doi.org/10.1177/00380385251357530)
-**作者**: Dorling, Danny
-**摘要**: （暂无）
-
 ### Cultivating Collaboration: Reflections on Introducing Problem-Based Learning in the ‘Wicked World’ of Contemporary Higher Education
 **年份**: 2025 | **DOI**: [10.1177/00380385251380765](https://doi.org/10.1177/00380385251380765)
 **作者**: Coleman-Fountain, Edmund; Falcetta, Silvia; Hamilton, Patricia 等8人
@@ -339,16 +279,6 @@
 **年份**: 2025 | **DOI**: [10.1177/00380385251359082](https://doi.org/10.1177/00380385251359082)
 **作者**: Kassem, Ali
 **摘要**: This article explores the possibilities and challenges of teaching sociology ‘decolonially’ at the National University of Singapore (NUS), Singapore. Drawing on the classroom as a site of knowledge, it highlights how students’ diverse lived experiences and epistemic positionalities facilitate the de…
-
-### Book Review: Denys Gorbach, The Making and Unmaking of the Ukrainian Working Class: Everyday Politics and Moral Economy in a Post-Soviet City GorbachDenysThe Making and Unmaking of the Ukrainian Working Class: Everyday Politics and Moral Economy in a Post-Soviet CityOxford: Berghahn, 2024, £104.00 (h﻿bk) (ISBN: 9781805392989), 346 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251359749](https://doi.org/10.1177/00380385251359749)
-**作者**: Schwartz, Gregory
-**摘要**: （暂无）
-
-### Book Review: Catherine Happer, The Construction of Public Opinion in a Digital Age HapperCatherineThe Construction of Public Opinion in a Digital AgeManchester: Manchester University Press, 2024, £85.00 (hbk) (ISBN: 9781526180223), 224 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251322604](https://doi.org/10.1177/00380385251322604)
-**作者**: Tiripelli, Giuliana
-**摘要**: （暂无）
 
 ### A Discomforting Pedagogy of Poverty: Discourses, Representations and Vulnerabilities
 **年份**: 2025 | **DOI**: [10.1177/00380385251380772](https://doi.org/10.1177/00380385251380772)
@@ -375,20 +305,10 @@
 **作者**: Slutskaya, Natalia; Game, Annilee; Morgan, Rachel 等5人
 **摘要**: Based on interviews with waste management workers, this study focuses on changes in low-paid/low-status workers’ experiences of recognition during and after the pandemic. In this article, we explore these developments, drawing on the work of Honneth, Fraser, Neckel and Reckwitz.…
 
-### Book Review: J Michael Ryan (ed.), COVID-19: Individual Rights and Community Responsibilities RyanJ Michael (ed.) COVID-19: Individual Rights and Community ResponsibilitiesLondon: Routledge, 2023, £93.75 hbk; £27.99 pbk; £26.99 ebook (ISBN: 9781032299129 (hbk); 9781032299075 (pbk); 9781003302643 (ebook)), 242 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385241312025](https://doi.org/10.1177/00380385241312025)
-**作者**: Chakraborty, Dipto; Patra, Mahua
-**摘要**: （暂无）
-
 ### Resisting Neoliberalism’s War on the Sociological Imagination: Reflections on PhD Work as Anti-Racist Practice
 **年份**: 2025 | **DOI**: [10.1177/00380385251357204](https://doi.org/10.1177/00380385251357204)
 **作者**: Nijjar, Jasbinder S
 **摘要**: This article reflects on undertaking PhD work as a form of anti-racist practice from an angle with significant promise for sociology and the social more generally. I argue that amid neoliberalism’s denial of structural discrimination and its attendant war on the sociological imagination, radical pos…
-
-### Book Review: Stephen Kalberg, Max Weber’s Sociology: From ‘the Protestant Ethic Thesis’ and the American Political Culture to a Sociology of Civilizations KalbergStephenMax Weber’s Sociology: From ‘the Protestant Ethic Thesis’ and the American Political Culture to a Sociology of CivilizationsAbingdon: Routledge, 2024, £27.99 pbk (ISBN: 9781032631806), 346 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251380771](https://doi.org/10.1177/00380385251380771)
-**作者**: Arthur, Simon
-**摘要**: （暂无）
 
 ### Constructing a Mothers’ Culture : Affective Bargains in Branding Discourses
 **年份**: 2025 | **DOI**: [10.1177/00380385251324609](https://doi.org/10.1177/00380385251324609)
@@ -475,25 +395,10 @@
 **作者**: Giese, Julia; Clini, Clelia
 **摘要**: This article investigates how leisure activities inform identification processes among British Bangladeshi Muslim women in Tower Hamlets, London. Focusing on women-only events organised in community centres that cater to British Bangladeshi women, we explore the significance of these spaces in the n…
 
-### Book Review: Michel Dobry, The Sociology of Political Crisis: A Theory of Fluid Conjunctures DobryMichelThe Sociology of Political Crisis: A Theory of Fluid Conjunctures. Trans. JenkinsBrianLondon: Bloomsbury Academic, 2025, £28.99 (pbk) (ISBN: 9781350373310), 288 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251361792](https://doi.org/10.1177/00380385251361792)
-**作者**: Ardiantoro, Juri; Alnizar, Fariz
-**摘要**: （暂无）
-
 ### Everyday Voices as Big Data: A Call for the Secondary Analysis of Large-Scale Qualitative Interview Data
 **年份**: 2025 | **DOI**: [10.1177/00380385251344472](https://doi.org/10.1177/00380385251344472)
 **作者**: Elliott, Jane; Friese, Carrie; Harris, Gaby 等5人
 **摘要**: This article reflects on the paradox that although research using qualitative interviews has developed sophisticated repertoires of data collection, it has not fully embraced secondary analysis and has struggled to address questions of representativeness.…
-
-### Book Review: Mark Carrigan, Generative AI for Academics CarriganMarkGenerative AI for AcademicsLondon: Sage, 2024, £28.99 (pbk) (ISBN: 9781529690392), 192 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251401413](https://doi.org/10.1177/00380385251401413)
-**作者**: Redshaw, Tom
-**摘要**: （暂无）
-
-### Book Review: Abigail Leslie Andrews and the Students of the Mexican Migration Field Research Program, Banished Men: How Migrants Endure the Violence of Deportation AndrewsAbigail Leslie and the Students of the Mexican Migration Field Research ProgramBanished Men: How Migrants Endure the Violence of DeportationOakland, CA: University of California Press, 2023, US$34.95 (pbk) (ISBN: 9780520391657), xvii + 194 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251359758](https://doi.org/10.1177/00380385251359758)
-**作者**: El Aidi, Abdellatif
-**摘要**: （暂无）
 
 ### Social Inequality: Dimensions, Characteristics, Solutions SernauScott RSocial Inequality in a Global Age (7th edn)Los Angeles, CA: Sage, 2024, $156.00 pbk (ISBN: 9781071850947), 360 pp.HegtvedtKaren AJohnsonCathrynSocial Psychology, Individuals, Interaction, and Inequality (2nd edn)Los Angeles, CA: Sage, 2024, $156.00 pbk (ISBN: 9781544368801), 360 pp.ChiricoJoAnnGlobal Problems, Global Solutions, Prospects for a Better World (2nd edn)Los Angeles, CA: Sage, 2024, $183.00 pbk (ISBN: 9781071902226), 832 pp.
 **年份**: 2025 | **DOI**: [10.1177/00380385251374910](https://doi.org/10.1177/00380385251374910)
@@ -510,16 +415,6 @@
 **作者**: Rajčan, Adam; Burns, Edgar A
 **摘要**: This study brings three empirical findings from the Australia–New Zealand region to considering the current state of sociology in this part of the world. Focusing on sites of institutional disciplinary reproduction, we point to the disappearance of sociology-named organisational units, the spread of…
 
-### Book Review: JH Goldthorpe, The Making of a Sociologist: Between Being and Knowing GoldthorpeJHThe Making of a Sociologist: Between Being and KnowingAbingdon: Routledge, 2025, £39.99 (pbk) (ISBN: 9781032974903), 134 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251357723](https://doi.org/10.1177/00380385251357723)
-**作者**: Glaesser, Judith
-**摘要**: （暂无）
-
-### Book Review: Mary Fulbrook, Bystander Society: Conformity and Complicity in Nazi Germany FulbrookMaryBystander Society: Conformity and Complicity in Nazi GermanyOxford: Oxford University Press, 2023, £26.99 (hbk) (ISBN: 9780197691717), 488 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251322594](https://doi.org/10.1177/00380385251322594)
-**作者**: Palmer, Jack
-**摘要**: （暂无）
-
 ### The Sociology of Self-Employment: A Typology and Reconciliation
 **年份**: 2025 | **DOI**: [10.1177/00380385251324563](https://doi.org/10.1177/00380385251324563)
 **作者**: Cohen, Rachel Lara
@@ -534,35 +429,15 @@
 **作者**: Kleiner, Tuuli-Marja
 **摘要**: This study re-examines volunteering through Pierre Bourdieu’s theoretical framework, arguing that in Germany and other western countries, volunteering functions as a means of accumulating symbolic capital (i.e. social recognition and status).…
 
-### Book Review: Laura Merla, Sarah Murru, Giacomo Orsini and Tanja Vuckovic Juros (eds), Excluding Diversity through Intersectional Borderings: Politics, Policies and Daily Lives MerlaLauraMurruSarahOrsiniGiacomoJurosTanja Vuckovic (eds) Excluding Diversity through Intersectional Borderings: Politics, Policies and Daily LivesSwitzerland: Springer Nature Switzerland AG, 2024, hbk (ISBN: 9783031656224); ebk (ISBN: 9783031656231), 166 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251386373](https://doi.org/10.1177/00380385251386373)
-**作者**: Sarkar, Ratan; Saikia, Porishmita
-**摘要**: （暂无）
-
 ### Elucidating Confucian Heteronormativity: The Case of Chinese Schooling
 **年份**: 2025 | **DOI**: [10.1177/00380385251359765](https://doi.org/10.1177/00380385251359765)
 **作者**: Wu, Weiyuan
 **摘要**: This article employs Confucianism and queer theory to examine the experiences of 25 LGBTQ schoolteachers in China. Drawing on the Confucian concept of li , understood as the normative regulation of social roles, and the queer notion of heteronormativity, I propose the novel concept of Confucian hete…
 
-### Book Review: Jon Swain, Negotiating Gendered Identities in Primary School: Children’s Lives with Their Peers SwainJonNegotiating Gendered Identities in Primary School: Children’s Lives with Their PeersCham: Palgrave Macmillan, 2025, Open Access eBook (ISBN: 9783031691836), 275 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251386374](https://doi.org/10.1177/00380385251386374)
-**作者**: Sarkar, Ratan; Pathak, Tarali
-**摘要**: （暂无）
-
 ### ‘What’s the Fucking Point of This?’: Addressing Student Attitudes towards Quantitative Methods in Sociology for Enhanced Graduate Outcomes
 **年份**: 2025 | **DOI**: [10.1177/00380385251401409](https://doi.org/10.1177/00380385251401409)
 **作者**: Massey, Simon; Cain, Liz; Scott Jones, Julie 等6人
 **摘要**: Quantitative methods (QM) are characterised as ‘hard to teach’ and often marginalised in undergraduate Sociology curricula particularly in the UK, due to many factors, including students’ attitudes towards numbers. This can lead QM to be viewed by students as not mainstream Sociology.…
-
-### Book Review: Harris Mylonas and Maya Tudor, Varieties of Nationalism: Communities, Narratives, Identities MylonasHarrisTudorMayaVarieties of Nationalism: Communities, Narratives, IdentitiesCambridge: Cambridge University Press, 2023, £17 (pbk) (ISBN: 9781108972925), 83 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251343491](https://doi.org/10.1177/00380385251343491)
-**作者**: DySart, Bern
-**摘要**: （暂无）
-
-### Book Review: Nicholas Hoover Wilson and Damon Mayrl (eds), After Positivism: New Approaches to Comparison in Historical Sociology WilsonNicholas HooverMayrlDamon (eds) After Positivism: New Approaches to Comparison in Historical SociologyNew York: Columbia University Press, 2024, $38.00/£32.00 (pbk) (ISBN-13: 9780231208239), 384 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251329709](https://doi.org/10.1177/00380385251329709)
-**作者**: Galata, Paraskevi-Viviane
-**摘要**: （暂无）
 
 ### Is Misrecognition Recognised? Classed Perceptions of Occupational Status
 **年份**: 2025 | **DOI**: [10.1177/00380385251363893](https://doi.org/10.1177/00380385251363893)
@@ -589,11 +464,6 @@
 **作者**: Misiaszek, Greg William
 **摘要**: Deprioritizing and delegitimizing sociologies through global neoliberalization of higher education diminishes societies’ ability to tame wicked problems by removing a discipline that untangles the inherent messiness between anti-environmental acts and social injustice.…
 
-### Book Review: Sara Riva, Simon Campbell, Brian Whitener and Kathryn Medien (eds), Border Abolition Now RivaSaraCampbellSimonWhitenerBrianMedienKathryn (eds) Border Abolition NowLondon: Pluto Press, 2024, £19.99 (pbk) (ISBN: 9780745348988), 272 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251349059](https://doi.org/10.1177/00380385251349059)
-**作者**: Rogers Quinlan, Allison
-**摘要**: （暂无）
-
 ### ‘Dialling Up’ and ‘Dialling Down’: Exploring the Intensive Mothering Performances of Nigerian Mothers in the UK
 **年份**: 2025 | **DOI**: [10.1177/00380385251393783](https://doi.org/10.1177/00380385251393783)
 **作者**: Worlu, Preye; Kerrane, Ben; Kerrane, Katy
@@ -614,11 +484,6 @@
 **作者**: Ivanovska Hadjievska, Milka; Johansson, Håkan
 **摘要**: Elites are often offered prestigious state prizes and awards. Although most elites accept, prestigious prizes constitute a challenge for others since institutional symbolic capital cannot be merely accepted, but requires careful negotiation and management.…
 
-### Book Review: Simin Fadaee, Global Marxism: Decolonisation and Revolutionary Politics FadaeeSiminGlobal Marxism: Decolonisation and Revolutionary PoliticsManchester: Manchester University Press, 2024, £19.99 (pbk) (ISBN: 9781526177988), 288 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251343496](https://doi.org/10.1177/00380385251343496)
-**作者**: Chappell, Jonathan W
-**摘要**: （暂无）
-
 ### Reproducing Belonging in and through Genealogical Narratives: Hierarchies, Exclusion and Power
 **年份**: 2025 | **DOI**: [10.1177/00380385251343492](https://doi.org/10.1177/00380385251343492)
 **作者**: Clarke, Amy
@@ -633,11 +498,6 @@
 **年份**: 2025 | **DOI**: [10.1177/00380385251387968](https://doi.org/10.1177/00380385251387968)
 **作者**: Back, Les; Benson, Michaela; Tomlinson, Maisie
 **摘要**: This article reflects our experiences of developing a more sociable approach to teaching qualitative methods. Through a set of examples drawn from our teaching practice, from our shared development of a sociable qualitative methods curriculum for MA students to the production of the Fieldwork Fables…
-
-### Book Review: Paula Bialski, Middle Tech: Software Work and the Culture of Good Enough BialskiPaulaMiddle Tech: Software Work and the Culture of Good EnoughPrinceton: Princeton University Press, 2024, £25.00 (pbk) (ISBN: 9780691257167), 224 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251331376](https://doi.org/10.1177/00380385251331376)
-**作者**: Sun, Ningxiang
-**摘要**: （暂无）
 
 ### The Cruel Optimism of Suicide Prevention: Thinking beyond the Mental Health Model
 **年份**: 2025 | **DOI**: [10.1177/00380385251380774](https://doi.org/10.1177/00380385251380774)
@@ -663,16 +523,6 @@
 **年份**: 2025 | **DOI**: [10.1177/00380385251359077](https://doi.org/10.1177/00380385251359077)
 **作者**: Jansen, Giedo; Noorda, Hadassa; Akkerman, Agnes 等4人
 **摘要**: Electronic employee monitoring has strongly increased over the last decades. This article investigates to what extent electronic and non-electronic monitoring practices affect feelings of (mis)recognition both at the workplace and more widely in society.…
-
-### Book Review: Romit Chowdhury, City of Men: Masculinities and Everyday Morality on Public Transport ChowdhuryRomitCity of Men: Masculinities and Everyday Morality on Public TransportNew Brunswick, NJ: Rutgers University Press, 2023, $27.95 (pbk) (ISBN: 9781978829534), 216 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251322600](https://doi.org/10.1177/00380385251322600)
-**作者**: Zhao, Xuenan
-**摘要**: （暂无）
-
-### Book Review: Ann Oakley, The Science of Housework: The Home and Public Health, 1880–1940 OakleyAnnThe Science of Housework: The Home and Public Health, 1880–1940Bristol: Policy Press, 2024, £24.99 (pbk) (ISBN: 9781447369622), 266 pp.
-**年份**: 2025 | **DOI**: [10.1177/00380385251349063](https://doi.org/10.1177/00380385251349063)
-**作者**: Casey, Emma
-**摘要**: （暂无）
 
 ### Racism Seems to be the Hardest Word: How Racialised Workers Make Sense of Racial Inequalities in Creative and Cultural Industries
 **年份**: 2025 | **DOI**: [10.1177/00380385251380775](https://doi.org/10.1177/00380385251380775)
@@ -838,11 +688,6 @@
 **作者**: Rodríguez, Paulina
 **摘要**: Widening participation policies often depict access to elite universities as an inherently inclusive force, particularly for disadvantaged women who have been underrepresented in prestigious degrees.…
 
-### Book Review: David Yamane, Gun Curious: A Liberal Professor’s Surprising Journey Inside America’s Gun Culture
-**年份**: 2024 | **DOI**: [10.1177/00380385241285804](https://doi.org/10.1177/00380385241285804)
-**作者**: Barylo, William
-**摘要**: （暂无）
-
 ### Outside and Inside the Arena of Othering: Notions of ‘Intensive Mothering’ Revealed through Post-Abortion Narratives
 **年份**: 2024 | **DOI**: [10.1177/00380385241240445](https://doi.org/10.1177/00380385241240445)
 **作者**: ’t Hart, Dorinda
@@ -923,11 +768,6 @@
 **作者**: Law, Caroline
 **摘要**: Sociological explorations of trends of later parenthood have paid insufficient attention to the significance of intimate relationships, and of connectedness more generally, for such trends.…
 
-### Book Review: Jessie Abrahams, Schooling Inequality
-**年份**: 2024 | **DOI**: [10.1177/00380385241285805](https://doi.org/10.1177/00380385241285805)
-**作者**: Etches, Alison
-**摘要**: （暂无）
-
 ### Passing or Dropping the Baton? Local Area Deprivation, Volunteer Leadership Succession and the Survival of Charitable Organisations
 **年份**: 2024 | **DOI**: [10.1177/00380385231221440](https://doi.org/10.1177/00380385231221440)
 **作者**: Clifford, David
@@ -947,11 +787,6 @@
 **年份**: 2024 | **DOI**: [10.1177/00380385241303448](https://doi.org/10.1177/00380385241303448)
 **作者**: Seehuus, Sara; Strømme, Thea Bertnes
 **摘要**: Women’s higher college completion rates and greater economic returns to education are regarded as a pathway towards economic gender equality. However, gender-segregated educational choices contribute to persisting gender segregation in the labour market and the gender pay gap.…
-
-### Book Review: TJ Billard, Voices for Transgender Equality: Making Change in the Networked Public Sphere
-**年份**: 2024 | **DOI**: [10.1177/00380385241254339](https://doi.org/10.1177/00380385241254339)
-**作者**: Skyer, Robin
-**摘要**: （暂无）
 
 ### Enacting Migrant Community: Struggles and Unbelonging in the Field of Russian-Speaking Cultural Production
 **年份**: 2024 | **DOI**: [10.1177/00380385231219105](https://doi.org/10.1177/00380385231219105)
@@ -977,11 +812,6 @@
 **年份**: 2024 | **DOI**: [10.1177/00380385241297681](https://doi.org/10.1177/00380385241297681)
 **作者**: Spence, Rachel; Ashman, Rachel; Patterson, Anthony 等4人
 **摘要**: Previous studies of self-tracking often focus on themes such as control, surveillance and the production of self-optimising neoliberal subjects. This article extends understanding by exploring the affective capacities of self-tracking in fostering wellbeing and forging meaningful relationships.…
-
-### Book Review: Leo McCann, The Paramedic at Work: A Sociology of a New Profession McCannLeoThe Paramedic at Work: A Sociology of a New ProfessionOxford: Oxford University Press, 2022, £30 hbk (ISBN: 0198816367), 272 pp.
-**年份**: 2024 | **DOI**: [10.1177/00380385241230448](https://doi.org/10.1177/00380385241230448)
-**作者**: Smith, Charlotte
-**摘要**: （暂无）
 
 ### The Asymmetric Temporal Rhythms of Anti-Consumption
 **年份**: 2024 | **DOI**: [10.1177/00380385241281886](https://doi.org/10.1177/00380385241281886)
@@ -1013,11 +843,6 @@
 **作者**: Piccoli, Lorenzo; Gianni, Matteo; Ruedin, Didier 等8人
 **摘要**: Categorising certain forms of human movement as ‘migration’ and others as ‘mobility’ has far-reaching consequences. We introduce the migration–mobility nexus as a framework for other researchers to interrogate the relationship between these two categories of human movement and explain how they shape…
 
-### Book Review: Alessandro Gerosa, The Hipster Economy: Taste and Authenticity in Late Modern Capitalism GerosaAlessandroThe Hipster Economy: Taste and Authenticity in Late Modern CapitalismLondon: UCL Press, 2024, Open Access PDF/£20 (ISBN: 9781800086067), 129 pp.
-**年份**: 2024 | **DOI**: [10.1177/00380385241299374](https://doi.org/10.1177/00380385241299374)
-**作者**: Volpe, Camilla
-**摘要**: （暂无）
-
 ### What Haunts Intersex Studies?
 **年份**: 2024 | **DOI**: [10.1177/00380385241258963](https://doi.org/10.1177/00380385241258963)
 **作者**: Hegarty, Peter; Griffiths, David A; Prandelli, Marta 等4人
@@ -1042,11 +867,6 @@
 **年份**: 2023 | **DOI**: [10.1177/00380385231217585](https://doi.org/10.1177/00380385231217585)
 **作者**: Yopo Díaz, Martina
 **摘要**: Recent decades have seen substantive changes in reproductive patterns involving decisions whether, when and how to have children. Although time is at the core of transformations of contemporary childbearing, there are few systematic theoretical reflections and empirical studies on reproductive time.…
-
-### Book Review: Jonathan Purkis, Driving with Strangers: What Hitchhiking Tells Us about Humanity
-**年份**: 2023 | **DOI**: [10.1177/00380385231185034](https://doi.org/10.1177/00380385231185034)
-**作者**: Laviolette, Patrick
-**摘要**: （暂无）
 
 ### Shame, Anger and Hope: The Messy Relations of Charitable Help within the Welfare State
 **年份**: 2023 | **DOI**: [10.1177/00380385231195790](https://doi.org/10.1177/00380385231195790)
@@ -1126,11 +946,6 @@
 **年份**: 2023 | **DOI**: [10.1177/00380385221113478](https://doi.org/10.1177/00380385221113478)
 **作者**: Adam, Barbara
 **摘要**: Social lives are lived prospectively with intent and visions of what will, could and should be. Importantly, this social futurity is not merely hoped for, expected or anticipated but it is also enacted continuously in everyday and institutional practices.…
-
-### Book Review: Matthew Goodwin, Values, Voice and Virtue: The New British Politics GoodwinMatthewValues, Voice and Virtue: The New British PoliticsLondon: Penguin, 2023, £10.99 pbk (ISBN: 9780141999098), 239 pp.
-**年份**: 2023 | **DOI**: [10.1177/00380385231217582](https://doi.org/10.1177/00380385231217582)
-**作者**: Jones, Peter
-**摘要**: （暂无）
 
 ### Can Work Time Fragmentation Influence Workers’ Subjective Time Pressure? The Roles of Gender and Parenthood
 **年份**: 2023 | **DOI**: [10.1177/00380385231166893](https://doi.org/10.1177/00380385231166893)
@@ -1217,20 +1032,10 @@
 **作者**: Wide, Elisabeth
 **摘要**: This article analyses the relationship between law and class formation through the case of migrant care and domestic work, and puts sociological class theory into conversation with critical migration research.…
 
-### Book Review: Robert Leroux, Thierry Martin and Stephen Turner (eds), The Future of Sociology: Ideology or Objective Social Science?
-**年份**: 2023 | **DOI**: [10.1177/00380385221146883](https://doi.org/10.1177/00380385221146883)
-**作者**: Glaesser, Judith
-**摘要**: （暂无）
-
 ### Beyond ‘Imagined Meritocracy’: Distinguishing the Relative Power of Education and Skills in Intergenerational Inequality
 **年份**: 2023 | **DOI**: [10.1177/00380385231156093](https://doi.org/10.1177/00380385231156093)
 **作者**: Araki, Satoshi
 **摘要**: Scholars argue the dominant discourse of meritocracy legitimises intergenerational inequality and the winner–loser divide. However, is our society really meritocratic? If yes, the relative power of educational qualifications per se should be smaller than that of skills/abilities in the labour market…
-
-### Book Review: Avtar Brah, Decolonial Imaginings: Intersectional Conversations and Contestations
-**年份**: 2023 | **DOI**: [10.1177/00380385231202637](https://doi.org/10.1177/00380385231202637)
-**作者**: Martin, Shannon
-**摘要**: （暂无）
 
 ### Young Low-Income Mothers’ Identity Work around Infant Feeding in the UK
 **年份**: 2023 | **DOI**: [10.1177/00380385221140701](https://doi.org/10.1177/00380385221140701)
@@ -1277,16 +1082,6 @@
 **作者**: Nilsen, Ann
 **摘要**: This article seeks to explore if and how period specific conditions affect young women’s thoughts about their future lives. A contextualist analysis is done of a small sample of biographical interviews with Norwegian women in two cohorts born 1970–1975 and 1990–1995 interviewed 20 years apart when t…
 
-### Book Review: Heidi A Campbell and Ruth Tsuria (eds), Digital Religion: Understanding Religious Practice in Digital Media
-**年份**: 2023 | **DOI**: [10.1177/00380385231161228](https://doi.org/10.1177/00380385231161228)
-**作者**: Mustofa, Mahmud Yunus; Mamnunah; Rospitasari, Marina
-**摘要**: （暂无）
-
-### Book Review: Nancy Fraser, Cannibal Capitalism: How Our System Is Devouring Democracy, Care and the Planet – and What We Can Do about It
-**年份**: 2023 | **DOI**: [10.1177/00380385221146880](https://doi.org/10.1177/00380385221146880)
-**作者**: Morris, Katie
-**摘要**: （暂无）
-
 ### Researching Lay Perceptions of Inequality through Images of Society: Compliance, Inversion and Subversion of Power Hierarchies
 **年份**: 2023 | **DOI**: [10.1177/00380385231194867](https://doi.org/10.1177/00380385231194867)
 **作者**: Vanke, Alexandrina
@@ -1327,11 +1122,6 @@
 **作者**: Neves, Barbara Barbosa; Sanders, Alexandra; Warren, Narelle 等4人
 **摘要**: This article engages Göran Therborn’s conceptualisation of existential inequality to explore lived experiences of loneliness in later life. Existential inequality refers to unequal social distribution of personhood, from dignity to autonomy.…
 
-### Book Review: Derron Wallace, The Culture Trap: Ethnic Expectations and Unequal Schooling for Black Youth
-**年份**: 2023 | **DOI**: [10.1177/00380385231184805](https://doi.org/10.1177/00380385231184805)
-**作者**: Saini, Rima
-**摘要**: （暂无）
-
 ### Making Way for Men: The Gendered Processes of Graduate Hiring in Elite Professional Service Firms in China
 **年份**: 2023 | **DOI**: [10.1177/00380385231174789](https://doi.org/10.1177/00380385231174789)
 **作者**: Ren, Ran
@@ -1351,11 +1141,6 @@
 **年份**: 2023 | **DOI**: [10.1177/00380385231172129](https://doi.org/10.1177/00380385231172129)
 **作者**: Delgaty, Aaron; Wilson, Eli R
 **摘要**: A growing number of workers today are drawn to jobs that offer symbolic and cultural rewards but not necessarily stable employment or livable wages. Existing literature posits the exploitative nature of this labor arrangement, where workers must weigh the ‘cool’ aspects of their jobs against other l…
-
-### Book Review: Neil McLaughlin, Erich Fromm and Global Public Sociology
-**年份**: 2023 | **DOI**: [10.1177/00380385221081396](https://doi.org/10.1177/00380385221081396)
-**作者**: Durkin, Kieran
-**摘要**: （暂无）
 
 ### Racial Bias in Fans and Officials: Evidence from the Italian Serie A
 **年份**: 2023 | **DOI**: [10.1177/00380385221138332](https://doi.org/10.1177/00380385221138332)
@@ -1381,11 +1166,6 @@
 **年份**: 2023 | **DOI**: [10.1177/00380385231212398](https://doi.org/10.1177/00380385231212398)
 **作者**: Bower-Brown, Susie; Shaw, Kate; McConnachie, Anja 等6人
 **摘要**: Reciprocal IVF is a route to parenthood that, for the first time, allows cis two-mother families (and other couples in which both partners have a uterus and egg stores) to ‘share’ biological parenthood.…
-
-### Book Review: Daniel E Agbiboa, They Eat Our Sweat: Transport Labor, Corruption, and Everyday Survival in Urban Nigeria
-**年份**: 2023 | **DOI**: [10.1177/00380385231178638](https://doi.org/10.1177/00380385231178638)
-**作者**: van den Boogaard, Vanessa
-**摘要**: （暂无）
 
 ### Consumer Anxiety and Coping in COVID Times: Towards a Sociological Understanding of Consumer Resilience
 **年份**: 2023 | **DOI**: [10.1177/00380385231190234](https://doi.org/10.1177/00380385231190234)
@@ -1432,11 +1212,6 @@
 **作者**: Manning, Peter; Moore, Sarah; Tchilingirian, Jordan 等4人
 **摘要**: How the COVID-19 pandemic, and the deaths that occurred during the acute phase of the pandemic (2020–2021), will be remembered is yet to be determined. Writing from a UK perspective, this short article reflects on the way in which memory, narratives and death are constructed, contested and (re)produ…
 
-### Book Review: Cat Button and Gerard Taylor Aiken (eds), Over-Researched Places: Towards a Critical and Reflexive Approach
-**年份**: 2023 | **DOI**: [10.1177/00380385231185967](https://doi.org/10.1177/00380385231185967)
-**作者**: Sukarieh, Mayssoun
-**摘要**: （暂无）
-
 ### Between Here and Almost There: The Greek–Turkish Border as a Place of Passage
 **年份**: 2023 | **DOI**: [10.1177/00380385231194875](https://doi.org/10.1177/00380385231194875)
 **作者**: Dilaver, Özge; Redclift, Victoria
@@ -1482,11 +1257,6 @@
 **作者**: Kolehmainen, Marjo; Lahti, Annukka; Kinnunen, Anu
 **摘要**: The number of people living without a partner is growing globally, but this demographic shift has barely disrupted the tenacity of the couple norm. Researchers have identified several concrete mechanisms of singlism – practices that feed the unequal treatment of single people.…
 
-### Book Review: Rebecca Elliott, Underwater: Loss, Flood Insurance, and the Moral Economy of Climate Change in the United States
-**年份**: 2022 | **DOI**: [10.1177/00380385221112862](https://doi.org/10.1177/00380385221112862)
-**作者**: Garai, Joydeb
-**摘要**: （暂无）
-
 ### Social Quarantining in the Construction and Maintenance of White Australia
 **年份**: 2022 | **DOI**: [10.1177/00380385221129046](https://doi.org/10.1177/00380385221129046)
 **作者**: Staines, Zoe
@@ -1511,16 +1281,6 @@
 **年份**: 2022 | **DOI**: [10.1177/00380385211073233](https://doi.org/10.1177/00380385211073233)
 **作者**: Hodgson, James; Balmer, Andrew
 **摘要**: Lying is typically considered as a morally salient phenomenon in existing research. In this article we seek to expand the understanding of lying and deception as socially situated phenomena.…
-
-### Book Review: Gurminder Bhambra and John Holmwood, Colonialism and Modern Social Theory
-**年份**: 2022 | **DOI**: [10.1177/00380385221113485](https://doi.org/10.1177/00380385221113485)
-**作者**: Pryke, Sam
-**摘要**: （暂无）
-
-### Book Review: Gargi Bhattacharya, Adam Elliot-Cooper, Sita Balani, Kerem Nişancıoğlu, Kojo Koram, Dalia Gebrial, Nadine El-Enany and Luke de Noronha Empire’s Endgame: Racism and the British State
-**年份**: 2022 | **DOI**: [10.1177/00380385211073034](https://doi.org/10.1177/00380385211073034)
-**作者**: Keval, Harshad
-**摘要**: （暂无）
 
 ### Dialectical Family Imaginaries: Navigating Relational Selfhood and Becoming a Parent through Assisted Reproduction in China
 **年份**: 2022 | **DOI**: [10.1177/00380385221113480](https://doi.org/10.1177/00380385221113480)
@@ -1566,11 +1326,6 @@
 **年份**: 2022 | **DOI**: [10.1177/00380385221083872](https://doi.org/10.1177/00380385221083872)
 **作者**: Leahy, Angela
 **摘要**: Given the world is witness to over 80 million forcibly displaced persons, Turner’s neo-Hobbesian theory of human rights, first proposed in this journal decades ago, warrants revisiting. Turner highlights parallels between his foundationalist approach to human rights and Hobbes’ theory of the state.…
-
-### Book Review: Jack Palmer and Dariusz Brzeziński (eds), Revisiting Modernity and the Holocaust: Heritage, Dilemmas, Extensions
-**年份**: 2022 | **DOI**: [10.1177/00380385221135562](https://doi.org/10.1177/00380385221135562)
-**作者**: Best, Shaun
-**摘要**: （暂无）
 
 ### Me? A Hero? Gendered Work and Attributions of Heroism among Volunteers during the COVID-19 Pandemic
 **年份**: 2022 | **DOI**: [10.1177/00380385221136035](https://doi.org/10.1177/00380385221136035)
@@ -1691,25 +1446,10 @@
 **作者**: Henze-Pedersen, Sofie
 **摘要**: Following the introduction of the influential ‘doing’ family perspective, an active understanding of parents has taken centre stage in sociological thinking on how families are constructed.…
 
-### Book Review: Emanuel Deutschmann, Mapping the Transnational World: How We Move and Communicate across Borders, and Why It Matters
-**年份**: 2022 | **DOI**: [10.1177/00380385221091126](https://doi.org/10.1177/00380385221091126)
-**作者**: Schuler, Paul
-**摘要**: （暂无）
-
-### Book Review: David S Meyer, How Social Movements (Sometimes) Matter
-**年份**: 2022 | **DOI**: [10.1177/00380385221091136](https://doi.org/10.1177/00380385221091136)
-**作者**: Saunders, Clare
-**摘要**: （暂无）
-
 ### The Sociology of Utopia, Modern Temporality and Black Visions of Liberation
 **年份**: 2022 | **DOI**: [10.1177/00380385221117360](https://doi.org/10.1177/00380385221117360)
 **作者**: Davidson, Joe PL
 **摘要**: This article focuses on the relationship between the sociology of utopia and Black visions of liberation. Influential figures from Karl Mannheim to Ruth Levitas have effectively demonstrated the value of a utopian perspective for sociology.…
-
-### Book Review: Suhaiymah Manzoor-Khan, Tangled in Terror: Uprooting Islamophobia
-**年份**: 2022 | **DOI**: [10.1177/00380385221103367](https://doi.org/10.1177/00380385221103367)
-**作者**: Chaudry, Izram
-**摘要**: （暂无）
 
 ### Black Lives Matter: The Role of Emotions in Political Engagement
 **年份**: 2022 | **DOI**: [10.1177/00380385221081385](https://doi.org/10.1177/00380385221081385)
@@ -1741,11 +1481,6 @@
 **作者**: Galos, Diana Roxana; Kulic, Nevena
 **摘要**: Unequal gender outcomes in occupational success unravel through different channels in higher education. Using the AlmaLaurea dataset comprised of 80% of Italian graduates and 98 fields of study, this article investigates whether men and women receive similar returns on employment and earnings when c…
 
-### Book Review: Anna Tarrant, Fathering and Poverty: Uncovering Men’s Participation in Low-Income Family Life
-**年份**: 2022 | **DOI**: [10.1177/00380385221103370](https://doi.org/10.1177/00380385221103370)
-**作者**: Horton, Josie
-**摘要**: （暂无）
-
 ### Moving on up? How Social Origins Shape Geographic Mobility within Britain’s Higher Managerial and Professional Occupations
 **年份**: 2022 | **DOI**: [10.1177/00380385221113669](https://doi.org/10.1177/00380385221113669)
 **作者**: Hecht, Katharina; McArthur, Daniel
@@ -1771,11 +1506,6 @@
 **作者**: Walsh, Julie; Khan, Asma; Ferazzoli, Maria Teresa
 **摘要**: Ethnography is, in essence, an approach to social research reliant on ‘being there’ and ethnographic approaches to the social world have been widely taken up in sociological research.…
 
-### Book Review: Gurminder K Bhambra and John Holmwood, Colonialism and Modern Social Theory
-**年份**: 2022 | **DOI**: [10.1177/00380385221091135](https://doi.org/10.1177/00380385221091135)
-**作者**: Asatryan, Georgi; Kalpakian, Jack
-**摘要**: （暂无）
-
 ### Where Does Ascribed Privilege Get You in? Structural and Net Effects of Caste and Religious Belonging in India
 **年份**: 2022 | **DOI**: [10.1177/00380385221083890](https://doi.org/10.1177/00380385221083890)
 **作者**: Ferry, Mathieu
@@ -1785,11 +1515,6 @@
 **年份**: 2022 | **DOI**: [10.1177/00380385221122416](https://doi.org/10.1177/00380385221122416)
 **作者**: Haugseth, Jan Frode; Smeplass, Eli
 **摘要**: This study reports on an unique opportunity to compare four quantitative/qualitative datasets from 2017 to 2021, before and after the activist Greta Thunberg became known to the general public.…
-
-### Book Review: Stefan Lorenz Sorgner, We Have Always Been Cyborgs: Digital Data, Gene Technologies, and an Ethics of Transhumanism
-**年份**: 2022 | **DOI**: [10.1177/00380385221135569](https://doi.org/10.1177/00380385221135569)
-**作者**: Elyamany, Nashwa
-**摘要**: （暂无）
 
 ### What Lies Beneath: Organisational Responses to Powerful Stakeholders
 **年份**: 2022 | **DOI**: [10.1177/00380385221103955](https://doi.org/10.1177/00380385221103955)
@@ -1815,11 +1540,6 @@
 **年份**: 2022 | **DOI**: [10.1177/00380385221109743](https://doi.org/10.1177/00380385221109743)
 **作者**: Eriksson, Helen; Billingsley, Sunnee; Brandén, Maria
 **摘要**: Educational gradients in parental leave length are opposite for women and men: highly educated women return to work faster than those with low education while highly educated men are absent longer than less educated men.…
-
-### Book Review: Claude Rosental, Catherine Porter (translator), The Demonstration Society
-**年份**: 2022 | **DOI**: [10.1177/00380385221091130](https://doi.org/10.1177/00380385221091130)
-**作者**: Asatryan, Georgi; Kalpakian, Jack
-**摘要**: （暂无）
 
 ### The Unhomely of Homeschooling
 **年份**: 2022 | **DOI**: [10.1177/00380385221129943](https://doi.org/10.1177/00380385221129943)
@@ -1886,16 +1606,6 @@
 **作者**: Pope, Stacey; Williams, John; Cleland, Jamie
 **摘要**: This article offers an original contribution as the first to focus empirically on men football fans’ attitudes towards women’s sport in a ‘new age’ of UK media coverage, in which women’s sport has experienced a significantly increased and more positive media profile.…
 
-### Book Review: Suzanne M Hall, The Migrant’s Paradox: Street Livelihoods and Marginal Citizenship in Britain
-**年份**: 2022 | **DOI**: [10.1177/00380385211056173](https://doi.org/10.1177/00380385211056173)
-**作者**: Warren, Saskia
-**摘要**: （暂无）
-
-### Book Review: Rebecca O’Connell and Julia Brannen, Families and Food in Hard Times
-**年份**: 2022 | **DOI**: [10.1177/00380385221103397](https://doi.org/10.1177/00380385221103397)
-**作者**: Garratt, Elisabeth
-**摘要**: （暂无）
-
 ### Enemies in Iraq, Human Beings in Norway: ‘Multilocal’ Boundaries between Radicalised Sunni and Shi‘a Muslims
 **年份**: 2022 | **DOI**: [10.1177/00380385221136076](https://doi.org/10.1177/00380385221136076)
 **作者**: Ahmed, Uzair
@@ -1905,11 +1615,6 @@
 **年份**: 2022 | **DOI**: [10.1177/00380385221094770](https://doi.org/10.1177/00380385221094770)
 **作者**: Manning, Nick; Birk, Rasmus; Rose, Nikolas
 **摘要**: How should sociologists understand the everyday lives of those living in adversity, coping with the experience of structural violence? In this article, focusing on the urban experience, we suggest a perspective on ‘everyday life’ that can encompass corporeal, mental, relational and social dimensions…
-
-### Book Review: Kathe Hicks Albrecht, The Machine Anxieties of Steampunk: Contemporary Philosophy, Victorian Aesthetics and the Future
-**年份**: 2022 | **DOI**: [10.1177/00380385221109774](https://doi.org/10.1177/00380385221109774)
-**作者**: Strangleman, Tim
-**摘要**: （暂无）
 
 ### The Burden of Conviviality: British Bangladeshi Muslims Navigating Diversity in London, Luton and Birmingham
 **年份**: 2022 | **DOI**: [10.1177/00380385221090783](https://doi.org/10.1177/00380385221090783)
@@ -1956,21 +1661,6 @@
 **作者**: Brook, Orian; Miles, Andrew; O’Brien, Dave 等4人
 **摘要**: Social mobility in the cultural sector is currently an important issue in government policy and public discussion, associated with perceptions of a collapse in numbers of working-class origin individuals becoming artists, actors, musicians and authors.…
 
-### Book Review: Ruth Milkman, Immigrant Labor and the New Precariat
-**年份**: 2021 | **DOI**: [10.1177/00380385211015550](https://doi.org/10.1177/00380385211015550)
-**作者**: Devitt, Camilla
-**摘要**: （暂无）
-
-### Book Review: Fernando Calderón and Manuel Castells, The New Latin America
-**年份**: 2021 | **DOI**: [10.1177/0038038520981825](https://doi.org/10.1177/0038038520981825)
-**作者**: Domingues, José Maurício
-**摘要**: （暂无）
-
-### Book Review: Paul Lichterman, How Civic Action Works: Fighting for Housing in Los Angeles
-**年份**: 2021 | **DOI**: [10.1177/00380385211035605](https://doi.org/10.1177/00380385211035605)
-**作者**: Polanska, Dominika V
-**摘要**: （暂无）
-
 ### Crowds, Police and Provocations: Temporal Patterns of Rioting in Britain, 1800–1939
 **年份**: 2021 | **DOI**: [10.1177/00380385211058027](https://doi.org/10.1177/00380385211058027)
 **作者**: Tiratelli, Matteo
@@ -2006,11 +1696,6 @@
 **作者**: Smyth, Lisa
 **摘要**: Does sociology have anything to gain by returning to the concept of social role? Has this concept been irretrievably damaged by its significance in functionalist theory? This article aims to recover the role concept through a consideration of alternative perspectives on normativity, illustrated thro…
 
-### Book Review: Partha Chatterjee, I Am the People: Reflections on Popular Sovereignty Today
-**年份**: 2021 | **DOI**: [10.1177/00380385211015543](https://doi.org/10.1177/00380385211015543)
-**作者**: del Nido, Juan
-**摘要**: （暂无）
-
 ### It Is My Turn Now: How and Why ‘Single’ Women Complain about Non-Reciprocal Gift-Giving
 **年份**: 2021 | **DOI**: [10.1177/00380385211024081](https://doi.org/10.1177/00380385211024081)
 **作者**: Kravel-Tovi, Michal; Lahad, Kinneret
@@ -2023,11 +1708,6 @@
 
 ### Thank You to Referees
 **年份**: 2021 | **DOI**: [10.1177/00380385211062602](https://doi.org/10.1177/00380385211062602)
-**摘要**: （暂无）
-
-### Book Review: Alicia M Walker, Chasing Masculinity: Men, Validation, and Infidelity
-**年份**: 2021 | **DOI**: [10.1177/00380385211015570](https://doi.org/10.1177/00380385211015570)
-**作者**: van Hooff, Jenny
 **摘要**: （暂无）
 
 ### Cumulative Disadvantage Dynamics for Palestinian Israeli Arabs in Israel’s Economy
@@ -2065,16 +1745,6 @@
 **作者**: Norberg, Ida
 **摘要**: Drawing on a framework offered by Bauman and literature from disability studies and other sociological areas, this article argues that the experience of austerity for disabled people in Sweden is one of bureaucratic violence, shaped by disablism.…
 
-### Book Review: Colin Samson, The Colonialism of Human Rights: Ongoing Hypocrisies of Western Liberalism
-**年份**: 2021 | **DOI**: [10.1177/0038038520986079](https://doi.org/10.1177/0038038520986079)
-**作者**: Ammaturo, Francesca Romana
-**摘要**: （暂无）
-
-### Book Review: Karen Patel, The Politics of Expertise in Cultural Labour: Arts, Work and Inequalities
-**年份**: 2021 | **DOI**: [10.1177/00380385211037856](https://doi.org/10.1177/00380385211037856)
-**作者**: Ashton, Heidi
-**摘要**: （暂无）
-
 ### ‘It Feels Like Life Is Narrowing’: Aspirational Lifestyles and Ambivalent Futures among Norwegian ‘Top Girls’
 **年份**: 2021 | **DOI**: [10.1177/0038038521997759](https://doi.org/10.1177/0038038521997759)
 **作者**: Vaadal, Kristine; Ravn, Signe
@@ -2094,16 +1764,6 @@
 **年份**: 2021 | **DOI**: [10.1177/0038038520981841](https://doi.org/10.1177/0038038520981841)
 **作者**: Holmes, Mary; Jamieson, Lynn; Natalier, Kristin
 **摘要**: This article sets out a conceptual framework for examining future building as an emotionally reflexive practice of intimacy and gendered agency. Emotionally reflexive future building is a relational activity, subject to gendering but open to queering.…
-
-### Book Review: Chris Bail, Breaking the Social Media Prism: How to Make Our Platforms Less Polarizing
-**年份**: 2021 | **DOI**: [10.1177/00380385211046501](https://doi.org/10.1177/00380385211046501)
-**作者**: Wang, Xiuhua
-**摘要**: （暂无）
-
-### Book Review: Alana Lentin, Why Race Still Matters
-**年份**: 2021 | **DOI**: [10.1177/00380385211059434](https://doi.org/10.1177/00380385211059434)
-**作者**: Balogun, Bolaji
-**摘要**: （暂无）
 
 ### Towards Relational Spatiality: Space, Relation and Simmel’s Modernity
 **年份**: 2021 | **DOI**: [10.1177/00380385211047366](https://doi.org/10.1177/00380385211047366)
@@ -2130,11 +1790,6 @@
 **作者**: Nicholls, Emily
 **摘要**: Former drinkers in the UK are required to negotiate sobriety in a society that positions consumption (of alcohol but also more widely) as an important part of identity formation. A refusal to consume risks positioning the self outside of the established neoliberal order, particularly as traditional …
 
-### Book Review: Tad Skotnicki, The Sympathetic Consumer: Moral Critique in Capitalist Culture
-**年份**: 2021 | **DOI**: [10.1177/00380385211035606](https://doi.org/10.1177/00380385211035606)
-**作者**: Li, Yao-Tai
-**摘要**: （暂无）
-
 ### Between Post-Racial Ideology and Provincial Universalisms: Critical Race Theory, Decolonial Thought and COVID-19 in Britain
 **年份**: 2021 | **DOI**: [10.1177/00380385211011575](https://doi.org/10.1177/00380385211011575)
 **作者**: Meghji, Ali; Niang, Sophie Marie
@@ -2159,11 +1814,6 @@
 **年份**: 2021 | **DOI**: [10.1177/00380385211037606](https://doi.org/10.1177/00380385211037606)
 **作者**: Carroll, Nicola; Yeadon-Lee, Tray
 **摘要**: Popular discourse continues to equate ‘good’ motherhood with middle class, heterosexual coupledom and lone motherhood with dysfunctionality, despite ever-increasing diversity in family life.…
-
-### Book Review: Diane M Rodgers, Children in Social Movements: Rethinking Agency, Mobilization, and Rights
-**年份**: 2021 | **DOI**: [10.1177/00380385211015532](https://doi.org/10.1177/00380385211015532)
-**作者**: Liebel, Manfred
-**摘要**: （暂无）
 
 ### Policing Black Film: Racism, Black Resistance and the Applicational Dexterity of Race Relations in Babylon
 **年份**: 2021 | **DOI**: [10.1177/0038038520985793](https://doi.org/10.1177/0038038520985793)
@@ -2195,11 +1845,6 @@
 **作者**: Harrits, Gitte Sommer; Larsen, Lars Thorup
 **摘要**: It is widely debated how ordinary citizens understand and use different types of knowledge and whether the authority of professional expertise is challenged by the spread of information.…
 
-### Book Review: Andreas Reckwitz, The Society of Singularities
-**年份**: 2021 | **DOI**: [10.1177/0038038521994038](https://doi.org/10.1177/0038038521994038)
-**作者**: Harrington, Austin
-**摘要**: （暂无）
-
 ### Race and Racism(s): Current Debates in Global and UK Theorisation and Empiricism
 **年份**: 2021 | **DOI**: [10.1177/0038038520986053](https://doi.org/10.1177/0038038520986053)
 **作者**: Njaka, Chinelo L.
@@ -2215,11 +1860,6 @@
 **作者**: Asahina, Yuki
 **摘要**: Similar levels of inequality may be coded as acceptable or unacceptable in different places. To account for misrecognition of inequality, the existing studies highlight the roles of ideological legitimation and situated comparison through which individuals read inequality around them, but these acco…
 
-### Book Review: Vicki Dabrowski, Austerity, Women and the Role of the State: Lived Experiences of the Crisis
-**年份**: 2021 | **DOI**: [10.1177/00380385211056175](https://doi.org/10.1177/00380385211056175)
-**作者**: Burvill, Graham
-**摘要**: （暂无）
-
 ### Ambivalent Strategies: Student-Migrant-Workers’ Efforts at Challenging Administrative Bordering
 **年份**: 2021 | **DOI**: [10.1177/00380385211033174](https://doi.org/10.1177/00380385211033174)
 **作者**: Maury, Olivia
@@ -2230,25 +1870,10 @@
 **作者**: Moraes, Caroline; McEachern, Morven G; Gibbons, Andrea 等4人
 **摘要**: This article examines lived experiences of food insecurity in the United Kingdom as a liminal phenomenon. Our research is set within the context of austerity measures, welfare reform and the precarity experienced by increasing numbers of individuals.…
 
-### Book Review: Sivamohan Valluvan, The Clamour of Nationalism: Race and Nation in Twenty-First-Century Britain
-**年份**: 2021 | **DOI**: [10.1177/0038038521994027](https://doi.org/10.1177/0038038521994027)
-**作者**: Tinsley, Meghan
-**摘要**: （暂无）
-
-### Book Review: Jürgen Martschukat, The Age of Fitness: How the Body Came to Symbolize Success and Achievement
-**年份**: 2021 | **DOI**: [10.1177/00380385211015577](https://doi.org/10.1177/00380385211015577)
-**作者**: Chaudry, Izram
-**摘要**: （暂无）
-
 ### More Than Making Do: Towards a Generative Account of Getting by on Welfare Benefits
 **年份**: 2021 | **DOI**: [10.1177/00380385211037870](https://doi.org/10.1177/00380385211037870)
 **作者**: Mitchell, Emma
 **摘要**: The narrowing eligibility and increasing conditionality of social security payments in Anglophone liberal democracies like Australia has been accompanied by growing attention to the ways benefit recipients navigate the personal and practical challenges of life amid welfare reforms.…
-
-### Bring Your Own Politics: Life Strategies and Mobilization in Response to Urban Redevelopment
-**年份**: 2021 | **DOI**: [10.1177/00380385211059438](https://doi.org/10.1177/00380385211059438)
-**作者**: Zhelnina, Anna
-**摘要**: This article contributes to social movement literature and theories of strategic action by making the case for an analytic distinction between habitual and intentional life strategies, namely the ways in which people pursue what they value in life.…
 
 ### Uncanny Europe and Protective Europeanness: When European Identity Becomes a Queerly Viable Option
 **年份**: 2021 | **DOI**: [10.1177/00380385211024117](https://doi.org/10.1177/00380385211024117)
@@ -2269,11 +1894,6 @@
 **年份**: 2021 | **DOI**: [10.1177/00380385211056218](https://doi.org/10.1177/00380385211056218)
 **作者**: Jamal, Amal; Lavie, Noa
 **摘要**: This article contributes to the theorization of hope in the cultural industries in conflict zones. Although the merits of hope in explicating the behavior of creative workers in cultural production in western countries has won some attention, the literature has fallen short of addressing the impact …
-
-### Book Review: Orian Brook, Dave O’Brien and Mark Taylor, Culture Is Bad for You: Inequality in the Cultural and Creative Industries
-**年份**: 2021 | **DOI**: [10.1177/00380385211033546](https://doi.org/10.1177/00380385211033546)
-**作者**: Sabanova, Inga
-**摘要**: （暂无）
 
 ### Developing the Concept of Belonging Work for Social Research
 **年份**: 2021 | **DOI**: [10.1177/00380385211037867](https://doi.org/10.1177/00380385211037867)
@@ -2315,11 +1935,6 @@
 **作者**: Pirani, Daniela; Harman, Vicki; Cappellini, Benedetta
 **摘要**: Drawing on 34 semi-structured interviews, this study investigates the temporality of family practices taking place in the hot spot. It does so by looking at how breakfast is inserted in the economy of family time in Italy.…
 
-### Book Review: Brady Robards and Sîan Lincoln, Growing up on Facebook
-**年份**: 2021 | **DOI**: [10.1177/0038038521998953](https://doi.org/10.1177/0038038521998953)
-**作者**: Szulc, Lukasz
-**摘要**: （暂无）
-
 ### Intensive Grandmothering? Exploring the Changing Nature of Grandmothering in the Context of Changes to Parenting Culture
 **年份**: 2021 | **DOI**: [10.1177/00380385211034983](https://doi.org/10.1177/00380385211034983)
 **作者**: Harman, Vicki; Cappellini, Benedetta; Webster, Michelle
@@ -2330,30 +1945,15 @@
 **作者**: Tubaro, Paola
 **摘要**: This article extends the economic-sociological concept of embeddedness to encompass not only social networks of, for example, friendship or kinship ties, but also economic networks of ownership and control relationships.…
 
-### Book Review: Sara Salem, Anticolonial Afterlives in Egypt: The Politics of Hegemony
-**年份**: 2021 | **DOI**: [10.1177/00380385211047377](https://doi.org/10.1177/00380385211047377)
-**作者**: Mirshak, Nadim
-**摘要**: （暂无）
-
 ### The Responsibilised ‘Agent’ and Other Statuses
 **年份**: 2021 | **DOI**: [10.1177/0038038520986037](https://doi.org/10.1177/0038038520986037)
 **作者**: McNulty Norton, Denise
 **摘要**: Conceptualisations of agency that incorporate notions of individuals all independently following or resisting rules cast actors as either passive or resistant, and yet (either way) both free and responsible.…
 
-### Book Review: Lisa Adkins, Melinda Cooper and Martijn Konings, The Asset Economy
-**年份**: 2021 | **DOI**: [10.1177/0038038520986054](https://doi.org/10.1177/0038038520986054)
-**作者**: Coombs, Nathan
-**摘要**: （暂无）
-
 ### Performing Trustworthiness: The ‘Credibility Work’ of Prominent Sociologists
 **年份**: 2021 | **DOI**: [10.1177/0038038520977805](https://doi.org/10.1177/0038038520977805)
 **作者**: Geiger, Ben Baumberg
 **摘要**: To the limited extent that sociologists have considered non-academics’ trust in sociologists, legitimacy has become entwined with the idea of a value-free, ‘objective’ sociology. However, broader philosophical/sociological work suggests that credibility signals are more complex, with, for example, n…
-
-### Book Review: Wayne H Brekhus, The Sociology of Identity: Authenticity, Multidimensionality, and Mobility
-**年份**: 2021 | **DOI**: [10.1177/0038038520986084](https://doi.org/10.1177/0038038520986084)
-**作者**: Andersson, Mette
-**摘要**: （暂无）
 
 ### Telling Reproductive Stories: Social Scripts, Relationality and Donor Conception
 **年份**: 2021 | **DOI**: [10.1177/0038038520981860](https://doi.org/10.1177/0038038520981860)
@@ -2363,11 +1963,6 @@
 ### Technicolour Eruptions of Light in the Darkness: An Interview with Professor Les Back
 **年份**: 2021 | **DOI**: [10.1177/00380385211047096](https://doi.org/10.1177/00380385211047096)
 **作者**: Back, Les; Wright, Edward J
-**摘要**: （暂无）
-
-### Book Review: Ruth Lister, Poverty
-**年份**: 2021 | **DOI**: [10.1177/00380385211027107](https://doi.org/10.1177/00380385211027107)
-**作者**: Power, Maddy
 **摘要**: （暂无）
 
 ### Body Pedagogics, Transactional Identities and Human–Animal Relations
@@ -2380,35 +1975,15 @@
 **作者**: Kerrane, Ben; Kerrane, Katy; Bettany, Shona 等4人
 **摘要**: This article explores mothers’ narratives of ‘prepping’ behaviours. Prepping involves the management of stockpiled household items in anticipation of marketplace disruption. In this article, we use anticipated food shortages following the UK’s exit from the EU (‘Brexit’) as our context.…
 
-### Book Review: Colin Jerolmack, Up to Heaven and Down to Hell: Fracking, Freedom, and Community in an American Town
-**年份**: 2021 | **DOI**: [10.1177/00380385211035601](https://doi.org/10.1177/00380385211035601)
-**作者**: Lévesque, Gabriel
-**摘要**: （暂无）
-
-### Book Review: Alan Warde, Jessica Paddock and Jennifer Whillans, The Social Significance of Dining Out: A Study of Continuity and Change
-**年份**: 2021 | **DOI**: [10.1177/0038038521994034](https://doi.org/10.1177/0038038521994034)
-**作者**: Lalli, Gurpinder Singh
-**摘要**: （暂无）
-
 ### Boundaries in the Making: Transformations in Erving Goffman’s Total Institution through the Case of a Female Benedictine Monastery
 **年份**: 2021 | **DOI**: [10.1177/00380385211011573](https://doi.org/10.1177/00380385211011573)
 **作者**: Clot-Garrell, Anna
 **摘要**: Total institutions have undergone profound changes since Erving Goffman published his seminal work Asylums in 1961. This article explores the persistence and transformation of total institutions under late-modern conditions.…
 
-### Book Review: Simon Lindgren, Data Theory: Interpretive Sociology and Computational Methods
-**年份**: 2021 | **DOI**: [10.1177/00380385211015537](https://doi.org/10.1177/00380385211015537)
-**作者**: Halavais, Alexander
-**摘要**: （暂无）
-
 ### COVID-19, Nation-States and Fragile Transnationalism
 **年份**: 2021 | **DOI**: [10.1177/00380385211033729](https://doi.org/10.1177/00380385211033729)
 **作者**: Nehring, Daniel; Hu, Yang
 **摘要**: In this intervention, we discuss how the COVID-19 pandemic has reconfigured transnational mobilities, connections, and solidarities, which reveals the fragility of transnationalism predicated on cosmopolitan ethics but rooted in nation-level politics.…
-
-### Book Review: Joe Turner, Bordering Intimacy: Postcolonial Governance and the Policing of Family
-**年份**: 2021 | **DOI**: [10.1177/00380385211046498](https://doi.org/10.1177/00380385211046498)
-**作者**: Trafford, James
-**摘要**: （暂无）
 
 ### Beyond Knowledge Capitalism’s Happy Labour Subject
 **年份**: 2021 | **DOI**: [10.1177/00380385211028153](https://doi.org/10.1177/00380385211028153)
@@ -2419,16 +1994,6 @@
 **年份**: 2021 | **DOI**: [10.1177/00380385211020231](https://doi.org/10.1177/00380385211020231)
 **作者**: Crossley, Nick
 **摘要**: In this article I argue for a relational approach to the agency–structure problem. Structure has three dimensions from this perspective but, at its most fundamental, it is a network comprising social actors (human and corporate) and the relations connecting them.…
-
-### Book Review: Nicholas Abercrombie, Commodification and Its Discontents
-**年份**: 2021 | **DOI**: [10.1177/00380385211015539](https://doi.org/10.1177/00380385211015539)
-**作者**: Oliver, Jeffrey R
-**摘要**: （暂无）
-
-### Book Review: Zakiya Luna, Reproductive Rights as Human Rights: Women of Color and the Fight for Reproductive Justice
-**年份**: 2021 | **DOI**: [10.1177/00380385211056220](https://doi.org/10.1177/00380385211056220)
-**作者**: James, Shauntey
-**摘要**: （暂无）
 
 ### Drag Performers’ Perspectives on the Mainstreaming of British Drag: Towards a Sociology of Contemporary Drag
 **年份**: 2021 | **DOI**: [10.1177/00380385211008387](https://doi.org/10.1177/00380385211008387)
@@ -2454,11 +2019,6 @@
 **年份**: 2020 | **DOI**: [10.1177/0038038520926871](https://doi.org/10.1177/0038038520926871)
 **作者**: Bartram, David
 **摘要**: Researchers investigating the relationship between age and life satisfaction have produced conflicting answers, via disputes over whether to include individual-level control variables in regression models.…
-
-### Book Review: Julia Brannen, Social Research Matters: A Life in Family Sociology
-**年份**: 2020 | **DOI**: [10.1177/0038038520954323](https://doi.org/10.1177/0038038520954323)
-**作者**: O’Kane Boal, Marianne
-**摘要**: （暂无）
 
 ### Left Behind in the Hungarian Rustbelt: The Cultural Political Economy of Working-Class Neo-Nationalism
 **年份**: 2020 | **DOI**: [10.1177/0038038520929540](https://doi.org/10.1177/0038038520929540)
@@ -2495,11 +2055,6 @@
 **作者**: Ham, Julie
 **摘要**: Questions about payment and what it signifies, lie at the heart of feminist debates concerning the morality and legitimacy of sex work. Yet the materialities of payment still remain interestingly under-explored in sex work research.…
 
-### Book Review: Lisa Baraitser, Enduring Time
-**年份**: 2020 | **DOI**: [10.1177/0038038520914815](https://doi.org/10.1177/0038038520914815)
-**作者**: Lahad, Kinneret
-**摘要**: （暂无）
-
 ### The Fate of Social Character in an Age of Uncertainty
 **年份**: 2020 | **DOI**: [10.1177/0038038520971206](https://doi.org/10.1177/0038038520971206)
 **作者**: Shilling, Chris; Mellor, Philip A
@@ -2509,11 +2064,6 @@
 **年份**: 2020 | **DOI**: [10.1177/0038038520949835](https://doi.org/10.1177/0038038520949835)
 **作者**: Dunne, Máiréad; Crossouard, Barbara; Agbaire, Jennifer 等4人
 **摘要**: The rise of different nationalisms in an increasingly unequal and neoliberal world makes predictions about the dawn of a post-national, global society seem both incongruous and fraught with Eurocentric occlusions.…
-
-### Book Review: Tim Strangleman, Voices of Guinness
-**年份**: 2020 | **DOI**: [10.1177/0038038519897903](https://doi.org/10.1177/0038038519897903)
-**作者**: McLachlan, Christopher J
-**摘要**: （暂无）
 
 ### The Temporal Uses of Moral Things: Manifesting, Anchoring and Conserving Caring Relations within the Sensorium
 **年份**: 2020 | **DOI**: [10.1177/0038038520959263](https://doi.org/10.1177/0038038520959263)
@@ -2535,16 +2085,6 @@
 **作者**: Alacovska, Ana
 **摘要**: This article considers the analytical potential of a concept of care that foregrounds human interdependencies, relational ties and the needs of others as the basis for action in analysing work, such as creative work, which is neither directly nor obviously associated with care provision.…
 
-### Book Review: Jonathan Gershuny and Oriel Sullivan, What We Really Do All Day: Insights from the Centre for Time Use Research
-**年份**: 2020 | **DOI**: [10.1177/0038038520904717](https://doi.org/10.1177/0038038520904717)
-**作者**: Whillans, Jennifer
-**摘要**: （暂无）
-
-### Book Review: Daniel Monterescu and Haim Hazan, Twilight Nationalism: Politics of Existence at Life’s End
-**年份**: 2020 | **DOI**: [10.1177/0038038520940169](https://doi.org/10.1177/0038038520940169)
-**作者**: Dayan, Hilla
-**摘要**: （暂无）
-
 ### Ethnic Penalties and Hiring Discrimination: Comparing Results from Observational Studies with Field Experiments in the UK
 **年份**: 2020 | **DOI**: [10.1177/0038038520966947](https://doi.org/10.1177/0038038520966947)
 **作者**: Zwysen, Wouter; Di Stasio, Valentina; Heath, Anthony
@@ -2564,11 +2104,6 @@
 **年份**: 2020 | **DOI**: [10.1177/0038038520918562](https://doi.org/10.1177/0038038520918562)
 **作者**: Fussey, Pete; Roth, Silke
 **摘要**: This article outlines and contextualizes the development of digital sociology as an introduction to this e-special issue, charting the development of the field through the pages of the journal, Sociology.…
-
-### Book Review: Anna Bull, Class, Control, and Classical Music
-**年份**: 2020 | **DOI**: [10.1177/0038038520943113](https://doi.org/10.1177/0038038520943113)
-**作者**: McCormick, Lisa
-**摘要**: （暂无）
 
 ### Distinctive or Professionalised? Understanding the Postsecular in Faith-Based Responses to Trafficking, Forced Labour and Slavery in the UK
 **年份**: 2020 | **DOI**: [10.1177/0038038520967887](https://doi.org/10.1177/0038038520967887)
@@ -2630,11 +2165,6 @@
 **作者**: Kantola, Anu
 **摘要**: Growing inequalities have prompted research on the wealthiest groups and their cohesive practices and ideologies. This article suggests that emotional expression – how the members of the wealthy upper class feel about themselves and the rest of society – provides a way to examine their position in s…
 
-### Book Review: Heather Suzanne Woods and Leslie A Hahner, Make America Meme Again: The Rhetoric of Alt-Right
-**年份**: 2020 | **DOI**: [10.1177/0038038520947569](https://doi.org/10.1177/0038038520947569)
-**作者**: Toscano, Emanuele
-**摘要**: （暂无）
-
 ### Vulnerability, Space and Conflict-Related Sexual Violence: Building Spatial Resilience
 **年份**: 2020 | **DOI**: [10.1177/0038038520918560](https://doi.org/10.1177/0038038520918560)
 **作者**: Clark, Janine Natalya
@@ -2679,11 +2209,6 @@
 **年份**: 2020 | **DOI**: [10.1177/0038038520977803](https://doi.org/10.1177/0038038520977803)
 **作者**: Vandebroeck, Dieter
 **摘要**: This article presents an exercise in ‘cognitive class analysis’ by tackling the question of when young children first develop the ability to perceive and judge stereotypical representation of class identity.…
-
-### Introduction: Nationalism’s Futures
-**年份**: 2020 | **DOI**: [10.1177/0038038520969316](https://doi.org/10.1177/0038038520969316)
-**作者**: May, Vanessa; Byrne, Bridget; Holmes, Helen 等4人
-**摘要**: At a time when nationalist sentiment is on the rise, this special issue takes stock of how sociology can contribute to understanding the past, present and future of nationalism. In contrast to declarations of ‘the end of history’, which was also meant to herald increasing integration due to a loweri…
 
 ### The Distinction between the Absolute and Relative Advantages of Cultural Capital: Different Conceptualizations, Different Consequences
 **年份**: 2020 | **DOI**: [10.1177/0038038520973588](https://doi.org/10.1177/0038038520973588)
@@ -2734,16 +2259,6 @@
 **作者**: Moore, Sian; Taylor, Phil
 **摘要**: This article explores the inter-relationship of gender, sexuality, race and class among cabin crew, members of trade union BASSA, in the British Airways dispute of 2009–2011. It evaluates the utility of intersectional analysis in the context of industrial action, investigating the ways crew mobilise…
 
-### Book Review: Jeffrey Alexander, What Makes a Social Crisis? The Societalization of Social Problems
-**年份**: 2020 | **DOI**: [10.1177/0038038520909294](https://doi.org/10.1177/0038038520909294)
-**作者**: Curran, Dean
-**摘要**: （暂无）
-
-### Book Review: Roberto G Gonzales, Nando Sigona, Martha C Franco and Anna Papoutsi, Undocumented Migration
-**年份**: 2020 | **DOI**: [10.1177/0038038520933454](https://doi.org/10.1177/0038038520933454)
-**作者**: Nicholls, Walter
-**摘要**: （暂无）
-
 ### Protests and Policies: How Radical Social Movement Activists Engage with Climate Policy Dilemmas
 **年份**: 2020 | **DOI**: [10.1177/0038038520943107](https://doi.org/10.1177/0038038520943107)
 **作者**: Corry, Olaf; Reiner, David
@@ -2753,11 +2268,6 @@
 **年份**: 2020 | **DOI**: [10.1177/0038038520949848](https://doi.org/10.1177/0038038520949848)
 **作者**: Yodovich, Neta
 **摘要**: This article offers a rigorous conceptualisation of an undeveloped sociological concept: conditional belonging. It implements and develops conditional belonging in the setting of everyday life by examining female fans of science fiction.…
-
-### Book Review: Hartmut Rosa, Resonance: A Sociology of Our Relationship to the World
-**年份**: 2020 | **DOI**: [10.1177/0038038519899344](https://doi.org/10.1177/0038038519899344)
-**作者**: Masquelier, Charles
-**摘要**: （暂无）
 
 ### Sociology and Self-Injury: The State of the Field
 **年份**: 2020 | **DOI**: [10.1177/0038038519897904](https://doi.org/10.1177/0038038519897904)
@@ -2789,16 +2299,6 @@
 **作者**: Jobe, Alison
 **摘要**: Exploring the (re)emergence of human trafficking as a global social problem, this article presents an analysis of asylum determinations where claims for Asylum and/or Humanitarian Protection included accounts of trafficking to the UK.…
 
-### Book Review: Florian Schneider, China’s Digital Nationalism
-**年份**: 2020 | **DOI**: [10.1177/0038038520947301](https://doi.org/10.1177/0038038520947301)
-**作者**: Hou, Rui
-**摘要**: （暂无）
-
-### Book Review: Sarah Bowen, Joslyn Brenton and Sinikka Elliott, Pressure Cooker: Why Home Cooking Won’t Solve Our Problems and What We Can Do about It
-**年份**: 2020 | **DOI**: [10.1177/0038038519897906](https://doi.org/10.1177/0038038519897906)
-**作者**: Valli, Laura
-**摘要**: （暂无）
-
 ### Maintaining the Status Quo through Repressed Silences: The Case of Paid Domestic Labour in Post-Apartheid South Africa
 **年份**: 2020 | **DOI**: [10.1177/0038038520943103](https://doi.org/10.1177/0038038520943103)
 **作者**: Murray, Amy Jo; Durrheim, Kevin
@@ -2813,11 +2313,6 @@
 **年份**: 2020 | **DOI**: [10.1177/0038038520975593](https://doi.org/10.1177/0038038520975593)
 **作者**: Koch, Insa; Fransham, Mark; Cant, Sarah 等6人
 **摘要**: This article examines how intensifying inequality in the UK plays out at a local level, in order to bring out the varied ways polarisation takes place ‘on the ground’. It brings a community analysis buttressed by quantitative framing to the study of economic, spatial and relational polarisation in f…
-
-### Book Review: Andrew King, Kathryn Almack and Rebecca L Jones (eds), Intersections of Ageing, Gender and Sexualities: Multidisciplinary International Perspectives
-**年份**: 2020 | **DOI**: [10.1177/0038038519897907](https://doi.org/10.1177/0038038519897907)
-**作者**: Simpson, Paul
-**摘要**: （暂无）
 
 ### Rethinking Institutional Habitus in Education: A Relational Approach for Studying Its Sources and Impacts
 **年份**: 2020 | **DOI**: [10.1177/0038038520966565](https://doi.org/10.1177/0038038520966565)

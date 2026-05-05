@@ -1,29 +1,9 @@
 # Annual Review of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **120** 篇
+共 **110** 篇
 
 ---
-
-### Discrimination and Health Inequalities
-**年份**: 2026 | **DOI**: [10.1146/annurev-soc-031324-114207](https://doi.org/10.1146/annurev-soc-031324-114207)
-**作者**: Aranguren, Martin
-**摘要**: Although theory suggests that discrimination generates health inequalities in a variety of ways, research today concentrates almost exclusively on one particular mechanism: the conscious experience of unfair treatment, often termed “perceived discrimination.” To rethink perceived discrimination as o…
-
-### Sending Money Home: Understanding the Social Dynamics of Migrant Remittances
-**年份**: 2026 | **DOI**: [10.1146/annurev-soc-031324-111448](https://doi.org/10.1146/annurev-soc-031324-111448)
-**作者**: Mahmud, Hasan; Zhou, Min
-**摘要**: This article synthesizes major strands of scholarship on migrant remittances, addressing the central question of what motivates migrants to remit and how these motivations vary across social, temporal, and structural contexts.…
-
-### Luck and Predictability in the Life Course
-**年份**: 2026 | **DOI**: [10.1146/annurev-soc-031324-115112](https://doi.org/10.1146/annurev-soc-031324-115112)
-**作者**: van de Rijt, Arnout; Bernardi, Fabrizio; Foley, William 等4人
-**摘要**: There is an emerging recognition among sociological theorists that luck may play a substantial role in life course achievement. There is also a nascent empirical literature that finds life outcomes to be unpredictable and unexpected life events to be a likely cause.…
-
-### The Architecture of Global Capital: Elites, States, and the New Geography of Wealth
-**年份**: 2026 | **DOI**: [10.1146/annurev-soc-031524-105759](https://doi.org/10.1146/annurev-soc-031524-105759)
-**作者**: Hoang, Kimberly Kay; Biron-Boileau, Camille
-**摘要**: This article reviews the sociological and interdisciplinary literature on the global architecture of elite wealth, emphasizing structural transformations in the global political economy following the 2008 financial crisis.…
 
 ### Advancing the Scientific Study of Structural Racism: Concepts, Measures, and Methods
 **年份**: 2025 | **DOI**: [10.1146/annurev-soc-090924-021305](https://doi.org/10.1146/annurev-soc-090924-021305)
@@ -145,21 +125,6 @@
 **作者**: Lei, Ya-Wen; Kim, Rachel
 **摘要**: This article reviews the literature that examines the potential, limitations, and consequences of robots and artificial intelligence (AI) in automation and augmentation across various disciplines. It presents key observations and suggestions from the literature review.…
 
-### The Sociology of Interpretation
-**年份**: 2024 | **DOI**: [10.1146/annurev-soc-020321-030515](https://doi.org/10.1146/annurev-soc-020321-030515)
-**作者**: Goldberg, Amir; Singell, Madison H.
-**摘要**: Recent years have seen a growing sociological interest in meaning. In fact, some argue that sociology cannot confront its foundational questions without addressing meaning. Yet sociologists mean many things when they talk about meaning.…
-
-### How Threat Mobilizes the Resurgence and Persistence of US White Supremacist Activism: The 1980s to the Present
-**年份**: 2024 | **DOI**: [10.1146/annurev-soc-031021-112151](https://doi.org/10.1146/annurev-soc-031021-112151)
-**作者**: Simi, Pete; Futrell, Robert; Burston, Adam
-**摘要**: Despite a centuries-long history of violent mobilization, white supremacist activism (WSA) has received relatively little sociological attention outside a small, specialized subfield.…
-
-### Online Illegal Cryptomarkets
-**年份**: 2024 | **DOI**: [10.1146/annurev-soc-090523-052916](https://doi.org/10.1146/annurev-soc-090523-052916)
-**作者**: Haynie, Dana L.; Duxbury, Scott W.
-**摘要**: Cryptomarkets—online markets for illegal goods—have revolutionized the illegal drug trade, constituting about 10% of all drug trades and attracting users to a greater variety of and more addictive substances than available in offline drug markets.…
-
 ### Policing, Punishment, and Place: Spatial-Contextual Analyses of the Criminal Legal System
 **年份**: 2023 | **DOI**: [10.1146/annurev-soc-031021-035328](https://doi.org/10.1146/annurev-soc-031021-035328)
 **作者**: Simes, Jessica T.; Beck, Brenden; Eason, John M.
@@ -179,21 +144,6 @@
 **年份**: 2023 | **DOI**: [10.1146/annurev-soc-031021-112747](https://doi.org/10.1146/annurev-soc-031021-112747)
 **作者**: Shostak, Sara
 **摘要**: The production, consumption, materiality, and meanings of food are critical topics for sociological research on inequality, although they have not always been recognized as such. This article describes how food is implicated in the production of inequalities across scales and sites.…
-
-### What Makes Weak Ties Strong?
-**年份**: 2023 | **DOI**: [10.1146/annurev-soc-030921-034152](https://doi.org/10.1146/annurev-soc-030921-034152)
-**作者**: Kim, Minjae; Fernandez, Roberto M.
-**摘要**: We raise two challenges concerning the validity of arguments underlying Granovetter's strength of weak ties (SWT) thesis: ( a) whether weak ties are actually bridges, i.e., they help reach more socially distant actors than strong ties, and ( b) whether weak ties transmit information effectively enou…
-
-### The Social Construction of Age: Concepts and Measurement
-**年份**: 2023 | **DOI**: [10.1146/annurev-soc-031021-121020](https://doi.org/10.1146/annurev-soc-031021-121020)
-**作者**: Johfre, Sasha; Saperstein, Aliya
-**摘要**: Age as an individual characteristic is ubiquitous in social science research because it has important associations with numerous outcomes of interest. Yet age is rarely treated as a phenomenon that requires explanation or theoretical attention.…
-
-### The Legitimacy of Science
-**年份**: 2023 | **DOI**: [10.1146/annurev-soc-030320-035037](https://doi.org/10.1146/annurev-soc-030320-035037)
-**作者**: Gauchat, Gordon W.
-**摘要**: The ongoing pandemic and quickening climate crisis make it difficult to overstate the significance of science and science policy to our world. These global catastrophes have laid bare the fragility of science's legitimacy and its dependence on broader cultural understandings and institutional norms.…
 
 ### Criminal Governance and the Crisis of Contemporary Latin American States
 **年份**: 2022 | **DOI**: [10.1146/annurev-soc-030420-124931](https://doi.org/10.1146/annurev-soc-030420-124931)

@@ -359,13 +359,14 @@ def build_abstracts_by_period(by_journal):
                   f"共{period_total}篇)")
 
 
-def build_readme():
+def build_readme(total_articles):
     """生成 lit_db/README.md"""
+    total_label = f"{total_articles // 1000}k+" if total_articles >= 1000 else str(total_articles)
     lines = [
         "# lit_db — AI可查阅的文献库",
         "",
         "本目录为社会学文献数据库的轻量级索引，专为AI检索设计。",
-        "完整数据见 `../articles.json`（34k条，32MB）。",
+        f"完整数据见 `../articles.json`（{total_label} 条）。",
         "",
         "## 查阅流程",
         "",
@@ -418,7 +419,7 @@ def main():
     print(f"已加载 {len(arts):,} 篇文章，{len(by_journal)} 本期刊\n")
 
     print("生成文件：")
-    build_readme()
+    build_readme(len(arts))
     build_overview(arts, by_journal)
     build_all_titles_tsv(arts)
     build_titles_by_journal(by_journal)

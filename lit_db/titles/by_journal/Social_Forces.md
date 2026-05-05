@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2902** 篇 | 年份范围：1926–2026
+共 **2827** 篇 | 年份范围：1929–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -8,13 +8,6 @@
 ## 2026
 
 - Review of “The Secrets of Silence: The Everyday Policing of Black Women and Their Stories About Violence” · [DOI](https://doi.org/10.1093/sf/soag018)
-- Review of “Replace the State: How to Change the World When Elections and Protests Fail” · [DOI](https://doi.org/10.1093/sf/soaf227)
-- Does stringent climate policy decouple economic growth from greenhouse gas emissions? · [DOI](https://doi.org/10.1093/sf/soaf217)
-- Review of “The Returned: Former U.S. Migrants’ Lives in Mexico City” · [DOI](https://doi.org/10.1093/sf/soaf221)
-- The racialized penalties of immigrant origin: meta-analytic evidence on hiring discrimination in twelve countries · [DOI](https://doi.org/10.1093/sf/soag028)
-- Policy configurations and the elasticity of gendered patterns of paid and unpaid work—evidence from comparative conjoint analyses · [DOI](https://doi.org/10.1093/sf/soag038)
-- Are aging parents and adult children living farther apart? Decomposing trends in intergenerational proximity and coresidence among Finnish parents aged 60–69 (2003–2023) · [DOI](https://doi.org/10.1093/sf/soag043)
-- Volunteering trajectories across crises: resilience, persistence and spill-over between ordinary and crisis volunteering · [DOI](https://doi.org/10.1093/sf/soaf219)
 
 ## 2025
 
@@ -146,13 +139,6 @@
 - Why do partners often prefer the same political parties? Evidence from couples in Germany · [DOI](https://doi.org/10.1093/sf/soae133)
 - On the up and up: the job mobility of skilled return migrants · [DOI](https://doi.org/10.1093/sf/soae132)
 - From adversity to advancement: uncovering how race and class shape Black tech entrepreneurial experiences · [DOI](https://doi.org/10.1093/sf/soae127)
-- Review of “Bordering on Indifference: Immigration Agents Negotiating Race and Morality.” · [DOI](https://doi.org/10.1093/sf/soaf171)
-- Review of “Bad Nature: How Rat Control Shapes Human and Nonhuman Worlds” · [DOI](https://doi.org/10.1093/sf/soaf209)
-- Correction to: Intergenerational family life courses and wealth accumulation in Norway · [DOI](https://doi.org/10.1093/sf/soaf125)
-- Review of “Be Water: Collective Improvisation in Hong Kong’s Anti-Extradition Protests” · [DOI](https://doi.org/10.1093/sf/soaf185)
-- Deporting children: case outcomes for unaccompanied minors facing removal proceedings in US immigration court · [DOI](https://doi.org/10.1093/sf/soaf124)
-- Review of “The High School: Sports, Spirit, and Citizens, 1903–2024” · [DOI](https://doi.org/10.1093/sf/soaf179)
-- Review of “Natural: Black Beauty and the Politics of Hair” · [DOI](https://doi.org/10.1093/sf/soaf052)
 
 ## 2024
 
@@ -529,7 +515,6 @@
 - Models and Morals: Elite-Oriented and Value-Neutral Discourse Dominates American Organizations' Framings of Climate Change · [DOI](https://doi.org/10.1093/sf/soz027)
 - The Social Production and Salience of Young Women's Desire for Sex · [DOI](https://doi.org/10.1093/sf/soz049)
 - Intergenerational Class Mobility in Europe: A New Account · [DOI](https://doi.org/10.1093/sf/soz026)
-- Fearing the Black Body: The Racial Origins of Fat Phobia · [DOI](https://doi.org/10.1093/sf/soz161)
 
 ## 2019
 
@@ -763,7 +748,6 @@
 - The Relationship between Education and Mental Health: New Evidence from a Discordant Twin Study · [DOI](https://doi.org/10.1093/sf/sow035)
 - Life Chances: Labor Rights, International Institutions, and Worker Fatalities in the Global South · [DOI](https://doi.org/10.1093/sf/sow050)
 - Preferences in the Early Stages of Mate Choice · [DOI](https://doi.org/10.1093/sf/sow036)
-- Negative Compliance as an Organizational Response to Legal Pressures: The Case of Japanese Equal Employment Opportunity Law · [DOI](https://doi.org/10.1093/sf/sov118)
 - Ethnic Diversity and Support for Redistributive Social Policies · [DOI](https://doi.org/10.1093/sf/sow021)
 - Collectors and Collections: Critical Recognition of the World's Top Art Collectors · [DOI](https://doi.org/10.1093/sf/sov116)
 - A Lack of Security or of Cultural Capital? Acculturative Conservatism in the Naming Choices of Early 20th-Century US Jews · [DOI](https://doi.org/10.1093/sf/sow025)
@@ -1070,7 +1054,6 @@
 - Friends as a Bridge to Parental Influence: Implications for Adolescent Alcohol Use · [DOI](https://doi.org/10.1093/sf/sot117)
 - Emigration from China in Comparative Perspective · [DOI](https://doi.org/10.1093/sf/sot083)
 - The New Face of Small-Town America: Snapshots of Latino Life in Allentown, Pennsylvania By Edgar Sandoval Pennsylvania State University Press. 2010. 168 pages. $29.95 cloth, $24.95 paper · [DOI](https://doi.org/10.1093/sf/sot118)
-- The Crisis of the European Union: A Response By Jürgen Habermas. Translated by Ciaran Cronin. Polity Press. 2012. 120 pages. $19.95 (cloth) · [DOI](https://doi.org/10.1093/sf/sot053)
 - Job Authority and Breast Cancer · [DOI](https://doi.org/10.1093/sf/sot082)
 - Competitive Threat, Intergroup Contact, or Both? Immigration and the Dynamics of Front National Voting in France · [DOI](https://doi.org/10.1093/sf/sot046)
 - Becoming Right: How Campuses Shape Young Conservatives By Amy J. Binder and Kate Wood Princeton University Press. 2013. 399 pages. $29.95 cloth · [DOI](https://doi.org/10.1093/sf/sot112)
@@ -1186,7 +1169,6 @@
 - Immigrants Raising Citizens: Undocumented Parents and Their Young Children By Hirokazu Yoshikawa Russell Sage Foundation. 2011. 208 pages. $24.95 paper · [DOI](https://doi.org/10.1093/sf/sos162)
 - A Late Start: Delayed Entry, Life Course Transitions and Bachelor's Degree Completion · [DOI](https://doi.org/10.1093/sf/sor018)
 - Cover Page · [DOI](https://doi.org/10.1093/sf/sos025)
-- Masthead · [DOI](https://doi.org/10.1093/sf/sos139)
 - Guilt and Defense: On the Legacies of National Socialism in Postwar Germany By Theodor W. Adorno; edited, translated, and introduced by Jeffrey K. Olick and Andrew J. Perrin Harvard University Press. 2010. 247 pages. $39.95 cloth * Group Experiment and Other Writings: The Frankfurt School on Public Opinion in Postwar Germany By Friedrich Pollock, Theodor W. Adorno and Colleagues; edited, translated, and introduced by Andrew J. Perrin and Jeffrey K. Olick Harvard University Press. 2011. 268 pages. $49.95 cloth · [DOI](https://doi.org/10.1093/sf/sos181)
 - A Match on Dry Grass: Community Organizing as a Catalyst for School Reform By M. R. Warren and K. L. Mapp Oxford University Press. 2011. 328 pages. $24.95 paper · [DOI](https://doi.org/10.1093/sf/sos150)
 - The Ironies of Citizenship, Naturalization and Integration in Industrialized Countries By Thomas Janoski Cambridge University Press, 2010, xv + 336. $29.99 paper · [DOI](https://doi.org/10.1093/sf/sos045)
@@ -1223,7 +1205,6 @@
 - How Class and Gender Shape Women's Work By Sarah Damaske Oxford University Press, 2011, 228pp. $24.95 paper, $99.00 cloth · [DOI](https://doi.org/10.1093/sf/sos047)
 - Mad or Bad? Race, Class, Gender, and Mental Disorder in the Criminal Justice System By Melissa Thompson LFB Scholarly Publishing LLC, 2010, 197 pages. $32.95 paperback · [DOI](https://doi.org/10.1093/sf/sos108)
 - Beyond the Borderlands: Migration and Belonging in the United States and Mexico By Debra Lattanzi Shutika University of California Press. 2011. 312 pages. $65.00 cloth, $27.95 paper · [DOI](https://doi.org/10.1093/sf/sos175)
-- Masthead · [DOI](https://doi.org/10.1093/sf/sos027)
 - Do Survey Data Estimate Earnings Inequality Correctly? Measurement Errors Among Black and White Male Workers · [DOI](https://doi.org/10.1093/sf/sor042)
 - What's in a Relationship? An Examination of Social Capital, Race and Class in Mentoring Relationships · [DOI](https://doi.org/10.1093/sf/sos003)
 - Does Critical Mass Matter? Women's Political Representation and Child Health in Developing Countries · [DOI](https://doi.org/10.1093/sf/sos169)
@@ -1271,7 +1252,6 @@
 - The Measure of American Religious Traditions: Theoretical and Measurement Considerations · [DOI](https://doi.org/10.1093/sf/sos121)
 - Digesting Race, Class and Gender: Sugar as a Metaphor By Ivy Ken Palgrave Macmillan. 2010. 165 pages. $84.00 cloth · [DOI](https://doi.org/10.1093/sf/sos035)
 - Closure: The Rush to End Grief and What It Costs Us By Nancy Berns Temple University Press. 2011. 228 pages. $75.50 cloth, $24.95 paper · [DOI](https://doi.org/10.1093/sf/sos124)
-- Masthead · [DOI](https://doi.org/10.1093/sf/sos028)
 - Housework: Who Did, Does or Will Do It, and How Much Does It Matter? · [DOI](https://doi.org/10.1093/sf/sos120)
 - Contents Page · [DOI](https://doi.org/10.1093/sf/sos141)
 - Subscription Page · [DOI](https://doi.org/10.1093/sf/sos140)
@@ -1287,7 +1267,6 @@
 - Temporal Dynamics of Social Exchange and the Development of Solidarity: "Testing the Waters" Versus "Taking a Leap of Faith" · [DOI](https://doi.org/10.1093/sf/sos063)
 - Corporate Characteristics, Political Embeddedness and Environmental Pollution by Large U.S. Corporations · [DOI](https://doi.org/10.1093/sf/sor026)
 - Women and States: Norms and Hierarchies in International Society By Ann E. Towns Cambridge University Press. 2010. 249 pages. $34.00 paper · [DOI](https://doi.org/10.1093/sf/sos043)
-- Masthead · [DOI](https://doi.org/10.1093/sf/sos026)
 - Divergent Social Worlds: Neighborhood Crime and the Racial-Spatial Divide By Ruth D. Peterson and Lauren J. Krivo Russell Sage Foundation. 2010. 184 pages. $37.50 cloth, $24.95 paper · [DOI](https://doi.org/10.1093/sf/sos093)
 - The Impact of Race and Ethnicity, Immigration and Political Context on Participation in American Electoral Politics · [DOI](https://doi.org/10.1093/sf/sor024)
 - Bringing You More Than the Weekend: Union Membership and Self-rated Health in the United States · [DOI](https://doi.org/10.1093/sf/sor023)
@@ -1368,7 +1347,6 @@
 - Adoption? Adaptation? Evaluating the Formation of Educational Expectations · [DOI](https://doi.org/10.1093/sf/sor005)
 - Service Encounters: Class, Gender, and the Market for Social Distinction in Urban China By Amy Hanser Stanford University Press. 2008. 256 pages. $55 cloth, $21.95 paper · [DOI](https://doi.org/10.1353/sof.2011.0027)
 - The Rebirth of Environmentalism: Grassroots Activism from the Spotted Owl to the Polar Bear By Douglas Bevington Island Press. 2009. 285 pages. $35 paper · [DOI](https://doi.org/10.1093/sf/89.4.1439)
-- Rejoinder: On the Dangers of Rosy Lenses: Reply to Alba, Kasinitz and Waters · [DOI](https://doi.org/10.1093/sf/89.3.775)
 - Cohort Changes in the Socio-demographic Determinants of Gender Egalitarianism · [DOI](https://doi.org/10.1353/sof.2011.0011)
 - A Shameful Business: The Case for Human Rights in the American Workplace By James A. Gross Cornell University Press. 2010. 251 pages. $59.95 cloth, $21.95 paper · [DOI](https://doi.org/10.1093/sf/89.4.1447)
 - Lumbee Indians in the Jim Crow South: Race, Identity, and the Making of a Nation By Malinda Maynor Lowery University of North Carolina Press. 2010. 339 pages. $21.95 paper · [DOI](https://doi.org/10.1353/sof.2011.0029)
@@ -1444,14 +1422,12 @@
 - Stigma or Separation? Understanding the Incarceration-Divorce Relationship · [DOI](https://doi.org/10.1093/sf/90.1.133)
 - The Internet Generation: Engaged Citizens or Political Dropouts By Henry Milner Tufts University Press. 2010. 294 pages. $85 cloth, $35 paper · [DOI](https://doi.org/10.1093/sf/90.1.321)
 - Gun Crusaders: The NRA's Culture War By Scott Melzer New York University Press. 2009. 336 pages. $45 cloth · [DOI](https://doi.org/10.1093/sf/89.3.1066)
-- Masthead · [DOI](https://doi.org/10.1093/sf/sos008)
 - The End of White World Supremacy: Black Internationalism and the Problem of the Color Line By Roderick D. Bush Temple University Press. 2009. 259 pages. $79.50 cloth, $28.95 paper · [DOI](https://doi.org/10.1353/sof.2011.0014)
 - 2010 SSS Presidential Address: The Devolution of Risk and the Changing Life Course in the United States · [DOI](https://doi.org/10.1093/sf/90.1.1)
 - Student-Centeredness in Social Science Textbooks, 1970-2008: A Cross-National Study · [DOI](https://doi.org/10.1093/sf/sor004)
 - The Global Grapevine: Why Rumors of Terrorism, Immigration, and Trade Matter By Gary Alan Fine and Bill Ellis Oxford University Press. 2010. 255 pages. $27.50 cloth · [DOI](https://doi.org/10.1093/sf/sor039)
 - The Politics of Virginity: Abstinence in Sex Education By Alesha E. Doan and Jean Calterone Williams Praeger. 2008. 208 pages. $44.95 cloth · [DOI](https://doi.org/10.1093/sf/89.3.1080)
 - Health Costs of Wealth Gains: Labor Migration and Perceptions of HIV/AIDS Risks in Mozambique · [DOI](https://doi.org/10.1093/sf/89.4.1097)
-- Commentary: The Kids Are (Mostly) Alright: Second-Generation Assimilation: Comments on Haller, Portes and Lynch · [DOI](https://doi.org/10.1093/sf/89.3.763)
 - Migration, Remittances and Educational Stratification among Blacks in Apartheid and Post-Apartheid South Africa · [DOI](https://doi.org/10.1093/sf/89.4.1119)
 - America's Uneven Democracy: Race, Turnout and Representation in City Politics By Zoltan L. Hajnal Cambridge University Press. 2010. 241 pages. $80 cloth, $25.70 paper · [DOI](https://doi.org/10.1093/sf/89.3.1069)
 - The Needs of Others: Gender and Sleep Interruptions for Caregivers · [DOI](https://doi.org/10.1093/sf/89.4.1189)
@@ -1469,7 +1445,6 @@
 - Catastrophe in the Making: The Engineering of Katrina and Disasters of Tomorrow By William R. Freudenburg, Robert Grambling, Shirley Laska and Kai T. Erikson Island Press. 2009. 224 pages. $26.96 cloth · [DOI](https://doi.org/10.1353/sof.2010.0062)
 - Where Memory Dwells: Culture and State Violence in Chile By Macarena Gomez-Barris University of California Press. 2009. 240 pages. $60 cloth, $24.95 paper · [DOI](https://doi.org/10.1353/sof.0.0305)
 - The World and US Social Forums Judith Blau and Marina Karides, editors Lexington Books. 2009. 252 pages. $29.95 paper · [DOI](https://doi.org/10.1353/sof.0.0317)
-- Commentaries: Racial Differences in Test Preparation Strategies: A commentary on Shadow Education, American Style: Test Preparation, the SAT and College Enrollment · [DOI](https://doi.org/10.1353/sof.2010.0053)
 - Societal Responses to Endemic Terror: Evidence from Driving Behavior in Israel · [DOI](https://doi.org/10.1353/sof.2010.0027)
 - Living Room vs. Concert Hall: Patterns of Music Consumption in Flanders · [DOI](https://doi.org/10.1353/sof.2010.0077)
 - Can Cultural Worldviews Influence Network Composition? · [DOI](https://doi.org/10.1353/sof.2010.0009)
@@ -1597,7 +1572,6 @@
 - Is the United States Experiencing a "Matrilineal Tilt?": Gender, Family Structures and Financial Transfers to Adult Children · [DOI](https://doi.org/10.1353/sof.2010.0007)
 - The Skinny on Success: Body Mass, Gender and Occupational Standing Across the Life Course · [DOI](https://doi.org/10.1353/sof.2010.0012)
 - Occupational Status and the Experience of Anger · [DOI](https://doi.org/10.1353/sof.2010.0037)
-- Commentaries: Learning in the Shadows and in the Light of Day: A commentary on Shadow Education, American Style: Test Preparation, the SAT and College Enrollment · [DOI](https://doi.org/10.1353/sof.2010.0063)
 - The Mismatched Worker By Arne L. Kalleberg W.W. Norton & Company. 2006. 322 pages. $18.12 paper · [DOI](https://doi.org/10.1353/sof.2010.0075)
 - Is Killing Wrong?: A Study in Pure Sociology By Mark Cooney University of Virginia Press. 2009. 256 pages. $39.50 cloth · [DOI](https://doi.org/10.1353/sof.2010.0071)
 - The Fifth Freedom: Jobs, Politics and Civil Rights in the United States, 1941-1972 By Anthony S. Chen Princeton University Press. 2009. 424 pages. $67.50 cloth, $25.95 paper · [DOI](https://doi.org/10.1353/sof.2010.0086)
@@ -1632,7 +1606,6 @@
 - Is There a Career Penalty for Mothers' Time Out? A Comparison of Germany, Sweden and the United States · [DOI](https://doi.org/10.1353/sof.0.0252)
 - Civic Opportunities in Associations: Interpersonal Interaction, Governance Experience and Institutional Relationships · [DOI](https://doi.org/10.1353/sof.0.0231)
 - Occupational Feminization and Pay: Assessing Causal Dynamics Using 1950-2000 U.S. Census Data · [DOI](https://doi.org/10.1353/sof.0.0264)
-- Race Differences in Cohort Effects on Non-Marital Fertilityin the United States: Reply to Martin · [DOI](https://doi.org/10.1353/sof.0.0165)
 - Beyond the Boycott: Labor Rights, Human Rights and Transnational Activism By Gay W. Seidman Russell Sage Foundation. 2007. 176 pages. $26 cloth, $18.95 paper · [DOI](https://doi.org/10.1353/sof.0.0261)
 - Status Valued Goal Objects and Performance Expectations · [DOI](https://doi.org/10.1353/sof.0.0160)
 - Assessing the Effects of Voluntary Youth Service: The Case of Teach for America · [DOI](https://doi.org/10.1353/sof.0.0279)
@@ -1968,7 +1941,6 @@
 - Organizational Structure, Authority and Protest: The Case of Union Organizing in the United States, 1990-2001 · [DOI](https://doi.org/10.1353/sof.2007.0047)
 - The Hard Count: The Political and Social Challenges of Census Mobilization By D. Sunshine Hillygus, Norman H. Nie, Kenneth Prewitt and Heili Pals Russell Sage Foundation, 2006. 156 pages. $27.50 (cloth) · [DOI](https://doi.org/10.1353/sof.2007.0093)
 - Locked Out: Felon Disenfranchisement and American Democracy By Jeff Manza and Christopher Uggen Oxford University Press. 359 pages. $29.95 (cloth) · [DOI](https://doi.org/10.1353/sof.2007.0035)
-- What Would Sartre Say? And, Arendt's Reply? · [DOI](https://doi.org/10.1353/sof.2007.0032)
 - Managing Elites: Professional Socialization in Law and Business Schools By Debra J. Schleef Rowman and Littlefield Publishers. 241 pages. $26.95 (cloth) · [DOI](https://doi.org/10.1353/sof.2007.0108)
 - Gilboa: New York's Quest for Water and the Destruction of a Small Town By Alexander Thomas University Press of America, Inc., 2005. 205 pages. $34 (paper) · [DOI](https://doi.org/10.1353/sof.2007.0051)
 - Rational and Empirical Play in the Simple Hot Potato Game · [DOI](https://doi.org/10.1353/sof.2007.0064)
@@ -2251,7 +2223,6 @@
 - The Starting Gate: Birth Weight and Life Chances. By Dalton Conley, Kate W. Strully and Neil G. Bennett and Conceiving Risk, Bearing Responsibility: Fetal Alcohol Syndrome and the Diagnosis of Moral Disorder. By Elizabeth M. Armstrong · [DOI](https://doi.org/10.1353/sof.2005.0075)
 - The Secular Revolution: Power, Interests and Conflict in the Secularization of American Public Life Edited by Christian Smith University of California Press. 2003. 484 pages. $60 (hardcover); $24.95 (paperback) · [DOI](https://doi.org/10.1353/sof.2006.0040)
 - Heads Above Water: Gender, Class, and Family in the Grand Forks Flood By Alice Fothergil State University of New York Press. 2004. 270 pages. $59.50 (hardcover); $19.95 (paperback) · [DOI](https://doi.org/10.1353/sof.2006.0022)
-- Response to Wallerstein: The Struggle for Global Society in a World System · [DOI](https://doi.org/10.1353/sof.2005.0047)
 - Did the Israeli State Engineer Segregation? On the Placement of Jewish Immigrants in Development Towns in the 1950s · [DOI](https://doi.org/10.1353/sof.2005.0106)
 - Cohabitation and Exchanges of Support · [DOI](https://doi.org/10.1353/sof.2005.0027)
 - Alphas and Asterisks: The Development of Statistical Significance Testing Standards in Sociology · [DOI](https://doi.org/10.1353/sof.2005.0108)
@@ -2316,7 +2287,6 @@
 - Ideology, Social Threat, and the Death Sentence: Capital Sentences across Time and Space · [DOI](https://doi.org/10.1353/sof.2004.0115)
 - People of Faith: Religious Conviction in American Journalism and Higher Education. By John Schmalzbauer. Cornell University Press, 2003. 267 pp. Cloth, $32.50 · [DOI](https://doi.org/10.1353/sof.2004.0045)
 - Crossing the Great Divide: Worker Risk, Uncertainty and Opportunity in the New Economy. By Vicki Smith. ILR Press, 2001. Paper, $21.95 · [DOI](https://doi.org/10.1353/sof.2005.0016)
-- Introduction to a Debate on Public Sociologies · [DOI](https://doi.org/10.1353/sof.2004.0098)
 - Crimes of Opportunity or Crimes of Emotion? Testing Two Explanations of Seasonal Change in Crime · [DOI](https://doi.org/10.1353/sof.2004.0074)
 - Structured Ignorance and Organized Racism in the United States · [DOI](https://doi.org/10.1353/sof.2004.0047)
 - Editor's Note · [DOI](https://doi.org/10.1353/sof.2004.0104)
@@ -2344,8 +2314,6 @@
 - Sources of Durability and Change in Market Classifications: A Study of the Reconstitution of Product Categories in the American Mutual Fund Industry, 1944-1985 · [DOI](https://doi.org/10.1353/sof.2004.0046)
 - Muslims in the United States: The State of Research. By Karen Isaksen Leonard. Russell Sage Foundation, 2003. 199 pp. Paper, $17.95 · [DOI](https://doi.org/10.1353/sof.2004.0100)
 - Volunteerism during the Transition to Adulthood: A Life Course Perspective · [DOI](https://doi.org/10.1353/sof.2004.0049)
-- Anti-Semitism As a Response to Perceived Jewish Power: The Cases of Bulgaria and Romania before the Holocaust · [DOI](https://doi.org/10.1353/sof.2005.0007)
-- From the Book Review Editor · [DOI](https://doi.org/10.1353/sof.2004.0121)
 - The Many Costs of Racism. By Joe R. Feagin and Karyn D. McKinney. Rowman & Littlefield. $24.95 · [DOI](https://doi.org/10.1353/sof.2004.0031)
 - The Internet in Everyday Life. Edited by Barry Wellman and Caroline Haythornthwaite. Blackwell, 2002. 588 pp. Cloth, $66.95; paper, $29.95 · [DOI](https://doi.org/10.1353/sof.2004.0060)
 - Marching on Washington: The Forging of an American Political Tradition. By Lucy G. Barber. University of California Press, 2002. 323 pp. $34.95 · [DOI](https://doi.org/10.1353/sof.2004.0043)
@@ -2391,8 +2359,6 @@
 - Forgive and Remember: Managing Medical Failure. By Charles L. Bosk. University of Chicago Press, 2003. 2d ed. 276 pp. Cloth, $18.00; paper, $14.00 · [DOI](https://doi.org/10.1353/sof.2004.0110)
 - America's Newcomers and the Dynamics of Diversity. By Frank D. Bean and Gillian Stevens. 2003. Russell Sage Foundation. Cloth, $32.50 · [DOI](https://doi.org/10.1353/sof.2005.0004)
 - Temporary As Compared to Permanent High School Dropout · [DOI](https://doi.org/10.1353/sof.2004.0036)
-- Why "Unobservables" Cannot Save General Theory: A Reply to Mahoney · [DOI](https://doi.org/10.1353/sof.2005.0020)
-- Response to Rodriguez: A "Long Walk to Freedom" and Democracy? · [DOI](https://doi.org/10.1353/sof.2004.0127)
 - Feminist Attitudes and Support for Gender Equality: Opinion Change in Women and Men, 1974-1998 · [DOI](https://doi.org/10.1353/sof.2005.0005)
 - Persistence and Change in Rural Communities: A 50-Year Follow-up to Six Classic Studies. Edited by A.E. Luloff and R.S. Krannich. CABI Publishing, 2002. 189 pp. Cloth, $69.50 · [DOI](https://doi.org/10.1353/sof.2004.0124)
 - The Voluntary City: Choice, Community, and Civil Society. Edited by David T. Beito, Peter Gordon, and Alexander Tabarrok. University of Michigan Press/The Independent Institute, 2002. 462 pp. Paper, $26.95 · [DOI](https://doi.org/10.1353/sof.2004.0077)
@@ -2568,7 +2534,6 @@
 - Matching Youth and Jobs? Gender Dynamics in New Deal Job Training Programs · [DOI](https://doi.org/10.1353/sof.2003.0023)
 - Referees · [DOI](https://doi.org/10.1093/sf/80.4.1423)
 - What Do We Learn about Difference from the Scholarship on Gender? · [DOI](https://doi.org/10.1353/sof.2002.0057)
-- Asserting Difference: The Strategic Response of Nonprofit Organizations to Competition · [DOI](https://doi.org/10.1353/sof.2002.0020)
 - The Political Context of Sentencing: An Analysis of Community and Individual Determinants · [DOI](https://doi.org/10.1353/sof.2003.0012)
 - Young Adult Catholics: Religion in the Culture of Choice. By Dean R. Hoge, W.D. Dinges, M. Johnson, and J. Gonzales Jr. University of Notre Dame Press, 2001. 288 pp. Cloth, $40.00 · [DOI](https://doi.org/10.1353/sof.2002.0025)
 - Recreating Motherhood. By Barbara Katz Rothman. Rutgers University Press, 2000. 2d. ed. Paper, $22.00 · [DOI](https://doi.org/10.1353/sof.2002.0043)
@@ -2661,7 +2626,6 @@
 - The Consumer Revolution in Urban China. Edited by Deborah S. Davis. University of California Press, 2000. 366 pp. Cloth, $55.00; paper, $22.00 · [DOI](https://doi.org/10.1353/sof.2001.0033)
 - War, Peace, and the Social Order. By Brian E. Fogarty. Westview Press, 2000. 236 pp. Cloth, $65.00; paper, $23.00 · [DOI](https://doi.org/10.1353/sof.2001.0064)
 - Tracking the Restructuring of American Religion: Religious Affiliation and Patterns of Religious Mobility, 1973-1998 · [DOI](https://doi.org/10.1353/sof.2001.0052)
-- Cultural Theory: An Introduction. By Philip Smith. Blackwell, 2001. 268 pp · [DOI](https://doi.org/10.1353/sof.2001.0054)
 - Chinese Urban Life under Reform: The Changing Social Contract. By Wenfang Tang and William L. Parish. Cambridge University Press, 2000. 388 pp. Cloth, $54.95; paper, $24.95 · [DOI](https://doi.org/10.1353/sof.2001.0048)
 - No Couple Is an Island: A Social Network Perspective on Dyadic Stability · [DOI](https://doi.org/10.1353/sof.2001.0039)
 - The Glass Ceiling Effect · [DOI](https://doi.org/10.1353/sof.2001.0091)
@@ -2681,7 +2645,6 @@
 - Organizations Evolving. By Howard Aldrich. Sage, 1999. 413 pp. Paper, $29.95 · [DOI](https://doi.org/10.1353/sof.2001.0037)
 - Struggles for Subjectivity: Identity, Action, and Youth Experience. By Kevin McDonald. Cambridge University Press, 1999. 231 pp. Cloth, $64.95; paper, $22.95 · [DOI](https://doi.org/10.1353/sof.2001.0036)
 - Moral Panic: Changing Concepts of the Child Molester in Modern America. By Philip Jenkins. Yale University Press, 1998. 302 pp. Cloth, $30.00 · [DOI](https://doi.org/10.1353/sof.2001.0011)
-- Science vs. History: A Reply to MacDonald · [DOI](https://doi.org/10.1353/sof.2001.0073)
 - Abraham Lincoln and the Forge of National Memory. By Barry Schwartz. University of Chicago Press, 2000. 367 pp. Cloth, $29.95, paper, $14.95 · [DOI](https://doi.org/10.1353/sof.2001.0089)
 - Careers Inside Organizations: A Comparative Study of Promotion Determination in Reforming China · [DOI](https://doi.org/10.1353/sof.2001.0090)
 - Gender Differences in Mathematical Trajectories · [DOI](https://doi.org/10.1353/sof.2001.0102)
@@ -2722,7 +2685,6 @@
 - Organizing Immigrants: The Challenges for Unions in Contemporary California. Edited by Ruth Milkman. ILR Press/Cornell University Press, 2000. 260 pp. Cloth, $42.50; paper, $18.95 · [DOI](https://doi.org/10.1353/sof.2001.0043)
 - The Value of Exchange · [DOI](https://doi.org/10.1353/sof.2001.0081)
 - Black Identities: West Indian Immigrant Dreams and American Realities. By Mary C. Waters. Harvard University Press, 1999. 413 pp. Cloth, $35.00 · [DOI](https://doi.org/10.1353/sof.2001.0058)
-- A Bit of Logic Goes a Long Way: A Reply to Sanderson · [DOI](https://doi.org/10.1353/sof.2001.0072)
 - Trust: A Sociological Theory. By Piotr Sztompka. Cambridge University Press, 1999. 214 pp. Cloth, $59.95 · [DOI](https://doi.org/10.1353/sof.2001.0022)
 - Marital Happiness, Marital Duration, and the U-Shaped Curve: Evidence from a Five-Wave Panel Study · [DOI](https://doi.org/10.1353/sof.2001.0055)
 - Replete and Desolate Markets: Poland, East Germany, and the New Religious Paradigm · [DOI](https://doi.org/10.1353/sof.2001.0093)
@@ -2890,17 +2852,12 @@
 
 - Uncertainty, Cooperation, and Crime: Understanding the Decision to Co-offend · [DOI](https://doi.org/10.2307/3006013)
 - Political Resources and Direct State Intervention: The Adoption of Public Venture Capital Programs in the American States, 1974-1990 · [DOI](https://doi.org/10.2307/3005837)
-- Strong Managers and Weak Owners: The Political Roots of American Corporate Finance. By Mark J. Roe. Princeton University Press, 1994. 324 pp · [DOI](https://doi.org/10.1093/sf/77.1.392)
-- The Timing of the Influences of Cumulative Poverty on Children's Cognitive Ability and Achievement · [DOI](https://doi.org/10.2307/3006017)
-- Race and the Reproduction of Educational Disadvantage · [DOI](https://doi.org/10.2307/3005702)
 
 ## 1996
 
 - Extremely Disadvantaged Neighborhoods and Urban Crime · [DOI](https://doi.org/10.2307/2580416)
 - Attitudes on Residential Integration: Perceived Status Differences, Mere In-Group Preference, or Racial Prejudice? · [DOI](https://doi.org/10.2307/2580385)
 - Deprivation and Race Riots: An Extension of Spilerman's Analysis · [DOI](https://doi.org/10.2307/2580387)
-- Collective Identity and Informal Groups in Revolutionary Mobilization: East Germany in 1989 · [DOI](https://doi.org/10.2307/2580758)
-- From Protest to Change of Regime: The 4-19 Revolt and the Fall of the Rhee Regime in South Korea · [DOI](https://doi.org/10.2307/2580348)
 
 ## 1995
 
@@ -2911,15 +2868,12 @@
 - Ethnic Economies in Metropolitan Regions: Miami and Beyond · [DOI](https://doi.org/10.2307/2579777)
 - Effects of Individual, Occupational, and Industrial Characteristics on Earnings: Intersections of Race and Gender · [DOI](https://doi.org/10.2307/2580296)
 - From Service Provision to Institutional Advocacy: The Shifting Legitimacy of Organizational Forms · [DOI](https://doi.org/10.2307/2580289)
-- Family Status and Criticism of Gender Inequality at Home and at Work · [DOI](https://doi.org/10.2307/2580293)
 
 ## 1993
 
 - Risk and Recreancy: Weber, the Division of Labor, and the Rationality of Risk Perceptions · [DOI](https://doi.org/10.2307/2580124)
 - Racial Segregation and Black Urban Homicide · [DOI](https://doi.org/10.2307/2580128)
 - Frame Disputes within the Nuclear Disarmament Movement · [DOI](https://doi.org/10.2307/2579890)
-- Religious Involvement and Self-Perception among Black Americans · [DOI](https://doi.org/10.2307/2580129)
-- The Organization of Survival: Women's and Racial-Ethnic Voluntarist and Activist Organizations, 1955-1985 · [DOI](https://doi.org/10.2307/2580123)
 
 ## 1992
 
@@ -2937,39 +2891,24 @@
 - Segregation in the Second Ghetto: Racial and Ethnic Segregation in American Public Housing, 1977 · [DOI](https://doi.org/10.2307/2579300)
 - A Contextual Analysis of Black Self-Employment in Large Metropolitan Areas, 1970-1980 · [DOI](https://doi.org/10.2307/2580246)
 - Gender and Small Business Success: An Inquiry into Women's Relative Disadvantage · [DOI](https://doi.org/10.2307/2580062)
-- Ethnic Entrepreneurs: Immigrant Business in Industrial Societies. By Roger Waldinger, Howard Aldrich, and Robin Ward. Sage Publications, 1990. 226 pp. Cloth, $35.00; paper, $16.95 · [DOI](https://doi.org/10.1093/sf/69.3.925)
-- The Case against Secularization: A Rebuttal · [DOI](https://doi.org/10.2307/2579304)
 
 ## 1990
 
 - The Formation of Intransitive Friendships · [DOI](https://doi.org/10.2307/2579671)
-- Public Beliefs about the Causes of Homelessness · [DOI](https://doi.org/10.2307/2579617)
-- The Impact of Occupational Segregation on Working Conditions · [DOI](https://doi.org/10.2307/2579353)
-- Compensating Differentials and the Male-Female Wage Gap: Evidence from the New York State Comparable Worth Study · [DOI](https://doi.org/10.2307/2579667)
-- Perceived Cohesion: A Conceptual and Empirical Examination · [DOI](https://doi.org/10.2307/2579670)
 
 ## 1989
 
 - Household Characteristics, Neighborhood Composition and Victimization Risk · [DOI](https://doi.org/10.2307/2579263)
-- The Effects of Children on Adults' Psychological Well-Being: 1957-1976 · [DOI](https://doi.org/10.2307/2579223)
 
 ## 1988
 
 - The Power Structure of American Business. By Beth Mintz and Michael Schwartz, University of Chicago Press, 1985. 327 pp. $27.50 · [DOI](https://doi.org/10.1093/sf/66.3.843)
-
-## 1987
-
-- Family Transitions, Housing Market Context, and First Home Purchase by Young Married Households · [DOI](https://doi.org/10.2307/2578753)
 
 ## 1986
 
 - Economic Development and Female Labor Force Participation: A Reconsideration · [DOI](https://doi.org/10.2307/2578815)
 - A Longitudinal Examination of an Integrated Social Process Model of Deviant Behavior · [DOI](https://doi.org/10.2307/2578938)
 - Tokenism Reconsidered: Male Nurses and Female Physicians in a Hospital Setting · [DOI](https://doi.org/10.2307/2578787)
-
-## 1985
-
-- Racial Differences in Nonmetropolitan Population Deconcentration · [DOI](https://doi.org/10.2307/2578652)
 
 ## 1984
 
@@ -2980,7 +2919,6 @@
 
 - Achievement and Ascriptive Processes in the Recognition of Scientific Articles · [DOI](https://doi.org/10.2307/2578354)
 - Socioeconomic Returns to Migration among Married Women · [DOI](https://doi.org/10.2307/2578318)
-- Theory and Method in Comparative Research: Two Strategies · [DOI](https://doi.org/10.2307/2578132)
 
 ## 1980
 
@@ -2990,20 +2928,11 @@
 ## 1979
 
 - Enduring Effects of Military Service? Opinion Differences between U.S. Veterans and Nonveterans · [DOI](https://doi.org/10.2307/2577356)
-- Gender Advertisements. · [DOI](https://doi.org/10.2307/2577822)
-
-## 1978
-
-- When Can Age, Period, and Cohort be Separated? · [DOI](https://doi.org/10.2307/2577639)
-- Work Satisfaction and Age: Some Evidence for the `Job Change' Hypothesis · [DOI](https://doi.org/10.2307/2577515)
-- A Structural Model of the Mobility Table · [DOI](https://doi.org/10.2307/2577226)
 
 ## 1977
 
 - Socioeconomic Determinants of Intraethnic Marriage and Friendship · [DOI](https://doi.org/10.2307/2577568)
 - Resource Allocations in United Funds: Examination of Power and Dependence · [DOI](https://doi.org/10.2307/2577470)
-- The Structure of Adult Friendship Choices · [DOI](https://doi.org/10.2307/2577741)
-- The Naval Reservist: An Empirical Assessment of Ephemeral Role Enactment · [DOI](https://doi.org/10.2307/2577468)
 
 ## 1976
 
@@ -3015,12 +2944,6 @@
 - WAR, PRESIDENTS AND PUBLIC OPINION. By John E. Mueller. New York: Wiley, 1973. 300 pp · [DOI](https://doi.org/10.1093/sf/53.3.521-a)
 - The Division of Labor: Conceptualization and Related Measures · [DOI](https://doi.org/10.2307/2576589)
 - Microeconomic Theories of Fertility: A Critique · [DOI](https://doi.org/10.2307/2576080)
-- Professionalization, Bureaucratization and Rationalization: The Views of Max Weber · [DOI](https://doi.org/10.2307/2576478)
-
-## 1974
-
-- Social Class and Social Time Perspective · [DOI](https://doi.org/10.2307/2576837)
-- Forming Composite Scales and Estimating Their Validity Through Factor Analysis · [DOI](https://doi.org/10.2307/2576010)
 
 ## 1973
 
@@ -3035,13 +2958,11 @@
 ## 1970
 
 - A Critical Examination of the Designation of Standard Metropolitan Statistical Areas · [DOI](https://doi.org/10.2307/2574651)
-- Life-Style Differences Among Urban and Suburban Blue-Collar Families · [DOI](https://doi.org/10.2307/2574652)
 
 ## 1968
 
 - THE DISCOVERY OF GROUNDED THEORY: STRATEGIES FOR QUALITATIVE RESEARCH. By Barney G. Glaser and Anselm L. Strauss. Chicago: Aldine Publishing Company, 1967. 271 pp. $6.75 · [DOI](https://doi.org/10.1093/sf/46.4.555)
 - Incomplete Professionalization: The Case of Pharmacy · [DOI](https://doi.org/10.2307/2574885)
-- The Discovery of Grounded Theory: Strategies for Qualitative Research. · [DOI](https://doi.org/10.2307/2575405)
 
 ## 1967
 
@@ -3050,19 +2971,16 @@
 ## 1966
 
 - Mass Communication and Social Change · [DOI](https://doi.org/10.2307/2575832)
-- The Religious Orientations of American Natural Scientists · [DOI](https://doi.org/10.2307/2575087)
 
 ## 1965
 
 - Society and the Adolescent Self-Image. · [DOI](https://doi.org/10.2307/2575639)
 - ALIENATION AND FREEDOM : THE FACTORY WORKER AND HIS INDUSTRY. By Robert Blauner. Chicago: The University of Chicago Press, 1964. 222 pp. Illustrated. $7.50 · [DOI](https://doi.org/10.2307/2574777)
-- Self-Reliance and the Inclination to Adopt the Sick Role · [DOI](https://doi.org/10.2307/2574463)
 
 ## 1960
 
 - Administrative Succession in Formal Organizations · [DOI](https://doi.org/10.2307/2574148)
 - A Power Analysis of Racial Discrimination · [DOI](https://doi.org/10.2307/2573575)
-- The Career Experience of the Symphony Musician · [DOI](https://doi.org/10.2307/2574085)
 
 ## 1959
 
@@ -3072,10 +2990,6 @@
 
 - Sexual Division of Labor and Cross-Cultural Research · [DOI](https://doi.org/10.2307/2573784)
 
-## 1957
-
-- Some Unapplauded Consequences of Social Mobility in a Mass Society · [DOI](https://doi.org/10.2307/2573743)
-
 ## 1956
 
 - A Typology of Community Leadership Based on Influence and Interaction within the Leader Subsystem · [DOI](https://doi.org/10.2307/2573665)
@@ -3083,10 +2997,6 @@
 ## 1955
 
 - The Military Academy as an Assimilating Institution · [DOI](https://doi.org/10.2307/2573000)
-
-## 1953
-
-- Toward a Sociology of Language · [DOI](https://doi.org/10.2307/2573708)
 
 ## 1949
 
@@ -3104,15 +3014,10 @@
 
 - The Modern Caste School of Race Relations · [DOI](https://doi.org/10.2307/2570563)
 - The Process of Urbanization · [DOI](https://doi.org/10.2307/3005615)
-- The Significance of Comte · [DOI](https://doi.org/10.2307/2570423)
 
 ## 1939
 
 - The Professions and Social Structure · [DOI](https://doi.org/10.2307/2570695)
-
-## 1933
-
-- A Century of Progress in the Social Sciences · [DOI](https://doi.org/10.2307/2570271)
 
 ## 1932
 
@@ -3121,7 +3026,3 @@
 ## 1929
 
 - City Planning for Neighborhood Life · [DOI](https://doi.org/10.2307/2570059)
-
-## 1926
-
-- Case Work and the Statistical Method · [DOI](https://doi.org/10.2307/3004806)

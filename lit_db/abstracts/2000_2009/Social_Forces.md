@@ -1,7 +1,7 @@
 # Social Forces
 ## 2000–2009 年文章（含摘要）
 
-共 **1241** 篇
+共 **1229** 篇
 
 ---
 
@@ -104,11 +104,6 @@
 **年份**: 2009 | **DOI**: [10.1353/sof.0.0264](https://doi.org/10.1353/sof.0.0264)
 **作者**: Levanon, A.; England, P.; Allison, P.
 **摘要**: Occupations with a greater share of females pay less than those with a lower share, controlling for education and skill. This association is explained by two dominant views: devaluation and queuing.…
-
-### Race Differences in Cohort Effects on Non-Marital Fertilityin the United States: Reply to Martin
-**年份**: 2009 | **DOI**: [10.1353/sof.0.0165](https://doi.org/10.1353/sof.0.0165)
-**作者**: Stockard, J.; Gray, J. A.; O'Brien, R. 等4人
-**摘要**: （暂无）
 
 ### Beyond the Boycott: Labor Rights, Human Rights and Transnational Activism By Gay W. Seidman Russell Sage Foundation. 2007. 176 pages. $26 cloth, $18.95 paper
 **年份**: 2009 | **DOI**: [10.1353/sof.0.0261](https://doi.org/10.1353/sof.0.0261)
@@ -1752,11 +1747,6 @@
 **作者**: Clemens, E. S.
 **摘要**: Journal Article Locked Out: Felon Disenfranchisement and American Democracy By Jeff Manza and Christopher Uggen Oxford University Press. 359 pages. $29.95 (cloth) Get access Elisabeth S. Clemens Elisabeth S.…
 
-### What Would Sartre Say? And, Arendt's Reply?
-**年份**: 2007 | **DOI**: [10.1353/sof.2007.0032](https://doi.org/10.1353/sof.2007.0032)
-**作者**: Blau, J.
-**摘要**: Journal Article What Would Sartre Say? And, Arendt's Reply? Get access Judith Blau Judith Blau University of North Carolina at Chapel Hill Direct correspondence to Judith Blau, Department of Sociology, University of North Carolina, Chapel Hill, North Carolina 27599-3210.…
-
 ### Managing Elites: Professional Socialization in Law and Business Schools By Debra J. Schleef Rowman and Littlefield Publishers. 241 pages. $26.95 (cloth)
 **年份**: 2007 | **DOI**: [10.1353/sof.2007.0108](https://doi.org/10.1353/sof.2007.0108)
 **作者**: Ramirez, F. O.
@@ -3135,11 +3125,6 @@
 **作者**: Manturuk, K.
 **摘要**: Journal Article Heads Above Water: Gender, Class, and Family in the Grand Forks Flood By Alice Fothergil State University of New York Press. 2004. 270 pages. $59.50 (hardcover); $19.95 (paperback) Get access Kim Manturuk Kim Manturuk University of North Carolina at Chapel Hill Search for other works…
 
-### Response to Wallerstein: The Struggle for Global Society in a World System
-**年份**: 2005 | **DOI**: [10.1353/sof.2005.0047](https://doi.org/10.1353/sof.2005.0047)
-**作者**: Smith, J.
-**摘要**: （暂无）
-
 ### Did the Israeli State Engineer Segregation? On the Placement of Jewish Immigrants in Development Towns in the 1950s
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0106](https://doi.org/10.1353/sof.2005.0106)
 **作者**: Khazzoom, A.
@@ -3445,11 +3430,6 @@
 **作者**: Lopez, S. H.
 **摘要**: Journal Article Crossing the Great Divide: Worker Risk, Uncertainty and Opportunity in the New Economy.By Vicki Smith. ILR Press, 2001. Paper, $21.95 Get access Steven H. Lopez Steven H.…
 
-### Introduction to a Debate on Public Sociologies
-**年份**: 2004 | **DOI**: [10.1353/sof.2004.0098](https://doi.org/10.1353/sof.2004.0098)
-**作者**: Zimmer, C.
-**摘要**: Journal Article Introduction to a Debate on Public Sociologies Get access Catherine Zimmer Catherine Zimmer University of North Carolina at Chapel Hill, North Carolina Sociological Association Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 82, Issue 4,…
-
 ### Crimes of Opportunity or Crimes of Emotion? Testing Two Explanations of Seasonal Change in Crime
 **年份**: 2004 | **DOI**: [10.1353/sof.2004.0074](https://doi.org/10.1353/sof.2004.0074)
 **作者**: Hipp, J. R.; Curran, P. J.; Bollen, K. A. 等4人
@@ -3584,16 +3564,6 @@
 **年份**: 2004 | **DOI**: [10.1353/sof.2004.0049](https://doi.org/10.1353/sof.2004.0049)
 **作者**: Oesterle, S.; Johnson, M. K.; Mortimer, J. T.
 **摘要**: Journal Article Volunteerism during the Transition to Adulthood: A Life Course Perspective Get access Sabrina Oesterle, Sabrina Oesterle University of Washington Direct correspondence to Sabrina Oesterle at the Social Development Research Group, University of Washington, 9725 3rd Ave.…
-
-### Anti-Semitism As a Response to Perceived Jewish Power: The Cases of Bulgaria and Romania before the Holocaust
-**年份**: 2004 | **DOI**: [10.1353/sof.2005.0007](https://doi.org/10.1353/sof.2005.0007)
-**作者**: Brustein, W. I.; King, R. D.
-**摘要**: （暂无）
-
-### From the Book Review Editor
-**年份**: 2004 | **DOI**: [10.1353/sof.2004.0121](https://doi.org/10.1353/sof.2004.0121)
-**作者**: Perrin, A. J.
-**摘要**: （暂无）
 
 ### The Many Costs of Racism. By Joe R. Feagin and Karyn D. McKinney. Rowman & Littlefield. $24.95
 **年份**: 2004 | **DOI**: [10.1353/sof.2004.0031](https://doi.org/10.1353/sof.2004.0031)
@@ -3817,16 +3787,6 @@
 **年份**: 2004 | **DOI**: [10.1353/sof.2004.0036](https://doi.org/10.1353/sof.2004.0036)
 **作者**: Entwisle, D. R.; Alexander, K. L.; Olson, L. S.
 **摘要**: More and more high school dropouts are obtaining GEDs or returning to school to earn diplomas, and several studies point to socioeconomic status, academic standing, parenthood status, and students' expectations as predictors of dropouts' later high school certification.…
-
-### Why "Unobservables" Cannot Save General Theory: A Reply to Mahoney
-**年份**: 2004 | **DOI**: [10.1353/sof.2005.0020](https://doi.org/10.1353/sof.2005.0020)
-**作者**: Sica, A.
-**摘要**: （暂无）
-
-### Response to Rodriguez: A "Long Walk to Freedom" and Democracy?
-**年份**: 2004 | **DOI**: [10.1353/sof.2004.0127](https://doi.org/10.1353/sof.2004.0127)
-**作者**: Smith, K. I.
-**摘要**: （暂无）
 
 ### Feminist Attitudes and Support for Gender Equality: Opinion Change in Women and Men, 1974-1998
 **年份**: 2004 | **DOI**: [10.1353/sof.2005.0005](https://doi.org/10.1353/sof.2005.0005)
@@ -4670,11 +4630,6 @@
 **作者**: Rosenfeld, R. A.
 **摘要**: What can the scholarship on gender teach us about studying difference and dealing with diversity in our professional and personal lives? Here, I first describe the expansion of research on gender over the last 30 years.…
 
-### Asserting Difference: The Strategic Response of Nonprofit Organizations to Competition
-**年份**: 2002 | **DOI**: [10.1353/sof.2002.0020](https://doi.org/10.1353/sof.2002.0020)
-**作者**: Barman, E. A.
-**摘要**: Sociological research on nonprofit organizations has identified several strategies by which nonprofits may respond to environmental challenges. I explicate a strategic response that I call differentiation, and I locate the specific condition under which it is implemented, the condition of competitio…
-
 ### The Political Context of Sentencing: An Analysis of Community and Individual Determinants
 **年份**: 2002 | **DOI**: [10.1353/sof.2003.0012](https://doi.org/10.1353/sof.2003.0012)
 **作者**: Helms, R.; Jacobs, D.
@@ -5120,11 +5075,6 @@
 **作者**: Sherkat, D. E.
 **摘要**: Trends and patterns of religious mobility have played a central role in theoretical controversies in the sociology of religion. Early examinations focused on how social status might motivate religious switching, and recently scholars have claimed that diminishing status differences between denominat…
 
-### Cultural Theory: An Introduction. By Philip Smith. Blackwell, 2001. 268 pp
-**年份**: 2001 | **DOI**: [10.1353/sof.2001.0054](https://doi.org/10.1353/sof.2001.0054)
-**作者**: Smith, C.
-**摘要**: Journal Article Cultural Theory: An Introduction.By Philip Smith. Blackwell, 2001. 268 pp Get access Christian Smith Christian Smith University of North Carolina at Chapel Hill Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 79, Issue 4, June 2001, Page…
-
 ### Chinese Urban Life under Reform: The Changing Social Contract. By Wenfang Tang and William L. Parish. Cambridge University Press, 2000. 388 pp. Cloth, $54.95; paper, $24.95
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0048](https://doi.org/10.1353/sof.2001.0048)
 **作者**: Logan, J. R.
@@ -5219,11 +5169,6 @@
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0011](https://doi.org/10.1353/sof.2001.0011)
 **作者**: Jenness, V.
 **摘要**: Journal Article Moral Panic: Changing Concepts of the Child Molester in Modern America.By Philip Jenkins. Yale University Press, 1998. 302 pp. Cloth, $30.00 Get access Valerie Jenness Valerie Jenness University of California, Irvine Search for other works by this author on: Oxford Academic Google Sc…
-
-### Science vs. History: A Reply to MacDonald
-**年份**: 2001 | **DOI**: [10.1353/sof.2001.0073](https://doi.org/10.1353/sof.2001.0073)
-**作者**: Kanazawa, S.
-**摘要**: （暂无）
 
 ### Abraham Lincoln and the Forge of National Memory. By Barry Schwartz. University of Chicago Press, 2000. 367 pp. Cloth, $29.95, paper, $14.95
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0089](https://doi.org/10.1353/sof.2001.0089)
@@ -5423,11 +5368,6 @@
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0058](https://doi.org/10.1353/sof.2001.0058)
 **作者**: Zhou, M.
 **摘要**: Journal Article Black Identities: West Indian Immigrant Dreams and American Realities.By Mary C. Waters. Harvard University Press, 1999. 413 pp. Cloth, $35.00 Get access Min Zhou Min Zhou University of California, Los Angeles Search for other works by this author on: Oxford Academic Google Scholar S…
-
-### A Bit of Logic Goes a Long Way: A Reply to Sanderson
-**年份**: 2001 | **DOI**: [10.1353/sof.2001.0072](https://doi.org/10.1353/sof.2001.0072)
-**作者**: Kanazawa, S.
-**摘要**: （暂无）
 
 ### Trust: A Sociological Theory. By Piotr Sztompka. Cambridge University Press, 1999. 214 pp. Cloth, $59.95
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0022](https://doi.org/10.1353/sof.2001.0022)

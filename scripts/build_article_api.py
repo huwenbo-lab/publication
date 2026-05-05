@@ -20,6 +20,7 @@ import argparse
 import json
 import re
 import shutil
+import unicodedata
 from collections import Counter, defaultdict
 from datetime import datetime
 from pathlib import Path
@@ -29,6 +30,8 @@ from _paths import ROOT
 
 API_DIR = ROOT / "api"
 ARTICLES_DIR = API_DIR / "articles"
+BROWSE_DIR = API_DIR / "browse"
+BROWSE_JOURNAL_DIR = BROWSE_DIR / "by_journal_year"
 ARTICLES_JSON = ROOT / "articles.json"
 
 SITE_BASE = "https://huwenbo-lab.github.io/publication"
@@ -52,6 +55,23 @@ def clean_text(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
+def strip_diacritics(text):
+    """用于作者检索的保守规范化：去掉重音但不猜测身份合并。"""
+    normalized = unicodedata.normalize("NFKD", str(text or ""))
+    return "".join(ch for ch in normalized if not unicodedata.combining(ch))
+
+
+def normalize_name_part(text):
+    text = strip_diacritics(text).lower()
+    text = re.sub(r"[^a-z0-9\s-]", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def initials_from_given(given):
+    parts = [part for part in re.split(r"[\s-]+", normalize_name_part(given)) if part]
+    return "".join(part[0] for part in parts)
+
+
 def safe_filename(journal_name):
     name = journal_name.replace("&", "and").replace(",", "")
     name = re.sub(r"[^\w\s-]", "", name)
@@ -73,6 +93,56 @@ def parse_authors(authors_text):
             "given": given,
         })
     return authors
+
+
+def normalize_author_identity(raw_author):
+    """生成保守作者键；全名与首字母名不强行合并。"""
+    raw = clean_text(raw_author)
+    if not raw:
+        return None
+
+    if "," in raw:
+        family_raw, given_raw = [part.strip() for part in raw.split(",", 1)]
+    else:
+        parts = raw.split()
+        if len(parts) >= 2:
+            given_raw = " ".join(parts[:-1])
+            family_raw = parts[-1]
+        else:
+            family_raw = raw
+            given_raw = ""
+
+    family_norm = normalize_name_part(family_raw)
+    given_norm = normalize_name_part(given_raw)
+    if not family_norm:
+        return None
+
+    key = f"{family_norm}|{given_norm}"
+    display = f"{family_raw}, {given_raw}".strip().strip(",") if given_raw else family_raw
+    given_initials = initials_from_given(given_raw)
+    search_variants = {
+        raw,
+        display,
+        f"{given_raw} {family_raw}".strip(),
+        f"{family_raw} {given_raw}".strip(),
+        f"{family_raw}, {given_initials}".strip().strip(","),
+        f"{given_initials} {family_raw}".strip(),
+    }
+    normalized_search = {
+        normalize_name_part(variant)
+        for variant in search_variants
+        if normalize_name_part(variant)
+    }
+
+    return {
+        "key": key,
+        "display": display,
+        "family": family_raw,
+        "given": given_raw,
+        "given_initials": given_initials,
+        "search_variants": sorted(search_variants),
+        "normalized_search": sorted(normalized_search),
+    }
 
 
 def normalize_doi(doi):
@@ -211,6 +281,8 @@ def build_overview(articles):
             "articles_json": f"{RAW_BASE}/articles.json",
             "lit_db_overview": f"{RAW_BASE}/lit_db/overview.md",
             "journals_index": build_site_url(Path("api") / "journals.json"),
+            "browse_index": build_site_url(Path("api") / "browse.json"),
+            "authors_index": build_site_url(Path("api") / "authors.json"),
             "dashboard": build_site_url(Path("api") / "dashboard.json"),
         },
     }
@@ -302,6 +374,165 @@ def build_dashboard(articles):
     write_json(API_DIR / "dashboard.json", payload)
 
 
+def article_summary(article, include_abstract=True):
+    abstract = clean_text(article.get("abstract"))
+    summary = {
+        "title": clean_text(article.get("title")),
+        "authors": clean_text(article.get("authors")),
+        "journal": clean_text(article.get("journal")),
+        "year": article.get("year"),
+        "doi": normalize_doi(article.get("doi")),
+        "has_abstract": bool(abstract),
+    }
+    if include_abstract:
+        summary["abstract"] = abstract
+    return summary
+
+
+def build_browse_indexes(articles):
+    """生成按期刊、年份浏览用的静态索引；当前主数据没有卷期字段。"""
+    by_journal = defaultdict(list)
+    for article in articles:
+        journal = clean_text(article.get("journal"))
+        if journal:
+            by_journal[journal].append(article)
+
+    journal_items = []
+    for journal in sorted(by_journal):
+        journal_articles = by_journal[journal]
+        slug = safe_filename(journal)
+        by_year = defaultdict(list)
+        for article in journal_articles:
+            year = article.get("year") or "年份未知"
+            by_year[str(year)].append(article)
+
+        years = []
+        for year_key in sorted(by_year.keys(), key=lambda item: (item == "年份未知", -int(item) if item.isdigit() else 0)):
+            year_articles = sorted(
+                by_year[year_key],
+                key=lambda item: (clean_text(item.get("title")).lower(), clean_text(item.get("authors")).lower())
+            )
+            year_value = int(year_key) if year_key.isdigit() else None
+            years.append({
+                "year": year_value,
+                "label": year_key,
+                "count": len(year_articles),
+                "articles": [article_summary(article) for article in year_articles],
+            })
+
+        journal_payload = {
+            "generated_at": datetime.now().isoformat(timespec="seconds"),
+            "journal": journal,
+            "slug": slug,
+            "count": len(journal_articles),
+            "has_volume_issue": False,
+            "volume_issue_note": "articles.json 当前没有 volume/issue 字段；本索引只提供期刊—年份—文章层级。",
+            "years": years,
+        }
+        write_json(BROWSE_JOURNAL_DIR / f"{slug}.json", journal_payload)
+
+        year_summaries = [
+            {
+                "year": item["year"],
+                "label": item["label"],
+                "count": item["count"],
+            }
+            for item in years
+        ]
+        numeric_years = [item["year"] for item in year_summaries if item["year"]]
+        journal_items.append({
+            "journal": journal,
+            "slug": slug,
+            "count": len(journal_articles),
+            "year_min": min(numeric_years) if numeric_years else None,
+            "year_max": max(numeric_years) if numeric_years else None,
+            "years": year_summaries,
+            "data_url": build_site_url(Path("api") / "browse" / "by_journal_year" / f"{slug}.json"),
+        })
+
+    write_json(API_DIR / "browse.json", {
+        "generated_at": datetime.now().isoformat(timespec="seconds"),
+        "has_volume_issue": False,
+        "volume_issue_note": "主数据目前只有 title/abstract/authors/journal/year/doi，未生成卷期层级。",
+        "journals": journal_items,
+    })
+
+
+def build_author_index(articles):
+    authors = {}
+    for article in articles:
+        article_ref = article_summary(article, include_abstract=False)
+        for parsed in parse_authors(article.get("authors")):
+            identity = normalize_author_identity(parsed["raw"])
+            if not identity:
+                continue
+            if identity["key"] not in authors:
+                authors[identity["key"]] = {
+                    "key": identity["key"],
+                    "name": identity["display"],
+                    "family": identity["family"],
+                    "given": identity["given"],
+                    "given_initials": identity["given_initials"],
+                    "variants": Counter(),
+                    "search_names": set(identity["normalized_search"]),
+                    "journals": Counter(),
+                    "years": [],
+                    "articles": [],
+                }
+            item = authors[identity["key"]]
+            item["variants"][parsed["raw"]] += 1
+            item["search_names"].update(identity["normalized_search"])
+            if article_ref["journal"]:
+                item["journals"][article_ref["journal"]] += 1
+            if article_ref["year"]:
+                item["years"].append(article_ref["year"])
+            item["articles"].append(article_ref)
+
+    payload_authors = []
+    for item in authors.values():
+        years = [int(year) for year in item["years"] if isinstance(year, int)]
+        articles_sorted = sorted(
+            item["articles"],
+            key=lambda article: (-(article.get("year") or 0), article.get("journal") or "", article.get("title") or "")
+        )
+        journals = [
+            {"journal": journal, "count": count}
+            for journal, count in item["journals"].most_common()
+        ]
+        variants = [
+            {"name": name, "count": count}
+            for name, count in item["variants"].most_common()
+        ]
+        payload_authors.append({
+            "key": item["key"],
+            "name": item["name"],
+            "family": item["family"],
+            "given": item["given"],
+            "given_initials": item["given_initials"],
+            "count": len(item["articles"]),
+            "variants": variants,
+            "search_names": sorted(item["search_names"]),
+            "journals": journals,
+            "year_min": min(years) if years else None,
+            "year_max": max(years) if years else None,
+            "recent_year": max(years) if years else None,
+            "articles": articles_sorted,
+        })
+
+    payload_authors.sort(key=lambda item: (-item["count"], item["name"].lower()))
+    write_json(API_DIR / "authors.json", {
+        "generated_at": datetime.now().isoformat(timespec="seconds"),
+        "normalization_note": "作者按保守规则规范化：大小写、标点和姓名顺序会归并；全名与首字母名不会强行合并，避免误合并同姓作者。",
+        "total_authors": len(payload_authors),
+        "thresholds": {
+            "at_least_10": sum(1 for item in payload_authors if item["count"] >= 10),
+            "at_least_20": sum(1 for item in payload_authors if item["count"] >= 20),
+            "at_least_30": sum(1 for item in payload_authors if item["count"] >= 30),
+        },
+        "authors": payload_authors,
+    })
+
+
 def build_readme(total_written):
     lines = [
         "# API 导出",
@@ -315,6 +546,10 @@ def build_readme(total_written):
         "├── dashboard.json",
         "├── overview.json",
         "├── journals.json",
+        "├── browse.json",
+        "├── authors.json",
+        "├── browse/",
+        "│   └── by_journal_year/",
         "└── articles/",
         "    └── 10.1086/",
         "        └── 714825.json",
@@ -325,6 +560,12 @@ def build_readme(total_written):
         "- DOI 会按 `/` 拆成路径层级",
         "- 最后一段加上 `.json` 后缀",
         "- 例如 `10.1086/714825` → `api/articles/10.1086/714825.json`",
+        "",
+        "## 浏览与作者索引",
+        "",
+        "- `browse.json`：期刊和年份计数总览。",
+        "- `browse/by_journal_year/*.json`：某本期刊下各年份文章列表。",
+        "- `authors.json`：保守规范化后的作者索引，供 Top Scholars 和作者检索使用。",
         "",
         f"当前已生成 **{total_written:,}** 个单篇 JSON 端点。",
         "",
@@ -345,10 +586,14 @@ def main():
     API_DIR.mkdir(exist_ok=True)
     if ARTICLES_DIR.exists() and not args.keep_existing:
         shutil.rmtree(ARTICLES_DIR)
+    if BROWSE_DIR.exists() and not args.keep_existing:
+        shutil.rmtree(BROWSE_DIR)
 
     build_overview(articles)
     build_journals_index(articles)
     build_dashboard(articles)
+    build_browse_indexes(articles)
+    build_author_index(articles)
 
     unique_payloads = {}
     for article in articles:

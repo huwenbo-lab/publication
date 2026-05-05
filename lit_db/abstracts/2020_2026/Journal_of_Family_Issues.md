@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2020–2026 年文章（含摘要）
 
-共 **746** 篇
+共 **730** 篇
 
 ---
 
@@ -64,46 +64,6 @@
 **年份**: 2026 | **DOI**: [10.1177/0192513x261432512](https://doi.org/10.1177/0192513x261432512)
 **作者**: Wadei, Bernice; Wadei, Kwame Ansong; Ziemah, Aaron Kong-bahi 等4人
 **摘要**: Despite growing female workforce participation, societal norms still prioritize motherhood over professional roles. This study examines how maternal employment affects children’s well-being, and challenges concerns about maternal absence.…
-
-### Do Older Adults Expect Reciprocity When Providing Family Support to Different Generations? Evidence From a Nationally Representative Sample of Rural and Urban China
-**年份**: 2026 | **DOI**: [10.1177/0192513x261432539](https://doi.org/10.1177/0192513x261432539)
-**作者**: Shi, Cheng; Zhu, Yajing; Lum, Terry Yat-Sang 等4人
-**摘要**: The debate on whether family caregiving is reciprocal or altruistic remains unresolved. This study examined how older adults’ care expectation is associated with their caregiving for different generations, focusing on direct and indirect reciprocity and altruistic giving.…
-
-### Latent Class of Child-Rearing Values and Their Relationships With Fertility
-**年份**: 2026 | **DOI**: [10.1177/0192513x251415517](https://doi.org/10.1177/0192513x251415517)
-**作者**: Jung, Sun Young
-**摘要**: The purpose of this study is to identify the subgroups of child-rearing values and the patterns of the proportions of the subgroups across OECD countries. It also examines the relationships between the proportions of these subgroups and the total fertility rates (TFRs) of the countries concerned.…
-
-### Mothering Black Adolescents: Personal and Adolescent-Experienced Racial Discrimination, Superwoman Schema, and Black American Mothers’ Mental Health
-**年份**: 2026 | **DOI**: [10.1177/0192513x261419151](https://doi.org/10.1177/0192513x261419151)
-**作者**: Jelsma, Elizabeth; Varner, Fatima
-**摘要**: Racial discrimination affects individuals and families, especially Black American mothers, who often rely on coping strategies like the Superwoman Schema—reflecting stress, resilience, and societal expectations shaped by racism and sexism.…
-
-### “Me Siento Mal”: Mexican and Central American Immigrants’ Narratives on the Emotional Costs of Extended Parental Separation
-**年份**: 2026 | **DOI**: [10.1177/0192513x251414624](https://doi.org/10.1177/0192513x251414624)
-**作者**: Cholula, Natalie J.
-**摘要**: Immigrants in the United States maintain emotional and economic relationships across borders while navigating the immigration system’s methods of control. The current study investigates the emotional and mental health impacts of Mexican and Central American adult immigrants experiencing transnationa…
-
-### Presence Matters: Perceptions of Emotional and Social Involvement of Black Fathers
-**年份**: 2026 | **DOI**: [10.1177/0192513x251414617](https://doi.org/10.1177/0192513x251414617)
-**作者**: Campbell, Erica; Alston, Mar’Deja S.
-**摘要**: Background: Historically, systemic oppression and slavery disrupted the structure of Black families, contributing to the absence of fathers and ongoing challenges with paternal involvement.…
-
-### The Relationship Between Family Socio-Economic Status and Preschool Children’s Social Competence: The Chain Mediating Role of Family Internal Support and Children’s Empathy
-**年份**: 2026 | **DOI**: [10.1177/0192513x261423891](https://doi.org/10.1177/0192513x261423891)
-**作者**: Li, Jingmei; Yuan, Haojie; Yan, Zhonglian 等6人
-**摘要**: The present study aims to explore the relationship between family socioeconomic status and children’s social competence and to examine the chain-mediating mechanism of the relationship between family internal support and children’s empathy.…
-
-### Through Their Eyes: “My Mother Hit Me Because I’m a Girl…” The Looking-Glass Self and Parents’ Perception of Childhood Maltreatment
-**年份**: 2026 | **DOI**: [10.1177/0192513x261418731](https://doi.org/10.1177/0192513x261418731)
-**作者**: Intan, Reno; Suminar, Jenny Ratna; Hadisiwi, Purwanti 等4人
-**摘要**: Self-perception shapes how individuals view themselves and interact with the world. For parents with a history of childhood maltreatment, these self-perceptions are often influenced by past trauma and negative relational experiences.…
-
-### Acculturation and Resilience Influences from the Latino Fathers’ Perspective
-**年份**: 2026 | **DOI**: [10.1177/0192513x251414622](https://doi.org/10.1177/0192513x251414622)
-**作者**: Garcia, John; Hwang, Shann Hwa
-**摘要**: This phenomenological study focused on the lived experiences of Latino fathers’ perceptions of acculturation into the United States and how their role, family structure, and responsibility were impacted from their perspective.…
 
 ### Fictive Kin Support Networks of African American and Black Caribbean Adolescents
 **年份**: 2025 | **DOI**: [10.1177/0192513X251379000](https://doi.org/10.1177/0192513X251379000)
@@ -624,16 +584,6 @@
 **年份**: 2025 | **DOI**: [10.1177/0192513X251389207](https://doi.org/10.1177/0192513X251389207)
 **作者**: Blalock, Jamie; Bartle-Haring, Suzanne; Landers, Ashley
 **摘要**: Economic factors can have a negative impact on relationship functioning. As such, there is a need to assess how economic factors influence relationship satisfaction and the relationship processes that could potentially mitigate these effects.…
-
-### Parental Recollections of Bullying
-**年份**: 2025 | **DOI**: [10.1177/0192513x251347314](https://doi.org/10.1177/0192513x251347314)
-**作者**: Rosen, Lisa H.; Rubin, Linda J.; Romines, Ashton 等4人
-**摘要**: Bullying is a problem of global concern with most research focused on school-aged children. The current study examined the types of childhood bullying parents recalled as well as how they perceived effects of these experiences. A diverse sample of 250 U.S.…
-
-### When Working From Home Fails to Support Work–Life Balance: The Role of Childcare- and Work-Related Demands
-**年份**: 2025 | **DOI**: [10.1177/0192513x251356260](https://doi.org/10.1177/0192513x251356260)
-**作者**: Kurowska, Anna; Kasperska, Agnieszka; Kaufman, Gayle
-**摘要**: The new normal of working from home (WFH) brought by the COVID-19 pandemic enabled parents to manage increased childcare demands while working remotely. Using multi-country data from the Familydemic Harmonized Dataset ( n = 9364), this study examines how WFH was related to perceived changes in work–…
 
 ### Experiences With Deportation and Mexican-Origin Fathers' Parenting Practices and Stress
 **年份**: 2024 | **DOI**: [10.1177/0192513X241236545](https://doi.org/10.1177/0192513X241236545)
@@ -2650,16 +2600,6 @@
 **作者**: Gao, Siyao; Dupre, Karine; Bosman, Caryl
 **摘要**: Immigration brings particular challenges to older Chinese immigrants’ wellbeing because they make a new home in a foreign country. Based on 30 semi-structured in-depth interviews, this study aims to understand the immigration history of this specific group and unravel the complex links between famil…
 
-### Weathering the Storm: Longitudinal Evidence on Women’s Changing Family Relationships During COVID-19
-**年份**: 2022 | **DOI**: [10.1177/0192513x221087721](https://doi.org/10.1177/0192513x221087721)
-**作者**: Lim-Soh, Jeremy W.; Tan, Poh Lin
-**摘要**: The massive socioeconomic changes wrought by COVID-19 have disrupted multiple aspects of family life. However, evidence is still lacking on the sustained long-term impact of the pandemic and how families are adapting to this new normal.…
-
-### Grandparenting and Well-Being of the Elderly in China
-**年份**: 2022 | **DOI**: [10.1177/0192513x221127024](https://doi.org/10.1177/0192513x221127024)
-**作者**: Luo, Qi; Fidrmuc, Jan; Wang, Hao
-**摘要**: Grandparenting duties can affect the well-being of the elderly both positively and negatively. This paper disentangles the interactions between grandparenting, quality of life, and life satisfaction in China.…
-
 ### Rural Masculinities and Fathering: The Lived Experiences of Chinese Farmers
 **年份**: 2021 | **DOI**: [10.1177/0192513X20988070](https://doi.org/10.1177/0192513X20988070)
 **作者**: Liu, Yanping; Zheng, Jianhong
@@ -2719,11 +2659,6 @@
 **年份**: 2021 | **DOI**: [10.1177/0192513X20918616](https://doi.org/10.1177/0192513X20918616)
 **作者**: Charbonneau, Andreanne; Lachance-Grzela, Mylene; Bouchard, Genevieve
 **摘要**: Young adults increasingly express a desire to create egalitarian romantic partnerships, yet numerous studies have shown that women generally continue to assume the lion's share of housework.…
-
-### Paternal Response to Ultrasound Predicts Increased Paternal-Fetal Attachment
-**年份**: 2021 | **DOI**: [10.1177/0192513X21993197](https://doi.org/10.1177/0192513X21993197)
-**作者**: Tolman, Richard M.; Walsh, Tova; Bybee, Deborah 等7人
-**摘要**: Utilizing data from a longitudinal online survey of couples expecting their first child, this study sought to examine the trajectory of paternal-fetal attachment across the three trimesters of pregnancy.…
 
 ### The Relation of Helicopter Parenting to Maladaptive Perfectionism in Emerging Adults
 **年份**: 2021 | **DOI**: [10.1177/0192513X21993194](https://doi.org/10.1177/0192513X21993194)
@@ -3245,16 +3180,6 @@
 **作者**: Fonseca, Ana Laura; Ye, Tony; Curran, Melissa 等5人
 **摘要**: Intercultural romantic relationships and multicultural families have increased in the United States and worldwide. Researchers have found that intercultural couples report high rates of conflict and relationship instability, which may be partly explained by differences between partners in relationsh…
 
-### Does Family Decision-Making Power Improve Women’s Happiness?
-**年份**: 2021 | **DOI**: [10.1177/0192513x211030025](https://doi.org/10.1177/0192513x211030025)
-**作者**: Li, Zhongwu
-**摘要**: It is almost a consensus that the stronger family decision-making power a woman has, the happier she will be. While using the China Family Panel Studies, this study reveals a long-overlooked fact that women’s control over more family decision-making power does not necessarily improve their happiness…
-
-### Cohabitation and Its Consequences in Ghana
-**年份**: 2021 | **DOI**: [10.1177/0192513x21994155](https://doi.org/10.1177/0192513x21994155)
-**作者**: Obeng-Hinneh, Rosemary; Kpoor, Albert
-**摘要**: Although largely considered an unconventional form of domestic partnership, cohabitation is a growing phenomenon in Ghana. The lived experiences of cohabiting couples have, however, received little scholarly attention.…
-
 ### The Changing Status of Israeli Arab Women as Reflected in Their Role as Main Caregivers
 **年份**: 2020 | **DOI**: [10.1177/0192513X19898829](https://doi.org/10.1177/0192513X19898829)
 **作者**: Vitman-Schorr, Adi; Ayalon, Liat
@@ -3729,8 +3654,3 @@
 **年份**: 2020 | **DOI**: [10.1177/0192513x20903377](https://doi.org/10.1177/0192513x20903377)
 **作者**: Woodall, Kelly A.; Richardson, Sabrina M.; Pflieger, Jacqueline C. 等5人
 **摘要**: Maintaining a healthy marriage may be challenging for military couples as they attempt to balance the demands of work and family; for dual-military couples, this can be even more challenging.…
-
-### Romantic Relationship Quality of Youth with Two Biological Parents and Stepfathers
-**年份**: 2020 | **DOI**: [10.1177/0192513x20941906](https://doi.org/10.1177/0192513x20941906)
-**作者**: Washington, Chanell
-**摘要**: This study uses data from a sample of 7,404 respondents from Waves I and IV of the National Longitudinal Study of Adolescent to Adult Health (Add Health) to examine how the quality of relationships between parents (mother–father) and relationships between parents and children during adolescence (mot…
