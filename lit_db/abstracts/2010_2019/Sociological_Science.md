@@ -1,7 +1,7 @@
 # Sociological Science
 ## 2010–2019 年文章（含摘要）
 
-共 **194** 篇
+共 **193** 篇
 
 ---
 
@@ -404,11 +404,6 @@
 **年份**: 2017 | **DOI**: [10.15195/v4.a19](https://doi.org/10.15195/v4.a19)
 **作者**: Gaddis, S.
 **摘要**: Online correspondence audit studies have emerged as the primary method to examine racial discrimination. Although audits use distinctive names to signal race, few studies scientifically examine data regarding the perception of race from names.…
-
-### The Persistent and Exceptional Intensity of American Religion: A Response to Recent Research
-**年份**: 2017 | **DOI**: [10.15195/v4.a28](https://doi.org/10.15195/v4.a28)
-**作者**: Schnabel, Landon; Bock, Sean
-**摘要**: （暂无）
 
 ### Improving the Measurement of Shared Cultural Schemas with Correlational Class Analysis: Theory and Method
 **年份**: 2017 | **DOI**: [10.15195/v4.a15](https://doi.org/10.15195/v4.a15)

@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2000–2009 年文章（含摘要）
 
-共 **340** 篇
+共 **338** 篇
 
 ---
 
@@ -613,16 +613,6 @@
 **年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00122.x](https://doi.org/10.1111/j.1728-4457.2006.00122.x)
 **作者**: Zimmer, Z; Knodel, J; Kim, KS 等4人
 **摘要**: Cambodia experienced violence during the rule of the Khmer Rouge in the 1970s. Many who died were the children or spouses of today's elderly. This may have resulted in an erosion of family support in a country where formal channels of assistance are virtually absent.…
-
-### World population 1950-2000: Perception and response
-**年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.tb00002.x](https://doi.org/10.1111/j.1728-4457.2006.tb00002.x)
-**作者**: Demeny, Paul; McNicoll, Geoffrey
-**摘要**: （暂无）
-
-### Cultural versus biological factors in explaining Asia's missing women: Response to Oster
-**年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00121.x](https://doi.org/10.1111/j.1728-4457.2006.00121.x)
-**作者**: Das Gupta, M
-**摘要**: （暂无）
 
 ### Brave new worlds: Philosophy, politics, and science in human biotechnology
 **年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00055.x](https://doi.org/10.1111/j.1728-4457.2005.00055.x)

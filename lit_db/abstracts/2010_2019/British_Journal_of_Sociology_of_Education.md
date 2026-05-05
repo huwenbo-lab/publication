@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **652** 篇
+共 **647** 篇
 
 ---
 
@@ -1000,11 +1000,6 @@
 **作者**: Sukarieh, Mayssoun; Tannock, Stuart
 **摘要**: Currently dominant human capital and knowledge economy rhetoric holds that education can raise wages, empower workers and enhance working conditions. Education, however, can also have the opposite impact in the workplace and labour market, an impact that has received only limited attention.…
 
-### 'It's not the test, it's how it's used!' Critical analysis of public response to NAPLAN and MySchool Senate Inquiry
-**年份**: 2017 | **DOI**: [10.1080/01425692.2015.1073100](https://doi.org/10.1080/01425692.2015.1073100)
-**作者**: Ragusa, Angela T.; Bousfield, Kellie
-**摘要**: Public education is commonly perceived as a social good endowed with the capacity to equalise western citizens' chance of success'. In 2008 Australia introduced standardised testing and reporting procedures to improve educational quality and equity through two policy tools (NAPLAN/MySchool).…
-
 ### Involving Roma parents: analysing the good practice of a primary school in Ghent
 **年份**: 2017 | **DOI**: [10.1080/01425692.2015.1081053](https://doi.org/10.1080/01425692.2015.1081053)
 **作者**: Wauters, Joris; Van Mol, Christof; Clycq, Noel 等5人
@@ -1887,11 +1882,6 @@
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.791229](https://doi.org/10.1080/01425692.2013.791229)
 **作者**: Stevanovic, Biljana
 **摘要**: Based on surveys undertaken by the Institut national de la statistique et des études économiques (France’s National Institute of Statistics and Economic Studies) and by the Direction de l'évaluation de la prospective et de la performance (Directorate of Evaluation, Forecasting and Performance), this…
-
-### Some further (orthodox?) Bourdieusian reflections on the notions of ‘institutional habitus’ and ‘family habitus’: a reply to Burke, Emmerich, and Ingram
-**年份**: 2013 | **DOI**: [10.1080/01425692.2012.746266](https://doi.org/10.1080/01425692.2012.746266)
-**作者**: Atkinson, Will
-**摘要**: （暂无）
 
 ### Three generations of racism: Black middle-class children and schooling
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816032](https://doi.org/10.1080/01425692.2013.816032)
@@ -2891,11 +2881,6 @@
 **作者**: Gillies, Val
 **摘要**: This paper examines new structured attempts to address and manage emotions in the classroom. Critical analysis focuses on the broad emotional literacy agenda operating within schools, and more specifically the Social and Emotional Aspects of Learning (SEAL) programme.…
 
-### Producing knowledge and (de)constructing identities: a critical commentary on environmental education and its research
-**年份**: 2011 | **DOI**: [10.1080/01425692.2011.527729](https://doi.org/10.1080/01425692.2011.527729)
-**作者**: Reid, Alan D.; Payne, Phillip G.
-**摘要**: （暂无）
-
 ### Dress rehearsal: a Bourdieusian analysis of body work in career portfolio programs
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596378](https://doi.org/10.1080/01425692.2011.596378)
 **作者**: Collin, Ross
@@ -3066,16 +3051,6 @@
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484925](https://doi.org/10.1080/01425692.2010.484925)
 **作者**: Demaine, Jack; Smith, Penny
 **摘要**: by Mark Olssen, London, Routledge, 2010, 280 pp., £65.00 (hardback), ISBN 0‐41‐595704‐4 ‘Philosophers have hitherto only interpreted the world in various ways; the point is to change it’. Karl Marx...
-
-### We blame the parents! A response to ‘Cultural capital as an explanation of variation in participation in higher education’ by John Noble and Peter Davies (British Journal of Sociology of Education30, no. 5)
-**年份**: 2010 | **DOI**: [10.1080/01425692.2010.484922](https://doi.org/10.1080/01425692.2010.484922)
-**作者**: Harrison, Neil; Waller, Richard
-**摘要**: （暂无）
-
-### Response
-**年份**: 2010 | **DOI**: [10.1080/01425692.2010.500095](https://doi.org/10.1080/01425692.2010.500095)
-**作者**: Barton, Len
-**摘要**: Click to increase image sizeClick to decrease image size Notes 1. Private correspondence from Professor David Gillborn, Institute of Education, University of London. 2. To counter‐balance an overly‐romantic idealised conception of issues relating to disability studies, the disability movement and ot…
 
 ### Success and failure in secondary education: socio‐economic background effects on secondary school outcome in the Netherlands, 1927–1998
 **年份**: 2010 | **DOI**: [10.1080/01425691003700516](https://doi.org/10.1080/01425691003700516)

@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2010–2019 年文章（含摘要）
 
-共 **917** 篇
+共 **914** 篇
 
 ---
 
@@ -1054,11 +1054,6 @@
 **年份**: 2018 | **DOI**: [10.1177/0192513X16662102](https://doi.org/10.1177/0192513X16662102)
 **作者**: Xu, Ling; Chi, Iris
 **摘要**: Mutuality of support provision is a necessary precondition of family solidarity. However, the exchange of care between grandparents and grandchildren has largely been neglected. Using data from the fourth wave of the Anhui Study in China, this study investigated determinants of support exchange betw…
-
-### Changes in Individual Sibling Relationships in Response to Life Events
-**年份**: 2018 | **DOI**: [10.1177/0192513X16653431](https://doi.org/10.1177/0192513X16653431)
-**作者**: Spitze, Glenna D.; Trent, Katherine
-**摘要**: Data from the first two waves of the National Survey of Families and Households are used to examine how individual sibling relationships change in response to life events in a gendered context.…
 
 ### Gender, Family Norms, and Male-Factor Infertility in Japan: An Analysis of Internet Blogs
 **年份**: 2018 | **DOI**: [10.1177/0192513X18796874](https://doi.org/10.1177/0192513X18796874)
@@ -2421,11 +2416,6 @@
 **作者**: Barnard-Brak, Lucy; Nuner, Joyce; Sulak, Tracey 等4人
 **摘要**: Child care arrangements, costs, and satisfaction among parents of children with emotional or behavioral disorders were examined as compared with parents of children with other disabilities.…
 
-### Introduction
-**年份**: 2014 | **DOI**: [10.1177/0192513x14563795](https://doi.org/10.1177/0192513x14563795)
-**作者**: Hertz, Rosanna; Nelson, Margaret K.
-**摘要**: （暂无）
-
 ### The Influence of Parental Beliefs on the Development of Chinese Adolescents Experiencing Economic Disadvantage
 **年份**: 2014 | **DOI**: [10.1177/0192513x13518776](https://doi.org/10.1177/0192513x13518776)
 **作者**: Leung, Janet T. Y.; Shek, Daniel T. L.
@@ -2658,11 +2648,6 @@
 **年份**: 2014 | **DOI**: [10.1177/0192513x14522236](https://doi.org/10.1177/0192513x14522236)
 **作者**: Goldscheider, Frances; Goldscheider, Calvin; Rico-Gonzalez, Antonio
 **摘要**: We focus in this article on contexts within which religiosity (the intensity of religious commitment) reinforces more patriarchal family values and those in which it does not, and perhaps even strengthens egalitarian family values.…
-
-### Introduction
-**年份**: 2014 | **DOI**: [10.1177/0192513x14557490](https://doi.org/10.1177/0192513x14557490)
-**作者**: Bonjour, Saskia; Kraler, Albert
-**摘要**: “Family migration” and “integration” are intimately related concepts in policy discourses in Europe today. Assumptions about the relation between “family migration” and “integration” play a crucial role in shaping policies.…
 
 ### Parental Nonstandard Work, Family Processes, and Delinquency During Adolescence
 **年份**: 2013 | **DOI**: [10.1177/0192513x13510299](https://doi.org/10.1177/0192513x13510299)

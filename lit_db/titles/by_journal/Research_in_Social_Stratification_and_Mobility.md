@@ -1,6 +1,6 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **861** 篇 | 年份范围：2001–2026
+共 **848** 篇 | 年份范围：2001–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -648,7 +648,6 @@
 
 ## 2012
 
-- Consequences of economic inequality: Introduction to a special issue · [DOI](https://doi.org/10.1016/j.rssm.2012.08.001)
 - Education, inequality and electoral participation · [DOI](https://doi.org/10.1016/j.rssm.2012.06.004)
 - Income inequality and solidarity in Europe · [DOI](https://doi.org/10.1016/j.rssm.2012.06.002)
 - The impact of income inequality on self-rated general health: Evidence from a cross-national study · [DOI](https://doi.org/10.1016/j.rssm.2012.07.002)
@@ -708,7 +707,6 @@
 - Educational credentials and external effects: A test for the Netherlands · [DOI](https://doi.org/10.1016/j.rssm.2010.12.003)
 - Signals and closure by degrees: The education effect across 15 European countries · [DOI](https://doi.org/10.1016/j.rssm.2010.12.002)
 - An overture for the sociology of credentialing: Empirical, theoretical, and moral considerations · [DOI](https://doi.org/10.1016/j.rssm.2011.01.005)
-- Introduction to symposium on unmeasured heterogeneity in school transition models · [DOI](https://doi.org/10.1016/j.rssm.2011.05.004)
 
 ## 2010
 
@@ -830,14 +828,12 @@
 - The status attainment of young adults during market transition: The case of Vietnam · [DOI](https://doi.org/10.1016/j.rssm.2005.11.001)
 - Age stratification at work: Trends in occupational age segregation in the United States, 1950–2000 · [DOI](https://doi.org/10.1016/j.rssm.2005.08.001)
 - Welfare states and social inequality: Key issues in contemporary cross-national research on social stratification and mobility · [DOI](https://doi.org/10.1016/j.rssm.2006.10.002)
-- Prelim (ii) Editorial Board · [DOI](https://doi.org/10.1016/s0276-5624(06)00018-7)
 - The place of opportunity: Community and individual determinants of poverty among Jews and Arabs in Israel · [DOI](https://doi.org/10.1016/j.rssm.2006.04.002)
 - Welfare states and social mobility: How educational and social policy may affect cross-national differences in the association between occupational origins and destinations · [DOI](https://doi.org/10.1016/j.rssm.2006.10.001)
 - Index/Volume · [DOI](https://doi.org/10.1016/s0276-5624(06)00065-5)
 - Widening the gap: The effect of declining unionization on managerial and worker pay, 1983–2000 · [DOI](https://doi.org/10.1016/j.rssm.2006.01.003)
 - Welfare states, family inequality, and equality of opportunity · [DOI](https://doi.org/10.1016/j.rssm.2006.09.001)
 - Work and pay in flexible and regulated labor markets: A generalized perspective on institutional evolution and inequality trends in Europe and the U.S. · [DOI](https://doi.org/10.1016/j.rssm.2006.04.001)
-- Bringing the state in: A commentary on welfare states and social inequality · [DOI](https://doi.org/10.1016/j.rssm.2006.10.003)
 - The rise in involuntary part-time employment in Israel · [DOI](https://doi.org/10.1016/j.rssm.2005.02.002)
 
 ## 2005
@@ -849,14 +845,12 @@
 - Wiring the World: Access to Information Technology and Development in Poor Countries · [DOI](https://doi.org/10.1016/s0276-5624(05)23012-3)
 - Relative Deprivation, Efficiency Wages, and Labor Productivity in Taiwanese Manufacturing Industries · [DOI](https://doi.org/10.1016/s0276-5624(05)23010-x)
 - On Ethnic Categories for Research in Israel: New Data on an Old Issue · [DOI](https://doi.org/10.1016/s0276-5624(05)23007-x)
-- Contents · [DOI](https://doi.org/10.1016/s0276-5624(05)23015-9)
 - Recruitment into the Eastern European Communist Elite: Dual Career Paths · [DOI](https://doi.org/10.1016/s0276-5624(05)23002-0)
 - Perceived Image and Utility of Collective Action Organizations Among U.S. Physicians · [DOI](https://doi.org/10.1016/s0276-5624(05)23009-3)
 - Educational Assortative Mating in South Korea: Trends 1930–1998 · [DOI](https://doi.org/10.1016/s0276-5624(05)23004-4)
 - Public Attitudes to Economic Policy in East and West: Efficiency, Subsidies and Public Ownership · [DOI](https://doi.org/10.1016/s0276-5624(05)23008-1)
 - List of Contributors · [DOI](https://doi.org/10.1016/s0276-5624(05)23016-0)
 - Class and the Educational Attainment of Siblings: An Explanatory Model of Social Mobility · [DOI](https://doi.org/10.1016/s0276-5624(05)23005-6)
-- Introduction · [DOI](https://doi.org/10.1016/s0276-5624(05)23013-5)
 
 ## 2004
 
@@ -881,25 +875,20 @@
 - Appendix A · [DOI](https://doi.org/10.1016/s0276-5624(04)21016-2)
 - SOURCES OF STRUCTURAL INEQUALITY IN MANAGERIAL LABOR MARKETS · [DOI](https://doi.org/10.1016/s0276-5624(04)21009-5)
 - AAGE BØTTGER SØRENSEN’S CONTRIBUTIONS TO QUANTITATIVE SOCIOLOGY: FROM STUDYING PROCESSES TO STUDYING STRUCTURE · [DOI](https://doi.org/10.1016/s0276-5624(04)21003-4)
-- CONTENTS · [DOI](https://doi.org/10.1016/s0276-5624(04)22014-5)
 - DO ETHNIC ENCLAVES BENEFIT OR HARM LINGUISTICALLY ISOLATED EMPLOYEES? · [DOI](https://doi.org/10.1016/s0276-5624(04)22010-8)
 - PREFACE: ARCHIBALD ORBEN HALLER, AN INTELLECTUAL PORTRAIT · [DOI](https://doi.org/10.1016/s0276-5624(04)22017-0)
 - CHANGES IN THE STRUCTURE OF STATUS SYSTEMS: EMPLOYMENT SHIFTS IN THE WAKE OF DEINDUSTRIALIZATION · [DOI](https://doi.org/10.1016/s0276-5624(04)22005-4)
 - THE FUTURE OF GENDER IN MEXICO AND THE UNITED STATES: ECONOMIC TRANSFORMATION AND CHANGING DEFINITIONS · [DOI](https://doi.org/10.1016/s0276-5624(04)22009-1)
 - SPACES AND NETWORKS: CONCEPTS FOR SOCIAL STRATIFICATION · [DOI](https://doi.org/10.1016/s0276-5624(04)22002-9)
-- Contents · [DOI](https://doi.org/10.1016/s0276-5624(04)21013-7)
 - AAGE B. SØRENSEN: 1941–2001 · [DOI](https://doi.org/10.1016/s0276-5624(04)21001-0)
 - GENERATIVE MODELS AND EXPLANATORY RESEARCH: ON THE SOCIOLOGY OF AAGE B. SØRENSEN · [DOI](https://doi.org/10.1016/s0276-5624(04)21002-2)
 - LIST OF CONTRIBUTORS · [DOI](https://doi.org/10.1016/s0276-5624(04)22015-7)
 - THE BLACK-WHITE ACHIEVEMENT GAP IN THE FIRST COLLEGE YEAR: EVIDENCE FROM A NEW LONGITUDINAL CASE STUDY · [DOI](https://doi.org/10.1016/s0276-5624(04)22007-8)
-- INTRODUCTION · [DOI](https://doi.org/10.1016/s0276-5624(04)22018-2)
 
 ## 2003
 
-- INTRODUCTION · [DOI](https://doi.org/10.1016/s0276-5624(03)20014-7)
 - CHANGE IN PART-TIME WORK ACROSS OCCUPATIONS, 1970–1990 · [DOI](https://doi.org/10.1016/s0276-5624(03)20003-2)
 - THE POWER OF PROPERTY IN COMPARATIVE PERSPECTIVE · [DOI](https://doi.org/10.1016/s0276-5624(03)20009-3)
-- Table of Contents · [DOI](https://doi.org/10.1016/s0276-5624(03)20011-1)
 - LABOR MARKET STRUCTURE AND RE-EMPLOYMENT RATES: UNEMPLOYMENT DYNAMICS IN WEST GERMANY AND THE UNITED STATES · [DOI](https://doi.org/10.1016/s0276-5624(03)20004-4)
 - AS WE AGE: A REVIEW OF THE WISCONSIN LONGITUDINAL STUDY, 1957–2001 · [DOI](https://doi.org/10.1016/s0276-5624(03)20001-9)
 - FINDING CLASS CONSCIOUSNESS IN THE NEW ECONOMY · [DOI](https://doi.org/10.1016/s0276-5624(03)20010-x)
@@ -926,7 +915,6 @@
 - Intercity variation in gender inequalities in China: analysis of a 1995 national survey · [DOI](https://doi.org/10.1016/s0276-5624(02)80044-0)
 - Party power, market and private power: Chinese Communist Party persistence in China's listed companies · [DOI](https://doi.org/10.1016/s0276-5624(02)80039-7)
 - Marketization and income distribution in urban China, 1988 and 1995 · [DOI](https://doi.org/10.1016/s0276-5624(02)80047-6)
-- Introduction · [DOI](https://doi.org/10.1016/s0276-5624(02)80034-8)
 
 ## 2001
 
@@ -942,4 +930,3 @@
 - Redistribution under state socialism: A USSR and PRC comparison · [DOI](https://doi.org/10.1016/s0276-5624(01)80026-3)
 - Special thanks to the reviewers for volume 18 · [DOI](https://doi.org/10.1016/s0276-5624(01)80018-4)
 - Working class wages during early industrialization: Brazilian evidence · [DOI](https://doi.org/10.1016/s0276-5624(01)80025-1)
-- Introduction to volume 18 · [DOI](https://doi.org/10.1016/s0276-5624(01)80020-2)

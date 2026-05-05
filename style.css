@@ -651,6 +651,12 @@ code {
     font-weight: 600;
 }
 
+.search-options-grid {
+    display: grid;
+    gap: 12px;
+    grid-template-columns: minmax(180px, 260px);
+}
+
 .toolbar {
     display: flex;
     flex-wrap: wrap;
@@ -709,6 +715,28 @@ code {
     width: 16px;
     height: 16px;
     accent-color: var(--teal);
+}
+
+.segmented-control {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+}
+
+.segmented-btn {
+    min-height: 38px;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    background: var(--surface-strong);
+    color: var(--ink-soft);
+    cursor: pointer;
+}
+
+.segmented-btn.active {
+    border-color: rgba(15, 118, 110, 0.32);
+    background: var(--teal-soft);
+    color: var(--teal);
+    font-weight: 700;
 }
 
 .facet-group + .facet-group {
@@ -1118,6 +1146,47 @@ code {
     color: var(--ink-soft);
 }
 
+.scholar-list {
+    display: grid;
+    gap: 10px;
+}
+
+.scholar-card {
+    display: grid;
+    gap: 6px;
+    width: 100%;
+    padding: 14px 16px;
+    border: 1px solid rgba(24, 48, 67, 0.08);
+    border-radius: 16px;
+    background: var(--surface-card);
+    color: var(--ink);
+    text-align: left;
+    cursor: pointer;
+}
+
+.scholar-card.active {
+    border-color: rgba(15, 118, 110, 0.32);
+    background: var(--teal-soft);
+}
+
+.scholar-name {
+    color: var(--ink-strong);
+    font-weight: 700;
+}
+
+.scholar-meta,
+.scholar-journals {
+    color: var(--ink-soft);
+    font-size: 0.9rem;
+    line-height: 1.55;
+}
+
+.scholar-articles-section {
+    margin-top: 26px;
+    padding-top: 20px;
+    border-top: 1px solid var(--line);
+}
+
 .modal.hidden {
     display: none;
 }
@@ -1242,7 +1311,7 @@ code {
 }
 
 .favorites-dialog {
-    width: min(980px, calc(100vw - 24px));
+    width: min(1120px, calc(100vw - 24px));
 }
 
 .favorites-toolbar {
@@ -1273,6 +1342,72 @@ code {
     flex-direction: column;
     gap: 14px;
     margin-top: 18px;
+}
+
+.favorites-manager {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: 280px minmax(0, 1fr);
+    margin-top: 18px;
+}
+
+.favorites-folders {
+    padding: 14px;
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    background: var(--surface-soft);
+}
+
+.folder-tools {
+    display: grid;
+    gap: 10px;
+}
+
+.folder-action-row {
+    display: flex;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.folder-tree {
+    display: grid;
+    gap: 6px;
+    margin-top: 14px;
+}
+
+.folder-node {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    width: 100%;
+    padding: 9px 10px 9px calc(10px + var(--folder-depth, 0) * 16px);
+    border: 1px solid transparent;
+    border-radius: 12px;
+    background: var(--surface-card);
+    color: var(--ink);
+    text-align: left;
+    cursor: pointer;
+}
+
+.folder-node.active {
+    border-color: rgba(15, 118, 110, 0.32);
+    background: var(--teal-soft);
+    color: var(--teal);
+}
+
+.folder-node strong {
+    color: inherit;
+    font-size: 0.86rem;
+}
+
+.folder-tree-divider {
+    height: 1px;
+    margin: 4px 0;
+    background: var(--line);
+}
+
+.favorites-items {
+    min-width: 0;
 }
 
 .favorite-card {
@@ -1310,9 +1445,28 @@ code {
     margin-top: 14px;
 }
 
+.favorite-move-row {
+    display: grid;
+    gap: 8px;
+    grid-template-columns: minmax(140px, 1fr) auto;
+    align-items: end;
+    margin-top: 12px;
+}
+
+.favorite-move-row .field-label {
+    grid-column: 1 / -1;
+    margin-bottom: 0;
+}
+
+.file-btn {
+    display: inline-flex;
+    align-items: center;
+}
+
 @media (max-width: 1040px) {
     .search-layout,
-    .browse-layout {
+    .browse-layout,
+    .favorites-manager {
         grid-template-columns: 1fr;
     }
 
@@ -1351,7 +1505,8 @@ code {
     .search-input-wrap,
     .field-grid,
     .discipline-grid,
-    .dashboard-grid {
+    .dashboard-grid,
+    .favorite-move-row {
         grid-template-columns: 1fr;
     }
 
@@ -1372,7 +1527,9 @@ code {
     .toolbar-controls,
     .pagination-controls,
     .utility-actions,
-    .favorites-toolbar-actions {
+    .favorites-toolbar-actions,
+    .folder-action-row,
+    .favorite-move-row {
         width: 100%;
     }
 

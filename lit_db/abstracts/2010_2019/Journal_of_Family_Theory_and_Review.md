@@ -1,14 +1,9 @@
 # Journal of Family Theory & Review
 ## 2010–2019 年文章（含摘要）
 
-共 **465** 篇
+共 **411** 篇
 
 ---
-
-### Toward Theoretical and Methodological Innovations in the Evidence Base for Family Policy: A Commentary
-**年份**: 2019 | **DOI**: [10.1111/jftr.12313](https://doi.org/10.1111/jftr.12313)
-**作者**: Lerner, Richard M.; Chase, Paul A.
-**摘要**: Ooms () points to the importance of having a conceptual framework that would enable family policy scholars to resolve past tensions in the field and create an opportunity to advance research and its applications.…
 
 ### Circumplex Model of Marital and Family Systems: An Update
 **年份**: 2019 | **DOI**: [10.1111/jftr.12331](https://doi.org/10.1111/jftr.12331)
@@ -30,16 +25,6 @@
 **作者**: Ooms, Theodora
 **摘要**: Over the past 50 years, the new field of family policy has built a substantial knowledge base, developed a robust theoretical and analytic framework, and created strong individual and organizational leadership.…
 
-### Guest Editors' Introduction: Fast‐Forward to the Next Frontier of Family Policy
-**年份**: 2019 | **DOI**: [10.1111/jftr.12322](https://doi.org/10.1111/jftr.12322)
-**作者**: Bogenschneider, Karen; Wadsworth, Shelley MacDermid
-**摘要**: （暂无）
-
-### Commentary
-**年份**: 2019 | **DOI**: [10.1111/jftr.12318](https://doi.org/10.1111/jftr.12318)
-**作者**: Kenley, Luke
-**摘要**: （暂无）
-
 ### Supporting Children's Early Development by Building Caregivers' Capacities and Skills: A Theoretical Approach Informed by New Neuroscience Research
 **年份**: 2019 | **DOI**: [10.1111/jftr.12319](https://doi.org/10.1111/jftr.12319)
 **作者**: Magnuson, Katherine; Schindler, Holly
@@ -49,11 +34,6 @@
 **年份**: 2019 | **DOI**: [10.1111/jftr.12341](https://doi.org/10.1111/jftr.12341)
 **作者**: Cheung, Kristene; Theule, Jennifer; Hiebert‐Murphy, Diane 等4人
 **摘要**: Paternal depression is typically negatively associated with marital quality; however, the magnitude of the relationship varies across studies. The objectives of this study were to clarify the strength of the association and explore whether study‐specific factors moderate the strength of the relation…
-
-### Introduction to Special Issue on Social Justice in Family Science: An Exploration of Race and Racism
-**年份**: 2019 | **DOI**: [10.1111/jftr.12346](https://doi.org/10.1111/jftr.12346)
-**作者**: James, Anthony G.; McGeorge, Christi R.
-**摘要**: （暂无）
 
 ### Theorizing Family Change: A Review and Reconceptualization
 **年份**: 2019 | **DOI**: [10.1111/jftr.12329](https://doi.org/10.1111/jftr.12329)
@@ -80,10 +60,6 @@
 **作者**: Sánchez, Ricardo O.; Letiecq, Bethany L.; Ginsberg, Mark R.
 **摘要**: In this article, we theorize a new conceptual framework of family strengths and resilience emerging at the intersection of indigenous and Western approaches to family systems. Our work acknowledges that there are universal tenets pertaining to family and family relations within many cultural paradig…
 
-### Issue Information
-**年份**: 2019 | **DOI**: [10.1111/jftr.12287](https://doi.org/10.1111/jftr.12287)
-**摘要**: （暂无）
-
 ### Theory Illuminating Practice: One Researcher's Journey Through the Strange New World of Policy Change
 **年份**: 2019 | **DOI**: [10.1111/jftr.12307](https://doi.org/10.1111/jftr.12307)
 **作者**: Hawkins, Alan J.
@@ -104,11 +80,6 @@
 **作者**: Bortz, Patrick; Berrigan, Miranda; VanBergen, Alexandra 等4人
 **摘要**: There is both the necessity and the capacity for unification across the discipline of family science. This article offers another step toward a comprehensive, integrated body of theory and research shared across our discipline.…
 
-### A Policy Paradox: Response to Theodora Ooms
-**年份**: 2019 | **DOI**: [10.1111/jftr.12311](https://doi.org/10.1111/jftr.12311)
-**作者**: Strach, Patricia
-**摘要**: It's hard to look at the 2018 family separation policies of the U.S. federal government (and ensuing uproar) at the border with Mexico and not think that family policy should play a key role in American politics. But it doesn't.…
-
 ### Stress Spillover and Crossover in Couple Relationships: Integrating Religious Beliefs and Prayer
 **年份**: 2019 | **DOI**: [10.1111/jftr.12330](https://doi.org/10.1111/jftr.12330)
 **作者**: Cooper, Ashley N.; May, Ross W.; Fincham, Frank D.
@@ -124,11 +95,6 @@
 **作者**: Compton, Josh; Craig, Elizabeth A.
 **摘要**: Inoculation theory offers a robust way to combat substance abuse among children. The theory can guide a messaging strategy that prepares for challenges before they are fully experienced.…
 
-### Commentary
-**年份**: 2019 | **DOI**: [10.1111/jftr.12312](https://doi.org/10.1111/jftr.12312)
-**作者**: Olsen (Republican), Senator Luther
-**摘要**: （暂无）
-
 ### Impacts of the Model Minority Myth on Asian American Individuals and Families: Social Justice and Critical Race Feminist Perspectives
 **年份**: 2019 | **DOI**: [10.1111/jftr.12342](https://doi.org/10.1111/jftr.12342)
 **作者**: Shih, Kristy Y.; Chang, Tzu‐Fen; Chen, Szu‐Yu
@@ -142,10 +108,6 @@
 ### The Color of Money: Black Banks and the Racial Wealth Gap
 **年份**: 2019 | **DOI**: [10.1111/jftr.12327](https://doi.org/10.1111/jftr.12327)
 **作者**: James, Anthony G.
-**摘要**: （暂无）
-
-### Issue Information
-**年份**: 2019 | **DOI**: [10.1111/jftr.12289](https://doi.org/10.1111/jftr.12289)
 **摘要**: （暂无）
 
 ### Taking Care of Mine: Can Child Support Become a Family‐Building Institution?
@@ -188,23 +150,10 @@
 **作者**: Marchand, Aixa D.; Vassar, Rema Reynolds; Diemer, Matthew A. 等4人
 **摘要**: Although decades of research document the positive benefits of parent involvement in schools, Black parents are not always welcomed in schooling spaces. Black parents have sometimes been perceived as uncaring about their children's education, and often racism has precluded their full inclusion and m…
 
-### Issue Information
-**年份**: 2019 | **DOI**: [10.1111/jftr.12288](https://doi.org/10.1111/jftr.12288)
-**摘要**: （暂无）
-
-### Commentary
-**年份**: 2019 | **DOI**: [10.1111/jftr.12314](https://doi.org/10.1111/jftr.12314)
-**作者**: Miller (Democrat), Senator Mark
-**摘要**: （暂无）
-
 ### Expanding Our Focus From Father Involvement to Father–Child Relationship Quality
 **年份**: 2019 | **DOI**: [10.1111/jftr.12352](https://doi.org/10.1111/jftr.12352)
 **作者**: Palkovitz, Rob
 **摘要**: Most of the many existing ways to conceive and measure paternal relationships incorporate ways to gauge father involvement. Although father involvement is a well‐established, important component of studying fathering relationships, it offers a circumscribed understanding of key characteristics of fa…
-
-### Issue Information
-**年份**: 2019 | **DOI**: [10.1111/jftr.12286](https://doi.org/10.1111/jftr.12286)
-**摘要**: （暂无）
 
 ### Family Policy: Rooted in Inequities, Striving for Social Justice
 **年份**: 2019 | **DOI**: [10.1111/jftr.12320](https://doi.org/10.1111/jftr.12320)
@@ -306,11 +255,6 @@
 **作者**: Lee, Eunjin; Roberts, Linda J.
 **摘要**: AbstractAlthough adjusting to health‐related stress is a critical process, existing individual and family stress and coping theories are inadequate for understanding the processes that occur in the context of a couple coping with health‐related stress.…
 
-### Introduction to the Special Issue
-**年份**: 2018 | **DOI**: [10.1111/jftr.12266](https://doi.org/10.1111/jftr.12266)
-**作者**: Buehler, Cheryl; Few‐Demo, April L.
-**摘要**: （暂无）
-
 ### Toward a Better Understanding of African American Families: Development of the Sociocultural Family Stress Model
 **年份**: 2018 | **DOI**: [10.1111/jftr.12260](https://doi.org/10.1111/jftr.12260)
 **作者**: McNeil Smith, Shardé; Landor, Antoinette M.
@@ -326,10 +270,6 @@
 **作者**: Sullivan, Oriel; Gershuny, Jonathan; Robinson, John P.
 **摘要**: AbstractRecently much attention has been focused on whether the gender transformation of paid and unpaid work in society referred to as the gender revolution has hit a wall, or at least stalled.…
 
-### Issue Information
-**年份**: 2018 | **DOI**: [10.1111/jftr.12211](https://doi.org/10.1111/jftr.12211)
-**摘要**: （暂无）
-
 ### Family Theories: Foundations and Applications
 **年份**: 2018 | **DOI**: [10.1111/jftr.12282](https://doi.org/10.1111/jftr.12282)
 **作者**: Haselschwerdt, Megan L.
@@ -339,11 +279,6 @@
 **年份**: 2018 | **DOI**: [10.1111/jftr.12302](https://doi.org/10.1111/jftr.12302)
 **作者**: Goodman, W. Benjamin; O'Donnell, Karen; Murphy, Robert A. 等4人
 **摘要**: Families have clearly benefited from increased availability of evidence‐based intervention, including home‐visiting models and increased federal funding for programs benefiting parents and children.…
-
-### Introduction to the Special Issue: Theorizing Families
-**年份**: 2018 | **DOI**: [10.1111/jftr.12250](https://doi.org/10.1111/jftr.12250)
-**作者**: Blume, Libby Balter; Fine, Mark A.; Milardo, Robert M.
-**摘要**: （暂无）
 
 ### Evidence Required to Know Whether Marriage Promotion Increases Other Social Benefits
 **年份**: 2018 | **DOI**: [10.1111/jftr.12297](https://doi.org/10.1111/jftr.12297)
@@ -368,10 +303,6 @@
 ### Son of a Trickster
 **年份**: 2018 | **DOI**: [10.1111/jftr.12270](https://doi.org/10.1111/jftr.12270)
 **作者**: Rose, Hilary A.
-**摘要**: （暂无）
-
-### Issue Information
-**年份**: 2018 | **DOI**: [10.1111/jftr.12213](https://doi.org/10.1111/jftr.12213)
 **摘要**: （暂无）
 
 ### Research on Fathers in the Military Context: Current Status and Future Directions
@@ -449,10 +380,6 @@
 **作者**: Wong, Jaclyn S.
 **摘要**: AbstractEntering a cohabiting union, getting married, and/or having children are all considered defining features of the transition to adulthood. Life course research has shown that contemporary youth are taking longer to achieve these traditional milestones and are showing increased variability in …
 
-### Issue Information
-**年份**: 2018 | **DOI**: [10.1111/jftr.12210](https://doi.org/10.1111/jftr.12210)
-**摘要**: （暂无）
-
 ### Politics of Respectability, Colorism, and the Terms of Social Exchange in Family Research
 **年份**: 2018 | **DOI**: [10.1111/jftr.12264](https://doi.org/10.1111/jftr.12264)
 **作者**: Landor, Antoinette; Barr, Ashley
@@ -498,11 +425,6 @@
 **作者**: Gilligan, Megan; Karraker, Amelia; Jasper, Angelica
 **摘要**: Growing social and economic inequalities in the United States have been accompanied by shifts in family structure. Social and demographic changes may make multigenerational family ties (e.g., between grandparents, parents, and children) an even more important contributor than ever in perpetuating in…
 
-### Family Matters: An Introduction to Family Sociology in Canada
-**年份**: 2018 | **DOI**: [10.1111/jftr.12293](https://doi.org/10.1111/jftr.12293)
-**作者**: Porter, Elaine
-**摘要**: （暂无）
-
 ### Queering Families: The Postmodern Partnerships of Cisgender Women and Transgender Men
 **年份**: 2018 | **DOI**: [10.1111/jftr.12277](https://doi.org/10.1111/jftr.12277)
 **作者**: Platt, Lisa F.
@@ -517,10 +439,6 @@
 **年份**: 2018 | **DOI**: [10.1111/jftr.12238](https://doi.org/10.1111/jftr.12238)
 **作者**: Galovan, Adam M.; Schramm, David G.
 **摘要**: AbstractFamily scholars and practitioners rely on theories of relationships to guide our understanding and promotion of healthy intimate relationships; however, assumptions about the self are often implicit and unquestioned.…
-
-### Issue Information
-**年份**: 2018 | **DOI**: [10.1111/jftr.12212](https://doi.org/10.1111/jftr.12212)
-**摘要**: （暂无）
 
 ### Mission Impossible? New Housework Theories for Changing Families
 **年份**: 2018 | **DOI**: [10.1111/jftr.12245](https://doi.org/10.1111/jftr.12245)
@@ -591,10 +509,6 @@
 **作者**: Ogolsky, Brian G.; Monk, J. Kale; Rice, TeKisha M. 等5人
 **摘要**: AbstractRelationship maintenance encompasses a broad array of activities that partners may use to preserve their romantic partnerships. For this article, we systematically review the vast literature (N = 1,149 articles) on relationship maintenance in romantic relationships.…
 
-### Issue Information
-**年份**: 2017 | **DOI**: [10.1111/jftr.12163](https://doi.org/10.1111/jftr.12163)
-**摘要**: （暂无）
-
 ### Theorizing the Decision‐Making Process for Divorce or Reconciliation
 **年份**: 2017 | **DOI**: [10.1111/jftr.12176](https://doi.org/10.1111/jftr.12176)
 **作者**: Allen, Sarah; Hawkins, Alan J.
@@ -608,14 +522,6 @@
 ### Couple Relationships in the 21st Century
 **年份**: 2017 | **DOI**: [10.1111/jftr.12185](https://doi.org/10.1111/jftr.12185)
 **作者**: Allen, Katherine R.
-**摘要**: （暂无）
-
-### Issue Information
-**年份**: 2017 | **DOI**: [10.1111/jftr.12164](https://doi.org/10.1111/jftr.12164)
-**摘要**: （暂无）
-
-### Issue Information
-**年份**: 2017 | **DOI**: [10.1111/jftr.12161](https://doi.org/10.1111/jftr.12161)
 **摘要**: （暂无）
 
 ### Family Estrangement: A Matter of Perspective
@@ -663,11 +569,6 @@
 **作者**: Lieway, Miriam; Sharp, Elizabeth; Gambrell, Kimberly 等6人
 **摘要**: （暂无）
 
-### Meaning of Work and Family Across Interacting Contexts and Into the Future: A Commentary on Perry‐Jenkins and MacDermid Wadsworth
-**年份**: 2017 | **DOI**: [10.1111/jftr.12191](https://doi.org/10.1111/jftr.12191)
-**作者**: Zvonkovic, Anisa M.
-**摘要**: （暂无）
-
 ### A Systematic Review of Meta‐Analyses of Research on Interpersonal Acceptance–rejection Theory: Constructs and Measures
 **年份**: 2017 | **DOI**: [10.1111/jftr.12228](https://doi.org/10.1111/jftr.12228)
 **作者**: Khaleque, Abdul; Ali, Sumbleen
@@ -707,11 +608,6 @@
 **年份**: 2017 | **DOI**: [10.1111/jftr.12182](https://doi.org/10.1111/jftr.12182)
 **作者**: Gottman, John; Gottman, Julie
 **摘要**: AbstractIn this Original Voices article we summarize the past four and a half decades of our work on relationship stability and happiness and explore the theoretical implications of that empirical research.…
-
-### Introduction to the Special Collection
-**年份**: 2017 | **DOI**: [10.1111/jftr.12214](https://doi.org/10.1111/jftr.12214)
-**作者**: Rohner, Ronald P.; Buehler, Cheryl
-**摘要**: （暂无）
 
 ### A Personal Social History of a Typology of Intimate Partner Violence
 **年份**: 2017 | **DOI**: [10.1111/jftr.12187](https://doi.org/10.1111/jftr.12187)
@@ -753,35 +649,10 @@
 **作者**: Hoff, Chris; Distelberg, Brian
 **摘要**: As new practice domains open up for practitioners of family therapy in the medical, organizational, and human relations fields, family therapy educators and supervisors are required to cross the epistemological spaces of scientist‐practitioner, postmodernism, and critical theory.…
 
-### “The Natural Principles of Love”: Commentary From the Trainer's Perspective
-**年份**: 2017 | **DOI**: [10.1111/jftr.12184](https://doi.org/10.1111/jftr.12184)
-**作者**: Meunier, Vagdevi; Bumberry, William
-**摘要**: （暂无）
-
-### Introduction to the Film Review Symposium
-**年份**: 2017 | **DOI**: [10.1111/jftr.12229](https://doi.org/10.1111/jftr.12229)
-**作者**: Humble, Áine M.
-**摘要**: （暂无）
-
-### A Clinical Response to “The Natural Principles of Love”
-**年份**: 2017 | **DOI**: [10.1111/jftr.12178](https://doi.org/10.1111/jftr.12178)
-**作者**: Cole, Carrie
-**摘要**: （暂无）
-
 ### Work and Family Research and Theory: Review and Analysis From an Ecological Perspective
 **年份**: 2017 | **DOI**: [10.1111/jftr.12188](https://doi.org/10.1111/jftr.12188)
 **作者**: Perry‐Jenkins, Maureen; Wadsworth, Shelley MacDermid
 **摘要**: AbstractThis invited review examines major trends and developments in the work and family field from an ecological perspective. We examine how research has developed over the past several decades with attention to the ways in which dominant theories and empirical findings, couched in specific histor…
-
-### Deep Structure of the Human Affectional System: Introduction to Interpersonal Acceptance–Rejection Theory
-**年份**: 2017 | **DOI**: [10.1111/jftr.12219](https://doi.org/10.1111/jftr.12219)
-**作者**: Rohner, Ronald P.; Lansford, Jennifer E.
-**摘要**: AbstractInterpersonal acceptance–rejection theory (IPARTheory) proposes that across cultures and other sociodemographic groups, interpersonal acceptance and rejection consistently predict the psychological and behavioral adjustment of children and adults (Rohner, 1986, 2004).…
-
-### Advancing a Sociology‐of‐Knowledge Framework for the Study of Work–Family Scholarship: A Response to Perry‐Jenkins andMacDermidWadsworth
-**年份**: 2017 | **DOI**: [10.1111/jftr.12199](https://doi.org/10.1111/jftr.12199)
-**作者**: Sweet, Stephen
-**摘要**: （暂无）
 
 ### Capturing Complexities in Work and Family Theory and Research
 **年份**: 2017 | **DOI**: [10.1111/jftr.12190](https://doi.org/10.1111/jftr.12190)
@@ -792,11 +663,6 @@
 **年份**: 2017 | **DOI**: [10.1111/jftr.12206](https://doi.org/10.1111/jftr.12206)
 **作者**: Zaloudek, Julie A.; Ruder‐Vásconez, Chris; Doll, Kevin C.
 **摘要**: AbstractThe purpose of this article is to critically examine the emerging discourse of religion and spirituality in family research to clarify how each construct is defined and to make visible hidden ontological, epistemological, and culturally situated assumptions.…
-
-### From the Book Review Editor: Reviewing Fiction
-**年份**: 2017 | **DOI**: [10.1111/jftr.12189](https://doi.org/10.1111/jftr.12189)
-**作者**: Humble, Áine M.
-**摘要**: （暂无）
 
 ### Understanding Parent Reactions to Coming Out as Lesbian, Gay, or Bisexual: A Theoretical Framework
 **年份**: 2017 | **DOI**: [10.1111/jftr.12194](https://doi.org/10.1111/jftr.12194)
@@ -817,10 +683,6 @@
 **年份**: 2017 | **DOI**: [10.1111/jftr.12193](https://doi.org/10.1111/jftr.12193)
 **作者**: Cypress, Brigitte S.; Frederickson, Keville
 **摘要**: AbstractFew findings from qualitative studies about family presence in intensive care units (ICU) and emergency departments (ED) have been synthesized, despite a renewed appreciation and interest in incorporating qualitative studies in systematic reviews of evidence‐based practice.…
-
-### Issue Information
-**年份**: 2017 | **DOI**: [10.1111/jftr.12162](https://doi.org/10.1111/jftr.12162)
-**摘要**: （暂无）
 
 ### The Color of Love: Racial Features, Stigma and Socialization of Black Brazilian Families
 **年份**: 2017 | **DOI**: [10.1111/jftr.12186](https://doi.org/10.1111/jftr.12186)
@@ -974,15 +836,6 @@
 **作者**: Tudge, Jonathan R. H.; Payir, Ayse; Merçon‐Vargas, Elisa 等7人
 **摘要**: A theoretical review published in 2009 revealed that scholars who stated that their research was based on Urie Bronfenbrenner's bioecological theory of human development rarely used it appropriately.…
 
-### Family Theories: An Introduction
-**年份**: 2016 | **DOI**: [10.1111/jftr.12172](https://doi.org/10.1111/jftr.12172)
-**作者**: Settles, Barbara H.
-**摘要**: （暂无）
-
-### Issue Information ‐ Editorial Board
-**年份**: 2016 | **DOI**: [10.1111/jftr.12102](https://doi.org/10.1111/jftr.12102)
-**摘要**: （暂无）
-
 ### Enfants de Couples Mixtes: Liens Sociaux et Identités [Mixed Couples' Children: Social Links and Identities]
 **年份**: 2016 | **DOI**: [10.1111/jftr.12156](https://doi.org/10.1111/jftr.12156)
 **作者**: Varro, Gabrielle
@@ -998,11 +851,6 @@
 **作者**: Schadler, Cornelia
 **摘要**: （暂无）
 
-### Theorizing LGBT‐Parent Families: An Introduction to the Special Collection
-**年份**: 2016 | **DOI**: [10.1111/jftr.12128](https://doi.org/10.1111/jftr.12128)
-**作者**: Oswald, Ramona Faith
-**摘要**: （暂无）
-
 ### “It Has to be Perfect!”: The Development of Perfectionism and the Family System
 **年份**: 2016 | **DOI**: [10.1111/jftr.12140](https://doi.org/10.1111/jftr.12140)
 **作者**: Rasmussen, Katie E.; Troilo, Jessica
@@ -1016,11 +864,6 @@
 ### Issue Information ‐ Business info for Readers
 **年份**: 2016 | **DOI**: [10.1111/jftr.12107](https://doi.org/10.1111/jftr.12107)
 **摘要**: （暂无）
-
-### Resilience in the Context of Ambiguous Loss: A Commentary
-**年份**: 2016 | **DOI**: [10.1111/jftr.12154](https://doi.org/10.1111/jftr.12154)
-**作者**: Masten, Ann S.
-**摘要**: AbstractThis commentary compares the concept of resilience as conceptualized and studied in ambiguous loss and in the broader domain of developmental resilience science. The discussion highlights common roots, similarities and differences in the definitions of resilience and protective processes, an…
 
 ### Issue Information ‐ Instructions for Authors
 **年份**: 2016 | **DOI**: [10.1111/jftr.12100](https://doi.org/10.1111/jftr.12100)
@@ -1088,11 +931,6 @@
 **年份**: 2016 | **DOI**: [10.1111/jftr.12104](https://doi.org/10.1111/jftr.12104)
 **摘要**: （暂无）
 
-### From the Book Review Editor
-**年份**: 2016 | **DOI**: [10.1111/jftr.12134](https://doi.org/10.1111/jftr.12134)
-**作者**: LeRoux, Tessa
-**摘要**: （暂无）
-
 ### Doing Families: Gay and Lesbian Family Practices
 **年份**: 2016 | **DOI**: [10.1111/jftr.12130](https://doi.org/10.1111/jftr.12130)
 **作者**: Berkowitz, Dana
@@ -1131,14 +969,6 @@
 **作者**: Goodsell, Todd L.; Whiting, Jason B.
 **摘要**: Our purpose is to apply Aristotelian theory to family studies. We introduce Aristotle's work through his debate with Plato over the meaning of family and its role in society. We then explain key concepts in Aristotelian theory, including virtue, practical wisdom, telos, interpretation and evaluation…
 
-### Issue Information – Editorial Board
-**年份**: 2016 | **DOI**: [10.1111/jftr.12094](https://doi.org/10.1111/jftr.12094)
-**摘要**: （暂无）
-
-### Issue Information ‐ Editorial Board
-**年份**: 2016 | **DOI**: [10.1111/jftr.12098](https://doi.org/10.1111/jftr.12098)
-**摘要**: （暂无）
-
 ### Issue Information ‐ Table of Contents
 **年份**: 2016 | **DOI**: [10.1111/jftr.12101](https://doi.org/10.1111/jftr.12101)
 **摘要**: （暂无）
@@ -1146,10 +976,6 @@
 ### The Future of Marriage
 **年份**: 2016 | **DOI**: [10.1111/jftr.12137](https://doi.org/10.1111/jftr.12137)
 **作者**: Jaramillo-Sierra, Ana L.
-**摘要**: （暂无）
-
-### Issue Information ‐ Editorial Board
-**年份**: 2016 | **DOI**: [10.1111/jftr.12106](https://doi.org/10.1111/jftr.12106)
 **摘要**: （暂无）
 
 ### Theorizing Family‐Based Nature Activities and Family Functioning: The Integration of Attention Restoration Theory With a Family Routines and Rituals Perspective
@@ -1297,29 +1123,14 @@
 **作者**: Bell, David C.; Cox, Mary L.
 **摘要**: Social norms are often cited as the cause of many social phenomena, especially as an explanation for prosocial family and relationship behaviors. And yet maybe we love the idea of social norms too much, as suggested by our failure to subject them to rigorous test.…
 
-### Reflections on the Evolution of Theory in Developmental Science: A Commentary on Lerner, Johnson, and Buckingham
-**年份**: 2015 | **DOI**: [10.1111/jftr.12078](https://doi.org/10.1111/jftr.12078)
-**作者**: Lamb, Michael E.
-**摘要**: （暂无）
-
 ### Emerging Adulthood in Time and Space: The Geographic Context of Homelessness
 **年份**: 2015 | **DOI**: [10.1111/jftr.12076](https://doi.org/10.1111/jftr.12076)
 **作者**: Williams, Amanda; Sheehan, Rebecca A.
 **摘要**: Limited research addresses the development of emerging adults who are homeless, and studies rarely explore their immediate and intertwined experiences of geography, social networks, and daily paths.…
 
-### Qualitative Family Scholarship: Innovative Theories in the Interpretive Tradition—Introduction to the Special Issue
-**年份**: 2015 | **DOI**: [10.1111/jftr.12086](https://doi.org/10.1111/jftr.12086)
-**作者**: Goodsell, Todd L.; Zvonkovic, Anisa M.
-**摘要**: （暂无）
-
 ### Effects of Parental Incarceration on Children: Cross‐National Comparative Studies
 **年份**: 2015 | **DOI**: [10.1111/jftr.12111](https://doi.org/10.1111/jftr.12111)
 **作者**: Dallaire, Danielle
-**摘要**: （暂无）
-
-### Introduction to the Special Issue: Metatheory and Metamethod
-**年份**: 2015 | **DOI**: [10.1111/jftr.12110](https://doi.org/10.1111/jftr.12110)
-**作者**: Buehler, Cheryl; Blume, Libby Balter
 **摘要**: （暂无）
 
 ### In Pursuit of Feminist Accountability: Disempowering “Feelings of Fraudulence” Through Praxis and Resistance
@@ -1506,11 +1317,6 @@
 **作者**: Blume, Libby Balter
 **摘要**: （暂无）
 
-### Theorizing About Fathering: An Introduction to the Special Issue
-**年份**: 2014 | **DOI**: [10.1111/jftr.12053](https://doi.org/10.1111/jftr.12053)
-**作者**: Adamsons, Kari; Palkovitz, Rob
-**摘要**: （暂无）
-
 ### Exploring Revenge as a Feature of Family Life
 **年份**: 2014 | **DOI**: [10.1111/jftr.12041](https://doi.org/10.1111/jftr.12041)
 **作者**: Yoshimura, Stephen M.; Boon, Susan D.
@@ -1641,11 +1447,6 @@
 **作者**: Davis, Shannon N.; Greenstein, Theodore N.
 **摘要**: Given the volume of research on the division of household labor, this article queries the purpose of continuing to study a phenomenon when the empirical results are remarkably consistent.…
 
-### A Stress Model for Couples Parenting Children With Autism Spectrum Disorders and the Introduction of a Mindfulness Intervention
-**年份**: 2013 | **DOI**: [10.1111/jftr.12015](https://doi.org/10.1111/jftr.12015)
-**作者**: Bluth, Karen; Roberson, Patricia N. E.; Billen, Rhett M. 等4人
-**摘要**: Parents of children with autism spectrum disorders (ASD) are at an increased risk for acute and chronic stress compared to parents of children with other developmental disabilities and parents of children without disabilities.…
-
 ### Rethinking Maternal Gatekeeping
 **年份**: 2013 | **DOI**: [10.1111/jftr.12016](https://doi.org/10.1111/jftr.12016)
 **作者**: Puhlman, Daniel J.; Pasley, Kay
@@ -1736,11 +1537,6 @@
 **作者**: Mikulincer, Mario; Shaver, Phillip R.
 **摘要**: In the present article we provide an overview of attachment theory as it has been adapted and tested in our research program. We then review attachment research by many investigators on a variety of topics likely to be of interest to family researchers: patterns of communication, management of confl…
 
-### Attachment Processes in Relationships: Reply to Commentaries
-**年份**: 2012 | **DOI**: [10.1111/j.1756-2589.2012.00140.x](https://doi.org/10.1111/j.1756-2589.2012.00140.x)
-**作者**: Shaver, Phillip R.; Mikulincer, Mario
-**摘要**: （暂无）
-
 ### Parental Involvement, Pressure, and Support in Youth Sport: A Narrative Literature Review
 **年份**: 2012 | **DOI**: [10.1111/j.1756-2589.2012.00129.x](https://doi.org/10.1111/j.1756-2589.2012.00129.x)
 **作者**: Lindstrom Bremer, Karin
@@ -1791,11 +1587,6 @@
 **作者**: Arditti, Joyce A.
 **摘要**: Informed by theory and the available empirical research, 3 family processes are identified that contribute to child trauma within the context of a parent's imprisonment: (a) preincarceration factors, including the involvement of the offender parent and children's exposure to arrest; (b) caregiving q…
 
-### Introduction to the Special Issue: Qualitative Methodology, Theory, and Research in Family Studies
-**年份**: 2012 | **DOI**: [10.1111/j.1756-2589.2012.00121.x](https://doi.org/10.1111/j.1756-2589.2012.00121.x)
-**作者**: Zvonkovic, Anisa; Sharp, Elizabeth; Elise Radina, M.
-**摘要**: （暂无）
-
 ### The Role of Privacy in Families Created Through Assisted Reproductive Technology: Examining Existing Literature Using Communication Privacy Management Theory
 **年份**: 2012 | **DOI**: [10.1111/j.1756-2589.2012.00132.x](https://doi.org/10.1111/j.1756-2589.2012.00132.x)
 **作者**: Rauscher, Emily A.; Fine, Mark A.
@@ -1826,11 +1617,6 @@
 **作者**: Simpson, Jeffry A.; Howland, Maryhope
 **摘要**: In this commentary, we discuss the significant role that relationship partners assume in the everyday lives of individuals. As Shaver and Mikulincer's excellent review indicates, the partner seems to be missing from large sections of attachment theory and research.…
 
-### Widening the Lens on the Discussion of Race and Marriage: Introduction to Reviews of Is Marriage for White People? ‐ by Ralph Richard Banks
-**年份**: 2012 | **DOI**: [10.1111/j.1756-2589.2012.00143.x](https://doi.org/10.1111/j.1756-2589.2012.00143.x)
-**作者**: Fortner, Melissa
-**摘要**: （暂无）
-
 ### What's Goin’ On? Sex and Romance in Emerging Adulthood
 **年份**: 2012 | **DOI**: [10.1111/j.1756-2589.2012.00122.x](https://doi.org/10.1111/j.1756-2589.2012.00122.x)
 **作者**: Tanner, Jennifer Lynn
@@ -1845,11 +1631,6 @@
 **年份**: 2012 | **DOI**: [10.1111/j.1756-2589.2012.00139.x](https://doi.org/10.1111/j.1756-2589.2012.00139.x)
 **作者**: Hardesty, Jennifer L.; Raffaelli, Marcela; Khaw, Lyndal 等6人
 **摘要**: The quality of coparenting relationships after separation is known to affect mothers' and children's physical and mental health. It is well established that conflict is a common phenomenon among separating parents; however, studies rarely distinguish between relationships characterized by violence a…
-
-### The Persistence of Gendered Kin Work in Maintaining Family Ties A Review Essay
-**年份**: 2012 | **DOI**: [10.1111/j.1756-2589.2012.00130.x](https://doi.org/10.1111/j.1756-2589.2012.00130.x)
-**作者**: McCann, Brandy Renee
-**摘要**: （暂无）
 
 ### The Marriage Paradox
 **年份**: 2012 | **DOI**: [10.1111/j.1756-2589.2012.00137.x](https://doi.org/10.1111/j.1756-2589.2012.00137.x)
@@ -1911,11 +1692,6 @@
 **作者**: England, Paula
 **摘要**: （暂无）
 
-### From the Book Review Editor: Book Bits
-**年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2010.00081.x](https://doi.org/10.1111/j.1756-2589.2010.00081.x)
-**作者**: Blume, Libby Balter
-**摘要**: （暂无）
-
 ### Du Bois's Dialectics: Black Radical Politics and the Reconstruction of Critical Social Theory
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00103.x](https://doi.org/10.1111/j.1756-2589.2011.00103.x)
 **作者**: Few-Demo, April
@@ -1936,11 +1712,6 @@
 **作者**: Knight, Kelly E.
 **摘要**: Why do individuals select romantic partners who use drugs, are criminals, or have mental health problems, a choice that eventually puts them and their children at increased risk for negative developmental outcomes?…
 
-### Review Essay: Directions in the Anthropology of Childhood
-**年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00088.x](https://doi.org/10.1111/j.1756-2589.2011.00088.x)
-**作者**: Meehan, Courtney L.
-**摘要**: （暂无）
-
 ### Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00097.x](https://doi.org/10.1111/j.1756-2589.2011.00097.x)
 **作者**: Walker, Susan K.
@@ -1949,11 +1720,6 @@
 ### Conceptions of Parenthood: Ethics and the Family
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2010.00084.x](https://doi.org/10.1111/j.1756-2589.2010.00084.x)
 **作者**: Albrecht, Gloria H.
-**摘要**: （暂无）
-
-### Review Essay: The Immortal Life of Henrietta Lacks
-**年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2010.00082.x](https://doi.org/10.1111/j.1756-2589.2010.00082.x)
-**作者**: Le Roux, Tessa
 **摘要**: （暂无）
 
 ### Families Communicating with Children
@@ -1994,11 +1760,6 @@
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00094.x](https://doi.org/10.1111/j.1756-2589.2011.00094.x)
 **作者**: Usdansky, Margaret L.
 **摘要**: Most women and men at the upper end of the social-class continuum express greater desire to share paid and unpaid labor equally, whereas less educated couples with less skilled occupations and less money tend to voice more enthusiasm for specialized gender roles.…
-
-### Gender Deviance Neutralization Through Housework: Where Does It Fit in the Bigger Picture? Response to England, Kluwer, and Risman
-**年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2010.00078.x](https://doi.org/10.1111/j.1756-2589.2010.00078.x)
-**作者**: Sullivan, Oriel
-**摘要**: （暂无）
 
 ### Author Index
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.auindex_1.x](https://doi.org/10.1111/j.1756-2589.2011.auindex_1.x)
@@ -2178,11 +1939,6 @@
 **作者**: Pahl, Ray; Spencer, Liz
 **摘要**: Models‐in‐the‐minds about the proper and right way to be a true friend or to “do” family behavior may not necessarily fit lived experience, especially in cases where relationships become fused and distinctions between family and friend become blurred.…
 
-### Review Essay: Caregiving: Families, Development, and Professionals
-**年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.00054.x](https://doi.org/10.1111/j.1756-2589.2010.00054.x)
-**作者**: Palkovitz, Rob
-**摘要**: （暂无）
-
 ### A Eudaimonic Theory of Marital Quality
 **年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.00065.x](https://doi.org/10.1111/j.1756-2589.2010.00065.x)
 **作者**: Fowers, Blaine J.; Owenz, Meghan B.
@@ -2217,11 +1973,6 @@
 **年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.00061.x](https://doi.org/10.1111/j.1756-2589.2010.00061.x)
 **作者**: Selcuk, Emre; Zayas, Vivian; Hazan, Cindy
 **摘要**: In this article, we investigate marital functioning from an attachment theory perspective. We review empirical evidence showing that, in nondistressed marriages, spouses, as attachment figures, provide each other with a subjective sense of felt security, regulate each other's affective and physiolog…
-
-### The Marriage of Positive Psychology and Relationship Science: A Reply to Fincham and Beach
-**年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.00037.x](https://doi.org/10.1111/j.1756-2589.2010.00037.x)
-**作者**: Maniaci, Michael R.; Reis, Harry T.
-**摘要**: （暂无）
 
 ### From the Editor: Auguries of Year Two
 **年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.00032.x](https://doi.org/10.1111/j.1756-2589.2010.00032.x)
@@ -2267,11 +2018,6 @@
 **年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.00059.x](https://doi.org/10.1111/j.1756-2589.2010.00059.x)
 **作者**: Fincham, Frank D.; Rogge, Ron
 **摘要**: Relationship quality is studied in a variety of disciplines, yet widely accepted practices promulgate a lack of conceptual clarity. We build on a conceptually simple and theoretically advantageous view of relationship quality and suggest a shift to conceptualizing it as two distinct yet related dime…
-
-### Reconceptualizing Gender: A Review Essay
-**年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.00041.x](https://doi.org/10.1111/j.1756-2589.2010.00041.x)
-**作者**: Baber, Kristine M.
-**摘要**: （暂无）
 
 ### Author Index
 **年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.auindex_1.x](https://doi.org/10.1111/j.1756-2589.2010.auindex_1.x)

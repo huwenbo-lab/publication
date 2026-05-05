@@ -1,7 +1,7 @@
 # Asian Population Studies
 ## 2020–2026 年文章（含摘要）
 
-共 **138** 篇
+共 **137** 篇
 
 ---
 
@@ -369,11 +369,6 @@
 **年份**: 2022 | **DOI**: [10.1080/17441730.2022.2156508](https://doi.org/10.1080/17441730.2022.2156508)
 **作者**: Arif, G. M.; Sadiq, Maqsood; Sathar, Zeba 等5人
 **摘要**: Pakistan is the seventh largest contributor to world urban growth and exhibits high levels of urbanization. The recent 2017 Population Census results show a slowing of urban growth. We question whether this apparent slowdown reflects lowering of the rate of natural increase and migration, or is the …
-
-### In memoriam
-**年份**: 2022 | **DOI**: [10.1080/17441730.2022.2127198](https://doi.org/10.1080/17441730.2022.2127198)
-**作者**: Dommaraju, Premchand; Yeung, Wei-Jun Jean; Teerawichitchainan, Bussarawan
-**摘要**: （暂无）
 
 ### Declining fertility in Taiwan: the deterring impact of housework imbalance
 **年份**: 2022 | **DOI**: [10.1080/17441730.2022.2035555](https://doi.org/10.1080/17441730.2022.2035555)

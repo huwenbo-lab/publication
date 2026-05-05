@@ -1,7 +1,7 @@
 # European Journal of Population
 ## 2000–2009 年文章（含摘要）
 
-共 **295** 篇
+共 **271** 篇
 
 ---
 
@@ -499,11 +499,6 @@
 **作者**: Mueller, Katja; Bradshaw, Michael J.
 **摘要**: （暂无）
 
-### Book Review
-**年份**: 2006 | **DOI**: [10.1007/s10680-005-5009-x](https://doi.org/10.1007/s10680-005-5009-x)
-**作者**: Mencarini, Letizia
-**摘要**: （暂无）
-
 ### Determinants of the living arrangements of older people in Europe Déterminants des modes de vie des personnes âgées en Europe
 **年份**: 2006 | **DOI**: [10.1007/s10680-006-9004-7](https://doi.org/10.1007/s10680-006-9004-7)
 **作者**: Gaymu, Joëlle; Delbès, Christiane; Springer, Sabine 等7人
@@ -512,11 +507,6 @@
 ### Remaining childless in affluent economies: a comparison of France, West Germany, Italy and Spain, 1994–2001 Rester sans enfant dans des sociétés d'abondances: une comparaison de la France, l'Allemagne de l'Ouest et l'Espagne, 19994–2001
 **年份**: 2006 | **DOI**: [10.1007/s10680-006-9000-y](https://doi.org/10.1007/s10680-006-9000-y)
 **作者**: González, María-José; Jurado-Guerrero, Teresa
-**摘要**: （暂无）
-
-### Book Review
-**年份**: 2006 | **DOI**: [10.1007/s10680-005-5011-3](https://doi.org/10.1007/s10680-005-5011-3)
-**作者**: Kohler, Hans Peter
 **摘要**: （暂无）
 
 ### Demographic change and the supply of potential family supporters in Britain, Finland and France in the period 1911–2050/Changements démographiques et disponibilité des soutiens familiaux en Grande-Bretagne, en Finlande et en France entre 1911 et 2050
@@ -534,19 +524,9 @@
 **作者**: Fassmann, Heinz
 **摘要**: （暂无）
 
-### Book Review
-**年份**: 2006 | **DOI**: [10.1007/s10680-005-5014-0](https://doi.org/10.1007/s10680-005-5014-0)
-**作者**: Rodgers, Joseph Lee
-**摘要**: （暂无）
-
 ### Timing, Sequencing, and Quantum of Life Course Events: A Machine Learning Approach
 **年份**: 2006 | **DOI**: [10.1007/s10680-005-5549-0](https://doi.org/10.1007/s10680-005-5549-0)
 **作者**: Billari, Francesco C.; Fürnkranz, Johannes; Prskawetz, Alexia
-**摘要**: （暂无）
-
-### Book Review
-**年份**: 2006 | **DOI**: [10.1007/s10680-005-0694-z](https://doi.org/10.1007/s10680-005-0694-z)
-**作者**: Bourbeau, Robert
 **摘要**: （暂无）
 
 ### Book Reviews: Tomas Frejka and Jean-Paul Sardon. Childbearing Trends and Prospects in Low-Fertility Countries. A Cohort Analysis. European Studies of Population, Vol. 13, Dordrecht, Boston, and London: Kluwer Academic Publishers, 2004, xvi+422 pp.
@@ -559,11 +539,6 @@
 **作者**: Rychtarikova, Jitka
 **摘要**: （暂无）
 
-### Book Review
-**年份**: 2006 | **DOI**: [10.1007/s10680-005-0692-1](https://doi.org/10.1007/s10680-005-0692-1)
-**作者**: Blangiardo, Gian Carlo
-**摘要**: （暂无）
-
 ### Societal Transition, Policy Changes and Family Formation: Evidence from Hungary
 **年份**: 2006 | **DOI**: [10.1007/s10680-005-7434-2](https://doi.org/10.1007/s10680-005-7434-2)
 **作者**: Aassve, Arnstein; Billari, Francesco C.; Spéder, Zsolt
@@ -572,11 +547,6 @@
 ### Book Reviews: Wolfgang Lutz, Warren C. Sanderson and Sergei Scherbov (eds.) The End of World Population Growth in the 21st Century. New Challenges for Human Capital Formation and Sustainable Development, London and Sterling, VA: IIASA and Earthscan, 2004, X + 341 pp.
 **年份**: 2006 | **DOI**: [10.1007/s10680-005-5975-z](https://doi.org/10.1007/s10680-005-5975-z)
 **作者**: Livi-Bacci, Massimo
-**摘要**: （暂无）
-
-### Demographic change and the care of older people: introduction
-**年份**: 2006 | **DOI**: [10.1007/s10680-006-9005-6](https://doi.org/10.1007/s10680-006-9005-6)
-**作者**: Grundy, Emily; Tomassini, Cecilia; Festy, Patrick
 **摘要**: （暂无）
 
 ### Crowding out or crowding in? Public and private transfers in Germany
@@ -604,11 +574,6 @@
 **作者**: Mulder, Clara H.; Clark, William A. V.; Wagner, Michael
 **摘要**: （暂无）
 
-### Book Review: Tommy Bengtsson, Cameron Campbell, and James Z. Lee, et al. (eds.), Life under Pressure. Mortality and Living Standards in Europe and Asia, 1700–1900, Cambridge Massachusetts: MIT Press, 2004, xiv + 531 pp.
-**年份**: 2006 | **DOI**: [10.1007/s10680-006-5976-6](https://doi.org/10.1007/s10680-006-5976-6)
-**作者**: Doblhammer, Gabriele
-**摘要**: （暂无）
-
 ### A Demographic Analysis of Registered Partnerships (legal same-sex unions): The Case of Norway
 **年份**: 2005 | **DOI**: [10.1007/s10680-005-3626-z](https://doi.org/10.1007/s10680-005-3626-z)
 **作者**: Noack, Turid; Seierstad, Ane; Weedon-fekjær, Harald
@@ -617,11 +582,6 @@
 ### Child Survival and Fertility of Refugees in Rwanda
 **年份**: 2005 | **DOI**: [10.1007/s10680-005-6856-1](https://doi.org/10.1007/s10680-005-6856-1)
 **作者**: Verwimp, Philip; Van Bavel, Jan
-**摘要**: （暂无）
-
-### Information for Authors
-**年份**: 2005 | **DOI**: [10.1007/s10680-005-6712-3](https://doi.org/10.1007/s10680-005-6712-3)
-**作者**: Digoix, Marie
 **摘要**: （暂无）
 
 ### Book Reviews: E.A. Wrigley (ed.), Poverty, Progress and Population., Cambridge: Cambridge University Press, 2004, XIV+ 463 pp.
@@ -653,10 +613,6 @@
 **作者**: Lappegård, Trude; Rønsen, Marit
 **摘要**: （暂无）
 
-### Information for Authors
-**年份**: 2005 | **DOI**: [10.1007/s10680-005-5117-7](https://doi.org/10.1007/s10680-005-5117-7)
-**摘要**: （暂无）
-
 ### International Humanitarian Law and Combat Casualties
 **年份**: 2005 | **DOI**: [10.1007/s10680-005-6421-y](https://doi.org/10.1007/s10680-005-6421-y)
 **作者**: Fenrick, William J.
@@ -674,11 +630,6 @@
 ### Union Stability and Stepfamily Fertility in Austria, Finland, France & West Germany
 **年份**: 2005 | **DOI**: [10.1007/s10680-004-7267-4](https://doi.org/10.1007/s10680-004-7267-4)
 **作者**: Henz, Ursula; Thomson, Elizabeth
-**摘要**: （暂无）
-
-### Book Review: Paul Demeny and Geoffrey McNicoll (eds.), Encyclopaedia of Population, over New York: McMillan Reference USA, 2003, XXXVIII + 1040 pp.
-**年份**: 2005 | **DOI**: [10.1007/s10680-004-6526-8](https://doi.org/10.1007/s10680-004-6526-8)
-**作者**: Philipov, Dimiter
 **摘要**: （暂无）
 
 ### Book Reviews: Tim Dyson, Robert Cassen, and Leela Visaria (eds.), Twenty-First Century India: Population, Economy, Human Development, and the Environment. New York: Oxford University Press Inc., 2004, XXii + 414 pp.
@@ -703,10 +654,6 @@
 ### Recessions and Mortality in Spain, 1980–1997
 **年份**: 2005 | **DOI**: [10.1007/s10680-005-4767-9](https://doi.org/10.1007/s10680-005-4767-9)
 **作者**: Granados, José A. Tapia
-**摘要**: （暂无）
-
-### Book Review: E.A. Wrigley (ed.), Poverty, Progress and Population., Cambridge: Cambridge University Press, 2004, XIV+ 463 pp.
-**年份**: 2005 | **DOI**: [10.1007/s10680-005-0164-7](https://doi.org/10.1007/s10680-005-0164-7)
 **摘要**: （暂无）
 
 ### Referees/Examinateurs
@@ -773,11 +720,6 @@
 **作者**: Br�derl, Josef
 **摘要**: （暂无）
 
-### Book Review: Family, Household and Work
-**年份**: 2004 | **DOI**: [10.1023/b:eujp.0000033852.74702.bb](https://doi.org/10.1023/b:eujp.0000033852.74702.bb)
-**作者**: Billari, Francesco C.
-**摘要**: （暂无）
-
 ### Birth Spacing in the Netherlands. The Effects of Family Composition, Occupation and Religion on Birth Intervals, 1820–1885
 **年份**: 2004 | **DOI**: [10.1023/b:eujp.0000033860.39537.e2](https://doi.org/10.1023/b:eujp.0000033860.39537.e2)
 **作者**: Van Bavel, Jan; Kok, Jan
@@ -803,18 +745,9 @@
 **作者**: Gillies, Val
 **摘要**: （暂无）
 
-### Book Review: The Life Table. Modelling Survival and Death
-**年份**: 2004 | **DOI**: [10.1023/b:eujp.0000033854.15911.52](https://doi.org/10.1023/b:eujp.0000033854.15911.52)
-**作者**: Shkolnikov, Vladimir M.
-**摘要**: （暂无）
-
 ### Stability and Change: The Structuration of Partnership Histories in Canada, the Netherlands, and the Russian Federation
 **年份**: 2004 | **DOI**: [10.1023/b:eujp.0000033862.83081.ad](https://doi.org/10.1023/b:eujp.0000033862.83081.ad)
 **作者**: Mills, Melinda
-**摘要**: （暂无）
-
-### Book Review: Daniel Courgeau (ed.), Methodology and Epistemology of Multilevel Analysis. The Netherlands: Kluwer Academic Publishers, 2003, ix + 235 pp.
-**年份**: 2004 | **DOI**: [10.1007/s10680-004-4876-x](https://doi.org/10.1007/s10680-004-4876-x)
 **摘要**: （暂无）
 
 ### Uncertainty and the Second Space: Modern Birth Timing and the Dilemma of Education
@@ -836,10 +769,6 @@
 **年份**: 2004 | **DOI**: [10.1007/s10680-004-4875-y](https://doi.org/10.1007/s10680-004-4875-y)
 **摘要**: （暂无）
 
-### Book Review: Donald Rowland, Demographic Methods and Concepts, Oxford: Oxford University Press, 2003, xiv + 546 pp.
-**年份**: 2004 | **DOI**: [10.1007/s10680-004-4877-9](https://doi.org/10.1007/s10680-004-4877-9)
-**摘要**: （暂无）
-
 ### The Migrant Mortality Advantage: A 70 Month Follow-up of the Brussels Population
 **年份**: 2004 | **DOI**: [10.1007/s10680-004-0883-1](https://doi.org/10.1007/s10680-004-0883-1)
 **作者**: Anson, Jon
@@ -858,11 +787,6 @@
 ### Childrearing Responsibility and Stepfamily Fertility in Finland and Austria
 **年份**: 2004 | **DOI**: [10.1023/b:eujp.0000014536.56286.41](https://doi.org/10.1023/b:eujp.0000014536.56286.41)
 **作者**: Vikat, Andres; Thomson, Elizabeth; Prskawetz, Alexia
-**摘要**: （暂无）
-
-### Book Review: The Institutional Context of Population Change. Patterns of Fertility and Mortality Across High-Income Nations
-**年份**: 2004 | **DOI**: [10.1023/b:eujp.0000033853.12340.47](https://doi.org/10.1023/b:eujp.0000033853.12340.47)
-**作者**: Engelhardt, Henriette
 **摘要**: （暂无）
 
 ### The Economic Consequences of Divorce for Women in the European Union: The Impact of Welfare State Arrangements
@@ -915,10 +839,6 @@
 **作者**: Brunborg, Helge; Lyngstad, Torkild Hovde; Urdal, Henrik
 **摘要**: （暂无）
 
-### Information for Authors
-**年份**: 2003 | **DOI**: [10.1023/a:1026307217731](https://doi.org/10.1023/a:1026307217731)
-**摘要**: （暂无）
-
 ### John Casterline (ed), Diffusion Processes and Fertility Transition: Selected Perspectives
 **年份**: 2003 | **DOI**: [10.1023/a:1023359919850](https://doi.org/10.1023/a:1023359919850)
 **作者**: Caetano, André J.
@@ -936,10 +856,6 @@
 ### Teresa Jurado Guerrero, Youth in Transition: Housing, Employment, Social Policies and Families in France and Spain
 **年份**: 2003 | **DOI**: [10.1023/a:1024955603920](https://doi.org/10.1023/a:1024955603920)
 **作者**: Holdsworth, Clare
-**摘要**: （暂无）
-
-### Instructions for Authors
-**年份**: 2003 | **DOI**: [10.1023/a:1022101910462](https://doi.org/10.1023/a:1022101910462)
 **摘要**: （暂无）
 
 ### Spanish Influenza Mortality of Ethnic Minorities in Norway 1918–1919
@@ -1051,11 +967,6 @@
 **作者**: Wilson, Tom
 **摘要**: （暂无）
 
-### Reply to Tomáŝ Sobotka
-**年份**: 2002 | **DOI**: [10.1023/a:1019795922300](https://doi.org/10.1023/a:1019795922300)
-**作者**: Lechner, Michael
-**摘要**: （暂无）
-
 ### Comments on “The Empirical Analysis of East German Fertility after Unification: An Update”
 **年份**: 2002 | **DOI**: [10.1023/a:1019793206212](https://doi.org/10.1023/a:1019793206212)
 **作者**: Sobotka, Tomáŝ
@@ -1111,17 +1022,9 @@
 **作者**: De Vos, Susan; Sandefur, Gary
 **摘要**: （暂无）
 
-### Instructions for Authors
-**年份**: 2002 | **DOI**: [10.1023/a:1017464530280](https://doi.org/10.1023/a:1017464530280)
-**摘要**: （暂无）
-
 ### Fertility Decline in Russia in the Early and Mid 1990s: The Role of Economic Uncertainty and Labour Market Crises
 **年份**: 2002 | **DOI**: [10.1023/a:1019701812709](https://doi.org/10.1023/a:1019701812709)
 **作者**: Kohler, Hans-Peter; Kohler, Iliana
-**摘要**: （暂无）
-
-### Information for Authors
-**年份**: 2002 | **DOI**: [10.1023/a:1021186621619](https://doi.org/10.1023/a:1021186621619)
 **摘要**: （暂无）
 
 ### Referees/Examinateurs
@@ -1187,10 +1090,6 @@
 **作者**: Courgeau, Daniel
 **摘要**: （暂无）
 
-### Instructions for Authors
-**年份**: 2001 | **DOI**: [10.1023/a:1017311904665](https://doi.org/10.1023/a:1017311904665)
-**摘要**: （暂无）
-
 ### Tempo Effects in the Fertility Decline in Eastern Europe: Evidence from Bulgaria, the Czech Republic, Hungary, Poland, and Russia
 **年份**: 2001 | **DOI**: [10.1023/a:1010740213453](https://doi.org/10.1023/a:1010740213453)
 **作者**: Philipov, Dimiter; Kohler, Hans-Peter
@@ -1243,11 +1142,6 @@
 ### Bernard Jeune and James W. Vaupel (eds.) Validation of Exceptional Longevity
 **年份**: 2001 | **DOI**: [10.1023/a:1010733509434](https://doi.org/10.1023/a:1010733509434)
 **作者**: Gjonça, Arjan
-**摘要**: （暂无）
-
-### Introduction
-**年份**: 2001 | **DOI**: [10.1023/a:1010745511636](https://doi.org/10.1023/a:1010745511636)
-**作者**: Kohler, Hans-Peter
 **摘要**: （暂无）
 
 ### Satish Balram Agnihotri, Sex Ratio Patterns in the Indian Population: A Fresh Exploration
@@ -1340,10 +1234,6 @@
 ### Monitoring Suicide Mortality: A Bayesian Approach
 **年份**: 2000 | **DOI**: [10.1023/a:1026587810551](https://doi.org/10.1023/a:1026587810551)
 **作者**: Congdon, Peter
-**摘要**: （暂无）
-
-### Information for Authors
-**年份**: 2000 | **DOI**: [10.1023/a:1017202014509](https://doi.org/10.1023/a:1017202014509)
 **摘要**: （暂无）
 
 ### Henk A. De Gans, Population Forecasting 1895–1945, The Transition to Modernity

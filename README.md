@@ -1,6 +1,6 @@
 # 社会学与人口学期刊文献数据库
 
-25本核心期刊、2000年至今、34,000+ 篇文章元数据（标题、摘要、作者、DOI）。
+25本核心期刊、2000年至今、32,000+ 篇文章元数据（标题、摘要、作者、DOI）。
 
 研究领域：社会分层 · 婚姻与家庭 · 人口学 · 教育社会学 · 性别 · 劳动与就业
 
@@ -10,11 +10,13 @@
 
 ## 快速导航
 
-- 普通使用者：看 [docs/guides/使用指南.md](/Users/wenbohu/Downloads/文献库/期刊文献/docs/guides/使用指南.md)
+- 普通使用者：看 [docs/guides/使用指南.md](docs/guides/使用指南.md)
 - 数据与站点入口：`index.html`、`app.js`、`style.css`、`articles.json`、`data.json`、`api/`、`lit_db/`
-- 维护脚本：看 [scripts/README.md](/Users/wenbohu/Downloads/文献库/期刊文献/scripts/README.md)
-- 报告与更新日志：看 [docs/reports/](/Users/wenbohu/Downloads/文献库/期刊文献/docs/reports)
-- 内部规划/交接：看 [docs/README.md](/Users/wenbohu/Downloads/文献库/期刊文献/docs/README.md)
+- 维护脚本：看 [scripts/README.md](scripts/README.md)
+- 自动更新：看 [docs/workflows/maintenance_workflows.md](docs/workflows/maintenance_workflows.md)
+- 报告与更新日志：看 [docs/reports/](docs/reports)
+- 数据源策略：看 [docs/reports/source_strategy_crossref_openalex.md](docs/reports/source_strategy_crossref_openalex.md)
+- 内部规划/交接：看 [docs/README.md](docs/README.md)
 
 ---
 
@@ -61,8 +63,9 @@ publication/
 ├── app.js                     # 前端逻辑（搜索 / 浏览 / SQLite 回退）
 ├── style.css                  # 前端样式
 ├── .nojekyll                  # GitHub Pages 配置
+├── .github/workflows/         # 自动更新与 Pages 部署
 │
-├── articles.json              # 主数据文件（34k条，新格式）
+├── articles.json              # 主数据文件（32k+条，新格式）
 ├── data.json                  # 旧格式备用数据（前端回退模式使用）
 ├── data.js                    # JavaScript 版备用数据
 │
@@ -78,6 +81,8 @@ publication/
 │   ├── build_lit_db.py
 │   ├── build_article_api.py
 │   ├── build_search_db.py
+│   ├── audit_non_articles.py
+│   ├── audit_volume_issue.py
 │   └── clean_data.py
 │
 ├── docs/
@@ -86,6 +91,9 @@ publication/
 │   ├── reports/               # 质量报告、更新日志
 │   ├── plans/                 # 历史规划文档
 │   └── handoff/               # agent 交接资料
+│
+├── data/
+│   └── README.md              # 数据组织约定；运行时数据暂保留根目录以兼容 Pages
 │
 ├── raw_data/                  # Web of Science 原始导出文件（归档）
 │   └── *.xls                  # 17 本期刊的 Excel 导出文件
@@ -103,9 +111,22 @@ publication/
     ├── dashboard.json
     ├── overview.json
     ├── journals.json
+    ├── browse.json
+    ├── authors.json
+    ├── browse/
+    │   └── by_journal_year/
     └── articles/
         └── 10.1086/714825.json
+
+# 本地但默认不提交
+backups/                       # 清理前自动备份
+exports/                       # 审计 CSV 输出
+logs/                          # 本地日志
+archive/                       # 本地归档和整理前快照
+literature.db                  # 本地 SQLite 搜索库，部署时重建
 ```
+
+当前为了不破坏 GitHub Pages，运行时入口和数据仍保留在根目录。`data/`、`logs/`、`archive/` 主要用于说明、日志和本地归档；大规模迁移路径前必须同步修改前端、脚本和 workflow。
 
 ---
 
@@ -135,6 +156,8 @@ python scripts/update.py --days 60    # 抓取最近 60 天
 python scripts/update.py --dry-run    # 仅检查，不写入
 ```
 
+`update.py` 会在新文献入库前调用非文献审计规则，跳过 Editorial、Book Review、Correction、Issue Information 等候选条目，并把跳过数量写入更新日志。更新后仍会再跑一次 `audit_non_articles.py --dry-run` 作为复核。
+
 更新后同步重建索引：
 
 ```bash
@@ -143,11 +166,25 @@ python scripts/build_article_api.py   # 重建静态 JSON 端点
 python scripts/build_search_db.py     # 重建全文检索数据库
 ```
 
+如需审计非文献条目：
+
+```bash
+python scripts/audit_non_articles.py --dry-run   # 只生成候选清单和报告
+python scripts/audit_non_articles.py --apply     # 只删除高置信度非文献条目，先自动备份
+python scripts/audit_non_articles.py --apply --include-review  # 人工确认后连同复核候选一起删除
+```
+
+如需评估卷期字段补充可能性：
+
+```bash
+python scripts/audit_volume_issue.py --dry-run
+```
+
 ---
 
 ## 全文检索
 
-`scripts/build_search_db.py` 基于 SQLite FTS5 构建本地全文检索数据库（`literature.db`，约 64 MB），支持对标题、摘要和作者的关键词搜索，毫秒级返回结果。
+`scripts/build_search_db.py` 基于 SQLite FTS5 构建本地全文检索数据库（`literature.db`），支持对标题、摘要、作者、作者规范化变体、期刊和年份的关键词搜索，毫秒级返回结果。
 
 ```bash
 # 构建索引（首次使用，或 articles.json 更新后重建）
@@ -223,6 +260,8 @@ https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/
 
 首页还会直接读取：
 - `api/dashboard.json`：数据库概况、年度趋势、热门关键词、高产作者与期刊分布
+- `api/browse.json` 与 `api/browse/by_journal_year/*.json`：期刊—年份—文章浏览索引
+- `api/authors.json`：高产作者和作者文章列表索引
 
 ---
 
@@ -234,15 +273,82 @@ https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/
 /api/dashboard.json
 /api/overview.json
 /api/journals.json
+/api/browse.json
+/api/authors.json
+/api/browse/by_journal_year/Demography.json
 /api/articles/10.1086/714825.json
 ```
 
 其中单篇端点按 DOI 生成，规则是把 DOI 按 `/` 拆成路径层级，再给最后一段加 `.json`。
+
+`api/browse.json` 当前只提供“期刊—年份—文章”层级；主数据尚无 `volume` / `issue` 字段，不硬造卷期。`scripts/audit_volume_issue.py` 会从 `raw_data/*.xls` dry-run 检测可按 DOI 补充的卷期字段。
+
+`api/authors.json` 使用保守作者名规范化：大小写、标点、`Smith, John` / `John Smith` 顺序差异会进入检索变体；但全名和首字母名不强行合并，以免误合并同姓作者。
 
 ---
 
 ## 数据来源
 
 - **原始数据**：Web of Science 手动导出（存放于 `raw_data/`）
-- **补全数据**：CrossRef API（历史数据、摘要、DOI、7本无Excel期刊）
-- **更新方式**：CrossRef API 定期抓取最新文章
+- **主更新源**：Crossref API（按 ISSN / DOI / 日期抓取期刊文章）
+- **增强补全源**：OpenAlex API（建议后续用于作者、机构、主题、引用、开放获取等增强字段）
+- **当前建议**：Crossref 继续作为主更新源，OpenAlex 作为 DOI 级补全和分析增强源。理由见 [Crossref 与 OpenAlex 数据源策略建议](docs/reports/source_strategy_crossref_openalex.md)。
+- **非文献审核**：新增条目入库前会运行非文献规则；命中候选会被跳过，并写入更新日志。
+
+---
+
+## GitHub Pages 与自动更新
+
+- `deploy-pages.yml`：推送 `main` 后重建 `api/`、`lit_db/`、`literature.db`，再部署静态站点。
+- `update.yml`：每周一自动抓取新文献，重建派生文件，运行质量检查和非文献 dry-run，并在有变化时 commit 回 `main`。
+- 需要在 GitHub 设置中确认 Pages Source 为 **GitHub Actions**，Workflow permissions 为 **Read and write permissions**。
+
+---
+
+## AI agent 使用方式
+
+AI 可以直接遍历和读取本仓库的结构化数据来回答问题，例如：
+
+> 帮我找 2010-2025 年发表于 Demography 和 Journal of Marriage and Family、主题与 fertility decline 相关的文献。
+
+推荐读取顺序：
+
+1. 先读 `api/browse.json` 或 `api/browse/by_journal_year/*.json`，按期刊和年份缩小范围。
+2. 再读 `lit_db/titles/by_journal/*.md` 做标题初筛。
+3. 对候选文章读取 `api/articles/{doi}.json` 或对应年份段摘要文件。
+4. 如果在本地运行，可以直接用 `literature.db` 或 `scripts/build_search_db.py --search ...` 做全文检索。
+
+这个流程适合 3 万多篇规模的数据库；不要把整个 `articles.json` 一次性塞进单个 AI 上下文，应按期刊、年份、主题关键词分批检索。
+
+---
+
+## Push 前检查
+
+```bash
+git status --short
+python3 -m py_compile scripts/*.py
+node --check app.js
+ruby -ryaml -e 'ARGV.each { |p| YAML.load_file(p); puts "ok #{p}" }' .github/workflows/update.yml .github/workflows/deploy-pages.yml
+python3 scripts/audit_non_articles.py --dry-run
+```
+
+默认不提交：
+
+- `literature.db`
+- `venv/`
+- `.cache/`
+- `backups/`
+- `exports/`
+- `logs/` 中除 `README.md` 外的文件
+- `archive/` 中除 `README.md` 外的文件
+- `.env*`、密钥、token、系统缓存
+
+---
+
+## 下一步计划
+
+1. 拆分 `api/authors.json`，改为作者 overview + 单作者详情，降低 Top Scholars 首次加载体积。
+2. 新增 OpenAlex DOI 级 dry-run 补全脚本，先输出候选 CSV，不直接覆盖主数据。
+3. 设计可选增强字段 schema：`openalex_id`、`orcid`、`institutions`、`topics`、`cited_by_count`、`open_access`。
+4. 评估是否逐步淘汰 `data.js`，减少根目录重复大文件。
+5. 在前端增加“AI 检索提示”入口，指导按期刊、年份、主题分批读取数据库。

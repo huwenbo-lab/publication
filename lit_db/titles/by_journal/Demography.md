@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **1953** 篇 | 年份范围：1964–2026
+共 **1932** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -125,7 +125,6 @@
 - Refueling a Quiet Fire: Old Truthers and New Discontent in the Wake of COVID-19 · [DOI](https://doi.org/10.1215/00703370-11587755)
 - The Total Effect of Social Origins on Educational Attainment: Meta-anal y sis of Sibling Correlations From 18 Countries · [DOI](https://doi.org/10.1215/00703370-11579806)
 - Family Planning and Children's Human Capital: Experimental Evidence From Urban Malawi · [DOI](https://doi.org/10.1215/00703370-11581796)
-- Commentary on van Raalte et al.'s The Dangers of Drawing Cohort Profiles From Period Data: A Research Note · [DOI](https://doi.org/10.1215/00703370-11484875)
 - Historical Patterns in the Intergenerational Transmission of Lifespan and Longevity: A Research Note on US Cohorts Born Between 1700 and 1900 · [DOI](https://doi.org/10.1215/00703370-11458359)
 - New Evidence From Census 2020 on the Residential Segregation of Same-Sex Households: A Research Note · [DOI](https://doi.org/10.1215/00703370-11482174)
 - Decomposing the Drivers of Population Aging: A Research Note · [DOI](https://doi.org/10.1215/00703370-11481955)
@@ -204,7 +203,6 @@
 - The Economic Assimilation of Second-Generation Men: An Analysis of Earnings Trajectories Using Administrative Records · [DOI](https://doi.org/10.1215/00703370-10924116)
 - Racial, Ethnic, Nativity, and Educational Disparities in Cognitive Impairment and Activity Limitations in the United States, 1998-2016 · [DOI](https://doi.org/10.1215/00703370-10941414)
 - State-Level Abortion Policy Hostility and Unplanned Births in the Pre-Dobbs Era · [DOI](https://doi.org/10.1215/00703370-10952575)
-- Fertility and Labor Supply Responses to Child Allowances: The Introduction of Means-Tested Benefits in France · [DOI](https://doi.org/10.1215/00703370-10965926)
 - Polygenic Prediction of Education and Its Role in the Intergenerational Transmission of Education: Cohort Changes Among Finn ish Men and Women Born in 1925-1989 · [DOI](https://doi.org/10.1215/00703370-10963788)
 - Life Course Patterns of Prescription Drug Use in the United States · [DOI](https://doi.org/10.1215/00703370-10965990)
 - Sexuality and Demographic Change: Documenting Family Formation Trajectories and Cohort Change in the LGB Population · [DOI](https://doi.org/10.1215/00703370-10968468)
@@ -668,7 +666,6 @@
 - Lifespan Dispersion in Times of Life Expectancy Fluctuation: The Case of Central and Eastern Europe · [DOI](https://doi.org/10.1007/s13524-018-0729-9)
 - Looking at Population Health Beyond Male and Female: Implications of Transgender Identity and Gender Nonconformity for Population Health · [DOI](https://doi.org/10.1007/s13524-018-0714-3)
 - Racial and Ethnic Disparities in the Lifetime Prevalence of Homelessness in the United States · [DOI](https://doi.org/10.1007/s13524-018-0717-0)
-- Has Income Segregation Really Increased? Bias and Bias Correction in Sample-Based Segregation Estimates · [DOI](https://doi.org/10.1007/s13524-018-0721-4)
 - Patrilocal Residence and Female Labor Supply: Evidence From Kyrgyzstan · [DOI](https://doi.org/10.1007/s13524-018-0724-1)
 - Intergenerational Transmission of Multipartner Fertility · [DOI](https://doi.org/10.1007/s13524-018-0727-y)
 - Maternal Age and Child Development · [DOI](https://doi.org/10.1007/s13524-018-0730-3)
@@ -821,7 +818,6 @@
 - Back to School: Racial and Gender Differences in Adults' Participation in Formal Schooling, 1978-2013 · [DOI](https://doi.org/10.1007/s13524-017-0570-6)
 - The Contribution of Drug Overdose to Educational Gradients in Life Expectancy in the United States, 1992-2011 · [DOI](https://doi.org/10.1007/s13524-017-0565-3)
 - Trends in Education-Specific Life Expectancy, Data Quality, and Shifting Education Distributions: A Note on Recent Research · [DOI](https://doi.org/10.1007/s13524-017-0574-2)
-- Reply to Trends in Education-Specific Life Expectancy, Data Quality, and Shifting Education Distributions: A Note on Recent Research · [DOI](https://doi.org/10.1007/s13524-017-0583-1)
 - Parenting in On/Off Relationships: The Link Between Relationship Churning and Father Involvement · [DOI](https://doi.org/10.1007/s13524-017-0571-5)
 - Malthus in the Bedroom: Birth Spacing as Birth Control in Pre-Transition England · [DOI](https://doi.org/10.1007/s13524-017-0556-4)
 - Emotional Variation and Fertility Behavior · [DOI](https://doi.org/10.1007/s13524-017-0555-5)
@@ -852,7 +848,6 @@
 - Short-Term and Long-Term Educational Mobility of Families: A Two-Sex Approach · [DOI](https://doi.org/10.1007/s13524-016-0540-4)
 - Explaining the Immigrant Health Advantage: Self-selection and Protection in Health-Related Factors Among Five Major National-Origin Immigrant Groups in the United States · [DOI](https://doi.org/10.1007/s13524-016-0542-2)
 - Age at Arrival and Life Chances Among Childhood Immigrants · [DOI](https://doi.org/10.1007/s13524-016-0535-1)
-- America's Churning Races: Race and Ethnicity Response Changes Between Census 2000 and the 2010 Census · [DOI](https://doi.org/10.1007/s13524-016-0544-0)
 - The Unequal Consequences of Mass Incarceration for Children · [DOI](https://doi.org/10.1007/s13524-016-0543-1)
 
 ## 2016
@@ -1005,7 +1000,6 @@
 - Foreign-born Peers and Academic Performance · [DOI](https://doi.org/10.1007/s13524-015-0369-2)
 - Disease Incidence and Mortality Among Older Americans and Europeans · [DOI](https://doi.org/10.1007/s13524-015-0372-7)
 - Birth Order and Mortality: A Population-Based Cohort Study · [DOI](https://doi.org/10.1007/s13524-015-0377-2)
-- Evidence of Self-correction of Child Sex Ratios in India: A District-Level Analysis of Child Sex Ratios From 1981 to 2011 · [DOI](https://doi.org/10.1007/s13524-014-0356-z)
 - Conjuring the Ghosts of Missing Children: A Monte Carlo Simulation of Reproductive Restraint in Tokugawa Japan · [DOI](https://doi.org/10.1007/s13524-015-0378-1)
 - Decomposing the Effect of Crime on Population Changes · [DOI](https://doi.org/10.1007/s13524-015-0375-4)
 - Diffusion of Childbearing Within Cohabitation · [DOI](https://doi.org/10.1007/s13524-015-0380-7)
@@ -1111,7 +1105,6 @@
 - Direct and Indirect Effects of Unilateral Divorce Law on Marital Stability · [DOI](https://doi.org/10.1007/s13524-014-0337-2)
 - Does Contraceptive Use Always Reduce Breast-feeding? · [DOI](https://doi.org/10.1007/s13524-014-0286-9)
 - Impact of Migration on Fertility and Abortion: Evidence From the Household and Welfare Study of Accra · [DOI](https://doi.org/10.1007/s13524-014-0339-0)
-- Reply to Comment on “The Effect of Same-Sex Marriage Laws on Different-Sex Marriage: Evidence From the Netherlands” · [DOI](https://doi.org/10.1007/s13524-014-0348-z)
 - Marital Disruption and Health Insurance · [DOI](https://doi.org/10.1007/s13524-014-0317-6)
 - Measuring Attitudes About Intimate Partner Violence Against Women: The ATT-IPV Scale · [DOI](https://doi.org/10.1007/s13524-014-0297-6)
 - Rural-to-Urban Migration and Sexual Debut in Thailand · [DOI](https://doi.org/10.1007/s13524-014-0323-8)
@@ -1151,15 +1144,12 @@
 - The Impact of Migration and Remittances on Wealth Accumulation and Distribution in Rural Thailand · [DOI](https://doi.org/10.1007/s13524-013-0260-y)
 - Marriage (Still) Matters: The Contribution of Demographic Change to Trends in Childlessness in the United States · [DOI](https://doi.org/10.1007/s13524-013-0215-3)
 - The Compositional and Institutional Sources of Union Dissolution for Married and Unmarried Parents in the United States · [DOI](https://doi.org/10.1007/s13524-013-0203-7)
-- Has the World Really Survived the Population Bomb? (Commentary on “How the World Survived the Population Bomb: Lessons From 50 Years of Extraordinary Demographic History”) · [DOI](https://doi.org/10.1007/s13524-013-0236-y)
-- When Immigration Policies Affect Immigrants’ Lives: Commentary · [DOI](https://doi.org/10.1007/s13524-013-0205-5)
 - Editor’s Note · [DOI](https://doi.org/10.1007/s13524-013-0266-5)
 - How Do Tougher Immigration Measures Affect Unauthorized Immigrants?: Comment · [DOI](https://doi.org/10.1007/s13524-013-0207-3)
 - Exporting Poor Health: The Irish in England · [DOI](https://doi.org/10.1007/s13524-013-0235-z)
 - Integration or Fragmentation? Racial Diversity and the American Future · [DOI](https://doi.org/10.1007/s13524-013-0197-1)
 - How Do Tougher Immigration Measures Affect Unauthorized Immigrants? · [DOI](https://doi.org/10.1007/s13524-013-0200-x)
 - Gender, Turning Points, and Boomerangs: Returning Home in Young Adulthood in Great Britain · [DOI](https://doi.org/10.1007/s13524-013-0247-8)
-- Reply to Stan Becker, “Has the World Really Survived the Population Bomb? (Commentary on “How the World Survived the Population Bomb: Lessons from 50 Years of Extraordinary Demographic History”)” · [DOI](https://doi.org/10.1007/s13524-013-0249-6)
 - Duration and Timing of Exposure to Neighborhood Poverty and the Risk of Adolescent Parenthood · [DOI](https://doi.org/10.1007/s13524-013-0219-z)
 - Selection and the Marriage Premium for Infant Health · [DOI](https://doi.org/10.1007/s13524-013-0211-7)
 - Environmental Influences on Human Migration in Rural Ecuador · [DOI](https://doi.org/10.1007/s13524-012-0192-y)
@@ -1201,7 +1191,6 @@
 - Is the Gene-Environment Interaction Paradigm Relevant to Genome-Wide Studies? The Case of Education and Body Mass Index · [DOI](https://doi.org/10.1007/s13524-013-0259-4)
 - Cumulative Childhood Adversity, Educational Attainment, and Active Life Expectancy Among U.S. Adults · [DOI](https://doi.org/10.1007/s13524-013-0261-x)
 - Cohort Analysis’ Unholy Quest: A Discussion · [DOI](https://doi.org/10.1007/s13524-013-0251-z)
-- Paradigm Shift in Age-Period-Cohort Analysis: A Response to Yang and Land, O’Brien, Held and Riebler, and Fienberg · [DOI](https://doi.org/10.1007/s13524-013-0263-8)
 
 ## 2012
 
@@ -1212,7 +1201,6 @@
 - Acknowledgment of Reviewers · [DOI](https://doi.org/10.1007/s13524-012-0163-3)
 - Population Trends as a Counterweight to Central City Decline, 1950–2000 · [DOI](https://doi.org/10.1007/s13524-012-0137-5)
 - Education and the Gender Gaps in Health and Mortality · [DOI](https://doi.org/10.1007/s13524-012-0130-z)
-- Reply to Allen et al. · [DOI](https://doi.org/10.1007/s13524-012-0170-4)
 - Moving Across Boundaries: Migration in South Africa, 1950–2000 · [DOI](https://doi.org/10.1007/s13524-012-0140-x)
 - Prenatal Health, Educational Attainment, and Intergenerational Inequality: The Northern Finland Birth Cohort 1966 Study · [DOI](https://doi.org/10.1007/s13524-012-0092-1)
 - Estimation of Covariate Effects With Current Status Data and Differential Mortality · [DOI](https://doi.org/10.1007/s13524-012-0160-6)
@@ -1466,7 +1454,6 @@
 - Drawing statistical inferences from historical census data, 1850–1950 · [DOI](https://doi.org/10.1353/dem.0.0062)
 - Income inequality and self-rated health status: Evidence from the european community household panel · [DOI](https://doi.org/10.1353/dem.0.0071)
 - Can knowledge improve population forecasts at subcounty levels? · [DOI](https://doi.org/10.1353/dem.0.0059)
-- Marriage behavior response to prime-age adult mortality: evidence from malawi · [DOI](https://doi.org/10.1353/dem.0.0039)
 - Revisiting das gupta: Refinement and extension of standardization and decomposition · [DOI](https://doi.org/10.1353/dem.0.0060)
 - Do immigrants work in riskier jobs? · [DOI](https://doi.org/10.1353/dem.0.0064)
 - Is the relationship between socioeconomic status and health stronger for older children in developing countries? · [DOI](https://doi.org/10.1353/dem.0.0054)
@@ -1476,7 +1463,6 @@
 - Change in disability-free life expectancy for Americans 70 years old and older · [DOI](https://doi.org/10.1353/dem.0.0070)
 - Predicting adult health and mortality from adolescent facial characteristics in yearbook photographs · [DOI](https://doi.org/10.1353/dem.0.0037)
 - Job opportunities, economic resources, and the postsecondary destinations of American youth · [DOI](https://doi.org/10.1353/dem.0.0065)
-- Response to Ermisch, Martin, and Wu · [DOI](https://doi.org/10.1353/dem.0.0047)
 - Forced migration and mortality in the very long term: Didperestroikaaffect death rates also in Finland? · [DOI](https://doi.org/10.1353/dem.0.0069)
 - Parental characteristics and the schooling progress of the children of immigrant and U.S.-born blacks · [DOI](https://doi.org/10.1353/dem.0.0068)
 - Modeling transition rates using panel current-status data: How serious is the bias? · [DOI](https://doi.org/10.1353/dem.0.0057)
@@ -1545,7 +1531,6 @@
 - Moving and union dissolution · [DOI](https://doi.org/10.1353/dem.2008.0000)
 - The exceptionally high life expectancy of Costa Rican nonagenarians · [DOI](https://doi.org/10.1353/dem.0.0011)
 - Changing educational inequalities in india in the context of affirmative action · [DOI](https://doi.org/10.1353/dem.0.0001)
-- A practical approach to using Multiple-Race response data: A bridging method for publicuse microdata · [DOI](https://doi.org/10.1353/dem.2008.0004)
 - Trends in U.S. adult chronic disease mortality, 1960–1999: age, period, and cohort variations · [DOI](https://doi.org/10.1353/dem.0.0000)
 - Immigrant residential segregation in U.S. metropolitan areas, 1990–2000 · [DOI](https://doi.org/10.1353/dem.2008.0009)
 
@@ -1654,7 +1639,6 @@
 - Three dimensions of the survival curve: horizontalization, verticalization, and longevity extension · [DOI](https://doi.org/10.1353/dem.2005.0012)
 - Famine, social disruption, and involuntary fetal loss: Evidence from chinese survey data · [DOI](https://doi.org/10.1353/dem.2005.0010)
 - Educational selectivity in U.S. Immigration: How do immigrants compare to those left behind? · [DOI](https://doi.org/10.1353/dem.2005.0001)
-- The influence of network mortality experience on nonnumeric response concerning expected family size: Evidence from a Nepalese mountain village · [DOI](https://doi.org/10.1353/dem.2005.0035)
 - Coherent mortality forecasts for a group of populations: An extension of the lee-carter method · [DOI](https://doi.org/10.1353/dem.2005.0021)
 - Temporal and spatial variation in age-specific net migration in the United States · [DOI](https://doi.org/10.1353/dem.2005.0033)
 - Race, gender, and marriage: destination selection during the great migration · [DOI](https://doi.org/10.1353/dem.2005.0019)
@@ -1673,7 +1657,6 @@
 - Changes in women’s postmarital employment in Japan and Taiwan · [DOI](https://doi.org/10.1353/dem.2005.0039)
 - Understanding racial differences in the economic costs of growing up in a single-parent family · [DOI](https://doi.org/10.1353/dem.2005.0007)
 - The relationship between childbearing and transitions from marriage and cohabitation in Britain · [DOI](https://doi.org/10.1353/dem.2005.0038)
-- Changes in children’s time with parents: A correction · [DOI](https://doi.org/10.1353/dem.2005.0017)
 - The importance of education-occupation matching in migration decisions · [DOI](https://doi.org/10.1353/dem.2005.0008)
 - Trends in educational assortative marriage from 1940 to 2003 · [DOI](https://doi.org/10.1353/dem.2005.0036)
 - Aids mortality and the mobility of children in Kwazulu Natal, South Africa · [DOI](https://doi.org/10.1353/dem.2005.0029)
@@ -1912,7 +1895,6 @@
 - Increasing longevity and medicare expenditures · [DOI](https://doi.org/10.1353/dem.2001.0018)
 - Dimensions of Women's Autonomy and the Influence on Maternal Health Care Utilization in a North Indian City · [DOI](https://doi.org/10.2307/3088289)
 - Social Inequalities in Disability-Free Life Expectancy in the French Male Population, 1980-1991 · [DOI](https://doi.org/10.2307/3088315)
-- The misuse of biology in demographic research on racial/ethnic differences: A reply to van den oord and rowe · [DOI](https://doi.org/10.1353/dem.2001.0034)
 - New African American life tables from 1935–1940 to 1985–1990 · [DOI](https://doi.org/10.1353/dem.2001.0002)
 - Is breast-feeding a substitute for contraception in family planning? · [DOI](https://doi.org/10.1353/dem.2001.0037)
 - How do family planning workers’ visits affect women’s contraceptive behavior in bangladesh? · [DOI](https://doi.org/10.1353/dem.2001.0032)
@@ -1921,7 +1903,6 @@
 - How Do Family Planning Workers' Visits Affect Women's Contraceptive Behavior in Bangladesh? · [DOI](https://doi.org/10.2307/3088313)
 - The Influence of Remarriage on the Racial Difference in Mother-Only Families in 1910 · [DOI](https://doi.org/10.2307/3088306)
 - Reconsidering Mortality Compression and Deceleration: An Alternative Model of Mortality Rates · [DOI](https://doi.org/10.2307/3088290)
-- The Misuse of Biology in Demographic Research on Racial/Ethnic Differences: A Reply to Van Den Oord and Rowe · [DOI](https://doi.org/10.2307/3088319)
 - The Educational Enrollment of Immigrant Youth: A Test of the Segmented-Assimilation Hypothesis · [DOI](https://doi.org/10.2307/3088348)
 - Immigration and males’ earnings inequality in the regions of the United States · [DOI](https://doi.org/10.1353/dem.2001.0029)
 - Immigrants’ welfare use and opportunity for contact with co-ethnics · [DOI](https://doi.org/10.1353/dem.2001.0027)
@@ -1991,7 +1972,6 @@
 - Explaining levels of within-group wage inequality in U.S. labor markets · [DOI](https://doi.org/10.1353/dem.2000.0008)
 - Socioeconomic background and war mortality during Vietnam’s wars · [DOI](https://doi.org/10.2307/2648092)
 - Demographics of dumping ii: a national environmental equity survey and the distribution of hazardous materials handlers · [DOI](https://doi.org/10.1353/dem.2000.0002)
-- Commentary on “A methodology for identifying married couples in medicare data” · [DOI](https://doi.org/10.2307/2648126)
 - The new immigrant survey pilot (NIS-P): Overview and new findings about U.S. Legal immigrants at admission · [DOI](https://doi.org/10.2307/2648101)
 - Forecasting Enrollments for Immigrant Entry-Port School Districts · [DOI](https://doi.org/10.2307/2648076)
 - Demographics of the gay and lesbian population in the United States: Evidence from available systematic data sources · [DOI](https://doi.org/10.2307/2648117)
@@ -2005,7 +1985,6 @@
 - Refinements of a methodology for detecting married couples in the medicare data · [DOI](https://doi.org/10.2307/2648127)
 - Forecasting enrollments for immigrant entry-port school districts · [DOI](https://doi.org/10.1353/dem.2000.0009)
 - Explaining Levels of Within-Group Wage Inequality in U.S. Labor Markets · [DOI](https://doi.org/10.2307/2648069)
-- Are births underreported in rural China? Manipulation of statistical records in response to China’s population policies · [DOI](https://doi.org/10.2307/2648100)
 
 ## 1999
 

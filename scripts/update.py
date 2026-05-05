@@ -27,6 +27,7 @@ from urllib.parse import quote_plus
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
+from audit_non_articles import classify_article
 from _paths import REPORTS_DIR, ROOT, SCRIPTS_DIR
 
 ARTICLES_JSON = ROOT / "articles.json"
@@ -43,6 +44,7 @@ DERIVED_BUILDERS = [
     ("文章 API", [sys.executable, str(SCRIPTS_DIR / "build_article_api.py")]),
     ("全文检索库", [sys.executable, str(SCRIPTS_DIR / "build_search_db.py")]),
     ("质量报告", [sys.executable, str(SCRIPTS_DIR / "check_quality.py")]),
+    ("非文献审计", [sys.executable, str(SCRIPTS_DIR / "audit_non_articles.py"), "--dry-run"]),
 ]
 
 # 25本期刊配置
@@ -151,6 +153,27 @@ def parse_crossref_item(item, journal_name):
     }
 
 
+def is_non_article_candidate(article):
+    """更新时跳过审计规则命中的非文献/边界候选，避免重新混入。"""
+    return classify_article(article)
+
+
+def filter_literature_articles(articles):
+    kept = []
+    skipped = []
+    for article in articles:
+        classification = is_non_article_candidate(article)
+        if classification:
+            skipped.append({
+                "article": article,
+                "reason": classification["reason"],
+                "action": classification["action"],
+            })
+            continue
+        kept.append(article)
+    return kept, skipped
+
+
 def fetch_recent_articles(journal_name, issn, from_date_str, dry_run=False):
     """抓取指定日期之后发布的文章"""
     new_articles = []
@@ -236,7 +259,7 @@ def save_articles(articles):
         f.write(";\n")
 
 
-def append_update_log(run_date, days, journal_results, total_new, total_after):
+def append_update_log(run_date, days, journal_results, total_new, total_after, skipped_non_articles=None):
     lines = []
     if UPDATE_LOG.exists():
         content = UPDATE_LOG.read_text(encoding="utf-8")
@@ -246,11 +269,22 @@ def append_update_log(run_date, days, journal_results, total_new, total_after):
     entry = [f"## {run_date}（最近{days}天）\n"]
     entry.append(f"- 新增文章总数：**{total_new}**")
     entry.append(f"- 数据库总文章数：**{total_after:,}**\n")
+    if skipped_non_articles:
+        skipped_total = sum(skipped_non_articles.values())
+        entry.append(f"- 非文献筛查跳过：**{skipped_total}** 条\n")
 
     if journal_results:
         entry.append("| 期刊 | 新增 |")
         entry.append("|---|---|")
         for journal, count in sorted(journal_results.items()):
+            if count > 0:
+                entry.append(f"| {journal} | {count} |")
+        entry.append("")
+
+    if skipped_non_articles:
+        entry.append("| 期刊 | 非文献筛查跳过 |")
+        entry.append("|---|---|")
+        for journal, count in sorted(skipped_non_articles.items()):
             if count > 0:
                 entry.append(f"| {journal} | {count} |")
         entry.append("")
@@ -308,6 +342,7 @@ def main():
     }
 
     journal_results = {}
+    skipped_non_article_results = {}
     all_new = []
 
     for journal_name, config in sorted(JOURNALS.items()):
@@ -332,11 +367,15 @@ def main():
             if doi_norm:
                 existing_dois.add(doi_norm)
 
+        filtered, skipped_non_articles = filter_literature_articles(filtered)
+        skipped_non_article_results[journal_name] = len(skipped_non_articles)
         journal_results[journal_name] = len(filtered)
         all_new.extend(filtered)
 
         if filtered:
             print(f"  {journal_name}: 新增 {len(filtered)} 篇")
+        if skipped_non_articles:
+            print(f"  {journal_name}: 非文献筛查跳过 {len(skipped_non_articles)} 条")
 
     if args.dry_run:
         total_potential = sum(journal_results.values())
@@ -348,14 +387,14 @@ def main():
         save_articles(articles)
         total_new = len(all_new)
         print(f"\n共新增 {total_new} 篇，数据库现有 {len(articles):,} 条")
-        append_update_log(run_date, args.days, journal_results, total_new, len(articles))
+        append_update_log(run_date, args.days, journal_results, total_new, len(articles), skipped_non_article_results)
         print(f"已更新 {UPDATE_LOG.relative_to(ROOT)}")
         if not args.skip_derived:
             run_derived_builds()
     else:
         total_new = 0
         print(f"\n没有新文章")
-        append_update_log(run_date, args.days, {}, 0, len(articles))
+        append_update_log(run_date, args.days, {}, 0, len(articles), skipped_non_article_results)
 
     print("完成！")
 

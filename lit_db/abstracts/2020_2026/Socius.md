@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **726** 篇
+共 **723** 篇
 
 ---
 
@@ -2485,11 +2485,6 @@
 **作者**: Hout, Michael; Perrett, Stuart; Cowan, Sarah K.
 **摘要**: Americans disagree on legal abortion now about as much as they did in the 1970s, but their attitudes now sort much more according to political identity. Differences of opinion by religion, gender, race, and work that were key to understanding abortion attitudes in the 1970s persisted through 2021.…
 
-### The Resonance of Repression: Moral Intuitions, Skepticism toward Racial Injustice, and Public Support for Trump’s “Law and Order” Response to the 2020 Racial Justice Protests
-**年份**: 2022 | **DOI**: [10.1177/23780231221110277](https://doi.org/10.1177/23780231221110277)
-**作者**: Goff, Kerby; Silver, Eric; Iceland, John
-**摘要**: The limited research on support for state repression of protests points to protest violence, ideological opposition, and racial/ethnic resentment, but few have examined how moral intuitions influence support for repression and racialized opposition to protest claims.…
-
 ### Social Network Theory and Comedy: Insights from NBC’s The Office
 **年份**: 2022 | **DOI**: [10.1177/23780231221141524](https://doi.org/10.1177/23780231221141524)
 **作者**: Roth, Adam R.
@@ -2579,11 +2574,6 @@
 **年份**: 2022 | **DOI**: [10.1177/23780231221127537](https://doi.org/10.1177/23780231221127537)
 **作者**: Giebel, Sonia; Alvero, AJ; Gebre-Medhin, Ben 等4人
 **摘要**: How does gender inform initial academic commitments and narrative self-presentation in science, technology, engineering, and mathematics (STEM) fields during the college application process?…
-
-### Bringing in Theory Building and Social-Political Context to Understand and Reduce Inequality: A Commentary
-**年份**: 2022 | **DOI**: [10.1177/23780231221081703](https://doi.org/10.1177/23780231221081703)
-**作者**: van de Werfhorst, Herman G.
-**摘要**: The ambition to move from understanding inequality to (also) reducing inequality is laudable and important for the field of sociology. Discussing the contributions to this special collection, the author encourages current developments in our field to identify causal effects of interventions.…
 
 ### Migrating to New Contraceptive Contexts: The Case of Migrants from Turkey to France
 **年份**: 2022 | **DOI**: [10.1177/23780231221131627](https://doi.org/10.1177/23780231221131627)
@@ -2989,11 +2979,6 @@
 **年份**: 2021 | **DOI**: [10.1177/23780231211066069](https://doi.org/10.1177/23780231211066069)
 **作者**: Martin, Isaac William; Harper, Heather
 **摘要**: What kinds of taxation are most politically sustainable in a democracy? The authors answer this question by applying natural language processing and machine learning techniques to a large, new corpus of digitized documents describing municipal tax policies of heterogeneous design that have been dire…
-
-### Sociology’s Role in Responding to Inequality: Introduction to the Special Collection
-**年份**: 2021 | **DOI**: [10.1177/23780231211020201](https://doi.org/10.1177/23780231211020201)
-**作者**: Gamoran, Adam
-**摘要**: Inequality has long been a central focus of sociological research, but some argue that sociology as a discipline has actually done little to reduce inequality in society. This special collection asks whether sociology, and the social sciences generally, have more to offer.…
 
 ### Social Autonomy among Married Men and Women
 **年份**: 2021 | **DOI**: [10.1177/23780231211043630](https://doi.org/10.1177/23780231211043630)

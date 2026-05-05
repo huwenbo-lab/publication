@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **275** 篇
+共 **273** 篇
 
 ---
 
@@ -469,11 +469,6 @@
 **年份**: 2024 | **DOI**: [10.1111/padr.12543](https://doi.org/10.1111/padr.12543)
 **作者**: Zimmerman, Linnea A.; Karp, Celia; Komuro, Naomi 等9人
 **摘要**: Recent evidence suggests that women in high-income countries desired to delay or forgo childbearing due to COVID-19, yet there remains insufficient evidence of COVID-19's impact on fertility desires in low- and middle-income countries, particularly in sub-Saharan Africa (SSA).…
-
-### Authors' Response to 'Supply-Side Versus Demand-Side Unmet Need: Implications for Family Planning Programs': A Comment
-**年份**: 2024 | **DOI**: [10.1111/padr.12700](https://doi.org/10.1111/padr.12700)
-**作者**: Senderowicz, Leigh; Maloney, Nicole
-**摘要**: （暂无）
 
 ### Child Death and Mothers' Subsequent Mental Health in a High-Mortality African Community
 **年份**: 2024 | **DOI**: [10.1111/padr.12682](https://doi.org/10.1111/padr.12682)
@@ -1044,11 +1039,6 @@
 **年份**: 2022 | **DOI**: [10.1111/padr.12479](https://doi.org/10.1111/padr.12479)
 **作者**: [Anonymous]
 **摘要**: （暂无）
-
-### The Introduction of Bismarck's Social Security System and its Effects on Marriage and Fertility in Prussia
-**年份**: 2021 | **DOI**: [10.1111/padr.12426](https://doi.org/10.1111/padr.12426)
-**作者**: Guinnane, Timothy W.; Streb, Jochen
-**摘要**: Economists have long argued that introducing social insurance will reduce fertility. The hypothesis relies on standard models: if children are desirable in part because they provide security in case of disability or old age, then State programs that provide insurance against these events should indu…
 
 ### Son Preference, Gender Discrimination, and Missing Girls in Rural Spain, 1750-1950
 **年份**: 2021 | **DOI**: [10.1111/padr.12406](https://doi.org/10.1111/padr.12406)

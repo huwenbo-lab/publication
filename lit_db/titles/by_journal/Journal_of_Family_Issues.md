@@ -1,6 +1,6 @@
 # Journal of Family Issues — 文章标题索引
 
-共 **2275** 篇 | 年份范围：1981–2026
+共 **2268** 篇 | 年份范围：1981–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -553,7 +553,6 @@
 - Parent-Adolescent Sexual Communication in India: Responses of Middle Class Parents · [DOI](https://doi.org/10.1177/0192513X20930343)
 - Children's Living Arrangements after Marital and Cohabitation Dissolution in Europe · [DOI](https://doi.org/10.1177/0192513X20923721)
 - Threshold Levels for Disorder, Inequity in Household Labor, and Frustration with the Partner among Emerging Adult Couples: A Dyadic Examination · [DOI](https://doi.org/10.1177/0192513X20918616)
-- Paternal Response to Ultrasound Predicts Increased Paternal-Fetal Attachment · [DOI](https://doi.org/10.1177/0192513X21993197)
 - The Relation of Helicopter Parenting to Maladaptive Perfectionism in Emerging Adults · [DOI](https://doi.org/10.1177/0192513X21993194)
 - I Assumed He Didn't Exist: The Birth Father as the Invisible Member of the Adoption Kinship Network · [DOI](https://doi.org/10.1177/0192513X20984509)
 - Parental Academic Involvement in Cross-border marriage, Native and Immigrant Families: The Roles of Family Resources and Parental Expectations · [DOI](https://doi.org/10.1177/0192513X20968603)
@@ -972,7 +971,6 @@
 - Conflict Structures in Family Networks of Older Adults and Their Relationship With Health-Related Quality of Life · [DOI](https://doi.org/10.1177/0192513X17714507)
 - Betty Crocker Versus Betty Friedan: Meanings of Wifehood Within a Postfeminist Era · [DOI](https://doi.org/10.1177/0192513X16680092)
 - Determinants of Support Exchange Between Grandparents and Grandchildren in Rural China: The Roles of Grandparent Caregiving, Patrilineal Heritage, and Emotional Bonds · [DOI](https://doi.org/10.1177/0192513X16662102)
-- Changes in Individual Sibling Relationships in Response to Life Events · [DOI](https://doi.org/10.1177/0192513X16653431)
 - Gender, Family Norms, and Male-Factor Infertility in Japan: An Analysis of Internet Blogs · [DOI](https://doi.org/10.1177/0192513X18796874)
 - The Impact of Ultrasound on Prenatal Attachment Among Disembodied and Embodied Knowers · [DOI](https://doi.org/10.1177/0192513X17710774)
 - Household Food Insecurity and Early Childhood Health and Cognitive Development Among Children of Immigrants · [DOI](https://doi.org/10.1177/0192513X17710772)
@@ -1258,7 +1256,6 @@
 - The Impact of Mothers’ Relationship Quality and Parenting on Children’s Peer Relationships · [DOI](https://doi.org/10.1177/0192513x13487680)
 - Extending the Job Demands–Resources Model · [DOI](https://doi.org/10.1177/0192513x13518777)
 - Costs of and Satisfaction With Child Care Arrangements for Parents of Children With Emotional or Behavioral Disorders · [DOI](https://doi.org/10.1177/0192513x14539154)
-- Introduction · [DOI](https://doi.org/10.1177/0192513x14563795)
 - The Influence of Parental Beliefs on the Development of Chinese Adolescents Experiencing Economic Disadvantage · [DOI](https://doi.org/10.1177/0192513x13518776)
 - Heterogeneity in Contemporary Chinese Marriage · [DOI](https://doi.org/10.1177/0192513x14538030)
 - Adolescent Siblings’ Suicide Ideation · [DOI](https://doi.org/10.1177/0192513x14527095)
@@ -1306,7 +1303,6 @@
 - The Reconstruction of Fatherhood Across Two Generations · [DOI](https://doi.org/10.1177/0192513x14528712)
 - Children First? Changing Attitudes Toward the Primacy of Children in Five European Countries · [DOI](https://doi.org/10.1177/0192513x13519255)
 - Gender Equality in Sweden · [DOI](https://doi.org/10.1177/0192513x14522236)
-- Introduction · [DOI](https://doi.org/10.1177/0192513x14557490)
 
 ## 2013
 
@@ -2058,7 +2054,6 @@
 - Models of Time Use in Paid and Unpaid Work · [DOI](https://doi.org/10.1177/0192513x04273583)
 - The Relationship of Childhood Sexual Abuse to the Marital Attitudes and Readiness for Marriage of Single Young Adult Women · [DOI](https://doi.org/10.1177/0192513x04270474)
 - Gender in Cohabitation and Marriage · [DOI](https://doi.org/10.1177/0192513x04273592)
-- Introduction to the Special Issue · [DOI](https://doi.org/10.1177/0192513x05277494)
 - Adult Couples Facing a Planned or an Unplanned Pregnancy · [DOI](https://doi.org/10.1177/0192513x04272756)
 - Cultural and Acculturation Differences in Trajectories of Home Environment Inventory Scores for Latino Children and Families · [DOI](https://doi.org/10.1177/0192513x04273586)
 - The Moderating Effects of Work-Family Role Combinations and Work-Family Organizational Culture on the Relationship Between Family-Friendly Workplace Supports and Job Satisfaction · [DOI](https://doi.org/10.1177/0192513x05277546)
@@ -2083,7 +2078,6 @@
 
 - Family Values as Practiced by Feminist Parents · [DOI](https://doi.org/10.1177/0192513x03261337)
 - Retirement Satisfaction for Retirees and their Spouses · [DOI](https://doi.org/10.1177/0192513x03257366)
-- Reply to Comments by Walker, Baber, and Allen · [DOI](https://doi.org/10.1177/0192513x04267104)
 - Division of Household Labor as a Source of Contention for Married and Cohabiting Couples in Metropolitan Moscow · [DOI](https://doi.org/10.1177/0192513x03256499)
 - Long-Term Effects of Child Corporal Punishment on Depressive Symptoms in Young Adults · [DOI](https://doi.org/10.1177/0192513x03258313)
 - Gender Ideologies, Marital Roles, and Marital Quality in Taiwan · [DOI](https://doi.org/10.1177/0192513x03257709)
@@ -2243,7 +2237,6 @@
 - Race, Class, and Gender Differences in Marital Satisfaction and Divisions of Household Labor Among Dual-Earner Couples · [DOI](https://doi.org/10.1177/019251301022003003)
 - Community Effects on the Resolution of Adolescent Premarital Pregnancy · [DOI](https://doi.org/10.1177/019251301022008004)
 - It Takes an Urban Village · [DOI](https://doi.org/10.1177/019251301022002003)
-- Family Therapy's Response to Family Diversity · [DOI](https://doi.org/10.1177/019251301022007006)
 - Grandmothers Who Parent Their Grandchildren · [DOI](https://doi.org/10.1177/019251301022005002)
 - Paternal Participation in Child Care and Its Effects on Children's Self-Esteem and Attitudes Toward Gendered Roles · [DOI](https://doi.org/10.1177/019251301022008003)
 - Distributive-Justice Reasoning in Families With Adolescents · [DOI](https://doi.org/10.1177/019251301022001005)

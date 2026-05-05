@@ -1,7 +1,7 @@
 # Sociological Science
 ## 2020–2026 年文章（含摘要）
 
-共 **200** 篇
+共 **196** 篇
 
 ---
 
@@ -219,11 +219,6 @@
 **年份**: 2025 | **DOI**: [10.15195/v12.a3](https://doi.org/10.15195/v12.a3)
 **作者**: Qian, Yue; Hu, Yang
 **摘要**: The quality and stability of couple relationships have far-reaching consequences for the well-being of individual partners and patterns of family change. Although much research has compared the quality and stability of same-sex and different-sex relationships, the multidimensional nature of sexualit…
-
-### Validating Factorial Survey Experiments: Response to Comment
-**年份**: 2025 | **DOI**: [10.15195/v12.a6](https://doi.org/10.15195/v12.a6)
-**作者**: Forster, Andrea; Neugebauer, Martin
-**摘要**: （暂无）
 
 ### Do Employers Care about Past Mobility? A Field Experiment Examining Hiring Preferences in Technology and Non-Technology Jobs
 **年份**: 2025 | **DOI**: [10.15195/v12.a11](https://doi.org/10.15195/v12.a11)
@@ -595,11 +590,6 @@
 **作者**: Kroneberg, Clemens; Wittek, Mark
 **摘要**: Research on ethnic segregation in schools regularly assumed that ethnic homophily—the tendency to befriend same-ethnic peers, above and beyond other mechanisms of tie formation—is associated with salient ethnic boundaries.…
 
-### “Looking for It in Genetix”: Response to Comment
-**年份**: 2023 | **DOI**: [10.15195/v10.a16](https://doi.org/10.15195/v10.a16)
-**作者**: Jæger, Mads; Møllegaard, Stine
-**摘要**: （暂无）
-
 ### There’s More in the Data! Using Month-Specific Information to Estimate Changes Before and After Major Life Events
 **年份**: 2023 | **DOI**: [10.15195/v10.a29](https://doi.org/10.15195/v10.a29)
 **作者**: Hudde, Ansgar; Jacob, Marita
@@ -609,11 +599,6 @@
 **年份**: 2023 | **DOI**: [10.15195/v10.a7](https://doi.org/10.15195/v10.a7)
 **作者**: Lu, Xuege (Cathy); Wang, Shinan; Zhang, Letian
 **摘要**: Why do people engage with similar others despite ample opportunities to interact with dissimilar others? We argue that adversity or setbacks may have a stronger deteriorative effect on ties made up of dissimilar individuals, prompting people to give up on such ties more easily, which, over the long …
-
-### Testing Models of Cognition and Action Using Response Conflict and Multinomial Processing Tree Models
-**年份**: 2023 | **DOI**: [10.15195/v10.a4](https://doi.org/10.15195/v10.a4)
-**作者**: Miles, Andrew; Brett, Gordon; Khan, Salwa 等4人
-**摘要**: Dual-process perspectives have made substantial contributions to our understanding of behavior, but fundamental questions about how and when deliberate and automatic cognition shape action continue to be debated.…
 
 ### Money, Birth, Gender: Explaining Unequal Earnings Trajectories following Parenthood
 **年份**: 2023 | **DOI**: [10.15195/v10.a14](https://doi.org/10.15195/v10.a14)
@@ -919,11 +904,6 @@
 **年份**: 2020 | **DOI**: [10.15195/v7.a1](https://doi.org/10.15195/v7.a1)
 **作者**: Jones, Jason; Amin, Mohammad; Kim, Jessica 等4人
 **摘要**: Using a corpus of millions of digitized books, we document the presence and trajectory over time of stereotypical gender associations in the written English language from 1800 to 2000.…
-
-### The Influence of Changing Marginals on Measures of Inequality in Scholarly Citations: Evidence of Bias and a Resampling Correction
-**年份**: 2020 | **DOI**: [10.15195/v7.a13](https://doi.org/10.15195/v7.a13)
-**作者**: Kim, Lanu; Adoph, Christopher; West, Jevin 等4人
-**摘要**: Scholars have debated whether changes in digital environments have led to greater concentration or dispersal of scientific citations, but this debate has paid little attention to how other changes in the publication environment may impact the commonly used measures of inequality.…
 
 ### Re-examining How Partner Co-presence and Multitasking Affect Parents’ Enjoyment of Childcare and Housework
 **年份**: 2020 | **DOI**: [10.15195/v7.a11](https://doi.org/10.15195/v7.a11)

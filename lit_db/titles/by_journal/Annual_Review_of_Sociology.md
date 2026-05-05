@@ -1,6 +1,6 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **537** 篇 | 年份范围：1975–2025
+共 **534** 篇 | 年份范围：1975–2025
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -194,7 +194,6 @@
 
 ## 2017
 
-- Data ex Machina: Introduction to Big Data · [DOI](https://doi.org/10.1146/annurev-soc-060116-053457)
 - The Demand Side of Hiring: Employers in the Labor Market · [DOI](https://doi.org/10.1146/annurev-soc-081715-074255)
 - Categorical Inequality: Schools As Sorting Machines · [DOI](https://doi.org/10.1146/annurev-soc-060116-053354)
 - Skin Color and Colorism: Global Research, Concepts, and Measurement · [DOI](https://doi.org/10.1146/annurev-soc-060116-053315)
@@ -317,7 +316,6 @@
 - Economic Institutions and the State: Insights from Economic History · [DOI](https://doi.org/10.1146/annurev-soc-071811-145436)
 - Demographic Change and Parent-Child Relationships in Adulthood · [DOI](https://doi.org/10.1146/annurev-soc-071312-145602)
 - Gender and Crime · [DOI](https://doi.org/10.1146/annurev-soc-071312-145605)
-- From Social Structure to Gene Regulation, and Back: A Critical Introduction to Environmental Epigenetics for Sociology · [DOI](https://doi.org/10.1146/annurev-soc-071312-145707)
 - Racial Formation in Perspective: Connecting Individuals, Institutions, and Power Relations · [DOI](https://doi.org/10.1146/annurev-soc-071312-145639)
 - The Critical Sociology of Race and Sport: The First Fifty Years · [DOI](https://doi.org/10.1146/annurev-soc-071811-145528)
 - International Migration and Familial Change in Communities of Origin: Transformation and Resistance · [DOI](https://doi.org/10.1146/annurev-soc-122012-112720)
@@ -670,7 +668,6 @@
 ## 1977
 
 - Recent Developments in Polish Sociology · [DOI](https://doi.org/10.1146/annurev.so.03.080177.001555)
-- Response to Social Crisis and Disaster · [DOI](https://doi.org/10.1146/annurev.so.03.080177.000323)
 
 ## 1976
 

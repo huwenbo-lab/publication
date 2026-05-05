@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2010–2019 年文章（含摘要）
 
-共 **413** 篇
+共 **412** 篇
 
 ---
 
@@ -864,11 +864,6 @@
 **年份**: 2015 | **DOI**: [10.1177/0003122414551552](https://doi.org/10.1177/0003122414551552)
 **作者**: Sykes, Jennifer; Kriz, Katrin; Edin, Kathryn 等4人
 **摘要**: Money has meaning that shapes its uses and social significance, including the monies low-income families draw on for survival: wages, welfare, and the Earned Income Tax Credit (EITC).…
-
-### Can Ratings Have Indirect Effects? Evidence from the Organizational Response to Peers' Environmental Ratings
-**年份**: 2015 | **DOI**: [10.1177/0003122414559043](https://doi.org/10.1177/0003122414559043)
-**作者**: Sharkey, Amanda J.; Bromley, Patricia
-**摘要**: Organizations are increasingly subject to rating and ranking by third-party evaluators. Research in this area tends to emphasize the direct effects of ratings systems that occur when ratings give key audiences, such as consumers or investors, more information about a rated firm.…
 
 ### Positioning Multiraciality in Cyberspace: Treatment of Multiracial Daters in an Online Dating Website
 **年份**: 2015 | **DOI**: [10.1177/0003122415591268](https://doi.org/10.1177/0003122415591268)

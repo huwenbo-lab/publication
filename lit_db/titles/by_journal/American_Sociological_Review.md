@@ -1,6 +1,6 @@
 # American Sociological Review — 文章标题索引
 
-共 **1119** 篇 | 年份范围：1940–2026
+共 **1109** 篇 | 年份范围：1940–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -235,7 +235,6 @@
 - Educational Expansion, Skills Diffusion, and the Economic Value of Credentials and Skills · [DOI](https://doi.org/10.1177/0003122419897873)
 - Does Use of Emotion Increase Donations and Volunteers for Nonprofits? · [DOI](https://doi.org/10.1177/0003122420960104)
 - Workplace Compensation Practices and the Rise in Benefit Inequality · [DOI](https://doi.org/10.1177/0003122420912505)
-- Contraction as a Response to Group Threat: Demographic Decline and Whites' Classification of People Who Are Ambiguously White · [DOI](https://doi.org/10.1177/0003122420905127)
 - We Built This: Consequences of New Deal Era Intervention in America's Racial Geography · [DOI](https://doi.org/10.1177/0003122420948464)
 - National Family Policies and Mothers' Employment: How Earnings Inequality Shapes Policy Effects across and within Countries · [DOI](https://doi.org/10.1177/0003122420922505)
 - The Variability of Occupational Attainment: How Prestige Trajectories Diversified within Birth Cohorts over the Twentieth Century · [DOI](https://doi.org/10.1177/0003122420966324)
@@ -438,7 +437,6 @@
 - Neighborhood Foreclosures, Racial/Ethnic Transitions, and Residential Segregation · [DOI](https://doi.org/10.1177/0003122415581334)
 - The (Re)genesis of Values: Examining the Importance of Values for Action · [DOI](https://doi.org/10.1177/0003122415591800)
 - Dignity and Dreams: What the Earned Income Tax Credit (EITC) Means to Low-Income Families · [DOI](https://doi.org/10.1177/0003122414551552)
-- Can Ratings Have Indirect Effects? Evidence from the Organizational Response to Peers' Environmental Ratings · [DOI](https://doi.org/10.1177/0003122414559043)
 - Positioning Multiraciality in Cyberspace: Treatment of Multiracial Daters in an Online Dating Website · [DOI](https://doi.org/10.1177/0003122415591268)
 - Cultural Knowledge and Social Inequality · [DOI](https://doi.org/10.1177/0003122414565814)
 - The Power of Transparency: Evidence from a British Workplace Survey · [DOI](https://doi.org/10.1177/0003122415597019)
@@ -1022,7 +1020,6 @@
 - Parental influences on the gendered division of housework · [DOI](https://doi.org/10.2307/2657414)
 - Intellectualization and art world development: Film in the United States · [DOI](https://doi.org/10.2307/3088886)
 - Powerlessness and the amplification of threat: Neighborhood disadvantage, disorder, and mistrust · [DOI](https://doi.org/10.2307/3088923)
-- Feminist critics uncover determinism, positivism, and antiquated theory - Reply · [DOI](https://doi.org/10.2307/3088927)
 - Time-dependent effects of wives' employment on marital dissolution · [DOI](https://doi.org/10.2307/2657416)
 - Studying status: An integrated framework · [DOI](https://doi.org/10.2307/2657395)
 - Justice processes: Specifying the mediating role of perceptions of distributive justice · [DOI](https://doi.org/10.2307/2657396)
@@ -1050,7 +1047,6 @@
 
 - Family chance, employment transitions, and the welfare state: Household income dynamics in the United States and Germany · [DOI](https://doi.org/10.2307/2657461)
 - A new solution to the collective action problem: The paradox of voter turnout · [DOI](https://doi.org/10.2307/2657465)
-- Environmentalism as a global institution -: Reply to Buttel · [DOI](https://doi.org/10.2307/2657293)
 - Routes to children's economic recovery after divorce: Are cohabitation and remarriage equivalent? · [DOI](https://doi.org/10.2307/2657383)
 - The nation-state and the natural environment over the twentieth century · [DOI](https://doi.org/10.2307/2657291)
 - Analyzing educational careers: A multinomial transition model · [DOI](https://doi.org/10.2307/2657545)
@@ -1125,7 +1121,6 @@
 
 - An Extension of the Sorensen-Kalleberg Theory of the Labor Market Matching and Attainment Processes · [DOI](https://doi.org/10.2307/2096386)
 - Income Inequality and Democratization Revisited: Comment on Muller · [DOI](https://doi.org/10.2307/2096436)
-- Prejudice as a Response to Perceived Group Threat: Population Composition and Anti-Immigrant and Racial Prejudice in Europe · [DOI](https://doi.org/10.2307/2096296)
 - American Indian Ethnic Renewal: Politics and the Resurgence of Identity · [DOI](https://doi.org/10.2307/2096434)
 
 ## 1994
@@ -1138,7 +1133,6 @@
 ## 1993
 
 - The Seeds of Weak Power: An Extension of Network Exchange Theory · [DOI](https://doi.org/10.2307/2095966)
-- Booing: The Anatomy of a Disaffiliative Response · [DOI](https://doi.org/10.2307/2096221)
 
 ## 1992
 
@@ -1158,7 +1152,6 @@
 - Collaring the Crime, not the Criminal: Reconsidering the Concept of White-Collar Crime · [DOI](https://doi.org/10.2307/2095761)
 - Ethnomethodology and the Micro-Macro Order · [DOI](https://doi.org/10.2307/2095746)
 - Life Transitions, Role Histories, and Mental Health · [DOI](https://doi.org/10.2307/2095627)
-- Reply: Cumulation and Anticumulation in Sociology · [DOI](https://doi.org/10.2307/2095770)
 
 ## 1989
 
@@ -1193,7 +1186,6 @@
 
 ## 1983
 
-- An Introduction to Sample Selection Bias in Sociological Data · [DOI](https://doi.org/10.2307/2095230)
 - Causes and Consequences of Sex-Role Attitudes and Attitude Change · [DOI](https://doi.org/10.2307/2095106)
 - The Formation and Stability of Instructional Groups · [DOI](https://doi.org/10.2307/2095329)
 
@@ -1230,7 +1222,6 @@
 
 ## 1975
 
-- Reply to Parsons · [DOI](https://doi.org/10.2307/2094202)
 - On "De-Parsonizing Weber" · [DOI](https://doi.org/10.2307/2094201)
 - Socioeconomic Status and Religious Participation · [DOI](https://doi.org/10.2307/2094180)
 - The Effects of International Economic Dependence on Development and Inequality: A Cross-National Study · [DOI](https://doi.org/10.2307/2094176)
@@ -1269,7 +1260,6 @@
 ## 1965
 
 - The Cohort as a Concept in the Study of Social Change · [DOI](https://doi.org/10.2307/2090964)
-- Industrial Jobs and the Worker: An Investigation of Response to Task Attributes. · [DOI](https://doi.org/10.2307/2091181)
 
 ## 1963
 

@@ -1,6 +1,6 @@
 # Sociological Science — 文章标题索引
 
-共 **394** 篇 | 年份范围：2014–2026
+共 **389** 篇 | 年份范围：2014–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -53,7 +53,6 @@
 - Commuting and Gender Differences in Job Opportunities · [DOI](https://doi.org/10.15195/v12.a8)
 - Streaming Platforms, Filter Bubbles, and Cultural Inequalities. How Online Services Increase Consumption Diversity · [DOI](https://doi.org/10.15195/v12.a24)
 - Straight Jacket: The Implications of Multidimensional Sexuality for Relationship Quality and Stability · [DOI](https://doi.org/10.15195/v12.a3)
-- Validating Factorial Survey Experiments: Response to Comment · [DOI](https://doi.org/10.15195/v12.a6)
 - Do Employers Care about Past Mobility? A Field Experiment Examining Hiring Preferences in Technology and Non-Technology Jobs · [DOI](https://doi.org/10.15195/v12.a11)
 - What Are You Talking about? Discussion Frequency of Issues Captured in Common Survey Questions · [DOI](https://doi.org/10.15195/v12.a12)
 - The Risk Creates the Reward: Reputational Returns to Legal and Quality Risks in Online Illegal Drug Trade · [DOI](https://doi.org/10.15195/v12.a1)
@@ -134,10 +133,8 @@
 - Ethno-nationalism and Right-Wing Extremist Violence in the United States, 2000 through 2018 · [DOI](https://doi.org/10.15195/v10.a6)
 - Dissecting the Lexis Table: Summarizing Population-Level Temporal Variability with Age–Period–Cohort Data · [DOI](https://doi.org/10.15195/v10.a5)
 - The Ethnic Lens: Social Networks and the Salience of Ethnicity in the School Context · [DOI](https://doi.org/10.15195/v10.a22)
-- “Looking for It in Genetix”: Response to Comment · [DOI](https://doi.org/10.15195/v10.a16)
 - There’s More in the Data! Using Month-Specific Information to Estimate Changes Before and After Major Life Events · [DOI](https://doi.org/10.15195/v10.a29)
 - Homophily, Setbacks, and the Dissolution of Heterogeneous Ties: Evidence from Professional Tennis · [DOI](https://doi.org/10.15195/v10.a7)
-- Testing Models of Cognition and Action Using Response Conflict and Multinomial Processing Tree Models · [DOI](https://doi.org/10.15195/v10.a4)
 - Money, Birth, Gender: Explaining Unequal Earnings Trajectories following Parenthood · [DOI](https://doi.org/10.15195/v10.a14)
 - Subjective Political Polarization · [DOI](https://doi.org/10.15195/v10.a32)
 - Cross-Group Differences in Age, Period, and Cohort Effects: A Bounding Approach to the Gender Wage Gap · [DOI](https://doi.org/10.15195/v10.a26)
@@ -208,7 +205,6 @@
 - The Inheritance of Race Revisited: Childhood Wealth and Income and Black–White Disadvantages in Adult Life Chances · [DOI](https://doi.org/10.15195/v7.a25)
 - Threshold Models of Collective Behavior II: The Predictability Paradox and Spontaneous Instigation · [DOI](https://doi.org/10.15195/v7.a26)
 - Stereotypical Gender Associations in Language Have Decreased Over Time · [DOI](https://doi.org/10.15195/v7.a1)
-- The Influence of Changing Marginals on Measures of Inequality in Scholarly Citations: Evidence of Bias and a Resampling Correction · [DOI](https://doi.org/10.15195/v7.a13)
 - Re-examining How Partner Co-presence and Multitasking Affect Parents’ Enjoyment of Childcare and Housework · [DOI](https://doi.org/10.15195/v7.a11)
 - Sexual Identity Disclosure among Lesbian, Gay, and Bisexual Individuals · [DOI](https://doi.org/10.15195/v7.a21)
 - Interactions between Polygenic Scores and Environments: Methodological and Conceptual Challenges · [DOI](https://doi.org/10.15195/v7.a19)
@@ -314,7 +310,6 @@
 - Social Class and Party Identification During the Clinton, Bush, and Obama Presidencies · [DOI](https://doi.org/10.15195/v4.a16)
 - The Partial Deinstitutionalization of Affirmative Action in U.S. Higher Education, 1988 to 2014 · [DOI](https://doi.org/10.15195/v4.a18)
 - How Black Are Lakisha and Jamal? Racial Perceptions from Names Used in Correspondence Audit Studies · [DOI](https://doi.org/10.15195/v4.a19)
-- The Persistent and Exceptional Intensity of American Religion: A Response to Recent Research · [DOI](https://doi.org/10.15195/v4.a28)
 - Improving the Measurement of Shared Cultural Schemas with Correlational Class Analysis: Theory and Method · [DOI](https://doi.org/10.15195/v4.a15)
 - Making Friends in Violent Neighborhoods: Strategies among Elementary School Children · [DOI](https://doi.org/10.15195/v4.a10)
 - Marriage, Choice, and Couplehood in the Age of the Internet · [DOI](https://doi.org/10.15195/v4.a20)

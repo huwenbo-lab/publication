@@ -1,11 +1,42 @@
+# Python / local runtime
 venv/
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# OS / editor / local assistant state
 .DS_Store
 .claude/
-
-# 生成文件（从 articles.json 重建即可）
-literature.db
-
-# 补全进度缓存
 .cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Logs, temporary files, and local archives
+*.log
+*.tmp
+*.bak
+logs/*
+!logs/README.md
+archive/*
+!archive/README.md
+
+# Audit outputs and rollback snapshots: keep locally, do not push by default.
+backups/
+exports/
+
+# Generated search database. GitHub Pages builds it during deploy.
+literature.db
+*.sqlite
+*.sqlite3
+*.db
+!api/**/*.json

@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: weekly-publication-update
+  cancel-in-progress: false
+
 jobs:
   update-database:
     runs-on: ubuntu-latest
@@ -31,15 +35,17 @@ jobs:
 
       - name: Rebuild derived outputs
         run: |
-          python scripts/build_lit_db.py
           python scripts/build_article_api.py
+          python scripts/build_lit_db.py
+          python scripts/build_search_db.py
           python scripts/check_quality.py
+          python scripts/audit_non_articles.py --dry-run
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add articles.json data.json data.js docs/reports/update_log.md lit_db api docs/reports/data_quality_report.md
+          git add articles.json data.json data.js lit_db api docs/reports/update_log.md docs/reports/data_quality_report.md docs/reports/non_article_audit_report.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
