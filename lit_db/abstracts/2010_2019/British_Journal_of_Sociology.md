@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **591** 篇
+共 **574** 篇
 
 ---
 
@@ -430,16 +430,6 @@
 **作者**: Flemmen, Magne P.; Jarness, Vegard; Rosenlund, Lennart
 **摘要**: （暂无）
 
-### What makes for a successful sociology? A response to “Against a descriptive turn”
-**年份**: 2019 | **DOI**: [10.1111/1468-4446.12713](https://doi.org/10.1111/1468-4446.12713)
-**作者**: Savage, Mike
-**摘要**: AbstractThis paper responds to Nick Gane's “Against a descriptive turn”. I argue that descriptive research strategies are more open and inclusive than those which purport to be causal where explanatory adequacy is assessed by expert insiders.…
-
-### On culture and inequality: distinction, omnivorousness, status and class
-**年份**: 2019 | **DOI**: [10.1111/1468-4446.12678](https://doi.org/10.1111/1468-4446.12678)
-**作者**: Laurison, Daniel
-**摘要**: （暂无）
-
 ### Strategic ignorance and global governance: an ecumenical approach to epistemologies of global power
 **年份**: 2018 | **DOI**: [10.1111/1468-4446.12504](https://doi.org/10.1111/1468-4446.12504)
 **作者**: Mallard, Gregoire; McGoey, Linsey
@@ -555,11 +545,6 @@
 **作者**: Egorova, Yulia
 **摘要**: Publisher's copyright statement: This is the accepted version of the following article: Egorova, Yulia (2018). DNA, reconciliation and social empowerment. The British Journal of Sociology 69(3): 545-551, which has been published in nal form at https://doi.org/10.1111/1468-4446.12597.…
 
-### Slavery and institutional morality at Georgetown University: Reply to Nelson
-**年份**: 2018 | **DOI**: [10.1111/1468-4446.12600](https://doi.org/10.1111/1468-4446.12600)
-**作者**: Rothman, Adam
-**摘要**: （暂无）
-
 ### Morality in racialized institutions
 **年份**: 2018 | **DOI**: [10.1111/1468-4446.12598](https://doi.org/10.1111/1468-4446.12598)
 **作者**: Jones, James R.
@@ -568,11 +553,6 @@
 ### Race, Rome and the genome
 **年份**: 2018 | **DOI**: [10.1111/1468-4446.12601](https://doi.org/10.1111/1468-4446.12601)
 **作者**: Reardon, Jenny
-**摘要**: （暂无）
-
-### The social life of DNA: racial reconciliation and institutional morality after the genome - a response
-**年份**: 2018 | **DOI**: [10.1111/1468-4446.12612](https://doi.org/10.1111/1468-4446.12612)
-**作者**: Nelson, Alondra
 **摘要**: （暂无）
 
 ### Childcare by grandparents in married and cohabiting couples: evidence from Italy
@@ -1100,11 +1080,6 @@
 **作者**: Fitzgerald, Des; Rose, Nikolas; Singh, Ilina
 **摘要**: This paper proposes a re-thinking of the relationship between sociology and the biological sciences. Tracing lines of connection between the history of sociology and the contemporary landscape of biology, the paper argues for a reconfiguration of this relationship beyond popular rhetorics of biologi…
 
-### Graeber, D.The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of BureaucracyMelville House Publishing: New York2015 261 pp. £18.99 (hardback)
-**年份**: 2016 | **DOI**: [10.1111/1468-4446.12166](https://doi.org/10.1111/1468-4446.12166)
-**作者**: Komporozos‐Athanasiou, Aris
-**摘要**: （暂无）
-
 ### On reflexivity and the conduct of the self in everyday life: reflections on Bourdieu and Archer
 **年份**: 2015 | **DOI**: [10.1111/1468-4446.12150](https://doi.org/10.1111/1468-4446.12150)
 **作者**: Akram, Sadiya; Hogan, Anthony
@@ -1373,10 +1348,6 @@
 ### Parker, C. and Lehmann Nielsen, V. (eds) Explaining Compliance: Business Responses to RegulationEdward Elgar2011 400 pp. £98.00 (hardback)
 **年份**: 2014 | **DOI**: [10.1111/1468-4446.12062](https://doi.org/10.1111/1468-4446.12062)
 **作者**: Lewin, Siân
-**摘要**: （暂无）
-
-### Piketty symposium: Editors' introduction
-**年份**: 2014 | **DOI**: [10.1111/1468-4446.12113](https://doi.org/10.1111/1468-4446.12113)
 **摘要**: （暂无）
 
 ### Uncertainty: the Curate's egg in financial economics
@@ -1666,11 +1637,6 @@
 **作者**: Kruttschnitt, Candace; Dirkzwager, Anja; Kennedy, Liam
 **摘要**: AbstractA wide range of scholarship examining the global effects of neo‐liberalism draws attention to the precarious position of individuals who are not seen as part of the social body.…
 
-### Tension points in real social science: A response
-**年份**: 2013 | **DOI**: [10.1111/1468-4446.12047_4](https://doi.org/10.1111/1468-4446.12047_4)
-**作者**: Flyvbjerg, Bent; Landman, Todd; Schram, Sanford
-**摘要**: Social science today often contents itself with trying to explain particular events in terms of general models without understanding those events as experienced by the people being studied and without providing findings that might help people address the problems they are experiencing.It can be argu…
-
 ### Yuval–Davis, NiraThe Politics of Belonging: Intersectional Contestations, Sage2011 226 pp. £79 (hardback) £26.99 (paperback)
 **年份**: 2013 | **DOI**: [10.1111/1468-4446.12022_7](https://doi.org/10.1111/1468-4446.12022_7)
 **作者**: Rashid, Naaz
@@ -1685,16 +1651,6 @@
 **年份**: 2013 | **DOI**: [10.1111/1468-4446.12021](https://doi.org/10.1111/1468-4446.12021)
 **作者**: Boliver, Vikki
 **摘要**: AbstractNow that most UK universities have increased their tuition fees to £9,000 a year and are implementing new Access Agreements as required by the Office for Fair Access, it has never been more important to examine the extent of fair access to UK higher education and to more prestigious UK unive…
-
-### Reply to Craig Calhoun
-**年份**: 2013 | **DOI**: [10.1111/1468-4446.12003](https://doi.org/10.1111/1468-4446.12003)
-**作者**: Gitlin, Todd
-**摘要**: （暂无）
-
-### What is a critical theory of the risk society? A reply to Beck
-**年份**: 2013 | **DOI**: [10.1111/1468-4446.12006](https://doi.org/10.1111/1468-4446.12006)
-**作者**: Curran, Dean
-**摘要**: （暂无）
 
 ### Neighbourhood social ties: how much do residential, physical and virtual mobility matter?
 **年份**: 2013 | **DOI**: [10.1111/1468-4446.12026](https://doi.org/10.1111/1468-4446.12026)
@@ -1787,11 +1743,6 @@
 ### Bayat, Asef. Life as Politics: How Ordinary People Change the Middle East2010Amsterdam University Press 320 pp. $60 (hardback) $22.95 (paperback) E‐book $22.95
 **年份**: 2013 | **DOI**: [10.1111/1468-4446.12012](https://doi.org/10.1111/1468-4446.12012)
 **作者**: Moghadam, Val
-**摘要**: （暂无）
-
-### Editor's introduction
-**年份**: 2013 | **DOI**: [10.1111/1468-4446.12013](https://doi.org/10.1111/1468-4446.12013)
-**作者**: Slater, Don
 **摘要**: （暂无）
 
 ### Self, Career and Nationhood: The contrasting aspirations of British and French elite graduates
@@ -1981,11 +1932,6 @@
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2011.01400.x](https://doi.org/10.1111/j.1468-4446.2011.01400.x)
 **摘要**: （暂无）
 
-### Individuality, sociological institutionalism, and continuing inequalities: a response to commentators
-**年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2012.01405.x](https://doi.org/10.1111/j.1468-4446.2012.01405.x)
-**作者**: Soysal, Yasemin Nuhoğlu
-**摘要**: （暂无）
-
 ### Who do you think they were? How family historians make sense of social position and inequality in the past
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2011.01393.x](https://doi.org/10.1111/j.1468-4446.2011.01393.x)
 **作者**: Bottero, Wendy
@@ -2155,11 +2101,6 @@
 **作者**: Featherstone, Mark
 **摘要**: （暂无）
 
-### Review Essay: Empires, ancient and modern
-**年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01378.x](https://doi.org/10.1111/j.1468-4446.2011.01378.x)
-**作者**: Hall, John A.
-**摘要**: AbstractThis essay drews attention to two books on empires by historians which deserve the attention of sociologists. Bang's model of the workings of the Roman economy powerfully demonstrates the tributary nature of per‐industrial tributary empires.…
-
 ### ‘Being there’: multidimensionality, reflexivity and the study of emotional lives
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01374.x](https://doi.org/10.1111/j.1468-4446.2011.01374.x)
 **作者**: Brownlie, Julie
@@ -2221,11 +2162,6 @@
 ### Communication Power - By Manuel Castells
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01369_2.x](https://doi.org/10.1111/j.1468-4446.2011.01369_2.x)
 **作者**: Couldry, Nick
-**摘要**: （暂无）
-
-### Forms of genocidal destruction: a response to commentators
-**年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01358.x](https://doi.org/10.1111/j.1468-4446.2011.01358.x)
-**作者**: Hagan, John; Kaiser, Joshua
 **摘要**: （暂无）
 
 ### Is ‘genocide’ such a good idea?
@@ -2461,11 +2397,6 @@
 **作者**: Heidensohn, Frances; Wright, Richard
 **摘要**: The British Journal of Sociology (BJS) turns 60 this year. To mark that diamond anniversary, the editors have chosen two articles from each of the Journal's six decades that, in their judgment, represent important contributions to sociology with continuing relevance today.…
 
-### Old baggage and missing luggage: a commentary on Beck and Sznaider's ‘Unpacking cosmopolitanism for the social sciences: a research agenda’
-**年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01297.x](https://doi.org/10.1111/j.1468-4446.2009.01297.x)
-**作者**: Schiller, Nina Glick
-**摘要**: （暂无）
-
 ### Islam, capitalism and the Weber theses
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01243.x](https://doi.org/10.1111/j.1468-4446.2009.01243.x)
 **作者**: Turner, Bryan S.
@@ -2690,11 +2621,6 @@
 **作者**: Bone, John; O'Reilly, Karen
 **摘要**: AbstractThis paper examines the key causes and social consequences of the much debated UK ‘housing bubble’ and its aftermath from a multidimensional sociological approach, as opposed to the economic perspective of many popular discussions.…
 
-### Not only our misfortune: reply to Rosenfeld and Savage
-**年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01335.x](https://doi.org/10.1111/j.1468-4446.2010.01335.x)
-**作者**: Holmwood, John
-**摘要**: （暂无）
-
 ### The British Journal of Sociology in the 1970s: continuity and crisis
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01280.x](https://doi.org/10.1111/j.1468-4446.2009.01280.x)
 **作者**: Tonkiss, Fran
@@ -2832,11 +2758,6 @@
 **作者**: Wallerstein, Immanuel
 **摘要**: It is in the nineteenth century and the early twentieth that the organizational structures of the sciences of man which we use today became fixed. In 1800 the categories (or ‘disciplines’) which today are standard – history, economics, sociology, anthropology, political science – did not for the mos…
 
-### Further reflections on the sociology of technology and time: a response to Hassan
-**年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01317.x](https://doi.org/10.1111/j.1468-4446.2010.01317.x)
-**作者**: Wajcman, Judy
-**摘要**: （暂无）
-
 ### Political power beyond the State: problematics of government
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01247.x](https://doi.org/10.1111/j.1468-4446.2009.01247.x)
 **作者**: Rose, Nikolas; Miller, Peter
@@ -2876,11 +2797,6 @@
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01327.x](https://doi.org/10.1111/j.1468-4446.2010.01327.x)
 **作者**: Levy, Daniel
 **摘要**: AbstractThis paper illustrates how varieties of cosmopolitanism are shaped through a mutually constitutive set of cultural dispositions and institutional practices that emerge at the interstices of global human right norms and local legal practices.…
-
-### Commentary on Heidensohn's ‘The deviance of women’: continuity and change over four decades of research on gender, crime and social control
-**年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01268.x](https://doi.org/10.1111/j.1468-4446.2009.01268.x)
-**作者**: Miller, Jody
-**摘要**: （暂无）
 
 ### Language speaks more than it says: some reflections on the work of Basil Bernstein
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01284.x](https://doi.org/10.1111/j.1468-4446.2009.01284.x)

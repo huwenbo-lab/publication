@@ -24,7 +24,7 @@
     </header>
 
     <section class="utility-bar panel" aria-label="本地工具">
-        <div class="utility-copy">本地工具：收藏候选文章、导出 BibTeX / CSV，并在浅色与深色主题之间切换。</div>
+        <div class="utility-copy">本地工具：按文件夹管理收藏、导出 BibTeX / CSV / JSON，并在浅色与深色主题之间切换。</div>
         <div class="utility-actions">
             <button id="dashboard-toggle" class="ghost-btn utility-btn" type="button" aria-expanded="false" aria-controls="dashboard-panel">数据库概况</button>
             <button id="theme-toggle" class="ghost-btn utility-btn" type="button" aria-pressed="false">主题：浅色</button>
@@ -45,6 +45,7 @@
     <nav id="tabbar" class="tabbar panel" aria-label="视图切换">
         <button class="tab-btn active" type="button" data-mode="search">搜索</button>
         <button class="tab-btn" type="button" data-mode="browse">浏览</button>
+        <button class="tab-btn" type="button" data-mode="scholars">高产作者</button>
     </nav>
 
     <section id="dashboard-panel" class="dashboard panel" aria-label="数据库概况" hidden>
@@ -105,6 +106,10 @@
                         <input id="has-abstract-only" type="checkbox">
                         <span>只看有摘要的文章</span>
                     </label>
+                    <label class="toggle-field" for="favorites-only">
+                        <input id="favorites-only" type="checkbox">
+                        <span>只看已收藏</span>
+                    </label>
                 </div>
                 <div class="sidebar-section">
                     <div class="browse-header">
@@ -136,6 +141,17 @@
                         <div class="search-hint">按 <code>/</code> 聚焦搜索框，<code>↑↓</code> 选结果，<code>Enter</code> 打开详情。默认每页显示 50 条结果。</div>
                         <button id="clear-query" type="button" class="ghost-btn">清空关键词</button>
                     </div>
+                    <div class="search-options-grid">
+                        <label>
+                            <span class="field-label">搜索模式</span>
+                            <select id="search-mode-select" class="select">
+                                <option value="all">全部字段</option>
+                                <option value="title_abstract">标题与摘要</option>
+                                <option value="author">作者</option>
+                                <option value="journal">期刊</option>
+                            </select>
+                        </label>
+                    </div>
                 </form>
 
                 <div id="quick-searches" class="quick-searches" aria-label="常用搜索"></div>
@@ -150,7 +166,9 @@
                         <select id="sort-select" class="select">
                             <option value="relevance">相关性优先</option>
                             <option value="year_desc">年份从新到旧</option>
+                            <option value="year_asc">年份从旧到新</option>
                             <option value="journal">按期刊排序</option>
+                            <option value="author">按作者排序</option>
                         </select>
                     </div>
                 </div>
@@ -185,8 +203,70 @@
                     <div id="year-grid" class="year-grid"></div>
                 </section>
                 <section style="margin-top: 24px;">
-                    <h2>文章列表</h2>
+                    <div class="browse-header">
+                        <h2>文章列表</h2>
+                        <div class="toolbar-controls">
+                            <label class="field-label" for="browse-sort-select">排序</label>
+                            <select id="browse-sort-select" class="select">
+                                <option value="title">按标题</option>
+                                <option value="author">按作者</option>
+                                <option value="year_desc">年份从新到旧</option>
+                                <option value="year_asc">年份从旧到新</option>
+                            </select>
+                        </div>
+                    </div>
                     <div id="browse-article-list" class="article-list"></div>
+                </section>
+            </main>
+        </div>
+    </section>
+
+    <section id="view-scholars" class="view">
+        <div class="browse-layout">
+            <aside class="sidebar sticky panel" aria-label="高产作者筛选">
+                <h2>高产作者</h2>
+                <div class="sidebar-section">
+                    <span class="field-label">最低发文数</span>
+                    <div id="scholar-thresholds" class="segmented-control" role="group" aria-label="高产作者阈值">
+                        <button type="button" class="segmented-btn" data-scholar-threshold="10">10+</button>
+                        <button type="button" class="segmented-btn active" data-scholar-threshold="20">20+</button>
+                        <button type="button" class="segmented-btn" data-scholar-threshold="30">30+</button>
+                    </div>
+                </div>
+                <div class="sidebar-section">
+                    <label class="field-label" for="scholar-journal-filter">期刊</label>
+                    <select id="scholar-journal-filter" class="select">
+                        <option value="">全部期刊</option>
+                    </select>
+                    <label class="field-label" for="scholar-year-from" style="margin-top: 14px;">年份范围</label>
+                    <div class="field-grid">
+                        <input id="scholar-year-from" class="field" type="number" min="1800" max="2100" placeholder="起始年">
+                        <input id="scholar-year-to" class="field" type="number" min="1800" max="2100" placeholder="截止年">
+                    </div>
+                </div>
+                <div class="sidebar-section">
+                    <button id="scholar-reset" type="button" class="ghost-btn utility-btn">清空作者筛选</button>
+                </div>
+            </aside>
+
+            <main class="browse-main panel">
+                <div id="scholar-status"></div>
+                <div class="browse-header">
+                    <div>
+                        <h2>作者列表</h2>
+                        <div id="scholar-summary" class="helper-text">正在加载作者索引…</div>
+                    </div>
+                </div>
+                <div id="scholar-list" class="scholar-list"></div>
+
+                <section class="scholar-articles-section">
+                    <div class="browse-header">
+                        <div>
+                            <h2 id="scholar-articles-title">作者文章</h2>
+                            <div id="scholar-articles-summary" class="helper-text">点击作者后查看其文章列表。</div>
+                        </div>
+                    </div>
+                    <div id="scholar-article-list" class="article-list"></div>
                 </section>
             </main>
         </div>
@@ -270,13 +350,32 @@
             <p id="favorites-summary" class="helper-text">正在读取收藏夹…</p>
             <div class="favorites-toolbar-actions">
                 <button id="copy-favorites-bibtex" type="button" class="tiny-btn">复制 BibTeX</button>
+                <button id="export-favorites-json" type="button" class="tiny-btn">导出 JSON</button>
                 <button id="export-favorites-bibtex" type="button" class="tiny-btn">导出 BibTeX</button>
                 <button id="export-favorites-csv" type="button" class="tiny-btn">导出 CSV</button>
+                <label class="tiny-btn file-btn" for="import-favorites-json">导入 JSON</label>
+                <input id="import-favorites-json" type="file" accept="application/json,.json" hidden>
                 <button id="clear-favorites" type="button" class="tiny-btn">清空收藏</button>
             </div>
         </div>
 
-        <div id="favorites-list" class="favorites-list"></div>
+        <div class="favorites-manager">
+            <aside class="favorites-folders" aria-label="收藏文件夹">
+                <div class="folder-tools">
+                    <label class="field-label" for="favorite-folder-path">新建文件夹路径</label>
+                    <input id="favorite-folder-path" class="field" type="text" placeholder="婚姻与家庭/婚姻意愿">
+                    <button id="create-favorite-folder" type="button" class="tiny-btn">新建文件夹</button>
+                </div>
+                <div class="folder-action-row">
+                    <button id="rename-favorite-folder" type="button" class="tiny-btn">重命名</button>
+                    <button id="delete-favorite-folder" type="button" class="tiny-btn">删除空文件夹</button>
+                </div>
+                <div id="favorite-folder-tree" class="folder-tree"></div>
+            </aside>
+            <section class="favorites-items">
+                <div id="favorites-list" class="favorites-list"></div>
+            </section>
+        </div>
     </div>
 </div>
 

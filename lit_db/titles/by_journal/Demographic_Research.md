@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1846** 篇 | 年份范围：1999–2026
+共 **1814** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -8,13 +8,6 @@
 ## 2026
 
 - The groupwise decomposition: Estimating group-specific contributions to differences between demographic measures · [DOI](https://doi.org/10.4054/demres.2026.54.14)
-- Settlement intentions of Ukrainian refugees in Germany: Adhering to social status back home or restarting again abroad? · [DOI](https://doi.org/10.4054/demres.2026.54.16)
-- Spatial perspective on environmental migration: Empirical insights from a spatiotemporal approach in the United States, 1970–2010 · [DOI](https://doi.org/10.4054/demres.2026.54.27)
-- Bayesian multidimensional mortality reconstruction · [DOI](https://doi.org/10.4054/demres.2026.54.28)
-- “Family-Anchored” transitions to adult life in Mexico · [DOI](https://doi.org/10.4054/demres.2026.54.2)
-- Probabilistic population forecasts for small regions · [DOI](https://doi.org/10.4054/demres.2026.54.23)
-- Partnership life courses and completed fertility in Spain · [DOI](https://doi.org/10.4054/demres.2026.54.29)
-- Economic insecurity and material deprivation: Coping strategies among couple families with and without small children in Europe · [DOI](https://doi.org/10.4054/demres.2026.54.25)
 
 ## 2025
 
@@ -88,7 +81,6 @@
 - Analysing migrant fertility using machine learning techniques: An application of random survival forest to longitudinal data from France · [DOI](https://doi.org/10.4054/demres.2025.53.21)
 - Amish fertility in the United States: Comparative evidence from the American Community Survey and Amish population registries · [DOI](https://doi.org/10.4054/demres.2025.52.26)
 - Life expectancy by religious affiliation in Finland 1972-2020 · [DOI](https://doi.org/10.4054/demres.2025.52.17)
-- Uncertainty, resilience, and fertility: Perceived capacity to overcome loss of employment and fertility intentions in Sweden, 2021 · [DOI](https://doi.org/10.4054/demres.2025.53.31)
 
 ## 2024
 
@@ -146,7 +138,6 @@
 - Uncovering disability-free grandparenthood in Italy between 1998 and 2016 using gender-specific decomposition · [DOI](https://doi.org/10.4054/DemRes.2024.50.42)
 - Two-dimensional contour decomposition: Decomposing mortality differences into initial difference and trend components by age and cause of death · [DOI](https://doi.org/10.4054/DemRes.2024.50.41)
 - Decomposition analysis of disparities in infant mortality rates across 27 US states · [DOI](https://doi.org/10.4054/DemRes.2024.50.40)
-- Which definition of migration better fits A response using Mexican census data · [DOI](https://doi.org/10.4054/DemRes.2024.50.39)
 - International completeness of death registration · [DOI](https://doi.org/10.4054/DemRes.2024.50.38)
 - The effect of migration and time spent abroad on migrants' health: A home/host country perspective · [DOI](https://doi.org/10.4054/DemRes.2024.50.37)
 - Pathways and obstacles to parenthood among women in same-sex couples in Spain · [DOI](https://doi.org/10.4054/DemRes.2024.50.35)
@@ -159,7 +150,6 @@
 - Mortality modelling with arrival of additional year of mortality data: Calibration and forecasting · [DOI](https://doi.org/10.4054/DemRes.2024.50.28)
 - The influence of parental cancer on the mental health of children and young adults: Evidence from Norwegian register data on healthcare consultations · [DOI](https://doi.org/10.4054/DemRes.2024.50.27)
 - The importance of education for understanding variability of dementia onset in the United States · [DOI](https://doi.org/10.4054/DemRes.2024.50.26)
-- The importance of correcting for health-related survey non-response when estimating health expectancies: Evidence from the HUNT Study · [DOI](https://doi.org/10.4054/DemRes.2024.50.25)
 - How lifespan and life years lost equate to unity · [DOI](https://doi.org/10.4054/DemRes.2024.50.24)
 - Age-heterogamous partnerships: Prevalence and partner differences by marital status and gender composition · [DOI](https://doi.org/10.4054/DemRes.2024.50.23)
 - Subnational contribution to life expectancy and life span variation changes: Evidence from the United States · [DOI](https://doi.org/10.4054/DemRes.2024.50.22)
@@ -235,7 +225,6 @@
 - How the demographic transition affects kinship networks: A formal demographic approach · [DOI](https://doi.org/10.4054/DemRes.2023.48.32)
 - Ethnic and regional inequalities in Russian military fatalities in Ukraine: Preliminary findings from crowdsourced data · [DOI](https://doi.org/10.4054/DemRes.2023.48.31)
 - Subnational variations in births and marriages during the COVID-19 pandemic in South Korea · [DOI](https://doi.org/10.4054/DemRes.2023.48.30)
-- Introduction to the Special Collection on the new roles of women and men and implications for families and societies · [DOI](https://doi.org/10.4054/DemRes.2023.48.29)
 - Age reporting for the oldest old in the Brazilian COVID-19 vaccination database: What can we learn from it? · [DOI](https://doi.org/10.4054/DemRes.2023.48.28)
 - Improved bounds and high-accuracy estimates for remaining life expectancy via quadrature rule-based methods · [DOI](https://doi.org/10.4054/DemRes.2023.48.27)
 - A test of the predictive validity of relative versus absolute income for self-reported health and well-being in the United States · [DOI](https://doi.org/10.4054/DemRes.2023.48.26)
@@ -270,7 +259,6 @@
 - The COVID-19 pandemic's unequal socioeconomic impacts on minority groups in the United States · [DOI](https://doi.org/10.4054/DemRes.2022.47.33)
 - The Spanish flu and the health system: Considerations from the city of Parma, 1918 · [DOI](https://doi.org/10.4054/DemRes.2022.47.32)
 - Adolescent fertility and high school completion in Chile: Exploring gender differences · [DOI](https://doi.org/10.4054/DemRes.2022.47.31)
-- Does race response shift impact racial inequality? · [DOI](https://doi.org/10.4054/DemRes.2022.47.30)
 - Gender and educational inequalities in disability-free life expectancy among older adults living in Italian regions · [DOI](https://doi.org/10.4054/DemRes.2022.47.29)
 - Do the consequences of parental separation for children's educational success vary by parental education? The role of educational thresholds · [DOI](https://doi.org/10.4054/DemRes.2022.47.28)
 - Small-area estimates from consumer trace data · [DOI](https://doi.org/10.4054/DemRes.2022.47.27)
@@ -402,7 +390,6 @@
 - Socioeconomic differentials in fertility in South Korea · [DOI](https://doi.org/10.4054/DemRes.2021.44.39)
 - The social context of retrospective-prospective changes in pregnancy desire during the transition to adulthood: The role of fathers and intimate relationships · [DOI](https://doi.org/10.4054/DemRes.2021.44.38)
 - Has contraceptive use at pregnancy an effect on the odds of spontaneous termination and induced abortion? Evidence from Demographic and Health Surveys · [DOI](https://doi.org/10.4054/DemRes.2021.44.37)
-- Editorial to the Special Issue on Demographic Data Visualization: Getting the point across - Reaching the potential of demographic data visualization · [DOI](https://doi.org/10.4054/DemRes.2021.44.36)
 - Outsurvival as a measure of the inequality of lifespans between two populations · [DOI](https://doi.org/10.4054/DemRes.2021.44.35)
 - Gendered intergenerational time transfers in Estonia · [DOI](https://doi.org/10.4054/DemRes.2021.44.34)
 - When partners' disagreement prevents childbearing: A couple-level analysis in Australia · [DOI](https://doi.org/10.4054/DemRes.2021.44.33)
@@ -483,13 +470,11 @@
 - At three years of age, we can see the future: Cognitive skills and the life cycle of rural Chinese children · [DOI](https://doi.org/10.4054/demres.2020.43.7)
 - Life-course and cohort effects on Chinese parents' investments in their children · [DOI](https://doi.org/10.4054/DemRes.2020.43.8)
 - Attitudes and preferences towards future old-age support amongst tomorrow's elders in China · [DOI](https://doi.org/10.4054/DemRes.2020.43.11)
-- Introduction to the special collection on life course decisions of families in China · [DOI](https://doi.org/10.4054/DemRes.2020.43.5)
 - Transitions to partnership and parenthood: Is China still traditional? · [DOI](https://doi.org/10.4054/DemRes.2020.43.6)
 - Living separately but living close: Coresidence of adult children and parents in urban China · [DOI](https://doi.org/10.4054/DemRes.2020.43.12)
 - The lasting impact of parental migration on children's education and health outcomes: The case of China · [DOI](https://doi.org/10.4054/DemRes.2020.43.9)
 - The effect of union dissolution on the fertility of women in Montevideo, Uruguay · [DOI](https://doi.org/10.4054/DemRes.2020.43.4)
 - Gender preferences and fertility: Investigating the case of Turkish immigrants in Germany · [DOI](https://doi.org/10.4054/DemRes.2020.43.3)
-- Family life transitions, residential relocations, and housing in the life course: Current research and opportunities for future work: Introduction to the Special Collection on Separation, Divorce, and Residential Mobility in a Comparative Perspective · [DOI](https://doi.org/10.4054/demres.2020.43.2)
 - Estimating annual homelessness · [DOI](https://doi.org/10.4054/DemRes.2020.43.1)
 - The formal demography of kinship II: Multistate models, parity, and sibship · [DOI](https://doi.org/10.4054/demres.2020.42.38)
 - Mobile phones, digital inequality, and fertility: Longitudinal evidence from Malawi · [DOI](https://doi.org/10.4054/DemRes.2020.42.37)
@@ -546,7 +531,6 @@
 - Parental childcare support, sibship status, and mothers' second-child plans in urban China · [DOI](https://doi.org/10.4054/DemRes.2019.41.47)
 - Forty years of fertility changes in the Sahel · [DOI](https://doi.org/10.4054/DemRes.2019.41.46)
 - Is a positive association between female employment and fertility still spurious in developed countries? · [DOI](https://doi.org/10.4054/DemRes.2019.41.45)
-- Introduction to the Special Collection on 'Children and family dynamics in sub-Saharan Africa' · [DOI](https://doi.org/10.4054/DemRes.2019.41.44)
 - The impact of the choice of life table statistics when forecasting mortality · [DOI](https://doi.org/10.4054/DemRes.2019.41.43)
 - APC curvature plots: Displaying nonlinear age-period-cohort patterns on Lexis plots · [DOI](https://doi.org/10.4054/DemRes.2019.41.42)
 - Mortality shifts and mortality compression in period and cohort life tables · [DOI](https://doi.org/10.4054/DemRes.2019.41.40)
@@ -566,7 +550,6 @@
 - The formal demography of kinship: A matrix formulation · [DOI](https://doi.org/10.4054/DemRes.2019.41.24)
 - When richer doesn't mean thinner: Ethnicity, socioeconomic position, and the risk of child obesity in the United Kingdom · [DOI](https://doi.org/10.4054/DemRes.2019.41.23)
 - An exploration of differences in ideal family size between Muslim and non-Muslim women in France · [DOI](https://doi.org/10.4054/DemRes.2019.41.22)
-- Introduction to the special collection on spatial mobility, family dynamics, and gender relations · [DOI](https://doi.org/10.4054/DemRes.2019.41.21)
 - How marriages based on bride capture differ: Evidence from Kyrgyzstan · [DOI](https://doi.org/10.4054/DemRes.2019.41.20)
 - Economic rationales for kin marriage: Assessing the evidence using Egyptian panel data · [DOI](https://doi.org/10.4054/DemRes.2019.41.19)
 - Geofaceting: Aligning small multiples for regions in a spatially meaningful way · [DOI](https://doi.org/10.4054/DemRes.2019.41.17)
@@ -781,7 +764,6 @@
 - Postmarital residence and child sex selection: Evidence from northeastern Japan, 1716-1870 · [DOI](https://doi.org/10.4054/DemRes.2017.37.43)
 - On the pace of fertility decline in sub-Saharan Africa · [DOI](https://doi.org/10.4054/DemRes.2017.37.40)
 - Decomposing changes in household measures: Household size and services in South Africa, 1994-2012 · [DOI](https://doi.org/10.4054/DemRes.2017.37.39)
-- Introduction to the Special Collection on Separation, Divorce, Repartnering, and Remarriage around the World · [DOI](https://doi.org/10.4054/DemRes.2017.37.38)
 - Social policies, separation, and second birth spacing in Western Europe · [DOI](https://doi.org/10.4054/DemRes.2017.37.37)
 - Entry into first marriage in China · [DOI](https://doi.org/10.4054/DemRes.2017.37.36)
 - Life-table representations of family dynamics in the 21st century · [DOI](https://doi.org/10.4054/DemRes.2017.37.35)
@@ -823,7 +805,6 @@
 - How many old people have ever lived? · [DOI](https://doi.org/10.4054/DemRes.2017.36.54)
 - On the normative foundations of marriage and cohabitation: Results from group discussions in eastern and western Germany · [DOI](https://doi.org/10.4054/DemRes.2017.36.53)
 - The relationship between women's paid employment and women's stated son preference in India · [DOI](https://doi.org/10.4054/DemRes.2017.36.52)
-- The fertility response to the Great Recession in Europe and the United States: Structural economic conditions and perceived economic uncertainty · [DOI](https://doi.org/10.4054/DemRes.2017.36.51)
 - Divorce and separation in the Philippines: Trends and correlates · [DOI](https://doi.org/10.4054/DemRes.2017.36.50)
 - The quest for a 'better life': Second-generation Turkish-Germans 'return' to 'paradise' · [DOI](https://doi.org/10.4054/DemRes.2017.36.49)
 - The welfare state and demographic dividends · [DOI](https://doi.org/10.4054/DemRes.2017.36.48)
@@ -930,7 +911,6 @@
 - Differences in perinatal health between immigrant and native-origin children: Evidence from differentials in birth weight in Spain · [DOI](https://doi.org/10.4054/DemRes.2016.35.7)
 - Sigma and beta convergence in regional mortality: A case study of the Netherlands · [DOI](https://doi.org/10.4054/DemRes.2016.35.4)
 - Pragmatic tradition or romantic aspiration? The causes of impulsive marriage and early divorce among women in rural Malawi · [DOI](https://doi.org/10.4054/DemRes.2016.35.3)
-- Introduction to research on immigrant and ethnic minority families in Europe · [DOI](https://doi.org/10.4054/DemRes.2016.35.2)
 - Types of spatial mobility and change in people's ethnic residential contexts · [DOI](https://doi.org/10.4054/DemRes.2016.34.41)
 - Understanding patterns of contraceptive use among never married Mexican American women · [DOI](https://doi.org/10.4054/DemRes.2016.34.40)
 - Child mortality estimation: An assessment of summary birth history methods using microsimulation · [DOI](https://doi.org/10.4054/DemRes.2016.34.39)
@@ -979,7 +959,6 @@
 - Gender inequalities in employment and wage-earning among internal labour migrants in Chinese cities
 - Does selection of mortality model make a difference in projecting population ageing? · [DOI](https://doi.org/10.4054/demres.2016.34.2)
 - The relationship between unemployment and fertility in Italy: A time-series analysis
-- Loss aversion and duration of residence · [DOI](https://doi.org/10.4054/demres.2016.35.36)
 
 ## 2015
 
@@ -1032,7 +1011,6 @@
 - Long-term consequences of adolescent fertility: The Colombian case · [DOI](https://doi.org/10.4054/DemRes.2015.32.55)
 - Measuring a neighborhood affluence-deprivation continuum in urban settings: Descriptive findings from four US cities · [DOI](https://doi.org/10.4054/DemRes.2015.32.54)
 - Engendering the fertility/migration nexus: The role of women's migratory patterns in the analysis of fertility after migration · [DOI](https://doi.org/10.4054/DemRes.2015.32.53)
-- TFR for males in Denmark - calculation and tempo-correction · [DOI](https://doi.org/10.4054/DemRes.2015.32.52)
 - The causal effect of an additional sibling on completed fertility: An estimation of intergenerational fertility correlations by looking at siblings of twins · [DOI](https://doi.org/10.4054/DemRes.2015.32.51)
 - Living alone: One-person households in Asia · [DOI](https://doi.org/10.4054/DemRes.2015.32.40)
 - Living alone in South and Southeast Asia: An analysis of census data · [DOI](https://doi.org/10.4054/DemRes.2015.32.41)
@@ -1051,8 +1029,6 @@
 - The low importance of marriage in eastern Germany - social norms and the role of peoples' perceptions of the past · [DOI](https://doi.org/10.4054/demres.2015.33.9)
 - Reconstructing trends in international migration with three questions in household surveys · [DOI](https://doi.org/10.4054/demres.2015.32.35)
 - On the age-specific correlation between fertility and female employment · [DOI](https://doi.org/10.4054/demres.2015.32.23)
-- Migration signatures across the decades · [DOI](https://doi.org/10.4054/demres.2015.32.38)
-- Quality of demographic data in GGS Wave 1 · [DOI](https://doi.org/10.4054/demres.2015.32.24)
 
 ## 2014
 
@@ -1115,7 +1091,6 @@
 - Certainty of meeting fertility intentions declines in Europe during the 'Great Recession' · [DOI](https://doi.org/10.4054/demres.2014.31.23)
 - Economic crisis and women’s labor force return after childbirth: Evidence from South Korea · [DOI](https://doi.org/10.4054/demres.2014.31.18)
 - Mortality selection in the first three months of life and survival in the following thirty-three months in rural Veneto (North-East Italy) from 1816 to 1835 · [DOI](https://doi.org/10.4054/demres.2014.31.39)
-- Socioeconomic status and fertility before, during, and after the demographic transition: An introduction · [DOI](https://doi.org/10.4054/demres.2014.31.7)
 - Attitudes on marriage and new relationships · [DOI](https://doi.org/10.4054/demres.2014.30.54)
 - Gender and time allocation of cohabiting and married women and men in France, Italy, and the United States · [DOI](https://doi.org/10.4054/demres.2014.31.8)
 - Ageing dynamics of a human-capital-specific population · [DOI](https://doi.org/10.4054/demres.2014.31.44)
@@ -1345,7 +1320,6 @@
 - The crossover between life expectancies at birth and at age one: The imbalance in the life table · [DOI](https://doi.org/10.4054/demres.2011.24.4)
 - Assimilation and emerging health disparities among new generations of U.S. children · [DOI](https://doi.org/10.4054/demres.2011.25.25)
 - Economic crisis and recovery: Changes in second birth rates within occupational classes and educational groups · [DOI](https://doi.org/10.4054/demres.2011.24.16)
-- An editorial on plagiarism · [DOI](https://doi.org/10.4054/demres.2011.24.17)
 - Challenges in moving from macro to micro: Population and family structures in ageing societies · [DOI](https://doi.org/10.4054/demres.2011.25.10)
 - Reproductive contributions of Taiwan´s foreign wives from the top five source countries · [DOI](https://doi.org/10.4054/demres.2011.24.26)
 - Variance in death and its implications for modeling and forecasting mortality · [DOI](https://doi.org/10.4054/demres.2011.24.21)
@@ -1468,7 +1442,6 @@
 
 ## 2009
 
-- Formal Relationships: Introduction and Orientation · [DOI](https://doi.org/10.4054/demres.2009.20.1)
 - The impact of female employment on fertility in Dakar (Senegal) and Lomé (Togo) · [DOI](https://doi.org/10.4054/demres.2009.20.7)
 - Relationships between men´s gender attitudes and fertility · [DOI](https://doi.org/10.4054/demres.2009.21.3)
 - The effect of changes in fertility on the age distribution of stable populations · [DOI](https://doi.org/10.4054/demres.2009.20.24)
@@ -1594,7 +1567,6 @@
 - The timing and partnership context of becoming a parent · [DOI](https://doi.org/10.4054/demres.2008.19.34)
 - Slovakia: Fertility between tradition and modernity · [DOI](https://doi.org/10.4054/demres.2008.19.25)
 - Austria: Persistent low fertility since the mid-1980s · [DOI](https://doi.org/10.4054/demres.2008.19.12)
-- Poland: Fertility decline as a response to profound societal and labour market changes? · [DOI](https://doi.org/10.4054/demres.2008.19.22)
 - Romania: Childbearing metamorphosis within a changing context · [DOI](https://doi.org/10.4054/demres.2008.19.23)
 - Fertility trends by social status · [DOI](https://doi.org/10.4054/demres.2008.18.5)
 - Lithuania: Fertility decline and its determinants · [DOI](https://doi.org/10.4054/demres.2008.19.20)
@@ -1732,7 +1704,6 @@
 - A cross-over in Mexican and Mexican-American fertility rates · [DOI](https://doi.org/10.4054/demres.2005.12.4)
 - Estimates of mortality and population changes in England and Wales over the two World Wars · [DOI](https://doi.org/10.4054/demres.2005.13.16)
 - Mortality tempo versus removal of causes of mortality · [DOI](https://doi.org/10.4054/demres.2005.13.25)
-- Introduction to the Special Collection “Human Mortality over Age, Time, Sex, and Place: The 1st HMD Symposium” · [DOI](https://doi.org/10.4054/demres.2005.13.10)
 - Age-specific contributions to changes in the period and cohort life expectancy · [DOI](https://doi.org/10.4054/demres.2005.13.3)
 - The effect of education on the timing of marriage in Kenya · [DOI](https://doi.org/10.4054/demres.2005.12.1)
 - Unconventional approaches to mortality estimation · [DOI](https://doi.org/10.4054/demres.2005.13.12)
@@ -1772,7 +1743,6 @@
 - Step-families and Childbearing Desires in Europe · [DOI](https://doi.org/10.4054/demres.2004.s3.5)
 - US regional and national cause-specific mortality and trends in income inequality: descriptive findings · [DOI](https://doi.org/10.4054/demres.2004.s2.8)
 - Fertility and family policy in Norway - A reflection on trends and possible connections · [DOI](https://doi.org/10.4054/demres.2004.10.10)
-- Introduction to the Special Collection of papers on "Determinants of diverging trends in mortality" · [DOI](https://doi.org/10.4054/demres.2004.s2.1)
 - Mortality in Central and Eastern Europe · [DOI](https://doi.org/10.4054/demres.2004.s2.3)
 - Demographic trends in Sweden · [DOI](https://doi.org/10.4054/demres.2004.11.4)
 - Occupational and educational differentials in mortality in French elderly people · [DOI](https://doi.org/10.4054/demres.2004.s2.11)
@@ -1790,7 +1760,6 @@
 - Qualitative data in demography · [DOI](https://doi.org/10.4054/demres.2004.11.3)
 - Childbearing Developments in Denmark, Norway, and Sweden from the 1970s to the 1990s: A Comparison · [DOI](https://doi.org/10.4054/demres.2004.s3.7)
 - Trends in East-West German Migration from 1989 to 2002 · [DOI](https://doi.org/10.4054/demres.2004.11.7)
-- Contemporary Research on European Fertility: Introduction · [DOI](https://doi.org/10.4054/demres.2004.s3.1)
 - Population aging and the extended family in Taiwan · [DOI](https://doi.org/10.4054/demres.2004.10.8)
 - Is marriage losing its centrality in Italy? · [DOI](https://doi.org/10.4054/demres.2004.11.6)
 - Convergences and divergences in mortality · [DOI](https://doi.org/10.4054/demres.2004.s2.2)
@@ -1844,7 +1813,6 @@
 - Change and instability · [DOI](https://doi.org/10.4054/demres.2003.s1.12)
 - Seasonal mortality in Denmark · [DOI](https://doi.org/10.4054/demres.2003.9.9)
 - Concern Regarding the HIV/AIDS epidemic and Individual Childbearing · [DOI](https://doi.org/10.4054/demres.2003.s1.10)
-- Introduction to "Research on Demographic Aspects of HIV/AIDS in Rural Africa" · [DOI](https://doi.org/10.4054/demres.2003.s1.1)
 - An Assessment of the KDICP and MDICP Data Quality · [DOI](https://doi.org/10.4054/demres.2003.s1.2)
 - Pathways to stepfamily formation in Europe · [DOI](https://doi.org/10.4054/demres.2003.8.5)
 - The problematic estimation of "imitation effects" in multilevel models · [DOI](https://doi.org/10.4054/demres.2003.9.2)

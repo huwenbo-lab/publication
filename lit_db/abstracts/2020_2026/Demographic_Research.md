@@ -1,48 +1,13 @@
 # Demographic Research
 ## 2020–2026 年文章（含摘要）
 
-共 **510** 篇
+共 **495** 篇
 
 ---
 
 ### The groupwise decomposition: Estimating group-specific contributions to differences between demographic measures
 **年份**: 2026 | **DOI**: [10.4054/demres.2026.54.14](https://doi.org/10.4054/demres.2026.54.14)
 **作者**: Paglino, Eugenio
-**摘要**: （暂无）
-
-### Settlement intentions of Ukrainian refugees in Germany: Adhering to social status back home or restarting again abroad?
-**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.16](https://doi.org/10.4054/demres.2026.54.16)
-**作者**: Ette, Andreas; Kosyakova, Yuliya; Kothe, Christian
-**摘要**: （暂无）
-
-### Spatial perspective on environmental migration: Empirical insights from a spatiotemporal approach in the United States, 1970–2010
-**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.27](https://doi.org/10.4054/demres.2026.54.27)
-**作者**: Zhou, Shuai; Chi, Guangqing; Liao, Chuan
-**摘要**: （暂无）
-
-### Bayesian multidimensional mortality reconstruction
-**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.28](https://doi.org/10.4054/demres.2026.54.28)
-**作者**: Tamburini, Andrea; Wiśniowski, Arkadiusz; Yildiz, Dilek
-**摘要**: （暂无）
-
-### “Family-Anchored” transitions to adult life in Mexico
-**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.2](https://doi.org/10.4054/demres.2026.54.2)
-**作者**: Becca, Federica; Esteve, Albert
-**摘要**: （暂无）
-
-### Probabilistic population forecasts for small regions
-**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.23](https://doi.org/10.4054/demres.2026.54.23)
-**作者**: Goes, Julius; Engelhardt, Henriette
-**摘要**: （暂无）
-
-### Partnership life courses and completed fertility in Spain
-**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.29](https://doi.org/10.4054/demres.2026.54.29)
-**作者**: Vidal, Sergi; Bolano, Danilo; Lozano, Mariona
-**摘要**: （暂无）
-
-### Economic insecurity and material deprivation: Coping strategies among couple families with and without small children in Europe
-**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.25](https://doi.org/10.4054/demres.2026.54.25)
-**作者**: Grotti, Raffaele; Gritti, Davide; Scherer, Stefani
 **摘要**: （暂无）
 
 ### Shifting spousal age gaps in Kenya and Ghana: Does education matter?
@@ -395,11 +360,6 @@
 **作者**: Klein, Julia; Kolk, Martin; Saarela, Jan
 **摘要**: BACKGROUND Religion and religiosity are known as important determinants of health and mortality. Previous studies on the interrelation between religion and mortality have relied on survey data and have mainly been carried out in a North American setting.…
 
-### Uncertainty, resilience, and fertility: Perceived capacity to overcome loss of employment and fertility intentions in Sweden, 2021
-**年份**: 2025 | **DOI**: [10.4054/demres.2025.53.31](https://doi.org/10.4054/demres.2025.53.31)
-**作者**: Lindström, Oskar
-**摘要**: （暂无）
-
 ### Interrogating the quality and completion of mortality mobile phone interviews conducted in Malawi during COVID-19: An examination of interviewer-respondent interactions
 **年份**: 2024 | **DOI**: [10.4054/DemRes.2024.51.46](https://doi.org/10.4054/DemRes.2024.51.46)
 **作者**: Souza, Emmanuel; Jamali, Monica; Saikolo, Jacob 等11人
@@ -670,11 +630,6 @@
 **作者**: Sosnaud, Benjamin
 **摘要**: BACKGROUND Infant mortality rates (IMRs) vary dramatically across US states. A potential explanation centers on compositional differences in births from sociodemographic groups with a high risk of infant mortality.…
 
-### Which definition of migration better fits A response using Mexican census data
-**年份**: 2024 | **DOI**: [10.4054/DemRes.2024.50.39](https://doi.org/10.4054/DemRes.2024.50.39)
-**作者**: Varona, Tania; Masferrer, Claudia; Rosas, Victoria Prieto 等4人
-**摘要**: BACKGROUNDData from social media have emerged as an auxiliary source for real-time information onmigrant populations. Facebook users' tagged 'expat' data - an 'expat' being someonewho lived in countryx but now lives in countryy -has been used to estimate immigrantsand its quality assessment has reli…
-
 ### International completeness of death registration
 **年份**: 2024 | **DOI**: [10.4054/DemRes.2024.50.38](https://doi.org/10.4054/DemRes.2024.50.38)
 **作者**: Karlinsky, Ariel
@@ -734,11 +689,6 @@
 **年份**: 2024 | **DOI**: [10.4054/DemRes.2024.50.26](https://doi.org/10.4054/DemRes.2024.50.26)
 **作者**: Cha, Hyungmin; Farina, Mateo P.; Chiu, Chi-Tsun 等4人
 **摘要**: BACKGROUND Greater levels of education are associated with lower risk of dementia, but less is known about how education is also associated with the compression of dementia incidence.…
-
-### The importance of correcting for health-related survey non-response when estimating health expectancies: Evidence from the HUNT Study
-**年份**: 2024 | **DOI**: [10.4054/DemRes.2024.50.25](https://doi.org/10.4054/DemRes.2024.50.25)
-**作者**: Schroyen, Fred
-**摘要**: BACKGROUND Most studies on health expectancies rely on self-reported health from surveys to measure the prevalence of disabilities or ill health in a population. At best, such studies only correct for sample selection based on a limited number of characteristics observed on the invitees.…
 
 ### How lifespan and life years lost equate to unity
 **年份**: 2024 | **DOI**: [10.4054/DemRes.2024.50.24](https://doi.org/10.4054/DemRes.2024.50.24)
@@ -1100,11 +1050,6 @@
 **作者**: Jung, Myunggu; Lee, D. Susie
 **摘要**: BACKGROUND It has been postulated that the COVID-19 pandemic will contribute to fertility decline, especially in low-fertility contexts. Little is known how the consequences of the pandemic differed at the subnational level.…
 
-### Introduction to the Special Collection on the new roles of women and men and implications for families and societies
-**年份**: 2023 | **DOI**: [10.4054/DemRes.2023.48.29](https://doi.org/10.4054/DemRes.2023.48.29)
-**作者**: Olah, Livia Sz.; Richter, Rudolf; Kotowska, Irena E.
-**摘要**: BACKGROUNDThis is the introduction to a special collection of articles produced within a large-scale collaborative research project, FamiliesAndSocieties, funded by the European Union's Seventh Framework Programme in 2013-2017.OBJECTIVEThe special collection addresses (1) the gendered outcomes of em…
-
 ### Age reporting for the oldest old in the Brazilian COVID-19 vaccination database: What can we learn from it?
 **年份**: 2023 | **DOI**: [10.4054/DemRes.2023.48.28](https://doi.org/10.4054/DemRes.2023.48.28)
 **作者**: Turra, Cassio M.; Fernandes, Fernando; Calazans, Julia Almeida 等4人
@@ -1259,11 +1204,6 @@
 **年份**: 2022 | **DOI**: [10.4054/DemRes.2022.47.31](https://doi.org/10.4054/DemRes.2022.47.31)
 **作者**: Salinas, Viviana; Jorquera-Samter, Valentina
 **摘要**: OBJECTIVE This study has two objectives: first, to estimate the effect of adolescent fertility on high school completion for Chilean adolescents, considering selectivity due to socioeconomic background and prior academic achievement, and, second, to explore the gender differences that exist in this …
-
-### Does race response shift impact racial inequality?
-**年份**: 2022 | **DOI**: [10.4054/DemRes.2022.47.30](https://doi.org/10.4054/DemRes.2022.47.30)
-**作者**: Muniz, Jeronimo O.; Bailey, Stanley R.
-**摘要**: BACKGROUND Previous research posits that racial reclassification, or response shift, may confound measures of racial earnings inequality. However, this claim has not been systematically tested.…
 
 ### Gender and educational inequalities in disability-free life expectancy among older adults living in Italian regions
 **年份**: 2022 | **DOI**: [10.4054/DemRes.2022.47.29](https://doi.org/10.4054/DemRes.2022.47.29)
@@ -1905,11 +1845,6 @@
 **作者**: Sanchez-Paez, David A.; Antonio Ortega, Jose
 **摘要**: BACKGROUND Contraceptive failure increases the chances of pregnancy termination, including both induced abortions and spontaneous terminations. Proper separation requires accounting for competing risks of pregnancy outcomes.…
 
-### Editorial to the Special Issue on Demographic Data Visualization: Getting the point across - Reaching the potential of demographic data visualization
-**年份**: 2021 | **DOI**: [10.4054/DemRes.2021.44.36](https://doi.org/10.4054/DemRes.2021.44.36)
-**作者**: Riffe, Tim; Sander, Nikola; Kluesener, Sebastian
-**摘要**: BACKGROUND Demography is full of data visualization challenges, such as age-period-cohort effects or life course trajectories. Innovative approaches to visualizing such complex data structures have been proposed from within and outside the discipline.…
-
 ### Outsurvival as a measure of the inequality of lifespans between two populations
 **年份**: 2021 | **DOI**: [10.4054/DemRes.2021.44.35](https://doi.org/10.4054/DemRes.2021.44.35)
 **作者**: Vaupel, James W.; Bergeron-Boucher, Marie-Pier; Kashnitsky, Ilya
@@ -2295,11 +2230,6 @@
 **作者**: Qin, Min; Falkingham, Jane; Evandrou, Maria 等4人
 **摘要**: BACKGROUND The life course experiences of those born in China from the late 1950s to early 1970s have been very different to those of their predecessors; they may not be able to, or wish to, rely on their family for support in later life in the future.…
 
-### Introduction to the special collection on life course decisions of families in China
-**年份**: 2020 | **DOI**: [10.4054/DemRes.2020.43.5](https://doi.org/10.4054/DemRes.2020.43.5)
-**作者**: Xu, Bing; Clark, William A., V; Fong, Eric 等4人
-**摘要**: BACKGROUND The economic reforms of the last thirty years have produced a dramatic improvement in the standard of living in China However, the concurrent social transformation has also created both stresses and challenges for Chinese families.…
-
 ### Transitions to partnership and parenthood: Is China still traditional?
 **年份**: 2020 | **DOI**: [10.4054/DemRes.2020.43.6](https://doi.org/10.4054/DemRes.2020.43.6)
 **作者**: Clark, William A., V; Yi, Daichun
@@ -2324,11 +2254,6 @@
 **年份**: 2020 | **DOI**: [10.4054/DemRes.2020.43.3](https://doi.org/10.4054/DemRes.2020.43.3)
 **作者**: Ezdi, Sehar; Bas, Ahmet Melik
 **摘要**: BACKGROUND A plethora of emergent literature is investigating the prevalence of gender preferences among immigrant communities in Western industrialized countries. Such research not only sheds light on fertility preferences of immigrants but also unearths immigrant assimilation versus persistence pr…
-
-### Family life transitions, residential relocations, and housing in the life course: Current research and opportunities for future work: Introduction to the Special Collection on Separation, Divorce, and Residential Mobility in a Comparative Perspective
-**年份**: 2020 | **DOI**: [10.4054/demres.2020.43.2](https://doi.org/10.4054/demres.2020.43.2)
-**作者**: Mikolai, Julia; Kulu, Hill; Mulder, Clara H.
-**摘要**: BACKGROUND This article provides an introduction to the Special Collection on Separation, Divorce, and Residential Mobility in a Comparative Perspective. The Special Collection consists of six European case studies: Belgium, Finland, France, Italy, Hungary, and the United Kingdom, and a cross-nation…
 
 ### Estimating annual homelessness
 **年份**: 2020 | **DOI**: [10.4054/DemRes.2020.43.1](https://doi.org/10.4054/DemRes.2020.43.1)

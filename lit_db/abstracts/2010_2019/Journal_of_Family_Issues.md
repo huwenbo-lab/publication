@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2010–2019 年文章（含摘要）
 
-共 **922** 篇
+共 **914** 篇
 
 ---
 
@@ -565,26 +565,6 @@
 **作者**: Eickmeyer, Kasey J.; Guzzo, Karen Benjamin; Manning, Wendy D. 等4人
 **摘要**: Income pooling is a common behavior among couples. However, cohabiting and married individuals in more complex families, namely those with stepchildren, are less likely to pool incomes.…
 
-### Resources, Time and Gender: Determinants of Women’s Housework in Bahir Dar and Nearby Rural Villages, Northwest Ethiopia
-**年份**: 2019 | **DOI**: [10.1177/0192513x19878862](https://doi.org/10.1177/0192513x19878862)
-**作者**: Desta, Chalachew Getahun
-**摘要**: Women’s disproportionate engagement in housework and its determinants has been relatively well studied for developed countries, but such research is absent for less developed countries.…
-
-### Family Structure Change Among Latinos: Variation by Ecologic Risk
-**年份**: 2019 | **DOI**: [10.1177/0192513x19849636](https://doi.org/10.1177/0192513x19849636)
-**作者**: Cabrera, Natasha J.; Karberg, Elizabeth; Fagan, Jay
-**摘要**: We examined differences in family structure change in an urban sample of mothers ( N = 1,314) from their child’s birth to age 5 and whether ecological risk moderated this association.…
-
-### “Honey, I Want to Be a Surrogate”: How Military Spouses Negotiate and Navigate Surrogacy With Their Service Member Husbands
-**年份**: 2019 | **DOI**: [10.1177/0192513x19862843](https://doi.org/10.1177/0192513x19862843)
-**作者**: Ziff, Elizabeth
-**摘要**: This article examines how military spouses negotiate the decision to become a surrogate with their service member husband and how the two navigate surrogacy together. It is speculated that military spouses are ideal candidates for surrogacy due to their particular status as a military spouse; howeve…
-
-### The Relationship Between Religion and Intergenerational Solidarity in Eastern and Western Germany
-**年份**: 2019 | **DOI**: [10.1177/0192513x19868750](https://doi.org/10.1177/0192513x19868750)
-**作者**: Steinbach, Anja; Silverstein, Merril
-**摘要**: This article investigated the relationship between religiosity and intergenerational solidarity in Germany, with a focus on differences between eastern and western regions that have maintained unique religious profiles that trace back to before unification.…
-
 ### Relationship Conflict, Work Conditions, and the Health of Mothers With Young Children
 **年份**: 2018 | **DOI**: [10.1177/0192513X18776415](https://doi.org/10.1177/0192513X18776415)
 **作者**: Cozzolino, Elizabeth; Prickett, Kate C.; Crosnoe, Robert
@@ -1075,11 +1055,6 @@
 **作者**: Xu, Ling; Chi, Iris
 **摘要**: Mutuality of support provision is a necessary precondition of family solidarity. However, the exchange of care between grandparents and grandchildren has largely been neglected. Using data from the fourth wave of the Anhui Study in China, this study investigated determinants of support exchange betw…
 
-### Changes in Individual Sibling Relationships in Response to Life Events
-**年份**: 2018 | **DOI**: [10.1177/0192513X16653431](https://doi.org/10.1177/0192513X16653431)
-**作者**: Spitze, Glenna D.; Trent, Katherine
-**摘要**: Data from the first two waves of the National Survey of Families and Households are used to examine how individual sibling relationships change in response to life events in a gendered context.…
-
 ### Gender, Family Norms, and Male-Factor Infertility in Japan: An Analysis of Internet Blogs
 **年份**: 2018 | **DOI**: [10.1177/0192513X18796874](https://doi.org/10.1177/0192513X18796874)
 **作者**: Tanaka, Kimiko; Johnson, Nan E.; Lowry, Deborah
@@ -1399,11 +1374,6 @@
 **年份**: 2018 | **DOI**: [10.1177/0192513X17741176](https://doi.org/10.1177/0192513X17741176)
 **作者**: Silva, Carla Sofia; Calheiros, Maria Manuela
 **摘要**: Adolescents' perceptions of their relationship with both parents were examined as mediators linking interparental conflict to their self-representations (SR). Portuguese adolescents (N = 214; 58.4% girls), aged 10-16 years old (M = 13.39), attending public elementary and secondary schools, filled ou…
-
-### The Role of Attachment of Each Partner on Marital Adjustment
-**年份**: 2018 | **DOI**: [10.1177/0192513x18812005](https://doi.org/10.1177/0192513x18812005)
-**作者**: Siegel, Alana; Levin, Yafit; Solomon, Zahava
-**摘要**: This study conducted a latent profile analysis on quantitative data gathered from 156 married couples, so to learn more about the role of attachment and gender in marital adjustment.…
 
 ### A Brief Tribute to Murray A. Straus
 **年份**: 2017 | **DOI**: [10.1177/0192513x17728192](https://doi.org/10.1177/0192513x17728192)
@@ -2446,11 +2416,6 @@
 **作者**: Barnard-Brak, Lucy; Nuner, Joyce; Sulak, Tracey 等4人
 **摘要**: Child care arrangements, costs, and satisfaction among parents of children with emotional or behavioral disorders were examined as compared with parents of children with other disabilities.…
 
-### Introduction
-**年份**: 2014 | **DOI**: [10.1177/0192513x14563795](https://doi.org/10.1177/0192513x14563795)
-**作者**: Hertz, Rosanna; Nelson, Margaret K.
-**摘要**: （暂无）
-
 ### The Influence of Parental Beliefs on the Development of Chinese Adolescents Experiencing Economic Disadvantage
 **年份**: 2014 | **DOI**: [10.1177/0192513x13518776](https://doi.org/10.1177/0192513x13518776)
 **作者**: Leung, Janet T. Y.; Shek, Daniel T. L.
@@ -2683,11 +2648,6 @@
 **年份**: 2014 | **DOI**: [10.1177/0192513x14522236](https://doi.org/10.1177/0192513x14522236)
 **作者**: Goldscheider, Frances; Goldscheider, Calvin; Rico-Gonzalez, Antonio
 **摘要**: We focus in this article on contexts within which religiosity (the intensity of religious commitment) reinforces more patriarchal family values and those in which it does not, and perhaps even strengthens egalitarian family values.…
-
-### Introduction
-**年份**: 2014 | **DOI**: [10.1177/0192513x14557490](https://doi.org/10.1177/0192513x14557490)
-**作者**: Bonjour, Saskia; Kraler, Albert
-**摘要**: “Family migration” and “integration” are intimately related concepts in policy discourses in Europe today. Assumptions about the relation between “family migration” and “integration” play a crucial role in shaping policies.…
 
 ### Parental Nonstandard Work, Family Processes, and Delinquency During Adolescence
 **年份**: 2013 | **DOI**: [10.1177/0192513x13510299](https://doi.org/10.1177/0192513x13510299)

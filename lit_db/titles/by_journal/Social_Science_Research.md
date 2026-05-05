@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2263** 篇 | 年份范围：1972–2026
+共 **2190** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -26,9 +26,6 @@
 - Is my manager feeling threatened by me? Racial differences in content and activation of threat metastereotypes · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103306)
 - Polluting student test performance: School-based evidence on the adverse effects of air pollution · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103343)
 - The gender system: A cross-national perspective · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103344)
-- Childhood exposure to local wealth inequality, economic isolation in schools, and inter-class social ties in adulthood · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103355)
-- Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024 · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103347)
-- Gendered work and family trajectories: How do STEM graduates fare in the labor market? · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103345)
 
 ## 2025
 
@@ -133,7 +130,6 @@
 - Adaptive educational expectations: How do parental educational expectations respond to child academic performance in various family contexts? · [DOI](https://doi.org/10.1016/j.ssresearch.2024.103097)
 - All in the family? Understanding differences in the kin-centricity of older US adults' core discussion networks from classic age, period, and cohort table estimates · [DOI](https://doi.org/10.1016/j.ssresearch.2024.103098)
 - The effect of grandparental involvement on grandchildren's school grades: Heterogeneity by the extended family characteristics · [DOI](https://doi.org/10.1016/j.ssresearch.2024.103095)
-- Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(24)00141-8)
 
 ## 2024
 
@@ -466,7 +462,6 @@
 - Adolescents' relative position in school and educational attainment: The mediating role of educational expectations · [DOI](https://doi.org/10.1016/j.ssresearch.2020.102520)
 - Decoupled or doubled? Evaluating geospatial dispersion of student-resident displacement by school closure · [DOI](https://doi.org/10.1016/j.ssresearch.2020.102519)
 - Punishments and the dominance identity in networks · [DOI](https://doi.org/10.1016/j.ssresearch.2020.102489)
-- Estimating the proportion of non-heterosexuals in Taiwan using Christofides' randomized response model: A comparison of different estimation methods · [DOI](https://doi.org/10.1016/j.ssresearch.2020.102475)
 - Extended gender inequality? Intergenerational coresidence and division of household labor · [DOI](https://doi.org/10.1016/j.ssresearch.2020.102497)
 - Peer influence on obesity: Evidence from a natural experiment of a gene-environment interaction · [DOI](https://doi.org/10.1016/j.ssresearch.2020.102483)
 - Acculturation strategies, age at migration, and self-rated health: An empirical study on internal migrants in China · [DOI](https://doi.org/10.1016/j.ssresearch.2020.102487)
@@ -530,7 +525,6 @@
 - Parental education, television exposure, and children's early cognitive, language and behavioral development · [DOI](https://doi.org/10.1016/j.ssresearch.2019.102391)
 - Diversity, semi-communication and cross-country trust: A quantitative analysis · [DOI](https://doi.org/10.1016/j.ssresearch.2019.102392)
 - Is geography destiny? Disrupting the relationship between segregation and neighbohrood outcomes · [DOI](https://doi.org/10.1016/j.ssresearch.2019.102396)
-- Churning races in Canada: Visible minority response change between 2006 and 2011 · [DOI](https://doi.org/10.1016/j.ssresearch.2019.102388)
 - The social and genetic inheritance of educational attainment: Genes, parental education, and educational expansion · [DOI](https://doi.org/10.1016/j.ssresearch.2019.102387)
 - Protective factors against juvenile delinquency: Exploring gender with a nationally representative sample of youth · [DOI](https://doi.org/10.1016/j.ssresearch.2019.102376)
 - The 'developmental gradient' revisited: Australian children's time with adult caregivers from infancy to middle childhood · [DOI](https://doi.org/10.1016/j.ssresearch.2019.102397)
@@ -672,7 +666,6 @@
 - Mixed land use and neighborhood crime · [DOI](https://doi.org/10.1016/j.ssresearch.2018.12.010)
 - The link between mothers' vulnerability to intimate partner violence and Children's human capital · [DOI](https://doi.org/10.1016/j.ssresearch.2018.12.015)
 - Intermarriage and mother-child relationships · [DOI](https://doi.org/10.1016/j.ssresearch.2018.12.005)
-- Response styles confound the age gradient of four health and well-being outcomes · [DOI](https://doi.org/10.1016/j.ssresearch.2018.12.004)
 - Scholarly culture: How books in adolescence enhance adult literacy, numeracy and technology skills in 31 societies · [DOI](https://doi.org/10.1016/j.ssresearch.2018.10.003)
 - Black-white differences in happiness, 1972-2014 · [DOI](https://doi.org/10.1016/j.ssresearch.2018.10.004)
 - Fluctuating courses and constant challenges: The two trajectories of black-white earnings inequality, 1968-2015 · [DOI](https://doi.org/10.1016/j.ssresearch.2018.10.002)
@@ -696,7 +689,6 @@
 - How much would eliminating drug crimes decrease racial/ethnic gaps in criminal conviction? · [DOI](https://doi.org/10.1016/j.ssresearch.2018.07.005)
 - In the eye of the beholder: What determines how people sort others into social classes? · [DOI](https://doi.org/10.1016/j.ssresearch.2018.07.004)
 - Agency and social constraint among victims of domestic minor sex trafficking: A method for measuring free will · [DOI](https://doi.org/10.1016/j.ssresearch.2018.06.007)
-- The diversity Wave:A meta-analysis of the native-born white response to ethnic diversity · [DOI](https://doi.org/10.1016/j.ssresearch.2018.07.008)
 - International visibility as determinants of foreign direct investment: An empirical study of Chinese Provinces · [DOI](https://doi.org/10.1016/j.ssresearch.2018.08.005)
 - Payday loans and household spending: How access to payday lending shapes the racial consumption gap · [DOI](https://doi.org/10.1016/j.ssresearch.2018.08.004)
 - Intergenerational solidarity and intragenerational relations between adult siblings · [DOI](https://doi.org/10.1016/j.ssresearch.2018.08.003)
@@ -768,7 +760,6 @@
 - The effect of neighborhood context on children's academic achievement in China: Exploring mediating mechanisms · [DOI](https://doi.org/10.1016/j.ssresearch.2018.03.002)
 - Things are looking up: Physical beauty, social mobility, and optimistic dispositions · [DOI](https://doi.org/10.1016/j.ssresearch.2018.01.006)
 - Comment: On ignoring the literature and relevant tests in evaluating effectively maintained inequality · [DOI](https://doi.org/10.1016/j.ssresearch.2017.08.012)
-- Response: Issues surrounding Effectively Maintained Inequality and educational transitions · [DOI](https://doi.org/10.1016/j.ssresearch.2017.08.013)
 - Obesity and gender as status beliefs · [DOI](https://doi.org/10.1016/j.ssresearch.2017.12.004)
 - In the shadow of production: Coal waste accumulation and environmental inequality formation in Eastern Kentucky · [DOI](https://doi.org/10.1016/j.ssresearch.2018.01.003)
 - Understanding the density of nonprofit organizations across Los Angeles neighborhoods: Does concentrated disadvantage and violent crime matter? · [DOI](https://doi.org/10.1016/j.ssresearch.2018.01.001)
@@ -833,7 +824,6 @@
 - The stratification of college-going Latinos' postsecondary destinations · [DOI](https://doi.org/10.1016/j.ssresearch.2017.05.005)
 - Applying to college: Do information deficits lower the likelihood of college-eligible students from less-privileged families to pursue their college intentions? Evidence from a field experiment · [DOI](https://doi.org/10.1016/j.ssresearch.2017.04.005)
 - Experiencing discrimination in Los Angeles: Latinos at the intersection of legal status and socioeconomic status · [DOI](https://doi.org/10.1016/j.ssresearch.2017.05.003)
-- Occupy the government: Analyzing presidential and congressional discursive response to movement repression · [DOI](https://doi.org/10.1016/j.ssresearch.2017.07.001)
 - Intergenerational relations before and after offspring arrive: A within-person investigation · [DOI](https://doi.org/10.1016/j.ssresearch.2017.08.001)
 - The optimism trap: Migrants' educational choices in stratified education systems · [DOI](https://doi.org/10.1016/j.ssresearch.2017.04.004)
 - The effect of sociodemographic (mis)match between interviewers and respondents on unit and item nonresponse in Belgium · [DOI](https://doi.org/10.1016/j.ssresearch.2017.02.007)
@@ -886,7 +876,6 @@
 - Does death really make us equal? Educational attainment and resource compensation after paternal death in Finland · [DOI](https://doi.org/10.1016/j.ssresearch.2016.10.012)
 - Children with disabilities and trajectories of parents' unsecured debt across the life course · [DOI](https://doi.org/10.1016/j.ssresearch.2016.10.006)
 - Physical-psychiatric comorbidity: Implications for health measurement and the Hispanic Epidemiological Paradox · [DOI](https://doi.org/10.1016/j.ssresearch.2016.10.015)
-- Using item response theory to optimize measurement of chronic stress in pregnancy · [DOI](https://doi.org/10.1016/j.ssresearch.2016.12.003)
 - Breastfeeding, overweight status, and inflammation · [DOI](https://doi.org/10.1016/j.ssresearch.2016.10.005)
 - Sexual intercourse, romantic relationship inauthenticity, and adolescent mental health · [DOI](https://doi.org/10.1016/j.ssresearch.2016.10.002)
 - Making gains or falling behind? Changes and stability in school readiness · [DOI](https://doi.org/10.1016/j.ssresearch.2016.09.028)
@@ -1155,7 +1144,6 @@
 - Work–family conflict in context: The impact of structural and perceived neighborhood disadvantage on work–family conflict · [DOI](https://doi.org/10.1016/j.ssresearch.2014.12.001)
 - Neighbourhood effects on educational attainment of adolescents, buffered by personality and educational commitment · [DOI](https://doi.org/10.1016/j.ssresearch.2014.11.011)
 - Social trust and grassroots governance in rural China · [DOI](https://doi.org/10.1016/j.ssresearch.2015.06.010)
-- Should we trust survey data? Assessing response simplification and data fabrication · [DOI](https://doi.org/10.1016/j.ssresearch.2015.03.006)
 - Career pathways for temporary workers: Exploring heterogeneous mobility dynamics with sequence analysis · [DOI](https://doi.org/10.1016/j.ssresearch.2014.11.003)
 - Explaining the subjective well-being of urban and rural Chinese: Income, personal concerns, and societal evaluations · [DOI](https://doi.org/10.1016/j.ssresearch.2014.08.006)
 - Do you see what I see? Perceptual variation in reporting the presence of disorder cues · [DOI](https://doi.org/10.1016/j.ssresearch.2014.10.004)
@@ -1191,7 +1179,6 @@
 - Languages, communication potential and generalized trust in Sub-Saharan Africa: Evidence based on the Afrobarometer Survey · [DOI](https://doi.org/10.1016/j.ssresearch.2014.08.005)
 - Walking ATMs and the immigration spillover effect: The link between Latino immigration and robbery victimization · [DOI](https://doi.org/10.1016/j.ssresearch.2015.03.003)
 - Ebony and Ivory? Interracial dating intentions and behaviors of disadvantaged African American women in Kentucky · [DOI](https://doi.org/10.1016/j.ssresearch.2015.06.016)
-- Adult non-response bias from a child perspective. Using child reports to estimate father’s non-response · [DOI](https://doi.org/10.1016/j.ssresearch.2014.07.004)
 - Choosing between two semi-finalists: On academic performance gap, sex category, and decision question · [DOI](https://doi.org/10.1016/j.ssresearch.2015.07.001)
 - Religiosity and reactions to terrorism · [DOI](https://doi.org/10.1016/j.ssresearch.2014.12.006)
 - The relationship between lifetime health trajectories and socioeconomic attainment in middle age · [DOI](https://doi.org/10.1016/j.ssresearch.2015.06.023)
@@ -1210,7 +1197,6 @@
 - Extracurricular associations and college enrollment · [DOI](https://doi.org/10.1016/j.ssresearch.2014.08.013)
 - Surgical sterilization, regret, and race: Contemporary patterns · [DOI](https://doi.org/10.1016/j.ssresearch.2014.10.010)
 - Occupational stratification, job-mismatches, and child poverty: Understanding the disadvantage of Black immigrants in the US · [DOI](https://doi.org/10.1016/j.ssresearch.2014.11.013)
-- Response of sensitive behaviors to frequent measurement · [DOI](https://doi.org/10.1016/j.ssresearch.2014.07.002)
 - Does residential mobility improve educational outcomes? Evidence from the Netherlands · [DOI](https://doi.org/10.1016/j.ssresearch.2015.02.008)
 - Do grandparents matter? A multigenerational perspective on educational attainment in Taiwan · [DOI](https://doi.org/10.1016/j.ssresearch.2014.09.013)
 - Behind the ethnic–civic distinction: Public attitudes towards immigrants’ political rights in the Netherlands · [DOI](https://doi.org/10.1016/j.ssresearch.2015.05.002)
@@ -1281,7 +1267,6 @@
 - Foreign direct investment, development, and overshoot · [DOI](https://doi.org/10.1016/j.ssresearch.2014.04.003)
 - Identities in flux: Cognitive network activation in times of change · [DOI](https://doi.org/10.1016/j.ssresearch.2014.01.001)
 - Do mother’s and father’s education condition the impact of parental divorce on child well-being? · [DOI](https://doi.org/10.1016/j.ssresearch.2013.12.003)
-- WITHDRAWN: Issues surrounding Effectively Maintained Inequality and educational transitions: A response to Lucas · [DOI](https://doi.org/10.1016/j.ssresearch.2014.03.001)
 - Are white evangelical Protestants lower class? A partial test of church-sect theory · [DOI](https://doi.org/10.1016/j.ssresearch.2014.02.010)
 - Personal traits, cohabitation, and marriage · [DOI](https://doi.org/10.1016/j.ssresearch.2014.01.002)
 - Intimate partner victimization, poor relationship quality, and depressive symptoms during young adulthood · [DOI](https://doi.org/10.1016/j.ssresearch.2014.05.006)
@@ -1338,7 +1323,6 @@
 - Contact with gays and lesbians and same-sex marriage support: The moderating role of social context · [DOI](https://doi.org/10.1016/j.ssresearch.2013.02.004)
 - From ‘What the F#@% is a Facebook?’ to ‘Who Doesn’t Use Facebook?’: The role of criminal lifestyles in the adoption and use of the Internet · [DOI](https://doi.org/10.1016/j.ssresearch.2013.06.008)
 - Variety in cultural choice and the activation of social ties · [DOI](https://doi.org/10.1016/j.ssresearch.2012.09.014)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(13)00007-0)
 - Categorical sources of varieties of network inequalities · [DOI](https://doi.org/10.1016/j.ssresearch.2013.04.002)
 - Youth employment and substance use · [DOI](https://doi.org/10.1016/j.ssresearch.2012.07.007)
 - Immigrant Integration policies and perceived Group Threat: A Multilevel Study of 27 Western and Eastern European Countries · [DOI](https://doi.org/10.1016/j.ssresearch.2012.12.001)
@@ -1366,7 +1350,6 @@
 - Is race a ‘salient…’ or ‘dominant identity’ in the early 21st century: The evidence of UK survey data on respondents’ sense of who they are · [DOI](https://doi.org/10.1016/j.ssresearch.2012.10.007)
 - A normative explanation of antisocial punishment · [DOI](https://doi.org/10.1016/j.ssresearch.2012.10.004)
 - Evaluating Effectively Maintained Inequality: School and post-school transitions, socioeconomic background, academic ability and curricular placement · [DOI](https://doi.org/10.1016/j.ssresearch.2013.07.004)
-- Intra-individual variation of extreme response style in mixed-mode panel studies · [DOI](https://doi.org/10.1016/j.ssresearch.2013.01.002)
 - Across the continuum of satisfaction with work–family balance: Work hours, flexibility-fit, and work–family culture · [DOI](https://doi.org/10.1016/j.ssresearch.2012.10.002)
 - Educational attitudes, school peer context, and the “immigrant paradox” in education · [DOI](https://doi.org/10.1016/j.ssresearch.2012.12.014)
 - Period effects, cohort effects, and the narrowing gender wage gap · [DOI](https://doi.org/10.1016/j.ssresearch.2013.07.014)
@@ -1374,16 +1357,13 @@
 - Assessing the effect of social desirability on nativism attitude responses · [DOI](https://doi.org/10.1016/j.ssresearch.2013.07.012)
 - Disentangling mode-specific selection and measurement bias in social surveys · [DOI](https://doi.org/10.1016/j.ssresearch.2013.07.005)
 - Does it matter if teachers and schools match the student? Racial and ethnic disparities in problem behaviors · [DOI](https://doi.org/10.1016/j.ssresearch.2013.04.005)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(13)00034-3)
 - Family structure and adolescent alcohol use problems: Extending popular explanations to American Indians · [DOI](https://doi.org/10.1016/j.ssresearch.2013.06.007)
 - Murder, political resources, and women’s political success · [DOI](https://doi.org/10.1016/j.ssresearch.2012.09.005)
 - Two theories on the test bench: Internal and external validity of the theories of Ronald Inglehart and Shalom Schwartz · [DOI](https://doi.org/10.1016/j.ssresearch.2012.12.009)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(12)00230-x)
 - Understanding selection bias, time-lags and measurement bias in secondary data sources: Putting the Encyclopedia of Associations database in broader context · [DOI](https://doi.org/10.1016/j.ssresearch.2013.08.003)
 - Educational differences in US parents’ time spent in child care: The role of culture and cross-spouse influence · [DOI](https://doi.org/10.1016/j.ssresearch.2013.03.003)
 - Interpersonal trust: An age–period–cohort analysis revisited · [DOI](https://doi.org/10.1016/j.ssresearch.2012.09.006)
 - Social origins, hukou conversion, and the wellbeing of urban residents in contemporary China · [DOI](https://doi.org/10.1016/j.ssresearch.2012.08.004)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(13)00068-9)
 - Immigrant and native financial well-being: The roles of place of education and race/ethnicity · [DOI](https://doi.org/10.1016/j.ssresearch.2013.04.001)
 - Trends in gender segregation in the choice of science and engineering majors · [DOI](https://doi.org/10.1016/j.ssresearch.2013.07.002)
 - Exchange and cohesion in dyads and triads: A test of Simmel’s hypothesis · [DOI](https://doi.org/10.1016/j.ssresearch.2013.06.003)
@@ -1413,7 +1393,6 @@
 - Religion, networks, and neighborliness: The impact of religious social networks on civic engagement · [DOI](https://doi.org/10.1016/j.ssresearch.2012.09.011)
 - Foreign-born out-migration from new destinations: Onward or back to the enclave? · [DOI](https://doi.org/10.1016/j.ssresearch.2012.09.013)
 - The family, neuroscience, and academic skills: An interdisciplinary account of social class gaps in children’s test scores · [DOI](https://doi.org/10.1016/j.ssresearch.2012.09.009)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(13)00098-7)
 - Occupational status of partnered gay men and lesbians in the Netherlands: How to explain the gap with men and women in heterosexual couples? · [DOI](https://doi.org/10.1016/j.ssresearch.2013.01.003)
 - Pathways of children’s long-term living arrangements: A latent class analysis · [DOI](https://doi.org/10.1016/j.ssresearch.2013.05.005)
 - Teasing out the effects of macro-conditions on race-specific male homicide rates: Do distinct predictors vary by racial group and over time? · [DOI](https://doi.org/10.1016/j.ssresearch.2012.12.015)
@@ -1469,32 +1448,26 @@
 - Rush to the border? Market liberalization and urban- and rural-origin internal migration in Mexico · [DOI](https://doi.org/10.1016/j.ssresearch.2012.02.007)
 - Family structure and the reproduction of inequality: Parents’ contribution to children’s college costs · [DOI](https://doi.org/10.1016/j.ssresearch.2012.02.008)
 - Composition and decomposition in US gender-specific self-reported health disparities, 1984–2007 · [DOI](https://doi.org/10.1016/j.ssresearch.2011.09.011)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(12)00006-3)
 - Introductory remarks · [DOI](https://doi.org/10.1016/j.ssresearch.2012.08.006)
 - Extended household transitions, race/ethnicity, and early childhood cognitive outcomes · [DOI](https://doi.org/10.1016/j.ssresearch.2012.04.002)
 - Family environments and the relationship context of first adolescent sex: Correlates of first sex in a casual versus steady relationship · [DOI](https://doi.org/10.1016/j.ssresearch.2012.02.003)
 - Residualization is not the answer: Rethinking how to address multicollinearity · [DOI](https://doi.org/10.1016/j.ssresearch.2012.05.014)
 - The role of exchange and emotion on commitment: A study of teachers · [DOI](https://doi.org/10.1016/j.ssresearch.2012.05.016)
-- Item non-response in open-ended questions: Who does not answer on the meaning of left and right? · [DOI](https://doi.org/10.1016/j.ssresearch.2012.07.006)
 - Examining fear and stress as mediators between disorder perceptions and personal health, depression, and anxiety · [DOI](https://doi.org/10.1016/j.ssresearch.2012.06.005)
 - Should Mom go back to school? Post-natal educational attainment and parenting practices · [DOI](https://doi.org/10.1016/j.ssresearch.2011.12.002)
 - The effects of attending selective college tiers in China · [DOI](https://doi.org/10.1016/j.ssresearch.2011.11.015)
 - Extracurricular activities and teens’ alcohol use: The role of religious and secular sponsorship · [DOI](https://doi.org/10.1016/j.ssresearch.2011.11.003)
 - Who is the better applicant? Effects from gender, academic record, and type of decision · [DOI](https://doi.org/10.1016/j.ssresearch.2012.02.001)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(12)00206-2)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(12)00125-1)
 - Women’s status and carbon dioxide emissions: A quantitative cross-national analysis · [DOI](https://doi.org/10.1016/j.ssresearch.2012.03.008)
 - A lay-statistician explanation of minority discrimination · [DOI](https://doi.org/10.1016/j.ssresearch.2011.12.009)
 - Happiness is not normally distributed: A comment to Delhey and Kohler · [DOI](https://doi.org/10.1016/j.ssresearch.2011.11.008)
 - Similarity in peer college preferences: New evidence from texas · [DOI](https://doi.org/10.1016/j.ssresearch.2011.11.001)
 - Imprisonment and (inequality in) population health · [DOI](https://doi.org/10.1016/j.ssresearch.2011.07.006)
 - Marijuana use development over the course of adolescence among North American Indigenous youth · [DOI](https://doi.org/10.1016/j.ssresearch.2012.03.015)
-- Happiness inequality: Adding meaning to numbers – A reply to Veenhoven and Kalmijn · [DOI](https://doi.org/10.1016/j.ssresearch.2012.02.006)
 - Same-sex parenting and children’s outcomes: A closer examination of the American psychological association’s brief on lesbian and gay parenting · [DOI](https://doi.org/10.1016/j.ssresearch.2012.03.006)
 - Restrictive abortion laws, antiabortion attitudes and women’s contraceptive use · [DOI](https://doi.org/10.1016/j.ssresearch.2011.09.010)
 - Knowledge and beliefs about national development and developmental hierarchies: The viewpoints of ordinary people in thirteen countries · [DOI](https://doi.org/10.1016/j.ssresearch.2012.03.005)
 - Motivation vs. relevance: Using strong ties to find a job in Urban China · [DOI](https://doi.org/10.1016/j.ssresearch.2011.12.010)
-- The proportional odds with partial proportionality constraints model for ordinal response variables · [DOI](https://doi.org/10.1016/j.ssresearch.2011.09.003)
 - Further comments on the papers by Marks and Regnerus · [DOI](https://doi.org/10.1016/j.ssresearch.2012.05.002)
 - Measuring time use in surveys – Concordance of survey and experience sampling measures · [DOI](https://doi.org/10.1016/j.ssresearch.2012.03.013)
 - Assessing reporting patterns of child sexual abuse within the Catholic Church using discontinuities in model parameter timeseries · [DOI](https://doi.org/10.1016/j.ssresearch.2011.11.004)
@@ -1504,7 +1477,6 @@
 - Irreconcilable differences? Ethnic intermarriage and divorce in the Netherlands, 1995–2008 · [DOI](https://doi.org/10.1016/j.ssresearch.2012.02.004)
 - Letter to the editors and advisory editors of Social Science Research · [DOI](https://doi.org/10.1016/j.ssresearch.2012.08.008)
 - Workplace racial composition, perceived discrimination, and organizational attachment · [DOI](https://doi.org/10.1016/j.ssresearch.2011.11.016)
-- Understanding the resilience of mail-back survey methods: An analysis of 20years of change in response rates to national park surveys · [DOI](https://doi.org/10.1016/j.ssresearch.2012.06.004)
 - The sociology of ecologically unequal exchange and carbon dioxide emissions, 1960–2005 · [DOI](https://doi.org/10.1016/j.ssresearch.2011.11.011)
 - Stepping stones: Principal career paths and school outcomes · [DOI](https://doi.org/10.1016/j.ssresearch.2012.03.003)
 - Another cost of being a young black male: Race, weaponry, and lethal outcomes in assaults · [DOI](https://doi.org/10.1016/j.ssresearch.2012.04.006)
@@ -1529,8 +1501,6 @@
 - LANGUAGE ED · [DOI](https://doi.org/10.1016/s0049-089x(12)00108-1)
 - The impact of the promise of scholarships and altering school structure on college plans, preparation, and enrollment · [DOI](https://doi.org/10.1016/j.ssresearch.2012.03.007)
 - The 9th grade shock and the high school dropout crisis · [DOI](https://doi.org/10.1016/j.ssresearch.2011.11.014)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(12)00081-6)
-- Doubling up when times are tough: A study of obligations to share a home in response to economic hardship · [DOI](https://doi.org/10.1016/j.ssresearch.2012.05.008)
 - Implicit and explicit interethnic attitudes and ethnic discrimination in hiring · [DOI](https://doi.org/10.1016/j.ssresearch.2011.09.007)
 - Uneven transitions: Period- and cohort-related changes in gender attitudes in China, 1995–2007 · [DOI](https://doi.org/10.1016/j.ssresearch.2012.05.004)
 - Participation in international human rights NGOs: The effect of democracy and state capacity · [DOI](https://doi.org/10.1016/j.ssresearch.2012.03.011)
@@ -1547,11 +1517,8 @@
 - Shaking things up or business as usual? The influence of female corporate executives and board of directors on women’s managerial representation · [DOI](https://doi.org/10.1016/j.ssresearch.2012.01.006)
 - Apron strings of working mothers: Maternal employment and housework in cross-national perspective · [DOI](https://doi.org/10.1016/j.ssresearch.2012.01.008)
 - Comparative modeling approaches for understanding urban violence · [DOI](https://doi.org/10.1016/j.ssresearch.2011.07.004)
-- The Editorial Process and Politicized Scholarship: Monday Morning Editorial Quarterbacking and a Call for Scientific Vigilance · [DOI](https://doi.org/10.1016/j.ssresearch.2012.08.007)
-- Response to Paul Amato, David Eggebeen, and Cynthia Osborne · [DOI](https://doi.org/10.1016/j.ssresearch.2012.05.003)
 - Methodological decisions and the evaluation of possible effects of different family structures on children: The new family structures survey (NFSS) · [DOI](https://doi.org/10.1016/j.ssresearch.2012.08.011)
 - Understanding the geography of food stamp program participation: Do space and place matter? · [DOI](https://doi.org/10.1016/j.ssresearch.2011.10.001)
-- Estimating the prevalence of xenophobia and anti-Semitism in Germany: A comparison of randomized response and direct questioning · [DOI](https://doi.org/10.1016/j.ssresearch.2012.05.015)
 - The medicine is worse than the disease: Comment on Delhey and Kohler’s proposal to measure inequality in happiness using ‘instrument-effect-corrected’ standard deviations · [DOI](https://doi.org/10.1016/j.ssresearch.2011.11.009)
 - Looking for homogeneous groups of respondents and nonrespondents using latent class analysis · [DOI](https://doi.org/10.1016/j.ssresearch.2012.01.003)
 - Household energy consumption: Community context and the fuelwood transition · [DOI](https://doi.org/10.1016/j.ssresearch.2011.12.007)
@@ -1559,12 +1526,10 @@
 - How far do children move? Spatial distances after leaving the parental home · [DOI](https://doi.org/10.1016/j.ssresearch.2012.03.004)
 - Societal projection: Beliefs concerning the relationship between development and inequality in China · [DOI](https://doi.org/10.1016/j.ssresearch.2012.04.001)
 - A cluster analysis of service utilization and incarceration among homeless youth · [DOI](https://doi.org/10.1016/j.ssresearch.2011.12.011)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(12)00038-5)
 - Family structure and the intergenerational transmission of educational advantage · [DOI](https://doi.org/10.1016/j.ssresearch.2011.07.005)
 - Filling holes in the safety net? Material hardship and subjective well-being among disability benefit applicants and recipients after the 1996 welfare reform · [DOI](https://doi.org/10.1016/j.ssresearch.2012.06.001)
 - Unemployment and crime: A neighborhood level panel data approach · [DOI](https://doi.org/10.1016/j.ssresearch.2012.07.003)
 - Family structure and obesity in early childhood · [DOI](https://doi.org/10.1016/j.ssresearch.2012.01.007)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(11)00183-9)
 - The link between unemployment and crime rate fluctuations: An analysis at the county, state, and national levels · [DOI](https://doi.org/10.1016/j.ssresearch.2012.01.001)
 - High political participation, high social capital? A relational analysis of youth social capital and political participation · [DOI](https://doi.org/10.1016/j.ssresearch.2012.03.012)
 - Intergenerational effects of shifts in women’s educational distribution in South Korea: Transmission, differential fertility, and assortative mating · [DOI](https://doi.org/10.1016/j.ssresearch.2012.05.011)
@@ -1590,16 +1555,13 @@
 - The effects of scope condition-based participant exclusion on experimental outcomes in expectation states research: A meta-analysis · [DOI](https://doi.org/10.1016/j.ssresearch.2011.11.005)
 - Does it matter how you ask? Question wording and males’ reporting of contraceptive use at last sex · [DOI](https://doi.org/10.1016/j.ssresearch.2012.04.004)
 - Different preferences or different opportunities? Explaining race differentials in the academic achievement of friends · [DOI](https://doi.org/10.1016/j.ssresearch.2012.03.001)
-- Latent class analysis of response inconsistencies across modes of data collection · [DOI](https://doi.org/10.1016/j.ssresearch.2012.05.006)
 - Parenthood and psychological well-being: Clarifying the role of child age and parent–child relationship quality · [DOI](https://doi.org/10.1016/j.ssresearch.2011.08.001)
 - Pathways of disadvantage: Explaining the relationship between maternal depression and children’s problem behaviors · [DOI](https://doi.org/10.1016/j.ssresearch.2012.06.003)
 - Contextual influences on environmental concerns cross-nationally: A multilevel investigation · [DOI](https://doi.org/10.1016/j.ssresearch.2012.04.003)
 
 ## 2011
 
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(10)00253-x)
 - The growth of survey research in the United States: Government-sponsored surveys, 1984–2004 · [DOI](https://doi.org/10.1016/j.ssresearch.2011.04.004)
-- Response effects to attitudinal questions about domestic violence against women: A comparative perspective · [DOI](https://doi.org/10.1016/j.ssresearch.2010.12.009)
 - Metropolitan influences on migration into poor and nonpoor neighborhoods · [DOI](https://doi.org/10.1016/j.ssresearch.2011.01.003)
 - Spatial and temporal dimensions of neighborhood effects on high school graduation · [DOI](https://doi.org/10.1016/j.ssresearch.2010.04.013)
 - The paradox of de-coupling: A study of flexible work program and workers’ productivity · [DOI](https://doi.org/10.1016/j.ssresearch.2010.04.005)
@@ -1614,7 +1576,6 @@
 - The myth of the glass ceiling: Evidence from a stock-flow analysis of authority attainment · [DOI](https://doi.org/10.1016/j.ssresearch.2010.06.012)
 - Heterogeneity in the rise and decline of city-level homicide rates, 1976–2005: A latent trajectory analysis · [DOI](https://doi.org/10.1016/j.ssresearch.2010.09.007)
 - The effect of immigration on religious belief and practice: A theologizing or alienating experience? · [DOI](https://doi.org/10.1016/j.ssresearch.2010.04.012)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(11)00006-8)
 - The persistence of skin color discrimination for immigrants · [DOI](https://doi.org/10.1016/j.ssresearch.2010.12.006)
 - Stolzenberg Chosen for ASA’s Lazarsfeld Award · [DOI](https://doi.org/10.1016/j.ssresearch.2011.09.004)
 - Gender inequalities in the college pipeline · [DOI](https://doi.org/10.1016/j.ssresearch.2010.07.004)
@@ -1649,16 +1610,13 @@
 - Adolescent girls’ race/ethnic status, identities, and drive for thinness · [DOI](https://doi.org/10.1016/j.ssresearch.2010.11.003)
 - Education and risky sex in Africa: Unraveling the link between women’s education and reproductive health behaviors in Kenya · [DOI](https://doi.org/10.1016/j.ssresearch.2010.12.003)
 - Explaining relationships between ethnic diversity and informal social capital across European countries and regions: Tests of constrict, conflict and contact theory · [DOI](https://doi.org/10.1016/j.ssresearch.2011.03.003)
-- Race at the top: How companies shape the inclusion of African Americans on their boards in response to institutional pressures · [DOI](https://doi.org/10.1016/j.ssresearch.2010.10.007)
 - Non-Hispanics with Latin American ancestry: Assimilation, race, and identity among Latin American descendants in the US · [DOI](https://doi.org/10.1016/j.ssresearch.2011.06.002)
 - Implicit racial bias and prosocial behavior · [DOI](https://doi.org/10.1016/j.ssresearch.2011.02.004)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(11)00145-1)
 - Ethnic social capital: Individual and group level sources and their economic consequences · [DOI](https://doi.org/10.1016/j.ssresearch.2010.09.014)
 - Non-standard work schedules, work–family conflict and parental well-being: A comparison of married and cohabiting unions · [DOI](https://doi.org/10.1016/j.ssresearch.2010.10.008)
 - Partners’ relationship quality and childbearing · [DOI](https://doi.org/10.1016/j.ssresearch.2010.10.001)
 - The diffusion of the Internet: Trend and causes · [DOI](https://doi.org/10.1016/j.ssresearch.2010.07.005)
 - Underestimating busyness: Indications of nonresponse bias due to work–family conflict and time pressure · [DOI](https://doi.org/10.1016/j.ssresearch.2011.06.004)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(11)00122-0)
 - Are we keeping the people who used to stay? Changes in correlates of panel survey attrition over time · [DOI](https://doi.org/10.1016/j.ssresearch.2011.03.001)
 - Globalization, labor market transformation, and metropolitan earnings inequality · [DOI](https://doi.org/10.1016/j.ssresearch.2010.07.001)
 - What You Know or Who You Know? Occupation-specific work experience and job matching through social networks · [DOI](https://doi.org/10.1016/j.ssresearch.2011.06.003)
@@ -1678,7 +1636,6 @@
 - Societies consuming nature: A panel study of the ecological footprints of nations, 1960–2003 · [DOI](https://doi.org/10.1016/j.ssresearch.2010.09.004)
 - Extended-family resources and racial inequality in the transition to homeownership · [DOI](https://doi.org/10.1016/j.ssresearch.2011.07.002)
 - Unraveling the effect of offender citizenship status on federal sentencing outcomes · [DOI](https://doi.org/10.1016/j.ssresearch.2010.09.013)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(11)00078-0)
 - Comparisons of the success of racial minority immigrant offspring in the United States, Canada and Australia · [DOI](https://doi.org/10.1016/j.ssresearch.2011.03.009)
 - Linking dichotomous segregation with multi-group segregation: Weighted segregation ratios in selected U.S. metropolitan areas · [DOI](https://doi.org/10.1016/j.ssresearch.2010.05.005)
 - Do less-skilled immigrants work more? Examining the work time of Mexican immigrant men in the United States · [DOI](https://doi.org/10.1016/j.ssresearch.2011.04.006)
@@ -1703,7 +1660,6 @@
 - Re-thinking the decline in trust: A comparison of black and white Americans · [DOI](https://doi.org/10.1016/j.ssresearch.2011.06.007)
 - Economic recession and the nature and pace of social change in Japan · [DOI](https://doi.org/10.1016/j.ssresearch.2011.01.002)
 - Examining racial differences in the effect of popular sports participation on academic achievement · [DOI](https://doi.org/10.1016/j.ssresearch.2011.03.002)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(11)00041-x)
 - Investigating the organizational sources of high-wage earnings growth and rising inequality · [DOI](https://doi.org/10.1016/j.ssresearch.2010.11.005)
 - A Sort of Homecoming: Incarceration and the housing security of urban men · [DOI](https://doi.org/10.1016/j.ssresearch.2011.03.008)
 - The diversity dividends of a need-blind and color-blind affirmative action policy · [DOI](https://doi.org/10.1016/j.ssresearch.2011.05.005)
@@ -1724,7 +1680,6 @@
 
 ## 2010
 
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(10)00087-6)
 - Parental family experiences, the timing of first sex, and contraception · [DOI](https://doi.org/10.1016/j.ssresearch.2010.06.015)
 - Expected utility, self-control, morality, and criminal probability · [DOI](https://doi.org/10.1016/j.ssresearch.2010.08.007)
 - Assessing the effect of marital sexuality on marital disruption · [DOI](https://doi.org/10.1016/j.ssresearch.2010.06.003)
@@ -1781,13 +1736,11 @@
 - “Hookups,” dating, and relationship quality: Does the type of sexual involvement matter? · [DOI](https://doi.org/10.1016/j.ssresearch.2010.03.011)
 - Relationship quality among cohabitors and marrieds in older adulthood · [DOI](https://doi.org/10.1016/j.ssresearch.2010.04.010)
 - SSR now appearing six times a year · [DOI](https://doi.org/10.1016/j.ssresearch.2009.06.005)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(09)00108-2)
 - Does extensivity form part of the altruistic personality? An empirical test of Oliner and Oliner’s theory · [DOI](https://doi.org/10.1016/j.ssresearch.2009.02.003)
 - African American, White and Hispanic child care preferences: A factorial survey analysis of welfare leavers by race and ethnicity · [DOI](https://doi.org/10.1016/j.ssresearch.2009.07.005)
 - Voluntary and involuntary job mobility and earnings inequality in urban China, 1993–2000 · [DOI](https://doi.org/10.1016/j.ssresearch.2009.11.003)
 - Birth weight, cognitive development, and life chances: A comparison of siblings from childhood into early adulthood · [DOI](https://doi.org/10.1016/j.ssresearch.2010.03.003)
 - Steven Nock’s enduring legacy as a marriage and family scholar · [DOI](https://doi.org/10.1016/j.ssresearch.2010.06.011)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(10)00229-2)
 - Place of education, gender disparity, and assimilation of immigrant scientists and engineers earnings · [DOI](https://doi.org/10.1016/j.ssresearch.2010.02.004)
 - The relationship context of premarital serial cohabitation · [DOI](https://doi.org/10.1016/j.ssresearch.2010.04.011)
 - Letters to the Editor · [DOI](https://doi.org/10.1016/j.ssresearch.2010.09.008)
@@ -1799,11 +1752,9 @@
 - Mapping patterns of multiple deprivation using self-organising maps: An application to EU-SILC data for Ireland · [DOI](https://doi.org/10.1016/j.ssresearch.2009.11.004)
 - The effects of welfare and Individual Development Account (IDA) program rules on asset holdings · [DOI](https://doi.org/10.1016/j.ssresearch.2009.07.008)
 - Changes in Texas universities’ applicant pools after the Hopwood decision · [DOI](https://doi.org/10.1016/j.ssresearch.2009.06.004)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(10)00045-1)
 - Inequalities in network structures · [DOI](https://doi.org/10.1016/j.ssresearch.2009.05.006)
 - The relations between race, family characteristics, and where students apply to college · [DOI](https://doi.org/10.1016/j.ssresearch.2009.08.003)
 - Mapping prison proliferation: Region, rurality, race and disadvantage in prison placement · [DOI](https://doi.org/10.1016/j.ssresearch.2010.03.001)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(10)00139-0)
 - Grounds for citizenship: Public attitudes in comparative perspective · [DOI](https://doi.org/10.1016/j.ssresearch.2009.12.001)
 - Immigrant educational outcomes in new destinations: An exploration of high school attrition · [DOI](https://doi.org/10.1016/j.ssresearch.2010.01.004)
 - Factors predicting early childhood education and care use by immigrant families · [DOI](https://doi.org/10.1016/j.ssresearch.2010.03.007)
@@ -1815,7 +1766,6 @@
 - Religion and verbal ability · [DOI](https://doi.org/10.1016/j.ssresearch.2009.05.007)
 - Coming and going: Explaining the effects of residential and school mobility on adolescent delinquency · [DOI](https://doi.org/10.1016/j.ssresearch.2009.08.009)
 - The risk of assimilating? Alcohol use among immigrant and U.S.-born Mexican youth · [DOI](https://doi.org/10.1016/j.ssresearch.2009.07.001)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(09)00127-6)
 - Food insecurity and disability: Do economic resources matter? · [DOI](https://doi.org/10.1016/j.ssresearch.2009.07.002)
 - Neighborhood disadvantage and mental health: The role of neighborhood disorder and social relationships · [DOI](https://doi.org/10.1016/j.ssresearch.2009.08.007)
 - Welfare leaving and the health of young children in immigrant and native families · [DOI](https://doi.org/10.1016/j.ssresearch.2009.08.002)
@@ -1853,10 +1803,8 @@
 - Black asset ownership: Does ethnicity matter? · [DOI](https://doi.org/10.1016/j.ssresearch.2008.11.003)
 - Immigrant generation, selective acculturation, and alcohol use among Latina/o adolescents · [DOI](https://doi.org/10.1016/j.ssresearch.2009.01.006)
 - Dynamic measures of primary and secondary school characteristics: Implications for school effects research · [DOI](https://doi.org/10.1016/j.ssresearch.2008.11.002)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(09)00092-1)
 - Testing, time limits, and English learners: Does age of school entry affect how quickly students can learn English? · [DOI](https://doi.org/10.1016/j.ssresearch.2008.08.002)
 - Race and space in the 1990s: Changes in the geographic scale of racial residential segregation, 1990–2000 · [DOI](https://doi.org/10.1016/j.ssresearch.2008.10.002)
-- Response rate and measurement differences in mixed-mode surveys using mail, telephone, interactive voice response (IVR) and the Internet · [DOI](https://doi.org/10.1016/j.ssresearch.2008.03.007)
 - Marital happiness and marital stability: Consequences for psychological well-being · [DOI](https://doi.org/10.1016/j.ssresearch.2008.07.001)
 - When faith divides family: Religious discord and adolescent reports of parent–child relations · [DOI](https://doi.org/10.1016/j.ssresearch.2008.05.002)
 - The friendship networks of multiracial adolescents · [DOI](https://doi.org/10.1016/j.ssresearch.2008.09.002)
@@ -1866,10 +1814,7 @@
 - The declining racial earnings’ gap in United States: Multi-level analysis of males’ earnings, 1960–2000 · [DOI](https://doi.org/10.1016/j.ssresearch.2008.11.001)
 - Year of the Woman, Decade of the Man: Trajectories of growth in women’s state legislative representation · [DOI](https://doi.org/10.1016/j.ssresearch.2008.08.003)
 - Humanizing the homeless: Does contact erode stereotypes? · [DOI](https://doi.org/10.1016/j.ssresearch.2009.01.009)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(08)00123-3)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(09)00023-4)
 - Inequality in the family: The institutional aspects of women’s earning contribution · [DOI](https://doi.org/10.1016/j.ssresearch.2009.01.008)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(09)00049-0)
 - Gendered racial exclusion among white internet daters · [DOI](https://doi.org/10.1016/j.ssresearch.2008.09.004)
 - Religion and intimate partner violence in Chile: Macro- and micro-level influences · [DOI](https://doi.org/10.1016/j.ssresearch.2009.03.001)
 - Parental divorce, sibship size, family resources, and children’s academic performance · [DOI](https://doi.org/10.1016/j.ssresearch.2009.03.007)
@@ -1896,7 +1841,6 @@
 ## 2008
 
 - Do you like me as much as I like you? Friendship reciprocity and its effects on school outcomes among adolescents · [DOI](https://doi.org/10.1016/j.ssresearch.2006.11.002)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(08)00053-7)
 - Race, spatial mismatch, and job accessibility: Evidence from a plant relocation · [DOI](https://doi.org/10.1016/j.ssresearch.2008.03.006)
 - Social capital and civic action: A network-based approach · [DOI](https://doi.org/10.1016/j.ssresearch.2006.12.004)
 - The risk of divorce as a barrier to marriage among parents of young children · [DOI](https://doi.org/10.1016/j.ssresearch.2008.05.010)
@@ -1915,7 +1859,6 @@
 - Facts & artifacts in research: The case of communication medium, gender, and influence · [DOI](https://doi.org/10.1016/j.ssresearch.2007.08.005)
 - The effects of religious contextual norms, structural constraints, and personal religiosity on abortion decisions · [DOI](https://doi.org/10.1016/j.ssresearch.2007.09.003)
 - Welfare myths: The transmission of values and work among TANF families · [DOI](https://doi.org/10.1016/j.ssresearch.2007.09.005)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(08)00010-0)
 - Material consumption and social well-being within the periphery of the world economy: An ecological analysis of maternal mortality · [DOI](https://doi.org/10.1016/j.ssresearch.2008.05.006)
 - The contours of stratification in service-oriented economies · [DOI](https://doi.org/10.1016/j.ssresearch.2007.11.004)
 - The dynamic relationship between homicide rates and social, economic, and political factors from 1970 to 2000 · [DOI](https://doi.org/10.1016/j.ssresearch.2007.09.007)
@@ -1944,7 +1887,6 @@
 - Gender and homophily: Differences in male and female association in Blau space · [DOI](https://doi.org/10.1016/j.ssresearch.2007.08.004)
 - Parents’ marital disruption and its uneven effect on children’s academic performance—A simulation model · [DOI](https://doi.org/10.1016/j.ssresearch.2007.03.005)
 - Maximizing congregational resources: Selection versus production · [DOI](https://doi.org/10.1016/j.ssresearch.2007.10.001)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(08)00087-2)
 - Selecting job applicants: Effects from gender, self-presentation, and decision type · [DOI](https://doi.org/10.1016/j.ssresearch.2007.11.002)
 - Even whiter than we thought: What median residential exposure indices reveal about white neighborhood contact with African Americans in U.S. metropolitan areas · [DOI](https://doi.org/10.1016/j.ssresearch.2007.10.004)
 - Parental employment circumstances and children’s academic progress · [DOI](https://doi.org/10.1016/j.ssresearch.2007.08.007)
@@ -1959,7 +1901,6 @@
 - The interviewer effect when there is an education gap with the respondent: Evidence from a survey on biotechnology in Taiwan · [DOI](https://doi.org/10.1016/j.ssresearch.2008.05.008)
 - Labor market conditions and violent crime across the metro–nonmetro divide · [DOI](https://doi.org/10.1016/j.ssresearch.2007.09.001)
 - Do disabilities in former TANF families hasten their returns to cash assistance? · [DOI](https://doi.org/10.1016/j.ssresearch.2007.06.006)
-- Cover 2/Editorial Board · [DOI](https://doi.org/10.1016/s0049-089x(08)00040-9)
 - Marrying out: Comparing the marital and social integration of Asians in the US and Canada · [DOI](https://doi.org/10.1016/j.ssresearch.2007.01.002)
 - Do displaced workers lose occupational prestige? · [DOI](https://doi.org/10.1016/j.ssresearch.2007.08.006)
 - Competing for jobs: Labor queues and gender sorting in the hiring process · [DOI](https://doi.org/10.1016/j.ssresearch.2007.10.003)
@@ -2093,7 +2034,6 @@
 - Pre-school enrollment: An analysis by immigrant generation · [DOI](https://doi.org/10.1016/j.ssresearch.2004.06.003)
 - Reinvigorating relative deprivation: A new measure for a classic concept · [DOI](https://doi.org/10.1016/j.ssresearch.2005.07.001)
 - Reconciling garbage cans and rational actors: Explaining organizational decisions about environmental hazard management · [DOI](https://doi.org/10.1016/j.ssresearch.2004.06.004)
-- Illustrations of family scholarship: Introduction to the special issue · [DOI](https://doi.org/10.1016/j.ssresearch.2006.03.002)
 - An assessment of the construct validity of Ryff’s Scales of Psychological Well-Being: Method, mode, and measurement effects · [DOI](https://doi.org/10.1016/j.ssresearch.2005.07.004)
 - Bad news indeed for Ryff’s six-factor model of well-being · [DOI](https://doi.org/10.1016/j.ssresearch.2006.01.003)
 - Cross-national analysis of a model of reproductive health in developing countries · [DOI](https://doi.org/10.1016/j.ssresearch.2004.08.003)
@@ -2119,7 +2059,6 @@
 - Gender, social bonds, and delinquency: a comparison of boys' and girls' models · [DOI](https://doi.org/10.1016/j.ssresearch.2004.04.003)
 - Accumulating adversity and advantage on the path to postsecondary education: an application of a person-centered approach · [DOI](https://doi.org/10.1016/j.ssresearch.2004.04.001)
 - Class differences in African American residential patterns in US metropolitan areas: 1990–2000 · [DOI](https://doi.org/10.1016/j.ssresearch.2004.02.001)
-- Publisher’s Announcement · [DOI](https://doi.org/10.1016/s0049-089x(05)00039-6)
 - Status cues and the formation of expectations · [DOI](https://doi.org/10.1016/j.ssresearch.2003.10.004)
 - Frontier and urban-industrial explanations of US occupational mobility in the late 1800s · [DOI](https://doi.org/10.1016/j.ssresearch.2004.01.001)
 - Adolescents' involvement in non-romantic sexual activity · [DOI](https://doi.org/10.1016/j.ssresearch.2004.03.001)
@@ -2165,7 +2104,6 @@
 - Assortative mating after divorce: a test of two competing hypotheses using marginal models · [DOI](https://doi.org/10.1016/j.ssresearch.2003.06.003)
 - The transformation of US gender role attitudes: cohort replacement, social-structural change, and ideological learning · [DOI](https://doi.org/10.1016/s0049-089x(03)00041-3)
 - International evidence on the impact of transfers and taxes on alternative poverty indexes · [DOI](https://doi.org/10.1016/j.ssresearch.2003.07.001)
-- Ascription and departmental rankings revisited: A correction and a reanalysis · [DOI](https://doi.org/10.1016/j.ssresearch.2003.09.006)
 - The division of labor between generations of women in rural China · [DOI](https://doi.org/10.1016/j.ssresearch.2003.09.005)
 - Author Index for Volume 33 · [DOI](https://doi.org/10.1016/s0049-089x(04)00069-9)
 - The detailed age trajectory of oral vocabulary knowledge: differences by class and race · [DOI](https://doi.org/10.1016/j.ssresearch.2003.08.001)
@@ -2336,7 +2274,6 @@
 ## 1996
 
 - The Effect of Military Service on Educational, Occupational, and Income Attainment · [DOI](https://doi.org/10.1006/ssre.1996.0001)
-- Internationally Comparable Measures of Occupational Status for the 1988 International Standard Classification of Occupations · [DOI](https://doi.org/10.1006/ssre.1996.0010)
 
 ## 1995
 
@@ -2359,9 +2296,6 @@
 ## 1991
 
 - Estimating the size of an average personal network and of an event subpopulation: Some empirical results · [DOI](https://doi.org/10.1016/0049-089x(91)90012-r)
-- Leaving the faith: Testing theories of religious switching using survival models · [DOI](https://doi.org/10.1016/0049-089x(91)90015-u)
-- Why do married men earn more than unmarried men? · [DOI](https://doi.org/10.1016/0049-089x(91)90002-k)
-- Density dependence in the organizational evolution of the American brewing industry across different levels of analysis · [DOI](https://doi.org/10.1016/0049-089x(91)90008-q)
 
 ## 1989
 
@@ -2370,11 +2304,6 @@
 ## 1988
 
 - Estimation and hypothesis testing for seemingly unrelated regressions: A sociological application · [DOI](https://doi.org/10.1016/0049-089x(88)90010-5)
-- Conjoint scaling of the utility of money using paired comparisons · [DOI](https://doi.org/10.1016/0049-089x(88)90017-8)
-
-## 1987
-
-- Measuring the process of role change during the transition to adulthood · [DOI](https://doi.org/10.1016/0049-089x(87)90017-2)
 
 ## 1986
 
@@ -2387,21 +2316,7 @@
 ## 1978
 
 - Sex similarities in occupational status attainment: Are the results due to the restriction of the sample to employed women? · [DOI](https://doi.org/10.1016/0049-089x(78)90011-x)
-- Interorganizational resource networks: Formal patterns of overlap · [DOI](https://doi.org/10.1016/0049-089x(78)90006-6)
-
-## 1977
-
-- Body time and social time: Mood patterns by menstrual cycle phase and day of the week · [DOI](https://doi.org/10.1016/0049-089x(77)90013-8)
-
-## 1976
-
-- Season's greetings: From my status to yours · [DOI](https://doi.org/10.1016/0049-089x(76)90003-x)
-
-## 1973
-
-- On the social structure of an ocean-going research vessel and other important things · [DOI](https://doi.org/10.1016/0049-089x(73)90016-1)
 
 ## 1972
 
 - A lower-bound method for the dimension-free measurement of internal consistency · [DOI](https://doi.org/10.1016/0049-089x(72)90082-8)
-- The size of national assemblies · [DOI](https://doi.org/10.1016/0049-089x(72)90084-1)

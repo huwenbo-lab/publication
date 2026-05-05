@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2000–2009 年文章（含摘要）
 
-共 **178** 篇
+共 **167** 篇
 
 ---
 
@@ -402,10 +402,6 @@
 **作者**: Birkelund, Gunn Elisabeth
 **摘要**: （暂无）
 
-### Prelim (ii) Editorial Board
-**年份**: 2006 | **DOI**: [10.1016/s0276-5624(06)00018-7](https://doi.org/10.1016/s0276-5624(06)00018-7)
-**摘要**: （暂无）
-
 ### The place of opportunity: Community and individual determinants of poverty among Jews and Arabs in Israel
 **年份**: 2006 | **DOI**: [10.1016/j.rssm.2006.04.002](https://doi.org/10.1016/j.rssm.2006.04.002)
 **作者**: Lewin, Alisa C.; Stier, Haya; Caspi-Dror, Dafna
@@ -433,11 +429,6 @@
 ### Work and pay in flexible and regulated labor markets: A generalized perspective on institutional evolution and inequality trends in Europe and the U.S.
 **年份**: 2006 | **DOI**: [10.1016/j.rssm.2006.04.001](https://doi.org/10.1016/j.rssm.2006.04.001)
 **作者**: DiPrete, Thomas A.; Goux, Dominique; Maurin, Eric 等4人
-**摘要**: （暂无）
-
-### Bringing the state in: A commentary on welfare states and social inequality
-**年份**: 2006 | **DOI**: [10.1016/j.rssm.2006.10.003](https://doi.org/10.1016/j.rssm.2006.10.003)
-**作者**: Tranby, Eric
 **摘要**: （暂无）
 
 ### The rise in involuntary part-time employment in Israel
@@ -480,10 +471,6 @@
 **作者**: Khazzoom, Aziza
 **摘要**: （暂无）
 
-### Contents
-**年份**: 2005 | **DOI**: [10.1016/s0276-5624(05)23015-9](https://doi.org/10.1016/s0276-5624(05)23015-9)
-**摘要**: （暂无）
-
 ### Recruitment into the Eastern European Communist Elite: Dual Career Paths
 **年份**: 2005 | **DOI**: [10.1016/s0276-5624(05)23002-0](https://doi.org/10.1016/s0276-5624(05)23002-0)
 **作者**: Hanley, Eric; Treiman, Donald J.
@@ -511,11 +498,6 @@
 ### Class and the Educational Attainment of Siblings: An Explanatory Model of Social Mobility
 **年份**: 2005 | **DOI**: [10.1016/s0276-5624(05)23005-6](https://doi.org/10.1016/s0276-5624(05)23005-6)
 **作者**: Wong, Yi-Lee
-**摘要**: （暂无）
-
-### Introduction
-**年份**: 2005 | **DOI**: [10.1016/s0276-5624(05)23013-5](https://doi.org/10.1016/s0276-5624(05)23013-5)
-**作者**: Leicht, Kevin T.
 **摘要**: （暂无）
 
 ### SOME DEMOGRAPHIC ASPECTS OF RURALITY
@@ -620,10 +602,6 @@
 **作者**: Petersen, Trond
 **摘要**: （暂无）
 
-### CONTENTS
-**年份**: 2004 | **DOI**: [10.1016/s0276-5624(04)22014-5](https://doi.org/10.1016/s0276-5624(04)22014-5)
-**摘要**: （暂无）
-
 ### DO ETHNIC ENCLAVES BENEFIT OR HARM LINGUISTICALLY ISOLATED EMPLOYEES?
 **年份**: 2004 | **DOI**: [10.1016/s0276-5624(04)22010-8](https://doi.org/10.1016/s0276-5624(04)22010-8)
 **作者**: Evans, M.D.R.
@@ -649,10 +627,6 @@
 **作者**: Woelfel, Joseph; Murero, Monica
 **摘要**: （暂无）
 
-### Contents
-**年份**: 2004 | **DOI**: [10.1016/s0276-5624(04)21013-7](https://doi.org/10.1016/s0276-5624(04)21013-7)
-**摘要**: （暂无）
-
 ### AAGE B. SØRENSEN: 1941–2001
 **年份**: 2004 | **DOI**: [10.1016/s0276-5624(04)21001-0](https://doi.org/10.1016/s0276-5624(04)21001-0)
 **作者**: Kalleberg, Arne L.; Morgan, Stephen L.; Myles, John
@@ -672,16 +646,6 @@
 **作者**: Spenner, Kenneth I.; Buchmann, Claudia; Landerman, Lawrence R.
 **摘要**: （暂无）
 
-### INTRODUCTION
-**年份**: 2004 | **DOI**: [10.1016/s0276-5624(04)22018-2](https://doi.org/10.1016/s0276-5624(04)22018-2)
-**作者**: Bills, David B.
-**摘要**: （暂无）
-
-### INTRODUCTION
-**年份**: 2003 | **DOI**: [10.1016/s0276-5624(03)20014-7](https://doi.org/10.1016/s0276-5624(03)20014-7)
-**作者**: Leicht, Kevin T.
-**摘要**: （暂无）
-
 ### CHANGE IN PART-TIME WORK ACROSS OCCUPATIONS, 1970–1990
 **年份**: 2003 | **DOI**: [10.1016/s0276-5624(03)20003-2](https://doi.org/10.1016/s0276-5624(03)20003-2)
 **作者**: Cassirer, Naomi
@@ -690,10 +654,6 @@
 ### THE POWER OF PROPERTY IN COMPARATIVE PERSPECTIVE
 **年份**: 2003 | **DOI**: [10.1016/s0276-5624(03)20009-3](https://doi.org/10.1016/s0276-5624(03)20009-3)
 **作者**: Raffalovich, Lawrence E; Vesselinov, Elena
-**摘要**: （暂无）
-
-### Table of Contents
-**年份**: 2003 | **DOI**: [10.1016/s0276-5624(03)20011-1](https://doi.org/10.1016/s0276-5624(03)20011-1)
 **摘要**: （暂无）
 
 ### LABOR MARKET STRUCTURE AND RE-EMPLOYMENT RATES: UNEMPLOYMENT DYNAMICS IN WEST GERMANY AND THE UNITED STATES
@@ -809,11 +769,6 @@
 **作者**: Bian, Yanjie; Zhang, Zhanxin
 **摘要**: （暂无）
 
-### Introduction
-**年份**: 2002 | **DOI**: [10.1016/s0276-5624(02)80034-8](https://doi.org/10.1016/s0276-5624(02)80034-8)
-**作者**: Leicht, Kevin T.
-**摘要**: （暂无）
-
 ### Support for redistributive policies among the African American middle class: Race and class effects
 **年份**: 2001 | **DOI**: [10.1016/s0276-5624(01)80024-x](https://doi.org/10.1016/s0276-5624(01)80024-x)
 **作者**: Wilson, George
@@ -870,9 +825,4 @@
 ### Working class wages during early industrialization: Brazilian evidence
 **年份**: 2001 | **DOI**: [10.1016/s0276-5624(01)80025-1](https://doi.org/10.1016/s0276-5624(01)80025-1)
 **作者**: Kelley, Jonathan; Hailer, Archibald O.
-**摘要**: （暂无）
-
-### Introduction to volume 18
-**年份**: 2001 | **DOI**: [10.1016/s0276-5624(01)80020-2](https://doi.org/10.1016/s0276-5624(01)80020-2)
-**作者**: Leicht, Kevin T.
 **摘要**: （暂无）

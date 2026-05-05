@@ -1,7 +1,7 @@
 # Demography
 ## 2010–2019 年文章（含摘要）
 
-共 **863** 篇
+共 **853** 篇
 
 ---
 
@@ -519,11 +519,6 @@
 **年份**: 2018 | **DOI**: [10.1007/s13524-018-0717-0](https://doi.org/10.1007/s13524-018-0717-0)
 **作者**: Fusaro, Vincent A.; Levy, Helen G.; Shaefer, H. Luke
 **摘要**: Homelessness in the United States is often examined using cross-sectional, point-in-time samples. Any experience of homelessness is a risk factor for adverse outcomes, so it is also useful to understand the incidence of homelessness over longer periods.…
-
-### Has Income Segregation Really Increased? Bias and Bias Correction in Sample-Based Segregation Estimates
-**年份**: 2018 | **DOI**: [10.1007/s13524-018-0721-4](https://doi.org/10.1007/s13524-018-0721-4)
-**作者**: Reardon, Sean F.; Bischoff, Kendra; Owens, Ann 等4人
-**摘要**: Several recent studies have concluded that residential segregation by income in the United States has increased in the decades since 1970, including a significant increase after 2000. Income segregation measures, however, are biased upward when based on sample data.…
 
 ### Patrilocal Residence and Female Labor Supply: Evidence From Kyrgyzstan
 **年份**: 2018 | **DOI**: [10.1007/s13524-018-0724-1](https://doi.org/10.1007/s13524-018-0724-1)
@@ -1270,11 +1265,6 @@
 **作者**: Hendi, Arun S.
 **摘要**: Several recent articles have reported conflicting conclusions about educational differences in life expectancy, and this is partly due to the use of unreliable data subject to a numerator-denominator bias previously reported as ranging from 20 % to 40 %.…
 
-### Reply to Trends in Education-Specific Life Expectancy, Data Quality, and Shifting Education Distributions: A Note on Recent Research
-**年份**: 2017 | **DOI**: [10.1007/s13524-017-0583-1](https://doi.org/10.1007/s13524-017-0583-1)
-**作者**: Sasson, Isaac
-**摘要**: （暂无）
-
 ### Parenting in On/Off Relationships: The Link Between Relationship Churning and Father Involvement
 **年份**: 2017 | **DOI**: [10.1007/s13524-017-0571-5](https://doi.org/10.1007/s13524-017-0571-5)
 **作者**: Turney, Kristin; Halpern-Meekin, Sarah
@@ -1424,11 +1414,6 @@
 **年份**: 2017 | **DOI**: [10.1007/s13524-016-0535-1](https://doi.org/10.1007/s13524-016-0535-1)
 **作者**: Hermansen, Are Skeie
 **摘要**: This study examines the causal relationship between childhood immigrants' age at arrival and their life chances as adults. I analyze panel data on siblings from Norwegian administrative registries, which enables me to disentangle the effect of age at arrival on adult socioeconomic outcomes from all …
-
-### America's Churning Races: Race and Ethnicity Response Changes Between Census 2000 and the 2010 Census
-**年份**: 2017 | **DOI**: [10.1007/s13524-016-0544-0](https://doi.org/10.1007/s13524-016-0544-0)
-**作者**: Liebler, Carolyn A.; Porter, Sonya R.; Fernandez, Leticia E. 等5人
-**摘要**: A person's racial or ethnic self-identification can change over time and across contexts, which is a component of population change not usually considered in studies that use race and ethnicity as variables.…
 
 ### The Unequal Consequences of Mass Incarceration for Children
 **年份**: 2017 | **DOI**: [10.1007/s13524-016-0543-1](https://doi.org/10.1007/s13524-016-0543-1)
@@ -2160,11 +2145,6 @@
 **作者**: Barclay, Kieron; Kolk, Martin
 **摘要**: This study uses Swedish population register data to investigate the relationship between birth order and mortality at ages 30 to 69 for Swedish cohorts born between 1938 and 1960, using a within-family comparison.…
 
-### Evidence of Self-correction of Child Sex Ratios in India: A District-Level Analysis of Child Sex Ratios From 1981 to 2011
-**年份**: 2015 | **DOI**: [10.1007/s13524-014-0356-z](https://doi.org/10.1007/s13524-014-0356-z)
-**作者**: Diamond-Smith, Nadia; Bishai, David
-**摘要**: Sex ratios in India have become increasingly imbalanced over the past decades. We hypothesize that when sex ratios become very uneven, the shortage of girls will increase girls' future value, leading sex ratios to self-correct.…
-
 ### Conjuring the Ghosts of Missing Children: A Monte Carlo Simulation of Reproductive Restraint in Tokugawa Japan
 **年份**: 2015 | **DOI**: [10.1007/s13524-015-0378-1](https://doi.org/10.1007/s13524-015-0378-1)
 **作者**: Drixler, Fabian F.
@@ -2674,11 +2654,6 @@
 **作者**: Rokicki, Slawa; Montana, Livia; Fink, Günther
 **摘要**: Abstract Over the last few decades, total fertility rates, child morbidity, and child mortality rates have declined in most parts of sub-Saharan Africa. Among the most striking trends observed are the rapid rate of urbanization and the often remarkably large gaps in fertility between rural and urban…
 
-### Reply to Comment on “The Effect of Same-Sex Marriage Laws on Different-Sex Marriage: Evidence From the Netherlands”
-**年份**: 2014 | **DOI**: [10.1007/s13524-014-0348-z](https://doi.org/10.1007/s13524-014-0348-z)
-**作者**: Trandafir, Mircea
-**摘要**: （暂无）
-
 ### Marital Disruption and Health Insurance
 **年份**: 2014 | **DOI**: [10.1007/s13524-014-0317-6](https://doi.org/10.1007/s13524-014-0317-6)
 **作者**: Peters, H. Elizabeth; Simon, Kosali; Taber, Jamie Rubenstein
@@ -2858,16 +2833,6 @@
 **作者**: Tach, Laura; Edin, Kathryn
 **摘要**: Abstract Unmarried parents have less stable unions than married parents, but there is considerable debate over the sources of this instability. Unmarried parents may be more likely than married parents to end their unions because of compositional differences, such as more disadvantaged personal and …
 
-### Has the World Really Survived the Population Bomb? (Commentary on “How the World Survived the Population Bomb: Lessons From 50 Years of Extraordinary Demographic History”)
-**年份**: 2013 | **DOI**: [10.1007/s13524-013-0236-y](https://doi.org/10.1007/s13524-013-0236-y)
-**作者**: Becker, Stan
-**摘要**: Abstract In his PAA presidential address and corresponding article in Demography, David Lam (Demography 48:1231–1262, 2011) documented the extraordinary progress of humankind—vis-à-vis poverty alleviation, increased schooling, and reductions in mortality and fertility—since 1960 and noted that he ex…
-
-### When Immigration Policies Affect Immigrants’ Lives: Commentary
-**年份**: 2013 | **DOI**: [10.1007/s13524-013-0205-5](https://doi.org/10.1007/s13524-013-0205-5)
-**作者**: Menjívar, Cecilia
-**摘要**: I write this commentary on the day that a federal judge decided to green-light Section 2B, the "show me your papers" provision, of Arizona's SB 1070, thus clearing the way for the most controversial portion of this law to take effect.State and local police in Arizona will now be required to verify t…
-
 ### Editor’s Note
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0266-5](https://doi.org/10.1007/s13524-013-0266-5)
 **作者**: Tolnay, Stewart
@@ -2897,11 +2862,6 @@
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0247-8](https://doi.org/10.1007/s13524-013-0247-8)
 **作者**: Stone, Juliet; Berrington, Ann; Falkingham, Jane
 **摘要**: AbstractThe idea of a generation of young adults “boomeranging” back to the parental home has gained widespread currency in the British popular press. However, there is little empirical research identifying either increasing rates of returning home or the factors associated with this trend.…
-
-### Reply to Stan Becker, “Has the World Really Survived the Population Bomb? (Commentary on “How the World Survived the Population Bomb: Lessons from 50 Years of Extraordinary Demographic History”)”
-**年份**: 2013 | **DOI**: [10.1007/s13524-013-0249-6](https://doi.org/10.1007/s13524-013-0249-6)
-**作者**: Lam, David
-**摘要**: （暂无）
 
 ### Duration and Timing of Exposure to Neighborhood Poverty and the Risk of Adolescent Parenthood
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0219-z](https://doi.org/10.1007/s13524-013-0219-z)
@@ -3107,11 +3067,6 @@
 **作者**: Fienberg, Stephen E.
 **摘要**: I am pleased to be able to join in the discussion of the article by Luo (in this issue) on age, period, and cohort (APC) modeling in demographic research.Demographers have had a long fascination with various forms of accounting frameworks, and thus APC modeling was a natural topic for the demographi…
 
-### Paradigm Shift in Age-Period-Cohort Analysis: A Response to Yang and Land, O’Brien, Held and Riebler, and Fienberg
-**年份**: 2013 | **DOI**: [10.1007/s13524-013-0263-8](https://doi.org/10.1007/s13524-013-0263-8)
-**作者**: Luo, Liying
-**摘要**: （暂无）
-
 ### Marital Fertility Decline in the Netherlands: Child Mortality, Real Wages, and Unemployment, 1860–1939
 **年份**: 2012 | **DOI**: [10.1007/s13524-012-0112-1](https://doi.org/10.1007/s13524-012-0112-1)
 **作者**: Schellekens, Jona; van Poppel, Frans
@@ -3145,11 +3100,6 @@
 **年份**: 2012 | **DOI**: [10.1007/s13524-012-0130-z](https://doi.org/10.1007/s13524-012-0130-z)
 **作者**: Ross, Catherine E.; Masters, Ryan K.; Hummer, Robert A.
 **摘要**: AbstractThe positive associations between education and health and survival are well established, but whether the strength of these associations depends on gender is not. Is the beneficial influence of education on survival and on self-rated health conditioned by gender in the same way, in opposite …
-
-### Reply to Allen et al.
-**年份**: 2012 | **DOI**: [10.1007/s13524-012-0170-4](https://doi.org/10.1007/s13524-012-0170-4)
-**作者**: Rosenfeld, Michael J.
-**摘要**: Abstract Allen et al.’s results depend on their inclusion of children whose family at the time of their grade retention is unknown, plus adopted and foster children whose selection process into families is unknown.…
 
 ### Moving Across Boundaries: Migration in South Africa, 1950–2000
 **年份**: 2012 | **DOI**: [10.1007/s13524-012-0140-x](https://doi.org/10.1007/s13524-012-0140-x)

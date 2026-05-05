@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **280** 篇
+共 **278** 篇
 
 ---
 
@@ -850,11 +850,6 @@
 **作者**: Huffman, ML; Cohen, PN
 **摘要**: Despite decades of research showing greater black-white inequality in local areas where the black population is relatively large, little is known about the mechanisms for this effect.…
 
-### Organizational Success and Worker Dignity: Complementary or Contradictory?
-**年份**: 2004 | **DOI**: [10.1086/422626](https://doi.org/10.1086/422626)
-**作者**: Hodson, Randy; Roscigno, Vincent J.
-**摘要**: （暂无）
-
 ### The strange history of employer-sponsored child care: Interested actors, uncertainty, and the transformation of law in organizational fields
 **年份**: 2003 | **DOI**: [10.1086/379631](https://doi.org/10.1086/379631)
 **作者**: Kelly, EL
@@ -1398,9 +1393,4 @@
 ### Comment: Controversies and evidence in the market transition debate
 **年份**: 2000 | **DOI**: [10.1086/210402](https://doi.org/10.1086/210402)
 **作者**: Cao, Y; Nee, VG
-**摘要**: （暂无）
-
-### Reply: Beyond the debate and toward substantive institutional analysis
-**年份**: 2000 | **DOI**: [10.1086/210403](https://doi.org/10.1086/210403)
-**作者**: Zhou, XG
 **摘要**: （暂无）

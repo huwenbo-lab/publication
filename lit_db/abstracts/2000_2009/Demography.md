@@ -1,7 +1,7 @@
 # Demography
 ## 2000–2009 年文章（含摘要）
 
-共 **524** 篇
+共 **515** 篇
 
 ---
 
@@ -60,11 +60,6 @@
 **作者**: Chi, Guangqing
 **摘要**: AbstractRecent developments in urban and regional planning require more accurate population forecasts at subcounty levels, as well as a consideration of interactions among population growth, traffic flow, land use, and environmental impacts.…
 
-### Marriage behavior response to prime-age adult mortality: evidence from malawi
-**年份**: 2009 | **DOI**: [10.1353/dem.0.0039](https://doi.org/10.1353/dem.0.0039)
-**作者**: Ueyama, Mika; Yamauchi, Futoshi
-**摘要**: Abstract This article examines the effect of AIDS-related mortality of the prime-age adult population on marriage behavior among women in Malawi. A rise in prime-age adult mortality increases risks associated with the search for a marriage partner in the marriage market.…
-
 ### Revisiting das gupta: Refinement and extension of standardization and decomposition
 **年份**: 2009 | **DOI**: [10.1353/dem.0.0060](https://doi.org/10.1353/dem.0.0060)
 **作者**: Chevan, Albert; Sutherland, Michael
@@ -109,11 +104,6 @@
 **年份**: 2009 | **DOI**: [10.1353/dem.0.0065](https://doi.org/10.1353/dem.0.0065)
 **作者**: Bozick, Robert
 **摘要**: Abstract Using a nationally representative sample of graduates from the high school class of 2003-2004, I test the warehouse hypothesis, which contends that youth are more likely to leave school and enter the labor force when there are available job opportunities (and vice versa).…
-
-### Response to Ermisch, Martin, and Wu
-**年份**: 2009 | **DOI**: [10.1353/dem.0.0047](https://doi.org/10.1353/dem.0.0047)
-**作者**: Gray, Jo Anna; Stockard, Jean; Stone, Joe
-**摘要**: Abstract Our recent paper in Demography (Gray, Stockard, and Stone 2006) has attracted the close scrutiny of several prominent academics. Three sets of formal comments, authored independently by Ermisch, Martin, and Wu (EMW), appear in this issue of Demography.…
 
 ### Forced migration and mortality in the very long term: Didperestroikaaffect death rates also in Finland?
 **年份**: 2009 | **DOI**: [10.1353/dem.0.0069](https://doi.org/10.1353/dem.0.0069)
@@ -438,11 +428,6 @@
 **年份**: 2008 | **DOI**: [10.1353/dem.0.0001](https://doi.org/10.1353/dem.0.0001)
 **作者**: Desai, Sonalde; Kulkarni, Veena
 **摘要**: Abstract Indian society suffers from substantial inequalities in education, employment, and income based on caste and ethnicity. Compensatory or positive discrimination policies reserve 15% of the seats in institutions of higher education and state and central government jobs for people of the lowes…
-
-### A practical approach to using Multiple-Race response data: A bridging method for publicuse microdata
-**年份**: 2008 | **DOI**: [10.1353/dem.2008.0004](https://doi.org/10.1353/dem.2008.0004)
-**作者**: Liebler, Carolyn A.; Halpern-Manners, Andrew
-**摘要**: AbstractRevised federal policies require that multiple-race responses be allowed in all federal data collection efforts, but many researchers find the multitude of race categories and variables very dif cult to use.…
 
 ### Trends in U.S. adult chronic disease mortality, 1960–1999: age, period, and cohort variations
 **年份**: 2008 | **DOI**: [10.1353/dem.0.0000](https://doi.org/10.1353/dem.0.0000)
@@ -938,11 +923,6 @@
 **作者**: Feliciano, Cynthia
 **摘要**: AbstractCurrent immigration research has revealed little about how immigrants compare to those who do not migrate. Although most scholars agree that migrants are not random samples of their home countries’ populations, the direction and degree of educational selectivity is not fully understood.…
 
-### The influence of network mortality experience on nonnumeric response concerning expected family size: Evidence from a Nepalese mountain village
-**年份**: 2005 | **DOI**: [10.1353/dem.2005.0035](https://doi.org/10.1353/dem.2005.0035)
-**作者**: Sandberg, John
-**摘要**: AbstractThis article investigates the effects of sociometric network members’ self-reported experiences with infant mortality on nonnumeric responses regarding expected family size among women in a small Nepalese community.…
-
 ### Coherent mortality forecasts for a group of populations: An extension of the lee-carter method
 **年份**: 2005 | **DOI**: [10.1353/dem.2005.0021](https://doi.org/10.1353/dem.2005.0021)
 **作者**: Li, Nan; Lee, Ronald
@@ -1032,11 +1012,6 @@
 **年份**: 2005 | **DOI**: [10.1353/dem.2005.0038](https://doi.org/10.1353/dem.2005.0038)
 **作者**: Steele, Fiona; Kallis, Constantinos; Goldstein, Harvey 等4人
 **摘要**: Abstract In this article, we describe a general framework for the analysis of correlated event histories, with an application to a study of partnership transitions and fertility among a cohort of British women.…
-
-### Changes in children’s time with parents: A correction
-**年份**: 2005 | **DOI**: [10.1353/dem.2005.0017](https://doi.org/10.1353/dem.2005.0017)
-**作者**: Sandberg, John F.; Hofferth, Sandra L.
-**摘要**: Abstract This article provides corrected estimates of the weekly time that 3- to 12-year-old children spent either directly engaged with their parents or with their parents accessible to them in 1997, replicating the figures presented in the original 2001 Demography article.…
 
 ### The importance of education-occupation matching in migration decisions
 **年份**: 2005 | **DOI**: [10.1353/dem.2005.0008](https://doi.org/10.1353/dem.2005.0008)
@@ -2167,11 +2142,6 @@
 **作者**: Cambois, Emmanuelle; Robine, Jean-Marie; Hayward, Mark D.
 **摘要**: We calculate aggregate indicators of population health for occupational groups to gauge changes in health disparities during the 1980–1991 period. The study is based on the experiences of French adult men in three major occupational classes: managers, manual workers, and an intermediary occupational…
 
-### The misuse of biology in demographic research on racial/ethnic differences: A reply to van den oord and rowe
-**年份**: 2001 | **DOI**: [10.1353/dem.2001.0034](https://doi.org/10.1353/dem.2001.0034)
-**作者**: Frank, Reanne
-**摘要**: Abstract In an article in the August 2000 issue of Demography titled “Racial Differences in Birth Health Risk: A Quantitative Genetic Approach,” van den Oord and Rowe attempted to study the genetic and environmental factors contributing to the black/white gap in infant birth weight.…
-
 ### New African American life tables from 1935–1940 to 1985–1990
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0002](https://doi.org/10.1353/dem.2001.0002)
 **作者**: Elo, Irma T.
@@ -2211,11 +2181,6 @@
 **年份**: 2001 | **DOI**: [10.2307/3088290](https://doi.org/10.2307/3088290)
 **作者**: Lynch, Scott M.; Brown, J. Scott
 **摘要**: In this research we develop a model of mortality rates that parameterizes mortality deceleration and compression, permits hypothesis tests for change in these parameters over time, and allows for formal gender comparisons.…
-
-### The Misuse of Biology in Demographic Research on Racial/Ethnic Differences: A Reply to Van Den Oord and Rowe
-**年份**: 2001 | **DOI**: [10.2307/3088319](https://doi.org/10.2307/3088319)
-**作者**: Frank, Reanne
-**摘要**: （暂无）
 
 ### The Educational Enrollment of Immigrant Youth: A Test of the Segmented-Assimilation Hypothesis
 **年份**: 2001 | **DOI**: [10.2307/3088348](https://doi.org/10.2307/3088348)
@@ -2547,11 +2512,6 @@
 **作者**: Davidson, Pamela; Anderton, Douglas L.
 **摘要**: Abstract Using a national survey of facilities governed by the Resource Conservation and Recovery Act (RCRA), we examine the sociospatial distribution of a much larger group of hazardous materials handlers than did previous environmental equity studies.…
 
-### Commentary on “A methodology for identifying married couples in medicare data”
-**年份**: 2000 | **DOI**: [10.2307/2648126](https://doi.org/10.2307/2648126)
-**作者**: Kestenbaum, Bert
-**摘要**: Abstract Authors of an article appearing recently in Demography propose a retrospective method to identify husband-wife pairs in administrative records. Although their premise is correct, they overstate the power of their methodology.…
-
 ### The new immigrant survey pilot (NIS-P): Overview and new findings about U.S. Legal immigrants at admission
 **年份**: 2000 | **DOI**: [10.2307/2648101](https://doi.org/10.2307/2648101)
 **作者**: Jasso, Guillermina; Massey, Douglas S.; Rosenzweig, Mark R. 等4人
@@ -2616,8 +2576,3 @@
 **年份**: 2000 | **DOI**: [10.2307/2648069](https://doi.org/10.2307/2648069)
 **作者**: McCall, Leslie
 **摘要**: Most research on earnings inequality has focused on the growing gap between workers of different races and at different education, age, and income levels, but a large portion of the increasing inequality has actually occurred within these groups.…
-
-### Are births underreported in rural China? Manipulation of statistical records in response to China’s population policies
-**年份**: 2000 | **DOI**: [10.2307/2648100](https://doi.org/10.2307/2648100)
-**作者**: Merli, M. Giovanna; Raftery, Adrian E.
-**摘要**: Abstract Under the current family planning policy in China, the criterion for evaluating all parties involved in the birth planning system provides an incentive for everyone to see that the policy is met, either in reality through strict enforcement of family planning regulations, or statistically t…

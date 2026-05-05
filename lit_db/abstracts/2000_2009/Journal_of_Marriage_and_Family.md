@@ -1,7 +1,7 @@
 # Journal of Marriage and Family
 ## 2000–2009 年文章（含摘要）
 
-共 **1082** 篇
+共 **1065** 篇
 
 ---
 
@@ -452,11 +452,6 @@
 **作者**: Fingerman, Karen; Miller, Laura; Birditt, Kira 等4人
 **摘要**: Parents may provide many types of support to their grown children. Parents age 40 to 60 (N = 633) reported the support they exchange with each child over age 18 (N = 1,384). Mothers and fathers differentiated among children within families, but provided emotional, financial, and practical help on av…
 
-### Ambivalent Acceptance of Single‐Parent Families: A Response to Comments
-**年份**: 2009 | **DOI**: [10.1111/j.1741-3737.2009.00596.x](https://doi.org/10.1111/j.1741-3737.2009.00596.x)
-**作者**: Usdansky, Margaret L.
-**摘要**: （暂无）
-
 ### Living Arrangements During Childrearing Years and Later Health of African American Mothers
 **年份**: 2009 | **DOI**: [10.1111/j.1741-3737.2009.00639.x](https://doi.org/10.1111/j.1741-3737.2009.00639.x)
 **作者**: Fothergill, Kate E.; Ensminger, Margaret E.; Green, Kerry M. 等7人
@@ -849,11 +844,6 @@
 **年份**: 2008 | **DOI**: [10.1111/j.1741-3737.2008.00564.x](https://doi.org/10.1111/j.1741-3737.2008.00564.x)
 **作者**: Cavanagh, Shannon E.; Huston, Aletha C.
 **摘要**: This study extends the growing literature of family instability by investigating the significance of its timing for children’s social adjustment. We find that more than a third of the 1,364 elementary school children in the NICHD Study of Early Child Care and Youth Development experienced some famil…
-
-### Public Policy and Couple Relationships: A Commentary on Cabrera et al. (2008)
-**年份**: 2008 | **DOI**: [10.1111/j.1741-3737.2008.00572.x](https://doi.org/10.1111/j.1741-3737.2008.00572.x)
-**作者**: Doherty, William J.
-**摘要**: （暂无）
 
 ### Marriage Following Adolescent Parenthood: Relationship to Adult Well‐being
 **年份**: 2008 | **DOI**: [10.1111/j.1741-3737.2008.00555.x](https://doi.org/10.1111/j.1741-3737.2008.00555.x)
@@ -1255,11 +1245,6 @@
 **作者**: Lee, Janet
 **摘要**: （暂无）
 
-### Replication in Observational Couples Research: A Commentary
-**年份**: 2007 | **DOI**: [10.1111/j.1741-3737.2006.00345.x](https://doi.org/10.1111/j.1741-3737.2006.00345.x)
-**作者**: Heyman, Richard E.; Hunt, Ashley N.
-**摘要**: （暂无）
-
 ### Proximity and Contacts Between Older Parents and Their Children: A European Comparison
 **年份**: 2007 | **DOI**: [10.1111/j.1741-3737.2006.00351.x](https://doi.org/10.1111/j.1741-3737.2006.00351.x)
 **作者**: Hank, Karsten
@@ -1538,11 +1523,6 @@
 ### Fixing Families: Parents, Power, and the Child Welfare System ‐ by Jennifer A. Reich
 **年份**: 2007 | **DOI**: [10.1111/j.1741-3737.2007.00388.x](https://doi.org/10.1111/j.1741-3737.2007.00388.x)
 **作者**: Smith, Brenda D.
-**摘要**: （暂无）
-
-### Socially Situated Cognition and the Couple as a Dynamic System: A Commentary
-**年份**: 2007 | **DOI**: [10.1111/j.1741-3737.2007.00364.x](https://doi.org/10.1111/j.1741-3737.2007.00364.x)
-**作者**: Howe, George W.
 **摘要**: （暂无）
 
 ### Persistent Policy Effects on the Division of Domestic Tasks in Reunified Germany
@@ -1933,11 +1913,6 @@
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00261.x](https://doi.org/10.1111/j.1741-3737.2006.00261.x)
 **作者**: Henz, Ursula
 **摘要**: This article addresses the relationship between employment and providing informal care for sick, disabled, or elderly people in Great Britain. Hazard rate models for taking up caring and leaving work when caring are estimated using retrospective family, employment, and caring data from the British F…
-
-### Families in Not‐So‐Free Fall: A Response to Comments
-**年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00297.x](https://doi.org/10.1111/j.1741-3737.2006.00297.x)
-**作者**: Nelson, Margaret K.
-**摘要**: （暂无）
 
 ### Parental Expertise, Trustworthiness, and Accessibility: Parent‐Adolescent Communication and Adolescent Risk Behavior
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00325.x](https://doi.org/10.1111/j.1741-3737.2006.00325.x)
@@ -2732,11 +2707,6 @@
 **年份**: 2005 | **DOI**: [10.1111/j.1741-3737.2005.00174.x](https://doi.org/10.1111/j.1741-3737.2005.00174.x)
 **摘要**: （暂无）
 
-### Theoretical and Methodological Issues in Studying Families: An Introduction
-**年份**: 2005 | **DOI**: [10.1111/j.0022-2445.2005.00br8.x-i1](https://doi.org/10.1111/j.0022-2445.2005.00br8.x-i1)
-**作者**: Walker, Alexis
-**摘要**: （暂无）
-
 ### A small extension to “costs and rewards of children: The effects of becoming a parent on adults’ lives”
 **年份**: 2005 | **DOI**: [10.1111/j.0022-2445.2005.00016.x](https://doi.org/10.1111/j.0022-2445.2005.00016.x)
 **作者**: Woo, Hyeyoung; Kelly Raley, R.
@@ -2946,11 +2916,6 @@
 **作者**: Papp, Lauren M.; Mark Cummings, E.; Schermerhorn, Alice C.
 **摘要**: A community sample of 295 mothers, fathers, and children (M age = 11.14 years, SD = 2.32 years) rated marital distress, maternal and paternal psychological symptoms, and child adjustment.…
 
-### Book Review
-**年份**: 2004 | **DOI**: [10.1111/j.1741-3737.2004.bke_1.x](https://doi.org/10.1111/j.1741-3737.2004.bke_1.x)
-**作者**: Morgan, Erin
-**摘要**: （暂无）
-
 ### Consequences of Male Partner Violence for Low‐Income Minority Women
 **年份**: 2004 | **DOI**: [10.1111/j.1741-3737.2004.00032.x](https://doi.org/10.1111/j.1741-3737.2004.00032.x)
 **作者**: Leone, Janel M.; Johnson, Michael P.; Cohan, Catherine L. 等4人
@@ -3139,11 +3104,6 @@
 **作者**: Sudha, S.
 **摘要**: （暂无）
 
-### Book Review
-**年份**: 2004 | **DOI**: [10.1111/j.1741-3737.2004.bkf_1.x](https://doi.org/10.1111/j.1741-3737.2004.bkf_1.x)
-**作者**: Rea, Theresa
-**摘要**: （暂无）
-
 ### Book Reviews
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.0056a.x](https://doi.org/10.1111/j.0022-2445.2004.0056a.x)
 **作者**: Kaplan, Catherine O.
@@ -3207,11 +3167,6 @@
 ### Cinderella dreams: The allure of the lavish wedding
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.0br1.x](https://doi.org/10.1111/j.0022-2445.2004.0br1.x)
 **作者**: Ingraham, Chrys
-**摘要**: （暂无）
-
-### Placing patterns of economic assortative mating in context: A reply to Press (2004) and England (2004)
-**年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00076.x](https://doi.org/10.1111/j.0022-2445.2004.00076.x)
-**作者**: Sweeney, Megan M.; Cancian, Maria
 **摘要**: （暂无）
 
 ### The gendered division of labor and family outcomes in germany
@@ -3327,11 +3282,6 @@
 **作者**: Evertsson, Marie; Nermo, Magnus
 **摘要**: This article assesses the relative explanatory value of the resource‐bargaining perspective and the doing‐gender approach for the division of housework in the United States and Sweden from the mid‐1970s to 2000.…
 
-### Book Review
-**年份**: 2004 | **DOI**: [10.1111/j.1741-3737.2004.bkd_1.x](https://doi.org/10.1111/j.1741-3737.2004.bkd_1.x)
-**作者**: Ishii‐Kuntz, Masako
-**摘要**: （暂无）
-
 ### Politics of the womb: Women, reproduction and the state in Kenya
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00br5.x](https://doi.org/10.1111/j.0022-2445.2004.00br5.x)
 **作者**: Reich, Jennifer A.
@@ -3426,16 +3376,6 @@
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00048.x](https://doi.org/10.1111/j.0022-2445.2004.00048.x)
 **作者**: Gerard, Jean M.; Buehler, Cheryl
 **摘要**: Using data from Wave 1 (n = 5,070) and Wave 2 (n = 4,404) of the National Longitudinal Study of Adolescent Health, we examined the relationship between cumulative risk exposure and youth problem behavior.…
-
-### Book Review
-**年份**: 2004 | **DOI**: [10.1111/j.1741-3737.2004.bkc_1.x](https://doi.org/10.1111/j.1741-3737.2004.bkc_1.x)
-**作者**: Leone, Janel M.
-**摘要**: （暂无）
-
-### Book Review
-**年份**: 2004 | **DOI**: [10.1111/j.1741-3737.2004.bkb_1.x](https://doi.org/10.1111/j.1741-3737.2004.bkb_1.x)
-**作者**: Currie, Dawn H.
-**摘要**: （暂无）
 
 ### Child‐free and unmarried: Changes in the life planning of young east German women
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00085.x](https://doi.org/10.1111/j.0022-2445.2004.00085.x)
@@ -3596,11 +3536,6 @@
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00084.x](https://doi.org/10.1111/j.0022-2445.2004.00084.x)
 **作者**: Sayer, Liana C.; Gauthier, Anne H.; Furstenberg, Frank F.
 **摘要**: We analyze time diary data from 24,546 married mothers and married fathers in Canada, Germany, Italy, and Norway to determine whether the effect of education on child‐care time varies cross‐nationally.…
-
-### Book Review
-**年份**: 2004 | **DOI**: [10.1111/j.1741-3737.2004.bka_1.x](https://doi.org/10.1111/j.1741-3737.2004.bka_1.x)
-**作者**: Blalock, Lydia B.
-**摘要**: （暂无）
 
 ### Welfare Reform and Teenage Pregnancy, Childbirth, and School Dropout
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00013.x](https://doi.org/10.1111/j.0022-2445.2004.00013.x)
@@ -4595,11 +4530,6 @@
 **年份**: 2001 | **DOI**: [10.1111/j.1741-3737.2001.01199.x](https://doi.org/10.1111/j.1741-3737.2001.01199.x)
 **摘要**: The Case for Marriage: Why Married People are Happier, Healthier, and Better Off Financially. Linda J. Waite & Maggie Gallagher. Families as Relationships. Robert M. Milardo & Steve Duck (Eds.). Redefining Family Policy: Implications for the 21 st Century. Joyce M. Mercier, Stephen B.…
 
-### Finding New Paths to Family Scholarship: A Response to James White and Sheila Marshall
-**年份**: 2001 | **DOI**: [10.1111/j.1741-3737.2001.00899.x](https://doi.org/10.1111/j.1741-3737.2001.00899.x)
-**作者**: Allen, Katherine
-**摘要**: （暂无）
-
 ### Sociocultural Contexts of Time to First Sex Among Hispanic Adolescents
 **年份**: 2001 | **DOI**: [10.1111/j.1741-3737.2001.01158.x](https://doi.org/10.1111/j.1741-3737.2001.01158.x)
 **作者**: Upchurch, Dawn M.; Aneshensel, Carol S.; Mudgal, Jyoti 等4人
@@ -5093,11 +5023,6 @@
 **作者**: Gottman, John Mordechai; Levenson, Robert Wayne
 **摘要**: This paper investigates the predictability of divorce in a long‐term, prospective longitudinal study. Past research has indicated that 2 periods can be considered the most critical for the survival of marriages: (a) the first 7 years of marriage, during which half of all divorces are known to occur,…
 
-### We Are All Responsible for Responsible Fathering: A Response to Walker and McGraw
-**年份**: 2000 | **DOI**: [10.1111/j.1741-3737.2000.00570.x](https://doi.org/10.1111/j.1741-3737.2000.00570.x)
-**作者**: Doherty, William J.; Kouneski, Edward F.; Erickson, Martha Farrell
-**摘要**: （暂无）
-
 ### Self‐Report and Observational Assessment of Couples' Conflict: The Concordance Between the Communication Patterns Questionnaire and the KPI Observation System
 **年份**: 2000 | **DOI**: [10.1111/j.1741-3737.2000.00061.x](https://doi.org/10.1111/j.1741-3737.2000.00061.x)
 **作者**: Hahlweg, Kurt; Kaiser, Andrea; Christensen, Andrew 等5人
@@ -5147,11 +5072,6 @@
 **年份**: 2000 | **DOI**: [10.1111/j.1741-3737.2000.01192.x](https://doi.org/10.1111/j.1741-3737.2000.01192.x)
 **作者**: Arendell, Terry
 **摘要**: Mothering and motherhood are the subjects of a rapidly expanding body of literature. Considered in this decade review are two predominant streams in this work. One is the theorizing of mothering and motherhood and the other is the empirical study of the mothering experience.…
-
-### Reply to “From Basic Research to Interventions”
-**年份**: 2000 | **DOI**: [10.1111/j.1741-3737.2000.00265.x](https://doi.org/10.1111/j.1741-3737.2000.00265.x)
-**作者**: Gottman, John; Carrère, Sybil; Swanson, Catherine 等4人
-**摘要**: （暂无）
 
 ### Marital Processes and Parental Socialization in Families of Color: A Decade Review of Research
 **年份**: 2000 | **DOI**: [10.1111/j.1741-3737.2000.01070.x](https://doi.org/10.1111/j.1741-3737.2000.01070.x)
@@ -5261,11 +5181,6 @@
 **年份**: 2000 | **DOI**: [10.1111/j.1741-3737.2000.00388.x](https://doi.org/10.1111/j.1741-3737.2000.00388.x)
 **作者**: Lin, I‐Fen
 **摘要**: This paper examines whether perceptions of fairness motivate fathers to pay child support and whether perceptions of fairness interact with routine income withholding in collecting payments.…
-
-### The Sociology of Adolescence and Youth in the 1990s: A Critical Commentary
-**年份**: 2000 | **DOI**: [10.1111/j.1741-3737.2000.00896.x](https://doi.org/10.1111/j.1741-3737.2000.00896.x)
-**作者**: Furstenberg, Frank F.
-**摘要**: The 1990s saw considerable advances in the state of research on adolescence and youth. This article provides a critical commentary on a subset of this research, focusing on the causes and consequences of the lengthened period in which the transition to adulthood occurs.…
 
 ### Research on the Nature and Determinants of Marital Satisfaction: A Decade in Review
 **年份**: 2000 | **DOI**: [10.1111/j.1741-3737.2000.00964.x](https://doi.org/10.1111/j.1741-3737.2000.00964.x)

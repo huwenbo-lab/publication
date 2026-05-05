@@ -1,7 +1,7 @@
 # European Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **409** 篇
+共 **404** 篇
 
 ---
 
@@ -19,20 +19,6 @@
 **年份**: 2026 | **DOI**: [10.1093/esr/jcag005](https://doi.org/10.1093/esr/jcag005)
 **作者**: Breinholt, Asta; Hjorth-Trolle, Anders; Henriksen, Mikkel Büchler
 **摘要**: Abstract Statistical discrimination theory suggests that discrimination arises when gatekeepers lack individual-level information and therefore draw on their beliefs on the group-level.…
-
-### Parenthood, occupational sex segregation, and wage: motherhood penalty and fatherhood premium in China
-**年份**: 2026 | **DOI**: [10.1093/esr/jcag012](https://doi.org/10.1093/esr/jcag012)
-**作者**: Liu, Wenting; Dai, Haijing
-**摘要**: Abstract Although parenthood and occupational sex segregation have been identified as important contributors to the gender wage gap, the interwoven effect of the two is insufficiently explored.…
-
-### Beyond absolute education: relative educational attainment and perceived discrimination among immigrants
-**年份**: 2026 | **DOI**: [10.1093/esr/jcaf054](https://doi.org/10.1093/esr/jcaf054)
-**作者**: van Tubergen, Frank
-**摘要**: Abstract The integration paradox—the positive association between absolute education and perceived discrimination among more visible immigrant groups—has been a central puzzle in migration research.…
-
-### Correction to: Beyond absolute education: relative educational attainment and perceived discrimination among immigrants
-**年份**: 2026 | **DOI**: [10.1093/esr/jcag007](https://doi.org/10.1093/esr/jcag007)
-**摘要**: （暂无）
 
 ### Family ideals in Italy and Spain: towards the end of the traditional Southern European family model?
 **年份**: 2025 | **DOI**: [10.1093/esr/jcaf055](https://doi.org/10.1093/esr/jcaf055)
@@ -513,11 +499,6 @@
 **年份**: 2024 | **DOI**: [10.1093/esr/jcae009](https://doi.org/10.1093/esr/jcae009)
 **作者**: Yang, Yongzheng; Wiepking, Pamala; Badertscher, Katherine
 **摘要**: In contexts with high-income inequality, are people more or less inclined to support those in need through philanthropy? Using data from the 2016 wave of the China Labor-Force Dynamics Study, this study examines (i) how income inequality is associated with charitable giving to high-redistributive (e…
-
-### Response to: 'Signals, Educational Decision-Making, and Inequality': a comment on the formal model by Holm, Hjorth-Trolle, and Jæger
-**年份**: 2024 | **DOI**: [10.1093/esr/jcae005](https://doi.org/10.1093/esr/jcae005)
-**作者**: Holm, Anders; Hjort-Trolle, Anders; Meier Jaeger, Mads
-**摘要**: In this rejoinder, we engage in the discussion raised by about the assumptions in the theoretical models in and how the implications of the theory are handled. Our original model proposes that students use signals about academic ability to make inferences about the costs and benefits of different ed…
 
 ### Kinship, heritage, and ethnic choice: ethnolinguistic registration across four generations in contemporary Finland
 **年份**: 2024 | **DOI**: [10.1093/esr/jcae006](https://doi.org/10.1093/esr/jcae006)
@@ -1153,11 +1134,6 @@
 **年份**: 2023 | **DOI**: [10.1093/esr/jcac078](https://doi.org/10.1093/esr/jcac078)
 **作者**: Kohler, Ulrich; Class, Fabian; Sawert, Tim
 **摘要**: Abstract A review of all research papers published in the European Sociological Review in 2016 and 2017 (N = 118) shows that only a minority of papers clearly define the parameter of interest and provide sufficient reasoning for the selected control variables of the statistical analysis.…
-
-### Women’s aversion to majors that (seemingly) require systemizing skills causes gendered field of study choice
-**年份**: 2023 | **DOI**: [10.1093/esr/jcad021](https://doi.org/10.1093/esr/jcad021)
-**作者**: Combet, Benita
-**摘要**: Abstract This article examines whether gender differences in preferences for field of study characteristics can explain gendered major choice. Specifically, this study focuses on a broad range of subject characteristics that are often simultaneously present: systemizing skills required (math intensi…
 
 ### Swiss Job Market Monitor: A Rich Source of Demand-Side Micro Data of the Labour Market
 **年份**: 2022 | **DOI**: [10.1093/esr/jcac002](https://doi.org/10.1093/esr/jcac002)

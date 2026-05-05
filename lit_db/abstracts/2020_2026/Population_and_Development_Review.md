@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **280** 篇
+共 **273** 篇
 
 ---
 
@@ -29,16 +29,6 @@
 **年份**: 2026 | **DOI**: [10.1111/padr.70053](https://doi.org/10.1111/padr.70053)
 **作者**: Matysiak, Anna; Vignoli, Daniele
 **摘要**: Abstract This paper examines whether women's employment in the 21st century remains a barrier to family formation, as it was in the 1980s and 1990s, or—similar to men's—it has become a prerequisite for childbearing.…
-
-### Beyond Usual Suspects: Revisiting Barriers to Childbearing Decisions in a Low Fertility Setting
-**年份**: 2026 | **DOI**: [10.1111/padr.70046](https://doi.org/10.1111/padr.70046)
-**作者**: Kurowska, Anna; Matysiak, Anna; Grabowska, Magdalena
-**摘要**: Abstract Fertility rates in developed countries have declined to historically low levels, yet the reasons remain incompletely understood. This study examines the relative importance of diverse macro contextual constraints on childbearing intentions among young adults (aged 20–35) in Poland, a countr…
-
-### Revisiting the Relationship between Marriage and Childbearing in East Asia: The Role of Fertility Desires in Japan
-**年份**: 2026 | **DOI**: [10.1111/padr.70050](https://doi.org/10.1111/padr.70050)
-**作者**: Uchikoshi, Fumiya; Mugiyama, Ryota; Yoda, Shohei 等4人
-**摘要**: Abstract In this study, we propose and evaluate a new framework for understanding “lowest‐low” fertility in East Asia, emphasizing the link between the desire for children and marriage.…
 
 ### The Impact of Migration on Age Structure Conducive to Human Development Across the Urban Hierarchy
 **年份**: 2025 | **DOI**: [10.1111/padr.70033](https://doi.org/10.1111/padr.70033)
@@ -479,11 +469,6 @@
 **年份**: 2024 | **DOI**: [10.1111/padr.12543](https://doi.org/10.1111/padr.12543)
 **作者**: Zimmerman, Linnea A.; Karp, Celia; Komuro, Naomi 等9人
 **摘要**: Recent evidence suggests that women in high-income countries desired to delay or forgo childbearing due to COVID-19, yet there remains insufficient evidence of COVID-19's impact on fertility desires in low- and middle-income countries, particularly in sub-Saharan Africa (SSA).…
-
-### Authors' Response to 'Supply-Side Versus Demand-Side Unmet Need: Implications for Family Planning Programs': A Comment
-**年份**: 2024 | **DOI**: [10.1111/padr.12700](https://doi.org/10.1111/padr.12700)
-**作者**: Senderowicz, Leigh; Maloney, Nicole
-**摘要**: （暂无）
 
 ### Child Death and Mothers' Subsequent Mental Health in a High-Mortality African Community
 **年份**: 2024 | **DOI**: [10.1111/padr.12682](https://doi.org/10.1111/padr.12682)
@@ -1054,23 +1039,6 @@
 **年份**: 2022 | **DOI**: [10.1111/padr.12479](https://doi.org/10.1111/padr.12479)
 **作者**: [Anonymous]
 **摘要**: （暂无）
-
-### The State of Global Learning Poverty: 2022 UpdateThe World Bank, UNESCO, UNICEF, USAID, FSDO, Bill and Melinda Gates Foundation, 2022, 77 p., Open Access
-**年份**: 2022 | **DOI**: [10.1111/padr.12534](https://doi.org/10.1111/padr.12534)
-**摘要**: （暂无）
-
-### The Covid‐19 Pandemic in Latin America and the Caribbean
-**年份**: 2022 | **DOI**: [10.1111/padr.12484](https://doi.org/10.1111/padr.12484)
-**摘要**: （暂无）
-
-### The 2022 UN Long‐Range Population Projections
-**年份**: 2022 | **DOI**: [10.1111/padr.12512](https://doi.org/10.1111/padr.12512)
-**摘要**: （暂无）
-
-### The Introduction of Bismarck's Social Security System and its Effects on Marriage and Fertility in Prussia
-**年份**: 2021 | **DOI**: [10.1111/padr.12426](https://doi.org/10.1111/padr.12426)
-**作者**: Guinnane, Timothy W.; Streb, Jochen
-**摘要**: Economists have long argued that introducing social insurance will reduce fertility. The hypothesis relies on standard models: if children are desirable in part because they provide security in case of disability or old age, then State programs that provide insurance against these events should indu…
 
 ### Son Preference, Gender Discrimination, and Missing Girls in Rural Spain, 1750-1950
 **年份**: 2021 | **DOI**: [10.1111/padr.12406](https://doi.org/10.1111/padr.12406)

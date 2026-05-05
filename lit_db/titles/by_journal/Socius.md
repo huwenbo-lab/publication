@@ -1,6 +1,6 @@
 # Socius — 文章标题索引
 
-共 **1021** 篇 | 年份范围：2016–2026
+共 **1008** 篇 | 年份范围：2016–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -27,12 +27,6 @@
 - Media Engagement and Avoidance: How Undocumented College Students Exert Agency · [DOI](https://doi.org/10.1177/23780231251379105)
 - Who Feels Prestigious? Gender Differences in Self-Rated Occupational Prestige · [DOI](https://doi.org/10.1177/23780231251412640)
 - “He Got More Felonies Than I Do!” Formerly Incarcerated Americans on President Trump · [DOI](https://doi.org/10.1177/23780231261431008)
-- The “Most Familiar Stranger”: Chinese Perceptions of the Contemporary Japanese Ethnoracial Hierarchy · [DOI](https://doi.org/10.1177/23780231261437862)
-- The Sociology of “Dirty Research”: Interresearcher Positionality, Marginalization, and Stigma Management · [DOI](https://doi.org/10.1177/23780231261440318)
-- Are There Service Work-Games of Resistance? “Work-Play” and Relational Resistance in Dance Club Waitstaff Work · [DOI](https://doi.org/10.1177/23780231261435044)
-- Power, Status, Legitimacy, and Shame in Organizations · [DOI](https://doi.org/10.1177/23780231261438914)
-- The Changing Distribution of U.S. Asian Populations across Urban and Suburban Ethnic Neighborhoods · [DOI](https://doi.org/10.1177/23780231261442407)
-- Work-Family Conflict and Physical Activity: Exploring Gender Differences among Australian Parents · [DOI](https://doi.org/10.1177/23780231261429664)
 
 ## 2025
 
@@ -521,7 +515,6 @@
 - Are U.S. Professionals and Managers More Left Than Blue-Collar Workers? An Analysis of the General Social Survey, 1974 to 2018 · [DOI](https://doi.org/10.1177/23780231211068654)
 - The Age of Satisficing? Juggling Work, Education, and Competing Priorities during the COVID-19 Pandemic · [DOI](https://doi.org/10.1177/23780231221088438)
 - Stasis and Sorting of Americans’ Abortion Opinions: Political Polarization Added to Religious and Other Differences · [DOI](https://doi.org/10.1177/23780231221117648)
-- The Resonance of Repression: Moral Intuitions, Skepticism toward Racial Injustice, and Public Support for Trump’s “Law and Order” Response to the 2020 Racial Justice Protests · [DOI](https://doi.org/10.1177/23780231221110277)
 - Social Network Theory and Comedy: Insights from NBC’s The Office · [DOI](https://doi.org/10.1177/23780231221141524)
 - Visualizing Racial-Ethnic Differences in the Division of Housework among Different-Sex Couples in the United States · [DOI](https://doi.org/10.1177/23780231221084765)
 - Can Universities Counteract Immigrant Illegality? Examining the Impact of University-Based Institutional Support on Undocumented College Students · [DOI](https://doi.org/10.1177/23780231221089390)
@@ -540,7 +533,6 @@
 - What Isn’t Christian Nationalism? A Call for Conceptual and Empirical Splitting · [DOI](https://doi.org/10.1177/23780231221124492)
 - Coethnic Concentration and Asians’ Perceived Discrimination across U.S. Counties during COVID-19 · [DOI](https://doi.org/10.1177/23780231221124580)
 - Signaled or Suppressed? How Gender Informs Women’s Undergraduate Applications in Biology and Engineering · [DOI](https://doi.org/10.1177/23780231221127537)
-- Bringing in Theory Building and Social-Political Context to Understand and Reduce Inequality: A Commentary · [DOI](https://doi.org/10.1177/23780231221081703)
 - Migrating to New Contraceptive Contexts: The Case of Migrants from Turkey to France · [DOI](https://doi.org/10.1177/23780231221131627)
 - A Pragmatist’s Guide to Using Prediction in the Social Sciences · [DOI](https://doi.org/10.1177/23780231221081702)
 - University Diversity Projects and the Inclusivity Challenge · [DOI](https://doi.org/10.1177/23780231221136471)
@@ -625,7 +617,6 @@
 - Social Networks and Loneliness During the COVID-19 Pandemic · [DOI](https://doi.org/10.1177/2378023120985254)
 - A Growing Educational Divide in the COVID-19 Economy Is Especially Pronounced among Parents · [DOI](https://doi.org/10.1177/2378023120979804)
 - What Makes a Tax Policy Popular? Predicting Referendum Votes from Policy Text · [DOI](https://doi.org/10.1177/23780231211066069)
-- Sociology’s Role in Responding to Inequality: Introduction to the Special Collection · [DOI](https://doi.org/10.1177/23780231211020201)
 - Social Autonomy among Married Men and Women · [DOI](https://doi.org/10.1177/23780231211043630)
 - Why Are Fewer Young Adults Having Casual Sex? · [DOI](https://doi.org/10.1177/2378023121996854)
 - Measuring Gender Role Attitudes in Japan · [DOI](https://doi.org/10.1177/23780231211057719)
@@ -761,7 +752,6 @@
 ## 2019
 
 - Racial and Ethnic Differences in Consumers’ Economic Expectations · [DOI](https://doi.org/10.1177/2378023118815270)
-- Introduction to the Special Collection on the Fragile Families Challenge · [DOI](https://doi.org/10.1177/2378023119871580)
 - Americans’ Perceptions of Transgender People’s Sex: Evidence from a National Survey Experiment · [DOI](https://doi.org/10.1177/2378023119852015)
 - When (In)Consistency Matters: Racial Identification and Specification · [DOI](https://doi.org/10.1177/2378023119848268)
 - Urban Hospitals as Anchor Institutions: Frameworks for Medical Sociology · [DOI](https://doi.org/10.1177/2378023118817981)
@@ -824,7 +814,6 @@
 - Job Characteristics, Job Preferences, and Physical and Mental Health in Later Life · [DOI](https://doi.org/10.1177/2378023119836003)
 - A Longitudinal Analysis of Personal Economic Anxiety, Concern for the National Economy, and Distrust of Government Spending · [DOI](https://doi.org/10.1177/2378023119872882)
 - Are Robots Stealing Our Jobs? · [DOI](https://doi.org/10.1177/2378023119846249)
-- Crisis as Opportunity: Nixon’s Announcement to Close the Gold Window · [DOI](https://doi.org/10.1177/2378023119841812)
 - The Advantaged Cause: Affect Control Theory and Social Movements · [DOI](https://doi.org/10.1177/2378023119841811)
 - Comparative Couple Stability: Same-sex and Male-female Unions in the United States · [DOI](https://doi.org/10.1177/2378023119829312)
 - How Religious Composition Around the World Differs between Younger and Older Populations · [DOI](https://doi.org/10.1177/2378023119854943)
@@ -942,12 +931,10 @@
 - Using Google Trends to Measure Issue Salience for Hard-to-Survey Populations · [DOI](https://doi.org/10.1177/2378023118760414)
 - Social Networks and Educational Attainment among Adolescents Experiencing Pregnancy · [DOI](https://doi.org/10.1177/2378023118803803)
 - Latino Destinations and Environmental Inequality: Estimated Cancer Risk from Air Toxics in Latino Traditional and New Destinations · [DOI](https://doi.org/10.1177/2378023118796931)
-- Response to Morgan: On the Role of Status Threat and Material Interests in the 2016 Election · [DOI](https://doi.org/10.1177/2378023118808619)
 - “Coming Out of My Shell”: Motherleaders Contesting Fear, Vulnerability, and Despair through Family-focused Community Organizing · [DOI](https://doi.org/10.1177/2378023117734729)
 - Biases of Online Political Polls: Who Participates? · [DOI](https://doi.org/10.1177/2378023118791080)
 - Racial Expropriation in Higher Education: Are Whiter Hispanic Serving Institutions More Likely to Receive Minority Serving Institution Funds? · [DOI](https://doi.org/10.1177/2378023118794077)
 - Parental Incarceration and Child Well-being: Conceptual and Practical Concerns Regarding the Use of Propensity Scores · [DOI](https://doi.org/10.1177/2378023118779306)
-- Correct Interpretations of Fixed-effects Models, Specification Decisions, and Self-reports of Intended Votes: A Response to Mutz · [DOI](https://doi.org/10.1177/2378023118811502)
 - Logics of Freedom: Debating Religious Freedom Laws and Gay and Lesbian Rights · [DOI](https://doi.org/10.1177/2378023118760413)
 - Sexual Orientation and Social Attitudes · [DOI](https://doi.org/10.1177/2378023118769550)
 - Does Labor Union Utility Increase Workers’ Organizational Commitment and Job Satisfaction? The Moderating Role of Labor Union Membership · [DOI](https://doi.org/10.1177/2378023118813438)

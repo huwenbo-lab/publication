@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **119** 篇
+共 **118** 篇
 
 ---
 
@@ -54,11 +54,6 @@
 **年份**: 2026 | **DOI**: [10.1177/00380407261424502](https://doi.org/10.1177/00380407261424502)
 **作者**: Thomsen, Jens-Peter; Andrade, Stefan Bastholm; Hertel, Florian R. 等5人
 **摘要**: Intergenerational educational mobility reflects a welfare state's ability to provide citizens with opportunities to climb the social ladder. Representing two distinct welfare state types, studies have contrasted mobility patterns in Scandinavia and the United States but have provided no consistent a…
-
-### From Aspiration to Action: Socioeconomic Disparity in the Translation of Educational Goals into Time Investment
-**年份**: 2026 | **DOI**: [10.1177/00380407261432647](https://doi.org/10.1177/00380407261432647)
-**作者**: Yong, Anna
-**摘要**: Although educational aspirations are widely viewed as central to attainment, less is known about how they translate into academic behavior. This study investigates the behavioral consequences of aspirations using nationally representative data from South Korea and dynamic panel models with individua…
 
 ### Cultivating Familiarity: Social Class and Help-Seeking in Academic Advising
 **年份**: 2025 | **DOI**: [10.1177/00380407251391756](https://doi.org/10.1177/00380407251391756)

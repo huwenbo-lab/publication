@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2000–2009 年文章（含摘要）
 
-共 **34** 篇
+共 **29** 篇
 
 ---
 
@@ -28,11 +28,6 @@
 ### Disparities in School Readiness: How Families Contribute to Transitions Into School.
 **年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00016.x](https://doi.org/10.1111/j.1756-2589.2009.00016.x)
 **作者**: Crosnoe, Robert
-**摘要**: （暂无）
-
-### Review Essay: Catherine MacKinnon on the Paradox of Legal Sex Equality Guarantees and Persistent Inequality
-**年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00006.x](https://doi.org/10.1111/j.1756-2589.2009.00006.x)
-**作者**: Comerford, Lynn
 **摘要**: （暂无）
 
 ### Violence: A Microsociological Perspective. Randall Collins.
@@ -63,11 +58,6 @@
 **年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00027.x](https://doi.org/10.1111/j.1756-2589.2009.00027.x)
 **作者**: Ashbourne, Lynda M.
 **摘要**: The author applies a dialogic view of communication to parent‐adolescent relationships, allowing for explicit attention to the process of interaction and social construction of meaning within these relationships.…
-
-### Review Essay: Research on Friendship
-**年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00028.x](https://doi.org/10.1111/j.1756-2589.2009.00028.x)
-**作者**: Allan, Graham
-**摘要**: （暂无）
 
 ### The Changing Landscape of Work and Family in the American Middle‐Class: Reports from the Field.
 **年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00022.x](https://doi.org/10.1111/j.1756-2589.2009.00022.x)
@@ -123,16 +113,6 @@
 **作者**: Rose, Hilary A.
 **摘要**: （暂无）
 
-### Perspectives on New Research From the Sloan Early Career Work‐Family Scholars: Introduction to a Book Review Symposium on Work‐Family Scholarship
-**年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00020.x](https://doi.org/10.1111/j.1756-2589.2009.00020.x)
-**作者**: Sweet, Stephen
-**摘要**: （暂无）
-
-### Editorial: Following a Sociological Imagination
-**年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00001.x](https://doi.org/10.1111/j.1756-2589.2009.00001.x)
-**作者**: Milardo, Robert M.
-**摘要**: （暂无）
-
 ### Consequential Strangers and Peripheral Ties: The Importance of Unimportant Relationships
 **年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00010.x](https://doi.org/10.1111/j.1756-2589.2009.00010.x)
 **作者**: Fingerman, Karen L.
@@ -152,11 +132,6 @@
 **年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00003.x](https://doi.org/10.1111/j.1756-2589.2009.00003.x)
 **作者**: Rafaeli, Eshkol; Gleason, Marci E. J.
 **摘要**: The literature on social support within dyadic intimate relationships raises a seeming paradox: The availability of support tends to reduce distress, but its actual receipt is often unhelpful and at times engenders feelings of inadequacy, indebtedness, and inequity—unintended but potent side effects…
-
-### Books Still Matter: A Note From the Book Review Editor
-**年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00005.x](https://doi.org/10.1111/j.1756-2589.2009.00005.x)
-**作者**: Blume, Libby Balter
-**摘要**: （暂无）
 
 ### Families in Poverty and Handbook of Families and Poverty.
 **年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00012.x](https://doi.org/10.1111/j.1756-2589.2009.00012.x)

@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2000–2009 年文章（含摘要）
 
-共 **551** 篇
+共 **535** 篇
 
 ---
 
@@ -485,11 +485,6 @@
 **作者**: Francis, Becky; Hockings, Christine; James, David 等4人
 **摘要**: （暂无）
 
-### Reflexivity for what? A response to Gewirtz and Cribb on the role of values in the sociology of education
-**年份**: 2008 | **DOI**: [10.1080/01425690802263718](https://doi.org/10.1080/01425690802263718)
-**作者**: Hammersley, Martyn
-**摘要**: （暂无）
-
 ### Policy, experience and change: cross cultural reflections on inclusive education
 **年份**: 2008 | **DOI**: [10.1080/01425690701801162](https://doi.org/10.1080/01425690701801162)
 **作者**: Roulstone, Alan
@@ -554,11 +549,6 @@
 **作者**: Wang, Lu
 **摘要**: Abstract The present paper explores issues of the educational marginality of migrant children in urban settings in two cities in China. The numbers of urban migrants exceed 100 million and are growing as China modernizes.…
 
-### Politics, knowledge and objectivity in sociology of education: a response to the case for ‘ethical reflexivity’ by Gewirtz and Cribb
-**年份**: 2008 | **DOI**: [10.1080/01425690802263692](https://doi.org/10.1080/01425690802263692)
-**作者**: Abraham, John
-**摘要**: （暂无）
-
 ### Underperformance or ‘getting it right’? Constructions of gender and achievement in the Australian inquiry into boys’ education
 **年份**: 2008 | **DOI**: [10.1080/01425690802326887](https://doi.org/10.1080/01425690802326887)
 **作者**: Hodgetts, Katherine
@@ -568,11 +558,6 @@
 **年份**: 2008 | **DOI**: [10.1080/01425690701837505](https://doi.org/10.1080/01425690701837505)
 **作者**: O’Brien, Maeve
 **摘要**: This paper is concerned with the inequalities experienced by mothers in the performance of educational care work for their children. It is argued that the caring work carried out by mothers at transfer to second‐level schooling is shaped by their ability to activate the significant resource of emoti…
-
-### (Mis)Understanding underachievement: a response to Connolly
-**年份**: 2008 | **DOI**: [10.1080/01425690802423379](https://doi.org/10.1080/01425690802423379)
-**作者**: Gorard, Stephen; Smith, Emma
-**摘要**: （暂无）
 
 ### ‘Six packs and big muscles, and stuff like that’. Primary school‐aged South African boys, black1and white, on sport
 **年份**: 2008 | **DOI**: [10.1080/01425690701728654](https://doi.org/10.1080/01425690701728654)
@@ -623,11 +608,6 @@
 **年份**: 2008 | **DOI**: [10.1080/01425690802271117](https://doi.org/10.1080/01425690802271117)
 **作者**: Hey, Valerie
 **摘要**: by John Carey, London, Faber & Faber, 1992, 246 pp., £9.99 (paperback), ISBN 0‐571‐16926‐0 by Mary Evans, London, Continuum, 2004, 172 pp., £85 (hardback), £19.99 (paperback), ISBN 0‐8264‐7312‐1 (h...
-
-### Differing to agree: a reply to Hammersley and Abraham
-**年份**: 2008 | **DOI**: [10.1080/01425690802381577](https://doi.org/10.1080/01425690802381577)
-**作者**: Gewirtz, Sharon; Cribb, Alan
-**摘要**: （暂无）
 
 ### Meritocracy through education and social mobility in post‐war Britain: a critical examination
 **年份**: 2008 | **DOI**: [10.1080/01425690802263601](https://doi.org/10.1080/01425690802263601)
@@ -813,11 +793,6 @@
 **年份**: 2007 | **DOI**: [10.1080/01425690701369335](https://doi.org/10.1080/01425690701369335)
 **作者**: Jane Burke, Penny
 **摘要**: Drawing on ESRC‐funded research (RES‐000–22–0832), this article examines the accounts of men participating in London access and foundation programmes in relation to their shifting masculine identifications. I consider how the men’s early memories of schooling shape their student masculinities.…
-
-### REVIEW ESSAY
-**年份**: 2007 | **DOI**: [10.1080/01425690701192901](https://doi.org/10.1080/01425690701192901)
-**作者**: Fitz, John
-**摘要**: （暂无）
 
 ### Brushed behind the bike shed: working‐class lesbians’ experiences of school
 **年份**: 2007 | **DOI**: [10.1080/01425690701252630](https://doi.org/10.1080/01425690701252630)
@@ -1087,10 +1062,6 @@
 **作者**: Renold, Emma
 **摘要**: Judith Butler’s conceptualisation of how gender is routinely spoken through a hegemonic heterosexual matrix has been pivotal for many social scientists researching within and beyond educational settings for exposing the ways in which children’s normative gender identities (‘intelligible genders’) ar…
 
-### Response
-**年份**: 2006 | **DOI**: [10.1080/01425690600803194](https://doi.org/10.1080/01425690600803194)
-**摘要**: Sellafield or some other reported leukemia dusters, leaves little room for doubt by conduding that "a causal interpretation of the association between childhood leukemia and paternal preconceptional irradiation reported by Gardner et al.…
-
 ### Doctoral theses
 **年份**: 2006 | **DOI**: [10.1080/01425690600556032](https://doi.org/10.1080/01425690600556032)
 **摘要**: （暂无）
@@ -1171,11 +1142,6 @@
 **年份**: 2006 | **DOI**: [10.1080/01425690600996717](https://doi.org/10.1080/01425690600996717)
 **作者**: Heath, Sue
 **摘要**: Embarking upon a pre‐university gap year is an increasingly popular option among British students. Drawing on Brown et al.’s work on positional conflict theory and the increased importance of the ‘economy of experience’, this paper seeks to explore this growing popularity and argues that the gap yea…
-
-### A response to Cole and Mendick: interpretation, misrepresentation and misrecognition
-**年份**: 2006 | **DOI**: [10.1080/01425690600958840](https://doi.org/10.1080/01425690600958840)
-**作者**: Moore, Rob
-**摘要**: （暂无）
 
 ### REVIEW SYMPOSIUM
 **年份**: 2006 | **DOI**: [10.1080/01425690600558368](https://doi.org/10.1080/01425690600558368)
@@ -1511,11 +1477,6 @@
 **年份**: 2005 | **DOI**: [10.1080/01425690500293447](https://doi.org/10.1080/01425690500293447)
 **摘要**: （暂无）
 
-### Emerging trends in researching children and youth: a review essay
-**年份**: 2005 | **DOI**: [10.1080/0142569042000305487](https://doi.org/10.1080/0142569042000305487)
-**作者**: Davies *, Bronwyn
-**摘要**: （暂无）
-
 ### Choice without markets: homeschooling in the context of private education
 **年份**: 2005 | **DOI**: [10.1080/01425690500199834](https://doi.org/10.1080/01425690500199834)
 **作者**: Aurini, Janice; Davies, Scott
@@ -1588,11 +1549,6 @@
 **年份**: 2004 | **DOI**: [10.1080/0142569042000205127](https://doi.org/10.1080/0142569042000205127)
 **作者**: Olssen *, Mark
 **摘要**: This paper attempts to develop a more sophisticated notion of multiculturalism in Britain. It starts by examining the philosophical basis of the Crick Report on citizenship education to resolve the theoretical tension between liberal and multicultural approaches to the subject.…
-
-### REVIEW ESSAY
-**年份**: 2004 | **DOI**: [10.1080/0142569032000155980](https://doi.org/10.1080/0142569032000155980)
-**作者**: Atkinson *, Paul
-**摘要**: （暂无）
 
 ### Bourdieu's reflexive sociology and ‘spaces of points of view’: whose reflexivity, which perspective?
 **年份**: 2004 | **DOI**: [10.1080/0142569042000236998](https://doi.org/10.1080/0142569042000236998)
@@ -1874,11 +1830,6 @@
 **作者**: Selwyn, Neil
 **摘要**: Mobile technologies such as palmtop computers and mobile telephones represent a new breed of technological innovation--offering easier and quicker access to information and communication on an 'anytime, anywhere' basis.…
 
-### REVIEW ESSAY: A New Class Paradigm?
-**年份**: 2003 | **DOI**: [10.1080/01425690301920](https://doi.org/10.1080/01425690301920)
-**作者**: Savage, Mike
-**摘要**: （暂无）
-
 ### The Effects of Political Education and Critical Thinking on Hong Kong and Mainland Chinese University Students' National Attitudes
 **年份**: 2003 | **DOI**: [10.1080/0142569032000127161](https://doi.org/10.1080/0142569032000127161)
 **作者**: FAIRBROTHER, GREGORY P.
@@ -1916,11 +1867,6 @@
 **年份**: 2003 | **DOI**: [10.1080/0142569032000127189](https://doi.org/10.1080/0142569032000127189)
 **作者**: SAWCHUK, PETER H.
 **摘要**: Abstract Findings from qualitative and quantitative research in Canada are combined to explore the links between adult participation in progressive trade unionism and patterns of learning.…
-
-### Review essay
-**年份**: 2003 | **DOI**: [10.1080/01425690301888](https://doi.org/10.1080/01425690301888)
-**作者**: Marshall, Harriet
-**摘要**: （暂无）
 
 ### The Impact of Religio-cultural Norms and Values on the Education of Young South Asian Women
 **年份**: 2003 | **DOI**: [10.1080/01425690301917](https://doi.org/10.1080/01425690301917)
@@ -2373,11 +2319,6 @@
 **作者**: Rosie, Anthony; Bufton, Serena; Hirst, Julia
 **摘要**: This paper draws on case-study data collected from undergraduate students taking courses in social theory. The paper sets out an approach to Sociology as a discipline that promotes an understanding of moral categories.…
 
-### A Reply to Partisan Reviews
-**年份**: 2001 | **DOI**: [10.1080/01425690124672](https://doi.org/10.1080/01425690124672)
-**作者**: Hammersley, Martyn
-**摘要**: （暂无）
-
 ### From 'Adjuncts' to 'Subjects': Parental involvement in a working-class community
 **年份**: 2001 | **DOI**: [10.1080/01425690120054867](https://doi.org/10.1080/01425690120054867)
 **作者**: Borg, Carmel; Mayo, Peter
@@ -2387,11 +2328,6 @@
 **年份**: 2001 | **DOI**: [10.1080/01425690120094430](https://doi.org/10.1080/01425690120094430)
 **作者**: Bird, Elizabeth
 **摘要**: Abstract Having first reviewed the lack of a sociology of the academic curriculum, this paper looks back at a period when radical critiques of conventional knowledge were being developed in the context of 'revolutionary' politics, both outside and inside the academy.…
-
-### A Reply to Partisan Reviews
-**年份**: 2001 | **DOI**: [10.1080/01425690120072812](https://doi.org/10.1080/01425690120072812)
-**作者**: Hammersley, Martyn
-**摘要**: （暂无）
 
 ### State Theory and the Neo-Liberal Reconstruction of Schooling and Teacher Education: a structuralist neo-Marxist critique of postmodernist, quasi-postmodernist, and culturalist neo-Marxist theory
 **年份**: 2001 | **DOI**: [10.1080/01425690125553](https://doi.org/10.1080/01425690125553)
@@ -2512,11 +2448,6 @@
 **作者**: Atkinson, Elizabeth
 **摘要**: Abstract The debate surrounding educational research in the UK has been fuelled by four recent government-funded publications that have thrown doubt on the validity, relevance and applicability of educational research.…
 
-### Educational Outcomes, Modern and Postmodern Interpretations: Response to Smyth and Dow
-**年份**: 2000 | **DOI**: [10.1080/01425690095144](https://doi.org/10.1080/01425690095144)
-**作者**: Hargreaves, Andy; Moore, Shawn
-**摘要**: （暂无）
-
 ### EXTENDED REVIEW
 **年份**: 2000 | **DOI**: [10.1080/713655341](https://doi.org/10.1080/713655341)
 **作者**: Menter, Ian
@@ -2580,11 +2511,6 @@
 **年份**: 2000 | **DOI**: [10.1080/713655368](https://doi.org/10.1080/713655368)
 **作者**: Gunter, Helen M.
 **摘要**: Abstract The field of education management has grown rapidly in the past 30 years with members positioning themselves in all parts of the education system. The main claim for distinctiveness is working with and on behalf of the practitioner, and intellectual positioning is based on the nature of int…
-
-### Basil Bernstein-An Obituary
-**年份**: 2000 | **DOI**: [10.1080/713655372](https://doi.org/10.1080/713655372)
-**作者**: Davies, Brian
-**摘要**: （暂无）
 
 ### Is Jimmy Really so Different? Learning and making-meaning in work and non-work contexts
 **年份**: 2000 | **DOI**: [10.1080/713655365](https://doi.org/10.1080/713655365)
@@ -2660,11 +2586,6 @@
 **年份**: 2000 | **DOI**: [10.1080/713655347](https://doi.org/10.1080/713655347)
 **作者**: Tomusk, Voldemar
 **摘要**: This article discusses old and new, emerging patterns of elite production in Eastern Europe following the conceptual framework developed by Bourdieu for the French case. It is argued that one of the fundamental characteristics of the Soviet pattern of elite production was the systematic destruction …
-
-### First Chance, Second Chance or Last Chance? Resistance and response to education
-**年份**: 2000 | **DOI**: [10.1080/01425690095162](https://doi.org/10.1080/01425690095162)
-**作者**: Munns, Geoff; McFadden, Mark
-**摘要**: （暂无）
 
 ### Rediscovering the Impact of Marketisation: Dimensions of social segregation in England's secondary schools, 1994-99
 **年份**: 2000 | **DOI**: [10.1080/713655353](https://doi.org/10.1080/713655353)

@@ -1,14 +1,9 @@
 # Demographic Research
 ## 2000–2009 年文章（含摘要）
 
-共 **435** 篇
+共 **429** 篇
 
 ---
-
-### Formal Relationships: Introduction and Orientation
-**年份**: 2009 | **DOI**: [10.4054/demres.2009.20.1](https://doi.org/10.4054/demres.2009.20.1)
-**作者**: Goldstein, Joshua R.; Vaupel, James W.
-**摘要**: In 2009, Demographic Research will be publishing short reports on mathematical relationships in formal demography in a new Special Collection called "Formal Relationships". This first publication outlines the goals and procedures for publications in th
 
 ### The impact of female employment on fertility in Dakar (Senegal) and Lomé (Togo)
 **年份**: 2009 | **DOI**: [10.4054/demres.2009.20.7](https://doi.org/10.4054/demres.2009.20.7)
@@ -619,11 +614,6 @@
 **年份**: 2008 | **DOI**: [10.4054/demres.2008.19.12](https://doi.org/10.4054/demres.2008.19.12)
 **作者**: Prskawetz, Alexia; Sobotka, Tomáš; Buber-Ennser, Isabella 等5人
 **摘要**: This chapter offers an in-depth analysis of fertility in Austria, a country which has experienced a low and relatively stable fertility level and a gradual postponement of childbearing since the mid-1980s. We begin by summarising Austrian population tr
-
-### Poland: Fertility decline as a response to profound societal and labour market changes?
-**年份**: 2008 | **DOI**: [10.4054/demres.2008.19.22](https://doi.org/10.4054/demres.2008.19.22)
-**作者**: Kotowska, Irena; Jóźwiak, Janina; Matysiak, Anna 等4人
-**摘要**: （暂无）
 
 ### Romania: Childbearing metamorphosis within a changing context
 **年份**: 2008 | **DOI**: [10.4054/demres.2008.19.23](https://doi.org/10.4054/demres.2008.19.23)
@@ -1265,11 +1255,6 @@
 **作者**: Le Bras, Hervé
 **摘要**: We propose an alternative way of dealing with mortality tempo. Bongaarts and Feeney have developed a model that assumes a fixed delay postponing each death. Our model, however, assumes that changes take place with the removal of a given cause of mortal
 
-### Introduction to the Special Collection “Human Mortality over Age, Time, Sex, and Place: The 1st HMD Symposium”
-**年份**: 2005 | **DOI**: [10.4054/demres.2005.13.10](https://doi.org/10.4054/demres.2005.13.10)
-**作者**: Shkolnikov, Vladimir; Wilmoth, John R.; Glei, Dana
-**摘要**: （暂无）
-
 ### Age-specific contributions to changes in the period and cohort life expectancy
 **年份**: 2005 | **DOI**: [10.4054/demres.2005.13.3](https://doi.org/10.4054/demres.2005.13.3)
 **作者**: Canudas-Romo, Vladimir; Schoen, Robert
@@ -1450,11 +1435,6 @@
 **作者**: Rønsen, Marit
 **摘要**: Below replacement fertility in many countries has lead to a renewed public interest in policies that may encourage young people to have more children. The Nordic countries are sometimes in focus in this respect, as their fertility rates remain relative
 
-### Introduction to the Special Collection of papers on "Determinants of diverging trends in mortality"
-**年份**: 2004 | **DOI**: [10.4054/demres.2004.s2.1](https://doi.org/10.4054/demres.2004.s2.1)
-**作者**: Shkolnikov, Vladimir
-**摘要**: （暂无）
-
 ### Mortality in Central and Eastern Europe
 **年份**: 2004 | **DOI**: [10.4054/demres.2004.s2.3](https://doi.org/10.4054/demres.2004.s2.3)
 **作者**: Meslé, France
@@ -1539,11 +1519,6 @@
 **年份**: 2004 | **DOI**: [10.4054/demres.2004.11.7](https://doi.org/10.4054/demres.2004.11.7)
 **作者**: Heiland, Frank W.
 **摘要**: The purpose of this article is to show recent trends in regional migration from East to West Germany by combining data from the Statistisches Bundesamt from 1991 to 2002 with data from the Zentrales Einwohnerregister der DDR from 1989 to 1990. We docum
-
-### Contemporary Research on European Fertility: Introduction
-**年份**: 2004 | **DOI**: [10.4054/demres.2004.s3.1](https://doi.org/10.4054/demres.2004.s3.1)
-**作者**: Neyer, Gerda; Andersson, Gunnar
-**摘要**: This paper introduces a collection of related studies on different aspects of research on European fertility and family dynamics. The authors who have contributed to this special Volume presented their papers at a working party at the Max Planck Instit
 
 ### Population aging and the extended family in Taiwan
 **年份**: 2004 | **DOI**: [10.4054/demres.2004.10.8](https://doi.org/10.4054/demres.2004.10.8)
@@ -1794,11 +1769,6 @@
 **年份**: 2003 | **DOI**: [10.4054/demres.2003.s1.10](https://doi.org/10.4054/demres.2003.s1.10)
 **作者**: Noël-Miller, Claire Marie
 **摘要**: I examine if and how rural Malawians alter their childbearing as a consequence of concern regarding the HIV/AIDS epidemic. The paper is motivated by the debate which opposes two ideas regarding the childbearing effect of high HIV infection rates and he
-
-### Introduction to "Research on Demographic Aspects of HIV/AIDS in Rural Africa"
-**年份**: 2003 | **DOI**: [10.4054/demres.2003.s1.1](https://doi.org/10.4054/demres.2003.s1.1)
-**作者**: Watkins, Susan; Zulu, Eliya Msiyaphazi; Kohler, Hans-Peter 等4人
-**摘要**: This paper introduces a set of papers presented at the conference "Research on Demographic Aspects of HIV/AIDS in Rural Africa", held at the Population Studies Center, University of Pennsylvania, October 28-29, 2002. The aim of the conference wa
 
 ### An Assessment of the KDICP and MDICP Data Quality
 **年份**: 2003 | **DOI**: [10.4054/demres.2003.s1.2](https://doi.org/10.4054/demres.2003.s1.2)

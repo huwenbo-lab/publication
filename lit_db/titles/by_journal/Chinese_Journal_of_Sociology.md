@@ -1,6 +1,6 @@
 # Chinese Journal of Sociology — 文章标题索引
 
-共 **267** 篇 | 年份范围：2015–2026
+共 **255** 篇 | 年份范围：2015–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -14,8 +14,6 @@
 - Climate adaptation and institutional continuity: Understanding lock-in dynamics in China's grassland governance · [DOI](https://doi.org/10.1177/2057150x261420583)
 - Bridging planned and autonomous adaptation for flood resilience in multi-ethnic communities along China's Tea-Horse Road · [DOI](https://doi.org/10.1177/2057150x261419582)
 - Grandparents’ authoritative resources and intergenerational co-parenting relationships in urban Chinese families: Differences between maternal and paternal grandparents · [DOI](https://doi.org/10.1177/2057150x261437977)
-- When artificial intelligence makes everything similar: The risks of content homogenization · [DOI](https://doi.org/10.1177/2057150x261419573)
-- Born to work longer? Lifetime socioeconomic dynamics, pension eligibility, and late-life employment in urban China · [DOI](https://doi.org/10.1177/2057150x261420939)
 
 ## 2025
 
@@ -25,7 +23,6 @@
 - Ethics and governance of artificial intelligence in digital China: Evidence from online survey and social media data · [DOI](https://doi.org/10.1177/2057150X241313085)
 - Chinese perspectives on organizational research: A summary of the 20th Workshop on Empirical Research in Organizational Sociology · [DOI](https://doi.org/10.1177/2057150X251385829)
 - Cohort and gender disparities in childbearing motivation: Evidence from the 2020 China Family Panel Studies · [DOI](https://doi.org/10.1177/2057150X251335102)
-- Performing sacredness: The Touqi Public Memorial Ceremony as a cultural response to Chinese major disasters (2010-2019) · [DOI](https://doi.org/10.1177/2057150X251330727)
 - Heterogeneous treatment effects of parental migration on the cognitive ability of rural left-behind children in China · [DOI](https://doi.org/10.1177/2057150X251382369)
 - Parent-child discrepancies in educational expectations and depressive symptoms among Chinese middle school adolescents: A moderated mediation model analysis · [DOI](https://doi.org/10.1177/2057150X251377171)
 - Family rituals in today's China: Unveiling empirical patterns and participant consequences · [DOI](https://doi.org/10.1177/2057150X251328487)
@@ -42,7 +39,6 @@
 - Navigating social and material challenges of sustainable consumption among the Chinese urban middle class: Environmentalism, simplicity, and frugality · [DOI](https://doi.org/10.1177/2057150X251371845)
 - The social impact of generative LLM-based AI · [DOI](https://doi.org/10.1177/2057150X251315997)
 - Natural language processing for social science research: A comprehensive review · [DOI](https://doi.org/10.1177/2057150X241306780)
-- AI's dual impact: Transforming society and social sciences · [DOI](https://doi.org/10.1177/2057150x251316601)
 
 ## 2024
 
@@ -69,7 +65,6 @@
 - Demographic pathways and intergenerational effects of changes in women's education: Evidence from China · [DOI](https://doi.org/10.1177/2057150X241246125)
 - Socioeconomic and gender disparities in depression among elderly Chinese individuals · [DOI](https://doi.org/10.1177/2057150X241269279)
 - Sociological studies on Chinese religion since the turn of the century · [DOI](https://doi.org/10.1177/2057150X231223288)
-- Introduction to the special issue on health and aging in China · [DOI](https://doi.org/10.1177/2057150x241273713)
 
 ## 2023
 
@@ -119,8 +114,6 @@
 - Labor exportation, transnational production politics, and the formation of exploitation relationships-a case study of Chinese migrant workers in Japan · [DOI](https://doi.org/10.1177/2057150X221090359)
 - Heroines who are rebuilding their country: State-society circumstances and coping strategies of female leaders in post-genocide Rwanda · [DOI](https://doi.org/10.1177/2057150X221123622)
 - Sexuality in China: A review and new findings · [DOI](https://doi.org/10.1177/2057150x221114599)
-- Knowledge production and epistemic politics: A scientometric review of Chinese sexuality studies in English-language academia · [DOI](https://doi.org/10.1177/2057150x221111523)
-- Social class differentials in marital sex in China (2000–2015) · [DOI](https://doi.org/10.1177/2057150x221107958)
 
 ## 2021
 
@@ -180,7 +173,6 @@
 - Network fields, cultural identities and labor rights communities: Big data analytics with topic model and community detection · [DOI](https://doi.org/10.1177/2057150x18820500)
 - Have party premiums disappeared in post-2000 China? The influence of negative ability bias from position conditioning · [DOI](https://doi.org/10.1177/2057150x18817245)
 - The influences of family background and structural factors on children’s academic performances: A cross-country comparative study · [DOI](https://doi.org/10.1177/2057150x19837908)
-- Introduction to the special issue on ‘Life course and family dynamics in a comparative perspective’ · [DOI](https://doi.org/10.1177/2057150x19840253)
 - Trends in educational mobility: How does China compare to Europe and the United States? · [DOI](https://doi.org/10.1177/2057150x19835145)
 - Lost trust and dissolvedguanxicircles: A case study of a collective resignation event at Tianyuan Tea Company · [DOI](https://doi.org/10.1177/2057150x19856285)
 - Intergenerational co-residence during later life in Europe and China · [DOI](https://doi.org/10.1177/2057150x19838031)
@@ -221,8 +213,6 @@
 - Assimilation of China’s rural-to-urban migrants: A multidimensional process · [DOI](https://doi.org/10.1177/2057150x18764232)
 - What keeps China’s floating population from moving? · [DOI](https://doi.org/10.1177/2057150x17748296)
 - The system of special commissioners and the early labor movement of the Communist Party of China: Illustrated by the history of the Anyuan workers’ movement (1921–1925) · [DOI](https://doi.org/10.1177/2057150x18803586)
-- Call for Papers · [DOI](https://doi.org/10.1177/2057150x18793045)
-- Call for Papers · [DOI](https://doi.org/10.1177/2057150x18793278)
 
 ## 2017
 
@@ -270,7 +260,6 @@
 - The Chinese diaspora: The current distribution of the overseas Chinese population · [DOI](https://doi.org/10.1177/2057150x16655077)
 - Evaluating the measurement reliabilities and dimensionality of developmental idealism measures · [DOI](https://doi.org/10.1177/2057150x16672813)
 - Ethnic enclaves revisited: Effects on earnings of migrant workers in China · [DOI](https://doi.org/10.1177/2057150x16633580)
-- Introduction to Special Issue · [DOI](https://doi.org/10.1177/2057150x16670829)
 - Developmental idealism in China · [DOI](https://doi.org/10.1177/2057150x16670835)
 - Comparable metrics: Some examples · [DOI](https://doi.org/10.1177/2057150x15624896)
 - Political capital and intergenerational mobility: Evidence from elite college admissions in China · [DOI](https://doi.org/10.1177/2057150x16641046)
@@ -278,7 +267,6 @@
 - Housing inequality in urban China · [DOI](https://doi.org/10.1177/2057150x15624894)
 - Universal, yet local: The religious factor in Chinese Muslims’ perception of world developmental hierarchy · [DOI](https://doi.org/10.1177/2057150x16674126)
 - Intergenerational relations and Chinese elderly's subjective well-being: An analysis of differentials by gender and residence · [DOI](https://doi.org/10.1177/2057150x16657936)
-- Corrigendum · [DOI](https://doi.org/10.1177/2057150x15625564)
 
 ## 2015
 

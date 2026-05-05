@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2000–2009 年文章（含摘要）
 
-共 **466** 篇
+共 **454** 篇
 
 ---
 
@@ -145,10 +145,6 @@
 **作者**: Halpern-Manners, Andrew; Warren, John Robert; Brand, Jennie E.
 **摘要**: （暂无）
 
-### Cover 2/Editorial Board
-**年份**: 2009 | **DOI**: [10.1016/s0049-089x(09)00092-1](https://doi.org/10.1016/s0049-089x(09)00092-1)
-**摘要**: （暂无）
-
 ### Testing, time limits, and English learners: Does age of school entry affect how quickly students can learn English?
 **年份**: 2009 | **DOI**: [10.1016/j.ssresearch.2008.08.002](https://doi.org/10.1016/j.ssresearch.2008.08.002)
 **作者**: Conger, Dylan
@@ -157,11 +153,6 @@
 ### Race and space in the 1990s: Changes in the geographic scale of racial residential segregation, 1990–2000
 **年份**: 2009 | **DOI**: [10.1016/j.ssresearch.2008.10.002](https://doi.org/10.1016/j.ssresearch.2008.10.002)
 **作者**: Reardon, Sean F.; Farrell, Chad R.; Matthews, Stephen A. 等6人
-**摘要**: （暂无）
-
-### Response rate and measurement differences in mixed-mode surveys using mail, telephone, interactive voice response (IVR) and the Internet
-**年份**: 2009 | **DOI**: [10.1016/j.ssresearch.2008.03.007](https://doi.org/10.1016/j.ssresearch.2008.03.007)
-**作者**: Dillman, Don A.; Phelps, Glenn; Tortora, Robert 等7人
 **摘要**: （暂无）
 
 ### Marital happiness and marital stability: Consequences for psychological well-being
@@ -209,21 +200,9 @@
 **作者**: Knecht, Tom; Martinez, Lisa M.
 **摘要**: （暂无）
 
-### Cover 2/Editorial Board
-**年份**: 2009 | **DOI**: [10.1016/s0049-089x(08)00123-3](https://doi.org/10.1016/s0049-089x(08)00123-3)
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2009 | **DOI**: [10.1016/s0049-089x(09)00023-4](https://doi.org/10.1016/s0049-089x(09)00023-4)
-**摘要**: （暂无）
-
 ### Inequality in the family: The institutional aspects of women’s earning contribution
 **年份**: 2009 | **DOI**: [10.1016/j.ssresearch.2009.01.008](https://doi.org/10.1016/j.ssresearch.2009.01.008)
 **作者**: Stier, Haya; Mandel, Hadas
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2009 | **DOI**: [10.1016/s0049-089x(09)00049-0](https://doi.org/10.1016/s0049-089x(09)00049-0)
 **摘要**: （暂无）
 
 ### Gendered racial exclusion among white internet daters
@@ -341,10 +320,6 @@
 **作者**: Vaquera, Elizabeth; Kao, Grace
 **摘要**: （暂无）
 
-### Cover 2/Editorial Board
-**年份**: 2008 | **DOI**: [10.1016/s0049-089x(08)00053-7](https://doi.org/10.1016/s0049-089x(08)00053-7)
-**摘要**: （暂无）
-
 ### Race, spatial mismatch, and job accessibility: Evidence from a plant relocation
 **年份**: 2008 | **DOI**: [10.1016/j.ssresearch.2008.03.006](https://doi.org/10.1016/j.ssresearch.2008.03.006)
 **作者**: Fernandez, Roberto M.
@@ -433,10 +408,6 @@
 ### Welfare myths: The transmission of values and work among TANF families
 **年份**: 2008 | **DOI**: [10.1016/j.ssresearch.2007.09.005](https://doi.org/10.1016/j.ssresearch.2007.09.005)
 **作者**: Lee, M.A.; Singelmann, Joachim; Yom-Tov, Anat
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2008 | **DOI**: [10.1016/s0049-089x(08)00010-0](https://doi.org/10.1016/s0049-089x(08)00010-0)
 **摘要**: （暂无）
 
 ### Material consumption and social well-being within the periphery of the world economy: An ecological analysis of maternal mortality
@@ -579,10 +550,6 @@
 **作者**: Scheitle, Christopher P.; Finke, Roger
 **摘要**: （暂无）
 
-### Cover 2/Editorial Board
-**年份**: 2008 | **DOI**: [10.1016/s0049-089x(08)00087-2](https://doi.org/10.1016/s0049-089x(08)00087-2)
-**摘要**: （暂无）
-
 ### Selecting job applicants: Effects from gender, self-presentation, and decision type
 **年份**: 2008 | **DOI**: [10.1016/j.ssresearch.2007.11.002](https://doi.org/10.1016/j.ssresearch.2007.11.002)
 **作者**: Foschi, Martha; Valenzuela, Jerilee
@@ -651,10 +618,6 @@
 ### Do disabilities in former TANF families hasten their returns to cash assistance?
 **年份**: 2008 | **DOI**: [10.1016/j.ssresearch.2007.06.006](https://doi.org/10.1016/j.ssresearch.2007.06.006)
 **作者**: Brandon, Peter D.; Hofferth, Sandra L.; Hogan, Dennis P.
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2008 | **DOI**: [10.1016/s0049-089x(08)00040-9](https://doi.org/10.1016/s0049-089x(08)00040-9)
 **摘要**: （暂无）
 
 ### Marrying out: Comparing the marital and social integration of Asians in the US and Canada
@@ -1289,11 +1252,6 @@
 **作者**: Waguespack, David M.
 **摘要**: （暂无）
 
-### Illustrations of family scholarship: Introduction to the special issue
-**年份**: 2006 | **DOI**: [10.1016/j.ssresearch.2006.03.002](https://doi.org/10.1016/j.ssresearch.2006.03.002)
-**作者**: Nock, Steven L.
-**摘要**: （暂无）
-
 ### An assessment of the construct validity of Ryff’s Scales of Psychological Well-Being: Method, mode, and measurement effects
 **年份**: 2006 | **DOI**: [10.1016/j.ssresearch.2005.07.004](https://doi.org/10.1016/j.ssresearch.2005.07.004)
 **作者**: Springer, Kristen W.; Hauser, Robert M.
@@ -1402,10 +1360,6 @@
 ### Class differences in African American residential patterns in US metropolitan areas: 1990–2000
 **年份**: 2005 | **DOI**: [10.1016/j.ssresearch.2004.02.001](https://doi.org/10.1016/j.ssresearch.2004.02.001)
 **作者**: Iceland, John; Sharpe, Cicely; Steinmetz, Erika
-**摘要**: （暂无）
-
-### Publisher’s Announcement
-**年份**: 2005 | **DOI**: [10.1016/s0049-089x(05)00039-6](https://doi.org/10.1016/s0049-089x(05)00039-6)
 **摘要**: （暂无）
 
 ### Status cues and the formation of expectations
@@ -1615,11 +1569,6 @@
 ### International evidence on the impact of transfers and taxes on alternative poverty indexes
 **年份**: 2004 | **DOI**: [10.1016/j.ssresearch.2003.07.001](https://doi.org/10.1016/j.ssresearch.2003.07.001)
 **作者**: DeFina, Robert H.; Thanawala, Kishor
-**摘要**: （暂无）
-
-### Ascription and departmental rankings revisited: A correction and a reanalysis
-**年份**: 2004 | **DOI**: [10.1016/j.ssresearch.2003.09.006](https://doi.org/10.1016/j.ssresearch.2003.09.006)
-**作者**: Jacobs, David
 **摘要**: （暂无）
 
 ### The division of labor between generations of women in rural China

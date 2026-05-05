@@ -1,6 +1,6 @@
 # Asian Population Studies — 文章标题索引
 
-共 **451** 篇 | 年份范围：2005–2026
+共 **430** 篇 | 年份范围：2005–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -92,7 +92,6 @@
 ## 2022
 
 - Has urbanization slowed down in Pakistan? · [DOI](https://doi.org/10.1080/17441730.2022.2156508)
-- In memoriam · [DOI](https://doi.org/10.1080/17441730.2022.2127198)
 - Declining fertility in Taiwan: the deterring impact of housework imbalance · [DOI](https://doi.org/10.1080/17441730.2022.2035555)
 - Migration flows in the region of mainland China, Hong Kong, and Taiwan · [DOI](https://doi.org/10.1080/17441730.2022.2087934)
 - Is the temporary migration regime in Asia future-ready? · [DOI](https://doi.org/10.1080/17441730.2022.2029159)
@@ -272,7 +271,6 @@
 - REMEASURING AGEING IN SOUTHEAST ASIA · [DOI](https://doi.org/10.1080/17441730.2015.1052201)
 - Self-rated Health of older persons in Indonesia · [DOI](https://doi.org/10.1080/17441730.2015.1010468)
 - Women's autonomy, education and birth intervals in India · [DOI](https://doi.org/10.1080/17441730.2015.1050083)
-- Editorial Board · [DOI](https://doi.org/10.1080/17441730.2015.1118215)
 - Active Life Expectancy of Elderly Koreans, 1994–2011 · [DOI](https://doi.org/10.1080/17441730.2015.1096096)
 - Explaining recent fertility increase in Central Asia · [DOI](https://doi.org/10.1080/17441730.2015.1027275)
 - The Intersection of Gender, Caste and Class Inequalities in Child Nutrition in Rural India · [DOI](https://doi.org/10.1080/17441730.2015.995150)
@@ -282,13 +280,11 @@
 
 ## 2014
 
-- Response to the critique by C. Tumbe · [DOI](https://doi.org/10.1080/17441730.2014.951151)
 - An Age Distribution Story: Reading into the Population Pyramid of Nepal · [DOI](https://doi.org/10.1080/17441730.2014.902164)
 - Decomposing the Rural-Urban Differentials in Childhood Malnutrition in India, 1992–2006 · [DOI](https://doi.org/10.1080/17441730.2014.902161)
 - Female Labour Force Participation and Fertility in South Korea · [DOI](https://doi.org/10.1080/17441730.2014.943941)
 - The Impact of Childhood Migration on Educational Attainment: Evidence from rural–urban migrants in Indonesia · [DOI](https://doi.org/10.1080/17441730.2014.942954)
 - The demographic transition and implications for the new Law on Population in Vietnam · [DOI](https://doi.org/10.1080/17441730.2014.955162)
-- Statement of Retraction · [DOI](https://doi.org/10.1080/17441730.2014.886358)
 - Relative Income and Female Autonomy · [DOI](https://doi.org/10.1080/17441730.2013.876703)
 - Internal Migration Dominates Population Dynamics In China · [DOI](https://doi.org/10.1080/17441730.2013.876702)
 - UN Population Division's Methodology in Preparing Base Population for Projections: Case study for India · [DOI](https://doi.org/10.1080/17441730.2014.947059)
@@ -297,7 +293,6 @@
 - Corrigendum · [DOI](https://doi.org/10.1080/17441730.2014.899483)
 - From Fertility Intention to Fertility Behaviour · [DOI](https://doi.org/10.1080/17441730.2014.902162)
 - Elderly widowhood in China · [DOI](https://doi.org/10.1080/17441730.2014.981328)
-- Editorial Board · [DOI](https://doi.org/10.1080/17441730.2014.955163)
 - Mapping Manila's Mega-Urban Region · [DOI](https://doi.org/10.1080/17441730.2014.902163)
 - Single-Child Families in India: Levels, Trends and Determinants · [DOI](https://doi.org/10.1080/17441730.2014.909962)
 - One Country Two Peoples? · [DOI](https://doi.org/10.1080/17441730.2014.947699)
@@ -315,7 +310,6 @@
 - FERTILITY CHANGES IN CENTRAL ASIA SINCE 1980 · [DOI](https://doi.org/10.1080/17441730.2012.752238)
 - Comparing Projection Assumptions of Fertility in Six Advanced Asian Economies; or ‘Thinking Beyond the Medium Variant’ · [DOI](https://doi.org/10.1080/17441730.2013.836394)
 - Postcolonial border crossing · [DOI](https://doi.org/10.1080/17441730.2013.870826)
-- Editorial Board · [DOI](https://doi.org/10.1080/17441730.2013.864797)
 - Pathways to Low Fertility in India · [DOI](https://doi.org/10.1080/17441730.2013.824184)
 - OLDER-AGE PARENTS IN RURAL CAMBODIA AND MIGRATION OF ADULT CHILDREN · [DOI](https://doi.org/10.1080/17441730.2013.797297)
 - ‘Ultramodern Contraception’ Re-Examined · [DOI](https://doi.org/10.1080/17441730.2013.816480)
@@ -344,7 +338,6 @@
 - IS MOBILITY THE MISSING LINK IN IMPROVING GIRLS' SCHOOLING IN PAKISTAN? · [DOI](https://doi.org/10.1080/17441730.2012.646805)
 - EFFECT OF LIVING ARRANGEMENT ON THE HEALTH STATUS OF ELDERLY IN INDIA · [DOI](https://doi.org/10.1080/17441730.2012.646842)
 - MIGRATION AND TRANSITION TO ADULTHOOD · [DOI](https://doi.org/10.1080/17441730.2012.736700)
-- Editorial Board · [DOI](https://doi.org/10.1080/17441730.2012.722771)
 - CHINA'S DEMOGRAPHIC REALITY AND FUTURE · [DOI](https://doi.org/10.1080/17441730.2012.646803)
 - IMPACT OF POPULATION AGEING ON INDIA'S PUBLIC FINANCE · [DOI](https://doi.org/10.1080/17441730.2012.714670)
 - FERTILITY-REDUCING DYNAMICS OF WOMEN'S SOCIAL STATUS AND EDUCATIONAL ATTAINMENT · [DOI](https://doi.org/10.1080/17441730.2012.714667)
@@ -371,10 +364,8 @@
 - OUT-MIGRATION FROM MATLAB—A RURAL AREA OF BANGLADESH · [DOI](https://doi.org/10.1080/17441730.2011.544904)
 - HEALTH OF HOME-BASED SEX WORKERS AND THEIR CHILDREN IN RURAL ANDHRA PRADESH, INDIA · [DOI](https://doi.org/10.1080/17441730.2011.576822)
 - MARRIAGE MIGRANTS AS EMIGRANTS · [DOI](https://doi.org/10.1080/17441730.2011.576810)
-- COMMENTARY · [DOI](https://doi.org/10.1080/17441730.2011.558673)
 - FORCED LABOUR AND RISING FERTILITY IN COLONIAL INDONESIA · [DOI](https://doi.org/10.1080/17441730.2011.544900)
 - THE CHALLENGE OF COMPOSITIONAL DEMOGRAPHY · [DOI](https://doi.org/10.1080/17441730.2011.576808)
-- Editorial Board · [DOI](https://doi.org/10.1080/17441730.2011.623360)
 - EXPLAINING TRENDS IN CORESIDENCE OF NEWLY MARRIED COUPLES WITH PARENTS IN JAPAN · [DOI](https://doi.org/10.1080/17441730.2011.608981)
 - CIRCULAR MIGRATION AND LIFE COURSE OF FEMALE DOMESTIC WORKERS IN BEIJING · [DOI](https://doi.org/10.1080/17441730.2011.544905)
 - MIGRATION AND DEVELOPMENT IN MALAYSIA · [DOI](https://doi.org/10.1080/17441730.2011.608983)
@@ -387,7 +378,6 @@
 - FAMILY SYSTEMS, POLITICAL SYSTEMS AND ASIA'S ‘MISSING GIRLS’ · [DOI](https://doi.org/10.1080/17441730.2010.494437)
 - CLIMATE CHANGE AND THE DEMOGRAPHER'S VOCATION · [DOI](https://doi.org/10.1080/17441730.2010.512758)
 - MORTALITY TRANSITION IN INDIA 1970–2005 · [DOI](https://doi.org/10.1080/17441731003603421)
-- RESPONSE TO COMMENT BY FAUJDAR RAM, ABHISHEK SINGH AND NANDITA SAIKIA · [DOI](https://doi.org/10.1080/17441730.2010.512766)
 - DEVELOPMENT OF THE POPULATION DATABASE IN CAMBODIA THROUGH CENSUSES · [DOI](https://doi.org/10.1080/17441730.2010.494417)
 - CHINA'S POPULATION TRENDS AND THEIR IMPLICATIONS FOR FERTILITY POLICY · [DOI](https://doi.org/10.1080/17441730.2010.512762)
 - LONGER-TERM DISRUPTIONS TO DEMOGRAPHIC STRUCTURES IN CHINA AND INDIA RESULTING FROM SKEWED SEX RATIOS AT BIRTH · [DOI](https://doi.org/10.1080/17441731003603371)
@@ -428,7 +418,6 @@
 - THE INSTITUTIONAL CONTEXT OF LOW FERTILITY · [DOI](https://doi.org/10.1080/17441730903351479)
 - SMOKING AND HEALTH IN INDONESIA · [DOI](https://doi.org/10.1080/17441730902992117)
 - MAKING SENSE OF ‘ASIAN’ FAMILIES IN THE AGE OF MIGRATION · [DOI](https://doi.org/10.1080/17441730902790008)
-- GUEST EDITORS' INTRODUCTION · [DOI](https://doi.org/10.1080/17441730903351446)
 
 ## 2008
 
@@ -446,7 +435,6 @@
 - THE ROLE OF TEMPORARY MIGRATION IN RURAL HOUSEHOLD ECONOMIC STRATEGY IN A TRANSITIONAL PERIOD FOR THE ECONOMY OF VIETNAM · [DOI](https://doi.org/10.1080/17441730801966683)
 - HAS KOREA'S FERTILITY REACHED THE BOTTOM? · [DOI](https://doi.org/10.1080/17441730801963110)
 - BRAIN CIRCULATION? · [DOI](https://doi.org/10.1080/17441730802496516)
-- GUEST EDITORS’ INTRODUCTION · [DOI](https://doi.org/10.1080/17441730802496474)
 - TEN BIG CHALLENGES CONFRONTING POPULATION AND DEVELOPMENT IN CHINA · [DOI](https://doi.org/10.1080/17441730801967160)
 - DEMOGRAPHIC DISEQUILIBRIUM IN EARLY TWENTIETH CENTURY THAILAND · [DOI](https://doi.org/10.1080/17441730802247265)
 - VILLAGE SIZE IN INDIA · [DOI](https://doi.org/10.1080/17441730802246630)
@@ -458,8 +446,6 @@
 
 - PRODUCTIVE OUTFLOW OF SKILLS · [DOI](https://doi.org/10.1080/17441730701499876)
 - Trends and Implications of Delayed and Non-Marriage in Korea · [DOI](https://doi.org/10.1080/17441730701746367)
-- COMMENTARY · [DOI](https://doi.org/10.1080/17441730701672035)
-- OBITUARY · [DOI](https://doi.org/10.1080/17441730701672019)
 - BIRTH ATTENDANT UTILIZATION IN THE INDONESIAN MEGA-URBAN REGIONS OF JABODETABEK, BANDUNG AND SURABAYA · [DOI](https://doi.org/10.1080/17441730701672050)
 - STAYING SINGLE IN A MARRIED WORLD · [DOI](https://doi.org/10.1080/17441730701746433)
 - KNOWLEDGE DIASPORAS FOR DEVELOPMENT · [DOI](https://doi.org/10.1080/17441730701500004)
@@ -472,8 +458,6 @@
 - Future Characteristics of the Elderly in Developing Countries and Their Implications for Policy · [DOI](https://doi.org/10.1080/17441730701270798)
 - REVIEWERS FOR VOLUME 1–3 · [DOI](https://doi.org/10.1080/17441730701746458)
 - Pregnancy Wastage among Married Women in South Korea · [DOI](https://doi.org/10.1080/17441730701270830)
-- Commentary · [DOI](https://doi.org/10.1080/17441730701270772)
-- GUEST EDITOR'S INTRODUCTION · [DOI](https://doi.org/10.1080/17441730701499819)
 - EMERGING FORMS OF UNION FORMATION IN THE PHILIPPINES · [DOI](https://doi.org/10.1080/17441730701746417)
 - OUT-MIGRATION OF HEALTH PROFESSIONALS FROM BANGLADESH · [DOI](https://doi.org/10.1080/17441730701499934)
 - THEME SECTION: MARRIAGE IN SOUTH-EAST AND EAST ASIA · [DOI](https://doi.org/10.1080/17441730701746300)
@@ -486,18 +470,15 @@
 - TOWARD SMALLER FAMILY SIZE IN YEMEN · [DOI](https://doi.org/10.1080/17441730601073847)
 - RISK FACTORS IN THE RAPIDLY RISING INCIDENCE OF DIVORCE IN KOREA · [DOI](https://doi.org/10.1080/17441730600923091)
 - Parental Absence and Children's School Enrolment · [DOI](https://doi.org/10.1080/17441730600700598)
-- COMMENTARY · [DOI](https://doi.org/10.1080/17441730601073763)
 - MIGRATION AND THE WELL-BEING OF THE ‘LEFT BEHIND’ IN ASIA · [DOI](https://doi.org/10.1080/17441730600700507)
 - Disability and Active Life Expectancy Among Older Cambodians · [DOI](https://doi.org/10.1080/17441730600923109)
 - FERTILITY DECLINE IN THE ISLAMIC REPUBLIC OF IRAN: 1972–2000 · [DOI](https://doi.org/10.1080/17441730601073789)
 - CONFLICT AND SURVIVAL · [DOI](https://doi.org/10.1080/17441730600923125)
-- Commentary · [DOI](https://doi.org/10.1080/17441730600700440)
 - REVERSE BRAIN DRAIN · [DOI](https://doi.org/10.1080/17441730601073821)
 - HEALTH CONCERNS OF ‘INVISIBLE’1 CROSS-BORDER DOMESTIC MAIDS IN THAILAND · [DOI](https://doi.org/10.1080/17441730600700481)
 - LIVING WITH MIGRATION · [DOI](https://doi.org/10.1080/17441730600700556)
 - Contraceptive behaviour of abortion seekers in Sri Lanka · [DOI](https://doi.org/10.1080/17441730500441442)
 - Delayed Asian Transitions to Adulthood · [DOI](https://doi.org/10.1080/17441730600923117)
-- COMMENTARY · [DOI](https://doi.org/10.1080/17441730600922853)
 - Ageing and Dependency in India · [DOI](https://doi.org/10.1080/17441730600923133)
 
 ## 2005
@@ -506,13 +487,11 @@
 - HARVESTING THE DEMOGRAPHIC BONUS · [DOI](https://doi.org/10.1080/17441730500317329)
 - ETHNICITY AND AGEING IN INDONESIA, 2000–2050 · [DOI](https://doi.org/10.1080/17441730500317477)
 - GENDER ROLES IN THE FAMILY · [DOI](https://doi.org/10.1080/17441730500125888)
-- GUEST EDITORS’ INTRODUCTION · [DOI](https://doi.org/10.1080/17441730500317105)
 - THE NEW INTERNATIONAL MIGRATION IN ASIA · [DOI](https://doi.org/10.1080/17441730500125953)
 - Ultramodern contraception · [DOI](https://doi.org/10.1080/17441730500441178)
 - DEMOGRAPHIC CHANGE AND THE DEMOGRAPHIC DIVIDEND IN THAILAND · [DOI](https://doi.org/10.1080/17441730500317493)
 - THE CAUSES OF THE ASIAN FERTILITY DECLINE · [DOI](https://doi.org/10.1080/17441730500125714)
 - POPULATION AGEING, HUMAN CAPITAL ACCUMULATION AND ECONOMIC GROWTH IN CHINA · [DOI](https://doi.org/10.1080/17441730500317246)
-- INTRODUCTION TO ASIAN POPULATION STUDIES · [DOI](https://doi.org/10.1080/17441730500126068)
 - HEALTH AND ITS IMPACT ON WORK AND DEPENDENCY AMONG THE ELDERLY IN JAPAN · [DOI](https://doi.org/10.1080/17441730500126019)
 - Factors affecting female age at marriage in South Asia · [DOI](https://doi.org/10.1080/17441730500441160)
 - The Effects of Inter-generational Support on the Mortality of Older People in Rural China · [DOI](https://doi.org/10.1080/17441730500441202)
