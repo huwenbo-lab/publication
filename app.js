@@ -1,5 +1,5 @@
 const SQL_JS_BASE = "vendor/sqljs";
-const PAGE_SIZE = 50;
+const PAGE_SIZE = 20;
 const FAVORITES_STORAGE_KEY_V1 = "publication:favorites:v1";
 const FAVORITES_STORAGE_KEY_V2 = "publication:favorites:v2";
 const FAVORITES_ALL_FOLDER = "__all__";
@@ -108,7 +108,7 @@ const app = {
         items: {},
     },
     engine: "loading",
-    engineMessage: "正在连接浏览器内检索引擎…",
+    engineMessage: "正在准备检索…",
     sqliteInitError: "",
     staticIndexesLoaded: false,
     theme: "light",
@@ -1135,9 +1135,7 @@ function renderDisciplinePresets() {
             : `${journals.length} 本期刊`;
         return `
             <button type="button" class="discipline-card" data-discipline-filter="${escapeHtml(group.label)}">
-                <span class="discipline-kicker">预设筛选</span>
                 <strong>${escapeHtml(group.label)}</strong>
-                <span class="discipline-body">${escapeHtml(DISCIPLINE_COPY[group.label] || "按学科快速限定期刊范围。")}</span>
                 <span class="discipline-meta">${escapeHtml(meta)}</span>
             </button>
         `;
@@ -1342,22 +1340,22 @@ async function initSqliteEngine() {
     app.meta = loadMetaFromDb();
     app.facets = loadFacetsFromDb();
     app.engine = "sqlite";
-    app.engineMessage = "已启用浏览器内 SQLite FTS5，可直接搜标题、摘要、作者、期刊和年份。";
+    app.engineMessage = "可搜索标题、摘要、作者、期刊和年份。";
     app.sqliteInitError = "";
 }
 
 function buildSqliteFailureMessage(error) {
     const message = String(error?.message || "").trim();
     if (!message) {
-        return "浏览器内 SQLite 初始化失败，页面已回退到备用 JSON 模式。";
+        return "检索库暂时不可用，页面已切换到基础搜索。";
     }
     if (message.includes("literature.db 不可用")) {
-        return `当前部署没有成功提供 literature.db。${message}`;
+        return "当前使用基础搜索。";
     }
     if (message.includes("SQL.js runtime 未加载")) {
-        return "SQLite 运行时没有正常加载，页面已回退到备用 JSON 模式。";
+        return "当前使用基础搜索。";
     }
-    return `浏览器内 SQLite 初始化失败，页面已回退到备用 JSON 模式。${message}`;
+    return "当前使用基础搜索。";
 }
 
 function queryDb(sql, params = {}) {
@@ -1503,7 +1501,7 @@ async function ensureFallbackData() {
     if (app.fallbackData) {
         return;
     }
-    app.engineMessage = "正在加载备用 JSON 数据（约 40MB）…";
+    app.engineMessage = "正在加载备用搜索数据…";
     renderEngineStatus();
     const response = await fetch("data.json", { cache: "no-cache" });
     if (!response.ok) {
@@ -1561,7 +1559,7 @@ async function ensureFallbackData() {
             maxYear: Number.isFinite(stat.maxYear) ? stat.maxYear : "",
         }))
         .sort((a, b) => a.journal.localeCompare(b.journal));
-    app.engineMessage = "当前使用备用 JSON 数据。浏览与基础搜索可用，但不支持完整 FTS5 语法与毫秒级响应。";
+    app.engineMessage = "当前使用基础搜索。";
 }
 
 async function initDataSources() {
@@ -2026,12 +2024,12 @@ function renderEngineStatus() {
     dom.engineBadge.className = "engine-badge";
     if (app.engine === "sqlite") {
         dom.engineBadge.classList.add("is-ready");
-        dom.engineBadge.textContent = "SQLite FTS5 已连接";
+        dom.engineBadge.textContent = "快速检索";
     } else if (app.engine === "fallback") {
         dom.engineBadge.classList.add("is-fallback");
-        dom.engineBadge.textContent = "JSON 备用模式";
+        dom.engineBadge.textContent = "基础搜索";
     } else {
-        dom.engineBadge.textContent = "正在初始化";
+        dom.engineBadge.textContent = "准备中";
     }
     dom.engineMessage.textContent = app.engineMessage;
 }
@@ -2418,7 +2416,7 @@ function renderResults(result) {
         summary = `显示 ${formatNumber(result.total)} 条符合筛选条件的文章，默认按年份从新到旧。`;
     }
     if (result.usedFallback) {
-        summary += " 当前为备用 JSON 搜索，语法仅支持基础关键词包含。";
+        summary += " 当前使用基础关键词搜索。";
     }
     if (result.favoritesOnly || app.state.favoritesOnly) {
         summary += " 当前仅显示本地收藏。";
@@ -2590,7 +2588,7 @@ async function renderSearchView() {
         dom.searchNotice.innerHTML = `
             <div class="notice-box warning">
                 ${escapeHtml(app.engineMessage)}
-                你现在可以直接进入“浏览”标签，或开始搜索时由页面按需加载备用 JSON 数据。
+                你可以直接进入“浏览”，或输入关键词后继续搜索。
             </div>
         `;
         dom.resultList.innerHTML = `
@@ -2612,18 +2610,18 @@ async function renderSearchView() {
     dom.searchNotice.innerHTML = app.state.favoritesOnly
         ? `
             <div class="notice-box">
-                当前只搜索浏览器本地收藏，搜索模式为：${escapeHtml(modeLabel)}。
+                当前只搜索本地收藏，模式：${escapeHtml(modeLabel)}。
             </div>
         `
         : app.engine === "sqlite"
         ? `
             <div class="notice-box">
-                搜索模式：${escapeHtml(modeLabel)}。全部字段模式支持 SQLite FTS5 语法，例如 <code>"social mobility"</code>、<code>marriage OR cohabitation</code>、<code>educat*</code>。
+                搜索模式：${escapeHtml(modeLabel)}。可继续用左侧期刊和年份缩小范围。
             </div>
         `
         : `
             <div class="notice-box warning">
-                当前为备用 JSON 模式。${escapeHtml(app.engineMessage)} 基础搜索可用，但不支持完整 FTS5 语法和高亮排序。
+                ${escapeHtml(app.engineMessage)} 可继续用关键词、期刊和年份筛选。
             </div>
         `;
 
@@ -2638,7 +2636,7 @@ async function renderSearchView() {
         dom.resultSummary.textContent = "查询失败";
         dom.resultList.innerHTML = `
             <div class="empty-state">
-                查询语法可能有误。若你在用 FTS5 高级语法，先试试删掉多余括号或引号。
+                查询语法可能有误。可以先删掉多余括号或引号，改用更短的关键词。
             </div>
         `;
         dom.pagination.innerHTML = "";
@@ -2916,10 +2914,10 @@ async function renderBrowseView() {
         : [];
 
     dom.browseStatus.innerHTML = app.browseIndex
-        ? `<div class="notice-box">浏览模式读取静态浏览索引。${escapeHtml(app.browseIndex.volume_issue_note || "当前主数据没有卷期字段，因此提供期刊—年份—文章层级。")}</div>`
+        ? '<div class="notice-box">按期刊和年份浏览文章。先选期刊，再选年份。</div>'
         : app.engine === "sqlite"
-        ? '<div class="notice-box">浏览模式同样直接读取 SQLite 库，不再依赖同步加载的 <code>data.js</code>。</div>'
-        : `<div class="notice-box warning">当前浏览模式使用备用 JSON 数据。${escapeHtml(app.engineMessage)}</div>`;
+        ? '<div class="notice-box">按期刊和年份浏览文章。先选期刊，再选年份。</div>'
+        : `<div class="notice-box warning">${escapeHtml(app.engineMessage)} 仍可按期刊和年份浏览。</div>`;
     renderBrowseBreadcrumbs();
     renderBrowseJournals(journals);
     renderBrowseYears(years);
@@ -3061,7 +3059,7 @@ async function renderScholarsView() {
         return;
     }
 
-    dom.scholarStatus.innerHTML = `<div class="notice-box">${escapeHtml(app.authorIndex.normalization_note || "作者统计使用保守规范化，可能存在同名或改名造成的偏差。")}</div>`;
+    dom.scholarStatus.innerHTML = '<div class="notice-box">作者名按保守规则合并；同名作者和改名情况仍需人工判断。</div>';
     const authors = getFilteredScholarAuthors();
     const thresholdText = `${app.state.scholarThreshold}+`;
     dom.scholarSummary.textContent = `显示 ${formatNumber(authors.length)} 位发文数达到 ${thresholdText} 的作者。筛选会重新计算作者在当前期刊和年份范围内的发文数。`;
@@ -3370,7 +3368,7 @@ function bindEvents() {
         app.state.page = Math.max(1, app.state.page);
         clearActiveNavigationSelection();
         await renderAll();
-        window.scrollTo({ top: 0, behavior: "smooth" });
+        dom.resultSummary.scrollIntoView({ block: "start", behavior: "smooth" });
     });
 
     const openArticleFromTrigger = async (event) => {

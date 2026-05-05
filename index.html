@@ -11,20 +11,19 @@
 <div class="app-shell">
     <header class="hero panel">
         <div class="hero-eyebrow">社会学与人口学文献库</div>
-        <h1 class="hero-title">先搜主题，再按期刊精读</h1>
+        <h1 class="hero-title">查文献、追期刊、整理选题</h1>
         <p class="hero-copy">
-            这一版前端优先接入浏览器内 SQLite FTS5 检索，搜索覆盖标题、摘要和作者。
-            如果当前环境没有发布 <code>literature.db</code>，页面会自动回退到备用 JSON 浏览模式。
+            搜索标题、摘要、作者、期刊和年份；按期刊与年份浏览；把有用文章放进本地收藏夹。
         </p>
         <div class="hero-meta-row">
             <div id="dataset-meta" class="meta-pill">正在准备数据概况…</div>
-            <div id="engine-badge" class="engine-badge">正在初始化</div>
-            <div id="engine-message" class="meta-pill">正在连接检索引擎…</div>
+            <div id="engine-badge" class="engine-badge">准备中</div>
+            <div id="engine-message" class="meta-pill">正在准备检索…</div>
         </div>
     </header>
 
     <section class="utility-bar panel" aria-label="本地工具">
-        <div class="utility-copy">本地工具：按文件夹管理收藏、导出 BibTeX / CSV / JSON，并在浅色与深色主题之间切换。</div>
+        <div class="utility-copy">收藏夹保存在本机浏览器，可按文件夹整理并导出。</div>
         <div class="utility-actions">
             <button id="dashboard-toggle" class="ghost-btn utility-btn" type="button" aria-expanded="false" aria-controls="dashboard-panel">数据库概况</button>
             <button id="theme-toggle" class="ghost-btn utility-btn" type="button" aria-pressed="false">主题：浅色</button>
@@ -35,8 +34,8 @@
     <section class="discipline-strip panel" aria-label="学科入口">
         <div class="browse-header">
             <div>
-                <h2>学科入口</h2>
-                <div class="helper-text">先按研究方向预设期刊范围，再搜主题。适合快速切到人口学、家庭、教育或劳动分层等子领域。</div>
+                <h2>常用方向</h2>
+                <div class="helper-text">点击后自动选中一组相关期刊，适合先限定领域再输入主题。</div>
             </div>
         </div>
         <div id="discipline-grid" class="discipline-grid"></div>
@@ -52,7 +51,7 @@
         <div class="browse-header">
             <div>
                 <h2>数据库概况</h2>
-                <div class="helper-text">这是辅助面板。需要看整体轮廓时再展开，不打断首屏检索流程。</div>
+                <div class="helper-text">查看收录规模、年度趋势、关键词和期刊分布。</div>
             </div>
             <div class="dashboard-actions">
                 <div id="dashboard-generated-at" class="helper-text">正在加载概况…</div>
@@ -138,7 +137,7 @@
                         <button type="submit" class="primary-btn">立即搜索</button>
                     </div>
                     <div class="browse-header">
-                        <div class="search-hint">按 <code>/</code> 聚焦搜索框，<code>↑↓</code> 选结果，<code>Enter</code> 打开详情。默认每页显示 50 条结果。</div>
+                        <div class="search-hint">输入主题、作者或方法词；默认每页显示 20 条，减少长页面滚动。</div>
                         <button id="clear-query" type="button" class="ghost-btn">清空关键词</button>
                     </div>
                     <div class="search-options-grid">
@@ -202,7 +201,7 @@
                     <h2>年份入口</h2>
                     <div id="year-grid" class="year-grid"></div>
                 </section>
-                <section style="margin-top: 24px;">
+                <section class="browse-article-section">
                     <div class="browse-header">
                         <h2>文章列表</h2>
                         <div class="toolbar-controls">
