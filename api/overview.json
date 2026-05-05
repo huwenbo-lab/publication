@@ -1,30 +1,32 @@
 {
-  "generated_at": "2026-04-13T04:29:11",
+  "generated_at": "2026-05-05T19:57:19",
   "site_base": "https://huwenbo-lab.github.io/publication",
   "raw_base": "https://raw.githubusercontent.com/huwenbo-lab/publication/main",
-  "total_articles": 35256,
-  "articles_with_doi": 35180,
+  "total_articles": 32486,
+  "articles_with_doi": 32410,
   "total_journals": 25,
   "year_range": {
     "min": 1896,
     "max": 2026
   },
   "summary": {
-    "total_articles": 35256,
+    "total_articles": 32486,
     "total_journals": 25,
     "year_min": 1896,
     "year_max": 2026,
-    "articles_with_abstract": 27671,
-    "articles_missing_abstract": 7585,
-    "abstract_coverage_rate": 0.7849,
-    "records_with_doi": 35183,
-    "doi_coverage_rate": 0.9979,
-    "unique_article_json": 35180
+    "articles_with_abstract": 27466,
+    "articles_missing_abstract": 5020,
+    "abstract_coverage_rate": 0.8455,
+    "records_with_doi": 32413,
+    "doi_coverage_rate": 0.9978,
+    "unique_article_json": 32410
   },
   "resources": {
     "articles_json": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/articles.json",
     "lit_db_overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
     "journals_index": "https://huwenbo-lab.github.io/publication/api/journals.json",
+    "browse_index": "https://huwenbo-lab.github.io/publication/api/browse.json",
+    "authors_index": "https://huwenbo-lab.github.io/publication/api/authors.json",
     "dashboard": "https://huwenbo-lab.github.io/publication/api/dashboard.json"
   }
 }

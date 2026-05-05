@@ -1,7 +1,7 @@
 # European Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **405** 篇
+共 **404** 篇
 
 ---
 
@@ -499,11 +499,6 @@
 **年份**: 2024 | **DOI**: [10.1093/esr/jcae009](https://doi.org/10.1093/esr/jcae009)
 **作者**: Yang, Yongzheng; Wiepking, Pamala; Badertscher, Katherine
 **摘要**: In contexts with high-income inequality, are people more or less inclined to support those in need through philanthropy? Using data from the 2016 wave of the China Labor-Force Dynamics Study, this study examines (i) how income inequality is associated with charitable giving to high-redistributive (e…
-
-### Response to: 'Signals, Educational Decision-Making, and Inequality': a comment on the formal model by Holm, Hjorth-Trolle, and Jæger
-**年份**: 2024 | **DOI**: [10.1093/esr/jcae005](https://doi.org/10.1093/esr/jcae005)
-**作者**: Holm, Anders; Hjort-Trolle, Anders; Meier Jaeger, Mads
-**摘要**: In this rejoinder, we engage in the discussion raised by about the assumptions in the theoretical models in and how the implications of the theory are handled. Our original model proposes that students use signals about academic ability to make inferences about the costs and benefits of different ed…
 
 ### Kinship, heritage, and ethnic choice: ethnolinguistic registration across four generations in contemporary Finland
 **年份**: 2024 | **DOI**: [10.1093/esr/jcae006](https://doi.org/10.1093/esr/jcae006)

@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2010–2019 年文章（含摘要）
 
-共 **1234** 篇
+共 **1190** 篇
 
 ---
 
@@ -560,11 +560,6 @@
 **作者**: Yahirun, Jenjira J.
 **摘要**: Research indicates that when adult children marry, ties to parents weaken. Yet less is known about how spousal characteristics, and specifically, spouse's race or ethnicity, affect ties to the family of origin.…
 
-### Response styles confound the age gradient of four health and well-being outcomes
-**年份**: 2019 | **DOI**: [10.1016/j.ssresearch.2018.12.004](https://doi.org/10.1016/j.ssresearch.2018.12.004)
-**作者**: Stone, Arthur A.; Schneider, Stefan; Junghaenel, Doerte U. 等4人
-**摘要**: Objectives: Accurate representation of the association of health and well-being outcomes over age can inform us about how well the population is doing, where segments of the population may be in need, and allow hypothesis generation about correlates and causes of observed gradients.…
-
 ### Scholarly culture: How books in adolescence enhance adult literacy, numeracy and technology skills in 31 societies
 **年份**: 2019 | **DOI**: [10.1016/j.ssresearch.2018.10.003](https://doi.org/10.1016/j.ssresearch.2018.10.003)
 **作者**: Sikora, Joanna; Evans, M. D. R.; Kelley, Jonathan
@@ -664,11 +659,6 @@
 **年份**: 2018 | **DOI**: [10.1016/j.ssresearch.2018.06.007](https://doi.org/10.1016/j.ssresearch.2018.06.007)
 **作者**: Khan, Bilal; Lee, Hsuan-Wei; Thrash, Courtney R. 等4人
 **摘要**: Human agency has been a focus of philosophical and sociological concern from early debates about free will to recent themes in poststructuralism. Debates over the proper understanding of structure, agency, and constraint are hindered by the fact that few if any empirical measures of these concepts h…
-
-### The diversity Wave:A meta-analysis of the native-born white response to ethnic diversity
-**年份**: 2018 | **DOI**: [10.1016/j.ssresearch.2018.07.008](https://doi.org/10.1016/j.ssresearch.2018.07.008)
-**作者**: Kaufmann, Eric; Goodwin, Matthew J.
-**摘要**: Does ethnic diversity increase or reduce white threat perceptions? Meta-analyses help orient a field and communicate findings to policymakers. We report the results of a meta-analysis of studies measuring the relationship between ethnic context and both opposition to immigration and support for anti…
 
 ### International visibility as determinants of foreign direct investment: An empirical study of Chinese Provinces
 **年份**: 2018 | **DOI**: [10.1016/j.ssresearch.2018.08.005](https://doi.org/10.1016/j.ssresearch.2018.08.005)
@@ -1025,11 +1015,6 @@
 **作者**: Lucas, Samuel R.
 **摘要**: （暂无）
 
-### Response: Issues surrounding Effectively Maintained Inequality and educational transitions
-**年份**: 2018 | **DOI**: [10.1016/j.ssresearch.2017.08.013](https://doi.org/10.1016/j.ssresearch.2017.08.013)
-**作者**: Marks, Gary N.
-**摘要**: （暂无）
-
 ### Obesity and gender as status beliefs
 **年份**: 2018 | **DOI**: [10.1016/j.ssresearch.2017.12.004](https://doi.org/10.1016/j.ssresearch.2017.12.004)
 **作者**: Gordon, Heather L.; Walker, Lisa Slattery; Gur, Shahar 等4人
@@ -1335,11 +1320,6 @@
 **作者**: Landale, Nancy S.; Oropesa, R. S.; Noah, Aggie J.
 **摘要**: Despite its recent slowdown, immigration from Latin America continues to be a controversial issue. Some scholars argue that the social climate is increasingly inhospitable to Latinos, potentially fueling discriminatory attitudes and behaviors.…
 
-### Occupy the government: Analyzing presidential and congressional discursive response to movement repression
-**年份**: 2017 | **DOI**: [10.1016/j.ssresearch.2017.07.001](https://doi.org/10.1016/j.ssresearch.2017.07.001)
-**作者**: Mausolr, Joshua Gary
-**摘要**: I examine the role of Occupy Wall Street in shifting presidential and congressional discourse on economic fairness and inequality. Using data from 4646 presidential speeches and 1256 congressional records from 2009 to 2015, I test different mechanisms, including repression, media coverage, public op…
-
 ### Intergenerational relations before and after offspring arrive: A within-person investigation
 **年份**: 2017 | **DOI**: [10.1016/j.ssresearch.2017.08.001](https://doi.org/10.1016/j.ssresearch.2017.08.001)
 **作者**: Tanskanen, Antti O.
@@ -1599,11 +1579,6 @@
 **年份**: 2017 | **DOI**: [10.1016/j.ssresearch.2016.10.015](https://doi.org/10.1016/j.ssresearch.2016.10.015)
 **作者**: Erving, Christy L.
 **摘要**: Few studies examine the co-occurrence of physical and psychiatric health problems (physical-psychiatric comorbidity), and whether these patterns differ across social groups. Using the National Comorbidity Survey-Replication and National Latino and Asian American Study, the current study asks: what a…
-
-### Using item response theory to optimize measurement of chronic stress in pregnancy
-**年份**: 2017 | **DOI**: [10.1016/j.ssresearch.2016.12.003](https://doi.org/10.1016/j.ssresearch.2016.12.003)
-**作者**: Borders, Ann E. B.; Lai, Jin-Shei; Wolfe, Kaitlin 等9人
-**摘要**: Objective: Utilize Rasch analysis to develop an optimized self-reported measure of stress in pregnancy and examine the association with patient demographics and biologic measures of stress. Study design: Measured self-reported stress in pregnant women using 12 existing scales.…
 
 ### Breastfeeding, overweight status, and inflammation
 **年份**: 2017 | **DOI**: [10.1016/j.ssresearch.2016.10.005](https://doi.org/10.1016/j.ssresearch.2016.10.005)
@@ -2914,11 +2889,6 @@
 **作者**: Huhe, Narisong; Chen, Jie; Tang, Min
 **摘要**: （暂无）
 
-### Should we trust survey data? Assessing response simplification and data fabrication
-**年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2015.03.006](https://doi.org/10.1016/j.ssresearch.2015.03.006)
-**作者**: Blasius, Jörg; Thiessen, Victor
-**摘要**: （暂无）
-
 ### Career pathways for temporary workers: Exploring heterogeneous mobility dynamics with sequence analysis
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.11.003](https://doi.org/10.1016/j.ssresearch.2014.11.003)
 **作者**: Fuller, Sylvia; Stecy-Hildebrandt, Natasha
@@ -3094,11 +3064,6 @@
 **作者**: Luke, David J.; Oser, Carrie B.
 **摘要**: （暂无）
 
-### Adult non-response bias from a child perspective. Using child reports to estimate father’s non-response
-**年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.07.004](https://doi.org/10.1016/j.ssresearch.2014.07.004)
-**作者**: Bastaits, Kim; Pasteels, Inge; Ponnet, Koen 等4人
-**摘要**: （暂无）
-
 ### Choosing between two semi-finalists: On academic performance gap, sex category, and decision question
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2015.07.001](https://doi.org/10.1016/j.ssresearch.2015.07.001)
 **作者**: Foschi, Martha; Valenzuela, Jerilee
@@ -3187,11 +3152,6 @@
 ### Occupational stratification, job-mismatches, and child poverty: Understanding the disadvantage of Black immigrants in the US
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.11.013](https://doi.org/10.1016/j.ssresearch.2014.11.013)
 **作者**: Thomas, Kevin J.A.
-**摘要**: （暂无）
-
-### Response of sensitive behaviors to frequent measurement
-**年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.07.002](https://doi.org/10.1016/j.ssresearch.2014.07.002)
-**作者**: Axinn, William G.; Jennings, Elyse A.; Couper, Mick P.
 **摘要**: （暂无）
 
 ### Does residential mobility improve educational outcomes? Evidence from the Netherlands
@@ -3529,11 +3489,6 @@
 **作者**: Mandemakers, Jornt J.; Kalmijn, Matthijs
 **摘要**: （暂无）
 
-### WITHDRAWN: Issues surrounding Effectively Maintained Inequality and educational transitions: A response to Lucas
-**年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2014.03.001](https://doi.org/10.1016/j.ssresearch.2014.03.001)
-**作者**: Marks, Gary N.
-**摘要**: （暂无）
-
 ### Are white evangelical Protestants lower class? A partial test of church-sect theory
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2014.02.010](https://doi.org/10.1016/j.ssresearch.2014.02.010)
 **作者**: Schwadel, Philip
@@ -3799,10 +3754,6 @@
 **作者**: Lizardo, Omar
 **摘要**: （暂无）
 
-### Cover 2/Editorial Board
-**年份**: 2013 | **DOI**: [10.1016/s0049-089x(13)00007-0](https://doi.org/10.1016/s0049-089x(13)00007-0)
-**摘要**: （暂无）
-
 ### Categorical sources of varieties of network inequalities
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2013.04.002](https://doi.org/10.1016/j.ssresearch.2013.04.002)
 **作者**: Chua, Vincent
@@ -3938,11 +3889,6 @@
 **作者**: Marks, Gary N.
 **摘要**: （暂无）
 
-### Intra-individual variation of extreme response style in mixed-mode panel studies
-**年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2013.01.002](https://doi.org/10.1016/j.ssresearch.2013.01.002)
-**作者**: Aichholzer, Julian
-**摘要**: It is well known that the self-report survey method suffers from many idiosyncratic biases, such as varying response styles due to different survey modes used. Using latent state-trait theory it is argued that response styles will also vary intra-individually, depending on the particular survey situ…
-
 ### Across the continuum of satisfaction with work–family balance: Work hours, flexibility-fit, and work–family culture
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2012.10.002](https://doi.org/10.1016/j.ssresearch.2012.10.002)
 **作者**: McNamara, Tay K.; Pitt-Catsouphes, Marcie; Matz-Costa, Christina 等5人
@@ -3978,10 +3924,6 @@
 **作者**: Bates, Littisha A.; Glick, Jennifer E.
 **摘要**: （暂无）
 
-### Cover 2/Editorial Board
-**年份**: 2013 | **DOI**: [10.1016/s0049-089x(13)00034-3](https://doi.org/10.1016/s0049-089x(13)00034-3)
-**摘要**: （暂无）
-
 ### Family structure and adolescent alcohol use problems: Extending popular explanations to American Indians
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2013.06.007](https://doi.org/10.1016/j.ssresearch.2013.06.007)
 **作者**: Eitle, Tamela McNulty; Johnson-Jennings, Michelle; Eitle, David J.
@@ -3995,10 +3937,6 @@
 ### Two theories on the test bench: Internal and external validity of the theories of Ronald Inglehart and Shalom Schwartz
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2012.12.009](https://doi.org/10.1016/j.ssresearch.2012.12.009)
 **作者**: Datler, Georg; Jagodzinski, Wolfgang; Schmidt, Peter
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2013 | **DOI**: [10.1016/s0049-089x(12)00230-x](https://doi.org/10.1016/s0049-089x(12)00230-x)
 **摘要**: （暂无）
 
 ### Understanding selection bias, time-lags and measurement bias in secondary data sources: Putting the Encyclopedia of Associations database in broader context
@@ -4019,10 +3957,6 @@
 ### Social origins, hukou conversion, and the wellbeing of urban residents in contemporary China
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2012.08.004](https://doi.org/10.1016/j.ssresearch.2012.08.004)
 **作者**: Zhang, Zhuoni; Treiman, Donald J.
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2013 | **DOI**: [10.1016/s0049-089x(13)00068-9](https://doi.org/10.1016/s0049-089x(13)00068-9)
 **摘要**: （暂无）
 
 ### Immigrant and native financial well-being: The roles of place of education and race/ethnicity
@@ -4168,10 +4102,6 @@
 ### The family, neuroscience, and academic skills: An interdisciplinary account of social class gaps in children’s test scores
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2012.09.009](https://doi.org/10.1016/j.ssresearch.2012.09.009)
 **作者**: Potter, Daniel; Mashburn, Andrew; Grissmer, David
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2013 | **DOI**: [10.1016/s0049-089x(13)00098-7](https://doi.org/10.1016/s0049-089x(13)00098-7)
 **摘要**: （暂无）
 
 ### Occupational status of partnered gay men and lesbians in the Netherlands: How to explain the gap with men and women in heterosexual couples?
@@ -4434,10 +4364,6 @@
 **作者**: Zheng, Hui; Land, Kenneth C.
 **摘要**: （暂无）
 
-### Cover 2/Editorial Board
-**年份**: 2012 | **DOI**: [10.1016/s0049-089x(12)00006-3](https://doi.org/10.1016/s0049-089x(12)00006-3)
-**摘要**: （暂无）
-
 ### Introductory remarks
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.08.006](https://doi.org/10.1016/j.ssresearch.2012.08.006)
 **作者**: Wright, James D.
@@ -4463,11 +4389,6 @@
 **作者**: Price, Heather E.; Collett, Jessica L.
 **摘要**: （暂无）
 
-### Item non-response in open-ended questions: Who does not answer on the meaning of left and right?
-**年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.07.006](https://doi.org/10.1016/j.ssresearch.2012.07.006)
-**作者**: Scholz, Evi; Zuell, Cornelia
-**摘要**: （暂无）
-
 ### Examining fear and stress as mediators between disorder perceptions and personal health, depression, and anxiety
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.06.005](https://doi.org/10.1016/j.ssresearch.2012.06.005)
 **作者**: Wallace, Danielle
@@ -4491,14 +4412,6 @@
 ### Who is the better applicant? Effects from gender, academic record, and type of decision
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.02.001](https://doi.org/10.1016/j.ssresearch.2012.02.001)
 **作者**: Foschi, Martha; Valenzuela, Jerilee
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2012 | **DOI**: [10.1016/s0049-089x(12)00206-2](https://doi.org/10.1016/s0049-089x(12)00206-2)
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2012 | **DOI**: [10.1016/s0049-089x(12)00125-1](https://doi.org/10.1016/s0049-089x(12)00125-1)
 **摘要**: （暂无）
 
 ### Women’s status and carbon dioxide emissions: A quantitative cross-national analysis
@@ -4531,11 +4444,6 @@
 **作者**: Cheadle, Jacob E.; Sittner Hartshorn, Kelley J.
 **摘要**: （暂无）
 
-### Happiness inequality: Adding meaning to numbers – A reply to Veenhoven and Kalmijn
-**年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.02.006](https://doi.org/10.1016/j.ssresearch.2012.02.006)
-**作者**: Delhey, Jan; Kohler, Ulrich
-**摘要**: （暂无）
-
 ### Same-sex parenting and children’s outcomes: A closer examination of the American psychological association’s brief on lesbian and gay parenting
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.03.006](https://doi.org/10.1016/j.ssresearch.2012.03.006)
 **作者**: Marks, Loren
@@ -4554,11 +4462,6 @@
 ### Motivation vs. relevance: Using strong ties to find a job in Urban China
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2011.12.010](https://doi.org/10.1016/j.ssresearch.2011.12.010)
 **作者**: Obukhova, Elena
-**摘要**: （暂无）
-
-### The proportional odds with partial proportionality constraints model for ordinal response variables
-**年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2011.09.003](https://doi.org/10.1016/j.ssresearch.2011.09.003)
-**作者**: Fullerton, Andrew S.; Xu, Jun
 **摘要**: （暂无）
 
 ### Further comments on the papers by Marks and Regnerus
@@ -4604,11 +4507,6 @@
 ### Workplace racial composition, perceived discrimination, and organizational attachment
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2011.11.016](https://doi.org/10.1016/j.ssresearch.2011.11.016)
 **作者**: Stainback, Kevin; Irvin, Matthew
-**摘要**: （暂无）
-
-### Understanding the resilience of mail-back survey methods: An analysis of 20years of change in response rates to national park surveys
-**年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.06.004](https://doi.org/10.1016/j.ssresearch.2012.06.004)
-**作者**: Rookey, Bryan D.; Le, Lena; Littlejohn, Margaret 等4人
 **摘要**: （暂无）
 
 ### The sociology of ecologically unequal exchange and carbon dioxide emissions, 1960–2005
@@ -4730,15 +4628,6 @@
 **作者**: Pharris-Ciurej, Nikolas; Hirschman, Charles; Willhoft, Joseph
 **摘要**: （暂无）
 
-### Cover 2/Editorial Board
-**年份**: 2012 | **DOI**: [10.1016/s0049-089x(12)00081-6](https://doi.org/10.1016/s0049-089x(12)00081-6)
-**摘要**: （暂无）
-
-### Doubling up when times are tough: A study of obligations to share a home in response to economic hardship
-**年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.05.008](https://doi.org/10.1016/j.ssresearch.2012.05.008)
-**作者**: Seltzer, Judith A.; Lau, Charles Q.; Bianchi, Suzanne M.
-**摘要**: （暂无）
-
 ### Implicit and explicit interethnic attitudes and ethnic discrimination in hiring
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2011.09.007](https://doi.org/10.1016/j.ssresearch.2011.09.007)
 **作者**: Blommaert, Lieselotte; van Tubergen, Frank; Coenders, Marcel
@@ -4819,16 +4708,6 @@
 **作者**: Grubesic, Tony H.; Mack, Elizabeth A.; Kaylen, Maria T.
 **摘要**: （暂无）
 
-### The Editorial Process and Politicized Scholarship: Monday Morning Editorial Quarterbacking and a Call for Scientific Vigilance
-**年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.08.007](https://doi.org/10.1016/j.ssresearch.2012.08.007)
-**作者**: Sherkat, Darren E.
-**摘要**: （暂无）
-
-### Response to Paul Amato, David Eggebeen, and Cynthia Osborne
-**年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.05.003](https://doi.org/10.1016/j.ssresearch.2012.05.003)
-**作者**: Regnerus, Mark
-**摘要**: （暂无）
-
 ### Methodological decisions and the evaluation of possible effects of different family structures on children: The new family structures survey (NFSS)
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.08.011](https://doi.org/10.1016/j.ssresearch.2012.08.011)
 **作者**: Schumm, Walter R.
@@ -4837,11 +4716,6 @@
 ### Understanding the geography of food stamp program participation: Do space and place matter?
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2011.10.001](https://doi.org/10.1016/j.ssresearch.2011.10.001)
 **作者**: Slack, Tim; Myers, Candice A.
-**摘要**: （暂无）
-
-### Estimating the prevalence of xenophobia and anti-Semitism in Germany: A comparison of randomized response and direct questioning
-**年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.05.015](https://doi.org/10.1016/j.ssresearch.2012.05.015)
-**作者**: Krumpal, Ivar
 **摘要**: （暂无）
 
 ### The medicine is worse than the disease: Comment on Delhey and Kohler’s proposal to measure inequality in happiness using ‘instrument-effect-corrected’ standard deviations
@@ -4879,10 +4753,6 @@
 **作者**: Kort-Butler, Lisa A.; Tyler, Kimberly A.
 **摘要**: （暂无）
 
-### Cover 2/Editorial Board
-**年份**: 2012 | **DOI**: [10.1016/s0049-089x(12)00038-5](https://doi.org/10.1016/s0049-089x(12)00038-5)
-**摘要**: （暂无）
-
 ### Family structure and the intergenerational transmission of educational advantage
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2011.07.005](https://doi.org/10.1016/j.ssresearch.2011.07.005)
 **作者**: Martin, Molly A.
@@ -4901,10 +4771,6 @@
 ### Family structure and obesity in early childhood
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.01.007](https://doi.org/10.1016/j.ssresearch.2012.01.007)
 **作者**: Schmeer, Kammi K.
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2012 | **DOI**: [10.1016/s0049-089x(11)00183-9](https://doi.org/10.1016/s0049-089x(11)00183-9)
 **摘要**: （暂无）
 
 ### The link between unemployment and crime rate fluctuations: An analysis at the county, state, and national levels
@@ -5031,11 +4897,6 @@
 **作者**: Flashman, Jennifer
 **摘要**: （暂无）
 
-### Latent class analysis of response inconsistencies across modes of data collection
-**年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.05.006](https://doi.org/10.1016/j.ssresearch.2012.05.006)
-**作者**: Yan, Ting; Kreuter, Frauke; Tourangeau, Roger
-**摘要**: （暂无）
-
 ### Parenthood and psychological well-being: Clarifying the role of child age and parent–child relationship quality
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2011.08.001](https://doi.org/10.1016/j.ssresearch.2011.08.001)
 **作者**: Nomaguchi, Kei M.
@@ -5051,18 +4912,9 @@
 **作者**: Marquart-Pyatt, Sandra T.
 **摘要**: （暂无）
 
-### Cover 2/Editorial Board
-**年份**: 2011 | **DOI**: [10.1016/s0049-089x(10)00253-x](https://doi.org/10.1016/s0049-089x(10)00253-x)
-**摘要**: （暂无）
-
 ### The growth of survey research in the United States: Government-sponsored surveys, 1984–2004
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2011.04.004](https://doi.org/10.1016/j.ssresearch.2011.04.004)
 **作者**: Presser, Stanley; McCulloch, Susan
-**摘要**: （暂无）
-
-### Response effects to attitudinal questions about domestic violence against women: A comparative perspective
-**年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2010.12.009](https://doi.org/10.1016/j.ssresearch.2010.12.009)
-**作者**: Yount, Kathryn M.; Halim, Nafisa; Hynes, Michelle 等4人
 **摘要**: （暂无）
 
 ### Metropolitan influences on migration into poor and nonpoor neighborhoods
@@ -5133,10 +4985,6 @@
 ### The effect of immigration on religious belief and practice: A theologizing or alienating experience?
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2010.04.012](https://doi.org/10.1016/j.ssresearch.2010.04.012)
 **作者**: Massey, Douglas S.; Higgins, Monica Espinoza
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2011 | **DOI**: [10.1016/s0049-089x(11)00006-8](https://doi.org/10.1016/s0049-089x(11)00006-8)
 **摘要**: （暂无）
 
 ### The persistence of skin color discrimination for immigrants
@@ -5308,11 +5156,6 @@
 **作者**: Savelkoul, Michael; Gesthuizen, Maurice; Scheepers, Peer
 **摘要**: （暂无）
 
-### Race at the top: How companies shape the inclusion of African Americans on their boards in response to institutional pressures
-**年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2010.10.007](https://doi.org/10.1016/j.ssresearch.2010.10.007)
-**作者**: Rose, Clayton S.; Bielby, William T.
-**摘要**: （暂无）
-
 ### Non-Hispanics with Latin American ancestry: Assimilation, race, and identity among Latin American descendants in the US
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2011.06.002](https://doi.org/10.1016/j.ssresearch.2011.06.002)
 **作者**: Emeka, Amon; Vallejo, Jody Agius
@@ -5321,10 +5164,6 @@
 ### Implicit racial bias and prosocial behavior
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2011.02.004](https://doi.org/10.1016/j.ssresearch.2011.02.004)
 **作者**: Stepanikova, Irena; Triplett, Jennifer; Simpson, Brent
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2011 | **DOI**: [10.1016/s0049-089x(11)00145-1](https://doi.org/10.1016/s0049-089x(11)00145-1)
 **摘要**: （暂无）
 
 ### Ethnic social capital: Individual and group level sources and their economic consequences
@@ -5350,10 +5189,6 @@
 ### Underestimating busyness: Indications of nonresponse bias due to work–family conflict and time pressure
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2011.06.004](https://doi.org/10.1016/j.ssresearch.2011.06.004)
 **作者**: Vercruyssen, Anina; Roose, Henk; Putte, Bart Van de
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2011 | **DOI**: [10.1016/s0049-089x(11)00122-0](https://doi.org/10.1016/s0049-089x(11)00122-0)
 **摘要**: （暂无）
 
 ### Are we keeping the people who used to stay? Changes in correlates of panel survey attrition over time
@@ -5449,10 +5284,6 @@
 ### Unraveling the effect of offender citizenship status on federal sentencing outcomes
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2010.09.013](https://doi.org/10.1016/j.ssresearch.2010.09.013)
 **作者**: Wolfe, Scott E.; Pyrooz, David C.; Spohn, Cassia C.
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2011 | **DOI**: [10.1016/s0049-089x(11)00078-0](https://doi.org/10.1016/s0049-089x(11)00078-0)
 **摘要**: （暂无）
 
 ### Comparisons of the success of racial minority immigrant offspring in the United States, Canada and Australia
@@ -5575,10 +5406,6 @@
 **作者**: Zeiser, Kristina L.
 **摘要**: （暂无）
 
-### Cover 2/Editorial Board
-**年份**: 2011 | **DOI**: [10.1016/s0049-089x(11)00041-x](https://doi.org/10.1016/s0049-089x(11)00041-x)
-**摘要**: （暂无）
-
 ### Investigating the organizational sources of high-wage earnings growth and rising inequality
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2010.11.005](https://doi.org/10.1016/j.ssresearch.2010.11.005)
 **作者**: Hanley, Caroline
@@ -5662,10 +5489,6 @@
 ### Why are some more peer than others? Evidence from a longitudinal study of social networks and individual academic performance
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2011.06.010](https://doi.org/10.1016/j.ssresearch.2011.06.010)
 **作者**: Lomi, Alessandro; Snijders, Tom A.B.; Steglich, Christian E.G. 等4人
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2010 | **DOI**: [10.1016/s0049-089x(10)00087-6](https://doi.org/10.1016/s0049-089x(10)00087-6)
 **摘要**: （暂无）
 
 ### Parental family experiences, the timing of first sex, and contraception
@@ -5947,10 +5770,6 @@
 **作者**: Wright, James D.
 **摘要**: （暂无）
 
-### Cover 2/Editorial Board
-**年份**: 2010 | **DOI**: [10.1016/s0049-089x(09)00108-2](https://doi.org/10.1016/s0049-089x(09)00108-2)
-**摘要**: （暂无）
-
 ### Does extensivity form part of the altruistic personality? An empirical test of Oliner and Oliner’s theory
 **年份**: 2010 | **DOI**: [10.1016/j.ssresearch.2009.02.003](https://doi.org/10.1016/j.ssresearch.2009.02.003)
 **作者**: Einolf, Christopher J.
@@ -5974,10 +5793,6 @@
 ### Steven Nock’s enduring legacy as a marriage and family scholar
 **年份**: 2010 | **DOI**: [10.1016/j.ssresearch.2010.06.011](https://doi.org/10.1016/j.ssresearch.2010.06.011)
 **作者**: Amato, Paul R.
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2010 | **DOI**: [10.1016/s0049-089x(10)00229-2](https://doi.org/10.1016/s0049-089x(10)00229-2)
 **摘要**: （暂无）
 
 ### Place of education, gender disparity, and assimilation of immigrant scientists and engineers earnings
@@ -6035,10 +5850,6 @@
 **作者**: Long, Mark C.; Tienda, Marta
 **摘要**: （暂无）
 
-### Cover 2/Editorial Board
-**年份**: 2010 | **DOI**: [10.1016/s0049-089x(10)00045-1](https://doi.org/10.1016/s0049-089x(10)00045-1)
-**摘要**: （暂无）
-
 ### Inequalities in network structures
 **年份**: 2010 | **DOI**: [10.1016/j.ssresearch.2009.05.006](https://doi.org/10.1016/j.ssresearch.2009.05.006)
 **作者**: Whitmeyer, Joseph M.; Wittek, Rafael
@@ -6052,10 +5863,6 @@
 ### Mapping prison proliferation: Region, rurality, race and disadvantage in prison placement
 **年份**: 2010 | **DOI**: [10.1016/j.ssresearch.2010.03.001](https://doi.org/10.1016/j.ssresearch.2010.03.001)
 **作者**: Eason, John
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2010 | **DOI**: [10.1016/s0049-089x(10)00139-0](https://doi.org/10.1016/s0049-089x(10)00139-0)
 **摘要**: （暂无）
 
 ### Grounds for citizenship: Public attitudes in comparative perspective
@@ -6111,10 +5918,6 @@
 ### The risk of assimilating? Alcohol use among immigrant and U.S.-born Mexican youth
 **年份**: 2010 | **DOI**: [10.1016/j.ssresearch.2009.07.001](https://doi.org/10.1016/j.ssresearch.2009.07.001)
 **作者**: Warner, Tara D.; Fishbein, Diana H.; Krebs, Christopher P.
-**摘要**: （暂无）
-
-### Cover 2/Editorial Board
-**年份**: 2010 | **DOI**: [10.1016/s0049-089x(09)00127-6](https://doi.org/10.1016/s0049-089x(09)00127-6)
 **摘要**: （暂无）
 
 ### Food insecurity and disability: Do economic resources matter?

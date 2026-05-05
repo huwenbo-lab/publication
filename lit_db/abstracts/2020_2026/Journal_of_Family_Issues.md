@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2020–2026 年文章（含摘要）
 
-共 **731** 篇
+共 **730** 篇
 
 ---
 
@@ -2659,11 +2659,6 @@
 **年份**: 2021 | **DOI**: [10.1177/0192513X20918616](https://doi.org/10.1177/0192513X20918616)
 **作者**: Charbonneau, Andreanne; Lachance-Grzela, Mylene; Bouchard, Genevieve
 **摘要**: Young adults increasingly express a desire to create egalitarian romantic partnerships, yet numerous studies have shown that women generally continue to assume the lion's share of housework.…
-
-### Paternal Response to Ultrasound Predicts Increased Paternal-Fetal Attachment
-**年份**: 2021 | **DOI**: [10.1177/0192513X21993197](https://doi.org/10.1177/0192513X21993197)
-**作者**: Tolman, Richard M.; Walsh, Tova; Bybee, Deborah 等7人
-**摘要**: Utilizing data from a longitudinal online survey of couples expecting their first child, this study sought to examine the trajectory of paternal-fetal attachment across the three trimesters of pregnancy.…
 
 ### The Relation of Helicopter Parenting to Maladaptive Perfectionism in Emerging Adults
 **年份**: 2021 | **DOI**: [10.1177/0192513X21993194](https://doi.org/10.1177/0192513X21993194)

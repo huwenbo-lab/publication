@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **1004** 篇 | 年份范围：1976–2026
+共 **996** 篇 | 年份范围：1976–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -106,7 +106,6 @@
 - State-Level Immigrant Policies and Ideal Family Size in the United States · [DOI](https://doi.org/10.1111/padr.12621)
 - Does Inequality Have Momentum? The Implications of Convex Inequality Regimes for Mortality Dynamics · [DOI](https://doi.org/10.1111/padr.12649)
 - Change in Fertility Intentions in the First Year of COVID-19: Evidence from Four Countries in Sub-Saharan Africa · [DOI](https://doi.org/10.1111/padr.12543)
-- Authors' Response to 'Supply-Side Versus Demand-Side Unmet Need: Implications for Family Planning Programs': A Comment · [DOI](https://doi.org/10.1111/padr.12700)
 - Child Death and Mothers' Subsequent Mental Health in a High-Mortality African Community · [DOI](https://doi.org/10.1111/padr.12682)
 - Contraceptive Change and Fertility Transition · [DOI](https://doi.org/10.1111/padr.12689)
 - Rethinking City Population Growth: How Reclassification Matters · [DOI](https://doi.org/10.1111/padr.12661)
@@ -230,7 +229,6 @@
 
 ## 2021
 
-- The Introduction of Bismarck's Social Security System and its Effects on Marriage and Fertility in Prussia · [DOI](https://doi.org/10.1111/padr.12426)
 - Son Preference, Gender Discrimination, and Missing Girls in Rural Spain, 1750-1950 · [DOI](https://doi.org/10.1111/padr.12406)
 - In Living Memory: The Demographic Dynamics of Event Recollection in a Stable Population* · [DOI](https://doi.org/10.1111/padr.12388)
 - Mobility, Stagnation, or Attrition? Diverse Earning Trajectories in a Cohort of Foreign-born Men · [DOI](https://doi.org/10.1111/padr.12368)
@@ -340,7 +338,6 @@
 - Apportionment of the US House of Representatives in 2020 under Alternative Immigration-Based Scenarios · [DOI](https://doi.org/10.1111/padr.12230)
 - International Migration: Trends, Determinants, and Policy Effects · [DOI](https://doi.org/10.1111/padr.12291)
 - The Family Safety Net of Black and White Multigenerational Families · [DOI](https://doi.org/10.1111/padr.12233)
-- A Forgotten Forerunner of Demographic Transition Theory: A Commentary · [DOI](https://doi.org/10.1111/padr.12256)
 - IPBES, 2019. Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science‐Policy Platform on Biodiversity and Ecosystem Services · [DOI](https://doi.org/10.1111/padr.12283)
 
 ## 2018
@@ -485,7 +482,6 @@
 - The Effect on Fertility of the 2003-2011 War in Iraq · [DOI](https://doi.org/10.1111/j.1728-4457.2014.00001.x)
 - Women's and Men's Relative Status and Intimate Partner Violence in India · [DOI](https://doi.org/10.1111/j.1728-4457.2014.00650.x)
 - The Recent Mortality Decline in Russia: Beginning of the Cardiovascular Revolution? · [DOI](https://doi.org/10.1111/j.1728-4457.2014.00652.x)
-- On the History of Malthusian Thought: A Review Essay · [DOI](https://doi.org/10.1111/j.1728-4457.2014.00009.x)
 - Changing Patterns of the Floating Population in China, 2000-2010 · [DOI](https://doi.org/10.1111/j.1728-4457.2014.00007.x)
 - Ayatollah Ali Khamenei on Iran's Population Policy · [DOI](https://doi.org/10.1111/j.1728-4457.2014.00708.x)
 - A Transaction Cost Approach to Outsourcing by Households · [DOI](https://doi.org/10.1111/j.1728-4457.2014.00674.x)
@@ -595,7 +591,6 @@
 - Long-Term Effects of the Demographic Transition on Family and Kinship Networks in Britain · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00378.x)
 - Steep Increase in Best-Practice Cohort Life Expectancy · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00428.x)
 - Tacit Consent: The Church and Birth Control in Northern Italy · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00414.x)
-- Introduction: The Landscape of Demographic Transition and Its Aftermath · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00375.x)
 - The Impact of the HIV/AIDS Epidemic on Kinship Resources for Orphans in Zimbabwe · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00456.x)
 - The Uncertain Timing of Reaching 8 Billion, Peak World Population, and Other Demographic Milestones · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00435.x)
 - Fiscal Externalities of Becoming a Parent · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00410.x)
@@ -628,7 +623,6 @@
 - Yearning, Learning, and Conceding: Reasons Men and Women Change Their Childbearing Intentions · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00391.x)
 - Son Preference in Rural China: Patrilineal Families and Socioeconomic Change · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00452.x)
 - Economic Inequality and Child Stunting in Bangladesh and Kenya: An Investigation of Six Hypotheses · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00453.x)
-- Toward a Comprehensive Demography: Rethinking the Research Agenda on Change and Response · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00409.x)
 - Generational Transfers and Population Aging in Latin America · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00381.x)
 - The Role of the Demographic Transition in the Process of Urbanization · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00377.x)
 - The Demise of the American Indios · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00393.x)
@@ -797,8 +791,6 @@
 - Income inequality, unequal health care access, and mortality in China · [DOI](https://doi.org/10.1111/j.1728-4457.2006.00133.x)
 - The demographic impact of a female deficit in China, 2000-2050 · [DOI](https://doi.org/10.1111/j.1728-4457.2006.00149.x)
 - The impact of past conflicts and social disruption on the elderly in Cambodia · [DOI](https://doi.org/10.1111/j.1728-4457.2006.00122.x)
-- World population 1950-2000: Perception and response · [DOI](https://doi.org/10.1111/j.1728-4457.2006.tb00002.x)
-- Cultural versus biological factors in explaining Asia's missing women: Response to Oster · [DOI](https://doi.org/10.1111/j.1728-4457.2006.00121.x)
 
 ## 2005
 

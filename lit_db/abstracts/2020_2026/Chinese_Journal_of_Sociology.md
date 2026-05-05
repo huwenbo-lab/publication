@@ -1,7 +1,7 @@
 # Chinese Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **142** 篇
+共 **141** 篇
 
 ---
 
@@ -69,11 +69,6 @@
 **年份**: 2025 | **DOI**: [10.1177/2057150X251335102](https://doi.org/10.1177/2057150X251335102)
 **作者**: Sheng, He; Li, Jianxin
 **摘要**: The current low fertility rate in China has become a recognized fact, and the change in attitudes towards childbearing is one of the key reasons for it. Childbearing motivations are an important component of childbearing attitudes and are at the forefront of the sequence from childbearing attitudes …
-
-### Performing sacredness: The Touqi Public Memorial Ceremony as a cultural response to Chinese major disasters (2010-2019)
-**年份**: 2025 | **DOI**: [10.1177/2057150X251330727](https://doi.org/10.1177/2057150X251330727)
-**作者**: Liu, Zikun
-**摘要**: In ancient China, the Touqi Memorial Ceremony was a customary practice that memorialized deceased relatives. However, during the early period of the People's Republic of China, the funeral system underwent reforms, and folk beliefs were temporarily labeled as superstition and largely dismissed.…
 
 ### Heterogeneous treatment effects of parental migration on the cognitive ability of rural left-behind children in China
 **年份**: 2025 | **DOI**: [10.1177/2057150X251382369](https://doi.org/10.1177/2057150X251382369)

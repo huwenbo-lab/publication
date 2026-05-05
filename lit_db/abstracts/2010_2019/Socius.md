@@ -1,7 +1,7 @@
 # Socius
 ## 2010–2019 年文章（含摘要）
 
-共 **289** 篇
+共 **285** 篇
 
 ---
 
@@ -9,11 +9,6 @@
 **年份**: 2019 | **DOI**: [10.1177/2378023118815270](https://doi.org/10.1177/2378023118815270)
 **作者**: Doherty Bea, Megan
 **摘要**: Consumers’ expectations about the future of their own finances and the macroeconomy are used to forecast consumption, but forecasts do not typically account for differences by race and ethnicity.…
-
-### Introduction to the Special Collection on the Fragile Families Challenge
-**年份**: 2019 | **DOI**: [10.1177/2378023119871580](https://doi.org/10.1177/2378023119871580)
-**作者**: Salganik, Matthew J.; Lundberg, Ian; Kindel, Alexander T. 等4人
-**摘要**: The Fragile Families Challenge is a scientific mass collaboration designed to measure and understand the predictability of life trajectories. Participants in the Challenge created predictive models of six life outcomes using data from the Fragile Families and Child Wellbeing Study, a high-quality bi…
 
 ### Americans’ Perceptions of Transgender People’s Sex: Evidence from a National Survey Experiment
 **年份**: 2019 | **DOI**: [10.1177/2378023119852015](https://doi.org/10.1177/2378023119852015)
@@ -324,11 +319,6 @@
 **年份**: 2019 | **DOI**: [10.1177/2378023119846249](https://doi.org/10.1177/2378023119846249)
 **作者**: Dahlin, Eric
 **摘要**: The media and popular business press often invoke narratives that reflect widespread anxiety that robots may be rendering humans obsolete in the workplace. However, upon closer examination, many argue that automation, including robotics and artificial intelligence, is spreading unevenly throughout t…
-
-### Crisis as Opportunity: Nixon’s Announcement to Close the Gold Window
-**年份**: 2019 | **DOI**: [10.1177/2378023119841812](https://doi.org/10.1177/2378023119841812)
-**作者**: Zoeller, Christoffer J. P.; Bandelj, Nina
-**摘要**: The authors reexamine the announcement of the August 1971 decision to suspend convertibility of U.S. dollars to gold, or closing of the gold window, which ended the Bretton Woods system and ushered in the neoliberal era. Existing accounts identify critical pressure on the U.S.…
 
 ### The Advantaged Cause: Affect Control Theory and Social Movements
 **年份**: 2019 | **DOI**: [10.1177/2378023119841811](https://doi.org/10.1177/2378023119841811)
@@ -900,11 +890,6 @@
 **作者**: Alvarez, Camila H.; Norton-Smith, Kathryn G.
 **摘要**: Since the 1990s, Latino migration patterns have shifted from traditional destinations to new destinations away from the Mexico border. Scholars note disparities between destinations in housing, crime, and health care, yet no study has examined environmental inequalities.…
 
-### Response to Morgan: On the Role of Status Threat and Material Interests in the 2016 Election
-**年份**: 2018 | **DOI**: [10.1177/2378023118808619](https://doi.org/10.1177/2378023118808619)
-**作者**: Mutz, Diana
-**摘要**: I am delighted to have the opportunity to respond to Morgan’s article, which is a critique of my recent publication (Mutz 2018). I will restrict my response to matters concerning the data and analysis, excluding issues such as whether the journal PNAS is appropriately named (Morgan this issue:3) as …
-
 ### “Coming Out of My Shell”: Motherleaders Contesting Fear, Vulnerability, and Despair through Family-focused Community Organizing
 **年份**: 2018 | **DOI**: [10.1177/2378023117734729](https://doi.org/10.1177/2378023117734729)
 **作者**: Cossyleon, Jennifer E.
@@ -924,11 +909,6 @@
 **年份**: 2018 | **DOI**: [10.1177/2378023118779306](https://doi.org/10.1177/2378023118779306)
 **作者**: Copp, Jennifer E.; Giordano, Peggy C.; Manning, Wendy D. 等4人
 **摘要**: The aim of the current investigation was to examine the appropriateness of propensity score methods for the study of incarceration effects on children by directing attention to a range of conceptual and practical concerns, including the exclusion of theoretically meaningful covariates, the comparabi…
-
-### Correct Interpretations of Fixed-effects Models, Specification Decisions, and Self-reports of Intended Votes: A Response to Mutz
-**年份**: 2018 | **DOI**: [10.1177/2378023118811502](https://doi.org/10.1177/2378023118811502)
-**作者**: Morgan, Stephen L.
-**摘要**: The author thanks Professor Mutz for her informative reaction to his article. In this six-part response, the author first addresses Professor Mutz’s new claim that “Morgan’s interpretation suggests a misunderstanding of the panel models.” The author explains that this concern with his understanding …
 
 ### Logics of Freedom: Debating Religious Freedom Laws and Gay and Lesbian Rights
 **年份**: 2018 | **DOI**: [10.1177/2378023118760413](https://doi.org/10.1177/2378023118760413)

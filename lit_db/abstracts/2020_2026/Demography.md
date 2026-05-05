@@ -1,7 +1,7 @@
 # Demography
 ## 2020–2026 年文章（含摘要）
 
-共 **534** 篇
+共 **532** 篇
 
 ---
 
@@ -565,11 +565,6 @@
 **作者**: Maggio, Dan iel; Karra, Mahesh; Canning, David
 **摘要**: We conduct a randomized controlled trial that provides pregnant and imme diate postpartum women with improved access to family planning through counseling, free transportation to a clinic, and financial reimbursement for family planning services over two years.…
 
-### Commentary on van Raalte et al.'s The Dangers of Drawing Cohort Profiles From Period Data: A Research Note
-**年份**: 2024 | **DOI**: [10.1215/00703370-11484875](https://doi.org/10.1215/00703370-11484875)
-**作者**: Schmertmann, Carl P.
-**摘要**: van Raalte et al. (2023) alerted demog ra phers to the poten tial dan gers of cal cu lat ing cohort mea sures from the diag o nals of gridded age-period (AP) data. In the case of cohort fer til ity, how ever, a minor change to the esti ma tion pro ce dure can mit i gate the trend and cohort size bia…
-
 ### Historical Patterns in the Intergenerational Transmission of Lifespan and Longevity: A Research Note on US Cohorts Born Between 1700 and 1900
 **年份**: 2024 | **DOI**: [10.1215/00703370-11458359](https://doi.org/10.1215/00703370-11458359)
 **作者**: Minardi, Saverio; Corti, Giulia; Barban, Nicola
@@ -944,11 +939,6 @@
 **年份**: 2023 | **DOI**: [10.1215/00703370-10952575](https://doi.org/10.1215/00703370-10952575)
 **作者**: Eddelbuettel, Julia C. P.; Sassler, Sharon
 **摘要**: An increas ingly hos tile pol icy cli mate has reshaped abor tion access the United States. Recent lit er a ture has stud ied the effects of restric tive abor tion pol- icies on reproductive health outcomes.…
-
-### Fertility and Labor Supply Responses to Child Allowances: The Introduction of Means-Tested Benefits in France
-**年份**: 2023 | **DOI**: [10.1215/00703370-10965926](https://doi.org/10.1215/00703370-10965926)
-**作者**: Elmallakh, Nelly
-**摘要**: This arti cle exam ines fer til ity and labor sup ply responses to a 2014 French pol icy reform that consisted of con di tion ing the amount of child allow ances on house- hold income.…
 
 ### Polygenic Prediction of Education and Its Role in the Intergenerational Transmission of Education: Cohort Changes Among Finn ish Men and Women Born in 1925-1989
 **年份**: 2023 | **DOI**: [10.1215/00703370-10963788](https://doi.org/10.1215/00703370-10963788)

@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2020–2026 年文章（含摘要）
 
-共 **530** 篇
+共 **527** 篇
 
 ---
 
@@ -604,10 +604,6 @@
 **年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2024.103095](https://doi.org/10.1016/j.ssresearch.2024.103095)
 **作者**: Zanasi, Francesca; Bordone, Valeria
 **摘要**: As the early years are crucial for individuals' lifelong socioeconomic success, extensive research has examined the impact of non-maternal childcare on children's development. This study aims to enhance the understanding of the relationship between grandparental involvement (defined as grandparent c…
-
-### Editorial Board
-**年份**: 2025 | **DOI**: [10.1016/s0049-089x(24)00141-8](https://doi.org/10.1016/s0049-089x(24)00141-8)
-**摘要**: （暂无）
 
 ### Field of study, political attitudes, and support for the radical right in Sweden and Europe
 **年份**: 2024 | **DOI**: [10.1016/j.ssresearch.2024.103091](https://doi.org/10.1016/j.ssresearch.2024.103091)
@@ -2209,11 +2205,6 @@
 **作者**: Burke, Peter J.; Stets, Jan E.; Savage, Scott V.
 **摘要**: In this study, we examine the effects of the structure of a network, the dominance identity of the actors, and the actors' ability to reward or punish on the use of punishment and the development of social bonds in a network.…
 
-### Estimating the proportion of non-heterosexuals in Taiwan using Christofides' randomized response model: A comparison of different estimation methods
-**年份**: 2021 | **DOI**: [10.1016/j.ssresearch.2020.102475](https://doi.org/10.1016/j.ssresearch.2020.102475)
-**作者**: Hsieh, Shu-Hui; Perri, Pier Francesco
-**摘要**: In social research, investigating sensitive, highly personal or embarrassing issues by means of standard survey techniques based on direct questioning leads to refusals to answer or false responses which, generally, flaw the validity of the analyses and produce incorrect inferences.…
-
 ### Extended gender inequality? Intergenerational coresidence and division of household labor
 **年份**: 2021 | **DOI**: [10.1016/j.ssresearch.2020.102497](https://doi.org/10.1016/j.ssresearch.2020.102497)
 **作者**: Hu, Shu; Mu, Zheng
@@ -2513,11 +2504,6 @@
 **年份**: 2020 | **DOI**: [10.1016/j.ssresearch.2019.102396](https://doi.org/10.1016/j.ssresearch.2019.102396)
 **作者**: Leibbrand, Christine; Gabriel, Ryan; Hess, Chris 等4人
 **摘要**: Considerable research has shown that, in the cross-section, segregation is associated with detrimental neighborhood outcomes for blacks and improved neighborhood outcomes for whites.…
-
-### Churning races in Canada: Visible minority response change between 2006 and 2011
-**年份**: 2020 | **DOI**: [10.1016/j.ssresearch.2019.102388](https://doi.org/10.1016/j.ssresearch.2019.102388)
-**作者**: Liebler, Carolyn A.; Hou, Feng
-**摘要**: Why do most people have stable responses to census race questions, while some do not? Using linked Canadian data, we examine personal, social, and economic characteristics that predict response stability as White or as one of six large visible minority groups, versus a change in response to/from Whi…
 
 ### The social and genetic inheritance of educational attainment: Genes, parental education, and educational expansion
 **年份**: 2020 | **DOI**: [10.1016/j.ssresearch.2019.102387](https://doi.org/10.1016/j.ssresearch.2019.102387)

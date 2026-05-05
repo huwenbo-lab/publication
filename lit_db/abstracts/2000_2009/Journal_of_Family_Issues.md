@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2000–2009 年文章（含摘要）
 
-共 **602** 篇
+共 **599** 篇
 
 ---
 
@@ -1700,11 +1700,6 @@
 **作者**: Cunningham, Mick
 **摘要**: The analysis examines the direct and indirect influences of early gender socialization on the allocation of routine housework later in the life course. The study articulates hypotheses suggesting that the relationship between gender socialization early in adulthood and housework allocation later in …
 
-### Introduction to the Special Issue
-**年份**: 2005 | **DOI**: [10.1177/0192513x05277494](https://doi.org/10.1177/0192513x05277494)
-**作者**: MacDermid, Shelley; Galinsky, Ellen; Bond, James T.
-**摘要**: （暂无）
-
 ### Adult Couples Facing a Planned or an Unplanned Pregnancy
 **年份**: 2005 | **DOI**: [10.1177/0192513x04272756](https://doi.org/10.1177/0192513x04272756)
 **作者**: Bouchard, Geneviève
@@ -1809,11 +1804,6 @@
 **年份**: 2004 | **DOI**: [10.1177/0192513x03257366](https://doi.org/10.1177/0192513x03257366)
 **作者**: Smith, Deborah B.; Moen, Phyllis
 **摘要**: This study investigates factors related to retirees’ and their spouses’ individual and joint retirement satisfaction using decision-making theory and a life course perspective. The sample includes 421 retired respondents (ages 50 to 72) and spouses from the Cornell Retirement and Well-Being Study.…
-
-### Reply to Comments by Walker, Baber, and Allen
-**年份**: 2004 | **DOI**: [10.1177/0192513x04267104](https://doi.org/10.1177/0192513x04267104)
-**作者**: Chafetz, Janet Saltzman
-**摘要**: （暂无）
 
 ### Division of Household Labor as a Source of Contention for Married and Cohabiting Couples in Metropolitan Moscow
 **年份**: 2004 | **DOI**: [10.1177/0192513x03256499](https://doi.org/10.1177/0192513x03256499)
@@ -2562,11 +2552,6 @@
 **年份**: 2001 | **DOI**: [10.1177/019251301022002003](https://doi.org/10.1177/019251301022002003)
 **作者**: MARSHALL, NANCY L.; NOONAN, ANNE E.; McCARTNEY, KATHLEEN 等5人
 **摘要**: This study examined the extent to which an urban village exists, in a sample of 206 African American, European American, and Hispanic American families with an elementary schoolaged child.…
-
-### Family Therapy's Response to Family Diversity
-**年份**: 2001 | **DOI**: [10.1177/019251301022007006](https://doi.org/10.1177/019251301022007006)
-**作者**: LESLIE, LEIGH A.; MORTON, GOLDIE
-**摘要**: As family diversity has increased in recent decades, the profession of marriage and family therapy has struggled to be responsive. The authors review efforts by marriage and family therapists in the past 30 years to incorporate an understanding of diverse families into clinical theory and practice.…
 
 ### Grandmothers Who Parent Their Grandchildren
 **年份**: 2001 | **DOI**: [10.1177/019251301022005002](https://doi.org/10.1177/019251301022005002)

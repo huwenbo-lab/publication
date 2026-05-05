@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **183** 篇
+共 **180** 篇
 
 ---
 
@@ -104,11 +104,6 @@
 **年份**: 2018 | **DOI**: [10.1177/0038040718802257](https://doi.org/10.1177/0038040718802257)
 **作者**: Langenkamp, Amy G.; Carbonaro, William
 **摘要**: Our study investigates how changing socioeconomic status (SES) composition, measured as percentage free and reduced priced lunch (FRL), affects students' math achievement growth after the transition to middle school.…
-
-### Inequality in Reading and Math Skills Forms Mainly before Kindergarten: A Replication, and Partial Correction, of Are Schools the Great Equalizer?
-**年份**: 2018 | **DOI**: [10.1177/0038040718801760](https://doi.org/10.1177/0038040718801760)
-**作者**: von Hippel, Paul T.; Workman, Joseph; Downey, Douglas B.
-**摘要**: When do children become unequal in reading and math skills? Some research claims that inequality grows mainly before school begins. Some research claims that schools cause inequality to grow.…
 
 ### A Downward Spiral? Childhood Suspension and the Path to Juvenile Arrest
 **年份**: 2018 | **DOI**: [10.1177/0038040718784603](https://doi.org/10.1177/0038040718784603)
@@ -535,11 +530,6 @@
 **作者**: Bills, David B.
 **摘要**: The spring 2009 issue of the newsletter of the Sociology of Education Section of the American Sociological Association featured a brief (about 4,000 words) essay by sociologist Steven Brint. In ‘‘The ‘Collective Mind’ at Work: A Decade in the Life of U.S.…
 
-### What Shapes the Collective Mind? A Response to Brint
-**年份**: 2013 | **DOI**: [10.1177/0038040713503305](https://doi.org/10.1177/0038040713503305)
-**作者**: Warren, John Robert
-**摘要**: （暂无）
-
 ### Sociology of Education's Cultural, Organizational, and Societal Turn
 **年份**: 2013 | **DOI**: [10.1177/0038040713503306](https://doi.org/10.1177/0038040713503306)
 **作者**: Binder, Amy J.
@@ -548,11 +538,6 @@
 ### Integrating Comparative and Theoretical Sociology of Education: A Reflection on The 'Collective Mind' at Work: A Decade in the Life of US Sociology of Education by Steven Brint
 **年份**: 2013 | **DOI**: [10.1177/0038040713503307](https://doi.org/10.1177/0038040713503307)
 **作者**: Park, Hyunjoon
-**摘要**: （暂无）
-
-### Altered States of the Collective Mind: A Response to Brint
-**年份**: 2013 | **DOI**: [10.1177/0038040713503308](https://doi.org/10.1177/0038040713503308)
-**作者**: Bills, David B.; DeLuca, Stefanie; Morgan, Stephen L.
 **摘要**: （暂无）
 
 ### The Light Bulb Test

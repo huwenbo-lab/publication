@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **226** 篇
+共 **225** 篇
 
 ---
 
@@ -1054,11 +1054,6 @@
 **年份**: 2020 | **DOI**: [10.1177/0003122420912505](https://doi.org/10.1177/0003122420912505)
 **作者**: Kristal, Tali; Cohen, Yinon; Navot, Edo
 **摘要**: This article aims to explain why inequality in fringe benefits has grown faster than wage inequality over the past four decades. We depart from previous income inequality research by studying benefits in addition to wages, but also by focusing on workplaces as the main drivers of benefit determinati…
-
-### Contraction as a Response to Group Threat: Demographic Decline and Whites' Classification of People Who Are Ambiguously White
-**年份**: 2020 | **DOI**: [10.1177/0003122420905127](https://doi.org/10.1177/0003122420905127)
-**作者**: Abascal, Maria
-**摘要**: How do members of dominant groups, like White people in the United States, react when their privileged social status is threatened, for example, by the prospect of numeric decline? Prior studies identify two sets of reactions: (1) White people identify more strongly with ingroup members, and (2) the…
 
 ### We Built This: Consequences of New Deal Era Intervention in America's Racial Geography
 **年份**: 2020 | **DOI**: [10.1177/0003122420948464](https://doi.org/10.1177/0003122420948464)

@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2010–2019 年文章（含摘要）
 
-共 **319** 篇
+共 **317** 篇
 
 ---
 
@@ -1180,11 +1180,6 @@
 **作者**: Sala, Emanuela; Terraneo, Marco; Lucchini, Mario 等4人
 **摘要**: Traditionally, social scientists have studied socio-economic inequalities mainly by looking at the impact of individuals' economic, cultural and social capital. Some scholars have recently argued that other types of resources, such as genetic and erotic capital, may also play a role in the processes…
 
-### Consequences of economic inequality: Introduction to a special issue
-**年份**: 2012 | **DOI**: [10.1016/j.rssm.2012.08.001](https://doi.org/10.1016/j.rssm.2012.08.001)
-**作者**: Van de Werfhorst, Herman G.; Salverda, Wiemer
-**摘要**: As an introduction to the papers of this special issue on Consequences of Economic inequality we first underline with a simple empirical exercise the relevance of studying the subject of consequences of economic inequality in many socially important fields.…
-
 ### Education, inequality and electoral participation
 **年份**: 2012 | **DOI**: [10.1016/j.rssm.2012.06.004](https://doi.org/10.1016/j.rssm.2012.06.004)
 **作者**: Scervini, Francesco; Segatti, Paolo
@@ -1464,11 +1459,6 @@
 **年份**: 2011 | **DOI**: [10.1016/j.rssm.2011.01.005](https://doi.org/10.1016/j.rssm.2011.01.005)
 **作者**: Brown, David K.; Bills, David B.
 **摘要**: There are a variety of relatively new, and some old and persisting, empirical issues confronting scholars of credentialing. Success in understanding these matters will be aided by greater theoretical and methodological precision and sophistication, and by avoidance of morality-driven assumptions abo…
-
-### Introduction to symposium on unmeasured heterogeneity in school transition models
-**年份**: 2011 | **DOI**: [10.1016/j.rssm.2011.05.004](https://doi.org/10.1016/j.rssm.2011.05.004)
-**作者**: Mare, Robert D.
-**摘要**: （暂无）
 
 ### The impact of intermarriage on ethnic stratification: Jews in Israel
 **年份**: 2010 | **DOI**: [10.1016/j.rssm.2010.07.003](https://doi.org/10.1016/j.rssm.2010.07.003)

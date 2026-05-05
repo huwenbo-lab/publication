@@ -9,6 +9,10 @@ api/
 ├── dashboard.json
 ├── overview.json
 ├── journals.json
+├── browse.json
+├── authors.json
+├── browse/
+│   └── by_journal_year/
 └── articles/
     └── 10.1086/
         └── 714825.json
@@ -20,4 +24,10 @@ api/
 - 最后一段加上 `.json` 后缀
 - 例如 `10.1086/714825` → `api/articles/10.1086/714825.json`
 
-当前已生成 **35,180** 个单篇 JSON 端点。
+## 浏览与作者索引
+
+- `browse.json`：期刊和年份计数总览。
+- `browse/by_journal_year/*.json`：某本期刊下各年份文章列表。
+- `authors.json`：保守规范化后的作者索引，供 Top Scholars 和作者检索使用。
+
+当前已生成 **32,410** 个单篇 JSON 端点。

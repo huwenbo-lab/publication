@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2000–2009 年文章（含摘要）
 
-共 **368** 篇
+共 **366** 篇
 
 ---
 
@@ -1510,11 +1510,6 @@
 **作者**: Ross, CE; Mirowsky, J; Pribesh, S
 **摘要**: A theory of trust is developed and tested. The theory posits that mistrust develops in neighborhoods, where resources are scarce and threat is common, and among individuals with few resources and who feel powerless to avoid or manage the threat.…
 
-### Feminist critics uncover determinism, positivism, and antiquated theory - Reply
-**年份**: 2001 | **DOI**: [10.2307/3088927](https://doi.org/10.2307/3088927)
-**作者**: Udry, JR
-**摘要**: Kanter, Rosabeth. 1977. Men and Women of the Corporation. New York: Harper and Row. Lorber, Judith. 1994. Paradoxes of New Haven, CT: Yale University Press. Maccoby, Eleanor. 1998. Two Sexes. Cambridge, MA: Belknap Press of Harvard University. Meyers, Kristen, Cynthia Anderson, and Barbara Risman.…
-
 ### Time-dependent effects of wives' employment on marital dissolution
 **年份**: 2001 | **DOI**: [10.2307/2657416](https://doi.org/10.2307/2657416)
 **作者**: South, SJ
@@ -1634,11 +1629,6 @@
 **年份**: 2000 | **DOI**: [10.2307/2657465](https://doi.org/10.2307/2657465)
 **作者**: Kanazawa, S
 **摘要**: Macy's work offers a potential solution to the paradox of voter turnout. The stochastic learning theory of voter turnout (Kanazawa 1998) posits that citizens perceive a correlation between their behavior (voting versus abstention) and the outcome of collective action (win versus loss for their candi…
-
-### Environmentalism as a global institution -: Reply to Buttel
-**年份**: 2000 | **DOI**: [10.2307/2657293](https://doi.org/10.2307/2657293)
-**作者**: Frank, DJ; Hironaka, A; Schofer, E
-**摘要**: （暂无）
 
 ### Routes to children's economic recovery after divorce: Are cohabitation and remarriage equivalent?
 **年份**: 2000 | **DOI**: [10.2307/2657383](https://doi.org/10.2307/2657383)

@@ -1,7 +1,7 @@
 # European Sociological Review
 ## 2000–2009 年文章（含摘要）
 
-共 **449** 篇
+共 **441** 篇
 
 ---
 
@@ -295,11 +295,6 @@
 **作者**: Barbieri, P.
 **摘要**: Since the crisis of the Fordist ‘golden age’ with its corollaries of stable, full-time, full-life, (male) full-employment and of full-welfare entitlements, ‘flexibility’ has become a sort of ‘magic world’ to address almost all kind of welfare-and-labour market needs for re-equilibrium.…
 
-### The Relation Between Market Forces and Employee Motivation: Consequences of the Introduction of Market Forces in the Dutch Childcare Sector
-**年份**: 2009 | **DOI**: [10.1093/esr/jcp028](https://doi.org/10.1093/esr/jcp028)
-**作者**: Plantinga, M.; Plantenga, J.; Siegers, J.
-**摘要**: The Dutch childcare sector has undergone a transition from a welfare sector into a market sector. The final step in this transition process was taken with the introduction of a new Dutch Childcare Act on 1 January 2005.…
-
 ### The Gender Composition of Workplaces and Men's and Women's Turnover
 **年份**: 2009 | **DOI**: [10.1093/esr/jcp016](https://doi.org/10.1093/esr/jcp016)
 **作者**: Bygren, M.
@@ -334,11 +329,6 @@
 **年份**: 2009 | **DOI**: [10.1093/esr/jcp008](https://doi.org/10.1093/esr/jcp008)
 **作者**: Opp, K.-D.; Kittel, B.
 **摘要**: This article addresses three largely unsolved problems in theory and research on political protest. The first problem concerns feedback effects. The common assumption is that protest is determined by various factors and does not influence its determinants.…
-
-### How Globalization Has Impacted Labour: A Review Essay
-**年份**: 2008 | **DOI**: [10.1093/esr/jcn056](https://doi.org/10.1093/esr/jcn056)
-**作者**: Spilerman, S.
-**摘要**: （暂无）
 
 ### Persistent Inequality in Educational Attainment and its Institutional Context
 **年份**: 2008 | **DOI**: [10.1093/esr/jcn026](https://doi.org/10.1093/esr/jcn026)
@@ -760,11 +750,6 @@
 **作者**: Tolsma, J.; Lubbers, M.; Coenders, M.
 **摘要**: This study investigates the relationship between characteristics of the living environment and antagonistic attitudes towards ethnic out-groups, with a focus on the explanation of opposition to ethnic intermarriage.…
 
-### Ronald S. Burt: Brokerage and Closure: An Introduction to Social Capital.
-**年份**: 2007 | **DOI**: [10.1093/esr/jcm030](https://doi.org/10.1093/esr/jcm030)
-**作者**: Comet, C.
-**摘要**: Journal Article Ronald S. Burt: Brokerage and Closure: An Introduction to Social Capital. Get access Ronald S. Burt: Brokerage and Closure: An Introduction to Social Capital.Oxford, New York: Oxford University Press, 2005. 279 pp.…
-
 ### Rational Action Theory and Educational Attainment. Changes in the Impact of Economic Resources
 **年份**: 2007 | **DOI**: [10.1093/esr/jcm029](https://doi.org/10.1093/esr/jcm029)
 **作者**: Hansen, M. N.
@@ -1124,11 +1109,6 @@
 **年份**: 2006 | **DOI**: [10.1093/esr/jcl016](https://doi.org/10.1093/esr/jcl016)
 **作者**: Chan, T. W.; Goldthorpe, J. H.
 **摘要**: In this article we use recent survey data to test three arguments on the relationship between social stratification and cultural consumption: i.e. what we label as the homology, individualization and omnivore–univore arguments.…
-
-### Causes and Consequences of Divorce: Cross-national and Cohort Differences, an Introduction to this Special Issue
-**年份**: 2006 | **DOI**: [10.1093/esr/jcl015](https://doi.org/10.1093/esr/jcl015)
-**作者**: Dronkers, J.; Kalmijn, M.; Wagner, M.
-**摘要**: Divorce and separation seem to be highly private decisions, based on considerations made by individuals and couples. The outcome of the research, presented in this special issue, shows that this is an incomplete view.…
 
 ### Social Mobility over Three Generations in Finland, 1950-2000
 **年份**: 2006 | **DOI**: [10.1093/esr/jcl027](https://doi.org/10.1093/esr/jcl027)
@@ -1574,20 +1554,10 @@
 **作者**: Predborska, I.
 **摘要**: Journal Article Youth Transitions in East and West Ukraine Get access Irina Predborska, Irina Predborska Department of Social Science, Khelmintskiy Humanities and Pedagogical Institute, Ukraine.…
 
-### Review Essay
-**年份**: 2004 | **DOI**: [10.1093/esr/jch020](https://doi.org/10.1093/esr/jch020)
-**作者**: Opp, K.-D.
-**摘要**: （暂无）
-
 ### Would Perfect Mobility be Perfect?
 **年份**: 2004 | **DOI**: [10.1093/esr/20.1.1](https://doi.org/10.1093/esr/20.1.1)
 **作者**: Swift, A.
 **摘要**: This paper explores the key normative issues raised by empirical research into social mobility and meritocracy. Typically, sociologists working in this area are motivated by a concern with matters of social justice and equality of opportunity, but that concern tends to be rather vague and diffuse, w…
-
-### Facts and Artefacts in the Comparison of Attitudes Among Ethnic Minorities. A Multigroup Latent Class Structure Model with Adjustment for Response Style Behavior
-**年份**: 2004 | **DOI**: [10.1093/esr/jch026](https://doi.org/10.1093/esr/jch026)
-**作者**: Moors, G.
-**摘要**: Journal Article Facts and Artefacts in the Comparison of Attitudes Among Ethnic Minorities. A Multigroup Latent Class Structure Model with Adjustment for Response Style Behavior Get access Guy Moors Guy Moors Faculty of Social and Behavioural Sciences, Tilburg University, PO Box 90153, 5000 LE Tilbu…
 
 ### Gisele De Meur and Benoit Rihoux: L'Analyse Quali-Quantitative Comparee (AQQC-QCA). Louvain-La-Neuve: Academia Bruylant, 2002. 175 pp.
 **年份**: 2004 | **DOI**: [10.1093/esr/jch013](https://doi.org/10.1093/esr/jch013)
@@ -1813,11 +1783,6 @@
 **年份**: 2002 | **DOI**: [10.1093/esr/18.4.417](https://doi.org/10.1093/esr/18.4.417)
 **作者**: Gunduz-Hosgor, A.
 **摘要**: Data from the Turkish Demographic and Health Surveys are used to study Turkish-Kurdish intermarriage in contemporary Turkey. We find a strong tendency to marry within the own ethnic group (or towards 'ethnic homogamy') which, however, has decreased significantly between the early 1960s and the late …
-
-### Ethnic Exclusionism in European Countries. Public Opposition to Civil Rights for Legal Migrants as a Response to Perceived Ethnic Threat
-**年份**: 2002 | **DOI**: [10.1093/esr/18.1.17](https://doi.org/10.1093/esr/18.1.17)
-**作者**: Scheepers, P.
-**摘要**: （暂无）
 
 ### The Labour-force Participation of the Wives of Unemployed Men: Comparing Britain and West Germany Using Longitudinal Data
 **年份**: 2002 | **DOI**: [10.1093/esr/18.4.473](https://doi.org/10.1093/esr/18.4.473)
@@ -2222,11 +2187,6 @@
 **年份**: 2000 | **DOI**: [10.1093/esr/16.2.137](https://doi.org/10.1093/esr/16.2.137)
 **作者**: Drobnic, S.
 **摘要**: This study focuses on the effects of children on the labour supply of married and lone mothers in the USA and Germany using individual-level longitudinal data and event-history analysis.…
-
-### Book review. The problem of solidarity: theories and models. P Doreian, T Fararo [edd]
-**年份**: 2000 | **DOI**: [10.1093/esr/16.1.115](https://doi.org/10.1093/esr/16.1.115)
-**作者**: Ostermann, A
-**摘要**: （暂无）
 
 ### Old Debate, New Evidence : Class Mobility Trends in Israeli Society, 1974-1991
 **年份**: 2000 | **DOI**: [10.1093/esr/16.2.159](https://doi.org/10.1093/esr/16.2.159)

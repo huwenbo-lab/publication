@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2010–2019 年文章（含摘要）
 
-共 **333** 篇
+共 **329** 篇
 
 ---
 
@@ -189,11 +189,6 @@
 **年份**: 2019 | **DOI**: [10.1111/padr.12233](https://doi.org/10.1111/padr.12233)
 **作者**: Park, Sung S.; Wiemers, Emily E.; Seltzer, Judith A.
 **摘要**: One of the most striking and persistent features of the American socioeconomic landscape is the disadvantaged position of African Americans relative to Whites. This study explores some of the present reasons for that disadvantage, focusing on the multigenerational family safety net.…
-
-### A Forgotten Forerunner of Demographic Transition Theory: A Commentary
-**年份**: 2019 | **DOI**: [10.1111/padr.12256](https://doi.org/10.1111/padr.12256)
-**作者**: Tolts, Mark
-**摘要**: （暂无）
 
 ### IPBES, 2019. Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science‐Policy Platform on Biodiversity and Ecosystem Services
 **年份**: 2019 | **DOI**: [10.1111/padr.12283](https://doi.org/10.1111/padr.12283)
@@ -840,11 +835,6 @@
 **作者**: Grigoriev, Pavel; Mesle, France; Shkolnikov, Vladimir M. 等7人
 **摘要**: The health situation in Russia has often been characterized as a long-running crisis. From the 1960s until the beginning of the 2000s, the declining life expectancy trend was substantially interrupted only twice: once in the mid-1980s as a result of Gorbachev's anti-alcohol campaign, and again at th…
 
-### On the History of Malthusian Thought: A Review Essay
-**年份**: 2014 | **DOI**: [10.1111/j.1728-4457.2014.00009.x](https://doi.org/10.1111/j.1728-4457.2014.00009.x)
-**作者**: Kreager, Philip
-**摘要**: （暂无）
-
 ### Changing Patterns of the Floating Population in China, 2000-2010
 **年份**: 2014 | **DOI**: [10.1111/j.1728-4457.2014.00007.x](https://doi.org/10.1111/j.1728-4457.2014.00007.x)
 **作者**: Liang, Zai; Li, Zhen; Ma, Zhongdong
@@ -1345,11 +1335,6 @@
 **作者**: Dalla-Zuanna, Gianpiero
 **摘要**: This article employs novel documentation to examine ways in which the Church's moral rules on contraception were (or were not) communicated to parishioners in a predominantly Catholic context in a period of rapid fertility decline: the diocese of Padua, in the northeastern Italian region of Veneto, …
 
-### Introduction: The Landscape of Demographic Transition and Its Aftermath
-**年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00375.x](https://doi.org/10.1111/j.1728-4457.2011.00375.x)
-**作者**: Lee, Ronald D.; Reher, David S.
-**摘要**: （暂无）
-
 ### The Impact of the HIV/AIDS Epidemic on Kinship Resources for Orphans in Zimbabwe
 **年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00456.x](https://doi.org/10.1111/j.1728-4457.2011.00456.x)
 **作者**: Zagheni, Emilio
@@ -1509,11 +1494,6 @@
 **年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00453.x](https://doi.org/10.1111/j.1728-4457.2011.00453.x)
 **作者**: Reinbold, Gary W.
 **摘要**: Consistent with the increasing focus on issues of equity in developing countries, I extend the literature analyzing the relationship between economic inequality and individual health to the developing world.…
-
-### Toward a Comprehensive Demography: Rethinking the Research Agenda on Change and Response
-**年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00409.x](https://doi.org/10.1111/j.1728-4457.2011.00409.x)
-**作者**: Charbit, Yves; Petit, Veronique
-**摘要**: This essay drafts a new interdisciplinary agenda for research on population and development. Starting from Kingsley Davis's 1963 formulation of change and response, Davis's analytical categories are broadened to include inertia as well as change and to encompass both demographic and non-demographic …
 
 ### Generational Transfers and Population Aging in Latin America
 **年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00381.x](https://doi.org/10.1111/j.1728-4457.2011.00381.x)

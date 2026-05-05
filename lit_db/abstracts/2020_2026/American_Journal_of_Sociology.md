@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **189** 篇
+共 **187** 篇
 
 ---
 
@@ -13,10 +13,6 @@
 ### : Uncertainty: Individual Problems and Public Solutions
 **年份**: 2026 | **DOI**: [10.1086/739284](https://doi.org/10.1086/739284)
 **作者**: Rilinger, Georg
-**摘要**: （暂无）
-
-### Front Matter
-**年份**: 2026 | **DOI**: [10.1086/741246](https://doi.org/10.1086/741246)
 **摘要**: （暂无）
 
 ### Wealth Begins at Home: The Housing Benefits of the 1944 GI Bill and the Reproduction of Black-White Inequality in Homeownership and Home Value
@@ -213,11 +209,6 @@
 **年份**: 2024 | **DOI**: [10.1086/730630](https://doi.org/10.1086/730630)
 **作者**: Burt, Ronald S.; Opper, Sonja
 **摘要**: The Chinese word guanxi distinguishes a kind of relationship that is familiar, consequential for network predictions of performance, and consistent with-but not yet distinguished in-network theory.…
-
-### Entrepreneurship as a Response to Labor Market Discrimination for Formerly Incarcerated People
-**年份**: 2024 | **DOI**: [10.1086/729476](https://doi.org/10.1086/729476)
-**作者**: Hwang, Kylie Jiwon; Phillips, Damon J.
-**摘要**: This article examines entrepreneurship as a response to labor market discrimination. Specifically, we examine entrepreneurship as a career choice for formerly incarcerated individuals, a group of individuals who face substantial discrimination in the labor market.…
 
 ### Elaborating Embodied Boundaries: Medical Expertise and (Trans)Gender Classification
 **年份**: 2024 | **DOI**: [10.1086/729505](https://doi.org/10.1086/729505)

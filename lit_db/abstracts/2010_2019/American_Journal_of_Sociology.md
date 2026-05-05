@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **342** 篇
+共 **339** 篇
 
 ---
 
@@ -565,11 +565,6 @@
 **作者**: Legewie, Joscha
 **摘要**: Racial profiling and the disproportionate use of police force are controversial political issues. I argue that racial bias in the use of force increases after relevant events such as the shooting of a police officer by a black suspect.…
 
-### Relational by Nature? Men and Women Do Not Differ in Physiological Response to Social Stressors Faced by Token Women
-**年份**: 2016 | **DOI**: [10.1086/686698](https://doi.org/10.1086/686698)
-**作者**: Taylor, Catherine J.
-**摘要**: Women in male-dominated occupations report negative workplace social climates, whereas most men in female-dominated occupations report positive workplace social climates. Using a laboratory experiment mimicking the negative workplace social climates experienced by these token women, the author exami…
-
 ### A Punishing Look: Skin Tone and Afrocentric Features in the Halls of Justice
 **年份**: 2016 | **DOI**: [10.1086/686941](https://doi.org/10.1086/686941)
 **作者**: King, Ryan D.; Johnson, Brian D.
@@ -990,11 +985,6 @@
 **作者**: Fairbrother, Malcolm
 **摘要**: Why did globalization happen? Current explanations point to a variety of conditions under which states have made the free market policy changes driving international economic integration since the 1980s. Such accounts disagree, however, about the key actors involved.…
 
-### Categories and Organizational Status: The Role of Industry Status in the Response to Organizational Deviance
-**年份**: 2014 | **DOI**: [10.1086/675385](https://doi.org/10.1086/675385)
-**作者**: Sharkey, Amanda J.
-**摘要**: Extant research in organizational and economic sociology posits that organizations derive status from their prior demonstrations of quality, as well as their affiliations with high-status alters.…
-
 ### From Motherhood Penalties to Husband Premia: The New Challenge for Gender Equality and Family Policy, Lessons from Norway
 **年份**: 2014 | **DOI**: [10.1086/674571](https://doi.org/10.1086/674571)
 **作者**: Petersen, Trond; Penner, Andrew M.; Hogsnes, Geir
@@ -1214,11 +1204,6 @@
 **年份**: 2012 | **DOI**: [10.1086/667722](https://doi.org/10.1086/667722)
 **作者**: Saperstein, Aliya; Penner, Andrew M.
 **摘要**: The authors link the literature on racial fluidity and inequality in the United States and offer new evidence of the reciprocal relationship between the two processes. Using two decades of longitudinal data from a national survey, they demonstrate that not only does an individual's race change over …
-
-### To Act or Not to Act: Context, Capability, and Community Response to Environmental Risk
-**年份**: 2012 | **DOI**: [10.1086/667719](https://doi.org/10.1086/667719)
-**作者**: Wright, Rachel A.; Boudet, Hilary Schaffer
-**摘要**: Social movement theory has rarely been tested with counterfactual cases, that is, instances in which movements do not emerge. Moreover, contemporary theories about political opportunity and resources often inadequately address the issue of motivation.…
 
 ### Inheriting the Homeland? Intergenerational Transmission of Cross-Border Ties in Migrant Families
 **年份**: 2012 | **DOI**: [10.1086/667720](https://doi.org/10.1086/667720)

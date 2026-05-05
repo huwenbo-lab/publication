@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **725** 篇
+共 **700** 篇
 
 ---
 
@@ -49,11 +49,6 @@
 **作者**: Swank, Duane
 **摘要**: （暂无）
 
-### Thinking outside the box: a reply to Elliott and Dex
-**年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01224.x](https://doi.org/10.1111/j.1468-4446.2008.01224.x)
-**作者**: Smith, Ken
-**摘要**: （暂无）
-
 ### Notes to contributors
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01263.x](https://doi.org/10.1111/j.1468-4446.2009.01263.x)
 **摘要**: （暂无）
@@ -66,11 +61,6 @@
 ### The Politics of Small Things: The Power of the Powerless in Dark Times – By Goldfarb, J.C.
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01262_3.x](https://doi.org/10.1111/j.1468-4446.2009.01262_3.x)
 **作者**: Crossley, Nick
-**摘要**: （暂无）
-
-### Reply to Ken Smith's reply
-**年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01225.x](https://doi.org/10.1111/j.1468-4446.2008.01225.x)
-**作者**: Elliott, Jane; Dex, Shirley
 **摘要**: （暂无）
 
 ### Is violence natural, unnatural, or rational?
@@ -111,11 +101,6 @@
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01253.x](https://doi.org/10.1111/j.1468-4446.2009.01253.x)
 **作者**: Jackson, Jonathan; Bradford, Ben
 **摘要**: AbstractPublic confidence in policing is receiving increasing attention from UK social scientists and policy‐makers. The criminal justice system relies on legitimacy and consent to an extent unlike other public services: public support is vital if the police and other criminal justice agencies are t…
-
-### Reply to Felson and Cooney
-**年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01259.x](https://doi.org/10.1111/j.1468-4446.2009.01259.x)
-**作者**: Collins, Randall
-**摘要**: （暂无）
 
 ### Will to Live: AIDS Therapies and the Politics of Survival – By Biehl, Joao
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01262_1.x](https://doi.org/10.1111/j.1468-4446.2009.01262_1.x)
@@ -355,11 +340,6 @@
 **作者**: Wu, Zheng
 **摘要**: （暂无）
 
-### A response
-**年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01212.x](https://doi.org/10.1111/j.1468-4446.2008.01212.x)
-**作者**: Gilroy, Paul
-**摘要**: Professor Sampson's paper offers a valuable snapshot of the professional sociologist's craft. His methodological innovations will prove influential and his focus on durable inequality and the social ranking of places is instructive even if those dynamics are gravely complicated – as they are in cont…
-
 ### The scientific significance of Collins's Violence
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01258.x](https://doi.org/10.1111/j.1468-4446.2009.01258.x)
 **作者**: Cooney, Mark
@@ -563,11 +543,6 @@
 **作者**: Neitzert, Eva
 **摘要**: （暂无）
 
-### The times of movements: a response
-**年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2007.00177.x](https://doi.org/10.1111/j.1468-4446.2007.00177.x)
-**作者**: Bhatt, Chetan
-**摘要**: Judith Butler's expansive, stimulating paper can be seen as an exploration of the kinds of ethical positions that might become possible once we internalize fully the loss of a political conception of linear, progressive time and secure ethical foundations.…
-
 ### Economic deprivation, maternal depression, parenting and children's cognitive and emotional development in early childhood
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00219.x](https://doi.org/10.1111/j.1468-4446.2008.00219.x)
 **作者**: Kiernan, Kathleen E.; Huerta, M. Carmen
@@ -735,11 +710,6 @@
 **作者**: Elder‐Vass, Dave
 **摘要**: AbstractSuperficially, Actor Network Theory (ANT) and critical realism (CR) are radically opposed research traditions. Written from a realist perspective, this paper asks whether there might be a basis for finding common ground between these two traditions.…
 
-### A response to Ali, Beckford, Bhatt, Modood and Woodhead
-**年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00192.x](https://doi.org/10.1111/j.1468-4446.2008.00192.x)
-**作者**: Butler, Judith
-**摘要**: （暂无）
-
 ### A clash of civilizations? Examining liberal‐democratic values in Turkey and the European Union
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00215.x](https://doi.org/10.1111/j.1468-4446.2008.00215.x)
 **作者**: Dixon, Jeffrey C.
@@ -853,11 +823,6 @@
 ### Rethinking Europe: Social Theory and the Implications of Europeanization – By Gerard Delanty and Chris Rumford
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00153_5.x](https://doi.org/10.1111/j.1468-4446.2007.00153_5.x)
 **作者**: Outhwaite, William
-**摘要**: （暂无）
-
-### Reply to Hakim
-**年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00143.x](https://doi.org/10.1111/j.1468-4446.2007.00143.x)
-**作者**: Crompton, Rosemary; Lyonette, Clare
 **摘要**: （暂无）
 
 ### Philosophy of the Social Sciences. Towards Pragmatism – By Patrick Baert Continental Philosophy of Social Science. Hermeneutics, Genealogy and Critical Theory from Greece to the Twenty‐first Century – By Yvonne Sherratt
@@ -978,11 +943,6 @@
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00140.x](https://doi.org/10.1111/j.1468-4446.2007.00140.x)
 **作者**: Smith, Ken
 **摘要**: AbstractIn this essay I take seriously Max Weber's astonishingly neglected claim that class situation may be defined, not in categorial terms, butprobabilistically. I then apply this idea to another equally neglected claim made by Weber that the boundaries of social classes may be determined by the …
-
-### Beyond false oppositions: a reply to Beck
-**年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00172.x](https://doi.org/10.1111/j.1468-4446.2007.00172.x)
-**作者**: Atkinson, Will
-**摘要**: （暂无）
 
 ### Social Theory and Aging – By Jason L. Powell Ageing, Crime and Society – Edited by Azrini Wahidin and Maureen Cain
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00173_11.x](https://doi.org/10.1111/j.1468-4446.2007.00173_11.x)
@@ -1121,11 +1081,6 @@
 ### The Work of Professional Football: A Labour of Love? – By M. Roderick
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00153_15.x](https://doi.org/10.1111/j.1468-4446.2007.00153_15.x)
 **作者**: Robson, Keith
-**摘要**: （暂无）
-
-### Death and Dying: A Sociological Introduction – By G. Howarth
-**年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00173_7.x](https://doi.org/10.1111/j.1468-4446.2007.00173_7.x)
-**作者**: Komaromy, Carol
 **摘要**: （暂无）
 
 ### An investigation into causal links between victimization and offending in adolescents
@@ -1288,11 +1243,6 @@
 ### A Sociology of Work in Japan – By R. Mouer and H. Kawanishi
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00162_13.x](https://doi.org/10.1111/j.1468-4446.2007.00162_13.x)
 **作者**: Ono, Hiroshi
-**摘要**: （暂无）
-
-### Content Analysis. An Introduction to its Methodology – By Klaus Krippendorff From Words to Numbers. Narrative, Data and Social Science – By Roberto Franzosi
-**年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00153_10.x](https://doi.org/10.1111/j.1468-4446.2007.00153_10.x)
-**作者**: Bauer, Martin W.
 **摘要**: （暂无）
 
 ### In a New Land: A Comparative View of Immigration – By N. Foner
@@ -1469,11 +1419,6 @@
 **作者**: Smelser, Neil
 **摘要**: （暂无）
 
-### Notes towards a renaissance in British sociology: a response to Turner
-**年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00103.x](https://doi.org/10.1111/j.1468-4446.2006.00103.x)
-**作者**: Fuller, Steve
-**摘要**: （暂无）
-
 ### Using simulation to develop testable functionalist explanations: a case study of church survival
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00116.x](https://doi.org/10.1111/j.1468-4446.2006.00116.x)
 **作者**: Chattoe, Edmund
@@ -1523,11 +1468,6 @@
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00110.x](https://doi.org/10.1111/j.1468-4446.2006.00110.x)
 **作者**: Dant, Tim
 **摘要**: AbstractThis paper argues that although classical sociology has largely overlooked the importance of social relations with the material world in shaping the form of society, Braudel's concept of ‘material civilization’ is a useful way to begin to understand the sociological significance of this rela…
-
-### Conversation Analysis and Discourse Analysis: A Comparative and Critical Introduction – R. Wooffitt
-**年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00133_21.x](https://doi.org/10.1111/j.1468-4446.2006.00133_21.x)
-**作者**: Barnes, Rebecca
-**摘要**: （暂无）
 
 ### The Art of Sociological Argument – G. Crow
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00123_4.x](https://doi.org/10.1111/j.1468-4446.2006.00123_4.x)
@@ -1771,11 +1711,6 @@
 **作者**: Fontaine, Philippe
 **摘要**: （暂无）
 
-### Public intellectuals, globalization and the sociological calling: a reply to critics
-**年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00114.x](https://doi.org/10.1111/j.1468-4446.2006.00114.x)
-**作者**: Turner, Bryan S.
-**摘要**: （暂无）
-
 ### The interference of paid work with household demands in different social policy contexts: perceived work–household conflict in Sweden, the UK, the Netherlands, Hungary, and the Czech Republic
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00127.x](https://doi.org/10.1111/j.1468-4446.2006.00127.x)
 **作者**: Strandh, Mattias; Nordenmark, Mikael
@@ -1862,11 +1797,6 @@
 ### Four sociologies, multiple roles
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00071.x](https://doi.org/10.1111/j.1468-4446.2005.00071.x)
 **作者**: Quah, Stella R.
-**摘要**: （暂无）
-
-### Editors’ introduction: Cultural capital and social inequality
-**年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00043.x](https://doi.org/10.1111/j.1468-4446.2005.00043.x)
-**作者**: Savage, Mike; Bennett, Tony
 **摘要**: （暂无）
 
 ### Nation, Civil Society and Social Movements: Essays in Political Sociology
@@ -2026,11 +1956,6 @@
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00057.x](https://doi.org/10.1111/j.1468-4446.2005.00057.x)
 **作者**: Grundy, Emily
 **摘要**: AbstractIn this paper data from a nationally representative British longitudinal study are used to analyse exchanges of support between Third Age parents (aged 55–75) and their adult children.…
-
-### Response: Public sociology: populist fad or path to renewal?1
-**年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00075.x](https://doi.org/10.1111/j.1468-4446.2005.00075.x)
-**作者**: Burawoy, Michael
-**摘要**: （暂无）
 
 ### Between family and friends: a longitudinal study of friendship choice
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00076.x](https://doi.org/10.1111/j.1468-4446.2005.00076.x)
@@ -2228,11 +2153,6 @@
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00061.x](https://doi.org/10.1111/j.1468-4446.2005.00061.x)
 **摘要**: （暂无）
 
-### Health Inequalities: An Introduction to Theories, Concepts and Methods
-**年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00080_2.x](https://doi.org/10.1111/j.1468-4446.2005.00080_2.x)
-**作者**: Wilson, Gail
-**摘要**: （暂无）
-
 ### Control and Subversion: Gender Relations in Tajikistan
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00040_6.x](https://doi.org/10.1111/j.1468-4446.2004.00040_6.x)
 **作者**: Amsler, Sarah
@@ -2384,11 +2304,6 @@
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00013.x](https://doi.org/10.1111/j.1468-4446.2004.00013.x)
 **摘要**: （暂无）
 
-### Equality and gender, divided versus multiple subjectivity: a response to Allon J. Uhlmann's ‘The sociology of subjectivity, and the subjectivity of sociologists’
-**年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00028.x](https://doi.org/10.1111/j.1468-4446.2004.00028.x)
-**作者**: Bittman, Michael; Pixley, Jocelyn
-**摘要**: （暂无）
-
 ### Notes to Contributors
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00033.x](https://doi.org/10.1111/j.1468-4446.2004.00033.x)
 **摘要**: （暂无）
@@ -2409,11 +2324,6 @@
 
 ### Book reviews
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00020.x](https://doi.org/10.1111/j.1468-4446.2004.00020.x)
-**摘要**: （暂无）
-
-### Domestic equipment does not increase domestic work: a response to Bittman, Rice and Wajcman
-**年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00027.x](https://doi.org/10.1111/j.1468-4446.2004.00027.x)
-**作者**: Gershuny, Jonathan
 **摘要**: （暂无）
 
 ### Ethnic diversity and the state
@@ -2441,16 +2351,6 @@
 **作者**: Lane, David
 **摘要**: （暂无）
 
-### Book review symposium: The scientific study of society
-**年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00009.x](https://doi.org/10.1111/j.1468-4446.2004.00009.x)
-**作者**: Goldthorpe, John
-**摘要**: （暂无）
-
-### Book review symposium: The scientific study of society
-**年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00010.x](https://doi.org/10.1111/j.1468-4446.2004.00010.x)
-**作者**: Scott, Robert A.
-**摘要**: （暂无）
-
 ### Book Reviews
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.t01-1-00012.x](https://doi.org/10.1111/j.1468-4446.2004.t01-1-00012.x)
 **摘要**: （暂无）
@@ -2459,11 +2359,6 @@
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00040_2.x](https://doi.org/10.1111/j.1468-4446.2004.00040_2.x)
 **作者**: Kaye, Robert
 **摘要**: Borchert Jens and Zeiss Jürgen , The Political Class in Advanced Democracies Oxford , University Press 2004 425 pp. $ 99.00 (hardback) This book – previously published in a German edition – aims to study comparatively the development of a ‘political class’.…
-
-### Book review symposium: The scientific study of society
-**年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00011.x](https://doi.org/10.1111/j.1468-4446.2004.00011.x)
-**作者**: Steuer, Max
-**摘要**: （暂无）
 
 ### Beyond toleration: privacy, citizenship and sexual minorities in England and Wales
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00024.x](https://doi.org/10.1111/j.1468-4446.2004.00024.x)
@@ -2725,11 +2620,6 @@
 **作者**: Charles, Nickie; James, Emma
 **摘要**: ABSTRACTThis paper explores women's and men's work orientations in conditions of job insecurity, arguing that it is time to move beyond essentalist conceptions of work orientations and central life interests in order to understand the significance of paid work in people's lives.…
 
-### Reflections on the meritocracy debate in Britain: a response to Richard Breen and John Goldthorpe
-**年份**: 2002 | **DOI**: [10.1080/0007131022000021489](https://doi.org/10.1080/0007131022000021489)
-**作者**: Saunders, Peter
-**摘要**: ABSTRACTA paper by Breen and Goldthorpe recently claimed to have exposed ‘fatal flaws’ in my work on meritocracy in Britain. This paper responds to their criticisms. The results of their re‐analysis of the NCDS data set are shown to be consistent with my earlier findings and arguments.…
-
 ### Positivism in sociological research: USA and UK (1966–1990)
 **年份**: 2002 | **DOI**: [10.1080/0007131022000021524](https://doi.org/10.1080/0007131022000021524)
 **作者**: Gartrell, C. David; Gartrell, John W.
@@ -2822,11 +2712,6 @@
 **年份**: 2002 | **DOI**: [10.1080/0007131022000021542](https://doi.org/10.1080/0007131022000021542)
 **作者**: Crossley, Nick
 **摘要**: ABSTRACTThis paper offers a preliminary analysis of the recent wave of anti‐corporate protest that has swept across numerous countries throughout the world. In the first part of the paper the social structure of this phenomenon is examined.…
-
-### Merit, mobility and method: another reply to Saunders
-**年份**: 2002 | **DOI**: [10.1080/0007131022000043665](https://doi.org/10.1080/0007131022000043665)
-**作者**: Breen, Richard; Goldthorpe, John H.
-**摘要**: （暂无）
 
 ### Organizational communication and the symbolic construction of police murder investigations
 **年份**: 2002 | **DOI**: [10.1080/00071310120109339](https://doi.org/10.1080/00071310120109339)
@@ -3238,11 +3123,6 @@
 **作者**: Beck, Ulrich
 **摘要**: ABSTRACT‘Second age of modernity’ is a magical password that is meant to open the doors to new conceptual landscapes. The whole world of nation sovereignty is fading away – including the ‘container theory of society’ on which most of the sociology of the first age of modernity is based upon.…
 
-### Editor's Introduction: Sociology facing the Millennium
-**年份**: 2000 | **DOI**: [10.1111/j.1468-4446.2000.00001.x](https://doi.org/10.1111/j.1468-4446.2000.00001.x)
-**作者**: Urry, John
-**摘要**: （暂无）
-
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1080/00071310020015361](https://doi.org/10.1080/00071310020015361)
 **摘要**: Books reviewed in this article: Aldrich, Howard Organizations Evolving Bruce, Steve Choice and Religion: A Critique of Rational Choice Crouch, Colin Social Change in Western Europe Degenne, Alain and Forsé, Michel Introducing Social Networks Dunning, Eric Sport Matters: Sociological Studies of Sport…
@@ -3260,11 +3140,6 @@
 ### Consumerism, disorientation and postmodern space: a modest test of an immodest theory
 **年份**: 2000 | **DOI**: [10.1080/00071310050030217](https://doi.org/10.1080/00071310050030217)
 **作者**: Woodward, Michael Emmison, Philip S, Ian
-**摘要**: （暂无）
-
-### Editor's Introduction: Sociology facing the Millennium
-**年份**: 2000 | **DOI**: [10.1080/000713100358390](https://doi.org/10.1080/000713100358390)
-**作者**: Urry, John
 **摘要**: （暂无）
 
 ### Compromising positions: emergent neo-Fordisms and embedded gender contracts

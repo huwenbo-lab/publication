@@ -1,7 +1,7 @@
 # European Journal of Population
 ## 2020–2026 年文章（含摘要）
 
-共 **212** 篇
+共 **211** 篇
 
 ---
 
@@ -674,11 +674,6 @@
 **年份**: 2022 | **DOI**: [10.1007/s10680-022-09643-2](https://doi.org/10.1007/s10680-022-09643-2)
 **作者**: Cano, Tomás; Gracia, Pablo
 **摘要**: AbstractHow divorce influences parents’ and children’s time use has received very little scientific attention. This study uses high-quality longitudinal time-diary data across six waves from the Longitudinal Study of Australian Children to examine how parental separation shapes parent–child time and…
-
-### Wealth in Couples: Introduction to the Special Issue
-**年份**: 2022 | **DOI**: [10.1007/s10680-022-09640-5](https://doi.org/10.1007/s10680-022-09640-5)
-**作者**: Lersch, Philipp M.; Struffolino, Emanuela; Vitali, Agnese
-**摘要**: AbstractThe assumption that economic resources are equally shared within households has been found to be untenable for income but is still often upheld for wealth. In this introduction to the special issue “Wealth in Couples”, we argue that within-household inequality in wealth is a pertinent and un…
 
 ### A Tale of Integration? The Migrant Wealth Gap in Austria
 **年份**: 2022 | **DOI**: [10.1007/s10680-021-09604-1](https://doi.org/10.1007/s10680-021-09604-1)

@@ -1,6 +1,6 @@
 # American Journal of Sociology — 文章标题索引
 
-共 **932** 篇 | 年份范围：1896–2026
+共 **926** 篇 | 年份范围：1896–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -9,7 +9,6 @@
 
 - Exams, Meritocracy, and Disenchantment with the Chinese Dream · [DOI](https://doi.org/10.1086/738608)
 - : Uncertainty: Individual Problems and Public Solutions · [DOI](https://doi.org/10.1086/739284)
-- Front Matter · [DOI](https://doi.org/10.1086/741246)
 
 ## 2025
 
@@ -55,7 +54,6 @@
 - Galvanizing the Missing Revolution: Processes and Meanings of the Child/Adult Binary in the Social Construction of Age · [DOI](https://doi.org/10.1086/730457)
 - When Truth Trumps Facts: Studies on Partisan Moral Flexibility in American Politics · [DOI](https://doi.org/10.1086/730763)
 - Guanxi and Structural Holes: Strong Bridges from Relational Embedding · [DOI](https://doi.org/10.1086/730630)
-- Entrepreneurship as a Response to Labor Market Discrimination for Formerly Incarcerated People · [DOI](https://doi.org/10.1086/729476)
 - Elaborating Embodied Boundaries: Medical Expertise and (Trans)Gender Classification · [DOI](https://doi.org/10.1086/729505)
 - Carceral Passages: Coming of Age in Prison America · [DOI](https://doi.org/10.1086/729769)
 - Engineering Inequality: Informal Coaching, Glass Walls, and Social Closure in Silicon Valley · [DOI](https://doi.org/10.1086/729506)
@@ -338,7 +336,6 @@
 - And Their Children after Them? The Effect of College on Educational Reproduction · [DOI](https://doi.org/10.1086/687592)
 - The Persistence of Extreme Gender Segregation in the Twenty-first Century · [DOI](https://doi.org/10.1086/688628)
 - Racial Profiling and Use of Force in Police Stops: How Local Events Trigger Periods of Increased Discrimination · [DOI](https://doi.org/10.1086/687518)
-- Relational by Nature? Men and Women Do Not Differ in Physiological Response to Social Stressors Faced by Token Women · [DOI](https://doi.org/10.1086/686698)
 - A Punishing Look: Skin Tone and Afrocentric Features in the Halls of Justice · [DOI](https://doi.org/10.1086/686941)
 - Status, Faction Sizes, and Social Influence: Testing the Theoretical Mechanism · [DOI](https://doi.org/10.1086/686943)
 - Contested Boundaries: Explaining Where Ethnoracial Diversity Provokes Neighborhood Conflict · [DOI](https://doi.org/10.1086/686942)
@@ -429,7 +426,6 @@
 - How Population Structure Shapes Neighborhood Segregation · [DOI](https://doi.org/10.1086/675411)
 - Saying Yes to Taxes: The Politics of Tax Reform Campaigns in Three Northwestern States, 1965-1973 · [DOI](https://doi.org/10.1086/675386)
 - Economists, Capitalists, and the Making of Globalization: North American Free Trade in Comparative-Historical Perspective · [DOI](https://doi.org/10.1086/675410)
-- Categories and Organizational Status: The Role of Industry Status in the Response to Organizational Deviance · [DOI](https://doi.org/10.1086/675385)
 - From Motherhood Penalties to Husband Premia: The New Challenge for Gender Equality and Family Policy, Lessons from Norway · [DOI](https://doi.org/10.1086/674571)
 - Spatial Segmentation and the Black Middle Class · [DOI](https://doi.org/10.1086/674561)
 - Job Displacement among Single Mothers: Effects on Children's Outcomes in Young Adulthood · [DOI](https://doi.org/10.1086/675409)
@@ -480,7 +476,6 @@
 
 - Echoes of the Past: Organizational Foundings as Sources of an Institutional Legacy of Mutualism · [DOI](https://doi.org/10.1086/667721)
 - Racial Fluidity and Inequality in the United States · [DOI](https://doi.org/10.1086/667722)
-- To Act or Not to Act: Context, Capability, and Community Response to Environmental Risk · [DOI](https://doi.org/10.1086/667719)
 - Inheriting the Homeland? Intergenerational Transmission of Cross-Border Ties in Migrant Families · [DOI](https://doi.org/10.1086/667720)
 - Network-Related Personality and the Agency Question: Multirole Evidence from a Virtual World · [DOI](https://doi.org/10.1086/667856)
 - Socially Embedded Investments: Explaining Gender Differences in Job-Specific Skills · [DOI](https://doi.org/10.1086/667810)
@@ -894,7 +889,6 @@
 - The emergence of generalized exchange · [DOI](https://doi.org/10.1086/210400)
 - Economic transformation and income inequality in urban China: Evidence from panel data · [DOI](https://doi.org/10.1086/210401)
 - Comment: Controversies and evidence in the market transition debate · [DOI](https://doi.org/10.1086/210402)
-- Reply: Beyond the debate and toward substantive institutional analysis · [DOI](https://doi.org/10.1086/210403)
 
 ## 1999
 

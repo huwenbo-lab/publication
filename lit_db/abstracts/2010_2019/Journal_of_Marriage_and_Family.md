@@ -1,7 +1,7 @@
 # Journal of Marriage and Family
 ## 2010–2019 年文章（含摘要）
 
-共 **840** 篇
+共 **832** 篇
 
 ---
 
@@ -1455,11 +1455,6 @@
 **作者**: Wiese, Bettina S.; Burk, Christian L.; Jaeckel, Dalit
 **摘要**: This study investigated the impact of the transition to grandparenthood on employees' psychological involvement in their job, attitude toward retirement, and retirement-related hopes and concerns, taking into account sex and lineage.…
 
-### Family Flexibility in Response to Economic Conditions: Fathers' Involvement in Child-Care Tasks
-**年份**: 2016 | **DOI**: [10.1111/jomf.12249](https://doi.org/10.1111/jomf.12249)
-**作者**: Knop, Brian; Brewster, Karin L.
-**摘要**: Recession-related increases in men's child care are well documented, but supporting evidence describes the last several decades of the 20th century. Changes in family life and in the association between families' economic conditions and the macro economy provide reason to question the continued exis…
-
 ### Pathways of Commitment to Wed: The Development and Dissolution of Romantic Relationships
 **年份**: 2016 | **DOI**: [10.1111/jomf.12260](https://doi.org/10.1111/jomf.12260)
 **作者**: Ogolsky, Brian G.; Surra, Catherine A.; Monk, J. Kale
@@ -1874,11 +1869,6 @@
 **年份**: 2015 | **DOI**: [10.1111/jomf.12175](https://doi.org/10.1111/jomf.12175)
 **作者**: Mollborn, Stefanie; Jacobs, Janet
 **摘要**: Marriage promotion policy agendas have focused research attention on coparenting relationships, but little is known about coparenting among teen parents. Using qualitative interviews with 76 teen mothers and fathers supplemented with site observations at a school and clinic, the authors investigated…
-
-### Welfare-to-Work Reform and Intergenerational Support: Grandmothers' Response to the 1996 PRWORA
-**年份**: 2015 | **DOI**: [10.1111/jomf.12172](https://doi.org/10.1111/jomf.12172)
-**作者**: Ho, Christine
-**摘要**: The 1996 Personal Responsibility and Work Opportunity Reconciliation Act (PRWORA; Pub. L. 104-193) in the United States aimed at encouraging work among low-income mothers with children below age 18.…
 
 ### The Delay of Grandparenthood: A Cohort Comparison in East and West Germany
 **年份**: 2015 | **DOI**: [10.1111/jomf.12169](https://doi.org/10.1111/jomf.12169)
@@ -2464,11 +2454,6 @@
 **作者**: Hofmann, Barbara; Hohmeyer, Katrin
 **摘要**: Whereas in theory individuals tend to postpone fertility decisions in times of economic uncertainty, empirical evidence on that question is scarce. Using data from the German Socio‐Economic Panel (N = 4,548), the authors estimated the effect of economic concerns on the probability of becoming pregna…
 
-### Misidentified or Misunderstood? A Reply to Wildeman, Wakefield, and Turney (2013)
-**年份**: 2013 | **DOI**: [10.1111/j.1741-3737.2012.01026.x](https://doi.org/10.1111/j.1741-3737.2012.01026.x)
-**作者**: Johnson, Elizabeth I.; Easterling, Beth
-**摘要**: （暂无）
-
 ### Shared Reality and Grounded Feelings During Courtship: Do They Matter for Marital Success?
 **年份**: 2013 | **DOI**: [10.1111/jomf.12031](https://doi.org/10.1111/jomf.12031)
 **作者**: Wilson, April C.; Huston, Ted L.
@@ -2658,11 +2643,6 @@
 **年份**: 2013 | **DOI**: [10.1111/jomf.12009](https://doi.org/10.1111/jomf.12009)
 **作者**: Bogenschneider, Karen; Little, Olivia M.; Johnson, Kristen
 **摘要**: Evidence‐informed policy creates the conditions for families to perform the functions they provide for their members and society. To increase research utilization in policymaking, we must better understand policymakers and the professional and institutional cultures in which they operate.…
-
-### Adolescents' Daily Assistance to the Family in Response to Maternal Need
-**年份**: 2013 | **DOI**: [10.1111/jomf.12035](https://doi.org/10.1111/jomf.12035)
-**作者**: Tsai, Kim M.; Telzer, Eva H.; Gonzales, Nancy A. 等4人
-**摘要**: Although children's provision of family assistance is a common routine, little is understood about the day‐to‐day variability that may exist in children's assistance behaviors. Guided by a family systems framework, the current study examined whether Mexican American adolescents' provision of family …
 
 ### “What Happens at Home Does Not Necessarily Stay at Home”: The Relationship of Observed Negative Couple Interaction With Physical Health, Mental Health, and Work Satisfaction
 **年份**: 2013 | **DOI**: [10.1111/jomf.12039](https://doi.org/10.1111/jomf.12039)
@@ -3139,10 +3119,6 @@
 **作者**: Pilkauskas, Natasha V.
 **摘要**: Using data from the Fragile Families and Child Wellbeing Study (N = 4,898), this study investigated how the share, correlates, transition patterns, and duration of 3‐generation households vary by mother's relationship status at birth.…
 
-### Alexis Walker—In Memoriam
-**年份**: 2012 | **DOI**: [10.1111/j.1741-3737.2012.01016.x](https://doi.org/10.1111/j.1741-3737.2012.01016.x)
-**摘要**: （暂无）
-
 ### Domestic Work and the Wage Penalty for Motherhood in West Germany
 **年份**: 2012 | **DOI**: [10.1111/j.1741-3737.2011.00886.x](https://doi.org/10.1111/j.1741-3737.2011.00886.x)
 **作者**: Kühhirt, Michael; Ludwig, Volker
@@ -3279,11 +3255,6 @@
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00864.x](https://doi.org/10.1111/j.1741-3737.2011.00864.x)
 **作者**: Kerr, David C. R.; Capaldi, Deborah M.; Owen, Lee D. 等5人
 **摘要**: Fatherhood can be a turning point in development and in men's crime and substance use trajectories. At-risk boys (N = 206) were assessed annually from ages 12 to 31 years. Crime, arrest, and tobacco, alcohol, and marijuana use trajectories were examined.…
-
-### Motherhood and Marriage: A Response
-**年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00786.x](https://doi.org/10.1111/j.1741-3737.2010.00786.x)
-**作者**: Wilcox, W. Bradford; Dew, Jeffrey
-**摘要**: We are grateful for the thought‐provoking commentary and critique of our study of marriage and the transition to motherhood (Dew & Wilcox, 2011) provided by Milkie (2011); Clements, Martin, Cassil, and Soliman (2011); and Perry‐Jenkins and Claxton (2011).…
 
 ### The Consequences of Parental Underestimation and Overestimation of Youth Exposure to Violence
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00798.x](https://doi.org/10.1111/j.1741-3737.2010.00798.x)
@@ -3530,11 +3501,6 @@
 **作者**: Gilligan, Megan; Fingerman, Karen L.
 **摘要**: （暂无）
 
-### Understanding Family Process and Child Adjustment Through Behavioral Genetic Research: A Reply
-**年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00849.x](https://doi.org/10.1111/j.1741-3737.2011.00849.x)
-**作者**: Horwitz, Briana N.; Neiderhiser, Jenae M.
-**摘要**: （暂无）
-
 ### The Myth of the Missing Black Father - edited by Roberta L. Coles & Charles Green
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00823.x](https://doi.org/10.1111/j.1741-3737.2010.00823.x)
 **作者**: Herring, Melvin H.
@@ -3767,11 +3733,6 @@
 **年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2009.00687.x](https://doi.org/10.1111/j.1741-3737.2009.00687.x)
 **作者**: Bucx, Freek; Raaijmakers, Quinten; Van Wel, Frits
 **摘要**: We investigated how intergenerational congruence in family‐related attitudes depends on life course stage in young adulthood. Recent data from the Netherlands Kinship Panel Study were used; the present sample included 2,041 dyads of young adults and their parents.…
-
-### Are Divorce Studies Trustworthy? The Effects of Survey Nonresponse and Response Errors
-**年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2010.00737.x](https://doi.org/10.1111/j.1741-3737.2010.00737.x)
-**作者**: Mitchell, Colter
-**摘要**: Researchers rely on relationship data to measure the multifaceted nature of families. This article speaks to relationship data quality by examining the ramifications of different types of error on divorce estimates, models predicting divorce behavior, and models employing divorce as a predictor.…
 
 ### Selection, Alignment, and Their Interplay: Origins of Lifestyle Homogamy in Couple Relationships
 **年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2010.00761.x](https://doi.org/10.1111/j.1741-3737.2010.00761.x)

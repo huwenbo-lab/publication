@@ -1,7 +1,7 @@
 # Asian Population Studies
 ## 2010–2019 年文章（含摘要）
 
-共 **213** 篇
+共 **204** 篇
 
 ---
 
@@ -475,10 +475,6 @@
 **作者**: Jatrana, Santosh; Pasupuleti, Samba Siva Rao
 **摘要**: Using data from the third National Family Health Survey (NFHS-3) on currently married fecund women who have had at least one birth during 2001–2002 and Cox-proportional hazard models, this study examines the less researched association between women's autonomy and birth-to-conception intervals in In…
 
-### Editorial Board
-**年份**: 2015 | **DOI**: [10.1080/17441730.2015.1118215](https://doi.org/10.1080/17441730.2015.1118215)
-**摘要**: （暂无）
-
 ### Active Life Expectancy of Elderly Koreans, 1994–2011
 **年份**: 2015 | **DOI**: [10.1080/17441730.2015.1096096](https://doi.org/10.1080/17441730.2015.1096096)
 **作者**: Kim, Hyun Sik
@@ -509,11 +505,6 @@
 **作者**: Tareque, Md. Ismail; Saito, Yasuhiko; Kawahara, Kazuo
 **摘要**: Lower quality of life and more work-loss days for the workforce are barriers for economic development in Bangladesh. Using nationally representative data—the Bangladesh Demographic and Health Surveys for the 2004–2007 period, we examined the prevalence of diseases (asthma, diabetes, heart problems, …
 
-### Response to the critique by C. Tumbe
-**年份**: 2014 | **DOI**: [10.1080/17441730.2014.951151](https://doi.org/10.1080/17441730.2014.951151)
-**作者**: Czaika, Mathias
-**摘要**: "Response to the critique by C. Tumbe." Asian Population Studies, 10(3), pp. 337–338This article refers to:Comment on Mathias Czaika ‘Internal versus International migration and the Role of Multiple Deprivation: Some Evidence from India’, Asian Population Studies, 8(2), 2012
-
 ### An Age Distribution Story: Reading into the Population Pyramid of Nepal
 **年份**: 2014 | **DOI**: [10.1080/17441730.2014.902164](https://doi.org/10.1080/17441730.2014.902164)
 **作者**: Samir, K. C.
@@ -538,10 +529,6 @@
 **年份**: 2014 | **DOI**: [10.1080/17441730.2014.955162](https://doi.org/10.1080/17441730.2014.955162)
 **作者**: Pham, Bang Nguyen
 **摘要**: With a total population of approximately 90 million, Vietnam ranked as the 13th most populous country in the World in 2012. The country is now experiencing a critical transition in its demographics...
-
-### Statement of Retraction
-**年份**: 2014 | **DOI**: [10.1080/17441730.2014.886358](https://doi.org/10.1080/17441730.2014.886358)
-**摘要**: This article refers to:HEALTH OF HOME-BASED SEX WORKERS AND THEIR CHILDREN IN RURAL ANDHRA PRADESH, INDIA
 
 ### Relative Income and Female Autonomy
 **年份**: 2014 | **DOI**: [10.1080/17441730.2013.876703](https://doi.org/10.1080/17441730.2013.876703)
@@ -581,10 +568,6 @@
 **年份**: 2014 | **DOI**: [10.1080/17441730.2014.981328](https://doi.org/10.1080/17441730.2014.981328)
 **作者**: Jiang, Quanbao; Li, Xiaomin; Sánchez-Barricarte, Jesús J.
 **摘要**: As population ageing accelerates in China, the number of elderly widowed individuals are expected to increase. Using 2010 census data we estimate widowhood indices for rural and urban areas, and for men and women in China.…
-
-### Editorial Board
-**年份**: 2014 | **DOI**: [10.1080/17441730.2014.955163](https://doi.org/10.1080/17441730.2014.955163)
-**摘要**: （暂无）
 
 ### Mapping Manila's Mega-Urban Region
 **年份**: 2014 | **DOI**: [10.1080/17441730.2014.902163](https://doi.org/10.1080/17441730.2014.902163)
@@ -655,10 +638,6 @@
 **年份**: 2013 | **DOI**: [10.1080/17441730.2013.870826](https://doi.org/10.1080/17441730.2013.870826)
 **作者**: Wang, Cangbai; Wong, Siu-lun; Zheng, Victor
 **摘要**: Through a postcolonial lens and based on in-depth interviews with British expatriates who moved to Hong Kong in the first decade after its handover, this paper highlights the contested role of borders in the everyday making and remaking of skilled migration.…
-
-### Editorial Board
-**年份**: 2013 | **DOI**: [10.1080/17441730.2013.864797](https://doi.org/10.1080/17441730.2013.864797)
-**摘要**: （暂无）
 
 ### Pathways to Low Fertility in India
 **年份**: 2013 | **DOI**: [10.1080/17441730.2013.824184](https://doi.org/10.1080/17441730.2013.824184)
@@ -785,10 +764,6 @@
 **作者**: McDonald, Peter; Utomo, Iwu Dwisetyani; Utomo, Ariane 等5人
 **摘要**: This paper examines the relative education and employment outcomes among young migrants and non-migrants in Greater Jakarta in 2009/2011. Using data from the 2010 Greater Jakarta Transition to Adulthood Survey that includes 3006 respondents aged 20 to 34 years old, the paper highlights the importanc…
 
-### Editorial Board
-**年份**: 2012 | **DOI**: [10.1080/17441730.2012.722771](https://doi.org/10.1080/17441730.2012.722771)
-**摘要**: （暂无）
-
 ### CHINA'S DEMOGRAPHIC REALITY AND FUTURE
 **年份**: 2012 | **DOI**: [10.1080/17441730.2012.646803](https://doi.org/10.1080/17441730.2012.646803)
 **作者**: Cai, Yong
@@ -904,11 +879,6 @@
 **作者**: Bélanger, Danièle; Linh, Tran Giang; Duong, Le Bach
 **摘要**: This article examines the emigration dimension of marriage migration in Asia by focusing on remittances received by parents from daughters who married and migrated abroad. Based on a study of 250 migrant-sending households in Vietnam with a daughter living in an Asian country as a ‘foreign wife’, th…
 
-### COMMENTARY
-**年份**: 2011 | **DOI**: [10.1080/17441730.2011.558673](https://doi.org/10.1080/17441730.2011.558673)
-**作者**: Saxena, Prem C.
-**摘要**: God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference. (Reinhold Niebuhr) The above quotation echoes my feel...
-
 ### FORCED LABOUR AND RISING FERTILITY IN COLONIAL INDONESIA
 **年份**: 2011 | **DOI**: [10.1080/17441730.2011.544900](https://doi.org/10.1080/17441730.2011.544900)
 **作者**: Henley, David
@@ -917,10 +887,6 @@
 ### THE CHALLENGE OF COMPOSITIONAL DEMOGRAPHY
 **年份**: 2011 | **DOI**: [10.1080/17441730.2011.576808](https://doi.org/10.1080/17441730.2011.576808)
 **作者**: Kreager, Philip
-**摘要**: （暂无）
-
-### Editorial Board
-**年份**: 2011 | **DOI**: [10.1080/17441730.2011.623360](https://doi.org/10.1080/17441730.2011.623360)
 **摘要**: （暂无）
 
 ### EXPLAINING TRENDS IN CORESIDENCE OF NEWLY MARRIED COUPLES WITH PARENTS IN JAPAN
@@ -967,11 +933,6 @@
 **年份**: 2010 | **DOI**: [10.1080/17441731003603421](https://doi.org/10.1080/17441731003603421)
 **作者**: Ranjan Chaurasia, Aalok
 **摘要**: Using life tables, this paper analyses mortality transition in India from 1970 through 2005. The analysis reveals that the rise in the life expectancy in India has at best been slow by global standards despite the fact that mortality levels in India are still high.…
-
-### RESPONSE TO COMMENT BY FAUJDAR RAM, ABHISHEK SINGH AND NANDITA SAIKIA
-**年份**: 2010 | **DOI**: [10.1080/17441730.2010.512766](https://doi.org/10.1080/17441730.2010.512766)
-**作者**: Chaurasia, Aalok Ranjan
-**摘要**: "RESPONSE TO COMMENT BY FAUJDAR RAM, ABHISHEK SINGH AND NANDITA SAIKIA." Asian Population Studies, 6(3), p. 352
 
 ### DEVELOPMENT OF THE POPULATION DATABASE IN CAMBODIA THROUGH CENSUSES
 **年份**: 2010 | **DOI**: [10.1080/17441730.2010.494417](https://doi.org/10.1080/17441730.2010.494417)

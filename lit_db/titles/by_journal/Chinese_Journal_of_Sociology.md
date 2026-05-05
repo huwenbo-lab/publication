@@ -1,6 +1,6 @@
 # Chinese Journal of Sociology — 文章标题索引
 
-共 **258** 篇 | 年份范围：2015–2026
+共 **255** 篇 | 年份范围：2015–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -23,7 +23,6 @@
 - Ethics and governance of artificial intelligence in digital China: Evidence from online survey and social media data · [DOI](https://doi.org/10.1177/2057150X241313085)
 - Chinese perspectives on organizational research: A summary of the 20th Workshop on Empirical Research in Organizational Sociology · [DOI](https://doi.org/10.1177/2057150X251385829)
 - Cohort and gender disparities in childbearing motivation: Evidence from the 2020 China Family Panel Studies · [DOI](https://doi.org/10.1177/2057150X251335102)
-- Performing sacredness: The Touqi Public Memorial Ceremony as a cultural response to Chinese major disasters (2010-2019) · [DOI](https://doi.org/10.1177/2057150X251330727)
 - Heterogeneous treatment effects of parental migration on the cognitive ability of rural left-behind children in China · [DOI](https://doi.org/10.1177/2057150X251382369)
 - Parent-child discrepancies in educational expectations and depressive symptoms among Chinese middle school adolescents: A moderated mediation model analysis · [DOI](https://doi.org/10.1177/2057150X251377171)
 - Family rituals in today's China: Unveiling empirical patterns and participant consequences · [DOI](https://doi.org/10.1177/2057150X251328487)
@@ -174,7 +173,6 @@
 - Network fields, cultural identities and labor rights communities: Big data analytics with topic model and community detection · [DOI](https://doi.org/10.1177/2057150x18820500)
 - Have party premiums disappeared in post-2000 China? The influence of negative ability bias from position conditioning · [DOI](https://doi.org/10.1177/2057150x18817245)
 - The influences of family background and structural factors on children’s academic performances: A cross-country comparative study · [DOI](https://doi.org/10.1177/2057150x19837908)
-- Introduction to the special issue on ‘Life course and family dynamics in a comparative perspective’ · [DOI](https://doi.org/10.1177/2057150x19840253)
 - Trends in educational mobility: How does China compare to Europe and the United States? · [DOI](https://doi.org/10.1177/2057150x19835145)
 - Lost trust and dissolvedguanxicircles: A case study of a collective resignation event at Tianyuan Tea Company · [DOI](https://doi.org/10.1177/2057150x19856285)
 - Intergenerational co-residence during later life in Europe and China · [DOI](https://doi.org/10.1177/2057150x19838031)
@@ -262,7 +260,6 @@
 - The Chinese diaspora: The current distribution of the overseas Chinese population · [DOI](https://doi.org/10.1177/2057150x16655077)
 - Evaluating the measurement reliabilities and dimensionality of developmental idealism measures · [DOI](https://doi.org/10.1177/2057150x16672813)
 - Ethnic enclaves revisited: Effects on earnings of migrant workers in China · [DOI](https://doi.org/10.1177/2057150x16633580)
-- Introduction to Special Issue · [DOI](https://doi.org/10.1177/2057150x16670829)
 - Developmental idealism in China · [DOI](https://doi.org/10.1177/2057150x16670835)
 - Comparable metrics: Some examples · [DOI](https://doi.org/10.1177/2057150x15624896)
 - Political capital and intergenerational mobility: Evidence from elite college admissions in China · [DOI](https://doi.org/10.1177/2057150x16641046)

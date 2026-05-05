@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **548** 篇 | 年份范围：1963–2026
+共 **545** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -169,7 +169,6 @@
 - Intergenerational Mobility at the Top of the Educational Distribution · [DOI](https://doi.org/10.1177/0038040718801812)
 - What's Taking You So Long? Examining the Effects of Social Class on Completing a Bachelor's Degree in Four Years · [DOI](https://doi.org/10.1177/0038040718802258)
 - How School Socioeconomic Status Affects Achievement Growth across School Transitions in Early Educational Careers · [DOI](https://doi.org/10.1177/0038040718802257)
-- Inequality in Reading and Math Skills Forms Mainly before Kindergarten: A Replication, and Partial Correction, of Are Schools the Great Equalizer? · [DOI](https://doi.org/10.1177/0038040718801760)
 - A Downward Spiral? Childhood Suspension and the Path to Juvenile Arrest · [DOI](https://doi.org/10.1177/0038040718784603)
 - Neighborhood Violence, Peer Effects, and Academic Achievement in Chicago · [DOI](https://doi.org/10.1177/0038040718779063)
 - Slipping Past the Test: Heterogeneous Effects of Social Background in the Context of Inconsistent Selection Mechanisms in Higher Education · [DOI](https://doi.org/10.1177/0038040718779087)
@@ -270,10 +269,8 @@
 ## 2013
 
 - The Collective Mind: A Reassessment · [DOI](https://doi.org/10.1177/0038040713503303)
-- What Shapes the Collective Mind? A Response to Brint · [DOI](https://doi.org/10.1177/0038040713503305)
 - Sociology of Education's Cultural, Organizational, and Societal Turn · [DOI](https://doi.org/10.1177/0038040713503306)
 - Integrating Comparative and Theoretical Sociology of Education: A Reflection on The 'Collective Mind' at Work: A Decade in the Life of US Sociology of Education by Steven Brint · [DOI](https://doi.org/10.1177/0038040713503307)
-- Altered States of the Collective Mind: A Response to Brint · [DOI](https://doi.org/10.1177/0038040713503308)
 - The Light Bulb Test · [DOI](https://doi.org/10.1177/0038040713503309)
 - Mismatch and the Paternalistic Justification for Selective College Admissions · [DOI](https://doi.org/10.1177/0038040713500772)
 - The Embeddedness of Teachers' Social Networks: Evidence from a Study of Mathematics Reform · [DOI](https://doi.org/10.1177/0038040713501147)
