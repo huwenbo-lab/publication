@@ -1,0 +1,28 @@
+{
+	"$schema": "../../node_modules/wrangler/config-schema.json",
+	"name": "publication-favorites-sync",
+	"main": "src/index.js",
+	"compatibility_date": "2026-05-06",
+	"compatibility_flags": [
+		"nodejs_compat"
+	],
+	"vars": {
+		"ALLOWED_ORIGIN": "https://huwenbo-lab.github.io"
+	},
+	"secrets": {
+		"required": [
+			"SYNC_KEY"
+		]
+	},
+	"kv_namespaces": [
+		{
+			"binding": "FAVORITES_KV",
+			"id": "9909423a99de4e2daf91540acd345164",
+			"remote": true
+		}
+	],
+	"observability": {
+		"enabled": true,
+		"head_sampling_rate": 1
+	}
+}

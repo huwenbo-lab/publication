@@ -122,6 +122,25 @@
             </div>
         </div>
 
+        <section class="sync-panel" aria-label="Favorite sync">
+            <div class="sync-grid">
+                <label class="field-label" for="sync-endpoint">
+                    <span>Sync endpoint</span>
+                    <input id="sync-endpoint" class="field" type="url" autocomplete="off" spellcheck="false">
+                </label>
+                <label class="field-label" for="sync-key">
+                    <span>Sync key</span>
+                    <input id="sync-key" class="field" type="password" autocomplete="off" spellcheck="false">
+                </label>
+                <div class="sync-actions">
+                    <button id="sync-save" class="plain-button" type="button">Save</button>
+                    <button id="sync-pull" class="plain-button" type="button">Pull</button>
+                    <button id="sync-push" class="plain-button" type="button">Push</button>
+                </div>
+            </div>
+            <p id="sync-status" class="sync-status" role="status" aria-live="polite"></p>
+        </section>
+
         <div class="favorites-workspace">
             <aside class="favorites-tree-panel" aria-label="Favorite folders">
                 <div class="folder-tools">

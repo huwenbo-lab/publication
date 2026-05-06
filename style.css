@@ -674,6 +674,34 @@ mark {
     justify-self: end;
 }
 
+.sync-panel {
+    margin: 0 0 18px;
+    padding: 12px 0 14px;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+}
+
+.sync-grid {
+    display: grid;
+    grid-template-columns: minmax(220px, 1fr) minmax(160px, 0.7fr) auto;
+    gap: 10px;
+    align-items: end;
+}
+
+.sync-actions {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.sync-status {
+    min-height: 16px;
+    margin: 8px 0 0;
+    color: var(--ink-muted);
+    font-size: 12.5px;
+}
+
 .favorites-workspace {
     display: grid;
     grid-template-columns: minmax(210px, 260px) minmax(0, 1fr);
@@ -879,8 +907,13 @@ mark {
     }
 
     .view-header,
-    .favorites-workspace {
+    .favorites-workspace,
+    .sync-grid {
         grid-template-columns: 1fr;
+    }
+
+    .sync-actions {
+        justify-content: flex-start;
     }
 
     .export-wrap {

@@ -8,6 +8,7 @@ __pycache__/
 .DS_Store
 .claude/
 .cache/
+workers/**/.wrangler/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/

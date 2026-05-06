@@ -2,6 +2,8 @@ const SQL_JS_BASE = "vendor/sqljs";
 const PAGE_SIZE = 50;
 const FAVORITES_STORAGE_KEY_V1 = "publication:favorites:v1";
 const FAVORITES_STORAGE_KEY_V2 = "publication:favorites:v2";
+const FAVORITES_SYNC_STORAGE_KEY = "publication:favorites-sync:v1";
+const FAVORITES_SYNC_SCHEMA = "publication-favorites-sync";
 const FAVORITES_ALL_FOLDER = "__all__";
 const FAVORITES_UNCATEGORIZED_FOLDER = "__uncategorized__";
 const THEME_STORAGE_KEY = "publication:theme:v1";
@@ -64,6 +66,12 @@ const app = {
     authorIndex: null,
     articleCache: new Map(),
     favoriteLibrary: createFavoriteLibrary(),
+    sync: {
+        endpoint: "",
+        key: "",
+        status: "",
+        busy: false,
+    },
     engine: "loading",
     loading: true,
     loadingText: "Loading",
@@ -409,6 +417,282 @@ function saveFavoritesToStorage() {
     writeStorage(FAVORITES_STORAGE_KEY_V2, JSON.stringify(app.favoriteLibrary, null, 2));
 }
 
+function normalizeSyncEndpoint(value) {
+    return String(value || "").trim().replace(/\/+$/, "");
+}
+
+function loadSyncSettings() {
+    const raw = readStorage(FAVORITES_SYNC_STORAGE_KEY);
+    if (!raw) {
+        return;
+    }
+    try {
+        const settings = JSON.parse(raw);
+        app.sync.endpoint = normalizeSyncEndpoint(settings.endpoint);
+        app.sync.key = String(settings.key || "");
+    } catch {
+        app.sync.endpoint = "";
+        app.sync.key = "";
+    }
+}
+
+function syncSettingsFromInputs() {
+    if (dom.syncEndpoint) {
+        app.sync.endpoint = normalizeSyncEndpoint(dom.syncEndpoint.value);
+    }
+    if (dom.syncKey) {
+        app.sync.key = String(dom.syncKey.value || "");
+    }
+}
+
+function saveSyncSettings(status = "Saved") {
+    syncSettingsFromInputs();
+    if (app.sync.endpoint) {
+        try {
+            new URL(app.sync.endpoint);
+        } catch {
+            app.sync.status = "Invalid endpoint";
+            renderSyncPanel();
+            return false;
+        }
+    }
+    persistSyncSettings();
+    app.sync.status = status;
+    renderSyncPanel();
+    return true;
+}
+
+function persistSyncSettings() {
+    writeStorage(FAVORITES_SYNC_STORAGE_KEY, JSON.stringify({
+        endpoint: app.sync.endpoint,
+        key: app.sync.key,
+    }));
+}
+
+function stableStringify(value) {
+    if (Array.isArray(value)) {
+        return `[${value.map(stableStringify).join(",")}]`;
+    }
+    if (value && typeof value === "object") {
+        return `{${Object.keys(value).sort().map((key) =>
+            `${JSON.stringify(key)}:${stableStringify(value[key])}`
+        ).join(",")}}`;
+    }
+    return JSON.stringify(value);
+}
+
+function canonicalFavoriteLibrary(library) {
+    const normalized = normalizeFavoriteLibrary(library);
+    const items = {};
+    for (const [key, entry] of Object.entries(normalized.items).sort(([a], [b]) => a.localeCompare(b))) {
+        items[key] = entry;
+    }
+    return {
+        version: 2,
+        folders: [...normalized.folders].sort((a, b) => a.id.localeCompare(b.id)),
+        items,
+    };
+}
+
+function computeFavoriteRevision(library) {
+    const text = stableStringify(canonicalFavoriteLibrary(library));
+    let hash = 5381;
+    for (let index = 0; index < text.length; index += 1) {
+        hash = ((hash << 5) + hash) ^ text.charCodeAt(index);
+    }
+    return `v2-${(hash >>> 0).toString(36)}-${text.length.toString(36)}`;
+}
+
+function buildFavoriteLibraryPayload() {
+    const library = canonicalFavoriteLibrary(app.favoriteLibrary);
+    return {
+        schema: FAVORITES_SYNC_SCHEMA,
+        version: 2,
+        revision: computeFavoriteRevision(library),
+        updatedAt: new Date().toISOString(),
+        library,
+    };
+}
+
+function folderPathInLibrary(library, folderId) {
+    const foldersById = new Map(library.folders.map((folder) => [folder.id, folder]));
+    const names = [];
+    let current = foldersById.get(folderId);
+    const seen = new Set();
+    while (current && !seen.has(current.id)) {
+        seen.add(current.id);
+        names.unshift(current.name);
+        current = current.parentId ? foldersById.get(current.parentId) : null;
+    }
+    return names.join("/");
+}
+
+function folderDepthInLibrary(library, folderId) {
+    const path = folderPathInLibrary(library, folderId);
+    return path ? path.split("/").length : 0;
+}
+
+function extractFavoriteLibraryFromPayload(payload) {
+    if (!payload || typeof payload !== "object") {
+        return createFavoriteLibrary();
+    }
+    if (payload.schema === FAVORITES_SYNC_SCHEMA && payload.library) {
+        return normalizeFavoriteLibrary(payload.library);
+    }
+    return normalizeFavoriteLibrary(payload);
+}
+
+function mergeFavoriteLibraries(remotePayload) {
+    const local = normalizeFavoriteLibrary(app.favoriteLibrary);
+    const remote = extractFavoriteLibraryFromPayload(remotePayload);
+    const merged = createFavoriteLibrary();
+    const folderPathToId = new Map();
+    const folderIdRemap = new Map();
+
+    const addFolders = (library) => {
+        const folders = [...library.folders].sort((a, b) =>
+            folderDepthInLibrary(library, a.id) - folderDepthInLibrary(library, b.id) ||
+            folderPathInLibrary(library, a.id).localeCompare(folderPathInLibrary(library, b.id))
+        );
+        for (const folder of folders) {
+            const path = folderPathInLibrary(library, folder.id);
+            const signature = path.toLowerCase();
+            const existingId = folderPathToId.get(signature);
+            if (existingId) {
+                folderIdRemap.set(folder.id, existingId);
+                continue;
+            }
+            const parentId = folder.parentId ? folderIdRemap.get(folder.parentId) || folder.parentId : "";
+            const nextFolder = normalizeFavoriteFolder({ ...folder, parentId });
+            if (!nextFolder) {
+                continue;
+            }
+            merged.folders.push(nextFolder);
+            folderPathToId.set(signature, nextFolder.id);
+            folderIdRemap.set(folder.id, nextFolder.id);
+        }
+    };
+
+    addFolders(local);
+    addFolders(remote);
+
+    const validFolderIds = new Set(merged.folders.map((folder) => folder.id));
+    const addItems = (library) => {
+        for (const [key, entry] of Object.entries(library.items)) {
+            const folderId = entry.folderId ? folderIdRemap.get(entry.folderId) || entry.folderId : null;
+            const nextEntry = {
+                ...entry,
+                folderId: folderId && validFolderIds.has(folderId) ? folderId : null,
+            };
+            const current = merged.items[key];
+            if (!current || Date.parse(nextEntry.updatedAt || "") >= Date.parse(current.updatedAt || "")) {
+                merged.items[key] = nextEntry;
+                app.articleCache.set(key, nextEntry.article);
+            }
+        }
+    };
+
+    addItems(local);
+    addItems(remote);
+    app.favoriteLibrary = merged;
+    saveFavoritesToStorage();
+    return {
+        folders: merged.folders.length,
+        items: Object.keys(merged.items).length,
+    };
+}
+
+function getSyncSettingsForRequest() {
+    syncSettingsFromInputs();
+    if (!app.sync.endpoint || !app.sync.key) {
+        app.sync.status = "Missing sync settings";
+        renderSyncPanel();
+        return null;
+    }
+    try {
+        new URL(app.sync.endpoint);
+    } catch {
+        app.sync.status = "Invalid endpoint";
+        renderSyncPanel();
+        return null;
+    }
+    persistSyncSettings();
+    return {
+        endpoint: app.sync.endpoint,
+        key: app.sync.key,
+    };
+}
+
+async function syncFetch(method, payload = null) {
+    const settings = getSyncSettingsForRequest();
+    if (!settings) {
+        return null;
+    }
+    const headers = {
+        Accept: "application/json",
+        Authorization: `Bearer ${settings.key}`,
+    };
+    if (payload) {
+        headers["Content-Type"] = "application/json";
+    }
+    return fetch(settings.endpoint, {
+        method,
+        cache: "no-cache",
+        headers,
+        body: payload ? JSON.stringify(payload) : undefined,
+    });
+}
+
+async function pullFavoritesFromCloud() {
+    app.sync.busy = true;
+    app.sync.status = "Pulling";
+    renderSyncPanel();
+    try {
+        const response = await syncFetch("GET");
+        if (!response) {
+            return;
+        }
+        if (response.status === 404) {
+            app.sync.status = "No remote favorites";
+            return;
+        }
+        if (!response.ok) {
+            throw new Error(response.status === 401 ? "Unauthorized" : `HTTP ${response.status}`);
+        }
+        const payload = await response.json();
+        const merged = mergeFavoriteLibraries(payload);
+        app.sync.status = `Pulled ${formatNumber(merged.items)} favorites`;
+        await renderAll();
+    } catch (error) {
+        app.sync.status = `Sync failed: ${String(error?.message || error)}`;
+    } finally {
+        app.sync.busy = false;
+        renderSyncPanel();
+    }
+}
+
+async function pushFavoritesToCloud() {
+    app.sync.busy = true;
+    app.sync.status = "Pushing";
+    renderSyncPanel();
+    try {
+        const payload = buildFavoriteLibraryPayload();
+        const response = await syncFetch("PUT", payload);
+        if (!response) {
+            return;
+        }
+        if (!response.ok) {
+            throw new Error(response.status === 401 ? "Unauthorized" : `HTTP ${response.status}`);
+        }
+        app.sync.status = `Pushed ${formatNumber(favoriteCount())} favorites`;
+    } catch (error) {
+        app.sync.status = `Sync failed: ${String(error?.message || error)}`;
+    } finally {
+        app.sync.busy = false;
+        renderSyncPanel();
+    }
+}
+
 function favoriteCount() {
     return Object.keys(app.favoriteLibrary.items).length;
 }
@@ -709,6 +993,7 @@ function applyTheme(theme) {
 
 function loadClientPreferences() {
     loadFavoritesFromStorage();
+    loadSyncSettings();
     const storedTheme = readStorage(THEME_STORAGE_KEY);
     applyTheme(storedTheme === "dark" || storedTheme === "light" ? storedTheme : detectPreferredTheme());
 }
@@ -1173,6 +1458,12 @@ function cacheDom() {
     dom.exportFavoritesBibtex = $("export-favorites-bibtex");
     dom.exportFavoritesCsv = $("export-favorites-csv");
     dom.exportFavoritesJson = $("export-favorites-json");
+    dom.syncEndpoint = $("sync-endpoint");
+    dom.syncKey = $("sync-key");
+    dom.syncSave = $("sync-save");
+    dom.syncPull = $("sync-pull");
+    dom.syncPush = $("sync-push");
+    dom.syncStatus = $("sync-status");
     dom.favoriteFolderPath = $("favorite-folder-path");
     dom.createFavoriteFolder = $("create-favorite-folder");
     dom.renameFavoriteFolder = $("rename-favorite-folder");
@@ -1482,7 +1773,27 @@ function renderFavoriteArticleRow(article) {
     `;
 }
 
+function renderSyncPanel() {
+    if (!dom.syncEndpoint) {
+        return;
+    }
+    const endpointActive = document.activeElement === dom.syncEndpoint;
+    const keyActive = document.activeElement === dom.syncKey;
+    if (!endpointActive) {
+        dom.syncEndpoint.value = app.sync.endpoint;
+    }
+    if (!keyActive) {
+        dom.syncKey.value = app.sync.key;
+    }
+    const settingsReady = Boolean(app.sync.endpoint && app.sync.key);
+    dom.syncSave.disabled = app.sync.busy;
+    dom.syncPull.disabled = app.sync.busy || !settingsReady;
+    dom.syncPush.disabled = app.sync.busy || !settingsReady;
+    dom.syncStatus.textContent = app.sync.status;
+}
+
 function renderFavoritesView() {
+    renderSyncPanel();
     renderFavoriteFolderTree();
     const folderId = app.state.activeFavoriteFolderId || FAVORITES_ALL_FOLDER;
     const articles = getFavoriteArticles(folderId);
@@ -1748,6 +2059,23 @@ function bindEvents() {
     dom.exportFavoritesBibtex.addEventListener("click", () => exportCurrentFavorites("bibtex"));
     dom.exportFavoritesCsv.addEventListener("click", () => exportCurrentFavorites("csv"));
     dom.exportFavoritesJson.addEventListener("click", () => exportCurrentFavorites("json"));
+
+    dom.syncEndpoint.addEventListener("input", () => {
+        app.sync.endpoint = normalizeSyncEndpoint(dom.syncEndpoint.value);
+        renderSyncPanel();
+    });
+
+    dom.syncKey.addEventListener("input", () => {
+        app.sync.key = dom.syncKey.value;
+        renderSyncPanel();
+    });
+
+    dom.syncSave.addEventListener("click", () => {
+        saveSyncSettings();
+    });
+
+    dom.syncPull.addEventListener("click", pullFavoritesFromCloud);
+    dom.syncPush.addEventListener("click", pushFavoritesToCloud);
 
     dom.createFavoriteFolder.addEventListener("click", async () => {
         const folder = ensureFavoriteFolderPath(dom.favoriteFolderPath.value);
