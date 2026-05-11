@@ -1,7 +1,7 @@
 # Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **899** 篇
+共 **900** 篇
 
 ---
 
@@ -1396,6 +1396,10 @@
 **年份**: 2006 | **DOI**: [10.1177/0038038506069855](https://doi.org/10.1177/0038038506069855)
 **作者**: Clarke, Simon
 **摘要**: Over the past few years there has been an increasing interest in the use of psychoanalytic ideas within a sociological framework. These ideas have been largely developed within sociological theory rather than practice.…
+
+### Books Received
+**年份**: 2006 | **DOI**: [10.1177/0038038506063690](https://doi.org/10.1177/0038038506063690)
+**摘要**: （暂无）
 
 ### Methodological Pluralism, British Sociology and the Evidence-based State
 **年份**: 2005 | **DOI**: [10.1177/0038038505053107](https://doi.org/10.1177/0038038505053107)

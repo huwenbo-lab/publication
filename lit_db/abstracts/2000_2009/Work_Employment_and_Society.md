@@ -1,7 +1,7 @@
 # Work, Employment and Society
 ## 2000–2009 年文章（含摘要）
 
-共 **713** 篇
+共 **714** 篇
 
 ---
 
@@ -1310,6 +1310,10 @@
 **年份**: 2004 | **DOI**: [10.1177/09500172004042773](https://doi.org/10.1177/09500172004042773)
 **作者**: Simpson, Ruth
 **摘要**: This article presents the findings of a research project on the implications of men’s non-traditional career choices for their experiences within the organization and for gender identity.…
+
+### Books Received
+**年份**: 2004 | **DOI**: [10.1177/0950017004047975](https://doi.org/10.1177/0950017004047975)
+**摘要**: （暂无）
 
 ### Book Reviews
 **年份**: 2003 | **DOI**: [10.1177/0950017003017002011](https://doi.org/10.1177/0950017003017002011)

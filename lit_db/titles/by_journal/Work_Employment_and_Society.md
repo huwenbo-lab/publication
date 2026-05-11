@@ -1,6 +1,6 @@
 # Work, Employment and Society — 文章标题索引
 
-共 **1819** 篇 | 年份范围：1990–2026
+共 **1878** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -747,6 +747,7 @@
 - The shadow of future homeownership: the association of wanting to move into homeownership with labour supply · [DOI](https://doi.org/10.1177/0950017016631443)
 - Speaking up, leaving or keeping silent: racialized employees in the Swedish elderly care sector · [DOI](https://doi.org/10.1177/0950017016667042)
 - Britain’s slow movement to a gender egalitarian equilibrium: parents and employment in the UK 2001–13 · [DOI](https://doi.org/10.1177/0950017016638009)
+- Corrigendum · [DOI](https://doi.org/10.1177/0950017016679920)
 
 ## 2015
 
@@ -1427,6 +1428,7 @@
 - Call configurations: varieties of call centre and divisions of labour · [DOI](https://doi.org/10.1177/0950017004047965)
 - Abstracts · [DOI](https://doi.org/10.1177/0950017004042740)
 - Masculinity at Work · [DOI](https://doi.org/10.1177/09500172004042773)
+- Books Received · [DOI](https://doi.org/10.1177/0950017004047975)
 
 ## 2003
 
@@ -1895,6 +1897,18 @@
 - School Age Workers: the Paid Employment of Children in Britain · [DOI](https://doi.org/10.1177/09500179922118015)
 - Change in the Benefits Agency: Empowering the Exhausted Worker? · [DOI](https://doi.org/10.1177/09500179922117773)
 - The Transition from Organisational Employment to Portfolio Working: Perceptions of `Boundarylessness' · [DOI](https://doi.org/10.1177/09500179922117962)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017099013002016)
+- Contingent Workers and Health and Safety · [DOI](https://doi.org/10.1177/09500179922118024)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017099013004018)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017099013004015)
+- Danger: Bodies at Work · [DOI](https://doi.org/10.1177/09500179922117737)
+- Book Reviews · [DOI](https://doi.org/10.1177/09500179922117881)
+
+## 1998
+
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017098124026)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017098123017)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017098124024)
 
 ## 1997
 
@@ -1902,29 +1916,89 @@
 - Youth, Gender and Part-Time Work-Students in the Labour Process · [DOI](https://doi.org/10.1177/0950017097114001)
 - The Family Enterprise and Business Strategies · [DOI](https://doi.org/10.1177/0950017097114005)
 - Who Decides What? Decision Making in Dual-Career Households · [DOI](https://doi.org/10.1177/0950017097112006)
+- Ethnic Differences in Women's Employment · [DOI](https://doi.org/10.1177/0950017097113003)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017097112016)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017097113020)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017097114016)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017097111013)
+- Whatever it Takes? Managing `Empowered' Employees and the Service Encounter in an International Hotel Chain · [DOI](https://doi.org/10.1177/0950017097113008)
+- Shopfloor Trade Unionism in Russia: The Prospects of Reform from Below · [DOI](https://doi.org/10.1177/0950017097111007)
+- Dualism, Flexibility and Self-Employment in the UK Construction Industry · [DOI](https://doi.org/10.1177/0950017097113004)
+- In Search of Technik: Will Engineering Outgrow Management? · [DOI](https://doi.org/10.1177/0950017097114009)
 
 ## 1996
 
 - Book Reviews · [DOI](https://doi.org/10.1177/0950017096101023)
+- The `New Economic Sociology' · [DOI](https://doi.org/10.1177/0950017096103008)
 
 ## 1995
 
 - Employees' Perspectives on One Dimension of Labour Flexibility: Working at a Distance · [DOI](https://doi.org/10.1177/095001709593003)
 - Self-Employment Career Dynamics: The Case of `Unemployment Push' in UK Book Publishing · [DOI](https://doi.org/10.1177/095001709593004)
+- It Ain't What You do, it's the Way that You do it: Production Organisation and Skill Utilisation in Commercial Vehicles · [DOI](https://doi.org/10.1177/095001709594005)
+- Automation and New Work Patterns: Cases from Singapore's Electronics Industry · [DOI](https://doi.org/10.1177/095001709592005)
+- The Reluctant Profession - Homoeopathy and the Search for Legitimacy · [DOI](https://doi.org/10.1177/095001709594006)
+- Book Reviews · [DOI](https://doi.org/10.1177/095001709594019)
+- Output Characteristics as Input in the Skilling Debate · [DOI](https://doi.org/10.1177/095001709592006)
+
+## 1994
+
+- Industry and the Rest: The Economic Identity of Services · [DOI](https://doi.org/10.1177/095001709482006)
+- Book Reviews · [DOI](https://doi.org/10.1177/095001709481020)
+- Book Reviews · [DOI](https://doi.org/10.1177/095001709484016)
+- Book Reviews · [DOI](https://doi.org/10.1177/095001709482017)
 
 ## 1993
 
 - Air France's Strategic Plan: Benevolent `New Despotism'? · [DOI](https://doi.org/10.1177/095001709374004)
+- The End of a Way of Life: Coal Communities Since the 1984-85 Miners' Strike · [DOI](https://doi.org/10.1177/095001709371007)
+- Professional Knowledge and Social Mobility: Postwar Changes in the Knowledge-Base of Management Accounting · [DOI](https://doi.org/10.1177/095001709371001)
+- Book Reviews · [DOI](https://doi.org/10.1177/095001709374017)
 
 ## 1992
 
 - Where do You Draw the Line? Functional Flexibility, Training &amp; Skill in Britain &amp; France · [DOI](https://doi.org/10.1177/095001709263004)
+- Employment and `Community Care': Policies for the 1990s · [DOI](https://doi.org/10.1177/095001709261006)
+- Book Reviews · [DOI](https://doi.org/10.1177/095001709261012)
+- `The Figures, the Personality and the Bums': Service Work and Sexuality · [DOI](https://doi.org/10.1177/095001709261002)
 
 ## 1991
 
 - Gendering Jobs: Corporate Strategy, Managerial Control and the Dynamics of Job Segregation · [DOI](https://doi.org/10.1177/0950017091005002003)
 - Consumers' Reports: Management by Customers in a Changing Economy · [DOI](https://doi.org/10.1177/0950017091005001002)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017091005001018)
 
 ## 1990
 
 - Gender and Skills · [DOI](https://doi.org/10.1177/0950017090004002002)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017090004003015)
+- The End of Japanese-Style Employment? · [DOI](https://doi.org/10.1177/0950017090004003002)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017090004002013)
+
+## 1989
+
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017089003001021)
+- Unemployed Youth: A Lost Generation? · [DOI](https://doi.org/10.1177/0950017089003004005)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017089003004013)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017089003001013)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017089003001011)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017089003001014)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017089003001019)
+- Women in Banking: Continuity and Change Since the Second World War · [DOI](https://doi.org/10.1177/0950017089003002002)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017089003002011)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017089003002018)
+
+## 1988
+
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017088002003016)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017088002001013)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017088002003011)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017088002004010)
+
+## 1987
+
+- Subcontracting in Steel · [DOI](https://doi.org/10.1177/0950017087001004006)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017087001004011)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017087001001011)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017087001003018)
+- Book Reviews · [DOI](https://doi.org/10.1177/0950017087001002008)

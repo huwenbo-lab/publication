@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **278** 篇
+共 **281** 篇
 
 ---
 
@@ -430,6 +430,11 @@
 **作者**: Boyle, Elizabeth Heger
 **摘要**: （暂无）
 
+### Syndication, Institutionalization, and Lottery Play
+**年份**: 2007 | **DOI**: [10.1086/521847](https://doi.org/10.1086/521847)
+**作者**: Garvía, Roberto
+**摘要**: （暂无）
+
 ### Neighborhood choice and neighborhood change
 **年份**: 2006 | **DOI**: [10.1086/507856](https://doi.org/10.1086/507856)
 **作者**: Bruch, Elizabeth E.; Mare, Robert D.
@@ -710,6 +715,11 @@
 **作者**: Moody, J; McFarland, D; Bender-deMoll, S
 **摘要**: Increased interest in longitudinal social networks and the recognition that visualization fosters theoretical insight create a need for dynamic network visualizations, or network movies.…
 
+### Globalization Pressures and the State: The Worldwide Spread of Central Bank Independence
+**年份**: 2005 | **DOI**: [10.1086/428685](https://doi.org/10.1086/428685)
+**作者**: Polillo, Simone; Guillén, Mauro F.
+**摘要**: （暂无）
+
 ### Social shocks and slave social mobility: Manumission in Brunswick County, Virginia, 1782-18621
 **年份**: 2004 | **DOI**: [10.1086/425965](https://doi.org/10.1086/425965)
 **作者**: Budros, A
@@ -849,6 +859,11 @@
 **年份**: 2004 | **DOI**: [10.1086/378928](https://doi.org/10.1086/378928)
 **作者**: Huffman, ML; Cohen, PN
 **摘要**: Despite decades of research showing greater black-white inequality in local areas where the black population is relatively large, little is known about the mechanisms for this effect.…
+
+### Organizational Success and Worker Dignity: Complementary or Contradictory?
+**年份**: 2004 | **DOI**: [10.1086/422626](https://doi.org/10.1086/422626)
+**作者**: Hodson, Randy; Roscigno, Vincent J.
+**摘要**: （暂无）
 
 ### The strange history of employer-sponsored child care: Interested actors, uncertainty, and the transformation of law in organizational fields
 **年份**: 2003 | **DOI**: [10.1086/379631](https://doi.org/10.1086/379631)

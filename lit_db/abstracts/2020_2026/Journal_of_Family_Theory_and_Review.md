@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **306** 篇
+共 **320** 篇
 
 ---
 
@@ -74,6 +74,76 @@
 **年份**: 2026 | **DOI**: [10.1111/jftr.70058](https://doi.org/10.1111/jftr.70058)
 **作者**: Wang, Qingqing; Deng, Lijuan
 **摘要**: ABSTRACT This article examines the rise of the hands‐on dad phenomenon on contemporary Chinese short‐video platforms. Adopting an interdisciplinary perspective that integrates gender studies, masculinity research, semiotics, and media studies, we analyze how hands‐on dads are constructed and how the…
+
+### Are We Willing to Change? A Feminist Agenda for the Study of Men in Families
+**年份**: 2026 | **DOI**: [10.1111/jftr.70061](https://doi.org/10.1111/jftr.70061)
+**作者**: Garnett‐Deakin, Aran; Sanner, Caroline
+**摘要**: ABSTRACT Public concern over the increasingly visible crisis of hegemonic masculinity is growing. Young men are showing a rise in antifeminist rhetoric, worsening mental health, and a loneliness epidemic.…
+
+### A Comprehensive Mapping of Intergenerational Caregiving: A Scoping Review of Dyadic and Family Caregiving
+**年份**: 2026 | **DOI**: [10.1111/jftr.70067](https://doi.org/10.1111/jftr.70067)
+**作者**: Seah, Chuen Wei Alvin; Yeo, Tin Mei; Hildon, Zoe Jane‐Lara 等7人
+**摘要**: ABSTRACT Families remain central to later‐life support, yet evidence on intergenerational caregiving is fragmented across dyads, generations, and cultural contexts. This scoping review maps how caregiving is organized and negotiated across structural, associational, affectual, functional, consensual…
+
+### Couple Dynamics Following Brain Cancer Diagnosis: A Scoping Review
+**年份**: 2026 | **DOI**: [10.1111/jftr.70060](https://doi.org/10.1111/jftr.70060)
+**作者**: Frye‐Cox, Nick; Johnson, Zoee; Shores, Olivia 等5人
+**摘要**: ABSTRACT In this scoping review, we examine the psychosocial impacts and relationship experiences of brain cancer on patients and their romantic partners. We synthesize seven empirical studies published between 2000 and 2024 across the United States ( n = 2) and Europe ( n = 5).…
+
+### Effects of Paternal Unemployment on Family Dynamics and Well‐Being: A Systematic Review
+**年份**: 2026 | **DOI**: [10.1111/jftr.70069](https://doi.org/10.1111/jftr.70069)
+**作者**: Sümer, Nebi; Beşpınar, F. Umut; Sieben, Anna 等8人
+**摘要**: ABSTRACT Hegemonic masculinity theory suggests that unemployment undermines fathers' social identity and well‐being, given the association between masculinity, paid employment, and breadwinning.…
+
+### Cooperative Rearing and Low Fertility Persistence: A Two‐Constraint Theoretical Framework
+**年份**: 2026 | **DOI**: [10.1111/jftr.70062](https://doi.org/10.1111/jftr.70062)
+**作者**: Zhang, Zhen; Li, Qiang
+**摘要**: ABSTRACT Despite expanded family policy spending across high‐income countries, fertility remains low. Quasi‐experimental evidence shows that cash and tax transfers tend to shift fertility mainly among lower socioeconomic status (SES) groups, with smaller or null effects among socioeconomically advan…
+
+### Family Gerontology, Fatherhood, and Masculinity: Enduring Impacts of Fathers and Adult Children
+**年份**: 2026 | **DOI**: [10.1111/jftr.70068](https://doi.org/10.1111/jftr.70068)
+**作者**: Majeske, Amber J.; Molloy, Sonia; Marshall, Mary 等6人
+**摘要**: ABSTRACT Despite the intertwined nature of aging, fatherhood, and masculinities, research rarely integrates these perspectives to understand fathers' relationships with their adult children.…
+
+### Adolescence: A Critical Media Review
+**年份**: 2026 | **DOI**: [10.1111/jftr.70059](https://doi.org/10.1111/jftr.70059)
+**作者**: Andrea, Erin K.; Desens Gochanour, Emma M.; Nuñez Love, Lizee
+**摘要**: （暂无）
+
+### Reconfiguring Gendered Power in Families Through Men's Emotions
+**年份**: 2026 | **DOI**: [10.1111/jftr.70064](https://doi.org/10.1111/jftr.70064)
+**作者**: Cho, Sun A; Roy, Kevin
+**摘要**: ABSTRACT This article calls for a fundamental theoretical shift from masculinity to men as embodied, emotional, and reflexive agents. Such a shift makes gendered power visible as men enact, reproduce, and at times unsettle gendered power within families, addressing the persistent theoretical challen…
+
+### Doing Parenting: Critical Approaches to the Study of Mothering and Fathering
+**年份**: 2026 | **DOI**: [10.1111/jftr.70066](https://doi.org/10.1111/jftr.70066)
+**作者**: Molloy, Sonia
+**摘要**: ABSTRACT Parenting researchers have historically theorized mothering and fathering as gendered, with a focus on mothers as primary parents. Increasingly, scholars recognize the need to understand parenting beyond the binary of heteronormative and gendered parenting.…
+
+### Discovering Legacies: Fathers, Sons, Masculinities, and Equity Within Families
+**年份**: 2026 | **DOI**: [10.1111/jftr.70052](https://doi.org/10.1111/jftr.70052)
+**作者**: Roy, Kevin
+**摘要**: ABSTRACT In this article, I examine how personal experiences within my family and my homeplace communities have shaped 20 years of basic and applied research, as well as theorizing, on fathering and masculinities.…
+
+### Constructing Meaning in Digital Lives: A Theory‐Driven and Practical Approach to Using Online Forums in Family Science
+**年份**: 2026 | **DOI**: [10.1111/jftr.70057](https://doi.org/10.1111/jftr.70057)
+**作者**: Monk, J. Kale; Jamison, Tyler B.; Basinger, Erin D. 等6人
+**摘要**: ABSTRACT Online forums offer family scholars a unique opportunity to learn how people make sense of complex issues related to family, identity, and relationships. These digital spaces often mirror or even amplify offline dynamics, as users interact to disclose sensitive information, construct narrat…
+
+### Critical Masculinities in Families: Situating the Special Issue
+**年份**: 2026 | **DOI**: [10.1111/jftr.70071](https://doi.org/10.1111/jftr.70071)
+**作者**: Allen, Samuel H.; Roy, Kevin
+**摘要**: ABSTRACT The term masculinities has garnered immense attention over the past decade in both the social and scholarly arenas. Within family science, however, that attention has been far more limited.…
+
+### Parental Racial–Ethnic Socialization in the Early Years: A Scoping Review
+**年份**: 2026 | **DOI**: [10.1111/jftr.70051](https://doi.org/10.1111/jftr.70051)
+**作者**: Durazi, Amaesha; Mistry, Rashmita S.
+**摘要**: ABSTRACT This review synthesizes parental racial–ethnic socialization (RES) research focused on families with children of color, highlighting conceptual and measurement advances and gaps for early childhood through early adolescence (ages 0–12).…
+
+### Masculinity Development in the Manosphere: An Ecological Systems Perspective
+**年份**: 2026 | **DOI**: [10.1111/jftr.70065](https://doi.org/10.1111/jftr.70065)
+**作者**: White, Alison C.; Zarling, Amie
+**摘要**: ABSTRACT Guided by Ecological Systems theory, this article examines how the manosphere—a network of antifeminist online communities—functions as a developmental context shaping boys' and young men's masculinity development.…
 
 ### Exploring Therapist's Worldview in a Family Therapy Theory Course: A Four‐Corners Learning Activity
 **年份**: 2025 | **DOI**: [10.1111/jftr.70010](https://doi.org/10.1111/jftr.70010)

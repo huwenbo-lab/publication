@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **1932** 篇 | 年份范围：1964–2026
+共 **1973** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -8,6 +8,18 @@
 ## 2026
 
 - Causal Effects of Education on Marriage and Fertility in Japan: A Research Note on a Quasi-Experimental Approach Utilizing Zodiac Superstition as an Exogenous Shock · [DOI](https://doi.org/10.1215/00703370-12530548)
+- Beyond Lifelong Marriage and Spousal Coresidence: A Research Note on Racial and Ethnic Differences in Late-Life Family and Living Arrangements · [DOI](https://doi.org/10.1215/00703370-12458349)
+- Antibiotic Pollution and Infant Mortality in India: A Research Note · [DOI](https://doi.org/10.1215/00703370-12459254)
+- A Research Note on Loneliness as a Driver of International Migration: Prospective Evidence From the Netherlands · [DOI](https://doi.org/10.1215/00703370-12424049)
+- Bringing Age Back In: Accounting for Population Age Distribution in Forecasting Migration · [DOI](https://doi.org/10.1215/00703370-12569854)
+- Mothers and Maternal Grandmothers Kept Children Alive During Slavery: Evidence From the Surinamese Slave Registers, 1830–1863 · [DOI](https://doi.org/10.1215/00703370-12446726)
+- More Education and Fewer Children? The Contribution of Educational Enrollment and Attainment to the Fertility Decline in Norway · [DOI](https://doi.org/10.1215/00703370-12475875)
+- The Social Context of Spatial Choice: Activity Locations and Residential Segregation · [DOI](https://doi.org/10.1215/00703370-12475908)
+- Infant Mortality Expectation and Fertility Behavior in Rural Malawi · [DOI](https://doi.org/10.1215/00703370-12553282)
+- Beyond Income: Health, Wealth, and Racial Welfare Gaps Among Older Americans · [DOI](https://doi.org/10.1215/00703370-12460649)
+- Net Worth Poverty in Childhood: Duration, Timing, and Educational Outcomes · [DOI](https://doi.org/10.1215/00703370-12563780)
+- Can Incorporating Parity Information Improve the Reliability of Completed Cohort Fertility Projections? Insights From a Bayesian Generalized Additive Model Approach · [DOI](https://doi.org/10.1215/00703370-12530362)
+- Impaired Cognitive and Behavioral Functioning in Childhood and Economic Outcomes in Adulthood · [DOI](https://doi.org/10.1215/00703370-12543998)
 
 ## 2025
 
@@ -557,6 +569,7 @@
 - Crime and Inequality in Academic Achievement Across School Districts in the United States · [DOI](https://doi.org/10.1007/s13524-019-00850-x)
 - Pathways to Low Fertility: 50 Years of Limitation, Curtailment, and Postponement of Childbearing · [DOI](https://doi.org/10.1007/s13524-019-00848-5)
 - Does Starting Universal Childcare Earlier Influence Children's Skill Development? · [DOI](https://doi.org/10.1007/s13524-019-00836-9)
+- Another Plea for Caution When Using Survey Income Data From the Far-Left Tail · [DOI](https://doi.org/10.1007/s13524-020-00936-x)
 
 ## 2019
 
@@ -1990,15 +2003,21 @@
 
 - Migradollars and mortality: The effects of migration on infant survival in Mexico · [DOI](https://doi.org/10.2307/2648057)
 - Religious involvement and U.S. adult mortality · [DOI](https://doi.org/10.2307/2648114)
+- Shifting family definitions: The effect of cohabitation and other nonfamily household relationships on measures of poverty · [DOI](https://doi.org/10.2307/2648055)
+- The educational attainment of young women: Role model effects of female high school faculty · [DOI](https://doi.org/10.2307/2648107)
 
 ## 1998
 
 - Demography and the environment · [DOI](https://doi.org/10.2307/3004008)
+- Ethnic stratification in Northwest China: Occupational differences between Han Chinese and national minorities in Xinjiang, 1982–1990 · [DOI](https://doi.org/10.2307/3004040)
 
 ## 1997
 
 - Geographic information systems, spatial network analysis, and contraceptive choice · [DOI](https://doi.org/10.2307/2061697)
 - Age-distribution dynamics and aging indexes · [DOI](https://doi.org/10.2307/3038309)
+- Measuring immigrant wage growth using matched CPS files · [DOI](https://doi.org/10.2307/2061702)
+- The Rise of Divorce and Separation in the Unitd States, 1880-1990 · [DOI](https://doi.org/10.2307/3038300)
+- Couple childbearing desires, intentions, and births · [DOI](https://doi.org/10.2307/3038288)
 
 ## 1996
 
@@ -2008,10 +2027,17 @@
 
 - Dissolution of Premarital Cohabitation in Canada · [DOI](https://doi.org/10.2307/2061672)
 - Does Marriage Matter? · [DOI](https://doi.org/10.2307/2061670)
+- The Elderly Who Live Alone in the United States: Historical Perspectives on Household Change · [DOI](https://doi.org/10.2307/2061684)
+- Why Marry? Race and the Transition to Marriage among Cohabitors · [DOI](https://doi.org/10.2307/2061671)
+
+## 1994
+
+- Migration and the Latino Family: The Union Formation Behavior of Puerto Rican Women · [DOI](https://doi.org/10.2307/2061912)
 
 ## 1993
 
 - Thirty Years of Demography · [DOI](https://doi.org/10.2307/2061804)
+- If All We Knew About Women Was What We Read inDemography, What Would We Know? · [DOI](https://doi.org/10.2307/2061806)
 
 ## 1992
 
@@ -2024,6 +2050,13 @@
 
 - Fertility decline in Taiwan: A study using parity progression ratios · [DOI](https://doi.org/10.2307/2061468)
 - Childhood events and circumstances influencing high school completion · [DOI](https://doi.org/10.2307/2061340)
+- Spanish Surname and Anglo Infant Mortality: Differentials Over a Half-Century · [DOI](https://doi.org/10.2307/2061427)
+- Variations on two themes: Racial and ethnic patterns in the attainment of suburban residence · [DOI](https://doi.org/10.2307/2061466)
+
+## 1990
+
+- Fertility desires and fertility: Hers, his, and theirs · [DOI](https://doi.org/10.2307/2061571)
+- The Origins of the Chinese Fertility Decline · [DOI](https://doi.org/10.2307/2061373)
 
 ## 1989
 
@@ -2033,19 +2066,25 @@
 
 - Stability over time in the distribution of population forecast errors · [DOI](https://doi.org/10.2307/2061544)
 - Undocumented Mexican immigrants and the earnings of other workers in the United States · [DOI](https://doi.org/10.2307/2061476)
+- The timing of falls into poverty after retirement and widowhood · [DOI](https://doi.org/10.2307/2061540)
 
 ## 1987
 
 - On Stable Population Theory With Immigration · [DOI](https://doi.org/10.2307/2061308)
+- Starting, stopping, and spacing during the early stages of fertility transition: The experience of German village populations in the 18th and 19th centuries · [DOI](https://doi.org/10.2307/2061627)
+- Socioeconomic development, family planning, and fertility in China · [DOI](https://doi.org/10.2307/2061390)
 
 ## 1985
 
 - Constraints, Satisfaction and Residential Mobility: Speare’s Model Reconsidered · [DOI](https://doi.org/10.2307/2061178)
+- The effect of piped water on early childhood mortality in Urban Brazil, 1970 to 1976 · [DOI](https://doi.org/10.2307/2060983)
+- The Declining Significance of First-Birth Timing · [DOI](https://doi.org/10.2307/2061177)
 
 ## 1984
 
 - Place, race and differential occupational opportunities · [DOI](https://doi.org/10.2307/2061043)
 - Social and economic change, intergenerational relationships, and family formation in Taiwan · [DOI](https://doi.org/10.2307/2060911)
+- A multilevel model of family planning availability and contraceptive use in rural Thailand · [DOI](https://doi.org/10.2307/2060915)
 
 ## 1983
 
@@ -2054,28 +2093,45 @@
 ## 1982
 
 - Immigration and the Stable Population Model · [DOI](https://doi.org/10.2307/2061132)
+- Race differences in age at first birth and the pace of subsequent fertility: Implications for the minority group status hypothesis · [DOI](https://doi.org/10.2307/2060973)
 
 ## 1981
 
 - The Harmonic Mean as the Basis of a Realistic Two-Sex Marriage Model · [DOI](https://doi.org/10.2307/2061093)
 - Social Structure and U.S. Inter-State Fertility Differentials in 1900 · [DOI](https://doi.org/10.2307/2060943)
+- A Generalized Index of Dissimilarity · [DOI](https://doi.org/10.2307/2061096)
 
 ## 1980
 
 - Estimating the Approximate Size of The Illegal Alien Population in the United States by the Comparative Trend Analysis of Age-Specific Death Rates · [DOI](https://doi.org/10.2307/2061057)
+- Foreign-Born Emigration from the United States: 1960 To 1970 · [DOI](https://doi.org/10.2307/2060964)
 
 ## 1979
 
 - Motivations for the inmigration component of population turnaround in nonmetropolitan areas · [DOI](https://doi.org/10.2307/2061141)
 - The end of “Catholic” fertility · [DOI](https://doi.org/10.2307/2061139)
 
+## 1978
+
+- Age and marital status at first birth and the pace of subsequent fertility · [DOI](https://doi.org/10.2307/2060491)
+- Contextual and ideological dimensions of attitudes toward discretionary abortion · [DOI](https://doi.org/10.2307/2060657)
+
+## 1975
+
+- Social security and fertility: An international perspective · [DOI](https://doi.org/10.2307/2060718)
+
 ## 1974
 
 - Effect of Mortality Change on Stable Population Parameters · [DOI](https://doi.org/10.2307/2060703)
+- Review Symposium · [DOI](https://doi.org/10.2307/2060567)
 
 ## 1970
 
 - Some demographic determinants of average household size: An analytic approach · [DOI](https://doi.org/10.2307/2060023)
+
+## 1969
+
+- The Prediction of Completed Fertility · [DOI](https://doi.org/10.2307/2060089)
 
 ## 1964
 

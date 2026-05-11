@@ -1,7 +1,7 @@
 # Demography
 ## 2020–2026 年文章（含摘要）
 
-共 **532** 篇
+共 **545** 篇
 
 ---
 
@@ -9,6 +9,66 @@
 **年份**: 2026 | **DOI**: [10.1215/00703370-12530548](https://doi.org/10.1215/00703370-12530548)
 **作者**: Fu, Rong; Wang, Senhu; Shen, Yichen 等4人
 **摘要**: Abstract Despite extensive research on education's relationship with family formation, causal evidence remains limited, particularly for postsecondary education in East Asia. This research note provides novel causal evidence on education's effects on marriage and fertility among Japanese women by ex…
+
+### Beyond Lifelong Marriage and Spousal Coresidence: A Research Note on Racial and Ethnic Differences in Late-Life Family and Living Arrangements
+**年份**: 2026 | **DOI**: [10.1215/00703370-12458349](https://doi.org/10.1215/00703370-12458349)
+**作者**: Wang, Xueqing; Zhang, Xuezhixing; Zang, Emma
+**摘要**: Abstract We employ an innovative Bayesian multistate life table approach to examine how race, ethnicity, and sex shape marital status and living arrangements in later life. Using the Health and Retirement Study (1992–2018), we estimate expected years spent in various marital and living arrangements …
+
+### Antibiotic Pollution and Infant Mortality in India: A Research Note
+**年份**: 2026 | **DOI**: [10.1215/00703370-12459254](https://doi.org/10.1215/00703370-12459254)
+**作者**: Dumas, Christelle; Játiva, Ximena; Baumgartner, Stefanie
+**摘要**: Abstract The number of deaths from antibiotic resistance is steadily rising and has become a global public health issue. Children in low- and middle-income countries are disproportionately affected, as last-line antibiotics are usually unavailable to them.…
+
+### A Research Note on Loneliness as a Driver of International Migration: Prospective Evidence From the Netherlands
+**年份**: 2026 | **DOI**: [10.1215/00703370-12424049](https://doi.org/10.1215/00703370-12424049)
+**作者**: van den Broek, Thijs
+**摘要**: Abstract The well-established finding that migrants tend to be lonelier than their counterparts without a migration background in the country of settlement is typically ascribed to challenges that come with international migration.…
+
+### Bringing Age Back In: Accounting for Population Age Distribution in Forecasting Migration
+**年份**: 2026 | **DOI**: [10.1215/00703370-12569854](https://doi.org/10.1215/00703370-12569854)
+**作者**: Welch, Nathan G.; Ševčíková, Hana; Raftery, Adrian E.
+**摘要**: Abstract Existing models of country-level net migration ignore the effect of population age distribution on past and projected migration rates. We propose a method to estimate and forecast international net migration rates for the 200 most populous countries, taking account of changes in population …
+
+### Mothers and Maternal Grandmothers Kept Children Alive During Slavery: Evidence From the Surinamese Slave Registers, 1830–1863
+**年份**: 2026 | **DOI**: [10.1215/00703370-12446726](https://doi.org/10.1215/00703370-12446726)
+**作者**: Rosenbaum-Feldbrügge, Matthias; Quanjer, Björn; Thompson, Kristina
+**摘要**: Abstract Studies have shown strong relationships between the presence of kin and children's survival outcomes in historical and contemporary low-income contexts. However, this relationship has never been studied among an enslaved population, who encountered extremely harsh living conditions.…
+
+### More Education and Fewer Children? The Contribution of Educational Enrollment and Attainment to the Fertility Decline in Norway
+**年份**: 2026 | **DOI**: [10.1215/00703370-12475875](https://doi.org/10.1215/00703370-12475875)
+**作者**: Beck, Kathryn Christine; Hellstrand, Julia; Myrskylä, Mikko
+**摘要**: Abstract Period fertility has declined rapidly in Norway in the 2010s, reaching record lows. Although there is a clear education‒fertility dynamic, significant educational shifts have occurred and it is unclear how much this contributed to recent fertility declines.…
+
+### The Social Context of Spatial Choice: Activity Locations and Residential Segregation
+**年份**: 2026 | **DOI**: [10.1215/00703370-12475908](https://doi.org/10.1215/00703370-12475908)
+**作者**: Cai, Liang; Browning, Christopher; Anselin, Luc
+**摘要**: Abstract Despite considerable focus on clustering as a dimension of segregation and the explosion of big location data, the extant literature has not explicitly examined residential racial segregation and the clustering of racially segregated space as an influence on mobility.…
+
+### Infant Mortality Expectation and Fertility Behavior in Rural Malawi
+**年份**: 2026 | **DOI**: [10.1215/00703370-12553282](https://doi.org/10.1215/00703370-12553282)
+**作者**: Delavande, Adeline; Kohler, Hans-Peter; Vergili, Ali
+**摘要**: Abstract For decades, population research has been interested in the complex relationship between child mortality and fertility, with a key focus on identifying hoarding behavior (i.e., fertility response to expected aggregate child mortality).…
+
+### Beyond Income: Health, Wealth, and Racial Welfare Gaps Among Older Americans
+**年份**: 2026 | **DOI**: [10.1215/00703370-12460649](https://doi.org/10.1215/00703370-12460649)
+**作者**: Chin, Sayorn; Miller, Ray
+**摘要**: Abstract We estimate racial and ethnic disparities in well-being among older Americans using longitudinal data and an expected utility framework that incorporates differences in consumption, leisure, health, mortality, and wealth.…
+
+### Net Worth Poverty in Childhood: Duration, Timing, and Educational Outcomes
+**年份**: 2026 | **DOI**: [10.1215/00703370-12563780](https://doi.org/10.1215/00703370-12563780)
+**作者**: Gibson-Davis, Christina; Keister, Lisa; Gennetian, Lisa 等4人
+**摘要**: Abstract Net worth poverty (NWP) is the modal form of poverty for American children, but how it is experienced across childhood and its associations with human capital accumulation are unknown.…
+
+### Can Incorporating Parity Information Improve the Reliability of Completed Cohort Fertility Projections? Insights From a Bayesian Generalized Additive Model Approach
+**年份**: 2026 | **DOI**: [10.1215/00703370-12530362](https://doi.org/10.1215/00703370-12530362)
+**作者**: Ellison, Joanne; Bijak, Jakub; Dodd, Erengul
+**摘要**: Abstract Fertility projections inform population projections and are used to plan for the future provision of vital services such as maternity care and schooling. Existing fertility forecasting models tend to use aggregate births data indexed by age and time alone, thereby neglecting to include info…
+
+### Impaired Cognitive and Behavioral Functioning in Childhood and Economic Outcomes in Adulthood
+**年份**: 2026 | **DOI**: [10.1215/00703370-12543998](https://doi.org/10.1215/00703370-12543998)
+**作者**: Corman, Hope; Noonan, Kelly; Reichman, Nancy E.
+**摘要**: Abstract Developmental disabilities are prevalent among U.S. children, child disability rates have been increasing, and the increases have been driven by cognitive and behavioral disorders.…
 
 ### Single Parenthood, Gender, and Mortality
 **年份**: 2025 | **DOI**: [10.1215/00703370-12234087](https://doi.org/10.1215/00703370-12234087)
@@ -2664,3 +2724,8 @@
 **年份**: 2020 | **DOI**: [10.1007/s13524-019-00836-9](https://doi.org/10.1007/s13524-019-00836-9)
 **作者**: Kuehnle, Daniel; Oberfichtner, Michael
 **摘要**: As many developed countries enact policies that allow children to begin universal childcare earlier, understanding how starting universal childcare earlier affects children's cognitive and noncognitive skills is an important policy question.…
+
+### Another Plea for Caution When Using Survey Income Data From the Far-Left Tail
+**年份**: 2020 | **DOI**: [10.1007/s13524-020-00936-x](https://doi.org/10.1007/s13524-020-00936-x)
+**作者**: Sullivan, James X.
+**摘要**: （暂无）

@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2010–2019 年文章（含摘要）
 
-共 **329** 篇
+共 **334** 篇
 
 ---
 
@@ -192,6 +192,11 @@
 
 ### IPBES, 2019. Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science‐Policy Platform on Biodiversity and Ecosystem Services
 **年份**: 2019 | **DOI**: [10.1111/padr.12283](https://doi.org/10.1111/padr.12283)
+**作者**: Bongaarts, John
+**摘要**: （暂无）
+
+### Intergovernmental Panel on Climate ChangeSpecial Report on Global Warming of 1.5°CSwitzerland: IPCC, 2018.
+**年份**: 2019 | **DOI**: [10.1111/padr.12234](https://doi.org/10.1111/padr.12234)
 **作者**: Bongaarts, John
 **摘要**: （暂无）
 
@@ -659,6 +664,11 @@
 **年份**: 2016 | **DOI**: [10.1111/j.1728-4457.2016.00132.x](https://doi.org/10.1111/j.1728-4457.2016.00132.x)
 **作者**: Murphy, Michael
 **摘要**: I estimate the impact of migration on population size in 11 European countries from the middle of the nineteenth century to the present. I derive estimates under the assumption of zero net migration from various points during this period using information from the Human Mortality Database.…
+
+### WHO, UNICEF, UNFPA, World Bank Group, and United Nations Population DivisionTrends in Maternal Mortality: 1990 to 2015Geneva: World Health Organization, 2015.
+**年份**: 2016 | **DOI**: [10.1111/padr.12033](https://doi.org/10.1111/padr.12033)
+**作者**: Bongaarts, John
+**摘要**: （暂无）
 
 ### Could Pronatalist Policies Discourage Childbearing?
 **年份**: 2015 | **DOI**: [10.1111/j.1728-4457.2015.00048.x](https://doi.org/10.1111/j.1728-4457.2015.00048.x)
@@ -1180,6 +1190,10 @@
 **作者**: Bacci, Massimo Livi
 **摘要**: （暂无）
 
+### James P. Smith and Malay Majmundar (eds.): Aging in Asia: Findings from New and Emerging Data Initiatives
+**年份**: 2013 | **DOI**: [10.1111/j.1728-4457.2013.00623.x](https://doi.org/10.1111/j.1728-4457.2013.00623.x)
+**摘要**: （暂无）
+
 ### The Latin American Cohabitation Boom, 1970-2007
 **年份**: 2012 | **DOI**: [10.1111/j.1728-4457.2012.00472.x](https://doi.org/10.1111/j.1728-4457.2012.00472.x)
 **作者**: Esteve, Albert; Lesthaeghe, Ron; Lopez-Gay, Antonio
@@ -1314,6 +1328,11 @@
 **年份**: 2012 | **DOI**: [10.1111/j.1728-4457.2012.00474.x](https://doi.org/10.1111/j.1728-4457.2012.00474.x)
 **作者**: Greenhalgh, Susan
 **摘要**: Focusing on the craft aspect of population researchthe generally unremarked fact that behind our well-turned-out publications lie particular, historically situated humans using craft-type techniquesthis essay traces the history of the making of population knowledge about China by the author over som…
+
+### Ronald Lee and Andrew Mason, Population Aging and the Generational Economy: A Global Perspective
+**年份**: 2012 | **DOI**: [10.1111/j.1728-4457.2012.00477.x](https://doi.org/10.1111/j.1728-4457.2012.00477.x)
+**作者**: McNicoll, Geoffrey
+**摘要**: （暂无）
 
 ### Comparing Relative Effects of Education and Economic Resources on Infant Mortality in Developing Countries
 **年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00451.x](https://doi.org/10.1111/j.1728-4457.2011.00451.x)
@@ -1509,6 +1528,10 @@
 **年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00393.x](https://doi.org/10.1111/j.1728-4457.2011.00393.x)
 **作者**: Bacci, Massimo Livi
 **摘要**: This symposium takes as its point of departure two books by massimo livi Bacci, Conquest and El Dorado in the Marshes, published in english in 2008 and 2010. livi Bacci assesses widely varying estimates of the demographic dimensions of the collapse of the native populations following their contact w…
+
+### Abhijit v. Banerjee and Ester Duflo: Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty
+**年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00462.x](https://doi.org/10.1111/j.1728-4457.2011.00462.x)
+**摘要**: （暂无）
 
 ### Food Security in an Era of Economic Volatility
 **年份**: 2010 | **DOI**: [10.1111/j.1728-4457.2010.00354.x](https://doi.org/10.1111/j.1728-4457.2010.00354.x)

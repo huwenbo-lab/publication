@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **647** 篇
+共 **649** 篇
 
 ---
 
@@ -1080,6 +1080,11 @@
 **作者**: Boliver, Vikki
 **摘要**: （暂无）
 
+### Rethinking education and poverty
+**年份**: 2017 | **DOI**: [10.1080/01425692.2017.1349654](https://doi.org/10.1080/01425692.2017.1349654)
+**作者**: Gewirtz, Sharon
+**摘要**: （暂无）
+
 ### Subjectivity as a site of struggle: refusing neoliberalism?
 **年份**: 2016 | **DOI**: [10.1080/01425692.2015.1044072](https://doi.org/10.1080/01425692.2015.1044072)
 **作者**: Ball, Stephen J.
@@ -1384,6 +1389,11 @@
 **年份**: 2016 | **DOI**: [10.1080/01425692.2014.965806](https://doi.org/10.1080/01425692.2014.965806)
 **作者**: Courtney, Steven J.
 **摘要**: In this paper, I draw on a study of school leaders' experiences of inspection to argue that repeated changes to school inspection policy in England constitute a post-panoptic regime.…
+
+### Thomas Piketty’s relevance for the study of education: reflections on the political economy of education
+**年份**: 2016 | **DOI**: [10.1080/01425692.2016.1200821](https://doi.org/10.1080/01425692.2016.1200821)
+**作者**: Moeller, Kathryn; Tarlau, Rebecca
+**摘要**: （暂无）
 
 ### Classroom behaviour and academic achievement: how classroom behaviour categories relate to gender and academic performance
 **年份**: 2015 | **DOI**: [10.1080/01425692.2014.916601](https://doi.org/10.1080/01425692.2014.916601)

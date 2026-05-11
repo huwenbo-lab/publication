@@ -1,7 +1,7 @@
 # Work, Employment and Society
 ## 2010–2019 年文章（含摘要）
 
-共 **649** 篇
+共 **650** 篇
 
 ---
 
@@ -1340,6 +1340,10 @@
 **年份**: 2016 | **DOI**: [10.1177/0950017016638009](https://doi.org/10.1177/0950017016638009)
 **作者**: Connolly, Sara; Aldrich, Matthew; O’Brien, Margaret 等5人
 **摘要**: This article examines the working lives of British couple families across the first decade of the millennium using EU Labour Force Survey data (2001–13) taking a multiple equilibria approach.…
+
+### Corrigendum
+**年份**: 2016 | **DOI**: [10.1177/0950017016679920](https://doi.org/10.1177/0950017016679920)
+**摘要**: （暂无）
 
 ### Transnational regulation of temporary agency work compromised partnership between Private Employment Agencies and Global Union Federations
 **年份**: 2015 | **DOI**: [10.1177/0950017014545265](https://doi.org/10.1177/0950017014545265)

@@ -1,6 +1,6 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **848** 篇 | 年份范围：2001–2026
+共 **853** 篇 | 年份范围：2001–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -17,6 +17,10 @@
 - The long-term effects of adolescent work on adult socioeconomic attainment · [DOI](https://doi.org/10.1016/j.rssm.2026.101137)
 - Stratification of post-birth labour supply in a high- and low- maternal employment regime · [DOI](https://doi.org/10.1016/j.rssm.2026.101133)
 - Educational expansion, occupational upgrading, and the changing structure of education-occupation linkages in Sweden, 1960–2013 · [DOI](https://doi.org/10.1016/j.rssm.2026.101135)
+- Estimating the intersecting labor market disparities for justice-impacted individuals with disabilities: Evidence from two United States national data sets · [DOI](https://doi.org/10.1016/j.rssm.2026.101152)
+- The contingency of future vs. present orientation and status attainment · [DOI](https://doi.org/10.1016/j.rssm.2026.101151)
+- Gender differences in employers’ promotion preferences? The role of working time, care obligations, and work–family policies · [DOI](https://doi.org/10.1016/j.rssm.2026.101154)
+- Place of education, revisited: Effects on earnings by nativity, race, and gender · [DOI](https://doi.org/10.1016/j.rssm.2026.101150)
 
 ## 2025
 
@@ -85,6 +89,7 @@
 - The contribution of work values to early career mobility · [DOI](https://doi.org/10.1016/j.rssm.2024.100996)
 - Human capital and the upward occupational mobility of rural migrant workers in China · [DOI](https://doi.org/10.1016/j.rssm.2024.100997)
 - Disability discrimination in hiring: A systematic review · [DOI](https://doi.org/10.1016/j.rssm.2025.101069)
+- Origin, destination, or mobility? A systematic review of studies using diagonal reference models · [DOI](https://doi.org/10.1016/j.rssm.2025.101047)
 
 ## 2024
 

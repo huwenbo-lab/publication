@@ -1,13 +1,48 @@
 # Demographic Research
 ## 2020–2026 年文章（含摘要）
 
-共 **495** 篇
+共 **503** 篇
 
 ---
 
 ### The groupwise decomposition: Estimating group-specific contributions to differences between demographic measures
 **年份**: 2026 | **DOI**: [10.4054/demres.2026.54.14](https://doi.org/10.4054/demres.2026.54.14)
 **作者**: Paglino, Eugenio
+**摘要**: （暂无）
+
+### Settlement intentions of Ukrainian refugees in Germany: Adhering to social status back home or restarting again abroad?
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.16](https://doi.org/10.4054/demres.2026.54.16)
+**作者**: Ette, Andreas; Kosyakova, Yuliya; Kothe, Christian
+**摘要**: （暂无）
+
+### Spatial perspective on environmental migration: Empirical insights from a spatiotemporal approach in the United States, 1970–2010
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.27](https://doi.org/10.4054/demres.2026.54.27)
+**作者**: Zhou, Shuai; Chi, Guangqing; Liao, Chuan
+**摘要**: （暂无）
+
+### Bayesian multidimensional mortality reconstruction
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.28](https://doi.org/10.4054/demres.2026.54.28)
+**作者**: Tamburini, Andrea; Wiśniowski, Arkadiusz; Yildiz, Dilek
+**摘要**: （暂无）
+
+### Partnership life courses and completed fertility in Spain
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.29](https://doi.org/10.4054/demres.2026.54.29)
+**作者**: Vidal, Sergi; Bolano, Danilo; Lozano, Mariona
+**摘要**: （暂无）
+
+### “Family-Anchored” transitions to adult life in Mexico
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.2](https://doi.org/10.4054/demres.2026.54.2)
+**作者**: Becca, Federica; Esteve, Albert
+**摘要**: （暂无）
+
+### Probabilistic population forecasts for small regions
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.23](https://doi.org/10.4054/demres.2026.54.23)
+**作者**: Goes, Julius; Engelhardt, Henriette
+**摘要**: （暂无）
+
+### Economic insecurity and material deprivation: Coping strategies among couple families with and without small children in Europe
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.25](https://doi.org/10.4054/demres.2026.54.25)
+**作者**: Grotti, Raffaele; Gritti, Davide; Scherer, Stefani
 **摘要**: （暂无）
 
 ### Shifting spousal age gaps in Kenya and Ghana: Does education matter?
@@ -359,6 +394,11 @@
 **年份**: 2025 | **DOI**: [10.4054/demres.2025.52.17](https://doi.org/10.4054/demres.2025.52.17)
 **作者**: Klein, Julia; Kolk, Martin; Saarela, Jan
 **摘要**: BACKGROUND Religion and religiosity are known as important determinants of health and mortality. Previous studies on the interrelation between religion and mortality have relied on survey data and have mainly been carried out in a North American setting.…
+
+### The changing inter-relationship between partnership dynamics and fertility trends in Europe and the United States: A review
+**年份**: 2025 | **DOI**: [10.4054/demres.2025.52.7](https://doi.org/10.4054/demres.2025.52.7)
+**作者**: Kuang, Bernice; Berrington, Ann; Vasireddy, Sindhu 等4人
+**摘要**: （暂无）
 
 ### Interrogating the quality and completion of mortality mobile phone interviews conducted in Malawi during COVID-19: An examination of interviewer-respondent interactions
 **年份**: 2024 | **DOI**: [10.4054/DemRes.2024.51.46](https://doi.org/10.4054/DemRes.2024.51.46)

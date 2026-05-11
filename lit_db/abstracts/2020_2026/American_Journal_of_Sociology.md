@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **187** 篇
+共 **191** 篇
 
 ---
 
@@ -13,6 +13,26 @@
 ### : Uncertainty: Individual Problems and Public Solutions
 **年份**: 2026 | **DOI**: [10.1086/739284](https://doi.org/10.1086/739284)
 **作者**: Rilinger, Georg
+**摘要**: （暂无）
+
+### : Sons, Daughters, and Sidewalk Psychotics: Mental Illness and Homelessness in Los Angeles
+**年份**: 2026 | **DOI**: [10.1086/739928](https://doi.org/10.1086/739928)
+**作者**: Purser, Gretchen
+**摘要**: （暂无）
+
+### : The Economy of Promises: Trust, Power, and Credit in America
+**年份**: 2026 | **DOI**: [10.1086/740005](https://doi.org/10.1086/740005)
+**作者**: Lauer, Josh
+**摘要**: （暂无）
+
+### Skill Diversification Beyond High-Paying Jobs
+**年份**: 2026 | **DOI**: [10.1086/741725](https://doi.org/10.1086/741725)
+**作者**: Han, Siqi; Cheng, Siwei
+**摘要**: （暂无）
+
+### : Reunited: Family Separation and Central American Youth Migration
+**年份**: 2026 | **DOI**: [10.1086/739927](https://doi.org/10.1086/739927)
+**作者**: Schmalzbauer, Leah
 **摘要**: （暂无）
 
 ### Wealth Begins at Home: The Housing Benefits of the 1944 GI Bill and the Reproduction of Black-White Inequality in Homeownership and Home Value

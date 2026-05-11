@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2010–2019 年文章（含摘要）
 
-共 **412** 篇
+共 **415** 篇
 
 ---
 
@@ -995,6 +995,11 @@
 **作者**: Foster, Jacob G.; Rzhetsky, Andrey; Evans, James A.
 **摘要**: What factors affect a scientist’s choice of research problem? Qualitative research in the history and sociology of science suggests that this choice is patterned by an “essential tension” between productive tradition and risky innovation.…
 
+### Elements of Professional Expertise
+**年份**: 2015 | **DOI**: [10.1177/0003122415601157](https://doi.org/10.1177/0003122415601157)
+**作者**: Sandefur, Rebecca L.
+**摘要**: Lawyers keep the gates of public justice institutions, particularly through their roles in formal procedures like hearings and trials. Yet, it is not clear what lawyers do in such quintessentially legal settings: conclusions from past research are bedeviled by a lack of clear theory and inconsistenc…
+
 ### Union Strength, Neoliberalism, and Inequality: Contingent Political Analyses of US Income Differences since 1950
 **年份**: 2014 | **DOI**: [10.1177/0003122414536392](https://doi.org/10.1177/0003122414536392)
 **作者**: Jacobs, David; Myers, Lindsey
@@ -1259,6 +1264,10 @@
 **年份**: 2014 | **DOI**: [10.1177/0003122413514750](https://doi.org/10.1177/0003122413514750)
 **作者**: Rathelot, Roland; Safi, Mirna
 **摘要**: This article provides empirical results on patterns of native and immigrant geographic mobility in France. Using longitudinal data, we measure mobility from one French municipality (commune) to another over time and estimate the effect of the initial municipality's ethnic composition on the probabil…
+
+### Acknowledgment of Referees
+**年份**: 2014 | **DOI**: [10.1177/0003122414557779](https://doi.org/10.1177/0003122414557779)
+**摘要**: （暂无）
 
 ### Alliances and Perception Profiles in the Iranian Reform Movement, 1997 to 2005
 **年份**: 2013 | **DOI**: [10.1177/0003122413508285](https://doi.org/10.1177/0003122413508285)
@@ -1869,6 +1878,10 @@
 **年份**: 2011 | **DOI**: [10.1177/0003122411401250](https://doi.org/10.1177/0003122411401250)
 **作者**: Briscoe, Forrest; Kellogg, Katherine C.
 **摘要**: One of the great paradoxes of inequality in organizations is that even when organizations introduce new programs designed to help employees in traditionally disadvantaged groups succeed, employees who use these programs often suffer negative career consequences.…
+
+### Acknowledgment of Referees
+**年份**: 2011 | **DOI**: [10.1177/0003122411431065](https://doi.org/10.1177/0003122411431065)
+**摘要**: （暂无）
 
 ### Effects of Prenatal Poverty on Infant Health: State Earned Income Tax Credits and Birth Weight
 **年份**: 2010 | **DOI**: [10.1177/0003122410374086](https://doi.org/10.1177/0003122410374086)

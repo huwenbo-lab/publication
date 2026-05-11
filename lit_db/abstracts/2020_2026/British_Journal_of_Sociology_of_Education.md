@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **465** 篇
+共 **472** 篇
 
 ---
 
@@ -98,6 +98,41 @@
 ### When meritocracy breeds insecurity: moralized over-striving, temporal disciplining and resistance in China’s specialized college
 **年份**: 2026 | **DOI**: [10.1080/01425692.2026.2645104](https://doi.org/10.1080/01425692.2026.2645104)
 **作者**: Zheng, Tongjing
+**摘要**: （暂无）
+
+### The Creative Art of Troublemaking in education,
+**年份**: 2026 | **DOI**: [10.1080/01425692.2025.2602256](https://doi.org/10.1080/01425692.2025.2602256)
+**作者**: Veitch, Rose
+**摘要**: （暂无）
+
+### A different kind of familiar: the insider-outsider paradox and negotiating teacher sense of belonging
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2657329](https://doi.org/10.1080/01425692.2026.2657329)
+**作者**: Sedawi, Orwa; Oplatka, Izhar
+**摘要**: （暂无）
+
+### Diversity of religion and belief in education: inequality, citizenship and belonging
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2648452](https://doi.org/10.1080/01425692.2026.2648452)
+**作者**: Hemming, Peter J.; Ma, Lin; Malone, Joanna 等5人
+**摘要**: （暂无）
+
+### Making Sense of School Relations: Children’s Voices “so We Can Do Our Best.” Care in Children’s Relationships With Teachers, by Mary Darmanin, Malta University Press, 2024, 380 pp., €65, ISBN 978-9918-617-15-9 (paperback).
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2663690](https://doi.org/10.1080/01425692.2026.2663690)
+**作者**: Mayo, Peter
+**摘要**: （暂无）
+
+### Parents’ perspectives on special education in England: institutional disability discrimination and non-compliance with the law
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2638269](https://doi.org/10.1080/01425692.2026.2638269)
+**作者**: Holt, Louise; Trudgill, Marian; Azpitarte, Francisco
+**摘要**: （暂无）
+
+### Religion, agency, and choice in English state schools
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2616654](https://doi.org/10.1080/01425692.2026.2616654)
+**作者**: Hobson, Charlotte
+**摘要**: （暂无）
+
+### Exploring anxiety and behaviour. Agency, liminality and relational embodiment in a PRU
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2664171](https://doi.org/10.1080/01425692.2026.2664171)
+**作者**: Woolhouse, Clare
 **摘要**: （暂无）
 
 ### Numerical diversity only? The case of academic preparatory programs for the Negev Bedouin in Israel

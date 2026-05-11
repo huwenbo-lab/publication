@@ -1,7 +1,7 @@
 # European Journal of Population
 ## 2020–2026 年文章（含摘要）
 
-共 **211** 篇
+共 **214** 篇
 
 ---
 
@@ -48,6 +48,21 @@
 ### Getting In and Staying In? The Relative Contributions of Entering and Exiting Employment to Early Labour Market Trajectories of Migrants’ Daughters Versus Native Women
 **年份**: 2026 | **DOI**: [10.1007/s10680-026-09771-z](https://doi.org/10.1007/s10680-026-09771-z)
 **作者**: Maes, Julie; Wood, Jonas; Neels, Karel
+**摘要**: （暂无）
+
+### Trends in Working Life Expectancy and Untapped Employment Potential in an Ageing Population: The Case of Germany
+**年份**: 2026 | **DOI**: [10.1007/s10680-026-09773-x](https://doi.org/10.1007/s10680-026-09773-x)
+**作者**: Sulak, Harun; Dudel, Christian; Loichinger, Elke 等4人
+**摘要**: Abstract The population of Germany is ageing rapidly. As a result, the country’s working age population is expected to shrink substantially over the next 15 years. To cope with this challenge, a number of policy reforms have been introduced to activate untapped employment potential and increase the …
+
+### Perceptions of Medically Assisted Reproduction and Fertility Postponement: Limited Evidence, Critical Questions
+**年份**: 2026 | **DOI**: [10.1007/s10680-025-09765-3](https://doi.org/10.1007/s10680-025-09765-3)
+**作者**: Compans, Marie-Caroline; Lazzari, Ester; Beaujouan, Eva
+**摘要**: （暂无）
+
+### The Spatial Diffusion of Internal Migration Across the Rural-Urban Continuum in Developing Countries
+**年份**: 2026 | **DOI**: [10.1007/s10680-026-09774-w](https://doi.org/10.1007/s10680-026-09774-w)
+**作者**: Lerch, Mathias; Du, Wenxiu; Beckendorff, Dorothee
 **摘要**: （暂无）
 
 ### Origin, Generation, and Destination Country Context: Employment Changes and Childbearing Among Female Immigrants and Their Descendants in the UK, France, and Germany

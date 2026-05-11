@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1814** 篇 | 年份范围：1999–2026
+共 **1824** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -8,6 +8,13 @@
 ## 2026
 
 - The groupwise decomposition: Estimating group-specific contributions to differences between demographic measures · [DOI](https://doi.org/10.4054/demres.2026.54.14)
+- Settlement intentions of Ukrainian refugees in Germany: Adhering to social status back home or restarting again abroad? · [DOI](https://doi.org/10.4054/demres.2026.54.16)
+- Spatial perspective on environmental migration: Empirical insights from a spatiotemporal approach in the United States, 1970–2010 · [DOI](https://doi.org/10.4054/demres.2026.54.27)
+- Bayesian multidimensional mortality reconstruction · [DOI](https://doi.org/10.4054/demres.2026.54.28)
+- Partnership life courses and completed fertility in Spain · [DOI](https://doi.org/10.4054/demres.2026.54.29)
+- “Family-Anchored” transitions to adult life in Mexico · [DOI](https://doi.org/10.4054/demres.2026.54.2)
+- Probabilistic population forecasts for small regions · [DOI](https://doi.org/10.4054/demres.2026.54.23)
+- Economic insecurity and material deprivation: Coping strategies among couple families with and without small children in Europe · [DOI](https://doi.org/10.4054/demres.2026.54.25)
 
 ## 2025
 
@@ -81,6 +88,7 @@
 - Analysing migrant fertility using machine learning techniques: An application of random survival forest to longitudinal data from France · [DOI](https://doi.org/10.4054/demres.2025.53.21)
 - Amish fertility in the United States: Comparative evidence from the American Community Survey and Amish population registries · [DOI](https://doi.org/10.4054/demres.2025.52.26)
 - Life expectancy by religious affiliation in Finland 1972-2020 · [DOI](https://doi.org/10.4054/demres.2025.52.17)
+- The changing inter-relationship between partnership dynamics and fertility trends in Europe and the United States: A review · [DOI](https://doi.org/10.4054/demres.2025.52.7)
 
 ## 2024
 
@@ -959,6 +967,7 @@
 - Gender inequalities in employment and wage-earning among internal labour migrants in Chinese cities
 - Does selection of mortality model make a difference in projecting population ageing? · [DOI](https://doi.org/10.4054/demres.2016.34.2)
 - The relationship between unemployment and fertility in Italy: A time-series analysis
+- Loss aversion and duration of residence · [DOI](https://doi.org/10.4054/demres.2016.35.36)
 
 ## 2015
 
@@ -1029,6 +1038,7 @@
 - The low importance of marriage in eastern Germany - social norms and the role of peoples' perceptions of the past · [DOI](https://doi.org/10.4054/demres.2015.33.9)
 - Reconstructing trends in international migration with three questions in household surveys · [DOI](https://doi.org/10.4054/demres.2015.32.35)
 - On the age-specific correlation between fertility and female employment · [DOI](https://doi.org/10.4054/demres.2015.32.23)
+- Migration signatures across the decades · [DOI](https://doi.org/10.4054/demres.2015.32.38)
 
 ## 2014
 

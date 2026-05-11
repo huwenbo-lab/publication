@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **225** 篇
+共 **227** 篇
 
 ---
 
@@ -394,6 +394,10 @@
 **年份**: 2024 | **DOI**: [10.1177/00031224231225665](https://doi.org/10.1177/00031224231225665)
 **作者**: Oshotse, Abraham; Berda, Yael; Goldberg, Amir
 **摘要**: Why are some acts of cultural boundary-crossing considered permissible whereas others are repudiated as cultural appropriation? We argue that perceptions of cultural appropriation formed in response to the emergence of cultural omnivorousness as a dominant form of high-status consumption, making bou…
+
+### Acknowledgment of Referees
+**年份**: 2024 | **DOI**: [10.1177/00031224241291634](https://doi.org/10.1177/00031224241291634)
+**摘要**: （暂无）
 
 ### Polyoccupationalism: Expertise Stretch and Status Stretch in the Postindustrial Era
 **年份**: 2023 | **DOI**: [10.1177/00031224231190942](https://doi.org/10.1177/00031224231190942)
@@ -949,6 +953,11 @@
 **年份**: 2021 | **DOI**: [10.1177/00031224211026546](https://doi.org/10.1177/00031224211026546)
 **作者**: Ferguson, Jason L.
 **摘要**: Drawing on data from Senegal, this article develops the concept of pockets of world society to explain how adherence to a liberal vision of gay rights emerges within an otherwise illiberal legal landscape.…
+
+### Relative to Whom? Comment on “Relative Education and the Advantage of a College Degree”
+**年份**: 2021 | **DOI**: [10.1177/00031224211042326](https://doi.org/10.1177/00031224211042326)
+**作者**: Furey, Jane
+**摘要**: To understand the relative advantage of a bachelor’s degree, we must consider the question: relative to whom? Using the Current Population Survey Annual Social and Economic Supplement, Horowitz (2018) argues that educational expansion between 1971 and 2010 decreased college graduates’ skill usage an…
 
 ### How Marriage Matters for the Intergenerational Mobility of Family Income: Heterogeneity by Gender, Life Course, and Birth Cohort
 **年份**: 2020 | **DOI**: [10.1177/0003122420917591](https://doi.org/10.1177/0003122420917591)

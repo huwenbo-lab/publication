@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **339** 篇
+共 **340** 篇
 
 ---
 
@@ -854,6 +854,11 @@
 **年份**: 2015 | **DOI**: [10.1086/681072](https://doi.org/10.1086/681072)
 **作者**: Pager, Devah; Pedulla, David S.
 **摘要**: While existing research has documented persistent barriers facing African-American job seekers, far less research has questioned how job seekers respond to this reality. Do minorities self-select into particular segments of the labor market to avoid discrimination?…
+
+### On the Run: Fugitive Life in an American City. By Alice Goffman. Chicago: University of Chicago Press, 2014. Pp. xiv+277. $25.00.
+**年份**: 2015 | **DOI**: [10.1086/681075](https://doi.org/10.1086/681075)
+**作者**: Rios, Victor M.
+**摘要**: （暂无）
 
 ### A Life Course Trajectory Framework for Understanding the Intracohort Pattern of Wage Inequality
 **年份**: 2014 | **DOI**: [10.1086/679103](https://doi.org/10.1086/679103)

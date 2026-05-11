@@ -1,6 +1,6 @@
 # European Journal of Population — 文章标题索引
 
-共 **831** 篇 | 年份范围：1985–2026
+共 **840** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -16,6 +16,9 @@
 - The Double Challenges of Single Parents Raising Children with Disabilities · [DOI](https://doi.org/10.1007/s10680-026-09767-9)
 - A Double Decomposition of Standard Deviation Below the Modal Age at Death and the Role of Causes of Death · [DOI](https://doi.org/10.1007/s10680-025-09762-6)
 - Getting In and Staying In? The Relative Contributions of Entering and Exiting Employment to Early Labour Market Trajectories of Migrants’ Daughters Versus Native Women · [DOI](https://doi.org/10.1007/s10680-026-09771-z)
+- Trends in Working Life Expectancy and Untapped Employment Potential in an Ageing Population: The Case of Germany · [DOI](https://doi.org/10.1007/s10680-026-09773-x)
+- Perceptions of Medically Assisted Reproduction and Fertility Postponement: Limited Evidence, Critical Questions · [DOI](https://doi.org/10.1007/s10680-025-09765-3)
+- The Spatial Diffusion of Internal Migration Across the Rural-Urban Continuum in Developing Countries · [DOI](https://doi.org/10.1007/s10680-026-09774-w)
 
 ## 2025
 
@@ -897,6 +900,11 @@
 ## 1999
 
 - Fertility Behaviour under Income Uncertainty · [DOI](https://doi.org/10.1023/a:1006106527618)
+- Mortality Differences Related to Socioeconomic Status and the Progressivity of Old-Age Pensions and Health Insurance: The Netherlands · [DOI](https://doi.org/10.1023/a:1006188911462)
+
+## 1998
+
+- Mortality Peaks in Italy in the Late 19th and Early 20th Centuries: Trends by Age and Sex · [DOI](https://doi.org/10.1023/a:1006182029835)
 
 ## 1997
 
@@ -905,6 +913,10 @@
 - Survival Trees: An Alternative Non-Parametric Multivariate Technique for Life History Analysis · [DOI](https://doi.org/10.1023/a:1005844818027)
 - The Impact of Children on Divorce Risks of Swedish Women · [DOI](https://doi.org/10.1023/a:1005803001129)
 - An Estimate of Neonatal Tetanus Mortality in Iceland, 1790-1839 · [DOI](https://doi.org/10.1023/a:1005778332341)
+
+## 1996
+
+- Reclassifying causes of death to study the epidemiological transition in The Netherlands, 1875–1992 · [DOI](https://doi.org/10.1007/bf01796912)
 
 ## 1995
 
@@ -926,6 +938,7 @@
 - Female labour force participation, fertility and public policy in Sweden · [DOI](https://doi.org/10.1007/bf01797210)
 - Système de soins et mortalité régionale: une analyse causale · [DOI](https://doi.org/10.1007/bf01796627)
 - Population growth, internal migration, and environmental degradation in rural areas of developing countries · [DOI](https://doi.org/10.1007/bf01797549)
+- Seven ways of causing the less developed countries' population problem to disappear—in theory · [DOI](https://doi.org/10.1007/bf01797550)
 
 ## 1991
 
@@ -939,6 +952,11 @@
 ## 1988
 
 - Kinship patterns and household composition: Older unmarried Hungarian women, 1984 · [DOI](https://doi.org/10.1007/bf01797132)
+- Ageing and social-security costs · [DOI](https://doi.org/10.1007/bf01796907)
+
+## 1987
+
+- The social bases of declining infant mortality: Lessons from a nineteenth-century Italian town · [DOI](https://doi.org/10.1007/bf01796597)
 
 ## 1986
 

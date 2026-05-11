@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1500** 篇 | 年份范围：1986–2026
+共 **1511** 篇 | 年份范围：1986–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -10,6 +10,9 @@
 - Changing regional university availability and inequality of educational opportunity in Japan · [DOI](https://doi.org/10.1093/esr/jcag011)
 - Stratified scars: social inequality in the labour market consequences of apprenticeship dropout · [DOI](https://doi.org/10.1093/esr/jcag010)
 - Does statistical discrimination explain grading bias? Evidence from a natural experiment · [DOI](https://doi.org/10.1093/esr/jcag005)
+- Parenthood, occupational sex segregation, and wage: motherhood penalty and fatherhood premium in China · [DOI](https://doi.org/10.1093/esr/jcag012)
+- Beyond absolute education: relative educational attainment and perceived discrimination among immigrants · [DOI](https://doi.org/10.1093/esr/jcaf054)
+- Labour market insecurity and parental co-residence in the United Kingdom: heterogeneities by parental class and age · [DOI](https://doi.org/10.1093/esr/jcaf058)
 
 ## 2025
 
@@ -242,6 +245,7 @@
 - Rebel without a Cause: The Effects of Social Origins and Disposable Income on Rule Violations · [DOI](https://doi.org/10.1093/esr/jcac016)
 - Who Stays Involved? A Longitudinal Study on Adolescents' Participation in Voluntary Associations in Germany · [DOI](https://doi.org/10.1093/esr/jcac013)
 - Control variable selection in applied quantitative sociology: a critical review · [DOI](https://doi.org/10.1093/esr/jcac078)
+- Women’s aversion to majors that (seemingly) require systemizing skills causes gendered field of study choice · [DOI](https://doi.org/10.1093/esr/jcad021)
 
 ## 2022
 
@@ -1579,10 +1583,17 @@
 ## 1999
 
 - When Institutions Matter:Union Growth and Decline in Western Europe, 1950-1995 · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018257)
+- Explaining Sex Differences in Educational Choice An Empirical Assessment of a Rational Choice Model · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018272)
+- Military Service During Wartime Effects on Men's Occupational Trajectories and Later Economic Well-Being · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018261)
+
+## 1998
+
+- Reforms, Expansion, and Equality of Opportunity · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018226)
 
 ## 1996
 
 - 'Losing my religion'1: a dynamic analysis of leaving the church in the Netherlands · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018179)
+- The Salience of the Part-time Divide in the European Union · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018190)
 
 ## 1993
 
@@ -1591,6 +1602,7 @@
 ## 1992
 
 - Testing the validity of the Goldthorpe class schema · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036638)
+- Locating class cleavages in inter-generational mobility: cross-national commonalities and variations in mobility patterns · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036641)
 
 ## 1991
 
@@ -1608,7 +1620,9 @@
 ## 1987
 
 - Jobs and classes: structural constraints on career mobility · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036428)
+- Commonality and variation in social fluidity in industrial nations. Part II: the model of core social fluidity applied · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036441)
 
 ## 1986
 
 - Increasing equality in household work: patterns of time-use change in Norway · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036417)
+- Social context and inter-ethnic relations: the case of migrant workers in West German urban areas · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036404)

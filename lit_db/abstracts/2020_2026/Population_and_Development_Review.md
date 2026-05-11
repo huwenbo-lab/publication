@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **273** 篇
+共 **277** 篇
 
 ---
 
@@ -29,6 +29,11 @@
 **年份**: 2026 | **DOI**: [10.1111/padr.70053](https://doi.org/10.1111/padr.70053)
 **作者**: Matysiak, Anna; Vignoli, Daniele
 **摘要**: Abstract This paper examines whether women's employment in the 21st century remains a barrier to family formation, as it was in the 1980s and 1990s, or—similar to men's—it has become a prerequisite for childbearing.…
+
+### Revisiting the Relationship between Marriage and Childbearing in East Asia: The Role of Fertility Desires in Japan
+**年份**: 2026 | **DOI**: [10.1111/padr.70050](https://doi.org/10.1111/padr.70050)
+**作者**: Uchikoshi, Fumiya; Mugiyama, Ryota; Yoda, Shohei 等4人
+**摘要**: Abstract In this study, we propose and evaluate a new framework for understanding “lowest‐low” fertility in East Asia, emphasizing the link between the desire for children and marriage.…
 
 ### The Impact of Migration on Age Structure Conducive to Human Development Across the Urban Hierarchy
 **年份**: 2025 | **DOI**: [10.1111/padr.70033](https://doi.org/10.1111/padr.70033)
@@ -1038,6 +1043,18 @@
 ### Palgrave on Population
 **年份**: 2022 | **DOI**: [10.1111/padr.12479](https://doi.org/10.1111/padr.12479)
 **作者**: [Anonymous]
+**摘要**: （暂无）
+
+### The 2022 UN Long‐Range Population Projections
+**年份**: 2022 | **DOI**: [10.1111/padr.12512](https://doi.org/10.1111/padr.12512)
+**摘要**: （暂无）
+
+### The State of Global Learning Poverty: 2022 UpdateThe World Bank, UNESCO, UNICEF, USAID, FSDO, Bill and Melinda Gates Foundation, 2022, 77 p., Open Access
+**年份**: 2022 | **DOI**: [10.1111/padr.12534](https://doi.org/10.1111/padr.12534)
+**摘要**: （暂无）
+
+### The Covid‐19 Pandemic in Latin America and the Caribbean
+**年份**: 2022 | **DOI**: [10.1111/padr.12484](https://doi.org/10.1111/padr.12484)
 **摘要**: （暂无）
 
 ### Son Preference, Gender Discrimination, and Missing Girls in Rural Spain, 1750-1950

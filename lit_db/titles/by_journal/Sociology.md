@@ -1,6 +1,6 @@
 # Sociology — 文章标题索引
 
-共 **2195** 篇 | 年份范围：1975–2026
+共 **2287** 篇 | 年份范围：1968–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1607,6 +1607,7 @@
 - The Ideas and Practices of Culture · [DOI](https://doi.org/10.1177/0038038506065159)
 - Thirty Years of Keywords · [DOI](https://doi.org/10.1177/0038038506069857)
 - Theory and Practice: Psychoanalytic Sociology as Psycho-Social Studies · [DOI](https://doi.org/10.1177/0038038506069855)
+- Books Received · [DOI](https://doi.org/10.1177/0038038506063690)
 
 ## 2005
 
@@ -2253,22 +2254,28 @@
 - BEING CONSTRUCTIVE: SOCIAL CONSTRUCTIONISM AND THE ENVIRONMENT · [DOI](https://doi.org/10.1017/s0038038599000188)
 - From Banana Time to Just-in-Time: Power and Resistance at Work · [DOI](https://doi.org/10.1177/s0038038599000486)
 - Consumer Culture and the Commodification of Policing and Security · [DOI](https://doi.org/10.1177/s003803859900022x)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038599033003025)
 
 ## 1998
 
 - Professionalism as Enterprise: Service Class Politics and the Redefinition of Professionalism · [DOI](https://doi.org/10.1177/0038038598032001004)
 - Evaluating `Diaspora': Beyond Ethnicity? · [DOI](https://doi.org/10.1177/0038038598032003009)
 - Social Integration and System Integration: Reconsidering the Classical Distinction · [DOI](https://doi.org/10.1177/0038038598032003005)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038598032001020)
+- Visions of Anthropology: What's the Goddamn Point of it all? · [DOI](https://doi.org/10.1177/0038038598032004013)
 
 ## 1997
 
 - The Place of Inter-Rater Reliability in Qualitative Research: An Empirical Study · [DOI](https://doi.org/10.1177/0038038597031003015)
 - Subjectivity and the Labour Process: Conceptualising `Good Work' · [DOI](https://doi.org/10.1177/0038038597031003004)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038597031004011)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038597031004031)
 
 ## 1996
 
 - On the Concept of Motive in Sociology · [DOI](https://doi.org/10.1177/0038038596030001007)
 - The Sociology of Professions and the Profession of Gender · [DOI](https://doi.org/10.1177/0038038596030004003)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038596030003016)
 
 ## 1995
 
@@ -2277,60 +2284,187 @@
 - Young People and their Contribution to Household Work · [DOI](https://doi.org/10.1177/0038038595029002008)
 - Incorporation without Integration: Palestinian Citizens in Israel's Labour Market · [DOI](https://doi.org/10.1177/0038038595029003004)
 - Death in the News: The Public Invigilation of Private Emotion · [DOI](https://doi.org/10.1177/0038038595029004002)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038595029001018)
 
 ## 1994
 
 - Just-in-Time, `Regimes' and Reductionism · [DOI](https://doi.org/10.1177/0038038594028001003)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038594028002064)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038594028003016)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038594028004013)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038594028004030)
 
 ## 1993
 
 - `Black and Ethnic Minority' or `Asian, Black and Other Minority Ethnic': A Further Note on Nomenclature · [DOI](https://doi.org/10.1177/0038038593027004007)
 - De-Constructing Concepts of Care · [DOI](https://doi.org/10.1177/0038038593027004006)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038593027002026)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038593027002043)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038593027002039)
+- Weber, Wagner and Thoughts of Death · [DOI](https://doi.org/10.1177/0038038593027003006)
+- The Problem of other Lives: Social Perspectives on Written Biography · [DOI](https://doi.org/10.1177/003803859302700103)
+- Book Reviews · [DOI](https://doi.org/10.1177/003803859302700121)
+- Book Reviews · [DOI](https://doi.org/10.1177/003803859302700119)
 
 ## 1992
 
 - `Someone to Watch Over Me': Surveillance, Discipline and the Just-in-Time Labour Process · [DOI](https://doi.org/10.1177/0038038592026002009)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038592026003028)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038592026003047)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038592026004047)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038592026001008)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038592026003021)
 
 ## 1991
 
 - Industrial Capitalism and the Welfare of the State: The Role of Employers in the Comparative Development of Welfare States. A Review of Recent Research · [DOI](https://doi.org/10.1177/0038038591025002005)
 - The Concept of Caring in Feminist Research: The Case of Domestic Service · [DOI](https://doi.org/10.1177/0038038591025001004)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038591025004023)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038591025004035)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038591025003023)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038591025003028)
 
 ## 1990
 
 - Household Spending, Personal Spending and the Control of Money in Marriage · [DOI](https://doi.org/10.1177/0038038590024001009)
 - The Revised Cambridge Scale of Occupations · [DOI](https://doi.org/10.1177/0038038590024004005)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038590024001019)
+- Half-Truths about Bias · [DOI](https://doi.org/10.1177/0038038590024002004)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038590024002032)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038590024002068)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038590024003035)
 
 ## 1989
 
 - Men: The Forgotten Carers · [DOI](https://doi.org/10.1177/0038038589023001008)
 - The Use of the Concept of `Strategy' in Recent Sociological Literature · [DOI](https://doi.org/10.1177/0038038589023001002)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038589023001027)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038589023002029)
 
 ## 1988
 
 - Social Network Analysis · [DOI](https://doi.org/10.1177/0038038588022001007)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038588022001012)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038588022002026)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038588022003039)
+- Engineering Education in Britain and Japan: Some Reflections on the Use of `the Best Practice' Models in International Comparison · [DOI](https://doi.org/10.1177/0038038588022004007)
+
+## 1987
+
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038587021001018)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038587021001033)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038587021002019)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038587021002026)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038587021002018)
+- Gender, Status and Professionalism · [DOI](https://doi.org/10.1177/0038038587021003007)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038587021003017)
+
+## 1986
+
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038586020001020)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038586020001041)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038586020002044)
+- Workplace Relations in the Economic Crisis: A Comparison of a British and a French Automobile Plant · [DOI](https://doi.org/10.1177/0038038586020004004)
+
+## 1985
+
+- Retrospective Reviews · [DOI](https://doi.org/10.1177/0038038585019004031)
+
+## 1984
+
+- Shorter Notices · [DOI](https://doi.org/10.1177/0038038584018002027)
+- Shorter Notices · [DOI](https://doi.org/10.1177/0038038584018003030)
 
 ## 1983
 
 - Women and Class Analysis: In Defence of the Conventional View · [DOI](https://doi.org/10.1177/0038038583017004001)
+- Shorter Notices · [DOI](https://doi.org/10.1177/0038038583017003021)
+- Structural Transformations in the British Class Structure: A Log Linear Analysis of Marital Endogamy in Rochdale 1856-1964 · [DOI](https://doi.org/10.1177/0038038583017004003)
+- Notes for Contributors · [DOI](https://doi.org/10.1177/0038038583017001001)
 
 ## 1982
 
 - Secondary Analysis and the Relationship between Official and Academic Social Research · [DOI](https://doi.org/10.1177/0038038582016001005)
+- Shorter Notices · [DOI](https://doi.org/10.1177/0038038582016004029)
 
 ## 1981
 
 - `Objective' Interests and the Sociology of Power · [DOI](https://doi.org/10.1177/003803858101500202)
+- Objectives in Teaching and Using Research Methodology · [DOI](https://doi.org/10.1177/003803858101500402)
+- The Making of Social Psychology. Discussions with Creative Contributors · [DOI](https://doi.org/10.1177/003803858101500427)
+
+## 1980
+
+- Books Received · [DOI](https://doi.org/10.1177/003803858001400136)
+- Mining and Social Change - Durham County in the Twentieth Century · [DOI](https://doi.org/10.1177/003803858001400218)
 
 ## 1979
 
 - The Poem's Defiance of Sociology · [DOI](https://doi.org/10.1177/003803857901300106)
 - A Phenomenology of Tourist Experiences · [DOI](https://doi.org/10.1177/003803857901300203)
+- Contemporary Europe: Social Structures and Cultural Patterns · [DOI](https://doi.org/10.1177/003803857901300230)
+- Tragic Realism and Modern Society: Studies in the Sociology of the Novel · [DOI](https://doi.org/10.1177/003803857901300237)
 
 ## 1978
 
 - What's in a `Nyem'? · [DOI](https://doi.org/10.1177/003803857801200109)
+- Estrangenment, Alienation and Exploitation: A Sociological Approach to Historical Materialism · [DOI](https://doi.org/10.1177/003803857801200233)
+
+## 1977
+
+- Sociology, Equality and Education · [DOI](https://doi.org/10.1177/003803857701100217)
+- Psychiatry in Dissent; Controversial Issues in Thought and Practice · [DOI](https://doi.org/10.1177/003803857701100314)
+- Sociological Analysis: Methods of Discovery · [DOI](https://doi.org/10.1177/003803857701100319)
+
+## 1976
+
+- Social Theory and Political Practice · [DOI](https://doi.org/10.1177/003803857601000229)
+- A Sociology of Belief · [DOI](https://doi.org/10.1177/003803857601000318)
+- Moral Indignation and the Media: An Analysis of the NVALA · [DOI](https://doi.org/10.1177/003803857601000204)
 
 ## 1975
 
 - Holding the Middle Ground: The BBC, the Public and the Professional Broadcaster · [DOI](https://doi.org/10.1177/003803857500900104)
+- Occupational Structure in Industrialized Societies: Some Notes on the Convergence Thesis in the Light of Soviet Experience · [DOI](https://doi.org/10.1177/003803857500900304)
+- Beneath the Surface; An account of three styles of Sociological Research · [DOI](https://doi.org/10.1177/003803857500900329)
+
+## 1974
+
+- The Religious Order: A Study of Virtuoso Religion and its Legitimation in the Nineteenth Century Church of England · [DOI](https://doi.org/10.1177/003803857400800338)
+- Saint and Sufi in Modern Egypt: An Essay in the Sociology of Religion · [DOI](https://doi.org/10.1177/003803857400800333)
+- Hopes and Fears of Israelis · [DOI](https://doi.org/10.1177/003803857400800119)
+- Advances in Social Research: A Reader · [DOI](https://doi.org/10.1177/003803857400800326)
+
+## 1973
+
+- The Sociology of Planning · [DOI](https://doi.org/10.1177/003803857300700217)
+
+## 1972
+
+- News and Notes · [DOI](https://doi.org/10.1177/003803857200600214)
+- The Legislation of Morality: Law, Drugs, and Moral Judgement · [DOI](https://doi.org/10.1177/003803857200600122)
+- Sociology, History and Education · [DOI](https://doi.org/10.1177/003803857200600237)
+- Planned Social Intervention: An Interdisciplinary Anthology · [DOI](https://doi.org/10.1177/003803857200600251)
+- The Higher Civil Service in Britain · [DOI](https://doi.org/10.1177/003803857200600121)
+
+## 1971
+
+- The Prevention of Drinking Problems: Alcohol Control and Cultural Influences · [DOI](https://doi.org/10.1177/003803857100500337)
+- Social Mobility and Political Change · [DOI](https://doi.org/10.1177/003803857100500318)
+
+## 1970
+
+- The Cloistered Elite · [DOI](https://doi.org/10.1177/003803857000400354)
+- Industrial Democracy: The Sociology of Participation. The Sociology and Social Welfare Series 2 · [DOI](https://doi.org/10.1177/003803857000400114)
+- Trinidad Electoral Politics: the persistence of the race factor · [DOI](https://doi.org/10.1177/003803857000400212)
+- Sample Size: An Innovatory Procedure in Survey Analysis · [DOI](https://doi.org/10.1177/003803857000400306)
+
+## 1969
+
+- News and Notes · [DOI](https://doi.org/10.1177/003803856900300141)
+
+## 1968
+
+- Law, Morality and Religion in a Secular Society · [DOI](https://doi.org/10.1177/003803856800200225)
+- A Typology for the Classification of Educational Systems · [DOI](https://doi.org/10.1177/003803856800200103)
+- Max Weber: Gedächtnisschrift der Ludwig-Maximilians-Universität München zur 100. Wiederkehr seines Geburtstages 1964 · [DOI](https://doi.org/10.1177/003803856800200117)

@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2010–2019 年文章（含摘要）
 
-共 **914** 篇
+共 **918** 篇
 
 ---
 
@@ -564,6 +564,21 @@
 **年份**: 2019 | **DOI**: [10.1177/0192513X19868270](https://doi.org/10.1177/0192513X19868270)
 **作者**: Eickmeyer, Kasey J.; Guzzo, Karen Benjamin; Manning, Wendy D. 等4人
 **摘要**: Income pooling is a common behavior among couples. However, cohabiting and married individuals in more complex families, namely those with stepchildren, are less likely to pool incomes.…
+
+### Family Structure Change Among Latinos: Variation by Ecologic Risk
+**年份**: 2019 | **DOI**: [10.1177/0192513x19849636](https://doi.org/10.1177/0192513x19849636)
+**作者**: Cabrera, Natasha J.; Karberg, Elizabeth; Fagan, Jay
+**摘要**: We examined differences in family structure change in an urban sample of mothers ( N = 1,314) from their child’s birth to age 5 and whether ecological risk moderated this association.…
+
+### “Honey, I Want to Be a Surrogate”: How Military Spouses Negotiate and Navigate Surrogacy With Their Service Member Husbands
+**年份**: 2019 | **DOI**: [10.1177/0192513x19862843](https://doi.org/10.1177/0192513x19862843)
+**作者**: Ziff, Elizabeth
+**摘要**: This article examines how military spouses negotiate the decision to become a surrogate with their service member husband and how the two navigate surrogacy together. It is speculated that military spouses are ideal candidates for surrogacy due to their particular status as a military spouse; howeve…
+
+### The Relationship Between Religion and Intergenerational Solidarity in Eastern and Western Germany
+**年份**: 2019 | **DOI**: [10.1177/0192513x19868750](https://doi.org/10.1177/0192513x19868750)
+**作者**: Steinbach, Anja; Silverstein, Merril
+**摘要**: This article investigated the relationship between religiosity and intergenerational solidarity in Germany, with a focus on differences between eastern and western regions that have maintained unique religious profiles that trace back to before unification.…
 
 ### Relationship Conflict, Work Conditions, and the Health of Mothers With Young Children
 **年份**: 2018 | **DOI**: [10.1177/0192513X18776415](https://doi.org/10.1177/0192513X18776415)
@@ -1374,6 +1389,11 @@
 **年份**: 2018 | **DOI**: [10.1177/0192513X17741176](https://doi.org/10.1177/0192513X17741176)
 **作者**: Silva, Carla Sofia; Calheiros, Maria Manuela
 **摘要**: Adolescents' perceptions of their relationship with both parents were examined as mediators linking interparental conflict to their self-representations (SR). Portuguese adolescents (N = 214; 58.4% girls), aged 10-16 years old (M = 13.39), attending public elementary and secondary schools, filled ou…
+
+### The Role of Attachment of Each Partner on Marital Adjustment
+**年份**: 2018 | **DOI**: [10.1177/0192513x18812005](https://doi.org/10.1177/0192513x18812005)
+**作者**: Siegel, Alana; Levin, Yafit; Solomon, Zahava
+**摘要**: This study conducted a latent profile analysis on quantitative data gathered from 156 married couples, so to learn more about the role of attachment and gender in marital adjustment.…
 
 ### A Brief Tribute to Murray A. Straus
 **年份**: 2017 | **DOI**: [10.1177/0192513x17728192](https://doi.org/10.1177/0192513x17728192)

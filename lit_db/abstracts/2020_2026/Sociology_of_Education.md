@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **118** 篇
+共 **127** 篇
 
 ---
 
@@ -54,6 +54,16 @@
 **年份**: 2026 | **DOI**: [10.1177/00380407261424502](https://doi.org/10.1177/00380407261424502)
 **作者**: Thomsen, Jens-Peter; Andrade, Stefan Bastholm; Hertel, Florian R. 等5人
 **摘要**: Intergenerational educational mobility reflects a welfare state's ability to provide citizens with opportunities to climb the social ladder. Representing two distinct welfare state types, studies have contrasted mobility patterns in Scandinavia and the United States but have provided no consistent a…
+
+### Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training
+**年份**: 2026 | **DOI**: [10.1177/00380407261440275](https://doi.org/10.1177/00380407261440275)
+**作者**: Emmenegger, Patrick; Haslberger, Matthias; Wilson, Anna
+**摘要**: Vocational education and training (VET) is hailed for easing skill shortages and fostering inclusion. However, little is known about the factors influencing the choice between VET and general education.…
+
+### From Aspiration to Action: Socioeconomic Disparity in the Translation of Educational Goals into Time Investment
+**年份**: 2026 | **DOI**: [10.1177/00380407261432647](https://doi.org/10.1177/00380407261432647)
+**作者**: Yong, Anna
+**摘要**: Although educational aspirations are widely viewed as central to attainment, less is known about how they translate into academic behavior. This study investigates the behavioral consequences of aspirations using nationally representative data from South Korea and dynamic panel models with individua…
 
 ### Cultivating Familiarity: Social Class and Help-Seeking in Academic Advising
 **年份**: 2025 | **DOI**: [10.1177/00380407251391756](https://doi.org/10.1177/00380407251391756)
@@ -155,6 +165,10 @@
 **作者**: Ayala-Hurtado, Elena
 **摘要**: Graduating from college is widely associated with social and personal advancement, yet many young graduates are not experiencing these benefits. Drawing on 127 interviews with college graduates in the United States and Spain who face employment precarity or economic instability, this study asks: How…
 
+### Author Index
+**年份**: 2025 | **DOI**: [10.1177/00380407251380399](https://doi.org/10.1177/00380407251380399)
+**摘要**: （暂无）
+
 ### Pink Slips (for Some): Campus Employment, Social Class, and COVID-19
 **年份**: 2024 | **DOI**: [10.1177/00380407241259793](https://doi.org/10.1177/00380407241259793)
 **作者**: Jack, Anthony Abraham; Bassett, Becca Spindel
@@ -244,6 +258,11 @@
 **年份**: 2024 | **DOI**: [10.1177/00380407231191541](https://doi.org/10.1177/00380407231191541)
 **作者**: Klein, Markus; Sosu, Edward M.
 **摘要**: Studies consistently show the detrimental effect of school absences on pupils' achievement. However, due to an accumulation of multiple risks, school absenteeism may be more harmful to achievement among pupils from lower socioeconomic status (SES).…
+
+### Message from the Editors
+**年份**: 2024 | **DOI**: [10.1177/00380407241299625](https://doi.org/10.1177/00380407241299625)
+**作者**: Carbonaro, William; Haskins, Anna R.
+**摘要**: （暂无）
 
 ### Within-School Achievement Sorting in Comprehensive and Tracked Systems
 **年份**: 2023 | **DOI**: [10.1177/00380407231183952](https://doi.org/10.1177/00380407231183952)
@@ -410,6 +429,10 @@
 **作者**: Gast, Melanie Jones
 **摘要**: Past work and college-access programs often treat college knowledge as discrete pieces of information and focus on the amount of available college information. I use ethnographic and multiwave interview data to compare college-aspiring working- and middle-class black 9th and 11th graders across almo…
 
+### INDEX TO VOLUME 95
+**年份**: 2022 | **DOI**: [10.1177/00380407221131120](https://doi.org/10.1177/00380407221131120)
+**摘要**: （暂无）
+
 ### Schools as Refractors: Comparing Summertime and School-Year Skill Inequality Trajectories
 **年份**: 2021 | **DOI**: [10.1177/00380407211041542](https://doi.org/10.1177/00380407211041542)
 **作者**: Condron, Dennis J.; Downey, Douglas B.; Kuhfeld, Megan
@@ -499,6 +522,15 @@
 **年份**: 2021 | **DOI**: [10.1177/0038040720942912](https://doi.org/10.1177/0038040720942912)
 **作者**: Schofer, Evan; Ramirez, Francisco O.; Meyer, John W.
 **摘要**: The advent of mass schooling played a pivotal role in European societies of the later nineteenth century, transforming rural peasants into national citizens. The late-twentieth-century global expansion of higher education ushered in new transformations, propelling societal rationalization and organi…
+
+### Corrigendum to “Examining High School Students’ Gendered Beliefs about Math: Predictors and Implications for Choice of STEM College Majors”
+**年份**: 2021 | **DOI**: [10.1177/00380407211040071](https://doi.org/10.1177/00380407211040071)
+**摘要**: （暂无）
+
+### Message from the Editors
+**年份**: 2021 | **DOI**: [10.1177/00380407211063529](https://doi.org/10.1177/00380407211063529)
+**作者**: Diamond, John B.; Johnson, Odis
+**摘要**: （暂无）
 
 ### Imagining the World: Conceptions and Determinants of Internationalization in Higher Education Curricula Worldwide
 **年份**: 2020 | **DOI**: [10.1177/0038040720929304](https://doi.org/10.1177/0038040720929304)
@@ -594,3 +626,11 @@
 **年份**: 2020 | **DOI**: [10.1177/0038040719873848](https://doi.org/10.1177/0038040719873848)
 **作者**: Furuta, Jared
 **摘要**: This article examines global changes in tracking policies over the post-World War II period. Using a newly constructed quantitative panel data set of 139 countries from 1960 to 2010, I show that a majority of countries around the world have shifted away from sharply tracked institutions at the junio…
+
+### Author Index
+**年份**: 2020 | **DOI**: [10.1177/0038040720954225](https://doi.org/10.1177/0038040720954225)
+**摘要**: （暂无）
+
+### 2020 Reviewer Thank You
+**年份**: 2020 | **DOI**: [10.1177/0038040720954439](https://doi.org/10.1177/0038040720954439)
+**摘要**: （暂无）

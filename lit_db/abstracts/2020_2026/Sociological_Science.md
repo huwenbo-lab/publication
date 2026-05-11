@@ -1,7 +1,7 @@
 # Sociological Science
 ## 2020–2026 年文章（含摘要）
 
-共 **196** 篇
+共 **199** 篇
 
 ---
 
@@ -98,6 +98,21 @@
 ### More Common, Less Equal: Disparities in College Internship Participation Over Time
 **年份**: 2026 | **DOI**: [10.15195/v13.a19](https://doi.org/10.15195/v13.a19)
 **作者**: Shandra, Carrie
+**摘要**: （暂无）
+
+### Echo Chambers Are Defined by Conflict, Not Isolation
+**年份**: 2026 | **DOI**: [10.15195/v13.a22](https://doi.org/10.15195/v13.a22)
+**作者**: Keuchenius, Anna; Törnberg, Petter; Uitermark, Justus
+**摘要**: （暂无）
+
+### Dissecting Taste Distinction: Cultural Tastes and Perceptions of Individuals’ Status and Qualities
+**年份**: 2026 | **DOI**: [10.15195/v13.a20](https://doi.org/10.15195/v13.a20)
+**作者**: Larsen, Mikkel; Jæger, Mads
+**摘要**: （暂无）
+
+### How a Seemingly Innocuous and Intuitive Methodological Choice Confused a Generation of Research on Policy Responsiveness
+**年份**: 2026 | **DOI**: [10.15195/v13.a21](https://doi.org/10.15195/v13.a21)
+**作者**: Enns, Peter
 **摘要**: （暂无）
 
 ### Workplace Networks and the Dynamics of Worker Organizing

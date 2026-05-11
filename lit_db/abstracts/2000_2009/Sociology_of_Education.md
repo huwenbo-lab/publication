@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2000–2009 年文章（含摘要）
 
-共 **168** 篇
+共 **171** 篇
 
 ---
 
@@ -159,6 +159,11 @@
 **年份**: 2008 | **DOI**: [10.1177/003804070808100104](https://doi.org/10.1177/003804070808100104)
 **作者**: Warren, John Robert; Grodsky, Eric; Lee, Jennifer C.
 **摘要**: Since the late 1970s, an increasing number of states have required students to pass statewide high school exit examinations (HSEEs) in order to graduate. States have usually adopted HSEEs in response to the perception that a substantial number of graduates lack skills that are required for success i…
+
+### Student Engagement, Peer Social Capital, and School Dropout Among Mexican American and Non-Latino White Students
+**年份**: 2008 | **DOI**: [10.1177/003804070808100201](https://doi.org/10.1177/003804070808100201)
+**作者**: Ream, Robert K.; Rumberger, Russell W.
+**摘要**: Policy makers are especially concerned about persistently high dropout rates among U.S. Latinos, the largest minority population in the United States. This study used a national longitudinal database to show that the behavioral and social aspects of schooling are dynamically linked in the process of…
 
 ### Where the rubber meets the road: Rethinking the connection between high-stakes testing policy and classroom instruction
 **年份**: 2007 | **DOI**: [10.1177/003804070708000401](https://doi.org/10.1177/003804070708000401)
@@ -389,6 +394,16 @@
 **年份**: 2005 | **DOI**: [10.1177/003804070507800207](https://doi.org/10.1177/003804070507800207)
 **作者**: Epstein, Joyce L.
 **摘要**: （暂无）
+
+### The Problem of Underqualified Teachers: A Sociological Perspective
+**年份**: 2005 | **DOI**: [10.1177/003804070507800206](https://doi.org/10.1177/003804070507800206)
+**作者**: Ingersoll, Richard M.
+**摘要**: （暂无）
+
+### No Child Left Behind? Sociology Ignored!
+**年份**: 2005 | **DOI**: [10.1177/003804070507800204](https://doi.org/10.1177/003804070507800204)
+**作者**: Karen, David
+**摘要**: Too many American children are segregated into schools without standards, shuffled from grade-to-grade because of their age, regardless of their knowledge. This is discrimination, pure and simple—the soft bigotry of low expectations.…
 
 ### When race matters: Teachers' evaluations of students' classroom behavior
 **年份**: 2004 | **DOI**: [10.1177/003804070407700401](https://doi.org/10.1177/003804070407700401)

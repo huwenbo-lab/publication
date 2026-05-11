@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **418** 篇
+共 **426** 篇
 
 ---
 
@@ -39,6 +39,36 @@
 **年份**: 2026 | **DOI**: [10.1111/1468-4446.70119](https://doi.org/10.1111/1468-4446.70119)
 **作者**: Tan, Catherine
 **摘要**: ABSTRACT Behind its worldly and socially conscious aesthetic, the wellness industry serves the health and fitness interests of North American and European consumers by commercializing non‐Western and Indigenous healing traditions, including shamanistic practices.…
+
+### Entrepreneuring Legitimacy: A Case Study of the Cultural Codes and Boundary‐Makings of the Tech Elite
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70046](https://doi.org/10.1111/1468-4446.70046)
+**作者**: Dorschel, Robert
+**摘要**: ABSTRACT How do those who are pulling away economically justify their advantageous positions? This issue has acquired salience in the context of rising inequalities and propelled a reflourishing of sociological analysis focused on elites.…
+
+### Privileged Precarity: How the Mobile Middle Class Leverage Housing Insecurity as Labour Market Strategy
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70118](https://doi.org/10.1111/1468-4446.70118)
+**作者**: White, Tim
+**摘要**: ABSTRACT How does the ability to weather insecurity give some an upper‐hand over others? This paper examines the interrelationship between housing and labour market precarity among middle class young professionals.…
+
+### The New Petty Bourgeoisie Versus the Lumpen PMC? A Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie by D. Evans, London: Repeater Books, 2023, 300 pp. £12.99 (paperback). ISBN-10: 1913462692, ISBN-13: 978-1913462697
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70114](https://doi.org/10.1111/1468-4446.70114)
+**作者**: Thompson, Matthew
+**摘要**: （暂无）
+
+### Laying Grounds for Dialogue: Exploring Anti‐Racist Activists' Negotiations of Emotions When Challenging Colour‐Blindness in Norway
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70121](https://doi.org/10.1111/1468-4446.70121)
+**作者**: Michelet, Kine Marie
+**摘要**: ABSTRACT In this article, I explore how 36 Norwegian anti‐racist activists of colour negotiate emotions when engaging with the white majority population. Much recent research on racist ideology draws on Bonilla‐Silva's framework of colour‐blindness, arguing that the white majority nowadays is more l…
+
+### The Worldviews of Elites: Differences Between Inheritors and Newcomers
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70122](https://doi.org/10.1111/1468-4446.70122)
+**作者**: Otero, Gabriel
+**摘要**: ABSTRACT The main goal of this paper is to examine variations in the political attitudes of elites in Chile concerning two key dimensions: socioeconomic attitudes (concerning redistribution, taxation, and state provision of services) and sociocultural attitudes (concerning immigration, LGBTQ+ rights…
+
+### Cruel and Usual: Recursive Racial Cruelty at the US Immigration Courts
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70120](https://doi.org/10.1111/1468-4446.70120)
+**作者**: Islam, Nabila N.
+**摘要**: ABSTRACT In this paper, I advance a theorization of recursive racial cruelty by focusing on the suffering of racialized respondents in the US immigration courts and connecting it to the routine functioning of the US empire and colonial racial capitalism.…
 
 ### Securing Profit: Threat Production as a Mechanism of Racial Capitalism in US-Occupied Kabul
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.70065](https://doi.org/10.1111/1468-4446.70065)
@@ -1125,6 +1155,10 @@
 **作者**: Hodkinson, Paul; Brooks, Rachel
 **摘要**: This article addresses the sustainability of extensive paternal involvement in caregiving by applying a temporal approach to understandings of the journeys of primary- and equal-carer fathers and their families.…
 
+### Issue Information ‐ List Of Books Reviewed
+**年份**: 2023 | **DOI**: [10.1111/1468-4446.12956](https://doi.org/10.1111/1468-4446.12956)
+**摘要**: No abstract is available for this article.
+
 ### Pursuing individualism without feminism: Leisure life and gender politics of young female bar-goers in urban China
 **年份**: 2022 | **DOI**: [10.1111/1468-4446.12979](https://doi.org/10.1111/1468-4446.12979)
 **作者**: Huang, Yanhua; Liu, Zixi
@@ -2094,3 +2128,8 @@
 **年份**: 2020 | **DOI**: [10.1111/1468-4446.12712](https://doi.org/10.1111/1468-4446.12712)
 **作者**: Elliott, Karla; Fitz-Gibbon, Kate; Maher, JaneMaree
 **摘要**: Sibling violence is an under-researched field, and the impact of adolescent family violence (AFV) in particular on siblings is not yet well understood. The Australian study Investigating Adolescent Family Violence in Victoria elicited responses from siblings who had experienced AFV from their brothe…
+
+### Preface to a special issue on the sociology of testing
+**年份**: 2020 | **DOI**: [10.1111/1468-4446.12757](https://doi.org/10.1111/1468-4446.12757)
+**作者**: Marres, Noortje; Stark, David
+**摘要**: （暂无）

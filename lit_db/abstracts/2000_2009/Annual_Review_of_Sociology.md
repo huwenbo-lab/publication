@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **115** 篇
+共 **125** 篇
 
 ---
 
@@ -60,6 +60,11 @@
 **作者**: Davis, Shannon N.; Greenstein, Theodore N.
 **摘要**: The purpose of this article is to review research on the construction of gender ideology and its consequences. The article begins with a summary of research focused on measuring gender ideology—individuals' levels of support for a division of paid work and family responsibilities that is based on th…
 
+### Is America Fragmenting?
+**年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-115909](https://doi.org/10.1146/annurev-soc-070308-115909)
+**作者**: Fischer, Claude S.; Mattson, Greggor
+**摘要**: The view that America is fragmenting is popular among both pundits and academics and may well be endemic to American culture. We review claims that between 1970 and 2005 American society fragmented along lines of cultural politics, social class, immigration, race, or lifestyle.…
+
 ### From Mead to a structural symbolic interactionism and beyond
 **年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134649](https://doi.org/10.1146/annurev.soc.34.040507.134649)
 **作者**: Stryker, Sheldon
@@ -114,6 +119,11 @@
 **年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134549](https://doi.org/10.1146/annurev.soc.34.040507.134549)
 **作者**: McLanahan, Sara; Percheski, Christine
 **摘要**: Over the past four decades, income inequality has increased and family structures have diversified. We argue that family structure has become an important mechanism for the reproduction of class, race, and gender inequalities.…
+
+### Conditional Cash Transfers as Social Policy in Latin America: An Assessment of their Contributions and Limitations
+**年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134537](https://doi.org/10.1146/annurev.soc.34.040507.134537)
+**作者**: Valencia Lomelí, Enrique
+**摘要**: Conditional cash transfer programs have recently spread throughout Latin America, and early findings suggest their potential to overcome poverty and create human capital. This review undertakes an assessment of CCT programs and the conventional theory that has evolved to justify them.…
 
 ### Statistical magic and/or statistical serendipity: an age of progress in the analysis of categorical data
 **年份**: 2007 | **DOI**: [10.1146/annurev.soc.33.040406.131720](https://doi.org/10.1146/annurev.soc.33.040406.131720)
@@ -175,6 +185,11 @@
 **作者**: DiTomaso, Nancy; Post, Corinne; Parks-Yancy, Rochelle
 **摘要**: Workforce diversity refers to the composition of work units in terms of the cultural or demographic characteristics that are salient and symbolically meaningful in the relationships among group members.…
 
+### The Sociology of Markets
+**年份**: 2007 | **DOI**: [10.1146/annurev.soc.33.040406.131736](https://doi.org/10.1146/annurev.soc.33.040406.131736)
+**作者**: Fligstein, Neil; Dauter, Luke
+**摘要**: The sociology of markets has been one of the most vibrant fields in sociology in the past 25 years. There is a great deal of agreement that markets are social structures characterized by extensive social relationships between firms, workers, suppliers, customers, and governments.…
+
 ### The long twentieth century in American sociology: A semiautobiographical survey
 **年份**: 2006 | **DOI**: [10.1146/annurev.soc.32.061604.123051](https://doi.org/10.1146/annurev.soc.32.061604.123051)
 **作者**: Williams, Robin M., Jr.
@@ -225,6 +240,11 @@
 **作者**: Johnson, Cathryn; Dowd, Timothy J.; Ridgeway, Cecilia L.
 **摘要**: To gain an in-depth understanding of legitimacy as a general social process, we review contemporary approaches to legitimacy within two areas of sociology: social psychology and organizations.…
 
+### Estimating the Causal Effect of Social Capital: A Review of Recent Research
+**年份**: 2006 | **DOI**: [10.1146/annurev.soc.32.061604.123150](https://doi.org/10.1146/annurev.soc.32.061604.123150)
+**作者**: Mouw, Ted
+**摘要**: Although there is a large literature on social capital, empirical estimates of the effect of social capital may be biased because of social homophily, the tendency of similar people to become friends with each other.…
+
 ### Doing justice to the group: Examining the roles of the group in justice research
 **年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122213](https://doi.org/10.1146/annurev.soc.31.041304.122213)
 **作者**: Hegtvedt, KA
@@ -259,6 +279,16 @@
 **年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122308](https://doi.org/10.1146/annurev.soc.31.041304.122308)
 **作者**: Peterson, Ruth D.; Krivo, Lauren J.
 **摘要**: In 1995, Sampson & Wilson assessed the state of knowledge on race and violence and set forth an approach for future research. We review macrostructural analyses of race, ethnicity, and violent crime since 1995 to evaluate progress in explaining inequality in criminal violence across racial and ethni…
+
+### The Social Consequences of Structural Adjustment: Recent Evidence and Current Debates
+**年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122258](https://doi.org/10.1146/annurev.soc.31.041304.122258)
+**作者**: Babb, Sarah
+**摘要**: Thirty years ago, intellectual debates concerning the relationship between wealthy and poor nations could be summed up under the rubric of modernization versus dependency. However, the events of the 1980s and 1990s completely shifted the terms of this debate.…
+
+### Multiethnic Cities in North America
+**年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122246](https://doi.org/10.1146/annurev.soc.31.041304.122246)
+**作者**: Fong, Eric; Shibuya, Kumiko
+**摘要**: The growing Hispanic and Asian populations in most major North American cities have drastically transformed the urban demographic landscape to become racially and ethnically diversified.…
 
 ### The use of newspaper data in the study of collective action
 **年份**: 2004 | **DOI**: [10.1146/annurev.soc.30.012703.110603](https://doi.org/10.1146/annurev.soc.30.012703.110603)
@@ -325,6 +355,11 @@
 **作者**: Carruthers, Bruce G.; Ariovich, Laura
 **摘要**: Property rights matter for their effects on economic inequality and economic performance, and they unfold at the intersection of law, the state, politics, and the economy. Five dimensions of property are discussed: the objects of property (what can be owned), the subjects of property (who can own), …
 
+### Values: Reviving a Dormant Concept
+**年份**: 2004 | **DOI**: [10.1146/annurev.soc.30.012703.110640](https://doi.org/10.1146/annurev.soc.30.012703.110640)
+**作者**: Hitlin, Steven; Piliavin, Jane Allyn
+**摘要**: Over the past decades, the concept of values has gone in and out of fashion within sociology. Relatively recent advances in both the conceptualization and measurement of values offer the potential for a reincorporation of values into sociological work.…
+
 ### Beyond rational choice theory
 **年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100213](https://doi.org/10.1146/annurev.soc.29.010202.100213)
 **作者**: Boudon, R
@@ -385,6 +420,11 @@
 **作者**: Zuberi, Tukufu; Sibanda, Amson; Bawah, Ayaga 等4人
 **摘要**: ▪ Abstract African society is quite distinct in both its relationship to the rest of the world and its history. Africa seems beset by a myriad of crises, from famines, to civil wars, to economic meltdowns. In addition to these crises, profound population and social change has occurred.…
 
+### The Urban Street Gang after 1970
+**年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.101602.130751](https://doi.org/10.1146/annurev.soc.29.101602.130751)
+**作者**: Coughlin, Brenda C.; Venkatesh, Sudhir Alladi
+**摘要**: ▪ Abstract This review discusses research on the urban street gang after the 1960s, the period in which social scientists began to conceptualize the gang outside of the social-problems framework.…
+
 ### Barking up the wrong branch: Scientific alternatives to the current model of sociological science
 **年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.141122](https://doi.org/10.1146/annurev.soc.28.110601.141122)
 **作者**: Lieberson, S; Lynn, FB
@@ -429,6 +469,11 @@
 **年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.141048](https://doi.org/10.1146/annurev.soc.28.110601.141048)
 **作者**: Smith, Ryan A.
 **摘要**: ▪ Abstract This chapter surveys sociological approaches to the study of job authority, including theoretical foundations, measurement, and emergence as an important dimension of social inequality.…
+
+### New Economics of Sociological Criminology
+**年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.140752](https://doi.org/10.1146/annurev.soc.28.110601.140752)
+**作者**: McCarthy, Bill
+**摘要**: ▪ Abstract This paper begins with a summary of the rational choice approach and its implications for the study of criminal behavior. I then review research on offending that uses the rational choice approach in conjunction with more sociological orientations.…
 
 ### Cases and biographies: An essay on routinization and the nature of comparison
 **年份**: 2001 | **DOI**: [10.1146/annurev.soc.27.1.47](https://doi.org/10.1146/annurev.soc.27.1.47)
@@ -579,3 +624,8 @@
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.63](https://doi.org/10.1146/annurev.soc.26.1.63)
 **作者**: Keister, Lisa A.; Moller, Stephanie
 **摘要**: Wealth ownership in the United States has long been concentrated in the hands of a small minority of the population, yet researchers have paid relatively little attention to the causes and consequences of this inequality.…
+
+### Social Psychology of Identities
+**年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.367](https://doi.org/10.1146/annurev.soc.26.1.367)
+**作者**: Howard, Judith A.
+**摘要**: In this chapter I review the social psychological underpinnings of identity, emphasizing social cognitive and symbolic interactionist perspectives and research, and I turn then to key themes of current work on identity—social psychological, sociological, and interdisciplinary.…

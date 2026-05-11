@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **180** 篇
+共 **189** 篇
 
 ---
 
@@ -90,6 +90,11 @@
 **作者**: Engzell, Per
 **摘要**: Why is it that children of immigrants often outdo their ethnic majority peers in educational aspirations yet struggle to keep pace with their achievements? This article advances the explanation that many immigrant communities, while positively selected on education, still have moderate absolute leve…
 
+### Understanding Variation in Estimates of Diversionary Effects of Community College Entrance: A Systematic Review and Meta-analysis
+**年份**: 2019 | **DOI**: [10.1177/0038040719848445](https://doi.org/10.1177/0038040719848445)
+**作者**: Schudde, Lauren; Brown, Raymond Stanley
+**摘要**: Decades of research have estimated the effect of entering a community college on bachelor’s degree attainment. In this study, we examined the influence of methodological choices, including sample restrictions and identification strategies, on estimated effects from studies published between 1970 and…
+
 ### Intergenerational Mobility at the Top of the Educational Distribution
 **年份**: 2018 | **DOI**: [10.1177/0038040718801812](https://doi.org/10.1177/0038040718801812)
 **作者**: Torche, Florencia
@@ -164,6 +169,14 @@
 **年份**: 2018 | **DOI**: [10.1177/0038040717741180](https://doi.org/10.1177/0038040717741180)
 **作者**: Owens, Ann
 **摘要**: Large achievement gaps exist between high- and low-income students and between black and white students. This article explores one explanation for such gaps: income segregation between school districts, which creates inequality in the economic and social resources available in advantaged and disadva…
+
+### Author Index
+**年份**: 2018 | **DOI**: [10.1177/0038040718806854](https://doi.org/10.1177/0038040718806854)
+**摘要**: （暂无）
+
+### 2018 Reviewer Thank You
+**年份**: 2018 | **DOI**: [10.1177/0038040718802292](https://doi.org/10.1177/0038040718802292)
+**摘要**: （暂无）
 
 ### Gender Differences in Context: The Impact of Track Position on Study Involvement in Flemish Secondary Education
 **年份**: 2017 | **DOI**: [10.1177/0038040717731604](https://doi.org/10.1177/0038040717731604)
@@ -355,6 +368,15 @@
 **作者**: Binder, Amy J.; Davis, Daniel B.; Bloom, Nick
 **摘要**: Elite universities are credited as launch points for the widest variety of meaningful careers. Yet, year after year at the most selective universities, nearly half the graduating seniors head to a surprisingly narrow band of professional options.…
 
+### 2016 Reviewer Thank You
+**年份**: 2016 | **DOI**: [10.1177/0038040716670151](https://doi.org/10.1177/0038040716670151)
+**摘要**: （暂无）
+
+### Schooling, Skills, and Self-rated Health
+**年份**: 2016 | **DOI**: [10.1177/0038040716653168](https://doi.org/10.1177/0038040716653168)
+**作者**: Duke, Naomi; Macmillan, Ross
+**摘要**: Education is a key sociological variable in the explanation of health and health disparities. Conventional wisdom emphasizes a life course–human capital perspective with expectations of causal effects that are quasi-linear, large in magnitude for high levels of educational attainment, and reasonably…
+
 ### Instrumental and Expressive Education: College Planning in the Face of Poverty
 **年份**: 2015 | **DOI**: [10.1177/0038040715603428](https://doi.org/10.1177/0038040715603428)
 **作者**: Deterding, Nicole M.
@@ -445,6 +467,10 @@
 **作者**: Jack, Anthony Abraham
 **摘要**: How do undergraduates engage authority figures in college? Existing explanations predict class-based engagement strategies. Using in-depth interviews with 89 undergraduates at an elite university, I show how undergraduates with disparate precollege experiences differ in their orientations toward and…
 
+### Author Index: Index to Volume 88
+**年份**: 2015 | **DOI**: [10.1177/0038040715607853](https://doi.org/10.1177/0038040715607853)
+**摘要**: （暂无）
+
 ### Resisting Charters: A Comparative Policy Development Analysis of Washington and Kentucky, 2002-2012
 **年份**: 2014 | **DOI**: [10.1177/0038040714546756](https://doi.org/10.1177/0038040714546756)
 **作者**: Johnston, Joseph B.
@@ -524,6 +550,14 @@
 **年份**: 2014 | **DOI**: [10.1177/0038040713498777](https://doi.org/10.1177/0038040713498777)
 **作者**: Lehmann, Wolfgang
 **摘要**: As the numbers of working-class students at university grow, we need to gain a better understanding of the different ways in which they consolidate their working-class habitus with the middle-class culture of the academic field.…
+
+### 2013 Reviewer Thank You
+**年份**: 2014 | **DOI**: [10.1177/0038040714525928](https://doi.org/10.1177/0038040714525928)
+**摘要**: （暂无）
+
+### Author Index: Index to Volume 87
+**年份**: 2014 | **DOI**: [10.1177/0038040714552793](https://doi.org/10.1177/0038040714552793)
+**摘要**: （暂无）
 
 ### The Collective Mind: A Reassessment
 **年份**: 2013 | **DOI**: [10.1177/0038040713503303](https://doi.org/10.1177/0038040713503303)
@@ -639,6 +673,10 @@
 **年份**: 2013 | **DOI**: [10.1177/0038040712448862](https://doi.org/10.1177/0038040712448862)
 **作者**: Kirk, David S.; Sampson, Robert J.
 **摘要**: Official sanctioning of students by the criminal justice system is a long-hypothesized source of educational disadvantage, but its explanatory status remains unresolved. Few studies of the educational consequences of a criminal record account for alternative explanations such as low self-control, la…
+
+### Index to Volume 86
+**年份**: 2013 | **DOI**: [10.1177/0038040713505833](https://doi.org/10.1177/0038040713505833)
+**摘要**: （暂无）
 
 ### Classroom Ordering and the Situational Imperatives of Routine and Ritual
 **年份**: 2012 | **DOI**: [10.1177/0038040712452093](https://doi.org/10.1177/0038040712452093)

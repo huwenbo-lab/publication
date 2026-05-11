@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **545** 篇 | 年份范围：1963–2026
+共 **581** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -17,6 +17,8 @@
 - “Who Is Anybody to Judge?” Educational Resistance through Recognition · [DOI](https://doi.org/10.1177/00380407261419106)
 - Care, Success, and Accountability: Cultural Logics, Expectation Drift, and the Complex Nature of Teacher Expectations · [DOI](https://doi.org/10.1177/00380407261432655)
 - Intergenerational Educational Mobility in Scandinavia and the United States · [DOI](https://doi.org/10.1177/00380407261424502)
+- Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training · [DOI](https://doi.org/10.1177/00380407261440275)
+- From Aspiration to Action: Socioeconomic Disparity in the Translation of Educational Goals into Time Investment · [DOI](https://doi.org/10.1177/00380407261432647)
 
 ## 2025
 
@@ -40,6 +42,7 @@
 - The Role of Schooling in Equalizing Achievement Disparity by Migrant Background · [DOI](https://doi.org/10.1177/00380407241293692)
 - Complicating the Suburban Advantage: Examining Racial and Gender Inequality in Suburban and Urban School Settings · [DOI](https://doi.org/10.1177/00380407241291997)
 - The Expectational Liminality of Insecure College Graduates · [DOI](https://doi.org/10.1177/00380407241296851)
+- Author Index · [DOI](https://doi.org/10.1177/00380407251380399)
 
 ## 2024
 
@@ -61,6 +64,7 @@
 - The Anti-Affirmative Action Avalanche: The Rise of Underrepresented Minority Enrollment at For-Profit Institutions · [DOI](https://doi.org/10.1177/00380407231198225)
 - Anywhere but Here: Neighborhood Violence and Local School Preferences in Baltimore City · [DOI](https://doi.org/10.1177/00380407231197394)
 - School Attendance and Academic Achievement: Understanding Variation across Family Socioeconomic Status · [DOI](https://doi.org/10.1177/00380407231191541)
+- Message from the Editors · [DOI](https://doi.org/10.1177/00380407241299625)
 
 ## 2023
 
@@ -100,6 +104,7 @@
 - Buying into the Meritocracy: Taiwanese Students and the Market for College Admissions Services · [DOI](https://doi.org/10.1177/00380407211055517)
 - Intensive Mothering and the Unequal School-Search Burden · [DOI](https://doi.org/10.1177/00380407211048453)
 - Reconceptualizing College Knowledge: Class, Race, and Black Students in a College-Counseling Field · [DOI](https://doi.org/10.1177/00380407211046053)
+- INDEX TO VOLUME 95 · [DOI](https://doi.org/10.1177/00380407221131120)
 
 ## 2021
 
@@ -121,6 +126,8 @@
 - How Political and Ecological Contexts Shape Community College Transfer · [DOI](https://doi.org/10.1177/0038040720954817)
 - Race, Gender, and Parental College Savings: Assessing Economic and Academic Factors · [DOI](https://doi.org/10.1177/0038040720942927)
 - The Societal Consequences of Higher Education · [DOI](https://doi.org/10.1177/0038040720942912)
+- Corrigendum to “Examining High School Students’ Gendered Beliefs about Math: Predictors and Implications for Choice of STEM College Majors” · [DOI](https://doi.org/10.1177/00380407211040071)
+- Message from the Editors · [DOI](https://doi.org/10.1177/00380407211063529)
 
 ## 2020
 
@@ -143,6 +150,8 @@
 - Measuring High School Curricular Intensity over Three Decades · [DOI](https://doi.org/10.1177/0038040719885123)
 - The Role of Intergenerational Networks in Students' School Performance in Two Differentiated Educational Systems: A Comparison of Between- and Within-Individual Estimates · [DOI](https://doi.org/10.1177/0038040719882309)
 - Liberal Individualism and the Globalization of Education as a Human Right: The Worldwide Decline of Early Tracking, 1960-2010 · [DOI](https://doi.org/10.1177/0038040719873848)
+- Author Index · [DOI](https://doi.org/10.1177/0038040720954225)
+- 2020 Reviewer Thank You · [DOI](https://doi.org/10.1177/0038040720954439)
 
 ## 2019
 
@@ -163,6 +172,7 @@
 - Symbolically Maintained Inequality: How Harvard and Stanford Students Construct Boundaries among Elite Universities · [DOI](https://doi.org/10.1177/0038040718821073)
 - Suspended Attitudes: Exclusion and Emotional Disengagement from School · [DOI](https://doi.org/10.1177/0038040718816684)
 - Aspiration Squeeze: The Struggle of Children to Positively Selected Immigrants · [DOI](https://doi.org/10.1177/0038040718822573)
+- Understanding Variation in Estimates of Diversionary Effects of Community College Entrance: A Systematic Review and Meta-analysis · [DOI](https://doi.org/10.1177/0038040719848445)
 
 ## 2018
 
@@ -181,6 +191,8 @@
 - Surviving at the Street Level: How Counselors' Implementation of School Choice Policy Shapes Students' High School Destinations · [DOI](https://doi.org/10.1177/0038040717751443)
 - Two Functions of Peer Influence on Upper-secondary Education Application Behavior · [DOI](https://doi.org/10.1177/0038040717746113)
 - Income Segregation between School Districts and Inequality in Students' Achievement · [DOI](https://doi.org/10.1177/0038040717741180)
+- Author Index · [DOI](https://doi.org/10.1177/0038040718806854)
+- 2018 Reviewer Thank You · [DOI](https://doi.org/10.1177/0038040718802292)
 
 ## 2017
 
@@ -225,6 +237,8 @@
 - Does College Influence Sociopolitical Attitudes? · [DOI](https://doi.org/10.1177/0038040715617224)
 - Understanding Educational Policy Formation: The Case of School Violence Policies in Israel · [DOI](https://doi.org/10.1177/0038040715615923)
 - Career Funneling: How Elite Students Learn to Define and Desire Prestigious'' Jobs · [DOI](https://doi.org/10.1177/0038040715610883)
+- 2016 Reviewer Thank You · [DOI](https://doi.org/10.1177/0038040716670151)
+- Schooling, Skills, and Self-rated Health · [DOI](https://doi.org/10.1177/0038040716653168)
 
 ## 2015
 
@@ -246,6 +260,7 @@
 - Innovative Education? A Test of Specialist Mimicry or Generalist Assimilation in Trends in Charter School Specialization Over Time · [DOI](https://doi.org/10.1177/0038040714561866)
 - Once You Go to a White School, You Kind of Adapt'': Black Adolescents and the Racial Classification of Schools · [DOI](https://doi.org/10.1177/0038040714555434)
 - (No) Harm in Asking · [DOI](https://doi.org/10.1177/0038040715614913)
+- Author Index: Index to Volume 88 · [DOI](https://doi.org/10.1177/0038040715607853)
 
 ## 2014
 
@@ -265,6 +280,8 @@
 - The Origins of Race-conscious Affirmative Action in Undergraduate Admissions: A Comparative Analysis of Institutional Change in Higher Education · [DOI](https://doi.org/10.1177/0038040713514063)
 - Disparities in Debt: Parents' Socioeconomic Resources and Young Adult Student Loan Debt · [DOI](https://doi.org/10.1177/0038040713512213)
 - Habitus Transformation and Hidden Injuries: Successful Working-class University Students · [DOI](https://doi.org/10.1177/0038040713498777)
+- 2013 Reviewer Thank You · [DOI](https://doi.org/10.1177/0038040714525928)
+- Author Index: Index to Volume 87 · [DOI](https://doi.org/10.1177/0038040714552793)
 
 ## 2013
 
@@ -291,6 +308,7 @@
 - Racial Mismatch in the Classroom: Beyond Black-white Differences · [DOI](https://doi.org/10.1177/0038040712444857)
 - Out with the Old, In with the New? Habitus and Social Mobility at Selective Colleges · [DOI](https://doi.org/10.1177/0038040712445519)
 - Juvenile Arrest and Collateral Educational Damage in the Transition to Adulthood · [DOI](https://doi.org/10.1177/0038040712448862)
+- Index to Volume 86 · [DOI](https://doi.org/10.1177/0038040713505833)
 
 ## 2012
 
@@ -390,6 +408,7 @@
 - What types of students' efforts are rewarded with high marks? · [DOI](https://doi.org/10.1177/003804070808100102)
 - School strategies and the College-Linking process: Reconsidering the effects of high schools on college enrollment · [DOI](https://doi.org/10.1177/003804070808100103)
 - State high school exit examinations and postsecondary labor market outcomes · [DOI](https://doi.org/10.1177/003804070808100104)
+- Student Engagement, Peer Social Capital, and School Dropout Among Mexican American and Non-Latino White Students · [DOI](https://doi.org/10.1177/003804070808100201)
 
 ## 2007
 
@@ -445,6 +464,8 @@
 - High school exit examinations and high school dropout in Texas and Florida, 1971-2000 · [DOI](https://doi.org/10.1177/003804070507800202)
 - Organizational environments and the emergence of charter schools in the United States · [DOI](https://doi.org/10.1177/003804070507800101)
 - Attainable Goals? The Spirit and Letter of the No Child Left Behind Act on Parental Involvement · [DOI](https://doi.org/10.1177/003804070507800207)
+- The Problem of Underqualified Teachers: A Sociological Perspective · [DOI](https://doi.org/10.1177/003804070507800206)
+- No Child Left Behind? Sociology Ignored! · [DOI](https://doi.org/10.1177/003804070507800204)
 
 ## 2004
 
@@ -568,12 +589,14 @@
 ## 1997
 
 - From First Grade Forward: Early Foundations of High School Dropout · [DOI](https://doi.org/10.2307/2673158)
+- History and Agency in Men's Lives: Pathways to Achievement in Cohort Perspective · [DOI](https://doi.org/10.2307/2673192)
 
 ## 1996
 
 - Educational Inequality among White and Mexican-Origin Adolescents in the American Southwest: 1990 · [DOI](https://doi.org/10.2307/2112803)
 - How Do Mothers Choose Child Care? Alternative Cultural Models in Poor Neighborhoods · [DOI](https://doi.org/10.2307/2112800)
 - Educational Progress of Children of Immigrants: The Roles of Class, Ethnicity, and School Context · [DOI](https://doi.org/10.2307/2112714)
+- Race, Cultural Capital, and Schooling: An Analysis of Trends in the United States · [DOI](https://doi.org/10.2307/2112721)
 
 ## 1995
 
@@ -581,6 +604,8 @@
 - Extracurricular Activities and High School Dropouts · [DOI](https://doi.org/10.2307/2112764)
 - Effects of High School Restructuring and Size on Early Gains in Achievement and Engagement · [DOI](https://doi.org/10.2307/2112741)
 - Individual and Organizational Predictors of High School Track Placement · [DOI](https://doi.org/10.2307/2112743)
+- Secondary Vocational Education and the Transition from School to Work · [DOI](https://doi.org/10.2307/2112684)
+- Religious Socialization and Female Subjectivity: Religious-Zionist Adolescent Girls in Israel · [DOI](https://doi.org/10.2307/2112763)
 
 ## 1994
 
@@ -593,17 +618,20 @@
 - Maximally Maintained Inequality: Expansion, Reform, and Opportunity in Irish Education, 1921-75 · [DOI](https://doi.org/10.2307/2112784)
 - Analyzing Distributions in School Effects Research: An Empirical Illustration · [DOI](https://doi.org/10.2307/2112757)
 - From Nerds to Normals: The Recovery of Identity among Adolescents from Middle School to High School · [DOI](https://doi.org/10.2307/2112783)
+- The Effect of the Number of Diplomas on Their Value · [DOI](https://doi.org/10.2307/2112737)
 
 ## 1992
 
 - Paths to High School Graduation or Dropout: A Longitudinal Study of a First-Grade Cohort · [DOI](https://doi.org/10.2307/2112677)
 - World Expansion of Mass Education, 1870-1980 · [DOI](https://doi.org/10.2307/2112679)
 - Policy, School Structure, and Sociodemographic Effects on Statewide High School Dropout Rates · [DOI](https://doi.org/10.2307/2112694)
+- Multinational Corporate Investment and Women's Participation in Higher Education in Noncore Nations · [DOI](https://doi.org/10.2307/2112691)
 
 ## 1991
 
 - Employment During High School: Character Building or a Subversion of Academic Goals? · [DOI](https://doi.org/10.2307/2112850)
 - Class, Gender, and School Expansion in France: A Four-Systems Comparison · [DOI](https://doi.org/10.2307/2112705)
+- The Effect of the Social Organization of Schools on Teachers' Efficacy and Satisfaction · [DOI](https://doi.org/10.2307/2112851)
 
 ## 1990
 
@@ -628,6 +656,8 @@
 - The Political Construction of Mass Schooling: European Origins and Worldwide Institutionalization · [DOI](https://doi.org/10.2307/2112615)
 - Social Class Differences in Family-School Relationships: The Importance of Cultural Capital · [DOI](https://doi.org/10.2307/2112583)
 - The Stratification of High School Learning Opportunities · [DOI](https://doi.org/10.2307/2112271)
+- Student Passivity: A Study of Question Asking in K-12 Classrooms · [DOI](https://doi.org/10.2307/2112275)
+- Ability Grouping and Sex Differences in Mathematics Achievement · [DOI](https://doi.org/10.2307/2112582)
 
 ## 1986
 
@@ -646,6 +676,8 @@
 ## 1984
 
 - Sibling Similarities in Educational Attainment: A Comparison of Like-Sex and Cross-Sex Sibling Pairs · [DOI](https://doi.org/10.2307/2112464)
+- Language and Schooling · [DOI](https://doi.org/10.2307/2112601)
+- The College Channel: Private and Public Schools Reconsidered · [DOI](https://doi.org/10.2307/2112633)
 
 ## 1983
 
@@ -685,18 +717,25 @@
 ## 1977
 
 - Athletics, Aspirations, and Attainments · [DOI](https://doi.org/10.2307/2112373)
+- High School Context Effects on Aspirations · [DOI](https://doi.org/10.2307/2112499)
 
 ## 1976
 
 - The Institutionalization of Academic Innovations: Two Models · [DOI](https://doi.org/10.2307/2112519)
+- Education as a Dimension of Status Incongruence between Parents and the Self Perceptions of College Students · [DOI](https://doi.org/10.2307/2112233)
 
 ## 1975
 
 - A Comparative Analysis of Organizational Conflict in Schools · [DOI](https://doi.org/10.2307/2112050)
+- Innovation in Organizations: The Case of Schools · [DOI](https://doi.org/10.2307/2112048)
 
 ## 1974
 
 - Recruiting Faculty and Students · [DOI](https://doi.org/10.2307/2112168)
+
+## 1973
+
+- The School as a Social Environment for Learning: Social Organization and Micro-Social Process in Education · [DOI](https://doi.org/10.2307/2112204)
 
 ## 1972
 

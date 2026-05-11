@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2000–2009 年文章（含摘要）
 
-共 **338** 篇
+共 **344** 篇
 
 ---
 
@@ -148,6 +148,11 @@
 ### FAO's Director‐General on How to Feed the World in 2050
 **年份**: 2009 | **DOI**: [10.1111/j.1728-4457.2009.00312.x](https://doi.org/10.1111/j.1728-4457.2009.00312.x)
 **摘要**: （暂无）
+
+### The End of “Lowest‐Low” Fertility?
+**年份**: 2009 | **DOI**: [10.1111/j.1728-4457.2009.00304.x](https://doi.org/10.1111/j.1728-4457.2009.00304.x)
+**作者**: Goldstein, Joshua R.; Sobotka, Tomáš; Jasilioniene, Aiva
+**摘要**: Total fertility rates fell to previously unseen levels in a large number of countries beginning in the early 1990s. The persistence of TFRs below 1.3 raised the possibility of rapid population aging and decline.…
 
 ### Stages of the demographic transition from a child's perspective: Family size, cohort size, and children's resources
 **年份**: 2008 | **DOI**: [10.1111/j.1728-4457.2008.00218.x](https://doi.org/10.1111/j.1728-4457.2008.00218.x)
@@ -459,6 +464,11 @@
 **作者**: Bhrolcháin, Máire Ní; Dyson, Tim
 **摘要**: （暂无）
 
+### Pandemic Influenza: A Review
+**年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00179.x](https://doi.org/10.1111/j.1728-4457.2007.00179.x)
+**作者**: MacKellar, Landis
+**摘要**: This essay, written ten years after the first human death from avian influenza, reviews scientific, social, and policy aspects of pandemic influenza, and asks whether the near‐crisis level of concern is justified.…
+
 ### Policy lessons of the East Asian demographic transition
 **年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00103.x](https://doi.org/10.1111/j.1728-4457.2006.00103.x)
 **作者**: McNicoll, G
@@ -614,6 +624,16 @@
 **作者**: Zimmer, Z; Knodel, J; Kim, KS 等4人
 **摘要**: Cambodia experienced violence during the rule of the Khmer Rouge in the 1970s. Many who died were the children or spouses of today's elderly. This may have resulted in an erosion of family support in a country where formal channels of assistance are virtually absent.…
 
+### Europe's Demographic Future: Determinants, Dimensions, and Challenges
+**年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.tb00003.x](https://doi.org/10.1111/j.1728-4457.2006.tb00003.x)
+**作者**: Coleman, David
+**摘要**: （暂无）
+
+### Immigration and Ethnic Change in Low‐Fertility Countries: A Third Demographic Transition
+**年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00131.x](https://doi.org/10.1111/j.1728-4457.2006.00131.x)
+**作者**: Coleman, David
+**摘要**: （暂无）
+
 ### Brave new worlds: Philosophy, politics, and science in human biotechnology
 **年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00055.x](https://doi.org/10.1111/j.1728-4457.2005.00055.x)
 **作者**: Morgan, SP; Shanahan, S; Welsh, W
@@ -728,6 +748,10 @@
 **年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00069.x](https://doi.org/10.1111/j.1728-4457.2005.00069.x)
 **作者**: De Walque, D
 **摘要**: Aspects of the long-term demographic impact of genocide during the period of the Khmer Rouge (1975-79) in Cambodia are analyzed. Mortality data for siblings from the Cambodia Demographic and Health Survey in 2000 demonstrate that excess mortality was extremely high and heavily concentrated during 19…
+
+### Environmental Degradation and Human Well-Being: Report of the Millennium Ecosystem Assessment
+**年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00073.x](https://doi.org/10.1111/j.1728-4457.2005.00073.x)
+**摘要**: （暂无）
 
 ### The origins and demise of the concept of race
 **年份**: 2004 | **DOI**: [10.1111/j.1728-4457.2004.00021.x](https://doi.org/10.1111/j.1728-4457.2004.00021.x)
@@ -1481,6 +1505,11 @@
 **年份**: 2001 | **DOI**: [10.1111/j.1728-4457.2001.00209.x](https://doi.org/10.1111/j.1728-4457.2001.00209.x)
 **作者**: [Anonymous]
 **摘要**: On 22 January 2001, the third day of the new US administration (the day that also marked the twenty-eighth? anniversary of Roe v. Wade, the US Supreme Court decision that liberalized abortion), President Bush issued an executive order, taking the form of a memorandum addressed to the Administrator o…
+
+### Life Span Extension in Humans Is Self‐Reinforcing: A General Theory of Longevity
+**年份**: 2001 | **DOI**: [10.1111/j.1728-4457.2001.00411.x](https://doi.org/10.1111/j.1728-4457.2001.00411.x)
+**作者**: Carey, James R.; Judge, Debra S.
+**摘要**: This article proposes that longevity is not merely the result of an absence of mortality but a self‐reinforcing and positively selected life‐history trait in social species. It argues that a small increase in longevity is amplified as (1) reductions in mortality at young ages increase natural select…
 
 ### Local and foreign models of reproduction in Nyanza Province, Kenya
 **年份**: 2000 | **DOI**: [10.1111/j.1728-4457.2000.00725.x](https://doi.org/10.1111/j.1728-4457.2000.00725.x)

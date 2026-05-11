@@ -1,7 +1,7 @@
 # Journal of Marriage and Family
 ## 2020–2026 年文章（含摘要）
 
-共 **529** 篇
+共 **531** 篇
 
 ---
 
@@ -14,6 +14,11 @@
 **年份**: 2026 | **DOI**: [10.1111/jomf.70063](https://doi.org/10.1111/jomf.70063)
 **作者**: Panichella, Nazareno; Zhelenkova, Antonina; Gaukel, Hanne 等4人
 **摘要**: ABSTRACT Objective This study investigates how different couple‐based geographical mobility strategies affect employment probabilities for men and women in six European countries from a gender perspective.…
+
+### Life Course Changes in the Geographical Distance Between Adult Children of Immigrants and Their Parents: The Role of Partnership Formation and Dissolution
+**年份**: 2026 | **DOI**: [10.1111/jomf.70074](https://doi.org/10.1111/jomf.70074)
+**作者**: Pertzikovitz, Alon; Kalmijn, Matthijs; Das, Marjolijn 等4人
+**摘要**: ABSTRACT Objective This study explores how geographical distance between adult children of immigrants and their parents changes in response to partnership formation and partnership dissolution. Background Geographical distance between generations is a key factor in intergenerational support.…
 
 ### Gender Norms in Transition? Parents' Housework and Childcare Time in the COVID-19 Era
 **年份**: 2025 | **DOI**: [10.1111/jomf.70053](https://doi.org/10.1111/jomf.70053)
@@ -1859,6 +1864,11 @@
 **年份**: 2022 | **DOI**: [10.1111/jomf.12768](https://doi.org/10.1111/jomf.12768)
 **作者**: Hook, Jennifer L.; Ruppanner, Leah; Casper, Lynne M.
 **摘要**: Objective: This study examines how occupational resources and demands are associated with parents' childcare time. Background: Scholars recognize parental employment as important for understanding parental time use.…
+
+### Converging trends in developmental child care time by fathers' education? Comment on Cha and Park (2021)
+**年份**: 2022 | **DOI**: [10.1111/jomf.12889](https://doi.org/10.1111/jomf.12889)
+**作者**: Gao, Melody Ge
+**摘要**: AbstractObjectiveThis comment uses more recently available data to examine the robustness of the converging trends in developmental child care time by parental education argued by Cha & Park (2021, Journal of Marriage and Family, 83, 769–785).BackgroundDrawing on the 2003–2017 American Time Use Surv…
 
 ### My relatives are waiting: Barriers to tribal enrollment of fostered/adopted American Indians
 **年份**: 2021 | **DOI**: [10.1111/jomf.12797](https://doi.org/10.1111/jomf.12797)
