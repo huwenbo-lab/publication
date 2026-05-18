@@ -1,6 +1,6 @@
 # European Journal of Population — 文章标题索引
 
-共 **840** 篇 | 年份范围：1985–2026
+共 **842** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -901,6 +901,7 @@
 
 - Fertility Behaviour under Income Uncertainty · [DOI](https://doi.org/10.1023/a:1006106527618)
 - Mortality Differences Related to Socioeconomic Status and the Progressivity of Old-Age Pensions and Health Insurance: The Netherlands · [DOI](https://doi.org/10.1023/a:1006188911462)
+- Childbearing Trends in Sweden 1961--1997 · [DOI](https://doi.org/10.1023/a:1006145610780)
 
 ## 1998
 
@@ -913,6 +914,7 @@
 - Survival Trees: An Alternative Non-Parametric Multivariate Technique for Life History Analysis · [DOI](https://doi.org/10.1023/a:1005844818027)
 - The Impact of Children on Divorce Risks of Swedish Women · [DOI](https://doi.org/10.1023/a:1005803001129)
 - An Estimate of Neonatal Tetanus Mortality in Iceland, 1790-1839 · [DOI](https://doi.org/10.1023/a:1005778332341)
+- Exploring Relationships between Social Policy and Changing Family Forms within the European Union · [DOI](https://doi.org/10.1023/a:1005941907983)
 
 ## 1996
 

@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **191** 篇
+共 **194** 篇
 
 ---
 
@@ -33,6 +33,21 @@
 ### : Reunited: Family Separation and Central American Youth Migration
 **年份**: 2026 | **DOI**: [10.1086/739927](https://doi.org/10.1086/739927)
 **作者**: Schmalzbauer, Leah
+**摘要**: （暂无）
+
+### The Coupled Dynamics of Neighborhood and School Change
+**年份**: 2026 | **DOI**: [10.1086/740798](https://doi.org/10.1086/740798)
+**作者**: Field, Elly; Bruch, Elizabeth
+**摘要**: （暂无）
+
+### From Conflict to Cohesion: Structural Similarity Dampens Uncivil Discourse in Polarized Social Groups
+**年份**: 2026 | **DOI**: [10.1086/740301](https://doi.org/10.1086/740301)
+**作者**: Yeaton, Matthew; Anshuman, Sarayu; Srivastava, Sameer B.
+**摘要**: （暂无）
+
+### Atlantic Reconstruction: Democracy, Abolition, and the Making of Political Personhood
+**年份**: 2026 | **DOI**: [10.1086/741674](https://doi.org/10.1086/741674)
+**作者**: Hammer, Ricarda
 **摘要**: （暂无）
 
 ### Wealth Begins at Home: The Housing Benefits of the 1944 GI Bill and the Reproduction of Black-White Inequality in Homeownership and Home Value

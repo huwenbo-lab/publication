@@ -1,6 +1,6 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2522** 篇 | 年份范围：1965–2026
+共 **2531** 篇 | 年份范围：1965–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2532,6 +2532,7 @@
 - The Impact of Husbands' and Wives' Relative Earnings on Marital Disruption · [DOI](https://doi.org/10.2307/353538)
 - Interparental Conflict Styles and Youth Problem Behaviors: A Two-Sample Replication Study · [DOI](https://doi.org/10.2307/353446)
 - Do Safety Nets Work? The Role of Anticipated Help in Times of Need · [DOI](https://doi.org/10.2307/353636)
+- Sibling Resemblance in Behavioral and Cognitive Outcomes: The Role of Father Presence · [DOI](https://doi.org/10.2307/353628)
 
 ## 1997
 
@@ -2546,6 +2547,7 @@
 - Caring More or Less: Individualistic and Collectivist Systems of Family Eldercare · [DOI](https://doi.org/10.2307/353503)
 - The Life Course of Children Born to Unmarried Mothers: Childhood Living Arrangements and Young Adult Outcomes · [DOI](https://doi.org/10.2307/353496)
 - Too Much of a Good Thing? Intergenerational Social Support and the Psychological Well-Being of Older Parents · [DOI](https://doi.org/10.2307/353984)
+- Stress as a Driver of the Allocation of Housework · [DOI](https://doi.org/10.2307/353509)
 
 ## 1995
 
@@ -2576,6 +2578,7 @@
 ## 1992
 
 - Educational Expansion and Changes in Women's Entry into Marriage and Motherhood in the Federal Republic of Germany · [DOI](https://doi.org/10.2307/353062)
+- Short-Term Consequences of Parenting versus Adoption among Young Unmarried Women · [DOI](https://doi.org/10.2307/353277)
 
 ## 1991
 
@@ -2629,6 +2632,7 @@
 
 - The Intergenerational Transmission of Marital Aggression · [DOI](https://doi.org/10.2307/351858)
 - Agreement, Understanding, Realization, and Feeling Understood as Predictors of Communicative Satisfaction in Marital Dyads · [DOI](https://doi.org/10.2307/352540)
+- The Social and Demographic Correlates of Divorce and Separation in the United States: An Update and Reconsideration · [DOI](https://doi.org/10.2307/352598)
 
 ## 1983
 
@@ -2642,10 +2646,16 @@
 - Adult Role Transitions, Parental Influence, and Status Aspirations Early in the Life Course · [DOI](https://doi.org/10.2307/351261)
 - Decision Making in Intergenerational Puerto Rican Families · [DOI](https://doi.org/10.2307/351584)
 - Sampling Issues in Family Research · [DOI](https://doi.org/10.2307/351457)
+- Life Course Analysis and Multistate Demography: An Application to Marriage, Divorce, and Remarriage · [DOI](https://doi.org/10.2307/351461)
+- Transmission of Religious and Social Values from Parents to Teenage Children · [DOI](https://doi.org/10.2307/351580)
 
 ## 1981
 
 - Structural Exchange and Marital Interaction · [DOI](https://doi.org/10.2307/351340)
+
+## 1980
+
+- Marital Quality: A Review of the Seventies · [DOI](https://doi.org/10.2307/351827)
 
 ## 1979
 
@@ -2686,6 +2696,7 @@
 
 - Occupational Characteristics and Males' Role Performance in the Family · [DOI](https://doi.org/10.2307/349312)
 - Familial Behavior as Social Exchange · [DOI](https://doi.org/10.2307/349775)
+- Life Plans and Marriage Age: An Application of Path Analysis · [DOI](https://doi.org/10.2307/349780)
 
 ## 1968
 
@@ -2700,3 +2711,4 @@
 ## 1965
 
 - Maternal Deprivation: The Research and Its Implications · [DOI](https://doi.org/10.2307/350276)
+- Writing for Newspapers and Magazines · [DOI](https://doi.org/10.2307/350202)

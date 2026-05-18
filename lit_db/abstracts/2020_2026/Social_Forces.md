@@ -1,7 +1,7 @@
 # Social Forces
 ## 2020–2026 年文章（含摘要）
 
-共 **504** 篇
+共 **505** 篇
 
 ---
 
@@ -49,6 +49,11 @@
 **年份**: 2026 | **DOI**: [10.1093/sf/soag028](https://doi.org/10.1093/sf/soag028)
 **作者**: Quillian, Lincoln; Midtbøen, Arnfinn H
 **摘要**: Abstract The role of discrimination in shaping the life chances of immigrants and their descendants is central to debates in the sociology of immigration. This study synthesizes evidence from 114 field experiments on hiring conducted across twelve countries, comparing discrimination against foreign-…
+
+### Breaking the mold: the changing modularity of protest forms during cycles of contention
+**年份**: 2026 | **DOI**: [10.1093/sf/soag048](https://doi.org/10.1093/sf/soag048)
+**作者**: Ciordia, Alejandro; Portos, Martín
+**摘要**: Abstract One crucial decision that every group of protesters needs to make concerns the forms of action through which they want to convey their claims. While repertoires of contention can vary greatly across different sociopolitical contexts, we know little about why some protest forms may acquire o…
 
 ### Financialization and unintended emission reductions: evidence from the OECD, 1995-2020
 **年份**: 2025 | **DOI**: [10.1093/sf/soaf220](https://doi.org/10.1093/sf/soaf220)

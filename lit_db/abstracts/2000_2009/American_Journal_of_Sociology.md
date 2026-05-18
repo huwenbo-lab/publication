@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **281** 篇
+共 **282** 篇
 
 ---
 
@@ -433,6 +433,11 @@
 ### Syndication, Institutionalization, and Lottery Play
 **年份**: 2007 | **DOI**: [10.1086/521847](https://doi.org/10.1086/521847)
 **作者**: Garvía, Roberto
+**摘要**: （暂无）
+
+### Racial Context and Police Force Size: Evaluating the Empirical Validity of the Minority Threat Perspective
+**年份**: 2007 | **DOI**: [10.1086/518906](https://doi.org/10.1086/518906)
+**作者**: Stults, Brian J.; Baumer, Eric P.
 **摘要**: （暂无）
 
 ### Neighborhood choice and neighborhood change

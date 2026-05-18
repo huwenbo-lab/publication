@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **426** 篇
+共 **427** 篇
 
 ---
 
@@ -69,6 +69,11 @@
 **年份**: 2026 | **DOI**: [10.1111/1468-4446.70120](https://doi.org/10.1111/1468-4446.70120)
 **作者**: Islam, Nabila N.
 **摘要**: ABSTRACT In this paper, I advance a theorization of recursive racial cruelty by focusing on the suffering of racialized respondents in the US immigration courts and connecting it to the routine functioning of the US empire and colonial racial capitalism.…
+
+### More Productive Bodies Faster! Human Capital and Anti‐Intellectualism in Danish University Reform
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70129](https://doi.org/10.1111/1468-4446.70129)
+**作者**: Gøtzsche‐Astrup, Johan; Villadsen, Kaspar
+**摘要**: ABSTRACT This article examines the current Danish reform of master's programmes as a case of contested marketization in higher education. While the reform aims to produce “labour‐market‐relevant” graduates by shortening degrees, introducing corporate programmes, and reducing enrolment, it reveals a …
 
 ### Securing Profit: Threat Production as a Mechanism of Racial Capitalism in US-Occupied Kabul
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.70065](https://doi.org/10.1111/1468-4446.70065)

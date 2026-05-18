@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2020–2026 年文章（含摘要）
 
-共 **369** 篇
+共 **372** 篇
 
 ---
 
@@ -73,6 +73,16 @@
 ### Place of education, revisited: Effects on earnings by nativity, race, and gender
 **年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101150](https://doi.org/10.1016/j.rssm.2026.101150)
 **作者**: Dunatchik, Allison; Schut, Rebecca Anna; Song, Xi
+**摘要**: （暂无）
+
+### The role of network isolation on language proficiency of children of migrants
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101138](https://doi.org/10.1016/j.rssm.2026.101138)
+**作者**: van Klingeren, Fijnanda; van der Laan, Jan; Das, Marjolijn
+**摘要**: （暂无）
+
+### Is a liberal school-to-work system more ‘meritocratic’? Overeducation, social origin, and early career mobility in Germany and the United Kingdom
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101146](https://doi.org/10.1016/j.rssm.2026.101146)
+**作者**: Michelin, Irene; Gioachin, Filippo; Barbieri, Paolo
 **摘要**: （暂无）
 
 ### Inequalities in early childhood education and care by immigrant background
@@ -1848,4 +1858,9 @@
 ### What works to reduce inequalities in higher education? A systematic review of the (quasi-)experimental literature on outreach and financial aid
 **年份**: 2020 | **DOI**: [10.1016/j.rssm.2019.100442](https://doi.org/10.1016/j.rssm.2019.100442)
 **作者**: Herbaut, Estelle; Geven, Koen
+**摘要**: （暂无）
+
+### The institutional and cultural framing of the educational stratification in fertility. A review of the role of labor market institutions and attitudinal orientations
+**年份**: 2020 | **DOI**: [10.1016/j.rssm.2020.100482](https://doi.org/10.1016/j.rssm.2020.100482)
+**作者**: Bellani, Daniela
 **摘要**: （暂无）

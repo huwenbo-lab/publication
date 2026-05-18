@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2000–2009 年文章（含摘要）
 
-共 **344** 篇
+共 **345** 篇
 
 ---
 
@@ -468,6 +468,11 @@
 **年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00179.x](https://doi.org/10.1111/j.1728-4457.2007.00179.x)
 **作者**: MacKellar, Landis
 **摘要**: This essay, written ten years after the first human death from avian influenza, reviews scientific, social, and policy aspects of pandemic influenza, and asks whether the near‐crisis level of concern is justified.…
+
+### Longevity Among Hunter‐ Gatherers: A Cross‐Cultural Examination
+**年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00171.x](https://doi.org/10.1111/j.1728-4457.2007.00171.x)
+**作者**: Gurven, Michael; Kaplan, Hillard
+**摘要**: Post‐reproductive longevity is a robust feature of human life and not only a recent phenomenon caused by improvements in sanitation, public health, and medical advances. We argue for an adaptive life span of 68‐78 years for modernHomo sapiensbased on our analysis of mortality profiles obtained from …
 
 ### Policy lessons of the East Asian demographic transition
 **年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00103.x](https://doi.org/10.1111/j.1728-4457.2006.00103.x)

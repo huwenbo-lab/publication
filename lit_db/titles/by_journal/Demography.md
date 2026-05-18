@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **1973** 篇 | 年份范围：1964–2026
+共 **1979** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2018,6 +2018,7 @@
 - Measuring immigrant wage growth using matched CPS files · [DOI](https://doi.org/10.2307/2061702)
 - The Rise of Divorce and Separation in the Unitd States, 1880-1990 · [DOI](https://doi.org/10.2307/3038300)
 - Couple childbearing desires, intentions, and births · [DOI](https://doi.org/10.2307/3038288)
+- Ever since gompertz · [DOI](https://doi.org/10.2307/2061656)
 
 ## 1996
 
@@ -2029,10 +2030,12 @@
 - Does Marriage Matter? · [DOI](https://doi.org/10.2307/2061670)
 - The Elderly Who Live Alone in the United States: Historical Perspectives on Household Change · [DOI](https://doi.org/10.2307/2061684)
 - Why Marry? Race and the Transition to Marriage among Cohabitors · [DOI](https://doi.org/10.2307/2061671)
+- Cohort Trends in the Lifetime Distribution of Female Family Headship in the United States, 1968–1985 · [DOI](https://doi.org/10.2307/2061688)
 
 ## 1994
 
 - Migration and the Latino Family: The Union Formation Behavior of Puerto Rican Women · [DOI](https://doi.org/10.2307/2061912)
+- Environmental Equity: The Demographics of Dumping · [DOI](https://doi.org/10.2307/2061884)
 
 ## 1993
 
@@ -2073,6 +2076,7 @@
 - On Stable Population Theory With Immigration · [DOI](https://doi.org/10.2307/2061308)
 - Starting, stopping, and spacing during the early stages of fertility transition: The experience of German village populations in the 18th and 19th centuries · [DOI](https://doi.org/10.2307/2061627)
 - Socioeconomic development, family planning, and fertility in China · [DOI](https://doi.org/10.2307/2061390)
+- Intergenerational transmission of relative fertility and life course patterns · [DOI](https://doi.org/10.2307/2061386)
 
 ## 1985
 
@@ -2125,6 +2129,10 @@
 - Effect of Mortality Change on Stable Population Parameters · [DOI](https://doi.org/10.2307/2060703)
 - Review Symposium · [DOI](https://doi.org/10.2307/2060567)
 
+## 1972
+
+- The influence of number and ages of children on residential mobility · [DOI](https://doi.org/10.2307/2060860)
+
 ## 1970
 
 - Some demographic determinants of average household size: An analytic approach · [DOI](https://doi.org/10.2307/2060023)
@@ -2132,6 +2140,10 @@
 ## 1969
 
 - The Prediction of Completed Fertility · [DOI](https://doi.org/10.2307/2060089)
+
+## 1968
+
+- Fertility Control In Turkey · [DOI](https://doi.org/10.2307/2060248)
 
 ## 1964
 

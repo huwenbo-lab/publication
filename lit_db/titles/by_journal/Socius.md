@@ -1,6 +1,6 @@
 # Socius — 文章标题索引
 
-共 **1015** 篇 | 年份范围：2016–2026
+共 **1017** 篇 | 年份范围：2016–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -34,6 +34,8 @@
 - The Changing Distribution of U.S. Asian Populations across Urban and Suburban Ethnic Neighborhoods · [DOI](https://doi.org/10.1177/23780231261442407)
 - Work-Family Conflict and Physical Activity: Exploring Gender Differences among Australian Parents · [DOI](https://doi.org/10.1177/23780231261429664)
 - Visualizing the Spatial Distribution of Aging Places in the United States, 2000 to 2020 · [DOI](https://doi.org/10.1177/23780231261446047)
+- Infrastructure-Led Development: The Reciprocal Asymmetry of the Urban Growth Machine · [DOI](https://doi.org/10.1177/23780231261438909)
+- Real-Time Revisionism: How Racialized Narratives Legitimize White Christian Dominance in the United States · [DOI](https://doi.org/10.1177/23780231261444056)
 
 ## 2025
 

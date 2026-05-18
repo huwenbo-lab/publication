@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2881** 篇 | 年份范围：1926–2026
+共 **2899** 篇 | 年份范围：1926–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -16,6 +16,7 @@
 - Does stringent climate policy decouple economic growth from greenhouse gas emissions? · [DOI](https://doi.org/10.1093/sf/soaf217)
 - Review of “The Returned: Former U.S. Migrants’ Lives in Mexico City” · [DOI](https://doi.org/10.1093/sf/soaf221)
 - The racialized penalties of immigrant origin: meta-analytic evidence on hiring discrimination in twelve countries · [DOI](https://doi.org/10.1093/sf/soag028)
+- Breaking the mold: the changing modularity of protest forms during cycles of contention · [DOI](https://doi.org/10.1093/sf/soag048)
 
 ## 2025
 
@@ -2861,6 +2862,7 @@
 
 - Region and Political Opinion in the Contemporary United States · [DOI](https://doi.org/10.2307/3005964)
 - Does Parental Conflict Explain Why Divorce is Negatively Associated with Child Welfare? · [DOI](https://doi.org/10.2307/3005877)
+- Women and Men Policymakers: Does the Judge's Gender Affect the Sentencing of Criminal Defendants? · [DOI](https://doi.org/10.2307/3005975)
 
 ## 1998
 
@@ -2871,11 +2873,13 @@
 - Institutional Constraints on Social Movement "Frame Extension": Shifts in the Legislative Agenda of the American Federation of Labor, 1881-1955 · [DOI](https://doi.org/10.2307/3005836)
 - The Timing of the Influences of Cumulative Poverty on Children's Cognitive Ability and Achievement · [DOI](https://doi.org/10.2307/3006017)
 - Race and the Reproduction of Educational Disadvantage · [DOI](https://doi.org/10.2307/3005702)
+- Do Wives Matter? Class Identities of Wives and Husbands in the United States, 1974-1994 · [DOI](https://doi.org/10.2307/3005703)
 
 ## 1997
 
 - The Making of Union Democracy · [DOI](https://doi.org/10.2307/2580721)
 - Violent Crime and the Spatial Dynamics of Neighborhood Transition: Chicago, 1970-1990 · [DOI](https://doi.org/10.2307/2580317)
+- Power and Influence: A Theoretical Bridge · [DOI](https://doi.org/10.2307/2580725)
 
 ## 1996
 
@@ -2884,10 +2888,12 @@
 - Deprivation and Race Riots: An Extension of Spilerman's Analysis · [DOI](https://doi.org/10.2307/2580387)
 - Collective Identity and Informal Groups in Revolutionary Mobilization: East Germany in 1989 · [DOI](https://doi.org/10.2307/2580758)
 - From Protest to Change of Regime: The 4-19 Revolt and the Fall of the Rhee Regime in South Korea · [DOI](https://doi.org/10.2307/2580348)
+- Labor Market Structures in Japan: An Analysis of Organizational and Occupational Mobility Patterns · [DOI](https://doi.org/10.2307/2580350)
 
 ## 1995
 
 - Religious Resources and Church Growth · [DOI](https://doi.org/10.2307/2580498)
+- Sex and Race Homogeneity in Naturally Occurring Groups · [DOI](https://doi.org/10.2307/2580623)
 
 ## 1994
 
@@ -2911,6 +2917,7 @@
 - Feminist Praxis: Research, Theory, and Epistemology in Feminist Sociology. Edited by Liz Stanley. Routledge, 1990. 282 pp. $15.95 · [DOI](https://doi.org/10.1093/sf/71.1.273)
 - A Theory of Minor-Party Persistence: Election Rules, Social Cleavage, and the Number of Political Parties · [DOI](https://doi.org/10.2307/2579745)
 - The Legacy of World War II for Regional Growth and Decline: The Cumulative Effects of Wartime Investments on U.S. Manufacturing, 1947-1972 · [DOI](https://doi.org/10.2307/2580013)
+- The Effects of Parental Marital Status during Adolescence on High School Graduation · [DOI](https://doi.org/10.2307/2579968)
 
 ## 1991
 
@@ -2942,6 +2949,7 @@
 ## 1987
 
 - Family Transitions, Housing Market Context, and First Home Purchase by Young Married Households · [DOI](https://doi.org/10.2307/2578753)
+- Religious Involvement and the Health of the Elderly: Some Hypotheses and an Initial Test · [DOI](https://doi.org/10.2307/2578909)
 
 ## 1986
 
@@ -2953,6 +2961,7 @@
 
 - The Managed Heart: Commercialization of Human Feeling. By Arlie Russell Hochschild. University of California Press, 1983. 307 pp. $14.95 · [DOI](https://doi.org/10.1093/sf/64.1.223)
 - Racial Differences in Nonmetropolitan Population Deconcentration · [DOI](https://doi.org/10.2307/2578652)
+- Clerical Labor Intensity and the Feminization of Clerical Labor in Great Britain, 1857-1937 · [DOI](https://doi.org/10.2307/2578607)
 
 ## 1984
 
@@ -2965,10 +2974,16 @@
 - Socioeconomic Returns to Migration among Married Women · [DOI](https://doi.org/10.2307/2578318)
 - Theory and Method in Comparative Research: Two Strategies · [DOI](https://doi.org/10.2307/2578132)
 
+## 1981
+
+- The Structures and Meanings of Social Time · [DOI](https://doi.org/10.2307/2578444)
+- Durkheim and the Social Anthropology of Culture · [DOI](https://doi.org/10.2307/2577977)
+
 ## 1980
 
 - Civil Religion and the Choice for President: Nixon in '72 · [DOI](https://doi.org/10.2307/2577832)
 - Sex Differences in Patterns of Adult Crime, 1965-77: A Review and Assessment · [DOI](https://doi.org/10.2307/2577314)
+- Relationships among Ratio Variables with Common Components: Fact or Artifact · [DOI](https://doi.org/10.2307/2577315)
 
 ## 1979
 
@@ -2985,6 +3000,7 @@
 - Socioeconomic Determinants of Intraethnic Marriage and Friendship · [DOI](https://doi.org/10.2307/2577568)
 - Resource Allocations in United Funds: Examination of Power and Dependence · [DOI](https://doi.org/10.2307/2577470)
 - The Naval Reservist: An Empirical Assessment of Ephemeral Role Enactment · [DOI](https://doi.org/10.2307/2577468)
+- The Structure of Adult Friendship Choices · [DOI](https://doi.org/10.2307/2577741)
 
 ## 1976
 
@@ -3044,10 +3060,12 @@
 - Administrative Succession in Formal Organizations · [DOI](https://doi.org/10.2307/2574148)
 - A Power Analysis of Racial Discrimination · [DOI](https://doi.org/10.2307/2573575)
 - The Career Experience of the Symphony Musician · [DOI](https://doi.org/10.2307/2574085)
+- Migration Patterns of Negroes from a Rural Northeastern Mississippi Community · [DOI](https://doi.org/10.2307/2573576)
 
 ## 1959
 
 - Resistance and Social Movements · [DOI](https://doi.org/10.2307/2574178)
+- Nationality Groups and Social Stratification in America · [DOI](https://doi.org/10.2307/2574181)
 
 ## 1958
 
@@ -3064,10 +3082,15 @@
 ## 1955
 
 - The Military Academy as an Assimilating Institution · [DOI](https://doi.org/10.2307/2573000)
+- URBAN TRAFFIC: A FUNCTION OF LAND USE. By Robert B. Mitchell and Chester Rapkin. New York: Columbia University Press, 1954. 226 pp. $5.00 · [DOI](https://doi.org/10.2307/2573023)
 
 ## 1953
 
 - Toward a Sociology of Language · [DOI](https://doi.org/10.2307/2573708)
+
+## 1950
+
+- Some Distinctions between Culture and Civilization as Displayed in Sociological Literature · [DOI](https://doi.org/10.2307/2572007)
 
 ## 1949
 
@@ -3099,6 +3122,10 @@
 ## 1932
 
 - Are Broken Homes a Causative Factor in Juvenile Delinquency? · [DOI](https://doi.org/10.2307/2569899)
+
+## 1931
+
+- Sociology as a Science · [DOI](https://doi.org/10.2307/3006110)
 
 ## 1929
 

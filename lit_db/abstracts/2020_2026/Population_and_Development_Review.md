@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **277** 篇
+共 **278** 篇
 
 ---
 
@@ -34,6 +34,11 @@
 **年份**: 2026 | **DOI**: [10.1111/padr.70050](https://doi.org/10.1111/padr.70050)
 **作者**: Uchikoshi, Fumiya; Mugiyama, Ryota; Yoda, Shohei 等4人
 **摘要**: Abstract In this study, we propose and evaluate a new framework for understanding “lowest‐low” fertility in East Asia, emphasizing the link between the desire for children and marriage.…
+
+### A Global Perspective on Trends in the Use of Withdrawal and Periodic Abstinence for Pregnancy Prevention
+**年份**: 2026 | **DOI**: [10.1111/padr.70063](https://doi.org/10.1111/padr.70063)
+**作者**: Kantorová, Vladimíra; Corker, Jamaica; Molitoris, Joseph 等5人
+**摘要**: Abstract Periodic abstinence and withdrawal (the dominant methods in the “traditional methods” category) have been used to prevent pregnancy in both historical and contemporary contexts and, in some countries, continue to be used despite increased availability and use of modern methods.…
 
 ### The Impact of Migration on Age Structure Conducive to Human Development Across the Urban Hierarchy
 **年份**: 2025 | **DOI**: [10.1111/padr.70033](https://doi.org/10.1111/padr.70033)

@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2206** 篇 | 年份范围：1972–2026
+共 **2209** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -32,6 +32,7 @@
 - Socioeconomic divides in curricular pathways: Unpacking decision-making mechanisms and peer effects · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103359)
 - Gendered work and family trajectories: How do STEM graduates fare in the labor market? · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103345)
 - Employment stability and social origin: Cumulative advantages in young adults’ homeownership and financial asset accumulation · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103369)
+- A Schumpeter hotel? Surname status inequality and persistence in Sweden, 1880–2015 · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103367)
 
 ## 2025
 
@@ -2298,6 +2299,7 @@
 ## 1992
 
 - A standard international socio-economic index of occupational status · [DOI](https://doi.org/10.1016/0049-089x(92)90017-b)
+- Education, control at work, and job satisfaction · [DOI](https://doi.org/10.1016/0049-089x(92)90012-6)
 
 ## 1991
 
@@ -2322,6 +2324,7 @@
 ## 1986
 
 - Bilingualism and Hispanic scholastic achievement: Some baseline results · [DOI](https://doi.org/10.1016/0049-089x(86)90003-7)
+- Language skills and school achievement of bilingual Hispanics · [DOI](https://doi.org/10.1016/0049-089x(86)90006-2)
 
 ## 1979
 

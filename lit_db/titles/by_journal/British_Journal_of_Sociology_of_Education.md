@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1688** 篇 | 年份范围：1980–2026
+共 **1689** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -33,6 +33,7 @@
 - Parents’ perspectives on special education in England: institutional disability discrimination and non-compliance with the law · [DOI](https://doi.org/10.1080/01425692.2026.2638269)
 - Religion, agency, and choice in English state schools · [DOI](https://doi.org/10.1080/01425692.2026.2616654)
 - Exploring anxiety and behaviour. Agency, liminality and relational embodiment in a PRU · [DOI](https://doi.org/10.1080/01425692.2026.2664171)
+- ‘Do you want to be a bully?’ Critical school textbook analysis on friendship and bullying · [DOI](https://doi.org/10.1080/01425692.2026.2668489)
 
 ## 2025
 

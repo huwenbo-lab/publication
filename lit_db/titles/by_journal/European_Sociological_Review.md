@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1511** 篇 | 年份范围：1986–2026
+共 **1514** 篇 | 年份范围：1986–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -599,6 +599,7 @@
 - Finding a Job: The Role of the Neighbourhood for Different Household Configurations over the Life Course · [DOI](https://doi.org/10.1093/esr/jcw045)
 - Giving Up on the Joneses? The Relationship between Income Inequality and Status-seeking · [DOI](https://doi.org/10.1093/esr/jcw052)
 - The First Pan-European Sociological Health Inequalities Survey of the General Population: The European Social Survey Rotating Module on the Social Determinants of Health · [DOI](https://doi.org/10.1093/esr/jcw019)
+- ‘Sing Me a Song with Social Significance’: The (Mis)Use of Statistical Significance Testing in European Sociological Research · [DOI](https://doi.org/10.1093/esr/jcx044)
 
 ## 2016
 
@@ -1585,6 +1586,7 @@
 - When Institutions Matter:Union Growth and Decline in Western Europe, 1950-1995 · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018257)
 - Explaining Sex Differences in Educational Choice An Empirical Assessment of a Rational Choice Model · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018272)
 - Military Service During Wartime Effects on Men's Occupational Trajectories and Later Economic Well-Being · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018261)
+- Validity and Systematicity of Newspaper Data in Event Analysis · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018265)
 
 ## 1998
 
@@ -1603,6 +1605,7 @@
 
 - Testing the validity of the Goldthorpe class schema · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036638)
 - Locating class cleavages in inter-generational mobility: cross-national commonalities and variations in mobility patterns · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036641)
+- Common social fluidity: a comment on recent criticisms · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036639)
 
 ## 1991
 

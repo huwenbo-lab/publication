@@ -1,7 +1,7 @@
 # European Sociological Review
 ## 2010–2019 年文章（含摘要）
 
-共 **645** 篇
+共 **646** 篇
 
 ---
 
@@ -789,6 +789,11 @@
 **年份**: 2017 | **DOI**: [10.1093/esr/jcw019](https://doi.org/10.1093/esr/jcw019)
 **作者**: Eikemo, Terje A.; Bambra, Clare; Huijts, Tim 等4人
 **摘要**: The European Social Survey (ESS) is a biennial, academically driven, cross-sectional, pan-European social survey that charts and explains the interactions between Europe's changing institutions and the attitudes, beliefs, and behaviour patterns of its diverse populations.…
+
+### ‘Sing Me a Song with Social Significance’: The (Mis)Use of Statistical Significance Testing in European Sociological Research
+**年份**: 2017 | **DOI**: [10.1093/esr/jcx044](https://doi.org/10.1093/esr/jcx044)
+**作者**: Bernard, Fabrizio; Chakhaia, Lela; Leopold, Liliya
+**摘要**: （暂无）
 
 ### Staying in Turkey or Marrying to Europe? Understanding Transnational Marriages from the Country-of-Origin Perspective
 **年份**: 2016 | **DOI**: [10.1093/esr/jcw026](https://doi.org/10.1093/esr/jcw026)

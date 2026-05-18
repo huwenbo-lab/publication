@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **581** 篇 | 年份范围：1963–2026
+共 **583** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -611,6 +611,7 @@
 
 - Tracking: From Theory to Practice · [DOI](https://doi.org/10.2307/2112697)
 - Lost Talent: Unrealized Educational Aspirations and Expectations among U.S. Youths · [DOI](https://doi.org/10.2307/2112789)
+- Sequences of Opportunities for Learning · [DOI](https://doi.org/10.2307/2112790)
 
 ## 1993
 
@@ -736,6 +737,7 @@
 ## 1973
 
 - The School as a Social Environment for Learning: Social Organization and Micro-Social Process in Education · [DOI](https://doi.org/10.2307/2112204)
+- School Bureaucratization and Alienation from High School · [DOI](https://doi.org/10.2307/2112177)
 
 ## 1972
 

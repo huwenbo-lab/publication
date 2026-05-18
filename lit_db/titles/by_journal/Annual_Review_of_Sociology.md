@@ -1,6 +1,6 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **577** 篇 | 年份范围：1975–2026
+共 **584** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -585,6 +585,7 @@
 - Volunteering · [DOI](https://doi.org/10.1146/annurev.soc.26.1.215)
 - Wealth Inequality in the United States · [DOI](https://doi.org/10.1146/annurev.soc.26.1.63)
 - Social Psychology of Identities · [DOI](https://doi.org/10.1146/annurev.soc.26.1.367)
+- Ethnicity and Sexuality · [DOI](https://doi.org/10.1146/annurev.soc.26.1.107)
 
 ## 1999
 
@@ -629,6 +630,7 @@
 - Artificial Social Intelligence · [DOI](https://doi.org/10.1146/annurev.so.20.080194.002203)
 - Aging and Generational Relations: A Historical and Life Course Perspective · [DOI](https://doi.org/10.1146/annurev.so.20.080194.002253)
 - Multilevel Models: Methods and Substance · [DOI](https://doi.org/10.1146/annurev.so.20.080194.001555)
+- Religion and Political Legitimation · [DOI](https://doi.org/10.1146/annurev.so.20.080194.001133)
 
 ## 1993
 
@@ -643,6 +645,7 @@
 
 - Concepts and Measurement of Prestige · [DOI](https://doi.org/10.1146/annurev.so.18.080192.001345)
 - Job Mobility and Career Processes · [DOI](https://doi.org/10.1146/annurev.so.18.080192.000351)
+- Two Approaches to Social Structure: Exchange Theory and Network Analysis · [DOI](https://doi.org/10.1146/annurev.so.18.080192.000545)
 
 ## 1991
 
@@ -677,6 +680,11 @@
 
 - Gentrification: Culture and Capital in the Urban Core · [DOI](https://doi.org/10.1146/annurev.so.13.080187.001021)
 - New Directions in Environmental Sociology · [DOI](https://doi.org/10.1146/annurev.so.13.080187.002341)
+- Making Sense of Diversity: Recent Research on Hispanic Minorities in the United States · [DOI](https://doi.org/10.1146/annurev.so.13.080187.002043)
+
+## 1986
+
+- Social Impact Assessment · [DOI](https://doi.org/10.1146/annurev.so.12.080186.002315)
 
 ## 1985
 
@@ -697,6 +705,7 @@
 - Social Indicators · [DOI](https://doi.org/10.1146/annurev.so.09.080183.000245)
 - Resource Mobilization Theory and the Study of Social Movements · [DOI](https://doi.org/10.1146/annurev.so.09.080183.002523)
 - Generation as a Sociological Problem · [DOI](https://doi.org/10.1146/annurev.so.09.080183.001013)
+- Models of Neighborhood Change · [DOI](https://doi.org/10.1146/annurev.so.09.080183.000503)
 
 ## 1981
 
@@ -716,6 +725,7 @@
 - Status Inconsistency and Role Conflict · [DOI](https://doi.org/10.1146/annurev.so.04.080178.000421)
 - Radical Sociology: The Emergence of Neo-Marxian Perspectives in US Sociology · [DOI](https://doi.org/10.1146/annurev.so.04.080178.001205)
 - Theories of Social Conflict · [DOI](https://doi.org/10.1146/annurev.so.04.080178.001451)
+- The Development of Soviet Sociology, 1956-1976 · [DOI](https://doi.org/10.1146/annurev.so.04.080178.001131)
 
 ## 1977
 

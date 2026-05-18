@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **700** 篇
+共 **701** 篇
 
 ---
 
@@ -2619,6 +2619,11 @@
 **年份**: 2003 | **DOI**: [10.1080/0007131032000080221](https://doi.org/10.1080/0007131032000080221)
 **作者**: Charles, Nickie; James, Emma
 **摘要**: ABSTRACTThis paper explores women's and men's work orientations in conditions of job insecurity, arguing that it is time to move beyond essentalist conceptions of work orientations and central life interests in order to understand the significance of paid work in people's lives.…
+
+### Social capital and social exclusion in England and Wales (1972-1999)
+**年份**: 2003 | **DOI**: [10.1080/0007131032000143564](https://doi.org/10.1080/0007131032000143564)
+**作者**: Li, Yaojun
+**摘要**: （暂无）
 
 ### Positivism in sociological research: USA and UK (1966–1990)
 **年份**: 2002 | **DOI**: [10.1080/0007131022000021524](https://doi.org/10.1080/0007131022000021524)

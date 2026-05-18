@@ -1,6 +1,6 @@
 # American Journal of Sociology — 文章标题索引
 
-共 **1000** 篇 | 年份范围：1896–2026
+共 **1017** 篇 | 年份范围：1896–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -13,6 +13,9 @@
 - : The Economy of Promises: Trust, Power, and Credit in America · [DOI](https://doi.org/10.1086/740005)
 - Skill Diversification Beyond High-Paying Jobs · [DOI](https://doi.org/10.1086/741725)
 - : Reunited: Family Separation and Central American Youth Migration · [DOI](https://doi.org/10.1086/739927)
+- The Coupled Dynamics of Neighborhood and School Change · [DOI](https://doi.org/10.1086/740798)
+- From Conflict to Cohesion: Structural Similarity Dampens Uncivil Discourse in Polarized Social Groups · [DOI](https://doi.org/10.1086/740301)
+- Atlantic Reconstruction: Democracy, Abolition, and the Making of Political Personhood · [DOI](https://doi.org/10.1086/741674)
 
 ## 2025
 
@@ -681,6 +684,7 @@
 - Institutional Emergence in an Era of Globalization: The Rise of Transnational Private Regulation of Labor and Environmental Conditions · [DOI](https://doi.org/10.1086/518871)
 - Human Rights and Gender Violence: Translating International Law into Local Justice. By Sally Engle Merry. Chicago: University of Chicago Press, 2006. Pp. 269. · [DOI](https://doi.org/10.1086/518062)
 - Syndication, Institutionalization, and Lottery Play · [DOI](https://doi.org/10.1086/521847)
+- Racial Context and Police Force Size: Evaluating the Empirical Validity of the Minority Threat Perspective · [DOI](https://doi.org/10.1086/518906)
 
 ## 2006
 
@@ -913,6 +917,7 @@
 - Physical Attractiveness, Opportunity, and Success in Everyday Exchange · [DOI](https://doi.org/10.1086/231401)
 - Making Use of the Past: Time Periods as Cases to Compare and as Sequences of Problem Solving · [DOI](https://doi.org/10.1086/210041)
 - A Cultural Field in the Making: Gastronomy in 19th‐Century France · [DOI](https://doi.org/10.1086/210082)
+- Defended Neighborhoods, Integration, and Racially Motivated Crime · [DOI](https://doi.org/10.1086/210042)
 
 ## 1997
 
@@ -927,6 +932,7 @@
 - Opportunity and Choice in Socially Structured Labor Markets · [DOI](https://doi.org/10.1086/230910)
 - Confirming Allusions: Toward an Empirical Account of Action · [DOI](https://doi.org/10.1086/230911)
 - Culture, Class, and Connections · [DOI](https://doi.org/10.1086/230912)
+- Sociology as a WorldviewA Second Chicago School? The Development of a Postwar American Sociology.Gary Alan Fine · [DOI](https://doi.org/10.1086/230913)
 
 ## 1995
 
@@ -951,6 +957,7 @@
 - Specifying the Relationship Between Social Ties and Activism · [DOI](https://doi.org/10.1086/230319)
 - When Partners Become Parents: The Big Life Change for Couples.Carolyn Pape Cowan , Philip A. Cowan · [DOI](https://doi.org/10.1086/230251)
 - Intraorganizational Power and Internal Secularization in Protestant Denominations · [DOI](https://doi.org/10.1086/230228)
+- The Structure of Intergenerational Exchanges in American Families · [DOI](https://doi.org/10.1086/230194)
 
 ## 1992
 
@@ -980,12 +987,14 @@
 - Bureaucrats and Entrepreneurs: Institutional Responses to Deviant Children in the United States, 1890-1920s · [DOI](https://doi.org/10.1086/229458)
 - Edgework: A Social Psychological Analysis of Voluntary Risk Taking · [DOI](https://doi.org/10.1086/229379)
 - Market Networks and Corporate Behavior · [DOI](https://doi.org/10.1086/229573)
+- Religion as Opposition: A Gramscian Analysis · [DOI](https://doi.org/10.1086/229491)
 
 ## 1989
 
 - Community Structure and Crime: Testing Social-Disorganization Theory · [DOI](https://doi.org/10.1086/229068)
 - Self-Perceptions of Black Americans: Self-Esteem and Personal Efficacy · [DOI](https://doi.org/10.1086/229216)
 - Crime and State Surveillance in Nineteenth-Century France · [DOI](https://doi.org/10.1086/229271)
+- Structure After 50 Years: The Anatomy of a Charter · [DOI](https://doi.org/10.1086/229214)
 
 ## 1988
 
@@ -1045,6 +1054,7 @@
 
 - Autonomy in a Social Topology · [DOI](https://doi.org/10.1086/227093)
 - Cultural Orientations, Institutional Entrepreneurs, and Social Change: Comparative Analysis of Traditional Civilizations · [DOI](https://doi.org/10.1086/227091)
+- The Vagaries of the Vignette World: A Comment on Alves and Rossi · [DOI](https://doi.org/10.1086/227096)
 
 ## 1979
 
@@ -1066,11 +1076,13 @@
 ## 1977
 
 - The Population Ecology of Organizations · [DOI](https://doi.org/10.1086/226424)
+- Talcott Parsons, the Problem of Order in Society, and the Program of an Analytical Sociology · [DOI](https://doi.org/10.1086/226549)
 
 ## 1976
 
 - On the Concept of Face · [DOI](https://doi.org/10.1086/226145)
 - Development Towns in Israel: The Role of Community in Creating Ethnic Disparities in Labor Force Characteristics · [DOI](https://doi.org/10.1086/226142)
+- Classical Social Theory and the Origins of Modern Sociology · [DOI](https://doi.org/10.1086/226140)
 
 ## 1975
 
@@ -1108,12 +1120,14 @@
 
 - Queue Culture: The Waiting Line as a Social System · [DOI](https://doi.org/10.1086/224787)
 - Making Men Modern: On the Causes and Consequences of Individual Change in Six Developing Countries · [DOI](https://doi.org/10.1086/224767)
+- The Professional Self-Concept of Music Students · [DOI](https://doi.org/10.1086/224791)
 
 ## 1968
 
 - Professionalization and Bureaucratization in Large Professional Organizations · [DOI](https://doi.org/10.1086/224616)
 - Class Identification in the United States · [DOI](https://doi.org/10.1086/224528)
 - Social Class, Parental Encouragement, and Educational Aspirations · [DOI](https://doi.org/10.1086/224530)
+- Patterns of Residence in Poona (India) by Income, Education, and Occupation (1937-65) · [DOI](https://doi.org/10.1086/224509)
 
 ## 1966
 
@@ -1192,6 +1206,7 @@
 
 - The Sociology of Sociability · [DOI](https://doi.org/10.1086/220534)
 - Caste, Class, and Race: A Study in Social Dynamics.Oliver Cromwell Cox · [DOI](https://doi.org/10.1086/220401)
+- Inner Personality, Image, and Social Role · [DOI](https://doi.org/10.1086/220531)
 
 ## 1945
 
@@ -1234,6 +1249,7 @@
 
 - Some Ecological Patterns of Community Disorganization in Honolulu · [DOI](https://doi.org/10.1086/215337)
 - Robert Dale Owen, The Pioneer of American Neo-Malthusianism · [DOI](https://doi.org/10.1086/215131)
+- The Regional Balance of Man · [DOI](https://doi.org/10.1086/215419)
 
 ## 1929
 
@@ -1243,6 +1259,7 @@
 
 - Attitudes and Behavior · [DOI](https://doi.org/10.1086/214668)
 - Human Migration and the Marginal Man · [DOI](https://doi.org/10.1086/214592)
+- Population of the United States, 1925 to 1975 · [DOI](https://doi.org/10.1086/214667)
 
 ## 1927
 

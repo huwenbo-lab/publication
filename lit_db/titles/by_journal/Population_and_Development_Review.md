@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **1046** 篇 | 年份范围：1976–2026
+共 **1060** 篇 | 年份范围：1976–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -13,6 +13,7 @@
 - Lina‐MariaMurilloFighting for Control: Power, Reproductive Care and Race in the US‐Mexico BorderlandsThe University of North Carolina Press, 2025, 336 p. $29.95 · [DOI](https://doi.org/10.1111/padr.70057)
 - The End of an Era: The Vanishing Negative Effect of Women's Employment on Fertility · [DOI](https://doi.org/10.1111/padr.70053)
 - Revisiting the Relationship between Marriage and Childbearing in East Asia: The Role of Fertility Desires in Japan · [DOI](https://doi.org/10.1111/padr.70050)
+- A Global Perspective on Trends in the Use of Withdrawal and Periodic Abstinence for Pregnancy Prevention · [DOI](https://doi.org/10.1111/padr.70063)
 
 ## 2025
 
@@ -768,6 +769,7 @@
 - Yves Guyot on the protection of national labor · [DOI](https://doi.org/10.1111/j.1728-4457.2007.00174.x)
 - On Causation in Demography: Issues and Illustrations · [DOI](https://doi.org/10.1111/j.1728-4457.2007.00157.x)
 - Pandemic Influenza: A Review · [DOI](https://doi.org/10.1111/j.1728-4457.2007.00179.x)
+- Longevity Among Hunter‐ Gatherers: A Cross‐Cultural Examination · [DOI](https://doi.org/10.1111/j.1728-4457.2007.00171.x)
 
 ## 2006
 
@@ -1078,6 +1080,7 @@
 - Immigration, Domestic Migration, and Demographic Balkanization in America: New Evidence for the 1990s · [DOI](https://doi.org/10.2307/2137808)
 - Social Interactions and Contemporary Fertility Transitions · [DOI](https://doi.org/10.2307/2137804)
 - Children's Schooling in sub-Saharan Africa: The Role of Fathers, Mothers, and Others · [DOI](https://doi.org/10.2307/2137435)
+- Post-Cairo Population Policy: Does Promoting Girls' Schooling Miss the Mark? · [DOI](https://doi.org/10.2307/2137805)
 
 ## 1995
 
@@ -1100,6 +1103,8 @@
 - Theories of International Migration: A Review and Appraisal · [DOI](https://doi.org/10.2307/2938462)
 - Nutritional Patterns and Transitions · [DOI](https://doi.org/10.2307/2938388)
 - The Idea of Demographic Transition and the Study of Fertility Change: A Critical Intellectual History · [DOI](https://doi.org/10.2307/2938410)
+- Parity Progression and Birth Intervals in China: The Influence of Policy in Hastening Fertility Decline · [DOI](https://doi.org/10.2307/2938385)
+- Coitus Interruptus in the Twentieth Century · [DOI](https://doi.org/10.2307/2938413)
 
 ## 1992
 
@@ -1109,6 +1114,8 @@
 - Understanding Morbidity Change · [DOI](https://doi.org/10.2307/1973655)
 - Children at Risk: The Role of Family Structure in Latin America and West Africa · [DOI](https://doi.org/10.2307/1973760)
 - M. K. Bennett on Population and Food Supply · [DOI](https://doi.org/10.2307/1973684)
+- The Development Dictionary: A Guide to Knowledge as Power. · [DOI](https://doi.org/10.2307/1971880)
+- Jacques Cousteau on the Demographic Implications of Man's Divorce from Nature · [DOI](https://doi.org/10.2307/1973776)
 
 ## 1991
 
@@ -1124,17 +1131,20 @@
 - Toward a Political Economy of Fertility: Anthropological Contributions · [DOI](https://doi.org/10.2307/1972530)
 - Comment: The Second Tragedy of the Commons · [DOI](https://doi.org/10.2307/2808079)
 - Son Preference and Fertility in Bangladesh · [DOI](https://doi.org/10.2307/1972966)
+- The World's Forests and Human Populations: The Environmental Interconnections · [DOI](https://doi.org/10.2307/2808073)
 
 ## 1989
 
 - Agrarian Responses to Outmigration in Sub-Saharan Africa · [DOI](https://doi.org/10.2307/2807933)
 - On Aggregate Empirical Studies Relating Population Variables to Economic Development · [DOI](https://doi.org/10.2307/1973707)
 - The Social Context of AIDS in sub-Saharan Africa · [DOI](https://doi.org/10.2307/1973703)
+- Is the Chinese Family Planning Program "Tightening Up"? · [DOI](https://doi.org/10.2307/1973708)
 
 ## 1988
 
 - Cultural Dynamics and Economic Theories of Fertility Change · [DOI](https://doi.org/10.2307/1972499)
 - Population, Economic Growth, and Energy Demand, 1985-2020 · [DOI](https://doi.org/10.2307/1973571)
+- Social Science Approaches to International Migration · [DOI](https://doi.org/10.2307/2808098)
 
 ## 1987
 
@@ -1153,6 +1163,8 @@
 - Long-Term Fluctuations in Climate and Population in the Preindustrial Era · [DOI](https://doi.org/10.2307/1973349)
 - Population Dynamics with Immigration and Low Fertility · [DOI](https://doi.org/10.2307/2807908)
 - The Effects of Rapid Population Growth on Labor Supply and Employment in Developing Countries · [DOI](https://doi.org/10.2307/1973216)
+- Altruism and the Economic Theory of Fertility · [DOI](https://doi.org/10.2307/2807893)
+- Observations on the History of Cohort Fertility in the United States · [DOI](https://doi.org/10.2307/1973429)
 
 ## 1985
 
@@ -1171,6 +1183,7 @@
 ## 1982
 
 - Population Studies and Population Policy in China · [DOI](https://doi.org/10.2307/1972987)
+- Mortality Transition in South and East Asia: Technology Confronts Poverty · [DOI](https://doi.org/10.2307/1972380)
 
 ## 1981
 
@@ -1198,6 +1211,7 @@
 
 - Historical Estimates of World Population: An Evaluation · [DOI](https://doi.org/10.2307/1971891)
 - Internal Migration in Developing Countries: A Review of Theory, Evidence, Methodology, and Research Priorities. · [DOI](https://doi.org/10.2307/1971779)
+- The Modern Rise of Population. · [DOI](https://doi.org/10.2307/1971906)
 
 ## 1976
 

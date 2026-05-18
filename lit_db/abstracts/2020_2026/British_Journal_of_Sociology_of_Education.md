@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **472** 篇
+共 **473** 篇
 
 ---
 
@@ -133,6 +133,11 @@
 ### Exploring anxiety and behaviour. Agency, liminality and relational embodiment in a PRU
 **年份**: 2026 | **DOI**: [10.1080/01425692.2026.2664171](https://doi.org/10.1080/01425692.2026.2664171)
 **作者**: Woolhouse, Clare
+**摘要**: （暂无）
+
+### ‘Do you want to be a bully?’ Critical school textbook analysis on friendship and bullying
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2668489](https://doi.org/10.1080/01425692.2026.2668489)
+**作者**: Puutio, Eveliina; Väisänen, Anne-Mari; Lanas, Maija
 **摘要**: （暂无）
 
 ### Numerical diversity only? The case of academic preparatory programs for the Negev Bedouin in Israel

@@ -1,6 +1,6 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **853** 篇 | 年份范围：2001–2026
+共 **856** 篇 | 年份范围：2001–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -21,6 +21,8 @@
 - The contingency of future vs. present orientation and status attainment · [DOI](https://doi.org/10.1016/j.rssm.2026.101151)
 - Gender differences in employers’ promotion preferences? The role of working time, care obligations, and work–family policies · [DOI](https://doi.org/10.1016/j.rssm.2026.101154)
 - Place of education, revisited: Effects on earnings by nativity, race, and gender · [DOI](https://doi.org/10.1016/j.rssm.2026.101150)
+- The role of network isolation on language proficiency of children of migrants · [DOI](https://doi.org/10.1016/j.rssm.2026.101138)
+- Is a liberal school-to-work system more ‘meritocratic’? Overeducation, social origin, and early career mobility in Germany and the United Kingdom · [DOI](https://doi.org/10.1016/j.rssm.2026.101146)
 
 ## 2025
 
@@ -394,6 +396,7 @@
 - Employment opportunities for ex-offenders A field experiment on how type of crime and applicants' ethnic background affect employment opportunities for low-educated men in the Netherlands · [DOI](https://doi.org/10.1016/j.rssm.2020.100476)
 - Ethnic and social class discrimination in education: Experimental evidence from Germany · [DOI](https://doi.org/10.1016/j.rssm.2019.100461)
 - What works to reduce inequalities in higher education? A systematic review of the (quasi-)experimental literature on outreach and financial aid · [DOI](https://doi.org/10.1016/j.rssm.2019.100442)
+- The institutional and cultural framing of the educational stratification in fertility. A review of the role of labor market institutions and attitudinal orientations · [DOI](https://doi.org/10.1016/j.rssm.2020.100482)
 
 ## 2019
 

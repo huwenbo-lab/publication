@@ -1,6 +1,6 @@
 # American Sociological Review — 文章标题索引
 
-共 **1160** 篇 | 年份范围：1940–2026
+共 **1170** 篇 | 年份范围：1940–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1130,6 +1130,10 @@
 - Cultural and Educational Careers: The Dynamics of Social Reproduction · [DOI](https://doi.org/10.2307/2657427)
 - The Libidinal Constitution of a High-Risk Social Movement: Affectual Ties and Solidarity in the Huk Rebellion, 1946 to 1954 · [DOI](https://doi.org/10.2307/2657452)
 - Bringing Strong Ties Back in: Indirect Ties, Network Bridges, and Job Searches in China · [DOI](https://doi.org/10.2307/2657311)
+- International Press Coverage of East German Protest Events, 1989 · [DOI](https://doi.org/10.2307/2657362)
+- The Social Geography of Interstate Mobility and Persistence · [DOI](https://doi.org/10.2307/2657304)
+- Culture and Conflict: The Portrayal of Blacks in U.S. Children's Picture Books Through the Mid- and Late-Twentieth Century · [DOI](https://doi.org/10.2307/2657315)
+- Explaining the Black-White Gap in Labor Force Participation among Women Heading Households · [DOI](https://doi.org/10.2307/2657302)
 
 ## 1996
 
@@ -1170,6 +1174,7 @@
 
 - Chains of Cooperation: Threshold Effects in Collective Action · [DOI](https://doi.org/10.2307/2096252)
 - Primary, Secondary, and Enclave Labor Markets: A Training Systems Approach · [DOI](https://doi.org/10.2307/2096266)
+- The Structure of Gossip: Opportunities and Constraints on Collective Expression among Adolescents · [DOI](https://doi.org/10.2307/2096270)
 
 ## 1990
 
@@ -1287,6 +1292,7 @@
 ## 1970
 
 - A Formal Theory of Differentiation in Organizations · [DOI](https://doi.org/10.2307/2093199)
+- Police Control of Juveniles · [DOI](https://doi.org/10.2307/2093853)
 
 ## 1969
 
@@ -1307,6 +1313,10 @@
 - The Cohort as a Concept in the Study of Social Change · [DOI](https://doi.org/10.2307/2090964)
 - Durkheim's One Cause of Suicide · [DOI](https://doi.org/10.2307/2090966)
 - Max Weber and Empirical Social Research · [DOI](https://doi.org/10.2307/2091563)
+
+## 1964
+
+- Awareness Contexts and Social Interaction · [DOI](https://doi.org/10.2307/2091417)
 
 ## 1963
 
@@ -1337,11 +1347,13 @@
 - Voluntary Association Memberships of American Adults: Evidence from National Sample Surveys · [DOI](https://doi.org/10.2307/2089242)
 - Urbanization and Natural Resources: A Study in Organizational Ecology · [DOI](https://doi.org/10.2307/2089240)
 - Organizational Goals and Environment: Goal-Setting as an Interaction Process · [DOI](https://doi.org/10.2307/2088620)
+- The Developmental Cycle in Domestic Groups. · [DOI](https://doi.org/10.2307/2088842)
 
 ## 1957
 
 - A Study of Organizational Effectiveness · [DOI](https://doi.org/10.2307/2089477)
 - A Measure of Alienation · [DOI](https://doi.org/10.2307/2089196)
+- A Critique of Tests of Significance in Survey Research · [DOI](https://doi.org/10.2307/2089475)
 
 ## 1956
 
@@ -1388,6 +1400,7 @@
 
 - Structure and Dynamics of Interpersonal Relations · [DOI](https://doi.org/10.2307/2085084)
 - The Negro in Bahia, Brazil: A Problem in Method · [DOI](https://doi.org/10.2307/2085800)
+- Social Organization in the Slums · [DOI](https://doi.org/10.2307/2085446)
 
 ## 1942
 

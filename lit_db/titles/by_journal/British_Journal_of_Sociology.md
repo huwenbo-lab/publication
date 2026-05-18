@@ -1,6 +1,6 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1784** 篇 | 年份范围：1950–2026
+共 **1798** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -20,6 +20,7 @@
 - Laying Grounds for Dialogue: Exploring Anti‐Racist Activists' Negotiations of Emotions When Challenging Colour‐Blindness in Norway · [DOI](https://doi.org/10.1111/1468-4446.70121)
 - The Worldviews of Elites: Differences Between Inheritors and Newcomers · [DOI](https://doi.org/10.1111/1468-4446.70122)
 - Cruel and Usual: Recursive Racial Cruelty at the US Immigration Courts · [DOI](https://doi.org/10.1111/1468-4446.70120)
+- More Productive Bodies Faster! Human Capital and Anti‐Intellectualism in Danish University Reform · [DOI](https://doi.org/10.1111/1468-4446.70129)
 
 ## 2025
 
@@ -1609,6 +1610,7 @@
 - The revival of death: expression, expertise and governmentality · [DOI](https://doi.org/10.1080/0007131032000045897)
 - The reflexive self and culture: a critique · [DOI](https://doi.org/10.1080/0007131032000080212)
 - Gender and work orientations in conditions of job insecurity · [DOI](https://doi.org/10.1080/0007131032000080221)
+- Social capital and social exclusion in England and Wales (1972-1999) · [DOI](https://doi.org/10.1080/0007131032000143564)
 
 ## 2002
 
@@ -1795,6 +1797,7 @@
 - Boredom and social meaning · [DOI](https://doi.org/10.1080/000713199358572)
 - Class voting, social change, and the left in Australia, 1943–961 · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00609.x)
 - Social mobility and personal satisfaction: evidence from ten countries* · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00028.x)
+- The barbarism of civilization: cultural genocide and the ‘stolen generations’1 · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00297.x)
 
 ## 1998
 
@@ -1810,6 +1813,7 @@
 - Television and the Reflexive Project of the Self: Soaps, Teenage Talk and Hybrid Identities · [DOI](https://doi.org/10.2307/591599)
 - The Late-Modern City as a Bazaar: Drug Markets, Illegal Enterprise and the 'Barricades' · [DOI](https://doi.org/10.2307/591910)
 - Politics and the Struggle to Define: A Discourse Analysis of the Framing Strategies of Competing Actors in a 'New' Participatory Forum · [DOI](https://doi.org/10.2307/591142)
+- Becoming a Young Parent: A Longitudinal Study of Associated Factors · [DOI](https://doi.org/10.2307/591138)
 
 ## 1996
 
@@ -1818,6 +1822,7 @@
 - Public Religions in the Modern World · [DOI](https://doi.org/10.2307/591125)
 - The Sexual Division of Labour and Women's Heterogeneity · [DOI](https://doi.org/10.2307/591124)
 - Agrarian Relations and Class Hegemony: A Comparative Analysis of Landlord, Social and Political Power - Italy 1861-1920 · [DOI](https://doi.org/10.2307/591725)
+- Was Communism Good for Social Justice?: A Comparative Analysis of the Two Germanies · [DOI](https://doi.org/10.2307/591359)
 
 ## 1995
 
@@ -1841,11 +1846,13 @@
 - The Race Relations Problematic · [DOI](https://doi.org/10.2307/590837)
 - Disability and Social Stratification · [DOI](https://doi.org/10.2307/591447)
 - Spotting the Invisible Man: The Influence of Male Gender on Fieldwork Relations · [DOI](https://doi.org/10.2307/590367)
+- Eugenics, Social Medicine and the Career of Richard Titmuss in Britain 1935-50 · [DOI](https://doi.org/10.2307/590366)
 
 ## 1990
 
 - Patriarchy, Patrimonialism, and Filial Piety: A Comparison of China and Western Europe · [DOI](https://doi.org/10.2307/591019)
 - Joining a Political Party: A Reassessment of the Economic Approach to Membership · [DOI](https://doi.org/10.2307/590664)
+- Socialisation and Social Change: A Critique of Three Positions · [DOI](https://doi.org/10.2307/590665)
 
 ## 1989
 
@@ -1864,6 +1871,11 @@
 ## 1986
 
 - Appraising Goffman · [DOI](https://doi.org/10.2307/590645)
+
+## 1985
+
+- Weber's Verstehen and the History of Qualitative Research: The Missing Link · [DOI](https://doi.org/10.2307/590460)
+- On Economic Development and Social Mobility · [DOI](https://doi.org/10.2307/590331)
 
 ## 1984
 
@@ -1912,6 +1924,7 @@
 - Anti-War Demonstrations and American Public Opinion on the War in Vietnam · [DOI](https://doi.org/10.2307/590029)
 - Woman Culture and Society · [DOI](https://doi.org/10.2307/590199)
 - Consciousness and Contradiction: A Study of Student Protest in Zambia · [DOI](https://doi.org/10.2307/589562)
+- H. T. Buckle: The Liberal Faith and the Science of History · [DOI](https://doi.org/10.2307/589622)
 
 ## 1975
 
@@ -1920,6 +1933,7 @@
 ## 1974
 
 - The Methodological Implications of Symbolic Interactionism for the Study of Deviance · [DOI](https://doi.org/10.2307/589394)
+- Modes and Types of Political Alienation · [DOI](https://doi.org/10.2307/590156)
 
 ## 1972
 
@@ -1949,6 +1963,7 @@
 
 - Integration versus Segregation in the New Zealand Churches · [DOI](https://doi.org/10.2307/588355)
 - White-Collar Unionization: A Conceptual Framework · [DOI](https://doi.org/10.2307/588353)
+- The Suicide Problem in French Sociology · [DOI](https://doi.org/10.2307/588563)
 
 ## 1964
 
@@ -1968,6 +1983,10 @@
 - Sociology and Social Policy · [DOI](https://doi.org/10.2307/587367)
 - Social Conflict and the Theory of Social Change · [DOI](https://doi.org/10.2307/586859)
 
+## 1955
+
+- Radcliffe-Brown's Contributions to the Study of Social Organization · [DOI](https://doi.org/10.2307/587222)
+
 ## 1952
 
 - Prestige of Occupations · [DOI](https://doi.org/10.2307/587491)
@@ -1980,3 +1999,4 @@
 ## 1950
 
 - Social Grading of Occupations · [DOI](https://doi.org/10.2307/587306)
+- Social Organization · [DOI](https://doi.org/10.2307/586893)

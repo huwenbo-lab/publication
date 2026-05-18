@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **125** 篇
+共 **126** 篇
 
 ---
 
@@ -629,3 +629,8 @@
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.367](https://doi.org/10.1146/annurev.soc.26.1.367)
 **作者**: Howard, Judith A.
 **摘要**: In this chapter I review the social psychological underpinnings of identity, emphasizing social cognitive and symbolic interactionist perspectives and research, and I turn then to key themes of current work on identity—social psychological, sociological, and interdisciplinary.…
+
+### Ethnicity and Sexuality
+**年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.107](https://doi.org/10.1146/annurev.soc.26.1.107)
+**作者**: Nagel, Joane
+**摘要**: This paper explores the connections between ethnicity and sexuality. Racial, ethnic, and national boundaries are also sexual boundaries. The borderlands dividing racial, ethnic, and national identities and communities constitute ethnosexual frontiers, erotic intersections that are heavily patrolled,…

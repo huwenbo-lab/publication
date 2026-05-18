@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **320** 篇
+共 **322** 篇
 
 ---
 
@@ -144,6 +144,16 @@
 **年份**: 2026 | **DOI**: [10.1111/jftr.70065](https://doi.org/10.1111/jftr.70065)
 **作者**: White, Alison C.; Zarling, Amie
 **摘要**: ABSTRACT Guided by Ecological Systems theory, this article examines how the manosphere—a network of antifeminist online communities—functions as a developmental context shaping boys' and young men's masculinity development.…
+
+### How to Study Family Learning Practices Mediated by Digital Platforms: A Scoping Review
+**年份**: 2026 | **DOI**: [10.1111/jftr.70063](https://doi.org/10.1111/jftr.70063)
+**作者**: Esteban‐Guitart, Moises; Subero, David; Membrive, Antonio 等4人
+**摘要**: ABSTRACT The dynamic and personalized nature of today's media ecosystem complicates the documentation and analysis of digital home learning environments. In response, innovative research methods have emerged, which we broadly categorize as passive (e.g., quantitative studies) or active participatory…
+
+### Bringing Critical Femininities Into Conversation With Critical Masculinities in Family Science: Extending the Case for Using Femme Theory
+**年份**: 2026 | **DOI**: [10.1111/jftr.70070](https://doi.org/10.1111/jftr.70070)
+**作者**: Sharp, Elizabeth A.; Scott, Jocelyne Bartram
+**摘要**: ABSTRACT In this article, a feminist family scholar and a critical femininities scholar bring critical femininities into conversation with critical masculinities within Family Science.…
 
 ### Exploring Therapist's Worldview in a Family Therapy Theory Course: A Four‐Corners Learning Activity
 **年份**: 2025 | **DOI**: [10.1111/jftr.70010](https://doi.org/10.1111/jftr.70010)

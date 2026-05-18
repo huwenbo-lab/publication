@@ -1,6 +1,6 @@
 # Journal of Family Theory & Review — 文章标题索引
 
-共 **760** 篇 | 年份范围：2009–2026
+共 **762** 篇 | 年份范围：2009–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -35,6 +35,8 @@
 - Critical Masculinities in Families: Situating the Special Issue · [DOI](https://doi.org/10.1111/jftr.70071)
 - Parental Racial–Ethnic Socialization in the Early Years: A Scoping Review · [DOI](https://doi.org/10.1111/jftr.70051)
 - Masculinity Development in the Manosphere: An Ecological Systems Perspective · [DOI](https://doi.org/10.1111/jftr.70065)
+- How to Study Family Learning Practices Mediated by Digital Platforms: A Scoping Review · [DOI](https://doi.org/10.1111/jftr.70063)
+- Bringing Critical Femininities Into Conversation With Critical Masculinities in Family Science: Extending the Case for Using Femme Theory · [DOI](https://doi.org/10.1111/jftr.70070)
 
 ## 2025
 

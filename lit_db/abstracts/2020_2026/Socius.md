@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **730** 篇
+共 **732** 篇
 
 ---
 
@@ -139,6 +139,16 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231261446047](https://doi.org/10.1177/23780231261446047)
 **作者**: Price, Paige E.; Kelly, Paige; Thombs, Ryan P.
 **摘要**: Population aging has important sociological implications at the community level, including reductions in local workforce size, greater demand for health and social services, and changing housing needs.…
+
+### Infrastructure-Led Development: The Reciprocal Asymmetry of the Urban Growth Machine
+**年份**: 2026 | **DOI**: [10.1177/23780231261438909](https://doi.org/10.1177/23780231261438909)
+**作者**: Clement, Matthew Thomas
+**摘要**: Road construction is a catalyst of land-use change. In this analysis, drawing on the growth machine framework, the investigators assess whether there is any reciprocal feedback in this process, specifically asking if there is a bidirectional association between road construction and land development…
+
+### Real-Time Revisionism: How Racialized Narratives Legitimize White Christian Dominance in the United States
+**年份**: 2026 | **DOI**: [10.1177/23780231261444056](https://doi.org/10.1177/23780231261444056)
+**作者**: Prince, Tryce
+**摘要**: Conspiracy theorists, self-identified Christian nationalists, or conservative activists are often depicted as the faces of pro-Christian social movements in the United States. Often overlooked is the role of local churches that till the ideological ground for the seeds of once fringe social movement…
 
 ### Gender Egalitarianism and Marital Dissolution: Understanding the Bifurcation of the “Gender Revolution” in the United States
 **年份**: 2025 | **DOI**: [10.1177/23780231251372790](https://doi.org/10.1177/23780231251372790)
