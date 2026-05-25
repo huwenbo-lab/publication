@@ -1,7 +1,7 @@
 # Chinese Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **146** 篇
+共 **147** 篇
 
 ---
 
@@ -49,6 +49,11 @@
 **年份**: 2026 | **DOI**: [10.1177/2057150x261420939](https://doi.org/10.1177/2057150x261420939)
 **作者**: Zhou, Shuai; Bai, Xue
 **摘要**: The expansion of an extended working life has been reported worldwide. While retirement researchers discuss socioeconomic inequalities in late careers in affluent Western countries, unequal retirement decisions in China have attracted growing attention.…
+
+### Respectability and gendered-capital vulnerability: A qualitative study of second-generation women entrepreneurs in Dongguan, China
+**年份**: 2026 | **DOI**: [10.1177/2057150x261448693](https://doi.org/10.1177/2057150x261448693)
+**作者**: Pei, Yuxin; Li, Peiru
+**摘要**: Based on in-depth interviews with 16 second-generation women entrepreneurs in Dongguan, China, this study examines how elite women navigate the tension between market modernity and persistent lineage norms during intergenerational transfer.…
 
 ### Scholars like any other? An inquiry into productivity and citations in the field of contemporary China studies
 **年份**: 2025 | **DOI**: [10.1177/2057150X251345124](https://doi.org/10.1177/2057150X251345124)

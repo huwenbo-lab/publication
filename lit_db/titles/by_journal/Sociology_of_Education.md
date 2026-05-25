@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **583** 篇 | 年份范围：1963–2026
+共 **586** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -633,6 +633,7 @@
 - Employment During High School: Character Building or a Subversion of Academic Goals? · [DOI](https://doi.org/10.2307/2112850)
 - Class, Gender, and School Expansion in France: A Four-Systems Comparison · [DOI](https://doi.org/10.2307/2112705)
 - The Effect of the Social Organization of Schools on Teachers' Efficacy and Satisfaction · [DOI](https://doi.org/10.2307/2112851)
+- State Control of the Curriculum and Classroom Instruction · [DOI](https://doi.org/10.2307/2112887)
 
 ## 1990
 
@@ -664,6 +665,7 @@
 
 - Mothers' Strategies for Children's School Achievement: Managing the Transition to High School · [DOI](https://doi.org/10.2307/2112340)
 - Instructional and Institutional Effects of Ability Grouping · [DOI](https://doi.org/10.2307/2112346)
+- Cross-Group Contact Opportunities: Impact on Interpersonal Relationships in Desegregated Middle Schools · [DOI](https://doi.org/10.2307/2112436)
 
 ## 1985
 
@@ -738,6 +740,7 @@
 
 - The School as a Social Environment for Learning: Social Organization and Micro-Social Process in Education · [DOI](https://doi.org/10.2307/2112204)
 - School Bureaucratization and Alienation from High School · [DOI](https://doi.org/10.2307/2112177)
+- The Effect of Physical Attractiveness on Teacher Expectations · [DOI](https://doi.org/10.2307/2112099)
 
 ## 1972
 

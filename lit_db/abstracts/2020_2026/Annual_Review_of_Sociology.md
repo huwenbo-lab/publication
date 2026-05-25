@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **121** 篇
+共 **123** 篇
 
 ---
 
@@ -24,6 +24,11 @@
 **年份**: 2026 | **DOI**: [10.1146/annurev-soc-031524-105759](https://doi.org/10.1146/annurev-soc-031524-105759)
 **作者**: Hoang, Kimberly Kay; Biron-Boileau, Camille
 **摘要**: This article reviews the sociological and interdisciplinary literature on the global architecture of elite wealth, emphasizing structural transformations in the global political economy following the 2008 financial crisis.…
+
+### Qualitative Research in an Era of Artificial Intelligence: A Pragmatic Approach to Data Analysis, Workflow, and Computation
+**年份**: 2026 | **DOI**: [10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
+**作者**: Abramson, Corey M.; Prendergast, Tara; Li, Zhuofan 等4人
+**摘要**: Computational developments—particularly artificial intelligence—are reshaping social scientific research and raising new questions for in-depth methods such as ethnography and qualitative interviewing.…
 
 ### Advancing the Scientific Study of Structural Racism: Concepts, Measures, and Methods
 **年份**: 2025 | **DOI**: [10.1146/annurev-soc-090924-021305](https://doi.org/10.1146/annurev-soc-090924-021305)
@@ -299,6 +304,11 @@
 **年份**: 2022 | **DOI**: [10.1146/annurev-soc-090221-035954](https://doi.org/10.1146/annurev-soc-090221-035954)
 **作者**: Moody, James W.; Keister, Lisa A.; Ramos, Maria C.
 **摘要**: Concern over social scientists’ inability to reproduce empirical research has spawned a vast and rapidly growing literature. The size and growth of this literature make it difficult for newly interested academics to come up to speed.…
+
+### Measuring Women's Empowerment in the Global South
+**年份**: 2022 | **DOI**: [10.1146/annurev-soc-030420-015018](https://doi.org/10.1146/annurev-soc-030420-015018)
+**作者**: Desai, Sonalde; Chen, Feinian; Reddy, Shilpa 等4人
+**摘要**: Over the past two decades, we have seen an explosion in research on the topic of women's empowerment and its related dimensions, yet there remains much to be done in terms of clarifying conceptual pathways and best practices in measurement.…
 
 ### Ethnography, Data Transparency, and the Information Age
 **年份**: 2021 | **DOI**: [10.1146/annurev-soc-090320-124805](https://doi.org/10.1146/annurev-soc-090320-124805)

@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1514** 篇 | 年份范围：1986–2026
+共 **1517** 篇 | 年份范围：1986–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1606,11 +1606,16 @@
 - Testing the validity of the Goldthorpe class schema · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036638)
 - Locating class cleavages in inter-generational mobility: cross-national commonalities and variations in mobility patterns · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036641)
 - Common social fluidity: a comment on recent criticisms · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036639)
+- Explaining Trends in Occupational Segregation: The Measurement, Causes, and Consequences of the Sexual Division of Labour · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036628)
 
 ## 1991
 
 - Grateful slaves and self-made women: fact and fantasy in women's work orientations · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036590)
 - Educational transition in Hungary from the post-war period to the end of the 1980s · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036602)
+
+## 1990
+
+- Kinship and social networks in modern societies: a cross-cultural comparison among seven nations · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036553)
 
 ## 1989
 
@@ -1624,6 +1629,7 @@
 
 - Jobs and classes: structural constraints on career mobility · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036428)
 - Commonality and variation in social fluidity in industrial nations. Part II: the model of core social fluidity applied · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036441)
+- Individuals and parties—changes in processes of political mobilization · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036449)
 
 ## 1986
 

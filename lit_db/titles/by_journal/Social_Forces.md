@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2899** 篇 | 年份范围：1926–2026
+共 **2908** 篇 | 年份范围：1926–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -17,6 +17,7 @@
 - Review of “The Returned: Former U.S. Migrants’ Lives in Mexico City” · [DOI](https://doi.org/10.1093/sf/soaf221)
 - The racialized penalties of immigrant origin: meta-analytic evidence on hiring discrimination in twelve countries · [DOI](https://doi.org/10.1093/sf/soag028)
 - Breaking the mold: the changing modularity of protest forms during cycles of contention · [DOI](https://doi.org/10.1093/sf/soag048)
+- Do occupations confer equal prestige on female and male incumbents? · [DOI](https://doi.org/10.1093/sf/soag054)
 
 ## 2025
 
@@ -530,6 +531,7 @@
 - The Social Production and Salience of Young Women's Desire for Sex · [DOI](https://doi.org/10.1093/sf/soz049)
 - Intergenerational Class Mobility in Europe: A New Account · [DOI](https://doi.org/10.1093/sf/soz026)
 - Fearing the Black Body: The Racial Origins of Fat Phobia · [DOI](https://doi.org/10.1093/sf/soz161)
+- The Overworked Consumer: Self-Checkouts, Supermarkets, and the Do-it-Yourself Economy · [DOI](https://doi.org/10.1093/sf/soz168)
 
 ## 2019
 
@@ -2863,6 +2865,7 @@
 - Region and Political Opinion in the Contemporary United States · [DOI](https://doi.org/10.2307/3005964)
 - Does Parental Conflict Explain Why Divorce is Negatively Associated with Child Welfare? · [DOI](https://doi.org/10.2307/3005877)
 - Women and Men Policymakers: Does the Judge's Gender Affect the Sentencing of Criminal Defendants? · [DOI](https://doi.org/10.2307/3005975)
+- Race/Ethnicity, Nativity, and Infant Mortality in the United States · [DOI](https://doi.org/10.2307/3005972)
 
 ## 1998
 
@@ -2928,6 +2931,7 @@
 - A Contextual Analysis of Black Self-Employment in Large Metropolitan Areas, 1970-1980 · [DOI](https://doi.org/10.2307/2580246)
 - Gender and Small Business Success: An Inquiry into Women's Relative Disadvantage · [DOI](https://doi.org/10.2307/2580062)
 - Ethnic Entrepreneurs: Immigrant Business in Industrial Societies. By Roger Waldinger, Howard Aldrich, and Robin Ward. Sage Publications, 1990. 226 pp. Cloth, $35.00; paper, $16.95 · [DOI](https://doi.org/10.1093/sf/69.3.925)
+- An Eye for an Eye? A Note on the Southern Subculture of Violence Thesis · [DOI](https://doi.org/10.2307/2579310)
 
 ## 1990
 
@@ -2941,6 +2945,7 @@
 
 - Household Characteristics, Neighborhood Composition and Victimization Risk · [DOI](https://doi.org/10.2307/2579263)
 - The Effects of Children on Adults' Psychological Well-Being: 1957-1976 · [DOI](https://doi.org/10.2307/2579223)
+- A Theory of Social Interaction. · [DOI](https://doi.org/10.2307/2579266)
 
 ## 1988
 
@@ -2989,6 +2994,7 @@
 
 - Enduring Effects of Military Service? Opinion Differences between U.S. Veterans and Nonveterans · [DOI](https://doi.org/10.2307/2577356)
 - Gender Advertisements. · [DOI](https://doi.org/10.2307/2577822)
+- A Pseudomodel of the Small World Problem · [DOI](https://doi.org/10.2307/2577602)
 
 ## 1978
 
@@ -3035,6 +3041,10 @@
 - A Critical Examination of the Designation of Standard Metropolitan Statistical Areas · [DOI](https://doi.org/10.2307/2574651)
 - Life-Style Differences Among Urban and Suburban Blue-Collar Families · [DOI](https://doi.org/10.2307/2574652)
 
+## 1969
+
+- "Symbolic Bureaucracy": A Case Study of a Social Welfare Agency · [DOI](https://doi.org/10.2307/2574530)
+
 ## 1968
 
 - THE DISCOVERY OF GROUNDED THEORY: STRATEGIES FOR QUALITATIVE RESEARCH. By Barney G. Glaser and Anselm L. Strauss. Chicago: Aldine Publishing Company, 1967. 271 pp. $6.75 · [DOI](https://doi.org/10.1093/sf/46.4.555)
@@ -3054,6 +3064,10 @@
 
 - Society and the Adolescent Self-Image. · [DOI](https://doi.org/10.2307/2575639)
 - ALIENATION AND FREEDOM : THE FACTORY WORKER AND HIS INDUSTRY. By Robert Blauner. Chicago: The University of Chicago Press, 1964. 222 pp. Illustrated. $7.50 · [DOI](https://doi.org/10.2307/2574777)
+
+## 1962
+
+- Urbanization, the Extended Family, and Kinship Ties in West Africa · [DOI](https://doi.org/10.2307/2572913)
 
 ## 1960
 
@@ -3087,6 +3101,7 @@
 ## 1953
 
 - Toward a Sociology of Language · [DOI](https://doi.org/10.2307/2573708)
+- Perceptual Obstacles to Class Consciousness · [DOI](https://doi.org/10.2307/2572853)
 
 ## 1950
 

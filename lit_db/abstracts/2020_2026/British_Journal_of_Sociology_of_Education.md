@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **473** 篇
+共 **480** 篇
 
 ---
 
@@ -138,6 +138,41 @@
 ### ‘Do you want to be a bully?’ Critical school textbook analysis on friendship and bullying
 **年份**: 2026 | **DOI**: [10.1080/01425692.2026.2668489](https://doi.org/10.1080/01425692.2026.2668489)
 **作者**: Puutio, Eveliina; Väisänen, Anne-Mari; Lanas, Maija
+**摘要**: （暂无）
+
+### Against School: Thinking Education Differently
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2615545](https://doi.org/10.1080/01425692.2026.2615545)
+**作者**: Jones, Ken
+**摘要**: （暂无）
+
+### The ‘grammar’ of justice: how do governing boards advance social justice for racially minoritised learners?
+**年份**: 2026 | **DOI**: [10.1080/01425692.2025.2609180](https://doi.org/10.1080/01425692.2025.2609180)
+**作者**: Pennacchia, Jodie; Bathmaker, Ann-Marie
+**摘要**: （暂无）
+
+### Diluting exclusivity? The prevalence and distribution of bursaries and scholarships for Britain’s private schools
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2664720](https://doi.org/10.1080/01425692.2026.2664720)
+**作者**: Green, Francis; Henseke, Golo; Lee, Sangwoo 等4人
+**摘要**: （暂无）
+
+### Conservative peripheral societies and the acquisition of higher education: multidimensional marginality
+**年份**: 2026 | **DOI**: [10.1080/01425692.2025.2609174](https://doi.org/10.1080/01425692.2025.2609174)
+**作者**: Agur-Cohen, Kineret; Kalagy, Tehila
+**摘要**: （暂无）
+
+### Post-schooling the elite: spaceX, cognitive platforming and educational abstraction
+**年份**: 2026 | **DOI**: [10.1080/01425692.2025.2609177](https://doi.org/10.1080/01425692.2025.2609177)
+**作者**: Leaton Gray, Sandra; Scott, David
+**摘要**: （暂无）
+
+### Fighting for funding, working-class women’s transitions to sociology doctoral education: ‘significant academic others’, economic and social capital
+**年份**: 2026 | **DOI**: [10.1080/01425692.2025.2608321](https://doi.org/10.1080/01425692.2025.2608321)
+**作者**: Rowell, Carli Ria
+**摘要**: （暂无）
+
+### Being a ‘good’ citizen: white collegiality and academic citizenship
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2674680](https://doi.org/10.1080/01425692.2026.2674680)
+**作者**: Bhopal, Kalwant; Myers, Martin
 **摘要**: （暂无）
 
 ### Numerical diversity only? The case of academic preparatory programs for the Negev Bedouin in Israel

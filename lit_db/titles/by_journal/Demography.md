@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **1979** 篇 | 年份范围：1964–2026
+共 **1981** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2005,6 +2005,7 @@
 - Religious involvement and U.S. adult mortality · [DOI](https://doi.org/10.2307/2648114)
 - Shifting family definitions: The effect of cohabitation and other nonfamily household relationships on measures of poverty · [DOI](https://doi.org/10.2307/2648055)
 - The educational attainment of young women: Role model effects of female high school faculty · [DOI](https://doi.org/10.2307/2648107)
+- Rectangularization revisited: Variability of age at death within human populations* · [DOI](https://doi.org/10.2307/2648085)
 
 ## 1998
 
@@ -2023,6 +2024,7 @@
 ## 1996
 
 - Geographic mobility of scientists: Sex differences and family constraints · [DOI](https://doi.org/10.2307/2061780)
+- The effect of the sex composition of jobs on starting wages in an organization: Findings from the NLSY · [DOI](https://doi.org/10.2307/2061784)
 
 ## 1995
 

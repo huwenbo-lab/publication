@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **1060** 篇 | 年份范围：1976–2026
+共 **1066** 篇 | 年份范围：1976–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -14,6 +14,7 @@
 - The End of an Era: The Vanishing Negative Effect of Women's Employment on Fertility · [DOI](https://doi.org/10.1111/padr.70053)
 - Revisiting the Relationship between Marriage and Childbearing in East Asia: The Role of Fertility Desires in Japan · [DOI](https://doi.org/10.1111/padr.70050)
 - A Global Perspective on Trends in the Use of Withdrawal and Periodic Abstinence for Pregnancy Prevention · [DOI](https://doi.org/10.1111/padr.70063)
+- Health Influences on Second‐ and Third‐Birth Probabilities in Norway · [DOI](https://doi.org/10.1111/padr.70066)
 
 ## 2025
 
@@ -1049,6 +1050,7 @@
 - Urban Growth in Developing Countries: A Review of Projections and Predictions · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00757.x)
 - Measuring Women's Work in Developing Countries · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00543.x)
 - How Influential Are Demography Journals? · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00229.x)
+- The Bangladesh Fertility Decline: An Interpretation · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00067.x)
 
 ## 1998
 
@@ -1063,6 +1065,7 @@
 - Reproductive Mishaps and Western Contraception: An African Challenge to Fertility Theory · [DOI](https://doi.org/10.2307/2808121)
 - International Migration 1965-96: An Overview · [DOI](https://doi.org/10.2307/2808151)
 - Immigration Policy Prior to the 1930s: Labor Markets, Policy Interactions, and Globalization Backlash · [DOI](https://doi.org/10.2307/2808023)
+- Divergence of Marriage Patterns in Quebec and Elsewhere in Canada · [DOI](https://doi.org/10.2307/2807978)
 
 ## 1997
 
@@ -1087,6 +1090,7 @@
 - Mortality, Fertility, and Gender Bias in India: A District-Level Analysis · [DOI](https://doi.org/10.2307/2137773)
 - The Evolutionary Demography of the Fertility-Mortality Quasi-Equilibrium · [DOI](https://doi.org/10.2307/2137752)
 - Fertility, Dimensions of Patriarchy, and Development in India · [DOI](https://doi.org/10.2307/2137495)
+- The CIA on Global Humanitarian Emergencies · [DOI](https://doi.org/10.2307/2137798)
 
 ## 1994
 
@@ -1116,6 +1120,7 @@
 - M. K. Bennett on Population and Food Supply · [DOI](https://doi.org/10.2307/1973684)
 - The Development Dictionary: A Guide to Knowledge as Power. · [DOI](https://doi.org/10.2307/1971880)
 - Jacques Cousteau on the Demographic Implications of Man's Divorce from Nature · [DOI](https://doi.org/10.2307/1973776)
+- Patterns and Trends of International Migration in Western Europe · [DOI](https://doi.org/10.2307/1973654)
 
 ## 1991
 
@@ -1188,6 +1193,7 @@
 ## 1981
 
 - Sex Bias in the Family Allocation of Food and Health Care in Rural Bangladesh · [DOI](https://doi.org/10.2307/1972764)
+- Population Trends, Population Policy, and Population Studies in China · [DOI](https://doi.org/10.2307/1972766)
 
 ## 1980
 

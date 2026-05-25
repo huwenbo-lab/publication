@@ -1,6 +1,6 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1798** 篇 | 年份范围：1950–2026
+共 **1811** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -21,6 +21,10 @@
 - The Worldviews of Elites: Differences Between Inheritors and Newcomers · [DOI](https://doi.org/10.1111/1468-4446.70122)
 - Cruel and Usual: Recursive Racial Cruelty at the US Immigration Courts · [DOI](https://doi.org/10.1111/1468-4446.70120)
 - More Productive Bodies Faster! Human Capital and Anti‐Intellectualism in Danish University Reform · [DOI](https://doi.org/10.1111/1468-4446.70129)
+- Cultural and Human Capital Signals in Hiring—A Factorial Survey Experiment Across Contexts · [DOI](https://doi.org/10.1111/1468-4446.70125)
+- De(‐)Meaning Anti‐Racism · [DOI](https://doi.org/10.1111/1468-4446.70130)
+- The Negotiation of Intergenerational Support for Housing: Diverging Patterns Among Renters and Homeowners · [DOI](https://doi.org/10.1111/1468-4446.70131)
+- Unequal Family Ties, Wealth Transmission and Social Mobility Among Congolese Traders in Kinshasa · [DOI](https://doi.org/10.1111/1468-4446.70132)
 
 ## 2025
 
@@ -541,6 +545,7 @@
 - Science or liberal arts? Cultural capital and college major choice in China · [DOI](https://doi.org/10.1111/1468-4446.12342)
 - Omnivorousness and openness: comments to Tak Wing Chan · [DOI](https://doi.org/10.1111/1468-4446.12653)
 - On culture and inequality: distinction, omnivorousness, status and class · [DOI](https://doi.org/10.1111/1468-4446.12678)
+- Cultural narratives and their social supports, or: sociology as a team sport · [DOI](https://doi.org/10.1111/1468-4446.12666)
 
 ## 2018
 
@@ -1798,6 +1803,7 @@
 - Class voting, social change, and the left in Australia, 1943–961 · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00609.x)
 - Social mobility and personal satisfaction: evidence from ten countries* · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00028.x)
 - The barbarism of civilization: cultural genocide and the ‘stolen generations’1 · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00297.x)
+- Towards an embodied understanding of the structure / agency relationship · [DOI](https://doi.org/10.1080/000713199358527)
 
 ## 1998
 
@@ -1814,6 +1820,8 @@
 - The Late-Modern City as a Bazaar: Drug Markets, Illegal Enterprise and the 'Barricades' · [DOI](https://doi.org/10.2307/591910)
 - Politics and the Struggle to Define: A Discourse Analysis of the Framing Strategies of Competing Actors in a 'New' Participatory Forum · [DOI](https://doi.org/10.2307/591142)
 - Becoming a Young Parent: A Longitudinal Study of Associated Factors · [DOI](https://doi.org/10.2307/591138)
+- Contingent Ties: Undercover Drug Officers' Use of Informants · [DOI](https://doi.org/10.2307/591909)
+- The Risk Society in an Age of Anxiety: Situating Fear of Crime · [DOI](https://doi.org/10.2307/591751)
 
 ## 1996
 
@@ -1903,6 +1911,7 @@
 - The Housing Decisions of Young People · [DOI](https://doi.org/10.2307/589449)
 - Sociological Paradigms and Organizational Analysis: Elements of the Sociology of Corporate Life · [DOI](https://doi.org/10.2307/589304)
 - The Nobel Scientists and the Origins of Scientific Achievement · [DOI](https://doi.org/10.2307/589284)
+- Immanent Critique as the Core of Critical Theory: Its Origins and Developments in Hegel, Marx and Contemporary Thought · [DOI](https://doi.org/10.2307/589281)
 
 ## 1980
 
@@ -1913,6 +1922,10 @@
 - Intergenerational Class Mobility in Three Western European Societies: England, France and Sweden · [DOI](https://doi.org/10.2307/589632)
 - Ideological Social Relations in Northern Ireland · [DOI](https://doi.org/10.2307/589501)
 - Strikes, Industrial Relations and Class Conflict in Capitalist Societies · [DOI](https://doi.org/10.2307/589523)
+
+## 1978
+
+- Forms of Tenure and Social Structure: A Comparison of Owning and Renting in Australia and Sweden · [DOI](https://doi.org/10.2307/589218)
 
 ## 1977
 
@@ -1934,10 +1947,12 @@
 
 - The Methodological Implications of Symbolic Interactionism for the Study of Deviance · [DOI](https://doi.org/10.2307/589394)
 - Modes and Types of Political Alienation · [DOI](https://doi.org/10.2307/590156)
+- The Manufacture of News: Deviants, Social Problems and the Mass Media · [DOI](https://doi.org/10.2307/589323)
 
 ## 1972
 
 - Dialectical Sociology: Toward a Resolution of the Current 'Crisis' in Western Sociology · [DOI](https://doi.org/10.2307/589076)
+- Some Anthropological Concepts of 'Crime': The Hobhouse Memorial Lecture · [DOI](https://doi.org/10.2307/588319)
 
 ## 1970
 
@@ -1982,6 +1997,10 @@
 
 - Sociology and Social Policy · [DOI](https://doi.org/10.2307/587367)
 - Social Conflict and the Theory of Social Change · [DOI](https://doi.org/10.2307/586859)
+
+## 1956
+
+- Indians in East Africa: A Study in a Plural Society · [DOI](https://doi.org/10.2307/587991)
 
 ## 1955
 

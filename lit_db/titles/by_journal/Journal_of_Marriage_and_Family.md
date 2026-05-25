@@ -1,6 +1,6 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2531** 篇 | 年份范围：1965–2026
+共 **2539** 篇 | 年份范围：1965–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -10,6 +10,8 @@
 - The Socioeconomic Gradient in Joint Physical Custody: A Comparison of 32 Countries · [DOI](https://doi.org/10.1111/jomf.70056)
 - Couple Mobility and Employment Patterns. A Gender Perspective in Six European Countries · [DOI](https://doi.org/10.1111/jomf.70063)
 - Life Course Changes in the Geographical Distance Between Adult Children of Immigrants and Their Parents: The Role of Partnership Formation and Dissolution · [DOI](https://doi.org/10.1111/jomf.70074)
+- Attractiveness for Status? The Link Between Physical Attractiveness and Male Refugees' Romantic Relationships in Germany · [DOI](https://doi.org/10.1111/jomf.70085)
+- Early Labor Market Outcomes of Young Adults From Same‐Sex Families: Evidence From Population Data · [DOI](https://doi.org/10.1111/jomf.70079)
 
 ## 2025
 
@@ -2540,6 +2542,7 @@
 - Gender, Status, and Domestic Violence: An Integration of Feminist and Family Violence Approaches · [DOI](https://doi.org/10.2307/353952)
 - Effectiveness of Prevention Programs for Adolescent Pregnancy: A Meta-Analysis · [DOI](https://doi.org/10.2307/353945)
 - What Did You Do Today? Children's Use of Time, Family Composition, and the Acquisition of Social Capital · [DOI](https://doi.org/10.2307/353474)
+- Parents' Socioemotional Investment in Children · [DOI](https://doi.org/10.2307/353663)
 
 ## 1996
 
@@ -2548,6 +2551,7 @@
 - The Life Course of Children Born to Unmarried Mothers: Childhood Living Arrangements and Young Adult Outcomes · [DOI](https://doi.org/10.2307/353496)
 - Too Much of a Good Thing? Intergenerational Social Support and the Psychological Well-Being of Older Parents · [DOI](https://doi.org/10.2307/353984)
 - Stress as a Driver of the Allocation of Housework · [DOI](https://doi.org/10.2307/353509)
+- An Examination of Parent-Child Shared Time · [DOI](https://doi.org/10.2307/353391)
 
 ## 1995
 
@@ -2619,6 +2623,7 @@
 - Determinants of Fathers' Participation in Family Work · [DOI](https://doi.org/10.2307/352667)
 - Family Processes in One-Parent, Stepparent, and Intact Families: The Child's Point of View · [DOI](https://doi.org/10.2307/352303)
 - Income Change, Parental Life Outlook, and Adolescent Expectations for Job Success · [DOI](https://doi.org/10.2307/352678)
+- The Effect of Stressful Life Events and Transitions on Family Functioning and Well-Being · [DOI](https://doi.org/10.2307/351979)
 
 ## 1986
 
@@ -2633,6 +2638,7 @@
 - The Intergenerational Transmission of Marital Aggression · [DOI](https://doi.org/10.2307/351858)
 - Agreement, Understanding, Realization, and Feeling Understood as Predictors of Communicative Satisfaction in Marital Dyads · [DOI](https://doi.org/10.2307/352540)
 - The Social and Demographic Correlates of Divorce and Separation in the United States: An Update and Reconsideration · [DOI](https://doi.org/10.2307/352598)
+- WASP (Wives as Senior Partners) · [DOI](https://doi.org/10.2307/352534)
 
 ## 1983
 
@@ -2640,6 +2646,7 @@
 - A Family Life-Cycle Approach to the Socioeconomic Attainment of Working Women · [DOI](https://doi.org/10.2307/351511)
 - CHIP. Coping Health Inventory for Parents: An Assessment of Parental Coping Patterns in the Care of the Chronically Ill Child · [DOI](https://doi.org/10.2307/351514)
 - Mothers and Mothers-in-Law · [DOI](https://doi.org/10.2307/351307)
+- Social Support and Adaptation to Widowhood · [DOI](https://doi.org/10.2307/351795)
 
 ## 1982
 
@@ -2667,6 +2674,7 @@
 
 - A Clarification of the Concept of Psychological Father Presence in Families Experiencing Ambiguity of Boundary · [DOI](https://doi.org/10.2307/351070)
 - Updating the Life Cycle of the Family · [DOI](https://doi.org/10.2307/351058)
+- Do Family Ties Reduce Mortality? Evidence from the United States, 1966-1968 · [DOI](https://doi.org/10.2307/350478)
 
 ## 1976
 

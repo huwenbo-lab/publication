@@ -1,7 +1,7 @@
 # Social Forces
 ## 2020–2026 年文章（含摘要）
 
-共 **505** 篇
+共 **507** 篇
 
 ---
 
@@ -54,6 +54,11 @@
 **年份**: 2026 | **DOI**: [10.1093/sf/soag048](https://doi.org/10.1093/sf/soag048)
 **作者**: Ciordia, Alejandro; Portos, Martín
 **摘要**: Abstract One crucial decision that every group of protesters needs to make concerns the forms of action through which they want to convey their claims. While repertoires of contention can vary greatly across different sociopolitical contexts, we know little about why some protest forms may acquire o…
+
+### Do occupations confer equal prestige on female and male incumbents?
+**年份**: 2026 | **DOI**: [10.1093/sf/soag054](https://doi.org/10.1093/sf/soag054)
+**作者**: Hamjediers, Maik; Geissler, Ferdinand; Giesecke, Johannes 等4人
+**摘要**: Abstract While common measures of occupational prestige target shared beliefs about occupations at the aggregate level, little is known about whether these apply equally across potentially different incumbents of the same occupation.…
 
 ### Financialization and unintended emission reductions: evidence from the OECD, 1995-2020
 **年份**: 2025 | **DOI**: [10.1093/sf/soaf220](https://doi.org/10.1093/sf/soaf220)
@@ -2528,4 +2533,9 @@
 ### Fearing the Black Body: The Racial Origins of Fat Phobia
 **年份**: 2020 | **DOI**: [10.1093/sf/soz161](https://doi.org/10.1093/sf/soz161)
 **作者**: Strings, Sabrina
+**摘要**: （暂无）
+
+### The Overworked Consumer: Self-Checkouts, Supermarkets, and the Do-it-Yourself Economy
+**年份**: 2020 | **DOI**: [10.1093/sf/soz168](https://doi.org/10.1093/sf/soz168)
+**作者**: Andrews, Christopher K
 **摘要**: （暂无）

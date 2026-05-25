@@ -1,6 +1,6 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **584** 篇 | 年份范围：1975–2026
+共 **594** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -11,6 +11,7 @@
 - Sending Money Home: Understanding the Social Dynamics of Migrant Remittances · [DOI](https://doi.org/10.1146/annurev-soc-031324-111448)
 - Luck and Predictability in the Life Course · [DOI](https://doi.org/10.1146/annurev-soc-031324-115112)
 - The Architecture of Global Capital: Elites, States, and the New Geography of Wealth · [DOI](https://doi.org/10.1146/annurev-soc-031524-105759)
+- Qualitative Research in an Era of Artificial Intelligence: A Pragmatic Approach to Data Analysis, Workflow, and Computation · [DOI](https://doi.org/10.1146/annurev-soc-011824-104836)
 
 ## 2025
 
@@ -78,6 +79,7 @@
 - Democracy in the Global South · [DOI](https://doi.org/10.1146/annurev-soc-030320-123449)
 - Families in Latin America: Trends, Singularities, and Contextual Factors · [DOI](https://doi.org/10.1146/annurev-soc-030420-015156)
 - Reproducibility in the Social Sciences · [DOI](https://doi.org/10.1146/annurev-soc-090221-035954)
+- Measuring Women's Empowerment in the Global South · [DOI](https://doi.org/10.1146/annurev-soc-030420-015018)
 
 ## 2021
 
@@ -599,6 +601,8 @@
 - Computerization of the Workplace · [DOI](https://doi.org/10.1146/annurev.soc.24.1.141)
 - Diffusion in Organizations and Social Movements: From Hybrid Corn to Poison Pills · [DOI](https://doi.org/10.1146/annurev.soc.24.1.265)
 - Sociological Work in Japan · [DOI](https://doi.org/10.1146/annurev.soc.24.1.499)
+- Using Computers to Analyze Ethnographic Field Data: Theoretical and Practical Considerations · [DOI](https://doi.org/10.1146/annurev.soc.24.1.477)
+- Measuring Meaning Structures · [DOI](https://doi.org/10.1146/annurev.soc.24.1.345)
 
 ## 1997
 
@@ -631,6 +635,7 @@
 - Aging and Generational Relations: A Historical and Life Course Perspective · [DOI](https://doi.org/10.1146/annurev.so.20.080194.002253)
 - Multilevel Models: Methods and Substance · [DOI](https://doi.org/10.1146/annurev.so.20.080194.001555)
 - Religion and Political Legitimation · [DOI](https://doi.org/10.1146/annurev.so.20.080194.001133)
+- Women, Family and Class · [DOI](https://doi.org/10.1146/annurev.so.20.080194.000331)
 
 ## 1993
 
@@ -662,6 +667,8 @@
 - Role Change · [DOI](https://doi.org/10.1146/annurev.so.16.080190.000511)
 - Peasants and Proletarians · [DOI](https://doi.org/10.1146/annurev.so.16.080190.002033)
 - The Risks of Reproductive Impairment in the Later Years of Childbearing · [DOI](https://doi.org/10.1146/annurev.so.16.080190.002423)
+- The Sociology of Nonprofit Organizations and Sectors · [DOI](https://doi.org/10.1146/annurev.so.16.080190.001033)
+- Ethnicity and Entrepreneurship · [DOI](https://doi.org/10.1146/annurev.so.16.080190.000551)
 
 ## 1989
 
@@ -669,12 +676,14 @@
 - Gender and Social Reproduction: Historical Perspectives · [DOI](https://doi.org/10.1146/annurev.so.15.080189.002121)
 - The Sociology of Emotions · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001533)
 - Immigration and Urban Change · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001235)
+- Internal Labor Markets · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001043)
 
 ## 1988
 
 - Organizational Learning · [DOI](https://doi.org/10.1146/annurev.soc.14.1.319)
 - Energy and Society · [DOI](https://doi.org/10.1146/annurev.so.14.080188.001053)
 - Soviet Sociology and Sociology in the Soviet Union · [DOI](https://doi.org/10.1146/annurev.so.14.080188.000531)
+- Evaluating Work and Comparable Worth · [DOI](https://doi.org/10.1146/annurev.so.14.080188.001303)
 
 ## 1987
 
@@ -711,6 +720,10 @@
 
 - Organizational Performance: Recent Developments in Measurement · [DOI](https://doi.org/10.1146/annurev.so.07.080181.001541)
 - Self-Help and Mutual Aid: An Emerging Social Movement? · [DOI](https://doi.org/10.1146/annurev.so.07.080181.001021)
+
+## 1980
+
+- The Sociology of Housing · [DOI](https://doi.org/10.1146/annurev.so.06.080180.002325)
 
 ## 1979
 

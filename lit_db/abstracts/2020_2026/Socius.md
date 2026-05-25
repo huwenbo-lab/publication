@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **732** 篇
+共 **734** 篇
 
 ---
 
@@ -149,6 +149,16 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231261444056](https://doi.org/10.1177/23780231261444056)
 **作者**: Prince, Tryce
 **摘要**: Conspiracy theorists, self-identified Christian nationalists, or conservative activists are often depicted as the faces of pro-Christian social movements in the United States. Often overlooked is the role of local churches that till the ideological ground for the seeds of once fringe social movement…
+
+### Rights of Nature in the United States: An Empirical Analysis of Local Legal Adoption
+**年份**: 2026 | **DOI**: [10.1177/23780231261446748](https://doi.org/10.1177/23780231261446748)
+**作者**: Sindoni, Raffaele; Bryant, Jesse Callahan
+**摘要**: The authors present the first comprehensive empirical analysis of rights of nature (RoN) adoption in the United States, a globally growing legal movement asserting that rivers, forests, and ecosystems should be holders of rights.…
+
+### Keys to the Future: How Gender and Sexuality Jointly Shape Parental Financial Support for Home Ownership
+**年份**: 2026 | **DOI**: [10.1177/23780231261450330](https://doi.org/10.1177/23780231261450330)
+**作者**: Wang, Yiwen; Alexander, Katherine; Wolski, Caroline 等5人
+**摘要**: Homeownership is a key marker of economic stability, yet rising housing costs have made it increasingly difficult for young adults to purchase homes. Parental financial transfers can help offset these barriers, but such support is unevenly distributed across social groups.…
 
 ### Gender Egalitarianism and Marital Dissolution: Understanding the Bifurcation of the “Gender Revolution” in the United States
 **年份**: 2025 | **DOI**: [10.1177/23780231251372790](https://doi.org/10.1177/23780231251372790)

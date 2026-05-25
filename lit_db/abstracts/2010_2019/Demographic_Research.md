@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2010–2019 年文章（含摘要）
 
-共 **891** 篇
+共 **892** 篇
 
 ---
 
@@ -1064,6 +1064,11 @@
 **年份**: 2018 | **DOI**: [10.4054/demres.2018.38.24](https://doi.org/10.4054/demres.2018.38.24)
 **作者**: Mollborn, Stefanie; Woo, Juhee; Rogers, Richard G.
 **摘要**: BACKGROUND Teenage motherhood and smoking have important health implications for youth in the United States and globally, but the link between teen childbearing and subsequent smoking is inadequately understood.…
+
+### Using census data to measure maternal mortality: A review of recent experience
+**年份**: 2018 | **DOI**: [10.4054/demres.2018.39.11](https://doi.org/10.4054/demres.2018.39.11)
+**作者**: Hill, Kenneth; Johnson, Peter; Singh, Kavita 等5人
+**摘要**: （暂无）
 
 ### Differences in leaving home by individual and parental education among young adults in Europe
 **年份**: 2017 | **DOI**: [10.4054/DemRes.2017.37.63](https://doi.org/10.4054/DemRes.2017.37.63)

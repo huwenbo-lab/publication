@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2020–2026 年文章（含摘要）
 
-共 **534** 篇
+共 **535** 篇
 
 ---
 
@@ -133,6 +133,11 @@
 ### A Schumpeter hotel? Surname status inequality and persistence in Sweden, 1880–2015
 **年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103367](https://doi.org/10.1016/j.ssresearch.2026.103367)
 **作者**: Dalman, Elien; Dribe, Martin; Eriksson, Björn
+**摘要**: （暂无）
+
+### Corrigendum to “Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024” [Soc. Sci. Res. 136C (2026) 103347]
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103373](https://doi.org/10.1016/j.ssresearch.2026.103373)
+**作者**: Lee, Hyo Joo
 **摘要**: （暂无）
 
 ### Who do they think you are? Inconsistencies in self-and proxy-reports of education within families

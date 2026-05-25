@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **278** 篇
+共 **279** 篇
 
 ---
 
@@ -39,6 +39,11 @@
 **年份**: 2026 | **DOI**: [10.1111/padr.70063](https://doi.org/10.1111/padr.70063)
 **作者**: Kantorová, Vladimíra; Corker, Jamaica; Molitoris, Joseph 等5人
 **摘要**: Abstract Periodic abstinence and withdrawal (the dominant methods in the “traditional methods” category) have been used to prevent pregnancy in both historical and contemporary contexts and, in some countries, continue to be used despite increased availability and use of modern methods.…
+
+### Health Influences on Second‐ and Third‐Birth Probabilities in Norway
+**年份**: 2026 | **DOI**: [10.1111/padr.70066](https://doi.org/10.1111/padr.70066)
+**作者**: Kravdal, Øystein; Grundy, Emily; Hart, Rannveig K.
+**摘要**: Abstract We examined how several health variables were associated with mothers’ probability of having a second or third child and the timing of the second birth. Data from the Norwegian Mother, Father and Child Cohort Study (MoBa) and linked registers were used.…
 
 ### The Impact of Migration on Age Structure Conducive to Human Development Across the Urban Hierarchy
 **年份**: 2025 | **DOI**: [10.1111/padr.70033](https://doi.org/10.1111/padr.70033)

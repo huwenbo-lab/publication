@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **340** 篇
+共 **341** 篇
 
 ---
 
@@ -1353,6 +1353,11 @@
 ### Interpretation and Social Knowledge: On the Use of Theory in the Human Sciences. By Isaac Ariail Reed. Chicago: University of Chicago Press, 2011. Pp. x+194. $20.00 (paper).
 **年份**: 2012 | **DOI**: [10.1086/666312](https://doi.org/10.1086/666312)
 **作者**: Lizardo, Omar
+**摘要**: （暂无）
+
+### Exposing the Myth of Sexual Aversion in the Israeli Kibbutzim: A Challenge to the Westermarck Hypothesis
+**年份**: 2012 | **DOI**: [10.1086/665522](https://doi.org/10.1086/665522)
+**作者**: Shor, Eran; Simchai, Dalit
 **摘要**: （暂无）
 
 ### Educational Assortative Mating and Earnings Inequality in the United States

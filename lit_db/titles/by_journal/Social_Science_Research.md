@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2209** 篇 | 年份范围：1972–2026
+共 **2210** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -33,6 +33,7 @@
 - Gendered work and family trajectories: How do STEM graduates fare in the labor market? · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103345)
 - Employment stability and social origin: Cumulative advantages in young adults’ homeownership and financial asset accumulation · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103369)
 - A Schumpeter hotel? Surname status inequality and persistence in Sweden, 1880–2015 · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103367)
+- Corrigendum to “Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024” [Soc. Sci. Res. 136C (2026) 103347] · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103373)
 
 ## 2025
 

@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2020–2026 年文章（含摘要）
 
-共 **372** 篇
+共 **373** 篇
 
 ---
 
@@ -83,6 +83,11 @@
 ### Is a liberal school-to-work system more ‘meritocratic’? Overeducation, social origin, and early career mobility in Germany and the United Kingdom
 **年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101146](https://doi.org/10.1016/j.rssm.2026.101146)
 **作者**: Michelin, Irene; Gioachin, Filippo; Barbieri, Paolo
+**摘要**: （暂无）
+
+### Occupational Gender Composition is Related to Occupational Wages: Causal Evidence from a Survey Experiment Investigating Occupational Devaluation
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101161](https://doi.org/10.1016/j.rssm.2026.101161)
+**作者**: Taylor, Catherine J.; Salim, Safa; Levanon, Asaf 等5人
 **摘要**: （暂无）
 
 ### Inequalities in early childhood education and care by immigrant background

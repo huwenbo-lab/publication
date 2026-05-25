@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1824** 篇 | 年份范围：1999–2026
+共 **1825** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -746,6 +746,7 @@
 - Still under the ancestors' shadow? Ancestor worship and family formation in contemporary China · [DOI](https://doi.org/10.4054/DemRes.2018.38.1)
 - Polygynous marriage and child health in sub-Saharan Africa: What is the evidence for harm? · [DOI](https://doi.org/10.4054/demres.2018.39.6)
 - A longitudinal examination of US teen childbearing and smoking risk · [DOI](https://doi.org/10.4054/demres.2018.38.24)
+- Using census data to measure maternal mortality: A review of recent experience · [DOI](https://doi.org/10.4054/demres.2018.39.11)
 
 ## 2017
 

@@ -1,6 +1,6 @@
 # American Sociological Review — 文章标题索引
 
-共 **1170** 篇 | 年份范围：1940–2026
+共 **1175** 篇 | 年份范围：1940–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1134,6 +1134,7 @@
 - The Social Geography of Interstate Mobility and Persistence · [DOI](https://doi.org/10.2307/2657304)
 - Culture and Conflict: The Portrayal of Blacks in U.S. Children's Picture Books Through the Mid- and Late-Twentieth Century · [DOI](https://doi.org/10.2307/2657315)
 - Explaining the Black-White Gap in Labor Force Participation among Women Heading Households · [DOI](https://doi.org/10.2307/2657302)
+- The Kuznets Curve and the Great U-Turn: Income Inequality in U.S. Counties, 1970 to 1990 · [DOI](https://doi.org/10.2307/2657450)
 
 ## 1996
 
@@ -1155,6 +1156,7 @@
 - Migration, Segregation, and the Geographic Concentration of Poverty · [DOI](https://doi.org/10.2307/2095942)
 - Job Transitions in an Immigrant Metropolis: Ethnic Boundaries and the Mixed Economy · [DOI](https://doi.org/10.2307/2096372)
 - Does Economic Growth Benefit the Masses? Growth, Dependence, and Welfare in the Third World · [DOI](https://doi.org/10.2307/2096441)
+- Why Social Movement Sympathizers Don't Participate: Erosion and Nonconversion of Support · [DOI](https://doi.org/10.2307/2096444)
 
 ## 1993
 
@@ -1251,6 +1253,7 @@
 - Income Inequality in the Federal Civilian Government · [DOI](https://doi.org/10.2307/2094887)
 - Entry into Early Adolescence: The Impact of School Structure, Puberty, and Early Dating on Self-Esteem · [DOI](https://doi.org/10.2307/2094719)
 - A Study of the Behavior of Law · [DOI](https://doi.org/10.2307/2094813)
+- Effects of Socioeconomic Factors on the Residential Segregation of Blacks and Spanish Americans in U.S. Urbanized Areas · [DOI](https://doi.org/10.2307/2094723)
 
 ## 1978
 
@@ -1330,6 +1333,7 @@
 ## 1961
 
 - Delinquency and Opportunity: A Theory of Delinquent Gangs. · [DOI](https://doi.org/10.2307/2090685)
+- Cultural Uniformity in Reaction to Physical Disabilities · [DOI](https://doi.org/10.2307/2089861)
 
 ## 1960
 
@@ -1365,6 +1369,10 @@
 - The Function and Meaning of Work and the Job · [DOI](https://doi.org/10.2307/2088325)
 - Participation of Migrants in Urban Structures · [DOI](https://doi.org/10.2307/2088329)
 - Role Differentiation in Small Groups · [DOI](https://doi.org/10.2307/2087389)
+
+## 1954
+
+- An Experiment on Conformity to Group Norms Where Conformity is Detrimental to Group Achievement · [DOI](https://doi.org/10.2307/2087913)
 
 ## 1953
 

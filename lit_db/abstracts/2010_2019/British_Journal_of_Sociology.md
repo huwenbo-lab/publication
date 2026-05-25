@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **576** 篇
+共 **577** 篇
 
 ---
 
@@ -433,6 +433,11 @@
 ### On culture and inequality: distinction, omnivorousness, status and class
 **年份**: 2019 | **DOI**: [10.1111/1468-4446.12678](https://doi.org/10.1111/1468-4446.12678)
 **作者**: Laurison, Daniel
+**摘要**: （暂无）
+
+### Cultural narratives and their social supports, or: sociology as a team sport
+**年份**: 2019 | **DOI**: [10.1111/1468-4446.12666](https://doi.org/10.1111/1468-4446.12666)
+**作者**: Kuipers, Giselinde
 **摘要**: （暂无）
 
 ### Strategic ignorance and global governance: an ecumenical approach to epistemologies of global power

@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **427** 篇
+共 **431** 篇
 
 ---
 
@@ -74,6 +74,26 @@
 **年份**: 2026 | **DOI**: [10.1111/1468-4446.70129](https://doi.org/10.1111/1468-4446.70129)
 **作者**: Gøtzsche‐Astrup, Johan; Villadsen, Kaspar
 **摘要**: ABSTRACT This article examines the current Danish reform of master's programmes as a case of contested marketization in higher education. While the reform aims to produce “labour‐market‐relevant” graduates by shortening degrees, introducing corporate programmes, and reducing enrolment, it reveals a …
+
+### Cultural and Human Capital Signals in Hiring—A Factorial Survey Experiment Across Contexts
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70125](https://doi.org/10.1111/1468-4446.70125)
+**作者**: Burchartz, Luisa; De Keere, Kobe; Geven, Sara
+**摘要**: ABSTRACT When evaluating candidates, hiring agents may draw on signals of human as well as cultural capital. While these processes have been considered separately, an open question is how the two types of signals interact.…
+
+### De(‐)Meaning Anti‐Racism
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70130](https://doi.org/10.1111/1468-4446.70130)
+**作者**: Nijjar, Jasbinder S.
+**摘要**: ABSTRACT Following David Theo Goldberg's astute insights, this article discusses a form of neoliberal authoritarianism that extends incessant denial of systematic racial degradation by de(‐)meaning anti‐racism.…
+
+### The Negotiation of Intergenerational Support for Housing: Diverging Patterns Among Renters and Homeowners
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70131](https://doi.org/10.1111/1468-4446.70131)
+**作者**: Ramond, Quentin
+**摘要**: ABSTRACT Rising housing prices in major Western cities have increased the share of middle‐class households living in the private rental sector and heightened the importance of parental financial support in shaping their housing trajectories.…
+
+### Unequal Family Ties, Wealth Transmission and Social Mobility Among Congolese Traders in Kinshasa
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70132](https://doi.org/10.1111/1468-4446.70132)
+**作者**: Mesa, Héritier; Noret, Joël
+**摘要**: ABSTRACT Based on ethnographic fieldwork among Congolese traders operating in Kinshasa's urban economy, this article examines how differentiated family ties and wealth transmission shape social mobility and the intergenerational reproduction of inequality.…
 
 ### Securing Profit: Threat Production as a Mechanism of Racial Capitalism in US-Occupied Kabul
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.70065](https://doi.org/10.1111/1468-4446.70065)

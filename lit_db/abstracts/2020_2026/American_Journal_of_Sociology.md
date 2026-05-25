@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **194** 篇
+共 **195** 篇
 
 ---
 
@@ -48,6 +48,11 @@
 ### Atlantic Reconstruction: Democracy, Abolition, and the Making of Political Personhood
 **年份**: 2026 | **DOI**: [10.1086/741674](https://doi.org/10.1086/741674)
 **作者**: Hammer, Ricarda
+**摘要**: （暂无）
+
+### Deportation’s Fallout: Evidence from Denmark
+**年份**: 2026 | **DOI**: [10.1086/742317](https://doi.org/10.1086/742317)
+**作者**: Light, Michael T.; Andersen, Lars H.; Hendel, Noa
 **摘要**: （暂无）
 
 ### Wealth Begins at Home: The Housing Benefits of the 1944 GI Bill and the Reproduction of Black-White Inequality in Homeownership and Home Value

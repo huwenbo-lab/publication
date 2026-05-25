@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1689** 篇 | 年份范围：1980–2026
+共 **1697** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -34,6 +34,13 @@
 - Religion, agency, and choice in English state schools · [DOI](https://doi.org/10.1080/01425692.2026.2616654)
 - Exploring anxiety and behaviour. Agency, liminality and relational embodiment in a PRU · [DOI](https://doi.org/10.1080/01425692.2026.2664171)
 - ‘Do you want to be a bully?’ Critical school textbook analysis on friendship and bullying · [DOI](https://doi.org/10.1080/01425692.2026.2668489)
+- Against School: Thinking Education Differently · [DOI](https://doi.org/10.1080/01425692.2026.2615545)
+- The ‘grammar’ of justice: how do governing boards advance social justice for racially minoritised learners? · [DOI](https://doi.org/10.1080/01425692.2025.2609180)
+- Diluting exclusivity? The prevalence and distribution of bursaries and scholarships for Britain’s private schools · [DOI](https://doi.org/10.1080/01425692.2026.2664720)
+- Conservative peripheral societies and the acquisition of higher education: multidimensional marginality · [DOI](https://doi.org/10.1080/01425692.2025.2609174)
+- Post-schooling the elite: spaceX, cognitive platforming and educational abstraction · [DOI](https://doi.org/10.1080/01425692.2025.2609177)
+- Fighting for funding, working-class women’s transitions to sociology doctoral education: ‘significant academic others’, economic and social capital · [DOI](https://doi.org/10.1080/01425692.2025.2608321)
+- Being a ‘good’ citizen: white collegiality and academic citizenship · [DOI](https://doi.org/10.1080/01425692.2026.2674680)
 
 ## 2025
 
@@ -1776,6 +1783,7 @@
 
 - The Colonisation of Social Class in Education · [DOI](https://doi.org/10.1080/0142569940150301)
 - The Thirst for Learning, or Protecting One's Niche? The shaping of teacher training in Finland during the 19th and 20th centuries · [DOI](https://doi.org/10.1080/0142569940150405)
+- For Whom This Reform?: outlining educational policy as a social field · [DOI](https://doi.org/10.1080/0142569940150303)
 
 ## 1993
 

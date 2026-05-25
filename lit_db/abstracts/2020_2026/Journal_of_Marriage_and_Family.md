@@ -1,7 +1,7 @@
 # Journal of Marriage and Family
 ## 2020–2026 年文章（含摘要）
 
-共 **531** 篇
+共 **533** 篇
 
 ---
 
@@ -19,6 +19,16 @@
 **年份**: 2026 | **DOI**: [10.1111/jomf.70074](https://doi.org/10.1111/jomf.70074)
 **作者**: Pertzikovitz, Alon; Kalmijn, Matthijs; Das, Marjolijn 等4人
 **摘要**: ABSTRACT Objective This study explores how geographical distance between adult children of immigrants and their parents changes in response to partnership formation and partnership dissolution. Background Geographical distance between generations is a key factor in intergenerational support.…
+
+### Attractiveness for Status? The Link Between Physical Attractiveness and Male Refugees' Romantic Relationships in Germany
+**年份**: 2026 | **DOI**: [10.1111/jomf.70085](https://doi.org/10.1111/jomf.70085)
+**作者**: Kogan, Irena; Kuhlemann, Jana; Schmitt, Laura Marie
+**摘要**: ABSTRACT Objective This study examines the link between physical attractiveness and partnership outcomes among a group of young male refugees, drawing on Social Exchange Theory, which posits that individuals exchange valued traits—such as attractiveness—for higher status in other domains.…
+
+### Early Labor Market Outcomes of Young Adults From Same‐Sex Families: Evidence From Population Data
+**年份**: 2026 | **DOI**: [10.1111/jomf.70079](https://doi.org/10.1111/jomf.70079)
+**作者**: Palmaccio, Silvia; Mazrekaj, Deni; De Witte, Kristof
+**摘要**: ABSTRACT Objective This study offers the first population‐based evidence on how young adults from same‐sex families fare when entering the labor market shortly after leaving full‐time education. Background Same‐sex couples' parenting rights remain controversial in many countries.…
 
 ### Gender Norms in Transition? Parents' Housework and Childcare Time in the COVID-19 Era
 **年份**: 2025 | **DOI**: [10.1111/jomf.70053](https://doi.org/10.1111/jomf.70053)

@@ -1,6 +1,6 @@
 # Socius — 文章标题索引
 
-共 **1017** 篇 | 年份范围：2016–2026
+共 **1019** 篇 | 年份范围：2016–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -36,6 +36,8 @@
 - Visualizing the Spatial Distribution of Aging Places in the United States, 2000 to 2020 · [DOI](https://doi.org/10.1177/23780231261446047)
 - Infrastructure-Led Development: The Reciprocal Asymmetry of the Urban Growth Machine · [DOI](https://doi.org/10.1177/23780231261438909)
 - Real-Time Revisionism: How Racialized Narratives Legitimize White Christian Dominance in the United States · [DOI](https://doi.org/10.1177/23780231261444056)
+- Rights of Nature in the United States: An Empirical Analysis of Local Legal Adoption · [DOI](https://doi.org/10.1177/23780231261446748)
+- Keys to the Future: How Gender and Sexuality Jointly Shape Parental Financial Support for Home Ownership · [DOI](https://doi.org/10.1177/23780231261450330)
 
 ## 2025
 
