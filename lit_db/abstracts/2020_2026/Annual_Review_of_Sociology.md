@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **123** 篇
+共 **126** 篇
 
 ---
 
@@ -170,6 +170,16 @@
 **作者**: Haynie, Dana L.; Duxbury, Scott W.
 **摘要**: Cryptomarkets—online markets for illegal goods—have revolutionized the illegal drug trade, constituting about 10% of all drug trades and attracting users to a greater variety of and more addictive substances than available in offline drug markets.…
 
+### “Which Cases Do I Need?” Constructing Cases and Observations in Qualitative Research
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-031021-035000](https://doi.org/10.1146/annurev-soc-031021-035000)
+**作者**: Collins, Caitlyn; Neely, Megan Tobias; Khan, Shamus
+**摘要**: This methodological review starts one step before Small's classic account of how many cases a scholar needs. We ask, “Which cases do I need?” We argue that a core feature of most qualitative research is case construction, which we define as the delineation of a social category of inquiry.…
+
+### Conservatism, the Far Right, and the Environment
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-083023-035225](https://doi.org/10.1146/annurev-soc-083023-035225)
+**作者**: Bryant, Jesse Callahan; Farrell, Justin
+**摘要**: Sociology operates with an impoverished understanding of conservatism and the natural environment. The discipline's focus on antiregulatory and antiscience dimensions of conservative politics can obscure a more comprehensive, historically deep, and theoretically rich understanding of conservatism's …
+
 ### Policing, Punishment, and Place: Spatial-Contextual Analyses of the Criminal Legal System
 **年份**: 2023 | **DOI**: [10.1146/annurev-soc-031021-035328](https://doi.org/10.1146/annurev-soc-031021-035328)
 **作者**: Simes, Jessica T.; Beck, Brenden; Eason, John M.
@@ -204,6 +214,11 @@
 **年份**: 2023 | **DOI**: [10.1146/annurev-soc-030320-035037](https://doi.org/10.1146/annurev-soc-030320-035037)
 **作者**: Gauchat, Gordon W.
 **摘要**: The ongoing pandemic and quickening climate crisis make it difficult to overstate the significance of science and science policy to our world. These global catastrophes have laid bare the fragility of science's legitimacy and its dependence on broader cultural understandings and institutional norms.…
+
+### Social Consequences of Forced and Refugee Migration
+**年份**: 2023 | **DOI**: [10.1146/annurev-soc-090221-040023](https://doi.org/10.1146/annurev-soc-090221-040023)
+**作者**: Kraly, Ellen Percy; Abbasi-Shavazi, Mohammad Jalal; Torres Colón, Lorraine Lizbeth 等4人
+**摘要**: This review considers sociological perspectives and research on the outcomes and implications of forced and refugee migration for migrants and communities of settlement. Analytic constraints and opportunities posed by concepts of forced and refugee migration and migrants for empirical research are u…
 
 ### Criminal Governance and the Crisis of Contemporary Latin American States
 **年份**: 2022 | **DOI**: [10.1146/annurev-soc-030420-124931](https://doi.org/10.1146/annurev-soc-030420-124931)

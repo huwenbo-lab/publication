@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2000–2009 年文章（含摘要）
 
-共 **380** 篇
+共 **386** 篇
 
 ---
 
@@ -390,6 +390,11 @@
 **作者**: Auyero, Javier; Swistun, Debora
 **摘要**: Based on both archival research and two and a half years of ethnographic fieldwork in an Argentine shantytown with high levels of air, water, and ground contamination, this article examines the social production of environmental uncertainty.…
 
+### The Integration of Genetic Propensities into Social-Control Models of Delinquency and Violence among Male Youths
+**年份**: 2008 | **DOI**: [10.1177/000312240807300402](https://doi.org/10.1177/000312240807300402)
+**作者**: Guo, Guang; Roettger, Michael E.; Cai, Tianji
+**摘要**: This study, drawing on approximately 1,100 males from the National Longitudinal Study of Adolescent Health, demonstrates the importance of genetics, and genetic-environmental interactions, for understanding adolescent delinquency and violence.…
+
 ### Labor unions and good governance: A cross-national, comparative analysis
 **年份**: 2007 | **DOI**: [10.1177/000312240707200405](https://doi.org/10.1177/000312240707200405)
 **作者**: Lee, Cheol-Sung
@@ -584,6 +589,11 @@
 **年份**: 2007 | **DOI**: [10.1177/000312240707200505](https://doi.org/10.1177/000312240707200505)
 **作者**: Campbell, Mary E.; Troyer, Lisa
 **摘要**: We hypothesize that individuals who self-identify with one racial group but are routinely perceived by observers as looking like another racial group may experience negative outcomes associated with this stressful situation.…
+
+### Climbing the Dispute Pagoda: Grievances and Appeals to the Official Justice System in Rural China
+**年份**: 2007 | **DOI**: [10.1177/000312240707200611](https://doi.org/10.1177/000312240707200611)
+**作者**: Michelson, Ethan
+**摘要**: （暂无）
 
 ### The rise of anti-foreigner sentiment in European societies, 1988-2000
 **年份**: 2006 | **DOI**: [10.1177/000312240607100304](https://doi.org/10.1177/000312240607100304)
@@ -1300,6 +1310,21 @@
 **作者**: Baiocchi, Gianpaolo
 **摘要**: This article addresses the question of whether and how participation in government promotes the conditions for participants to engage in the open-ended and public-minded discussion heralded by democratic theorists.…
 
+### Foreign Capital Dependence and Development: A New Direction
+**年份**: 2003 | **DOI**: [10.1177/000312240306800206](https://doi.org/10.1177/000312240306800206)
+**作者**: Kentor, Jeffrey; Boswell, Terry
+**摘要**: Scholars have long debated the impact of foreign investment on the economies of less developed countries. Many argue that foreign investment is beneficial for the host economy; others argue, just as forcefully, that dependence on foreign capital is detrimental.…
+
+### Culture and Competition: Homophily and distancing Explanations for Cultural Niches
+**年份**: 2003 | **DOI**: [10.1177/000312240306800302](https://doi.org/10.1177/000312240306800302)
+**作者**: Mark, Noah P.
+**摘要**: Why do different kinds of people like different kinds of culture? Two answers to this question are formally analyzed and empirically tested: the homophily model and the distancing model.…
+
+### Structural Cohesion and Embeddedness: A Hierarchical Concept of Social Groups
+**年份**: 2003 | **DOI**: [10.2307/3088904](https://doi.org/10.2307/3088904)
+**作者**: Moody, James; White, Douglas R.
+**摘要**: （暂无）
+
 ### Democratic contraction? Political consequences of felon disenfranchisement in the United States
 **年份**: 2002 | **DOI**: [10.2307/3088970](https://doi.org/10.2307/3088970)
 **作者**: Uggen, C; Manza, J
@@ -1494,6 +1519,11 @@
 **年份**: 2002 | **DOI**: [10.1177/000312240206700605](https://doi.org/10.1177/000312240206700605)
 **作者**: Baller, Robert D.; Richardson, Kelly K.
 **摘要**: One of sociology's defining debates centers on explanations of the geographic patterning of suicide. This classic debate is revisited using techniques of spatial analysis and data for two geographies: late nineteenth-century French departments, and late twentieth-century U.S. counties.…
+
+### Does Oppositional Culture Exist in Minority and Poverty Peer Groups?
+**年份**: 2002 | **DOI**: [10.2307/3088938](https://doi.org/10.2307/3088938)
+**作者**: Farkas, George; Lleras, Christy; Maczuga, Steve
+**摘要**: （暂无）
 
 ### Youth violence and the end of adolescence
 **年份**: 2001 | **DOI**: [10.2307/3088877](https://doi.org/10.2307/3088877)

@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **126** 篇
+共 **128** 篇
 
 ---
 
@@ -64,6 +64,11 @@
 **年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-115909](https://doi.org/10.1146/annurev-soc-070308-115909)
 **作者**: Fischer, Claude S.; Mattson, Greggor
 **摘要**: The view that America is fragmenting is popular among both pundits and academics and may well be endemic to American culture. We review claims that between 1970 and 2005 American society fragmented along lines of cultural politics, social class, immigration, race, or lifestyle.…
+
+### New Directions in Life Course Research
+**年份**: 2009 | **DOI**: [10.1146/annurev.soc.34.040507.134619](https://doi.org/10.1146/annurev.soc.34.040507.134619)
+**作者**: Mayer, Karl Ulrich
+**摘要**: Life courses are studied in sociology and neighboring fields as developmental processes, as culturally and normatively constructed life stages and age roles, as biographical meanings, as aging processes, as outcomes of institutional regulation and policies, as demographic accounts, or as mere empiri…
 
 ### From Mead to a structural symbolic interactionism and beyond
 **年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134649](https://doi.org/10.1146/annurev.soc.34.040507.134649)
@@ -244,6 +249,11 @@
 **年份**: 2006 | **DOI**: [10.1146/annurev.soc.32.061604.123150](https://doi.org/10.1146/annurev.soc.32.061604.123150)
 **作者**: Mouw, Ted
 **摘要**: Although there is a large literature on social capital, empirical estimates of the effect of social capital may be biased because of social homophily, the tendency of similar people to become friends with each other.…
+
+### Law and the American State
+**年份**: 2006 | **DOI**: [10.1146/annurev.soc.32.061604.123113](https://doi.org/10.1146/annurev.soc.32.061604.123113)
+**作者**: Skrentny, John D.
+**摘要**: Although classical theories of the state and key texts of historical institutionalism and American political development (APD) defined the American state as a fundamentally legal entity, contemporary studies of the American state show a range of roles for law and courts, from no role at all, to a co…
 
 ### Doing justice to the group: Examining the roles of the group in justice research
 **年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122213](https://doi.org/10.1146/annurev.soc.31.041304.122213)

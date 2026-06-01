@@ -1,7 +1,7 @@
 # Social Forces
 ## 2020–2026 年文章（含摘要）
 
-共 **507** 篇
+共 **512** 篇
 
 ---
 
@@ -59,6 +59,26 @@
 **年份**: 2026 | **DOI**: [10.1093/sf/soag054](https://doi.org/10.1093/sf/soag054)
 **作者**: Hamjediers, Maik; Geissler, Ferdinand; Giesecke, Johannes 等4人
 **摘要**: Abstract While common measures of occupational prestige target shared beliefs about occupations at the aggregate level, little is known about whether these apply equally across potentially different incumbents of the same occupation.…
+
+### Review of “Traders, Speculators, and Captains of Industry: How Capitalist Legitimacy Shaped Foreign Investment Policy in India”
+**年份**: 2026 | **DOI**: [10.1093/sf/soag051](https://doi.org/10.1093/sf/soag051)
+**作者**: Nair, Manjusha
+**摘要**: （暂无）
+
+### Review of “Reimagining Aid: Foreign Donors, Women’s Health, and New Paths for Development in Cambodia”
+**年份**: 2026 | **DOI**: [10.1093/sf/soag056](https://doi.org/10.1093/sf/soag056)
+**作者**: DoCarmo, Tania
+**摘要**: （暂无）
+
+### The code of cohesion: adolescent network centrality, offending, and the downside of school cohesion
+**年份**: 2026 | **DOI**: [10.1093/sf/soag062](https://doi.org/10.1093/sf/soag062)
+**作者**: Pinchak, Nicolo P
+**摘要**: Abstract Paradoxical to numerous theories and policies, adolescents attending schools high in student cohesion do not reliably exhibit less involvement in offending. Coleman’s arguments about status and norms and the broader literature on adolescent networks suggest that this paradox is partially at…
+
+### Is it good to work with? Workability and the meaning of non-native species in urban policy
+**年份**: 2026 | **DOI**: [10.1093/sf/soag047](https://doi.org/10.1093/sf/soag047)
+**作者**: Bateman, Tyler J; Silver, Daniel; Eads, Alicia 等4人
+**摘要**: Abstract Research on social problems often analyzes how different groups think or act in relation to a single issue. Less frequent are studies of how a single group thinks or acts in relation to many phenomena, any of which may be construed as problematic to a greater or lesser degree.…
 
 ### Financialization and unintended emission reductions: evidence from the OECD, 1995-2020
 **年份**: 2025 | **DOI**: [10.1093/sf/soaf220](https://doi.org/10.1093/sf/soaf220)
@@ -1874,6 +1894,11 @@
 **年份**: 2022 | **DOI**: [10.1093/sf/soab009](https://doi.org/10.1093/sf/soab009)
 **作者**: Norris, Davon; Moss-Pech, Corey
 **摘要**: Diffuse status characteristics, such as race and gender, affect individuals' professional opportunities and outcomes. Scholars suggest two possible explanations for these status disparities.…
+
+### 100 Years ofSocial Forces
+**年份**: 2022 | **DOI**: [10.1093/sf/soac050](https://doi.org/10.1093/sf/soac050)
+**作者**: Kalleberg, Arne L; Newell, Abigail
+**摘要**: （暂无）
 
 ### Fear or Loathing in the United States? Public Opinion and the Rise of Racial Disparity in Mass Incarceration, 1978-2015
 **年份**: 2021 | **DOI**: [10.1093/sf/soaa112](https://doi.org/10.1093/sf/soaa112)

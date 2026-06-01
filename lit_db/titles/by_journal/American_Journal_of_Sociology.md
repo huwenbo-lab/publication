@@ -1,6 +1,6 @@
 # American Journal of Sociology — 文章标题索引
 
-共 **1034** 篇 | 年份范围：1896–2026
+共 **1053** 篇 | 年份范围：1896–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -591,6 +591,7 @@
 - Structural Folds: Generative Disruption in Overlapping Groups · [DOI](https://doi.org/10.1086/649497)
 - Leadership, Membership, and Voice: Civic Associations That Work · [DOI](https://doi.org/10.1086/649060)
 - Redistributing toward the Rich: Strategic Policy Crafting in the Campaign to Repeal the Sixteenth Amendment, 1938-1958 · [DOI](https://doi.org/10.1086/653597)
+- Unanticipated Gains: Origins of Network Inequality in Everyday Life. By Mario Small. New York: Oxford University Press, 2009. Pp. 312. · [DOI](https://doi.org/10.1086/656261)
 
 ## 2009
 
@@ -926,6 +927,8 @@
 
 - Structuring a Theory of Moral Sentiments: Institutional and Organizational Coevolution in the Early Thrift Industry · [DOI](https://doi.org/10.1086/231128)
 - Celebration and Suppression: The Strategic Uses of Identity by the Lesbian and Gay Movement · [DOI](https://doi.org/10.1086/231250)
+- Political Culture Wars 1960s Style: Equal Employment Opportunity–Affirmative Action Law and the Philadelphia Plan · [DOI](https://doi.org/10.1086/231252)
+- Whose Expectations Matter? The Relative Power of First‐ and Second‐Order Expectations in Determining Social Influence · [DOI](https://doi.org/10.1086/231253)
 
 ## 1996
 
@@ -1017,11 +1020,14 @@
 - Unification Research Programs: Integrating Two Structural Theories · [DOI](https://doi.org/10.1086/228632)
 - Making it Underground: Comparative Material on the Informal Sector in Western Market Economies · [DOI](https://doi.org/10.1086/228705)
 - Understanding Mexican Migration to the United States · [DOI](https://doi.org/10.1086/228669)
+- Class in the Household: A Power-Control Theory of Gender and Delinquency · [DOI](https://doi.org/10.1086/228583)
+- How Many Emotions Are There? Wedding the Social and the Autonomic Components · [DOI](https://doi.org/10.1086/228745)
 
 ## 1986
 
 - Copyrighted SubculturesShared Fantasy: Role Playing Games as Social Worlds.Gary Alan Fine · [DOI](https://doi.org/10.1086/228392)
 - War and Peace: The Evolution of Modern Personnel Administration in U.S. Industry · [DOI](https://doi.org/10.1086/228504)
+- The Density of Acquaintanceship: An Overlooked Variable in Community Research? · [DOI](https://doi.org/10.1086/228462)
 
 ## 1985
 
@@ -1047,6 +1053,7 @@
 - Male Power and Female Victimization: Toward a Theory of Interracial Rape · [DOI](https://doi.org/10.1086/227673)
 - Yearning for Yesterday: A Sociology of Nostalgia.Fred Davis · [DOI](https://doi.org/10.1086/227614)
 - Subculture: The Meaning of Style.Dick Hebdige · [DOI](https://doi.org/10.1086/227629)
+- Job Conditions and Personality: A Longitudinal Assessment of Their Reciprocal Effects · [DOI](https://doi.org/10.1086/227593)
 
 ## 1981
 
@@ -1057,6 +1064,8 @@
 - Status and Status Strain in the Professions · [DOI](https://doi.org/10.1086/227318)
 - Differentiation and Integration: Two Dimensions of Political Thinking · [DOI](https://doi.org/10.1086/227384)
 - The Focused Organization of Social Ties · [DOI](https://doi.org/10.1086/227352)
+- Detecting Sentencing Disparity: Some Problems and Evidence · [DOI](https://doi.org/10.1086/227320)
+- Perspectives on the Legal Order: The Capacity for Social Control · [DOI](https://doi.org/10.1086/227465)
 
 ## 1980
 
@@ -1080,17 +1089,21 @@
 - The Structural Sources of Adventurism: The Case of the California Gold Rush · [DOI](https://doi.org/10.1086/226709)
 - Max Weber's Elective Affinities: Sociology Within the Bounds of Pure Reason · [DOI](https://doi.org/10.1086/226788)
 - Arts and Crafts · [DOI](https://doi.org/10.1086/226635)
+- Social Movements in Organizations: Coup d'Etat, Insurgency, and Mass Movements · [DOI](https://doi.org/10.1086/226634)
 
 ## 1977
 
 - The Population Ecology of Organizations · [DOI](https://doi.org/10.1086/226424)
 - Talcott Parsons, the Problem of Order in Society, and the Program of an Analytical Sociology · [DOI](https://doi.org/10.1086/226549)
+- Resource Mobilization and Social Movements: A Partial Theory · [DOI](https://doi.org/10.1086/226464)
 
 ## 1976
 
 - On the Concept of Face · [DOI](https://doi.org/10.1086/226145)
 - Development Towns in Israel: The Role of Community in Creating Ethnic Disparities in Labor Force Characteristics · [DOI](https://doi.org/10.1086/226142)
 - Classical Social Theory and the Origins of Modern Sociology · [DOI](https://doi.org/10.1086/226140)
+- Social Integration and the Status-Attainment Process · [DOI](https://doi.org/10.1086/226227)
+- The Real Self: From Institution to Impulse · [DOI](https://doi.org/10.1086/226183)
 
 ## 1975
 
@@ -1106,6 +1119,8 @@
 - Maid of All Work or Departmental Sister-in-Law? The Faculty Wife Employed on Campus · [DOI](https://doi.org/10.1086/225401)
 - The Preindustrial Family in America: A Further Examination of Early Magazines · [DOI](https://doi.org/10.1086/225584)
 - Reporting the News: An Organizational Analysis · [DOI](https://doi.org/10.1086/225511)
+- A Funny Thing Happened on the Way to the Orifice: Women in Gynecology Textbooks · [DOI](https://doi.org/10.1086/225420)
+- Neglected Characteristics of Collective Behavior · [DOI](https://doi.org/10.1086/225589)
 
 ## 1972
 
@@ -1136,6 +1151,7 @@
 - Class Identification in the United States · [DOI](https://doi.org/10.1086/224528)
 - Social Class, Parental Encouragement, and Educational Aspirations · [DOI](https://doi.org/10.1086/224530)
 - Patterns of Residence in Poona (India) by Income, Education, and Occupation (1937-65) · [DOI](https://doi.org/10.1086/224509)
+- Patterns of Management and Adaptations to Organizational Roles: A Study of Prison Inmates · [DOI](https://doi.org/10.1086/224617)
 
 ## 1966
 
@@ -1169,6 +1185,7 @@
 
 - Structure and Process in Modern Societies.Talcott Parsons · [DOI](https://doi.org/10.1086/222828)
 - The Rural-Urban Continuum: Real but Relatively Unimportant · [DOI](https://doi.org/10.1086/222824)
+- The Klan Revival · [DOI](https://doi.org/10.1086/222749)
 
 ## 1959
 
@@ -1222,6 +1239,10 @@
 - Inner Personality, Image, and Social Role · [DOI](https://doi.org/10.1086/220531)
 - The Fool as a Social Type · [DOI](https://doi.org/10.1086/220485)
 
+## 1947
+
+- The Folk Society · [DOI](https://doi.org/10.1086/220015)
+
 ## 1945
 
 - The Nondirective Method as a Technique for Social Research · [DOI](https://doi.org/10.1086/219619)
@@ -1258,6 +1279,10 @@
 ## 1932
 
 - The Law of Retail Gravitation.William J. Reilly · [DOI](https://doi.org/10.1086/215884)
+
+## 1931
+
+- Mentality of Racial Hybrids · [DOI](https://doi.org/10.1086/215474)
 
 ## 1930
 

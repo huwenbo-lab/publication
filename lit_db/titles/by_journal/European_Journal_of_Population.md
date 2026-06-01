@@ -1,6 +1,6 @@
 # European Journal of Population — 文章标题索引
 
-共 **842** 篇 | 年份范围：1985–2026
+共 **843** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -19,6 +19,7 @@
 - Trends in Working Life Expectancy and Untapped Employment Potential in an Ageing Population: The Case of Germany · [DOI](https://doi.org/10.1007/s10680-026-09773-x)
 - Perceptions of Medically Assisted Reproduction and Fertility Postponement: Limited Evidence, Critical Questions · [DOI](https://doi.org/10.1007/s10680-025-09765-3)
 - The Spatial Diffusion of Internal Migration Across the Rural-Urban Continuum in Developing Countries · [DOI](https://doi.org/10.1007/s10680-026-09774-w)
+- Long-Term Recall Error in Retrospective Family Surveys: Cohabitation Histories in Denmark · [DOI](https://doi.org/10.1007/s10680-026-09775-9)
 
 ## 2025
 

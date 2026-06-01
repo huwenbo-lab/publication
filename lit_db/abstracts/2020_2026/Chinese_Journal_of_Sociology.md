@@ -1,7 +1,7 @@
 # Chinese Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **147** 篇
+共 **148** 篇
 
 ---
 
@@ -54,6 +54,11 @@
 **年份**: 2026 | **DOI**: [10.1177/2057150x261448693](https://doi.org/10.1177/2057150x261448693)
 **作者**: Pei, Yuxin; Li, Peiru
 **摘要**: Based on in-depth interviews with 16 second-generation women entrepreneurs in Dongguan, China, this study examines how elite women navigate the tension between market modernity and persistent lineage norms during intergenerational transfer.…
+
+### Discernible rupture and implicit continuity: The modernization of family ethics from the perspective of intergenerational co-parenting in China
+**年份**: 2026 | **DOI**: [10.1177/2057150x261439965](https://doi.org/10.1177/2057150x261439965)
+**作者**: Ji, Yingying; Ruan, Wenya
+**摘要**: This article examines the intergenerational co-parenting experiences of “second-generation rural migrant” families, and the practical process of rebuilding family balance by the parent generation in cohabitation and co-parenting setting during the urbanization of rural households.…
 
 ### Scholars like any other? An inquiry into productivity and citations in the field of contemporary China studies
 **年份**: 2025 | **DOI**: [10.1177/2057150X251345124](https://doi.org/10.1177/2057150X251345124)

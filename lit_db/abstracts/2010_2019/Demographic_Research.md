@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2010–2019 年文章（含摘要）
 
-共 **892** 篇
+共 **897** 篇
 
 ---
 
@@ -2150,6 +2150,11 @@
 **作者**: Morrison, Philip S.; Clark, William A.V.
 **摘要**: （暂无）
 
+### Gender Inequalities in Employment and Wage-earning among Economic Migrants in Chinese Cities
+**年份**: 2016 | **DOI**: [10.4054/demres.2016.34.6](https://doi.org/10.4054/demres.2016.34.6)
+**作者**: Qin, Min; Brown, James; Padmadas, Sabu S. 等6人
+**摘要**: （暂无）
+
 ### Which transition comes first? Urban and demographic transitions in Belgium and Sweden
 **年份**: 2015 | **DOI**: [10.4054/DemRes.2015.33.48](https://doi.org/10.4054/DemRes.2015.33.48)
 **作者**: Bocquier, Philippe; Costa, Rafael
@@ -2488,6 +2493,26 @@
 ### Migration signatures across the decades
 **年份**: 2015 | **DOI**: [10.4054/demres.2015.32.38](https://doi.org/10.4054/demres.2015.32.38)
 **作者**: Johnson, Kenneth M.; Winkler, Richelle L.
+**摘要**: （暂无）
+
+### Sibship size and height before, during, and after the fertility decline
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.2](https://doi.org/10.4054/demres.2015.32.2)
+**作者**: Öberg, Stefan
+**摘要**: （暂无）
+
+### Traditional and modern cohabitation in Latin America
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.32](https://doi.org/10.4054/demres.2015.32.32)
+**作者**: Covre-Sussai, Maira; Meuleman, Bart; Botterman, Sarah 等4人
+**摘要**: （暂无）
+
+### The timing of family commitments in the early work career
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.22](https://doi.org/10.4054/demres.2015.32.22)
+**作者**: Koelet, Suzana; de Valk, Helga; Glorieux, Ignace 等5人
+**摘要**: （暂无）
+
+### Europe-wide fertility trends since the 1990s: Turning the corner from declining first birth rates
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.21](https://doi.org/10.4054/demres.2015.32.21)
+**作者**: Burkimsher, Marion
 **摘要**: （暂无）
 
 ### When people shed religious identity in Ireland and Austria: Evidence from censuses

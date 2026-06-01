@@ -1,6 +1,6 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **857** 篇 | 年份范围：2001–2026
+共 **858** 篇 | 年份范围：2001–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -24,6 +24,7 @@
 - The role of network isolation on language proficiency of children of migrants · [DOI](https://doi.org/10.1016/j.rssm.2026.101138)
 - Is a liberal school-to-work system more ‘meritocratic’? Overeducation, social origin, and early career mobility in Germany and the United Kingdom · [DOI](https://doi.org/10.1016/j.rssm.2026.101146)
 - Occupational Gender Composition is Related to Occupational Wages: Causal Evidence from a Survey Experiment Investigating Occupational Devaluation · [DOI](https://doi.org/10.1016/j.rssm.2026.101161)
+- Is overqualification a stepping stone for career progression among children of immigrants? · [DOI](https://doi.org/10.1016/j.rssm.2026.101164)
 
 ## 2025
 

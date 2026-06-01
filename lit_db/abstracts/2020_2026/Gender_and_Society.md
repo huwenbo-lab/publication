@@ -1,7 +1,7 @@
 # Gender & Society
 ## 2020–2026 年文章（含摘要）
 
-共 **214** 篇
+共 **215** 篇
 
 ---
 
@@ -74,6 +74,11 @@
 **年份**: 2026 | **DOI**: [10.1177/08912432261431258](https://doi.org/10.1177/08912432261431258)
 **作者**: Chávez, Karma R.
 **摘要**: Conservative attacks on higher education have often expressed unique ire for feminist and gender studies as emblematic of a left-wing bias and overemphasis on identity in U.S. universities.…
+
+### The Maya Effect: Theorizing Beyond Matthew and Matilda Effects to an Intersectional Understanding of Collaboration
+**年份**: 2026 | **DOI**: [10.1177/08912432261449277](https://doi.org/10.1177/08912432261449277)
+**作者**: Mickey, Ethel; Misra, Joya; Smith-Doerr, Laurel 等4人
+**摘要**: Unequal credit in academic collaboration has long been understood through the Matthew effect—more credit is given to already famous coauthors. The Matilda effect posits that women receive less credit than men, assumed to be riding collaborators’ coattails.…
 
 ### Gender Privilege and Vasectomy Experiences of Childless Men in Chile
 **年份**: 2025 | **DOI**: [10.1177/08912432251392586](https://doi.org/10.1177/08912432251392586)

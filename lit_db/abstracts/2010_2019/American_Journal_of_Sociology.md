@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **341** 篇
+共 **342** 篇
 
 ---
 
@@ -1709,3 +1709,8 @@
 **年份**: 2010 | **DOI**: [10.1086/653597](https://doi.org/10.1086/653597)
 **作者**: Martin, Isaac William
 **摘要**: Beginning in 1938, some American business groups campaigned to repeal the Sixteenth Amendment and limit the federal taxation of income and wealth. Although their proposed upward-redistributive policy would benefit few voters, it won the support of 31 state legislatures.…
+
+### Unanticipated Gains: Origins of Network Inequality in Everyday Life. By Mario Small. New York: Oxford University Press, 2009. Pp. 312.
+**年份**: 2010 | **DOI**: [10.1086/656261](https://doi.org/10.1086/656261)
+**作者**: Reagans, Ray
+**摘要**: （暂无）

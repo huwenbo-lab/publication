@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2010–2019 年文章（含摘要）
 
-共 **918** 篇
+共 **919** 篇
 
 ---
 
@@ -579,6 +579,11 @@
 **年份**: 2019 | **DOI**: [10.1177/0192513x19868750](https://doi.org/10.1177/0192513x19868750)
 **作者**: Steinbach, Anja; Silverstein, Merril
 **摘要**: This article investigated the relationship between religiosity and intergenerational solidarity in Germany, with a focus on differences between eastern and western regions that have maintained unique religious profiles that trace back to before unification.…
+
+### Resources, Time and Gender: Determinants of Women’s Housework in Bahir Dar and Nearby Rural Villages, Northwest Ethiopia
+**年份**: 2019 | **DOI**: [10.1177/0192513x19878862](https://doi.org/10.1177/0192513x19878862)
+**作者**: Desta, Chalachew Getahun
+**摘要**: Women’s disproportionate engagement in housework and its determinants has been relatively well studied for developed countries, but such research is absent for less developed countries.…
 
 ### Relationship Conflict, Work Conditions, and the Health of Mothers With Young Children
 **年份**: 2018 | **DOI**: [10.1177/0192513X18776415](https://doi.org/10.1177/0192513X18776415)

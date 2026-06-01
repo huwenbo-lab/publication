@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1825** 篇 | 年份范围：1999–2026
+共 **1834** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -15,6 +15,8 @@
 - “Family-Anchored” transitions to adult life in Mexico · [DOI](https://doi.org/10.4054/demres.2026.54.2)
 - Probabilistic population forecasts for small regions · [DOI](https://doi.org/10.4054/demres.2026.54.23)
 - Economic insecurity and material deprivation: Coping strategies among couple families with and without small children in Europe · [DOI](https://doi.org/10.4054/demres.2026.54.25)
+- The ratio of births observed to births needed: An indicator to assess demographic sustainability · [DOI](https://doi.org/10.4054/demres.2026.54.30)
+- The European Parenting Leave Policies (EPLP) dataset: Leave duration entitlements for 21 countries from 1970 to 2024 · [DOI](https://doi.org/10.4054/demres.2026.54.31)
 
 ## 2025
 
@@ -89,6 +91,8 @@
 - Amish fertility in the United States: Comparative evidence from the American Community Survey and Amish population registries · [DOI](https://doi.org/10.4054/demres.2025.52.26)
 - Life expectancy by religious affiliation in Finland 1972-2020 · [DOI](https://doi.org/10.4054/demres.2025.52.17)
 - The changing inter-relationship between partnership dynamics and fertility trends in Europe and the United States: A review · [DOI](https://doi.org/10.4054/demres.2025.52.7)
+- Unrealized fertility in demography · [DOI](https://doi.org/10.4054/demres.2025.53.36)
+- Family and social resilience: A scoping review of the empirical literature · [DOI](https://doi.org/10.4054/demres.2025.52.27)
 
 ## 2024
 
@@ -969,6 +973,7 @@
 - Does selection of mortality model make a difference in projecting population ageing? · [DOI](https://doi.org/10.4054/demres.2016.34.2)
 - The relationship between unemployment and fertility in Italy: A time-series analysis
 - Loss aversion and duration of residence · [DOI](https://doi.org/10.4054/demres.2016.35.36)
+- Gender Inequalities in Employment and Wage-earning among Economic Migrants in Chinese Cities · [DOI](https://doi.org/10.4054/demres.2016.34.6)
 
 ## 2015
 
@@ -1040,6 +1045,10 @@
 - Reconstructing trends in international migration with three questions in household surveys · [DOI](https://doi.org/10.4054/demres.2015.32.35)
 - On the age-specific correlation between fertility and female employment · [DOI](https://doi.org/10.4054/demres.2015.32.23)
 - Migration signatures across the decades · [DOI](https://doi.org/10.4054/demres.2015.32.38)
+- Sibship size and height before, during, and after the fertility decline · [DOI](https://doi.org/10.4054/demres.2015.32.2)
+- Traditional and modern cohabitation in Latin America · [DOI](https://doi.org/10.4054/demres.2015.32.32)
+- The timing of family commitments in the early work career · [DOI](https://doi.org/10.4054/demres.2015.32.22)
+- Europe-wide fertility trends since the 1990s: Turning the corner from declining first birth rates · [DOI](https://doi.org/10.4054/demres.2015.32.21)
 
 ## 2014
 

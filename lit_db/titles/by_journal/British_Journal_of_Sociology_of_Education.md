@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1697** 篇 | 年份范围：1980–2026
+共 **1709** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -41,6 +41,10 @@
 - Post-schooling the elite: spaceX, cognitive platforming and educational abstraction · [DOI](https://doi.org/10.1080/01425692.2025.2609177)
 - Fighting for funding, working-class women’s transitions to sociology doctoral education: ‘significant academic others’, economic and social capital · [DOI](https://doi.org/10.1080/01425692.2025.2608321)
 - Being a ‘good’ citizen: white collegiality and academic citizenship · [DOI](https://doi.org/10.1080/01425692.2026.2674680)
+- Between reflexivity and habitus: transnational academic mobility among Chinese-trained postdoctoral researchers in the United States · [DOI](https://doi.org/10.1080/01425692.2026.2679478)
+- Navigating structure and agency: disadvantaged Chinese students’ motivations for international education mobility · [DOI](https://doi.org/10.1080/01425692.2026.2619550)
+- Education and the Politics of Interruption: Does the Right Always Win? · [DOI](https://doi.org/10.1080/01425692.2026.2666440)
+- Evolving homophily in higher education: how university settings transform international student relationships · [DOI](https://doi.org/10.1080/01425692.2026.2679479)
 
 ## 2025
 
@@ -141,6 +145,8 @@
 - Meritocracy seen through the eyes of its champions: a comparative study of educational elites · [DOI](https://doi.org/10.1080/01425692.2024.2418097)
 - Conceptualising school-level responses to sexual harassment of women teachers as institutional gaslighting · [DOI](https://doi.org/10.1080/01425692.2024.2409267)
 - 'It's a tiger instinct - that's my baby!': affective practices of care in parents' educational activism · [DOI](https://doi.org/10.1080/01425692.2024.2409277)
+- Time in education policy transfer: the seven temporalities of global school reform · [DOI](https://doi.org/10.1080/01425692.2025.2602255)
+- The Time Inheritors – How Time Inequalities Shape Higher Education Mobility in China · [DOI](https://doi.org/10.1080/01425692.2025.2602254)
 
 ## 2024
 
@@ -505,6 +511,10 @@
 - Meritocracy, social mobility and a new form of class domination · [DOI](https://doi.org/10.1080/01425692.2019.1665496)
 - Heterogeneous middle-class and disparate educational advantage: parental investment in their children's schooling in Dehradun, India · [DOI](https://doi.org/10.1080/01425692.2019.1660142)
 - 40th anniversary special issue: the current and future shape of the sociology of education · [DOI](https://doi.org/10.1080/01425692.2020.1801222)
+- Doctoral theses · [DOI](https://doi.org/10.1080/01425692.2020.1821979)
+- Doctoral theses · [DOI](https://doi.org/10.1080/01425692.2020.1794177)
+- Doctoral theses · [DOI](https://doi.org/10.1080/01425692.2020.1852718)
+- Doctoral theses · [DOI](https://doi.org/10.1080/01425692.2020.1799591)
 
 ## 2019
 
@@ -1803,6 +1813,7 @@
 - The ‘Third Wave’: education and the ideology of parentocracy · [DOI](https://doi.org/10.1080/0142569900110105)
 - Classroom Order as Practical Action: the making and un‐making of a quiet reproach · [DOI](https://doi.org/10.1080/0142569900110205)
 - The Social Construction of the ‘At‐risk’ Child · [DOI](https://doi.org/10.1080/0142569900110305)
+- Critical Sociology of Education Theory in Practice: the Druze education in the Golan · [DOI](https://doi.org/10.1080/0142569900110406)
 
 ## 1989
 
@@ -1827,3 +1838,4 @@
 ## 1980
 
 - History and the Sociology of Education · [DOI](https://doi.org/10.1080/0142569800010307)
+- The ‘Mother‐Tongue’ Issue in Britain: cultural diversity or control? · [DOI](https://doi.org/10.1080/0142569800010301)

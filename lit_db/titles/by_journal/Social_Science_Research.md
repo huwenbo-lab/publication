@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2210** 篇 | 年份范围：1972–2026
+共 **2211** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2282,6 +2282,7 @@
 ## 1996
 
 - The Effect of Military Service on Educational, Occupational, and Income Attainment · [DOI](https://doi.org/10.1006/ssre.1996.0001)
+- Internationally Comparable Measures of Occupational Status for the 1988 International Standard Classification of Occupations · [DOI](https://doi.org/10.1006/ssre.1996.0010)
 
 ## 1995
 

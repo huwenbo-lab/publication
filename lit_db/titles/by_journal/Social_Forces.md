@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2908** 篇 | 年份范围：1926–2026
+共 **2926** 篇 | 年份范围：1926–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -18,6 +18,10 @@
 - The racialized penalties of immigrant origin: meta-analytic evidence on hiring discrimination in twelve countries · [DOI](https://doi.org/10.1093/sf/soag028)
 - Breaking the mold: the changing modularity of protest forms during cycles of contention · [DOI](https://doi.org/10.1093/sf/soag048)
 - Do occupations confer equal prestige on female and male incumbents? · [DOI](https://doi.org/10.1093/sf/soag054)
+- Review of “Traders, Speculators, and Captains of Industry: How Capitalist Legitimacy Shaped Foreign Investment Policy in India” · [DOI](https://doi.org/10.1093/sf/soag051)
+- Review of “Reimagining Aid: Foreign Donors, Women’s Health, and New Paths for Development in Cambodia” · [DOI](https://doi.org/10.1093/sf/soag056)
+- The code of cohesion: adolescent network centrality, offending, and the downside of school cohesion · [DOI](https://doi.org/10.1093/sf/soag062)
+- Is it good to work with? Workability and the meaning of non-native species in urban policy · [DOI](https://doi.org/10.1093/sf/soag047)
 
 ## 2025
 
@@ -393,6 +397,7 @@
 - Racial Segregation under Slavery · [DOI](https://doi.org/10.1093/sf/soab012)
 - Who Identifies as Latinx? The Generational Politics of Ethnoracial Labels · [DOI](https://doi.org/10.1093/sf/soab011)
 - White Men Can't Jump, but Does It Even Matter? Exit Discrimination in the NBA · [DOI](https://doi.org/10.1093/sf/soab009)
+- 100 Years ofSocial Forces · [DOI](https://doi.org/10.1093/sf/soac050)
 
 ## 2021
 
@@ -2866,6 +2871,7 @@
 - Does Parental Conflict Explain Why Divorce is Negatively Associated with Child Welfare? · [DOI](https://doi.org/10.2307/3005877)
 - Women and Men Policymakers: Does the Judge's Gender Affect the Sentencing of Criminal Defendants? · [DOI](https://doi.org/10.2307/3005975)
 - Race/Ethnicity, Nativity, and Infant Mortality in the United States · [DOI](https://doi.org/10.2307/3005972)
+- Occupational Segregation and the Career Mobility of White Men and Women · [DOI](https://doi.org/10.1093/sf/77.4.1433)
 
 ## 1998
 
@@ -2877,6 +2883,7 @@
 - The Timing of the Influences of Cumulative Poverty on Children's Cognitive Ability and Achievement · [DOI](https://doi.org/10.2307/3006017)
 - Race and the Reproduction of Educational Disadvantage · [DOI](https://doi.org/10.2307/3005702)
 - Do Wives Matter? Class Identities of Wives and Husbands in the United States, 1974-1994 · [DOI](https://doi.org/10.2307/3005703)
+- Children's Residential Mobility and Neighborhood Environment following Parental Divorce and Remarriage · [DOI](https://doi.org/10.2307/3005543)
 
 ## 1997
 
@@ -2903,6 +2910,7 @@
 - Ethnic Economies in Metropolitan Regions: Miami and Beyond · [DOI](https://doi.org/10.2307/2579777)
 - Effects of Individual, Occupational, and Industrial Characteristics on Earnings: Intersections of Race and Gender · [DOI](https://doi.org/10.2307/2580296)
 - From Service Provision to Institutional Advocacy: The Shifting Legitimacy of Organizational Forms · [DOI](https://doi.org/10.2307/2580289)
+- Gender, Labor Allocations, and the Psychology of Entitlement within the Home · [DOI](https://doi.org/10.2307/2579820)
 
 ## 1993
 
@@ -2940,6 +2948,7 @@
 - The Impact of Occupational Segregation on Working Conditions · [DOI](https://doi.org/10.2307/2579353)
 - Compensating Differentials and the Male-Female Wage Gap: Evidence from the New York State Comparable Worth Study · [DOI](https://doi.org/10.2307/2579667)
 - Perceived Cohesion: A Conceptual and Empirical Examination · [DOI](https://doi.org/10.2307/2579670)
+- Segregation and Neighborhood Quality: Blacks, Hispanics, and Asians in the San Francisco Metropolitan Area · [DOI](https://doi.org/10.2307/2579605)
 
 ## 1989
 
@@ -2955,6 +2964,7 @@
 
 - Family Transitions, Housing Market Context, and First Home Purchase by Young Married Households · [DOI](https://doi.org/10.2307/2578753)
 - Religious Involvement and the Health of the Elderly: Some Hypotheses and an Initial Test · [DOI](https://doi.org/10.2307/2578909)
+- Economic Inequality and Discrimination in Sentencing · [DOI](https://doi.org/10.2307/2578526)
 
 ## 1986
 
@@ -3000,6 +3010,7 @@
 
 - Work Satisfaction and Age: Some Evidence for the `Job Change' Hypothesis · [DOI](https://doi.org/10.2307/2577515)
 - A Structural Model of the Mobility Table · [DOI](https://doi.org/10.2307/2577226)
+- A Durkheimian Analysis of International Crime Rates · [DOI](https://doi.org/10.2307/2577688)
 
 ## 1977
 
@@ -3007,6 +3018,7 @@
 - Resource Allocations in United Funds: Examination of Power and Dependence · [DOI](https://doi.org/10.2307/2577470)
 - The Naval Reservist: An Empirical Assessment of Ephemeral Role Enactment · [DOI](https://doi.org/10.2307/2577468)
 - The Structure of Adult Friendship Choices · [DOI](https://doi.org/10.2307/2577741)
+- Charge Reduction: An Intermediary Stage in the Process of Labelling Criminal Defendants · [DOI](https://doi.org/10.2307/2577731)
 
 ## 1976
 
@@ -3025,6 +3037,7 @@
 
 - Social Class and Social Time Perspective · [DOI](https://doi.org/10.2307/2576837)
 - Forming Composite Scales and Estimating Their Validity Through Factor Analysis · [DOI](https://doi.org/10.2307/2576010)
+- Certainty of Arrest and Crime Rates: A Further Test of the Deterrence Hypothesis · [DOI](https://doi.org/10.2307/2576988)
 
 ## 1973
 
@@ -3044,6 +3057,8 @@
 ## 1969
 
 - "Symbolic Bureaucracy": A Case Study of a Social Welfare Agency · [DOI](https://doi.org/10.2307/2574530)
+- Occupational Stereotypes and Prestige · [DOI](https://doi.org/10.2307/2575470)
+- Innovation Diffusion As a Spatial Process. · [DOI](https://doi.org/10.2307/2575048)
 
 ## 1968
 
@@ -3106,10 +3121,16 @@
 ## 1950
 
 - Some Distinctions between Culture and Civilization as Displayed in Sociological Literature · [DOI](https://doi.org/10.2307/2572007)
+- Better Homes for Negro Families in the South · [DOI](https://doi.org/10.2307/2572014)
 
 ## 1949
 
 - Research Note on Inter- and Intra-Racial Homicides · [DOI](https://doi.org/10.2307/2572490)
+- The Social Ecology of Guatemala City · [DOI](https://doi.org/10.2307/2572637)
+
+## 1948
+
+- The Military--A Systematic Analysis · [DOI](https://doi.org/10.2307/2572466)
 
 ## 1947
 

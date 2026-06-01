@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1517** 篇 | 年份范围：1986–2026
+共 **1519** 篇 | 年份范围：1986–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -13,6 +13,7 @@
 - Parenthood, occupational sex segregation, and wage: motherhood penalty and fatherhood premium in China · [DOI](https://doi.org/10.1093/esr/jcag012)
 - Beyond absolute education: relative educational attainment and perceived discrimination among immigrants · [DOI](https://doi.org/10.1093/esr/jcaf054)
 - Labour market insecurity and parental co-residence in the United Kingdom: heterogeneities by parental class and age · [DOI](https://doi.org/10.1093/esr/jcaf058)
+- Changing choices? Primary and secondary effects through times of educational contraction · [DOI](https://doi.org/10.1093/esr/jcag019)
 
 ## 2025
 
@@ -1596,6 +1597,10 @@
 
 - 'Losing my religion'1: a dynamic analysis of leaving the church in the Netherlands · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018179)
 - The Salience of the Part-time Divide in the European Union · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018190)
+
+## 1994
+
+- Ideological Basis of the Market Economy: Attitudes Toward Distribution Principles and the Role of Government in Western and Eastern Germany · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036324)
 
 ## 1993
 

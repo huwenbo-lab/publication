@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **279** 篇
+共 **284** 篇
 
 ---
 
@@ -44,6 +44,26 @@
 **年份**: 2026 | **DOI**: [10.1111/padr.70066](https://doi.org/10.1111/padr.70066)
 **作者**: Kravdal, Øystein; Grundy, Emily; Hart, Rannveig K.
 **摘要**: Abstract We examined how several health variables were associated with mothers’ probability of having a second or third child and the timing of the second birth. Data from the Norwegian Mother, Father and Child Cohort Study (MoBa) and linked registers were used.…
+
+### Changing Landscapes of Parenthood: Childbearing Among Same‐Sex and Different‐Sex Couples in the Nordic Countries
+**年份**: 2026 | **DOI**: [10.1111/padr.70068](https://doi.org/10.1111/padr.70068)
+**作者**: Ponkilainen, Maria; Einiö, Elina; Kolk, Martin 等7人
+**摘要**: Abstract The Nordic countries of Denmark, Sweden, Norway, and Finland were among the first countries to acknowledge same‐sex couples’ partnership and parenthood rights in their legislation.…
+
+### The Living Arrangements of Single Mothers in Latin America: Stratification by Education and Partnership Status
+**年份**: 2026 | **DOI**: [10.1111/padr.70075](https://doi.org/10.1111/padr.70075)
+**作者**: Becca, Federica; Alburez‐Gutierrez, Diego; Esteve, Albert
+**摘要**: Abstract One in four young mothers in Latin America raises her children without a partner, yet more than two‐thirds do so within extended households, typically with their own parents.…
+
+### School Enrollment and Living Arrangements of Children in Sub‐Saharan Africa
+**年份**: 2026 | **DOI**: [10.1111/padr.70045](https://doi.org/10.1111/padr.70045)
+**作者**: Pohl, Maria; Batyra, Ewa; Esteve, Albert
+**摘要**: Abstract School enrollment has increased in many sub‐Saharan African countries over recent decades, alongside substantial socioeconomic and demographic transitions. However, gains in educational enrollment have not been equal, raising questions about the determinants of access to and variability in …
+
+### Leveraging High‐Frequency Digital Data to Analyze Forced Displacement Dynamics: A Case Study from the Gaza Strip
+**年份**: 2026 | **DOI**: [10.1111/padr.70064](https://doi.org/10.1111/padr.70064)
+**作者**: Darin, Edith; Kashyap, Ridhi; Leasure, Douglas R.
+**摘要**: Abstract The quantification and analysis of forced displacement, driven by political unrest or natural disasters, has become increasingly central to both humanitarian and demographic research.…
 
 ### The Impact of Migration on Age Structure Conducive to Human Development Across the Urban Hierarchy
 **年份**: 2025 | **DOI**: [10.1111/padr.70033](https://doi.org/10.1111/padr.70033)
@@ -864,6 +884,10 @@
 **年份**: 2023 | **DOI**: [10.1111/padr.12580](https://doi.org/10.1111/padr.12580)
 **作者**: Ruggles, Steven; Magnuson, Diana L.
 **摘要**: The U.S. Census has grappled with public concerns about privacy since the first enumeration in 1790. Beginning in the mid-nineteenth century, census officials began responding to concerns about privacy with promises of confidentiality.…
+
+### Giorgia Meloni on Italy's Demographic Challenge
+**年份**: 2023 | **DOI**: [10.1111/padr.12595](https://doi.org/10.1111/padr.12595)
+**摘要**: （暂无）
 
 ### Change and Variation in US Couples' Earnings Equality Following Parenthood
 **年份**: 2022 | **DOI**: [10.1111/padr.12481](https://doi.org/10.1111/padr.12481)

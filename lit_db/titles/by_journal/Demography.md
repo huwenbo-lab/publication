@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **1981** 篇 | 年份范围：1964–2026
+共 **1990** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2006,11 +2006,14 @@
 - Shifting family definitions: The effect of cohabitation and other nonfamily household relationships on measures of poverty · [DOI](https://doi.org/10.2307/2648055)
 - The educational attainment of young women: Role model effects of female high school faculty · [DOI](https://doi.org/10.2307/2648107)
 - Rectangularization revisited: Variability of age at death within human populations* · [DOI](https://doi.org/10.2307/2648085)
+- Geographic morbidity differentials in the late nineteenth-century United States · [DOI](https://doi.org/10.2307/2648082)
+- The effect of inbreeding on early childhood mortality: Twelve generations of an amish settlement · [DOI](https://doi.org/10.2307/2648113)
 
 ## 1998
 
 - Demography and the environment · [DOI](https://doi.org/10.2307/3004008)
 - Ethnic stratification in Northwest China: Occupational differences between Han Chinese and national minorities in Xinjiang, 1982–1990 · [DOI](https://doi.org/10.2307/3004040)
+- Intergenerational relations in urban China: Proximity, contact, and help to parents · [DOI](https://doi.org/10.2307/3004031)
 
 ## 1997
 
@@ -2020,6 +2023,7 @@
 - The Rise of Divorce and Separation in the Unitd States, 1880-1990 · [DOI](https://doi.org/10.2307/3038300)
 - Couple childbearing desires, intentions, and births · [DOI](https://doi.org/10.2307/3038288)
 - Ever since gompertz · [DOI](https://doi.org/10.2307/2061656)
+- The effects of economic and population growth on national saving and inequality · [DOI](https://doi.org/10.2307/2061662)
 
 ## 1996
 
@@ -2033,6 +2037,7 @@
 - The Elderly Who Live Alone in the United States: Historical Perspectives on Household Change · [DOI](https://doi.org/10.2307/2061684)
 - Why Marry? Race and the Transition to Marriage among Cohabitors · [DOI](https://doi.org/10.2307/2061671)
 - Cohort Trends in the Lifetime Distribution of Female Family Headship in the United States, 1968–1985 · [DOI](https://doi.org/10.2307/2061688)
+- Self-Interest and Altruism in Intergenerational Relations · [DOI](https://doi.org/10.2307/2061685)
 
 ## 1994
 
@@ -2079,12 +2084,14 @@
 - Starting, stopping, and spacing during the early stages of fertility transition: The experience of German village populations in the 18th and 19th centuries · [DOI](https://doi.org/10.2307/2061627)
 - Socioeconomic development, family planning, and fertility in China · [DOI](https://doi.org/10.2307/2061390)
 - Intergenerational transmission of relative fertility and life course patterns · [DOI](https://doi.org/10.2307/2061386)
+- Social factors and infant mortality: Identifying high-risk groups and proximate causes · [DOI](https://doi.org/10.2307/2061300)
 
 ## 1985
 
 - Constraints, Satisfaction and Residential Mobility: Speare’s Model Reconsidered · [DOI](https://doi.org/10.2307/2061178)
 - The effect of piped water on early childhood mortality in Urban Brazil, 1970 to 1976 · [DOI](https://doi.org/10.2307/2060983)
 - The Declining Significance of First-Birth Timing · [DOI](https://doi.org/10.2307/2061177)
+- Entry into marriage and parenthood by young men and women: The influence of family background · [DOI](https://doi.org/10.2307/2061586)
 
 ## 1984
 
@@ -2121,6 +2128,8 @@
 
 - Age and marital status at first birth and the pace of subsequent fertility · [DOI](https://doi.org/10.2307/2060491)
 - Contextual and ideological dimensions of attitudes toward discretionary abortion · [DOI](https://doi.org/10.2307/2060657)
+- The effects of demographic factors, family background, and early job achievement on age at marriage · [DOI](https://doi.org/10.2307/2060520)
+- What will 1984 be like? Socioeconomic implications of recent twists in age structure · [DOI](https://doi.org/10.2307/2061197)
 
 ## 1975
 

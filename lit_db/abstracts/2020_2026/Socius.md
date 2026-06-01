@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **734** 篇
+共 **736** 篇
 
 ---
 
@@ -159,6 +159,16 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231261450330](https://doi.org/10.1177/23780231261450330)
 **作者**: Wang, Yiwen; Alexander, Katherine; Wolski, Caroline 等5人
 **摘要**: Homeownership is a key marker of economic stability, yet rising housing costs have made it increasingly difficult for young adults to purchase homes. Parental financial transfers can help offset these barriers, but such support is unevenly distributed across social groups.…
+
+### What Would Jesus Fund? Christian Nationalism and Americans’ Views on Government Spending
+**年份**: 2026 | **DOI**: [10.1177/23780231261447651](https://doi.org/10.1177/23780231261447651)
+**作者**: Atac, Ibrahim Enes; Kunjan, Lena; Lovette, Forrest 等4人
+**摘要**: Research on government spending focuses primarily on the roles of partisanship, ideology, and in-group self-interest. Beyond these, the authors propose that religiopolitical schemas have an independent (though interrelated) role in shaping Americans’ conceptions of government’s purpose, beneficiarie…
+
+### The Self-Other Gap in Perceived Automation Risk: Evidence from the United States and Canada
+**年份**: 2026 | **DOI**: [10.1177/23780231261453968](https://doi.org/10.1177/23780231261453968)
+**作者**: Glavin, Paul; Schieman, Scott; Wilson, Alexander
+**摘要**: This visualization shows a systematic misperception in how workers judge automation risk. Drawing on the 2026 Measuring Employment Sentiments and Social Inequality study, the authors compare paired measures of perceived automation likelihood for self and most others, using nationally representative …
 
 ### Gender Egalitarianism and Marital Dissolution: Understanding the Bifurcation of the “Gender Revolution” in the United States
 **年份**: 2025 | **DOI**: [10.1177/23780231251372790](https://doi.org/10.1177/23780231251372790)

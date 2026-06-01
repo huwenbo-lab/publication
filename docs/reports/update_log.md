@@ -1,5 +1,57 @@
 # 更新日志
 
+## 2026-06-01 06:14（最近30天）
+
+- 新增文章总数：**185**
+- 数据库总文章数：**33,680**
+
+- 非文献筛查跳过：**137** 条
+
+| 期刊 | 新增 |
+|---|---|
+| American Journal of Sociology | 19 |
+| American Sociological Review | 46 |
+| Annual Review of Sociology | 8 |
+| Asian Population Studies | 1 |
+| British Journal of Sociology | 4 |
+| British Journal of Sociology of Education | 12 |
+| Chinese Journal of Sociology | 1 |
+| Demographic Research | 9 |
+| Demography | 9 |
+| European Journal of Population | 1 |
+| European Sociological Review | 2 |
+| Gender & Society | 23 |
+| Journal of Family Issues | 3 |
+| Journal of Marriage and Family | 8 |
+| Population and Development Review | 13 |
+| Research in Social Stratification and Mobility | 1 |
+| Social Forces | 18 |
+| Social Science Research | 1 |
+| Sociology of Education | 4 |
+| Socius | 2 |
+
+| 期刊 | 非文献筛查跳过 |
+|---|---|
+| American Journal of Sociology | 3 |
+| American Sociological Review | 2 |
+| Annual Review of Sociology | 3 |
+| British Journal of Sociology | 3 |
+| British Journal of Sociology of Education | 2 |
+| Demographic Research | 6 |
+| Demography | 3 |
+| Gender & Society | 7 |
+| Journal of Family Issues | 1 |
+| Journal of Family Theory & Review | 3 |
+| Journal of Marriage and Family | 2 |
+| Population and Development Review | 3 |
+| Research in Social Stratification and Mobility | 1 |
+| Social Science Research | 1 |
+| Sociological Science | 1 |
+| Sociology | 47 |
+| Sociology of Education | 2 |
+| Socius | 2 |
+| Work, Employment and Society | 45 |
+
 ## 2026-05-25 05:46（最近30天）
 
 - 新增文章总数：**102**

@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **586** 篇 | 年份范围：1963–2026
+共 **590** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -555,6 +555,7 @@
 - Analyzing schools as organizations: Long-term permanence and short-term change · [DOI](https://doi.org/10.2307/2673256)
 - Comment: The First and Second Digital Divides · [DOI](https://doi.org/10.2307/2673277)
 - The Social Sources of Educational Credentialism: Status Cultures, Labor Markets, and Organizations · [DOI](https://doi.org/10.2307/2673251)
+- American Schooling and Educational Inequality: A Forecast for the 21st Century · [DOI](https://doi.org/10.2307/2673258)
 
 ## 2000
 
@@ -585,6 +586,7 @@
 - Multidimensional Influences of Family Environment in Education: The Case of Socialist Czechoslovakia · [DOI](https://doi.org/10.2307/2673219)
 - Parent-Child Differences in Educational Expectations and the Academic Achievement of Immigrant and Native Students · [DOI](https://doi.org/10.2307/2673201)
 - "Moving On": Residential Mobility and Children's School Lives · [DOI](https://doi.org/10.2307/2673244)
+- Parents' Extrafamilial Resources and Children's School Attainment · [DOI](https://doi.org/10.2307/2673204)
 
 ## 1997
 
@@ -597,6 +599,8 @@
 - How Do Mothers Choose Child Care? Alternative Cultural Models in Poor Neighborhoods · [DOI](https://doi.org/10.2307/2112800)
 - Educational Progress of Children of Immigrants: The Roles of Class, Ethnicity, and School Context · [DOI](https://doi.org/10.2307/2112714)
 - Race, Cultural Capital, and Schooling: An Analysis of Trends in the United States · [DOI](https://doi.org/10.2307/2112721)
+- Access to and Opportunity in Postsecondary Education in the United States: A Review · [DOI](https://doi.org/10.2307/3108457)
+- Teachers' Decision-Making Power and School Conflict · [DOI](https://doi.org/10.2307/2112804)
 
 ## 1995
 

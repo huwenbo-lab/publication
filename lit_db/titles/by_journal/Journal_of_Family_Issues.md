@@ -1,6 +1,6 @@
 # Journal of Family Issues — 文章标题索引
 
-共 **2329** 篇 | 年份范围：1980–2026
+共 **2332** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -886,6 +886,7 @@
 - Family Structure Change Among Latinos: Variation by Ecologic Risk · [DOI](https://doi.org/10.1177/0192513x19849636)
 - “Honey, I Want to Be a Surrogate”: How Military Spouses Negotiate and Navigate Surrogacy With Their Service Member Husbands · [DOI](https://doi.org/10.1177/0192513x19862843)
 - The Relationship Between Religion and Intergenerational Solidarity in Eastern and Western Germany · [DOI](https://doi.org/10.1177/0192513x19868750)
+- Resources, Time and Gender: Determinants of Women’s Housework in Bahir Dar and Nearby Rural Villages, Northwest Ethiopia · [DOI](https://doi.org/10.1177/0192513x19878862)
 
 ## 2018
 
@@ -2429,6 +2430,7 @@
 - The Efficacy of a Spouse Abuse Model in Accounting for Courtship Violence · [DOI](https://doi.org/10.1177/019251387008003003)
 - Remaking Men · [DOI](https://doi.org/10.1177/019251387008001003)
 - Here to Play · [DOI](https://doi.org/10.1177/019251387008004012)
+- Continuity Versus Change, Sanguineness Versus Concern · [DOI](https://doi.org/10.1177/019251387008004002)
 
 ## 1986
 
@@ -2457,6 +2459,7 @@
 - The Family and Television · [DOI](https://doi.org/10.1177/019251383004002004)
 - Family Policy · [DOI](https://doi.org/10.1177/019251383004003001)
 - The Time Crunch · [DOI](https://doi.org/10.1177/019251383004001004)
+- The Television Family and Children's Fright Reactions · [DOI](https://doi.org/10.1177/019251383004002002)
 
 ## 1982
 

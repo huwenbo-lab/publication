@@ -1,6 +1,6 @@
 # American Sociological Review — 文章标题索引
 
-共 **1175** 篇 | 年份范围：1940–2026
+共 **1221** 篇 | 年份范围：1936–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -8,6 +8,7 @@
 ## 2026
 
 - Pedagogy of Fear: Folklore and the Far-Right in Weimar Germany · [DOI](https://doi.org/10.1177/00031224251409746)
+- The Influence “Paradox”: When More Network Ties Lead to Less Change · [DOI](https://doi.org/10.1177/00031224261438845)
 
 ## 2025
 
@@ -374,6 +375,7 @@
 - Horizontal Immobility: How Narratives of Neighborhood Violence Shape Housing Decisions · [DOI](https://doi.org/10.1177/0003122417695841)
 - Community and Capital in Entrepreneurship and Economic Growth · [DOI](https://doi.org/10.1177/0003122417711699)
 - Difficult People: Who Is Perceived to Be Demanding in Personal Networks and Why Are They There? · [DOI](https://doi.org/10.1177/0003122417737951)
+- Patchwork Leviathan: How Pockets of Bureaucratic Governance Flourish within Institutionally Diverse Developing States · [DOI](https://doi.org/10.1177/0003122417705874)
 
 ## 2016
 
@@ -780,6 +782,7 @@
 - Immigrant Children's Educational Achievement in Western Countries: Origin, Destination, and Community Effects on Mathematical Performance · [DOI](https://doi.org/10.1177/000312240807300507)
 - Social Movements and Organizational Form: Cooperative Alternatives to Corporations in the American Insurance, Dairy, and Grain Industries · [DOI](https://doi.org/10.1177/000312240807300406)
 - The Social Production of Toxic Uncertainty · [DOI](https://doi.org/10.1177/000312240807300301)
+- The Integration of Genetic Propensities into Social-Control Models of Delinquency and Violence among Male Youths · [DOI](https://doi.org/10.1177/000312240807300402)
 
 ## 2007
 
@@ -822,6 +825,7 @@
 - Block, tract, and levels of aggregation: Neighborhood structure and crime and disorder as a case in point · [DOI](https://doi.org/10.1177/000312240707200501)
 - How Puerto Rico became white: Boundary dynamics and intercensus racial reclassification · [DOI](https://doi.org/10.1177/000312240707200604)
 - The implications of racial misclassification by observers · [DOI](https://doi.org/10.1177/000312240707200505)
+- Climbing the Dispute Pagoda: Grievances and Appeals to the Official Justice System in Rural China · [DOI](https://doi.org/10.1177/000312240707200611)
 
 ## 2006
 
@@ -977,6 +981,9 @@
 - Where Job Values Come From: Family and Schooling Background, Cognitive Ability, and Gender · [DOI](https://doi.org/10.1177/000312240306800204)
 - Social Capital and Finding a Job: Do Contacts Matter? · [DOI](https://doi.org/10.1177/000312240306800604)
 - Emergent Public Spheres: Talking Politics in Participatory Governance · [DOI](https://doi.org/10.1177/000312240306800103)
+- Foreign Capital Dependence and Development: A New Direction · [DOI](https://doi.org/10.1177/000312240306800206)
+- Culture and Competition: Homophily and distancing Explanations for Cultural Niches · [DOI](https://doi.org/10.1177/000312240306800302)
+- Structural Cohesion and Embeddedness: A Hierarchical Concept of Social Groups · [DOI](https://doi.org/10.2307/3088904)
 
 ## 2002
 
@@ -1019,6 +1026,7 @@
 - Why More Americans Have No Religious Preference: Politics and Generations · [DOI](https://doi.org/10.1177/000312240206700201)
 - Assessing Alternative Perspectives on Race and Sex Employment Segregation · [DOI](https://doi.org/10.1177/000312240206700404)
 - Social Integration, Imitation, and the Geographic Patterning of Suicide · [DOI](https://doi.org/10.1177/000312240206700605)
+- Does Oppositional Culture Exist in Minority and Poverty Peer Groups? · [DOI](https://doi.org/10.2307/3088938)
 
 ## 2001
 
@@ -1115,6 +1123,9 @@
 - Bureaucracy and Growth: A Cross-National Analysis of the Effects of "Weberian" State Structures on Economic Growth · [DOI](https://doi.org/10.2307/2657374)
 - Choice Shift and Group Polarization · [DOI](https://doi.org/10.1177/000312249906400606)
 - Organizational Mediation of Project-Based Labor Markets: Talent Agencies and the Careers of Screenwriters · [DOI](https://doi.org/10.1177/000312249906400106)
+- Religious Congregations and Welfare Reform: Who Will Take Advantage of "Charitable Choice"? · [DOI](https://doi.org/10.2307/2657405)
+- Comment on Zhou &amp; Hou: A Negative Life Event with Positive Consequences? · [DOI](https://doi.org/10.1177/000312249906400104)
+- Neighborhood Effects on Family Formation: Concentrated Poverty and Beyond · [DOI](https://doi.org/10.2307/2657281)
 
 ## 1998
 
@@ -1123,6 +1134,8 @@
 - Sex Differences in Research Productivity: New Evidence about an Old Puzzle · [DOI](https://doi.org/10.2307/2657505)
 - Hazards of the Market: The Continuity and Dissolution of Interorganizational Market Relationships · [DOI](https://doi.org/10.2307/2657321)
 - Detection and Determinants of Bias in Subjective Measures · [DOI](https://doi.org/10.2307/2657559)
+- Modeling Durkheim on the Micro Level: A Study of Youth Suicidality · [DOI](https://doi.org/10.2307/2657479)
+- How White Attitudes Vary with the Racial Composition of Local Populations: Numbers Count · [DOI](https://doi.org/10.2307/2657265)
 
 ## 1997
 
@@ -1135,6 +1148,9 @@
 - Culture and Conflict: The Portrayal of Blacks in U.S. Children's Picture Books Through the Mid- and Late-Twentieth Century · [DOI](https://doi.org/10.2307/2657315)
 - Explaining the Black-White Gap in Labor Force Participation among Women Heading Households · [DOI](https://doi.org/10.2307/2657302)
 - The Kuznets Curve and the Great U-Turn: Income Inequality in U.S. Counties, 1970 to 1990 · [DOI](https://doi.org/10.2307/2657450)
+- Argumentative Talk in Divorce Mediation Sessions · [DOI](https://doi.org/10.2307/2657457)
+- Rethinking Racism: Toward a Structural Interpretation · [DOI](https://doi.org/10.2307/2657316)
+- Bigger May be Better, But is Older Wiser? Organizational Age and Size in the New York Life Insurance Industry · [DOI](https://doi.org/10.2307/2657346)
 
 ## 1996
 
@@ -1143,12 +1159,17 @@
 - Changing Highbrow Taste: From Snob to Omnivore · [DOI](https://doi.org/10.2307/2096460)
 - Market Transition and the Persistence of Power: The Changing Stratification System in Urban China · [DOI](https://doi.org/10.2307/2096451)
 - "A True American System of Finance": Frame Resonance in the U.S. Labor Movement, 1866 to 1886 · [DOI](https://doi.org/10.2307/2096307)
+- Socioeconomic Achievement in the Life Course of Disadvantaged Men: Military Service as a Turning Point, Circa 1940-1965 · [DOI](https://doi.org/10.2307/2096353)
+- Markets as Politics: A Political-Cultural Approach to Market Institutions · [DOI](https://doi.org/10.2307/2096398)
+- Commitment in Exchange Relations: Test of a Theory of Relational Cohesion · [DOI](https://doi.org/10.2307/2096408)
+- Self-Employment and the Earnings of Immigrants · [DOI](https://doi.org/10.2307/2096332)
 
 ## 1995
 
 - An Extension of the Sorensen-Kalleberg Theory of the Labor Market Matching and Attainment Processes · [DOI](https://doi.org/10.2307/2096386)
 - Income Inequality and Democratization Revisited: Comment on Muller · [DOI](https://doi.org/10.2307/2096436)
 - American Indian Ethnic Renewal: Politics and the Resurgence of Identity · [DOI](https://doi.org/10.2307/2096434)
+- When Bigger Is Not Better: Family Size, Parental Resources, and Children's Educational Performance · [DOI](https://doi.org/10.2307/2096320)
 
 ## 1994
 
@@ -1162,6 +1183,7 @@
 
 - The Seeds of Weak Power: An Extension of Network Exchange Theory · [DOI](https://doi.org/10.2307/2095966)
 - Money in the Bank: Transaction Costs and the Economic Organization of Marriage · [DOI](https://doi.org/10.2307/2096283)
+- The Rational Reconstruction of Society: 1992 Presidential Address · [DOI](https://doi.org/10.2307/2096213)
 
 ## 1992
 
@@ -1177,6 +1199,7 @@
 - Chains of Cooperation: Threshold Effects in Collective Action · [DOI](https://doi.org/10.2307/2096252)
 - Primary, Secondary, and Enclave Labor Markets: A Training Systems Approach · [DOI](https://doi.org/10.2307/2096266)
 - The Structure of Gossip: Opportunities and Constraints on Collective Expression among Adolescents · [DOI](https://doi.org/10.2307/2096270)
+- Social Inequalities in Reforming State Socialism: Between Redistribution and Markets in China · [DOI](https://doi.org/10.2307/2096103)
 
 ## 1990
 
@@ -1195,18 +1218,22 @@
 - Durkheim, Suicide, and Religion: Toward a Network Theory of Suicide · [DOI](https://doi.org/10.2307/2095660)
 - The Biographical Consequences of Activism · [DOI](https://doi.org/10.2307/2117751)
 - Gender Stratification in Contemporary Urban Japan · [DOI](https://doi.org/10.2307/2095878)
+- Returns on Human Capital in Ethic Enclaves: New York City's Chinatown · [DOI](https://doi.org/10.2307/2117755)
 
 ## 1988
 
 - Religious Economies and Sacred Canopies: Religious Mobilization in American Cities, 1906 · [DOI](https://doi.org/10.2307/2095731)
 - Scholarly Consensus and Journal Rejection Rates · [DOI](https://doi.org/10.2307/2095739)
 - Gender and Promotion in Segmented Job Ladder Systems · [DOI](https://doi.org/10.2307/2095730)
+- Back to the Future: Adult Political Behavior of Former Student Activists · [DOI](https://doi.org/10.2307/2095823)
+- Power Relations in Exchange Networks · [DOI](https://doi.org/10.2307/2095689)
 
 ## 1987
 
 - The Formation of Justice Norms · [DOI](https://doi.org/10.2307/2095834)
 - Classification in Art · [DOI](https://doi.org/10.2307/2095290)
 - The Political Partisanship of American Business: A Study of Corporate Political Action Committees · [DOI](https://doi.org/10.2307/2095832)
+- Potentials, Networks, Motivations, and Barriers: Steps Towards Participation in Social Movements · [DOI](https://doi.org/10.2307/2095297)
 
 ## 1986
 
@@ -1214,11 +1241,13 @@
 - Structure as Process: Organization and Role · [DOI](https://doi.org/10.2307/2095494)
 - On the Uses of Social Science Research · [DOI](https://doi.org/10.2307/2095587)
 - Voluntaristic Action as a Distinct Concept: Theoretical Foundations of Societal Constitutionalism · [DOI](https://doi.org/10.2307/2095365)
+- Pragmatism and Social Interactionism · [DOI](https://doi.org/10.2307/2095475)
 
 ## 1985
 
 - Sex and Power in Interaction: Conversational Privileges and Duties · [DOI](https://doi.org/10.2307/2095338)
 - Professionalization of American Scientists: Public Science in the Creation/ Evolution Trials · [DOI](https://doi.org/10.2307/2095548)
+- Changes in the Employment Activities of New Parents · [DOI](https://doi.org/10.2307/2095414)
 
 ## 1984
 
@@ -1230,11 +1259,14 @@
 - Causes and Consequences of Sex-Role Attitudes and Attitude Change · [DOI](https://doi.org/10.2307/2095106)
 - The Formation and Stability of Instructional Groups · [DOI](https://doi.org/10.2307/2095329)
 - Gender and Jobs: Prestige Standings of Occupations as Affected by Gender · [DOI](https://doi.org/10.2307/2095225)
+- Between the Labor Process and the State: The Changing Face of Factory Regimes Under Advanced Capitalism · [DOI](https://doi.org/10.2307/2094921)
+- Ordinal Measures in Multiple Indicator Models: A Simulation Study of Categorization Error · [DOI](https://doi.org/10.2307/2095231)
 
 ## 1982
 
 - Testing Control Theory and Differential Association: A Causal Modeling Approach · [DOI](https://doi.org/10.2307/2095194)
 - Heterogeneity and Intermarriage · [DOI](https://doi.org/10.2307/2095041)
+- Cultural Capital and School Success: The Impact of Status Culture Participation on the Grades of U.S. High School Students · [DOI](https://doi.org/10.2307/2094962)
 
 ## 1981
 
@@ -1254,6 +1286,8 @@
 - Entry into Early Adolescence: The Impact of School Structure, Puberty, and Early Dating on Self-Esteem · [DOI](https://doi.org/10.2307/2094719)
 - A Study of the Behavior of Law · [DOI](https://doi.org/10.2307/2094813)
 - Effects of Socioeconomic Factors on the Residential Segregation of Blacks and Spanish Americans in U.S. Urbanized Areas · [DOI](https://doi.org/10.2307/2094723)
+- The Hawthorne Experiments: Re-View · [DOI](https://doi.org/10.2307/2094534)
+- Mead vs. Blumer: The Divergent Methodological Perspectives of Social Behaviorism and Symbolic Interactionism · [DOI](https://doi.org/10.2307/2094886)
 
 ## 1978
 
@@ -1284,6 +1318,10 @@
 - Revival Religion and Antislavery Politics · [DOI](https://doi.org/10.2307/2094230)
 - Bringing Beasts Back In: Toward a Biosocial Theory of Aggression · [DOI](https://doi.org/10.2307/2094152)
 
+## 1973
+
+- A Theory of Middleman Minorities · [DOI](https://doi.org/10.2307/2094409)
+
 ## 1972
 
 - The Sphere of Influence · [DOI](https://doi.org/10.2307/2093490)
@@ -1291,6 +1329,7 @@
 ## 1971
 
 - Organization Structure and Communications · [DOI](https://doi.org/10.2307/2093672)
+- Decisions and Exchange · [DOI](https://doi.org/10.2307/2093088)
 
 ## 1970
 
@@ -1302,6 +1341,10 @@
 - Parental and Peer Influences on Educational Plans of Adolescents · [DOI](https://doi.org/10.2307/2092178)
 - Appearance and Education in Marriage Mobility · [DOI](https://doi.org/10.2307/2091961)
 
+## 1968
+
+- Visibility and the Structural Bases of Awareness of Scientific Research · [DOI](https://doi.org/10.2307/2091914)
+
 ## 1967
 
 - Scientific Output and Recognition: A Study in the Operation of the Reward System in Science · [DOI](https://doi.org/10.2307/2091085)
@@ -1310,6 +1353,7 @@
 ## 1966
 
 - Social Factors in the Origins of a New Science: The Case of Psychology · [DOI](https://doi.org/10.2307/2090769)
+- Industrialization and the American Family: A Look Backward · [DOI](https://doi.org/10.2307/2090821)
 
 ## 1965
 
@@ -1325,6 +1369,7 @@
 
 - Dimensions of Alienation Among Manual and Non-Manual Workers · [DOI](https://doi.org/10.2307/2090075)
 - Traditions of Research on the Diffusion of Innovation · [DOI](https://doi.org/10.2307/2090611)
+- The Meanings of Occupational Prestige: Reconsideration of the Norc Scale · [DOI](https://doi.org/10.2307/2090613)
 
 ## 1962
 
@@ -1340,6 +1385,7 @@
 - Sponsored and Contest Mobility and the School System · [DOI](https://doi.org/10.2307/2089982)
 - "Max Weber" · [DOI](https://doi.org/10.2307/2090150)
 - Structural Effects · [DOI](https://doi.org/10.2307/2092624)
+- A Reconsideration of Theories of Social Change · [DOI](https://doi.org/10.2307/2089978)
 
 ## 1959
 
@@ -1358,11 +1404,13 @@
 - A Study of Organizational Effectiveness · [DOI](https://doi.org/10.2307/2089477)
 - A Measure of Alienation · [DOI](https://doi.org/10.2307/2089196)
 - A Critique of Tests of Significance in Survey Research · [DOI](https://doi.org/10.2307/2089475)
+- Techniques of Neutralization: A Theory of Delinquency · [DOI](https://doi.org/10.2307/2089195)
 
 ## 1956
 
 - Changes in Status and Age Identification · [DOI](https://doi.org/10.2307/2088522)
 - Tape Recorded Interviews in Social Research · [DOI](https://doi.org/10.2307/2089294)
+- A Theory of Coalitions in the Triad · [DOI](https://doi.org/10.2307/2088718)
 
 ## 1955
 
@@ -1373,6 +1421,7 @@
 ## 1954
 
 - An Experiment on Conformity to Group Norms Where Conformity is Detrimental to Group Achievement · [DOI](https://doi.org/10.2307/2087913)
+- The Cash Posters: A Study of a Group of Working Girls · [DOI](https://doi.org/10.2307/2087919)
 
 ## 1953
 
@@ -1394,6 +1443,11 @@
 - The Power of Science and the Science of Power · [DOI](https://doi.org/10.2307/2086645)
 - An Analysis of Conflicting Social Norms · [DOI](https://doi.org/10.2307/2086672)
 - Politics Among Nations: The Struggle for Power and Peace. · [DOI](https://doi.org/10.2307/2086875)
+
+## 1947
+
+- The Family Cycle · [DOI](https://doi.org/10.2307/2086982)
+- Heuristic and Empirical Typologies: A Job for Factor Analysis · [DOI](https://doi.org/10.2307/2086492)
 
 ## 1946
 
@@ -1419,3 +1473,7 @@
 
 - Intervening Opportunities: A Theory Relating Mobility and Distance · [DOI](https://doi.org/10.2307/2084520)
 - The Sociology of Parent-Youth Conflict · [DOI](https://doi.org/10.2307/2084427)
+
+## 1936
+
+- The Unanticipated Consequences of Purposive Social Action · [DOI](https://doi.org/10.2307/2084615)

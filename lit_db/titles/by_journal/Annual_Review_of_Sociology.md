@@ -1,6 +1,6 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **594** 篇 | 年份范围：1975–2026
+共 **602** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -46,6 +46,8 @@
 - The Sociology of Interpretation · [DOI](https://doi.org/10.1146/annurev-soc-020321-030515)
 - How Threat Mobilizes the Resurgence and Persistence of US White Supremacist Activism: The 1980s to the Present · [DOI](https://doi.org/10.1146/annurev-soc-031021-112151)
 - Online Illegal Cryptomarkets · [DOI](https://doi.org/10.1146/annurev-soc-090523-052916)
+- “Which Cases Do I Need?” Constructing Cases and Observations in Qualitative Research · [DOI](https://doi.org/10.1146/annurev-soc-031021-035000)
+- Conservatism, the Far Right, and the Environment · [DOI](https://doi.org/10.1146/annurev-soc-083023-035225)
 
 ## 2023
 
@@ -56,6 +58,7 @@
 - What Makes Weak Ties Strong? · [DOI](https://doi.org/10.1146/annurev-soc-030921-034152)
 - The Social Construction of Age: Concepts and Measurement · [DOI](https://doi.org/10.1146/annurev-soc-031021-121020)
 - The Legitimacy of Science · [DOI](https://doi.org/10.1146/annurev-soc-030320-035037)
+- Social Consequences of Forced and Refugee Migration · [DOI](https://doi.org/10.1146/annurev-soc-090221-040023)
 
 ## 2022
 
@@ -447,6 +450,7 @@
 - Men, Masculinity, and Manhood Acts · [DOI](https://doi.org/10.1146/annurev-soc-070308-115933)
 - Gender Ideology: Components, Predictors, and Consequences · [DOI](https://doi.org/10.1146/annurev-soc-070308-115920)
 - Is America Fragmenting? · [DOI](https://doi.org/10.1146/annurev-soc-070308-115909)
+- New Directions in Life Course Research · [DOI](https://doi.org/10.1146/annurev.soc.34.040507.134619)
 
 ## 2008
 
@@ -492,6 +496,7 @@
 - Globalization of law · [DOI](https://doi.org/10.1146/annurev.soc.32.061604.123136)
 - Legitimacy as a Social Process · [DOI](https://doi.org/10.1146/annurev.soc.32.061604.123101)
 - Estimating the Causal Effect of Social Capital: A Review of Recent Research · [DOI](https://doi.org/10.1146/annurev.soc.32.061604.123150)
+- Law and the American State · [DOI](https://doi.org/10.1146/annurev.soc.32.061604.123113)
 
 ## 2005
 
@@ -619,6 +624,7 @@
 
 - Focus Groups · [DOI](https://doi.org/10.1146/annurev.soc.22.1.129)
 - Adult Child–Parent Relationships · [DOI](https://doi.org/10.1146/annurev.soc.22.1.79)
+- What Do Interlocks Do? An Analysis, Critique, and Assessment of Research on Interlocking Directorates · [DOI](https://doi.org/10.1146/annurev.soc.22.1.271)
 
 ## 1995
 
@@ -660,6 +666,7 @@
 - The Design and Administration of Mail Surveys · [DOI](https://doi.org/10.1146/annurev.so.17.080191.001301)
 - Ethnic Minorities and Mental Health · [DOI](https://doi.org/10.1146/annurev.so.17.080191.002031)
 - Third World Urbanization: Dimensions, Theories, and Determinants · [DOI](https://doi.org/10.1146/annurev.so.17.080191.002343)
+- Work Experiences and Family Interaction Processes: The Long Reach of the Job? · [DOI](https://doi.org/10.1146/annurev.so.17.080191.002223)
 
 ## 1990
 
@@ -739,6 +746,7 @@
 - Radical Sociology: The Emergence of Neo-Marxian Perspectives in US Sociology · [DOI](https://doi.org/10.1146/annurev.so.04.080178.001205)
 - Theories of Social Conflict · [DOI](https://doi.org/10.1146/annurev.so.04.080178.001451)
 - The Development of Soviet Sociology, 1956-1976 · [DOI](https://doi.org/10.1146/annurev.so.04.080178.001131)
+- Achievement Ambitions · [DOI](https://doi.org/10.1146/annurev.so.04.080178.002105)
 
 ## 1977
 

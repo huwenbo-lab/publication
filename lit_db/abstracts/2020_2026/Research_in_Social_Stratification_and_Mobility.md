@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2020–2026 年文章（含摘要）
 
-共 **373** 篇
+共 **374** 篇
 
 ---
 
@@ -88,6 +88,11 @@
 ### Occupational Gender Composition is Related to Occupational Wages: Causal Evidence from a Survey Experiment Investigating Occupational Devaluation
 **年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101161](https://doi.org/10.1016/j.rssm.2026.101161)
 **作者**: Taylor, Catherine J.; Salim, Safa; Levanon, Asaf 等5人
+**摘要**: （暂无）
+
+### Is overqualification a stepping stone for career progression among children of immigrants?
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101164](https://doi.org/10.1016/j.rssm.2026.101164)
+**作者**: Kim, Wooseong; Grotti, Raffaele; Aradhya, Siddartha
 **摘要**: （暂无）
 
 ### Inequalities in early childhood education and care by immigrant background

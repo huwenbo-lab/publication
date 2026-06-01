@@ -1,7 +1,7 @@
 # European Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **408** 篇
+共 **409** 篇
 
 ---
 
@@ -34,6 +34,11 @@
 **年份**: 2026 | **DOI**: [10.1093/esr/jcaf058](https://doi.org/10.1093/esr/jcaf058)
 **作者**: Ramos, Vincent Jerald; Berrington, Ann
 **摘要**: Abstract Amidst young adults’ increasing labour market insecurity and rates of parental co-residence, this article examines how unemployment and underexplored forms of non-standard employment (NSE)—underemployment and temporary and agency work (TAW)—are associated with inter-generational co-residenc…
+
+### Changing choices? Primary and secondary effects through times of educational contraction
+**年份**: 2026 | **DOI**: [10.1093/esr/jcag019](https://doi.org/10.1093/esr/jcag019)
+**作者**: Lintunen, Lotta
+**摘要**: Abstract How does inequality of educational opportunity evolve in the context of educational contraction? In Finland, educational attainment declined for cohorts born after the late 1970s, and this study analyses trends in class background inequality in the transition to upper secondary education us…
 
 ### Family ideals in Italy and Spain: towards the end of the traditional Southern European family model?
 **年份**: 2025 | **DOI**: [10.1093/esr/jcaf055](https://doi.org/10.1093/esr/jcaf055)

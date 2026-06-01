@@ -1,6 +1,6 @@
 # Chinese Journal of Sociology — 文章标题索引
 
-共 **262** 篇 | 年份范围：2015–2026
+共 **263** 篇 | 年份范围：2015–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -17,6 +17,7 @@
 - When artificial intelligence makes everything similar: The risks of content homogenization · [DOI](https://doi.org/10.1177/2057150x261419573)
 - Born to work longer? Lifetime socioeconomic dynamics, pension eligibility, and late-life employment in urban China · [DOI](https://doi.org/10.1177/2057150x261420939)
 - Respectability and gendered-capital vulnerability: A qualitative study of second-generation women entrepreneurs in Dongguan, China · [DOI](https://doi.org/10.1177/2057150x261448693)
+- Discernible rupture and implicit continuity: The modernization of family ethics from the perspective of intergenerational co-parenting in China · [DOI](https://doi.org/10.1177/2057150x261439965)
 
 ## 2025
 

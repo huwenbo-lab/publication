@@ -1,7 +1,7 @@
 # European Journal of Population
 ## 2020–2026 年文章（含摘要）
 
-共 **214** 篇
+共 **215** 篇
 
 ---
 
@@ -64,6 +64,11 @@
 **年份**: 2026 | **DOI**: [10.1007/s10680-026-09774-w](https://doi.org/10.1007/s10680-026-09774-w)
 **作者**: Lerch, Mathias; Du, Wenxiu; Beckendorff, Dorothee
 **摘要**: （暂无）
+
+### Long-Term Recall Error in Retrospective Family Surveys: Cohabitation Histories in Denmark
+**年份**: 2026 | **DOI**: [10.1007/s10680-026-09775-9](https://doi.org/10.1007/s10680-026-09775-9)
+**作者**: Fallesen, Peter; Trille G. Loft, Lisbeth; A.L. Simonsen, Emil 等5人
+**摘要**: Abstract Recall questions provide the possibility of obtaining longitudinal information in cross-sectional surveys and are often used in family research. Yet, recall instruments may suffer from measurement issues.…
 
 ### Origin, Generation, and Destination Country Context: Employment Changes and Childbearing Among Female Immigrants and Their Descendants in the UK, France, and Germany
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09750-w](https://doi.org/10.1007/s10680-025-09750-w)

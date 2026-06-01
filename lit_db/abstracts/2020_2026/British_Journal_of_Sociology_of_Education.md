@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **480** 篇
+共 **490** 篇
 
 ---
 
@@ -173,6 +173,26 @@
 ### Being a ‘good’ citizen: white collegiality and academic citizenship
 **年份**: 2026 | **DOI**: [10.1080/01425692.2026.2674680](https://doi.org/10.1080/01425692.2026.2674680)
 **作者**: Bhopal, Kalwant; Myers, Martin
+**摘要**: （暂无）
+
+### Between reflexivity and habitus: transnational academic mobility among Chinese-trained postdoctoral researchers in the United States
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2679478](https://doi.org/10.1080/01425692.2026.2679478)
+**作者**: Wang, Weijun; Yu, Jing
+**摘要**: （暂无）
+
+### Navigating structure and agency: disadvantaged Chinese students’ motivations for international education mobility
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2619550](https://doi.org/10.1080/01425692.2026.2619550)
+**作者**: Liu, Chu
+**摘要**: （暂无）
+
+### Education and the Politics of Interruption: Does the Right Always Win?
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2666440](https://doi.org/10.1080/01425692.2026.2666440)
+**作者**: Khan, Tayeba
+**摘要**: （暂无）
+
+### Evolving homophily in higher education: how university settings transform international student relationships
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2679479](https://doi.org/10.1080/01425692.2026.2679479)
+**作者**: Grund, Thomas; Tiernan, Aisling; Negrea, Briana-Andreea
 **摘要**: （暂无）
 
 ### Numerical diversity only? The case of academic preparatory programs for the Negev Bedouin in Israel
@@ -659,6 +679,16 @@
 **年份**: 2025 | **DOI**: [10.1080/01425692.2024.2409277](https://doi.org/10.1080/01425692.2024.2409277)
 **作者**: Fretwell, Nathan; Barker, John
 **摘要**: This article presents findings from a qualitative study exploring parents' struggles over their children's education. Drawing on affective practice theory (Wetherell 2012) and feminist care ethics (Fisher and Tronto 1990), we offer insights into the affective practices of care driving parents' educa…
+
+### Time in education policy transfer: the seven temporalities of global school reform
+**年份**: 2025 | **DOI**: [10.1080/01425692.2025.2602255](https://doi.org/10.1080/01425692.2025.2602255)
+**作者**: Broeck, Pieter Vanden
+**摘要**: （暂无）
+
+### The Time Inheritors – How Time Inequalities Shape Higher Education Mobility in China
+**年份**: 2025 | **DOI**: [10.1080/01425692.2025.2602254](https://doi.org/10.1080/01425692.2025.2602254)
+**作者**: Sun, Yifei
+**摘要**: （暂无）
 
 ### Reshaping school discipline with metrics: an examination of teachers' disciplinary practices with ClassDojo
 **年份**: 2024 | **DOI**: [10.1080/01425692.2024.2407874](https://doi.org/10.1080/01425692.2024.2407874)
@@ -2403,4 +2433,21 @@
 ### 40th anniversary special issue: the current and future shape of the sociology of education
 **年份**: 2020 | **DOI**: [10.1080/01425692.2020.1801222](https://doi.org/10.1080/01425692.2020.1801222)
 **作者**: James, David
+**摘要**: （暂无）
+
+### Doctoral theses
+**年份**: 2020 | **DOI**: [10.1080/01425692.2020.1821979](https://doi.org/10.1080/01425692.2020.1821979)
+**摘要**: （暂无）
+
+### Doctoral theses
+**年份**: 2020 | **DOI**: [10.1080/01425692.2020.1794177](https://doi.org/10.1080/01425692.2020.1794177)
+**作者**: Pennant, April-Louise M.O.O.
+**摘要**: （暂无）
+
+### Doctoral theses
+**年份**: 2020 | **DOI**: [10.1080/01425692.2020.1852718](https://doi.org/10.1080/01425692.2020.1852718)
+**摘要**: （暂无）
+
+### Doctoral theses
+**年份**: 2020 | **DOI**: [10.1080/01425692.2020.1799591](https://doi.org/10.1080/01425692.2020.1799591)
 **摘要**: （暂无）

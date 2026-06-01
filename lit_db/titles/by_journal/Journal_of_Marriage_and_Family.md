@@ -1,6 +1,6 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2539** 篇 | 年份范围：1965–2026
+共 **2547** 篇 | 年份范围：1965–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2527,6 +2527,7 @@
 - The Economic Risk of Childhood in America: Estimating the Probability of Poverty across the Formative Years · [DOI](https://doi.org/10.2307/354024)
 - The Micropolitics of Care in Relationships between Aging Parents and Adult Children: Individualism, Collectivism, and Power · [DOI](https://doi.org/10.2307/353568)
 - Emotional Transmission in the Daily Lives of Families: A New Paradigm for Studying Family Process · [DOI](https://doi.org/10.2307/353879)
+- The Timing of Childbearing and Women's Wages · [DOI](https://doi.org/10.2307/354020)
 
 ## 1998
 
@@ -2565,6 +2566,8 @@
 - Family Caregiving Systems: Models, Resources, and Values · [DOI](https://doi.org/10.2307/353826)
 - Beyond Drudgery, Power, and Equity: Toward an Expanded Discourse on the Moral Dimensions of Housework in Families · [DOI](https://doi.org/10.2307/353816)
 - Detecting and Correcting Attrition Bias in Longitudinal Family Research · [DOI](https://doi.org/10.2307/353412)
+- A Tutorial in Logistic Regression · [DOI](https://doi.org/10.2307/353415)
+- Social Sources of Change in Children's Home Environments: The Effects of Parental Occupational Experiences and Family Conditions · [DOI](https://doi.org/10.2307/353817)
 
 ## 1994
 
@@ -2578,11 +2581,14 @@
 - A Comparison of Voluntarily Childfree Adults and Parents · [DOI](https://doi.org/10.2307/353345)
 - Care of the Elderly in Japan: Changing Norms and Expectations · [DOI](https://doi.org/10.2307/353340)
 - Family Support to Single and Married African American Mothers: The Provision of Financial, Emotional, and Child Care Assistance · [DOI](https://doi.org/10.2307/352800)
+- Grandparents Who Parent Their Grandchildren: Effects on Lifestyle · [DOI](https://doi.org/10.2307/353342)
 
 ## 1992
 
 - Educational Expansion and Changes in Women's Entry into Marriage and Motherhood in the Federal Republic of Germany · [DOI](https://doi.org/10.2307/353062)
 - Short-Term Consequences of Parenting versus Adoption among Young Unmarried Women · [DOI](https://doi.org/10.2307/353277)
+- The Influence of Parents and Friends on the Quality and Stability of Romantic Relationships: A Three-Wave Longitudinal Investigation · [DOI](https://doi.org/10.2307/353170)
+- International Perspectives on the Residential Mobility of America's Children · [DOI](https://doi.org/10.2307/353167)
 
 ## 1991
 
@@ -2617,6 +2623,7 @@
 - Family Migration and Female Employment: The Problem of Underemployment among Migrant Married Women · [DOI](https://doi.org/10.2307/352436)
 - Marital Strain, Coping, and Depression among Mexican-American Women · [DOI](https://doi.org/10.2307/352005)
 - A Generic Measure of Relationship Satisfaction · [DOI](https://doi.org/10.2307/352430)
+- Quality of Family Life, Social Support, and Stress · [DOI](https://doi.org/10.2307/352427)
 
 ## 1987
 
@@ -2695,6 +2702,7 @@
 ## 1971
 
 - Purdah in Pakistan: Seclusion and Modern Occupations for Women · [DOI](https://doi.org/10.2307/349849)
+- When the Girls Move in: A Sociological Analysis of the Feminization of the Bank Teller's Job · [DOI](https://doi.org/10.2307/349451)
 
 ## 1970
 

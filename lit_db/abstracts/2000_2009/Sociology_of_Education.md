@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2000–2009 年文章（含摘要）
 
-共 **171** 篇
+共 **172** 篇
 
 ---
 
@@ -788,6 +788,11 @@
 ### The Social Sources of Educational Credentialism: Status Cultures, Labor Markets, and Organizations
 **年份**: 2001 | **DOI**: [10.2307/2673251](https://doi.org/10.2307/2673251)
 **作者**: Brown, David K.
+**摘要**: （暂无）
+
+### American Schooling and Educational Inequality: A Forecast for the 21st Century
+**年份**: 2001 | **DOI**: [10.2307/2673258](https://doi.org/10.2307/2673258)
+**作者**: Gamoran, Adam
 **摘要**: （暂无）
 
 ### Educational stratification in contemporary Russia: Stability and change in the face of economic and institutional crisis

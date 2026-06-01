@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **431** 篇
+共 **432** 篇
 
 ---
 
@@ -94,6 +94,11 @@
 **年份**: 2026 | **DOI**: [10.1111/1468-4446.70132](https://doi.org/10.1111/1468-4446.70132)
 **作者**: Mesa, Héritier; Noret, Joël
 **摘要**: ABSTRACT Based on ethnographic fieldwork among Congolese traders operating in Kinshasa's urban economy, this article examines how differentiated family ties and wealth transmission shape social mobility and the intergenerational reproduction of inequality.…
+
+### Reading Margaret Kennedy’s The Feast (1950) at the Same Time as Dan Evan’s A Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie (2023)
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70123](https://doi.org/10.1111/1468-4446.70123)
+**作者**: Bishop, Nicola
+**摘要**: （暂无）
 
 ### Securing Profit: Threat Production as a Mechanism of Racial Capitalism in US-Occupied Kabul
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.70065](https://doi.org/10.1111/1468-4446.70065)

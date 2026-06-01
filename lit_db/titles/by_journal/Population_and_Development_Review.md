@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **1066** 篇 | 年份范围：1976–2026
+共 **1079** 篇 | 年份范围：1976–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -15,6 +15,10 @@
 - Revisiting the Relationship between Marriage and Childbearing in East Asia: The Role of Fertility Desires in Japan · [DOI](https://doi.org/10.1111/padr.70050)
 - A Global Perspective on Trends in the Use of Withdrawal and Periodic Abstinence for Pregnancy Prevention · [DOI](https://doi.org/10.1111/padr.70063)
 - Health Influences on Second‐ and Third‐Birth Probabilities in Norway · [DOI](https://doi.org/10.1111/padr.70066)
+- Changing Landscapes of Parenthood: Childbearing Among Same‐Sex and Different‐Sex Couples in the Nordic Countries · [DOI](https://doi.org/10.1111/padr.70068)
+- The Living Arrangements of Single Mothers in Latin America: Stratification by Education and Partnership Status · [DOI](https://doi.org/10.1111/padr.70075)
+- School Enrollment and Living Arrangements of Children in Sub‐Saharan Africa · [DOI](https://doi.org/10.1111/padr.70045)
+- Leveraging High‐Frequency Digital Data to Analyze Forced Displacement Dynamics: A Case Study from the Gaza Strip · [DOI](https://doi.org/10.1111/padr.70064)
 
 ## 2025
 
@@ -188,6 +192,7 @@
 - Impact of Tuition-Free Education Policy on Child Marriage and Early Childbearing: Does Secondary Matter More? · [DOI](https://doi.org/10.1111/padr.12538)
 - Shifting Parental Age Differences in High-Income Countries: Insights and Implications · [DOI](https://doi.org/10.1111/padr.12597)
 - It's None of Their Damn Business: Privacy and Disclosure Control in the US Census, 1790-2020 · [DOI](https://doi.org/10.1111/padr.12580)
+- Giorgia Meloni on Italy's Demographic Challenge · [DOI](https://doi.org/10.1111/padr.12595)
 
 ## 2022
 
@@ -637,6 +642,7 @@
 - The Role of the Demographic Transition in the Process of Urbanization · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00377.x)
 - The Demise of the American Indios · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00393.x)
 - Abhijit v. Banerjee and Ester Duflo: Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00462.x)
+- Who's Afraid of Population Decline? A Critical Examination of Its Consequences · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00385.x)
 
 ## 2010
 
@@ -1051,6 +1057,7 @@
 - Measuring Women's Work in Developing Countries · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00543.x)
 - How Influential Are Demography Journals? · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00229.x)
 - The Bangladesh Fertility Decline: An Interpretation · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00067.x)
+- Frank Fetter on Population Versus Prosperity · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00577.x)
 
 ## 1998
 
@@ -1072,6 +1079,7 @@
 - Economic Growth, Disruption, Deprivation, Disease, and Death: On the Importance of the Politics of Public Health for Development · [DOI](https://doi.org/10.2307/2137377)
 - Fertility and Family Time Allocation in the Philippines · [DOI](https://doi.org/10.2307/2137550)
 - Shifting Costs of Caring for the Elderly Back to Families in Japan: Will It Work? · [DOI](https://doi.org/10.2307/2137461)
+- Feminists and Neo-Malthusians: Past and Present Alliances · [DOI](https://doi.org/10.2307/2137570)
 
 ## 1996
 
@@ -1084,6 +1092,7 @@
 - Social Interactions and Contemporary Fertility Transitions · [DOI](https://doi.org/10.2307/2137804)
 - Children's Schooling in sub-Saharan Africa: The Role of Fathers, Mothers, and Others · [DOI](https://doi.org/10.2307/2137435)
 - Post-Cairo Population Policy: Does Promoting Girls' Schooling Miss the Mark? · [DOI](https://doi.org/10.2307/2137805)
+- The Istanbul Declaration on Human Settlements · [DOI](https://doi.org/10.2307/2137742)
 
 ## 1995
 
@@ -1101,6 +1110,7 @@
 - An Evaluation of International Migration Theory: The North American Case · [DOI](https://doi.org/10.2307/2137660)
 - Fertility in sub-Saharan Africa: Status and Prospects · [DOI](https://doi.org/10.2307/2137636)
 - Reductions in Mortality at Advanced Ages: Several Decades of Evidence from 27 Countries · [DOI](https://doi.org/10.2307/2137662)
+- Does the Threat of Border Apprehension Deter Undocumented US Immigration? · [DOI](https://doi.org/10.2307/2137667)
 
 ## 1993
 
@@ -1109,6 +1119,7 @@
 - The Idea of Demographic Transition and the Study of Fertility Change: A Critical Intellectual History · [DOI](https://doi.org/10.2307/2938410)
 - Parity Progression and Birth Intervals in China: The Influence of Policy in Hastening Fertility Decline · [DOI](https://doi.org/10.2307/2938385)
 - Coitus Interruptus in the Twentieth Century · [DOI](https://doi.org/10.2307/2938413)
+- The Resumption of Fertility Decline in Japan: 1973-92 · [DOI](https://doi.org/10.2307/2938411)
 
 ## 1992
 
@@ -1194,6 +1205,7 @@
 
 - Sex Bias in the Family Allocation of Food and Health Care in Rural Bangladesh · [DOI](https://doi.org/10.2307/1972764)
 - Population Trends, Population Policy, and Population Studies in China · [DOI](https://doi.org/10.2307/1972766)
+- Malay Marriage and Divorce in Peninsular Malaysia: Three Decades of Change · [DOI](https://doi.org/10.2307/1972623)
 
 ## 1980
 
@@ -1218,6 +1230,7 @@
 - Historical Estimates of World Population: An Evaluation · [DOI](https://doi.org/10.2307/1971891)
 - Internal Migration in Developing Countries: A Review of Theory, Evidence, Methodology, and Research Priorities. · [DOI](https://doi.org/10.2307/1971779)
 - The Modern Rise of Population. · [DOI](https://doi.org/10.2307/1971906)
+- Counting the Uncountable: Estimates of Undocumented Aliens in the United States · [DOI](https://doi.org/10.2307/1971686)
 
 ## 1976
 

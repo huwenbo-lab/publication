@@ -1,7 +1,7 @@
 # Asian Population Studies
 ## 2020–2026 年文章（含摘要）
 
-共 **137** 篇
+共 **138** 篇
 
 ---
 
@@ -33,6 +33,11 @@
 ### Youth transition, mobility, and intergenerationality: parental support and the school-to-work transition of Chinese returnees
 **年份**: 2026 | **DOI**: [10.1080/17441730.2026.2630950](https://doi.org/10.1080/17441730.2026.2630950)
 **作者**: Peng, Yinni
+**摘要**: （暂无）
+
+### Parental absence and the development of preschool children in a high migration civil conflict area
+**年份**: 2026 | **DOI**: [10.1080/17441730.2026.2680862](https://doi.org/10.1080/17441730.2026.2680862)
+**作者**: Jampaklay, Aree; Vapattanawong, Patama; Tangchonlatip, Kanchana 等7人
 **摘要**: （暂无）
 
 ### Labour supply and retirement decisions of older adults: evidence from Thailand

@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2010–2019 年文章（含摘要）
 
-共 **334** 篇
+共 **335** 篇
 
 ---
 
@@ -1532,6 +1532,11 @@
 ### Abhijit v. Banerjee and Ester Duflo: Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty
 **年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00462.x](https://doi.org/10.1111/j.1728-4457.2011.00462.x)
 **摘要**: （暂无）
+
+### Who's Afraid of Population Decline? A Critical Examination of Its Consequences
+**年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00385.x](https://doi.org/10.1111/j.1728-4457.2011.00385.x)
+**作者**: Coleman, David; Rowthorn, Robert
+**摘要**: In the multitude of people is the king's honour; but in the want of people is the destruction of the prince—Proverbs 14: 28
 
 ### Food Security in an Era of Economic Volatility
 **年份**: 2010 | **DOI**: [10.1111/j.1728-4457.2010.00354.x](https://doi.org/10.1111/j.1728-4457.2010.00354.x)

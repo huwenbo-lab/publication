@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2010–2019 年文章（含摘要）
 
-共 **415** 篇
+共 **416** 篇
 
 ---
 
@@ -569,6 +569,11 @@
 **年份**: 2017 | **DOI**: [10.1177/0003122417737951](https://doi.org/10.1177/0003122417737951)
 **作者**: Offer, Shira; Fischer, Claude S.
 **摘要**: Why do people maintain ties with individuals whom they find difficult? Standard network theories imply that such alters are avoided or dropped. Drawing on a survey of over 1,100 diverse respondents who described over 12,000 relationships, we examined which among those ties respondents nominated as a…
+
+### Patchwork Leviathan: How Pockets of Bureaucratic Governance Flourish within Institutionally Diverse Developing States
+**年份**: 2017 | **DOI**: [10.1177/0003122417705874](https://doi.org/10.1177/0003122417705874)
+**作者**: McDonnell, Erin Metz
+**摘要**: Within seemingly weak states, exceptionally effective subunits lie hidden. These high-performing niches exhibit organizational characteristics distinct from poor-performing peer organizations, but also distinct from high-functioning organizations in Western countries.…
 
 ### Explaining the Gaps in White, Black, and Hispanic Violence since 1990: Accounting for Immigration, Incarceration, and Inequality
 **年份**: 2016 | **DOI**: [10.1177/0003122416635667](https://doi.org/10.1177/0003122416635667)

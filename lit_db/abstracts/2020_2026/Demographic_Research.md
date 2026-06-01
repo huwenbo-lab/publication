@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2020–2026 年文章（含摘要）
 
-共 **503** 篇
+共 **507** 篇
 
 ---
 
@@ -43,6 +43,16 @@
 ### Economic insecurity and material deprivation: Coping strategies among couple families with and without small children in Europe
 **年份**: 2026 | **DOI**: [10.4054/demres.2026.54.25](https://doi.org/10.4054/demres.2026.54.25)
 **作者**: Grotti, Raffaele; Gritti, Davide; Scherer, Stefani
+**摘要**: （暂无）
+
+### The ratio of births observed to births needed: An indicator to assess demographic sustainability
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.30](https://doi.org/10.4054/demres.2026.54.30)
+**作者**: Spoorenberg, Thomas; Skirbekk, Vegard
+**摘要**: （暂无）
+
+### The European Parenting Leave Policies (EPLP) dataset: Leave duration entitlements for 21 countries from 1970 to 2024
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.31](https://doi.org/10.4054/demres.2026.54.31)
+**作者**: Spitzer, Sonja; Lemoine, Adèle; Song, Zhanxiong 等30人
 **摘要**: （暂无）
 
 ### Shifting spousal age gaps in Kenya and Ghana: Does education matter?
@@ -398,6 +408,16 @@
 ### The changing inter-relationship between partnership dynamics and fertility trends in Europe and the United States: A review
 **年份**: 2025 | **DOI**: [10.4054/demres.2025.52.7](https://doi.org/10.4054/demres.2025.52.7)
 **作者**: Kuang, Bernice; Berrington, Ann; Vasireddy, Sindhu 等4人
+**摘要**: （暂无）
+
+### Unrealized fertility in demography
+**年份**: 2025 | **DOI**: [10.4054/demres.2025.53.36](https://doi.org/10.4054/demres.2025.53.36)
+**作者**: Yeatman, Sara; Smith-Greenaway, Emily
+**摘要**: （暂无）
+
+### Family and social resilience: A scoping review of the empirical literature
+**年份**: 2025 | **DOI**: [10.4054/demres.2025.52.27](https://doi.org/10.4054/demres.2025.52.27)
+**作者**: Bawati, Abrar; Nieuwenhuis, Rense; Uzunalioǧlu, Merve 等4人
 **摘要**: （暂无）
 
 ### Interrogating the quality and completion of mortality mobile phone interviews conducted in Malawi during COVID-19: An examination of interviewer-respondent interactions

@@ -1,6 +1,6 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1811** 篇 | 年份范围：1950–2026
+共 **1815** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -25,6 +25,7 @@
 - De(‐)Meaning Anti‐Racism · [DOI](https://doi.org/10.1111/1468-4446.70130)
 - The Negotiation of Intergenerational Support for Housing: Diverging Patterns Among Renters and Homeowners · [DOI](https://doi.org/10.1111/1468-4446.70131)
 - Unequal Family Ties, Wealth Transmission and Social Mobility Among Congolese Traders in Kinshasa · [DOI](https://doi.org/10.1111/1468-4446.70132)
+- Reading Margaret Kennedy’s The Feast (1950) at the Same Time as Dan Evan’s A Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie (2023) · [DOI](https://doi.org/10.1111/1468-4446.70123)
 
 ## 2025
 
@@ -1811,6 +1812,7 @@
 - The Religiosity of Women in the Modern West · [DOI](https://doi.org/10.2307/591293)
 - Habermas and Foucault: Thinkers for Civil Society? · [DOI](https://doi.org/10.2307/591310)
 - A Special Case of Voluntary Associations? Towards a Theory of Congregational Organization · [DOI](https://doi.org/10.2307/591291)
+- Developing a Sociology for the Twenty-First Century: Preference Theory · [DOI](https://doi.org/10.2307/591267)
 
 ## 1997
 
@@ -1848,6 +1850,7 @@
 ## 1992
 
 - Political Power beyond the State: Problematics of Government · [DOI](https://doi.org/10.2307/591464)
+- Mega-Events and Micro-Modernization: On the Sociology of the New Urban Tourism · [DOI](https://doi.org/10.2307/591340)
 
 ## 1991
 
@@ -1922,6 +1925,7 @@
 - Intergenerational Class Mobility in Three Western European Societies: England, France and Sweden · [DOI](https://doi.org/10.2307/589632)
 - Ideological Social Relations in Northern Ireland · [DOI](https://doi.org/10.2307/589501)
 - Strikes, Industrial Relations and Class Conflict in Capitalist Societies · [DOI](https://doi.org/10.2307/589523)
+- The Sexual Stratification of Social Control: A Gender-Based Perspective on Crime and Delinquency · [DOI](https://doi.org/10.2307/589499)
 
 ## 1978
 
