@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1709** 篇 | 年份范围：1980–2026
+共 **1719** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -45,6 +45,9 @@
 - Navigating structure and agency: disadvantaged Chinese students’ motivations for international education mobility · [DOI](https://doi.org/10.1080/01425692.2026.2619550)
 - Education and the Politics of Interruption: Does the Right Always Win? · [DOI](https://doi.org/10.1080/01425692.2026.2666440)
 - Evolving homophily in higher education: how university settings transform international student relationships · [DOI](https://doi.org/10.1080/01425692.2026.2679479)
+- Roots and leaves: rethinking the relationship between habitus and identity · [DOI](https://doi.org/10.1080/01425692.2026.2681654)
+- What makes bullying complicated - teachers’ perceptions of bullying-related issues in school · [DOI](https://doi.org/10.1080/01425692.2026.2682490)
+- Understanding racialised elements of habitus of working-class women on an access to higher education course · [DOI](https://doi.org/10.1080/01425692.2026.2679486)
 
 ## 2025
 
@@ -867,6 +870,7 @@
 - Elite schools, postcolonial Chineseness and hegemonic masculinities in Singapore · [DOI](https://doi.org/10.1080/01425692.2014.971944)
 - Social class as flow and mutability: the Barbados case · [DOI](https://doi.org/10.1080/01425692.2014.967838)
 - The role of internationalisation in the schooling of Brazilian elites: distinctions between two class fractions · [DOI](https://doi.org/10.1080/01425692.2014.967841)
+- Psychopathology at school: theorizing mental disorders in school · [DOI](https://doi.org/10.1080/01425692.2015.1043185)
 
 ## 2014
 
@@ -1767,6 +1771,7 @@
 - Self, Space and Place: Youth identities and citizenship · [DOI](https://doi.org/10.1080/01425699995236)
 - Promotion, Persuasion and Class-taste: Marketing (in) the UK post-compulsory sector · [DOI](https://doi.org/10.1080/01425699995272)
 - Coeducation and Gender Identity Formation: A comparative analysis of secondary schools in Belgium · [DOI](https://doi.org/10.1080/01425699995308)
+- Knowledge and Politics of Social Change: The implication of anti-racism · [DOI](https://doi.org/10.1080/01425699995335)
 
 ## 1998
 
@@ -1788,12 +1793,15 @@
 ## 1995
 
 - Carry on Caring: the work of women teachers · [DOI](https://doi.org/10.1080/0142569950160102)
+- The School Mix Effect: the history of an enduring problem in educational research, policy and practice · [DOI](https://doi.org/10.1080/0142569950160204)
 
 ## 1994
 
 - The Colonisation of Social Class in Education · [DOI](https://doi.org/10.1080/0142569940150301)
 - The Thirst for Learning, or Protecting One's Niche? The shaping of teacher training in Finland during the 19th and 20th centuries · [DOI](https://doi.org/10.1080/0142569940150405)
 - For Whom This Reform?: outlining educational policy as a social field · [DOI](https://doi.org/10.1080/0142569940150303)
+- Students’ Differential Text Production in the Regulative Context of the Classroom · [DOI](https://doi.org/10.1080/0142569940150206)
+- Captured by the Discourse? Issues and concerns in researching ‘parental choice‘ · [DOI](https://doi.org/10.1080/0142569940150104)
 
 ## 1993
 
@@ -1805,6 +1813,10 @@
 - Reconceptualising Structure and Agency in the Sociology of Education: structuration theory and schooling · [DOI](https://doi.org/10.1080/0142569920130105)
 - The Paradigm Wars: reports from the front · [DOI](https://doi.org/10.1080/0142569920130110)
 - Teachers’ Struggle: the case of white English‐speaking teachers in South Africa · [DOI](https://doi.org/10.1080/0142569920130302)
+
+## 1991
+
+- Politics, Markets and America's Schools · [DOI](https://doi.org/10.1080/0142569910120306)
 
 ## 1990
 
@@ -1839,3 +1851,4 @@
 
 - History and the Sociology of Education · [DOI](https://doi.org/10.1080/0142569800010307)
 - The ‘Mother‐Tongue’ Issue in Britain: cultural diversity or control? · [DOI](https://doi.org/10.1080/0142569800010301)
+- Women, the Other Academics∗ · [DOI](https://doi.org/10.1080/0142569800010106)

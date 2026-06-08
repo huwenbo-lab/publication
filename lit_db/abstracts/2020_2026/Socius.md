@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **736** 篇
+共 **737** 篇
 
 ---
 
@@ -169,6 +169,11 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231261453968](https://doi.org/10.1177/23780231261453968)
 **作者**: Glavin, Paul; Schieman, Scott; Wilson, Alexander
 **摘要**: This visualization shows a systematic misperception in how workers judge automation risk. Drawing on the 2026 Measuring Employment Sentiments and Social Inequality study, the authors compare paired measures of perceived automation likelihood for self and most others, using nationally representative …
+
+### Resource Stratification and Income Segregation in Brazilian and Chilean Universities
+**年份**: 2026 | **DOI**: [10.1177/23780231261451346](https://doi.org/10.1177/23780231261451346)
+**作者**: Kuzmanic, Danilo
+**摘要**: Wealthy universities enjoy advantages in accessing resources, disproportionately benefiting high-income students who are overrepresented in these institutions. Using administrative data from 2017 to 2019, the author analyzes the relationship between resource inequality and student income segregation…
 
 ### Gender Egalitarianism and Marital Dissolution: Understanding the Bifurcation of the “Gender Revolution” in the United States
 **年份**: 2025 | **DOI**: [10.1177/23780231251372790](https://doi.org/10.1177/23780231251372790)

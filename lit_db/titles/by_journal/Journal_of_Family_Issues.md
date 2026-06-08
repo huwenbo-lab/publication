@@ -1,6 +1,6 @@
 # Journal of Family Issues — 文章标题索引
 
-共 **2332** 篇 | 年份范围：1980–2026
+共 **2346** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -26,6 +26,8 @@
 - The Relationship Between Family Socio-Economic Status and Preschool Children’s Social Competence: The Chain Mediating Role of Family Internal Support and Children’s Empathy · [DOI](https://doi.org/10.1177/0192513x261423891)
 - Through Their Eyes: “My Mother Hit Me Because I’m a Girl…” The Looking-Glass Self and Parents’ Perception of Childhood Maltreatment · [DOI](https://doi.org/10.1177/0192513x261418731)
 - Acculturation and Resilience Influences from the Latino Fathers’ Perspective · [DOI](https://doi.org/10.1177/0192513x251414622)
+- The Politics of the Home: How Family Labour Division, Patriarchy, and Kinship Reproduce Gender Inequality · [DOI](https://doi.org/10.1177/0192513x261459395)
+- How Child and Partnership Characteristics Influence Paternal Involvement · [DOI](https://doi.org/10.1177/0192513x261427676)
 
 ## 2025
 
@@ -669,6 +671,7 @@
 - Why the Son-bias in Caregiving? Testing Sex-differences in the Associations Between Paternal Caregiving and Child Outcomes in England · [DOI](https://doi.org/10.1177/0192513X20941902)
 - Cultural Similarities and Differences in Relationship Goals in Intercultural Romantic Couples · [DOI](https://doi.org/10.1177/0192513X20929071)
 - Does Family Decision-Making Power Improve Women’s Happiness? · [DOI](https://doi.org/10.1177/0192513x211030025)
+- Gender Role Ideology, Work–Family Conflict, Family–Work Conflict, and Marital Satisfaction Among Korean Dual-Earner Couples · [DOI](https://doi.org/10.1177/0192513x211026966)
 
 ## 2020
 
@@ -2354,10 +2357,13 @@
 - Stepparents' Affinity-Seeking and Affinity-Maintaining Strategies With Stepchildren · [DOI](https://doi.org/10.1177/019251399020003001)
 - Family Members' Experiences With Do-Not-Resuscitate (DNR) · [DOI](https://doi.org/10.1177/019251399020002005)
 - Living the Postmodern Dream · [DOI](https://doi.org/10.1177/019251399020002002)
+- Self-Regulation and Self-Worth of Black Children Reared in Economically Stressed, Rural, Single Mother-Headed Families · [DOI](https://doi.org/10.1177/019251399020004003)
 
 ## 1998
 
 - Estimating a Proposed Family Policy's Effects · [DOI](https://doi.org/10.1177/019251398019005003)
+- Available But Not Accessible · [DOI](https://doi.org/10.1177/019251398019003003)
+- Parent-Teen Communication About Sexual Topics · [DOI](https://doi.org/10.1177/019251398019003005)
 
 ## 1997
 
@@ -2380,6 +2386,7 @@
 - The Early Childhood HOME Inventory and HOME-Short Form in Differing Racial/Ethnic Groups · [DOI](https://doi.org/10.1177/019251395016005007)
 - Looking for Mr. Right? · [DOI](https://doi.org/10.1177/019251395016002004)
 - Marriage Timing of Chinese American and Japanese American Women · [DOI](https://doi.org/10.1177/019251395016003005)
+- Parent-Child Relationships During the Transition to Adulthood · [DOI](https://doi.org/10.1177/019251395016005003)
 
 ## 1994
 
@@ -2395,6 +2402,7 @@
 - Maternal Employment and Child Behavioral Outcomes · [DOI](https://doi.org/10.1177/019251393014003001)
 - The Influence of Parental Support, Depressed Affect, and Peers on the Sexual Behaviors of Adolescent Girls · [DOI](https://doi.org/10.1177/019251393014002006)
 - The Impact of Rational Considerations and Perceived Opinions on Young Adults' Union Formation Intentions · [DOI](https://doi.org/10.1177/019251393014002004)
+- Family Discourse, Organizational Embeddedness, and Local Enactment · [DOI](https://doi.org/10.1177/0192513x93014001006)
 
 ## 1992
 
@@ -2402,6 +2410,7 @@
 - Remarriage, Stepparenting, and Household Labor · [DOI](https://doi.org/10.1177/019251392013002006)
 - Gender Differences in Expectations of Self and Future Partner · [DOI](https://doi.org/10.1177/019251392013001004)
 - Adult Son-Parent Relationships and Their Associations With Sons' Psychological Distress · [DOI](https://doi.org/10.1177/019251392013004007)
+- Social Class and The Locus of Reciprocity in Relationships With Adult Children · [DOI](https://doi.org/10.1177/019251392013004006)
 
 ## 1991
 
@@ -2413,6 +2422,7 @@
 ## 1990
 
 - Adolescent Sexual Activity and Mildly Deviant Behavior · [DOI](https://doi.org/10.1177/019251390011003003)
+- The Effect of Marriage on the Well-Being of Adults · [DOI](https://doi.org/10.1177/019251390011001002)
 
 ## 1989
 
@@ -2424,6 +2434,7 @@
 ## 1988
 
 - Economic Distress, Social Integration, and Family Satisfaction · [DOI](https://doi.org/10.1177/019251388009004007)
+- The Gender Division of Labor and the Reproduction of Female Disadvantage · [DOI](https://doi.org/10.1177/019251388009001006)
 
 ## 1987
 
@@ -2449,6 +2460,7 @@
 ## 1984
 
 - Foster Care and Public Policy · [DOI](https://doi.org/10.1177/019251384005002003)
+- Marriage, Divorce, and Living Arrangements · [DOI](https://doi.org/10.1177/019251384005001002)
 
 ## 1983
 
@@ -2465,6 +2477,7 @@
 
 - Childlessness and Marital Satisfaction · [DOI](https://doi.org/10.1177/019251382003004007)
 - Notes from the Editor's Desk · [DOI](https://doi.org/10.1177/019251382003001001)
+- Legal Change and Child Custody Awards · [DOI](https://doi.org/10.1177/019251382003001002)
 
 ## 1981
 
@@ -2472,6 +2485,7 @@
 - Preschoolers' Sex-Role Identity, Father-Role Perceptions, and Paternal Family Participation · [DOI](https://doi.org/10.1177/0192513x8100200208)
 - Processing Battered Women · [DOI](https://doi.org/10.1177/0192513x8100200403)
 - Notes from the Editor's Desk · [DOI](https://doi.org/10.1177/0192513x8100200101)
+- Protective Labor Legislation and the Cult of Domesticity · [DOI](https://doi.org/10.1177/0192513x8100200103)
 
 ## 1980
 

@@ -1,7 +1,7 @@
 # Chinese Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **148** 篇
+共 **149** 篇
 
 ---
 
@@ -59,6 +59,11 @@
 **年份**: 2026 | **DOI**: [10.1177/2057150x261439965](https://doi.org/10.1177/2057150x261439965)
 **作者**: Ji, Yingying; Ruan, Wenya
 **摘要**: This article examines the intergenerational co-parenting experiences of “second-generation rural migrant” families, and the practical process of rebuilding family balance by the parent generation in cohabitation and co-parenting setting during the urbanization of rural households.…
+
+### Negotiating bride price in contemporary China: Gender identities, community norms, and education effects in marriage practices
+**年份**: 2026 | **DOI**: [10.1177/2057150x261454806](https://doi.org/10.1177/2057150x261454806)
+**作者**: Han, Bing; He, Ranran; Kane, Danielle
+**摘要**: Amid declining marriage rates in China, bride price has become a key source of strain in marriage formation. While earlier studies have examined its economic and cultural dimensions, less is known about how migrant workers experience the negotiation of bride price as they move between rural traditio…
 
 ### Scholars like any other? An inquiry into productivity and citations in the field of contemporary China studies
 **年份**: 2025 | **DOI**: [10.1177/2057150X251345124](https://doi.org/10.1177/2057150X251345124)

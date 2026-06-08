@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2211** 篇 | 年份范围：1972–2026
+共 **2216** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -34,6 +34,7 @@
 - Employment stability and social origin: Cumulative advantages in young adults’ homeownership and financial asset accumulation · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103369)
 - A Schumpeter hotel? Surname status inequality and persistence in Sweden, 1880–2015 · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103367)
 - Corrigendum to “Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024” [Soc. Sci. Res. 136C (2026) 103347] · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103373)
+- The good, the bad, and the healthy: A factorial survey analysis of situational morality in consumption and healthcare · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103378)
 
 ## 2025
 
@@ -138,6 +139,7 @@
 - Adaptive educational expectations: How do parental educational expectations respond to child academic performance in various family contexts? · [DOI](https://doi.org/10.1016/j.ssresearch.2024.103097)
 - All in the family? Understanding differences in the kin-centricity of older US adults' core discussion networks from classic age, period, and cohort table estimates · [DOI](https://doi.org/10.1016/j.ssresearch.2024.103098)
 - The effect of grandparental involvement on grandchildren's school grades: Heterogeneity by the extended family characteristics · [DOI](https://doi.org/10.1016/j.ssresearch.2024.103095)
+- Corrigendum to “The uneven effects of gender parity: Trends in gender homophily in scientific publications, 1980–2019” [Soc. Sci. Res. (2025) Volume 132/103228] · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103249)
 
 ## 2024
 
@@ -2273,6 +2275,7 @@
 ## 1998
 
 - The Academic Success of East-Asian–American Students—An Investment Model · [DOI](https://doi.org/10.1006/ssre.1998.0629)
+- Windows on Divorce: Before and after · [DOI](https://doi.org/10.1006/ssre.1998.0625)
 
 ## 1997
 
@@ -2287,6 +2290,7 @@
 ## 1995
 
 - A Resource Dependence Approach To Organizational Failure · [DOI](https://doi.org/10.1006/ssre.1995.1002)
+- Intergenerational Transmission of Political Party Preference in the Netherlands · [DOI](https://doi.org/10.1006/ssre.1995.1009)
 
 ## 1994
 
@@ -2327,6 +2331,10 @@
 
 - Bilingualism and Hispanic scholastic achievement: Some baseline results · [DOI](https://doi.org/10.1016/0049-089x(86)90003-7)
 - Language skills and school achievement of bilingual Hispanics · [DOI](https://doi.org/10.1016/0049-089x(86)90006-2)
+
+## 1981
+
+- Durkheim and pierce on suicide and economic change · [DOI](https://doi.org/10.1016/0049-089x(81)90001-6)
 
 ## 1979
 

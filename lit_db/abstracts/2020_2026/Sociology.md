@@ -1,7 +1,7 @@
 # Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **479** 篇
+共 **480** 篇
 
 ---
 
@@ -94,6 +94,11 @@
 **年份**: 2026 | **DOI**: [10.1177/00380385261428292](https://doi.org/10.1177/00380385261428292)
 **作者**: Ischinsky, Emma
 **摘要**: Public visibility plays a crucial role in how inequality becomes publicly recognised and debated. Yet we know little about how often the very wealthy appear in the public sphere. This study examines the public visibility and invisibility among Germany’s 1718 richest individuals using Manager Magazin…
+
+### Contested capital: Class and the sociology of work
+**年份**: 2026 | **DOI**: [10.1177/00380385261446192](https://doi.org/10.1177/00380385261446192)
+**作者**: Choonara, Joseph; Carter, Bob
+**摘要**: Theories of class within sociology have, over several decades, increasingly marginalised work and employment as generators of social class. In place of this, there has been a growing emphasis on culture determining class, drawing especially on the work of Pierre Bourdieu and exemplified by the work …
 
 ### Social Positioning and Pathways of Social Mobility of Intermarried Ukrainian Migrants in Poland
 **年份**: 2025 | **DOI**: [10.1177/00380385251313900](https://doi.org/10.1177/00380385251313900)

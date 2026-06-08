@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2926** 篇 | 年份范围：1926–2026
+共 **2943** 篇 | 年份范围：1926–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2872,6 +2872,7 @@
 - Women and Men Policymakers: Does the Judge's Gender Affect the Sentencing of Criminal Defendants? · [DOI](https://doi.org/10.2307/3005975)
 - Race/Ethnicity, Nativity, and Infant Mortality in the United States · [DOI](https://doi.org/10.2307/3005972)
 - Occupational Segregation and the Career Mobility of White Men and Women · [DOI](https://doi.org/10.1093/sf/77.4.1433)
+- Ironies of Citizenship: Skin Color, Police Brutality, and the Challenge to Democracy in Brazil · [DOI](https://doi.org/10.2307/3005969)
 
 ## 1998
 
@@ -2884,6 +2885,7 @@
 - Race and the Reproduction of Educational Disadvantage · [DOI](https://doi.org/10.2307/3005702)
 - Do Wives Matter? Class Identities of Wives and Husbands in the United States, 1974-1994 · [DOI](https://doi.org/10.2307/3005703)
 - Children's Residential Mobility and Neighborhood Environment following Parental Divorce and Remarriage · [DOI](https://doi.org/10.2307/3005543)
+- Counterculture or Continuity? Competing Influences on Baby Boomers' Religious Orientations and Participation · [DOI](https://doi.org/10.2307/3005704)
 
 ## 1997
 
@@ -2899,6 +2901,7 @@
 - Collective Identity and Informal Groups in Revolutionary Mobilization: East Germany in 1989 · [DOI](https://doi.org/10.2307/2580758)
 - From Protest to Change of Regime: The 4-19 Revolt and the Fall of the Rhee Regime in South Korea · [DOI](https://doi.org/10.2307/2580348)
 - Labor Market Structures in Japan: An Analysis of Organizational and Occupational Mobility Patterns · [DOI](https://doi.org/10.2307/2580350)
+- Metropolitan Expansion and Black Social Dislocation: The Link between Suburbanization and Center-City Crime · [DOI](https://doi.org/10.2307/2580417)
 
 ## 1995
 
@@ -2911,6 +2914,8 @@
 - Effects of Individual, Occupational, and Industrial Characteristics on Earnings: Intersections of Race and Gender · [DOI](https://doi.org/10.2307/2580296)
 - From Service Provision to Institutional Advocacy: The Shifting Legitimacy of Organizational Forms · [DOI](https://doi.org/10.2307/2580289)
 - Gender, Labor Allocations, and the Psychology of Entitlement within the Home · [DOI](https://doi.org/10.2307/2579820)
+- Disorganizing and Reorganizing Conflict: Outcomes of the State's Legal Regulation of the Strike Since the Wagner Act · [DOI](https://doi.org/10.2307/2580291)
+- Discreet Indiscretions: The Social Organization of Gossip. · [DOI](https://doi.org/10.2307/2579957)
 
 ## 1993
 
@@ -2955,6 +2960,7 @@
 - Household Characteristics, Neighborhood Composition and Victimization Risk · [DOI](https://doi.org/10.2307/2579263)
 - The Effects of Children on Adults' Psychological Well-Being: 1957-1976 · [DOI](https://doi.org/10.2307/2579223)
 - A Theory of Social Interaction. · [DOI](https://doi.org/10.2307/2579266)
+- Other Than Counting Words: A Linguistic Approach to Content Analysis · [DOI](https://doi.org/10.2307/2579224)
 
 ## 1988
 
@@ -2971,6 +2977,7 @@
 - Economic Development and Female Labor Force Participation: A Reconsideration · [DOI](https://doi.org/10.2307/2578815)
 - A Longitudinal Examination of an Integrated Social Process Model of Deviant Behavior · [DOI](https://doi.org/10.2307/2578938)
 - Tokenism Reconsidered: Male Nurses and Female Physicians in a Hospital Setting · [DOI](https://doi.org/10.2307/2578787)
+- Toward an Explication of the Legitimation Process · [DOI](https://doi.org/10.1093/sf/65.2.476)
 
 ## 1985
 
@@ -2982,6 +2989,7 @@
 
 - Social Disruption and Its Effects on Music: An Empirical Analysis · [DOI](https://doi.org/10.2307/2578553)
 - Age and Sequencing Norms in the Transition to Adulthood · [DOI](https://doi.org/10.2307/2578867)
+- Explaining Distributions of Psychological Vulnerability: Lack of Social Support in the Face of Life Stress · [DOI](https://doi.org/10.2307/2579057)
 
 ## 1983
 
@@ -2993,6 +3001,7 @@
 
 - The Structures and Meanings of Social Time · [DOI](https://doi.org/10.2307/2578444)
 - Durkheim and the Social Anthropology of Culture · [DOI](https://doi.org/10.2307/2577977)
+- Sociology: Parochial or Universal? · [DOI](https://doi.org/10.2307/2578443)
 
 ## 1980
 
@@ -3005,6 +3014,7 @@
 - Enduring Effects of Military Service? Opinion Differences between U.S. Veterans and Nonveterans · [DOI](https://doi.org/10.2307/2577356)
 - Gender Advertisements. · [DOI](https://doi.org/10.2307/2577822)
 - A Pseudomodel of the Small World Problem · [DOI](https://doi.org/10.2307/2577602)
+- Status Consistency in Comparative Perspective: An Examination of Educational, Occupational, and Income Data in Nine Societies · [DOI](https://doi.org/10.2307/2577604)
 
 ## 1978
 
@@ -3019,12 +3029,14 @@
 - The Naval Reservist: An Empirical Assessment of Ephemeral Role Enactment · [DOI](https://doi.org/10.2307/2577468)
 - The Structure of Adult Friendship Choices · [DOI](https://doi.org/10.2307/2577741)
 - Charge Reduction: An Intermediary Stage in the Process of Labelling Criminal Defendants · [DOI](https://doi.org/10.2307/2577731)
+- Sanction Fear and the Maintenance of Social Order · [DOI](https://doi.org/10.2307/2577457)
 
 ## 1976
 
 - Perspectives on Inmate Culture: A Study of Women in Prison · [DOI](https://doi.org/10.2307/2576284)
 - Positions in Networks · [DOI](https://doi.org/10.2307/2577097)
 - The Heart of Dixie: An Essay in Folk Geography · [DOI](https://doi.org/10.2307/2576184)
+- Further Notes on Technology and the Moral Order · [DOI](https://doi.org/10.2307/2576226)
 
 ## 1975
 
@@ -3079,6 +3091,7 @@
 
 - Society and the Adolescent Self-Image. · [DOI](https://doi.org/10.2307/2575639)
 - ALIENATION AND FREEDOM : THE FACTORY WORKER AND HIS INDUSTRY. By Robert Blauner. Chicago: The University of Chicago Press, 1964. 222 pp. Illustrated. $7.50 · [DOI](https://doi.org/10.2307/2574777)
+- Suicide, Homicide, and Economic Development · [DOI](https://doi.org/10.2307/2574770)
 
 ## 1962
 
@@ -3099,6 +3112,7 @@
 ## 1958
 
 - Sexual Division of Labor and Cross-Cultural Research · [DOI](https://doi.org/10.2307/2573784)
+- Campus Values in Mate Selection: A Repeat Study · [DOI](https://doi.org/10.2307/2573978)
 
 ## 1957
 
@@ -3117,6 +3131,11 @@
 
 - Toward a Sociology of Language · [DOI](https://doi.org/10.2307/2573708)
 - Perceptual Obstacles to Class Consciousness · [DOI](https://doi.org/10.2307/2572853)
+
+## 1951
+
+- Social Participation Among the Older Population in Rural Areas of Wake County, North Carolina · [DOI](https://doi.org/10.2307/2571741)
+- Social Science Research and the Planning of Urban Neighbourhoods · [DOI](https://doi.org/10.2307/2572411)
 
 ## 1950
 
@@ -3162,6 +3181,7 @@
 ## 1931
 
 - Sociology as a Science · [DOI](https://doi.org/10.2307/3006110)
+- I Culture Conflict and Misconduct · [DOI](https://doi.org/10.1093/sf/9.4.484)
 
 ## 1929
 

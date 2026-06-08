@@ -1,7 +1,7 @@
 # Journal of Marriage and Family
 ## 2020–2026 年文章（含摘要）
 
-共 **533** 篇
+共 **534** 篇
 
 ---
 
@@ -29,6 +29,11 @@
 **年份**: 2026 | **DOI**: [10.1111/jomf.70079](https://doi.org/10.1111/jomf.70079)
 **作者**: Palmaccio, Silvia; Mazrekaj, Deni; De Witte, Kristof
 **摘要**: ABSTRACT Objective This study offers the first population‐based evidence on how young adults from same‐sex families fare when entering the labor market shortly after leaving full‐time education. Background Same‐sex couples' parenting rights remain controversial in many countries.…
+
+### Impact of Sibling Death in Midlife on Tension Among Surviving Siblings
+**年份**: 2026 | **DOI**: [10.1111/jomf.70083](https://doi.org/10.1111/jomf.70083)
+**作者**: Suitor, J. Jill; Frase, Robert T.; Gilligan, Megan 等6人
+**摘要**: ABSTRACT Objective This study investigates changes in sibling tension following the deaths of sibship members in midlife, as well as the processes underlying these changes, particularly as they vary by the gender of the deceased sibling.…
 
 ### Gender Norms in Transition? Parents' Housework and Childcare Time in the COVID-19 Era
 **年份**: 2025 | **DOI**: [10.1111/jomf.70053](https://doi.org/10.1111/jomf.70053)

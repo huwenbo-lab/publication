@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2020–2026 年文章（含摘要）
 
-共 **743** 篇
+共 **746** 篇
 
 ---
 
@@ -99,6 +99,16 @@
 **年份**: 2026 | **DOI**: [10.1177/0192513x251414622](https://doi.org/10.1177/0192513x251414622)
 **作者**: Garcia, John; Hwang, Shann Hwa
 **摘要**: This phenomenological study focused on the lived experiences of Latino fathers’ perceptions of acculturation into the United States and how their role, family structure, and responsibility were impacted from their perspective.…
+
+### The Politics of the Home: How Family Labour Division, Patriarchy, and Kinship Reproduce Gender Inequality
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459395](https://doi.org/10.1177/0192513x261459395)
+**作者**: Zhao, Jianyun
+**摘要**: This paper examines the family as a pivotal site in the production and reproduction of gender inequality. Tracing origins, continuation, and intergenerational transmission, it argues that household labour division and entrenched gender norms, which are rooted in biological determinist narratives, es…
+
+### How Child and Partnership Characteristics Influence Paternal Involvement
+**年份**: 2026 | **DOI**: [10.1177/0192513x261427676](https://doi.org/10.1177/0192513x261427676)
+**作者**: Eichhorn, Thomas; Zerle-Elsäßer, Claudia
+**摘要**: Coming from a family system theoretical perspective we asked to what extent selected child characteristics (age and gender of the child, position in the sibling order, biological/non-biological child, child health status) influence paternal involvement.…
 
 ### Fictive Kin Support Networks of African American and Black Caribbean Adolescents
 **年份**: 2025 | **DOI**: [10.1177/0192513X251379000](https://doi.org/10.1177/0192513X251379000)
@@ -3239,6 +3249,11 @@
 **年份**: 2021 | **DOI**: [10.1177/0192513x211030025](https://doi.org/10.1177/0192513x211030025)
 **作者**: Li, Zhongwu
 **摘要**: It is almost a consensus that the stronger family decision-making power a woman has, the happier she will be. While using the China Family Panel Studies, this study reveals a long-overlooked fact that women’s control over more family decision-making power does not necessarily improve their happiness…
+
+### Gender Role Ideology, Work–Family Conflict, Family–Work Conflict, and Marital Satisfaction Among Korean Dual-Earner Couples
+**年份**: 2021 | **DOI**: [10.1177/0192513x211026966](https://doi.org/10.1177/0192513x211026966)
+**作者**: Yoo, Jieun
+**摘要**: The purpose of this study was to examine the effect of the gender role ideology of Korean dual-earner couples on marital satisfaction through work-to-family conflict and family-to-work conflict.…
 
 ### The Changing Status of Israeli Arab Women as Reflected in Their Role as Main Caregivers
 **年份**: 2020 | **DOI**: [10.1177/0192513X19898829](https://doi.org/10.1177/0192513X19898829)

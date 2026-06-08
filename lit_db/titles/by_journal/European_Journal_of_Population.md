@@ -1,6 +1,6 @@
 # European Journal of Population — 文章标题索引
 
-共 **843** 篇 | 年份范围：1985–2026
+共 **846** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -903,6 +903,7 @@
 - Fertility Behaviour under Income Uncertainty · [DOI](https://doi.org/10.1023/a:1006106527618)
 - Mortality Differences Related to Socioeconomic Status and the Progressivity of Old-Age Pensions and Health Insurance: The Netherlands · [DOI](https://doi.org/10.1023/a:1006188911462)
 - Childbearing Trends in Sweden 1961--1997 · [DOI](https://doi.org/10.1023/a:1006145610780)
+- A Demographic Model of Measles Epidemics · [DOI](https://doi.org/10.1023/a:1006224902376)
 
 ## 1998
 
@@ -924,6 +925,7 @@
 ## 1995
 
 - Infant health and mortality indicators · [DOI](https://doi.org/10.1007/bf01264105)
+- Life expectancy at age 60 ? Epidemiologic scenarios assuming delayed mortality for selected causes of death · [DOI](https://doi.org/10.1007/bf01264950)
 
 ## 1994
 
@@ -947,6 +949,7 @@
 
 - Analyse biographique du travail féminin · [DOI](https://doi.org/10.1007/bf01796874)
 - Mariage et mobilité sociale en France · [DOI](https://doi.org/10.1007/bf01797102)
+- Who forgets? An analysis of memory effects in a retrospective survey on migration history · [DOI](https://doi.org/10.1007/bf01796872)
 
 ## 1989
 

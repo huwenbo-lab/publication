@@ -1,6 +1,6 @@
 # American Sociological Review — 文章标题索引
 
-共 **1221** 篇 | 年份范围：1936–2026
+共 **1240** 篇 | 年份范围：1936–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1126,6 +1126,9 @@
 - Religious Congregations and Welfare Reform: Who Will Take Advantage of "Charitable Choice"? · [DOI](https://doi.org/10.2307/2657405)
 - Comment on Zhou &amp; Hou: A Negative Life Event with Positive Consequences? · [DOI](https://doi.org/10.1177/000312249906400104)
 - Neighborhood Effects on Family Formation: Concentrated Poverty and Beyond · [DOI](https://doi.org/10.2307/2657281)
+- Income Inequality, Development, and Dependence: A Reconsideration · [DOI](https://doi.org/10.2307/2657259)
+- The Ties That Bind: Principles of Cohesion in Cohabitation and Marriage · [DOI](https://doi.org/10.2307/2657490)
+- “Property Values Drop When Blacks Move In, Because…”: Racial and Socioeconomic Determinants of Neighborhood Desirability · [DOI](https://doi.org/10.1177/000312249906400308)
 
 ## 1998
 
@@ -1151,6 +1154,7 @@
 - Argumentative Talk in Divorce Mediation Sessions · [DOI](https://doi.org/10.2307/2657457)
 - Rethinking Racism: Toward a Structural Interpretation · [DOI](https://doi.org/10.2307/2657316)
 - Bigger May be Better, But is Older Wiser? Organizational Age and Size in the New York Life Insurance Industry · [DOI](https://doi.org/10.2307/2657346)
+- The Sociological Study of Social Change: 1996 Presidential Address · [DOI](https://doi.org/10.2307/2657449)
 
 ## 1996
 
@@ -1184,6 +1188,7 @@
 - The Seeds of Weak Power: An Extension of Network Exchange Theory · [DOI](https://doi.org/10.2307/2095966)
 - Money in the Bank: Transaction Costs and the Economic Organization of Marriage · [DOI](https://doi.org/10.2307/2096283)
 - The Rational Reconstruction of Society: 1992 Presidential Address · [DOI](https://doi.org/10.2307/2096213)
+- Conservative Protestantism and Support for Corporal Punishment · [DOI](https://doi.org/10.2307/2096222)
 
 ## 1992
 
@@ -1211,6 +1216,7 @@
 - Incorporating Comparison within a World-Historical Perspective: An Alternative Comparative Method · [DOI](https://doi.org/10.2307/2095763)
 - Collective Sanctions and Compliance Norms: A Formal Theory of Group-Mediated Social Control · [DOI](https://doi.org/10.2307/2095762)
 - From Farm to Factory: Proletarianization in Korea · [DOI](https://doi.org/10.2307/2095863)
+- Structure, Action, and Outcomes: The Dynamics of Power in Social Exchange · [DOI](https://doi.org/10.2307/2095767)
 
 ## 1989
 
@@ -1219,6 +1225,7 @@
 - The Biographical Consequences of Activism · [DOI](https://doi.org/10.2307/2117751)
 - Gender Stratification in Contemporary Urban Japan · [DOI](https://doi.org/10.2307/2095878)
 - Returns on Human Capital in Ethic Enclaves: New York City's Chinatown · [DOI](https://doi.org/10.2307/2117755)
+- Self-Esteem and Adolescent Problems: Modeling Reciprocal Effects · [DOI](https://doi.org/10.2307/2095720)
 
 ## 1988
 
@@ -1242,12 +1249,14 @@
 - On the Uses of Social Science Research · [DOI](https://doi.org/10.2307/2095587)
 - Voluntaristic Action as a Distinct Concept: Theoretical Foundations of Societal Constitutionalism · [DOI](https://doi.org/10.2307/2095365)
 - Pragmatism and Social Interactionism · [DOI](https://doi.org/10.2307/2095475)
+- Opportunity and the Minority Middle Class: A Comparison of Blacks in the United States and Catholics in Northern Ireland · [DOI](https://doi.org/10.2307/2095517)
 
 ## 1985
 
 - Sex and Power in Interaction: Conversational Privileges and Duties · [DOI](https://doi.org/10.2307/2095338)
 - Professionalization of American Scientists: Public Science in the Creation/ Evolution Trials · [DOI](https://doi.org/10.2307/2095548)
 - Changes in the Employment Activities of New Parents · [DOI](https://doi.org/10.2307/2095414)
+- Toward a Multilevel Distributive Justice Theory · [DOI](https://doi.org/10.2307/2095506)
 
 ## 1984
 
@@ -1273,12 +1282,14 @@
 - Pearson's R and Coarsely Categorized Measures · [DOI](https://doi.org/10.2307/2094981)
 - The Dimension(s) of Democracy: Further Issues in the Measurement and Effects of Political Democracy · [DOI](https://doi.org/10.2307/2094946)
 - Keeping up the Neighborhood: Estimating Net Effects of Zoning · [DOI](https://doi.org/10.2307/2095075)
+- Black Southern Student Sit-in Movement: An Analysis of Internal Organization · [DOI](https://doi.org/10.2307/2095077)
 
 ## 1980
 
 - Social Networks and Social Movements: A Microstructural Approach to Differential Recruitment · [DOI](https://doi.org/10.2307/2094895)
 - Weber's Last Theory of Capitalism: A Systematization · [DOI](https://doi.org/10.2307/2094910)
 - Social Class and Psychological Distress · [DOI](https://doi.org/10.2307/2095178)
+- The Flemish Movement in Belgium After World War II: A Dynamic Analysis · [DOI](https://doi.org/10.2307/2095244)
 
 ## 1979
 
@@ -1300,6 +1311,7 @@
 - Multiple Roles and Role Strain: Some Notes on Human Energy, Time and Commitment · [DOI](https://doi.org/10.2307/2094577)
 - The Deterrence Doctrine and the Perceived Certainty of Legal Punishments · [DOI](https://doi.org/10.2307/2094607)
 - The French Republican Calendar: A Case Study in the Sociology of Time · [DOI](https://doi.org/10.2307/2094573)
+- Social Status, Status Inconsistency and Psychological Stress · [DOI](https://doi.org/10.2307/2094560)
 
 ## 1976
 
@@ -1311,6 +1323,7 @@
 - On "De-Parsonizing Weber" · [DOI](https://doi.org/10.2307/2094201)
 - Socioeconomic Status and Religious Participation · [DOI](https://doi.org/10.2307/2094180)
 - The Effects of International Economic Dependence on Development and Inequality: A Cross-National Study · [DOI](https://doi.org/10.2307/2094176)
+- The Structure of Intragenerational Mobility · [DOI](https://doi.org/10.2307/2094433)
 
 ## 1974
 
@@ -1321,6 +1334,7 @@
 ## 1973
 
 - A Theory of Middleman Minorities · [DOI](https://doi.org/10.2307/2094409)
+- Disturbance in the Self-Image at Adolescence · [DOI](https://doi.org/10.2307/2094407)
 
 ## 1972
 
@@ -1330,11 +1344,13 @@
 
 - Organization Structure and Communications · [DOI](https://doi.org/10.2307/2093672)
 - Decisions and Exchange · [DOI](https://doi.org/10.2307/2093088)
+- Dialectic in Sociology · [DOI](https://doi.org/10.2307/2093597)
 
 ## 1970
 
 - A Formal Theory of Differentiation in Organizations · [DOI](https://doi.org/10.2307/2093199)
 - Police Control of Juveniles · [DOI](https://doi.org/10.2307/2093853)
+- Reactive Subsystems · [DOI](https://doi.org/10.2307/2093207)
 
 ## 1969
 
@@ -1370,6 +1386,7 @@
 - Dimensions of Alienation Among Manual and Non-Manual Workers · [DOI](https://doi.org/10.2307/2090075)
 - Traditions of Research on the Diffusion of Innovation · [DOI](https://doi.org/10.2307/2090611)
 - The Meanings of Occupational Prestige: Reconsideration of the Norc Scale · [DOI](https://doi.org/10.2307/2090613)
+- Functional Analysis in Sociology · [DOI](https://doi.org/10.2307/2090451)
 
 ## 1962
 
@@ -1426,6 +1443,7 @@
 ## 1953
 
 - A Technique for the Measurement of Race Attitudes · [DOI](https://doi.org/10.2307/2087852)
+- Levels of Aspiration and Social Class · [DOI](https://doi.org/10.2307/2087876)
 
 ## 1951
 
@@ -1448,6 +1466,7 @@
 
 - The Family Cycle · [DOI](https://doi.org/10.2307/2086982)
 - Heuristic and Empirical Typologies: A Job for Factor Analysis · [DOI](https://doi.org/10.2307/2086492)
+- Internal Migration in Peace and War · [DOI](https://doi.org/10.2307/2086487)
 
 ## 1946
 

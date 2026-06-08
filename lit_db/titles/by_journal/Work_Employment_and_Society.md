@@ -1,6 +1,6 @@
 # Work, Employment and Society — 文章标题索引
 
-共 **1878** 篇 | 年份范围：1987–2026
+共 **1895** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -27,6 +27,10 @@
 - Carol Wolkowitz remembered · [DOI](https://doi.org/10.1177/09500170251410868)
 - Spatial Control, Precarity, and Union Resistance in Digital Remote Work: An Analysis of ‘Work From Home’ in US and Canadian Call Centres · [DOI](https://doi.org/10.1177/09500170251401491)
 - Mobilization Theory in Practice: The Great Strike of Zonguldak · [DOI](https://doi.org/10.1177/09500170261424131)
+- Solidarity and Contentiousness in Migrant Worker Mobilisation: Syndicalist Unionisation in Sweden · [DOI](https://doi.org/10.1177/09500170261432085)
+- ‘Straight from a Night Shift to the Infusions’: Crip Temporalities at Work · [DOI](https://doi.org/10.1177/09500170261432090)
+- Working Through Alienation? The Ambivalent Promise of Craft · [DOI](https://doi.org/10.1177/09500170261434883)
+- Managing Mobility: Platform Work Models, Organizational Identification, and Food Delivery Couriers' Exit Intentions · [DOI](https://doi.org/10.1177/09500170261428386)
 
 ## 2025
 
@@ -1903,12 +1907,17 @@
 - Book Reviews · [DOI](https://doi.org/10.1177/0950017099013004015)
 - Danger: Bodies at Work · [DOI](https://doi.org/10.1177/09500179922117737)
 - Book Reviews · [DOI](https://doi.org/10.1177/09500179922117881)
+- Myths and Counter-Myths: An Analysis of Part-Time Female Employees and Their Orientations to Work and Working Hours · [DOI](https://doi.org/10.1177/09500179922117908)
+- The Myth of Empowerment: Work Organisation, Hierarchy and Employee Autonomy in Contemporary Australian Workplaces · [DOI](https://doi.org/10.1177/09500179922117782)
 
 ## 1998
 
 - Book Reviews · [DOI](https://doi.org/10.1177/0950017098124026)
 - Book Reviews · [DOI](https://doi.org/10.1177/0950017098123017)
 - Book Reviews · [DOI](https://doi.org/10.1177/0950017098124024)
+- Gender Relations and Employment: The Impact of Occupation · [DOI](https://doi.org/10.1177/0950017098122005)
+- CLASS AND THE CHANGING NATURE OF WORK: TESTING HYPOTHESES OF DESKILLING AND CONVERGENCE AMONG SWEDISH EMPLOYEES · [DOI](https://doi.org/10.1017/s0950017098000154)
+- Gendered Equity? Comparing Explanations of Women's Satisfaction with the Domestic Division of Labour · [DOI](https://doi.org/10.1177/0950017098123006)
 
 ## 1997
 
@@ -1925,11 +1934,14 @@
 - Shopfloor Trade Unionism in Russia: The Prospects of Reform from Below · [DOI](https://doi.org/10.1177/0950017097111007)
 - Dualism, Flexibility and Self-Employment in the UK Construction Industry · [DOI](https://doi.org/10.1177/0950017097113004)
 - In Search of Technik: Will Engineering Outgrow Management? · [DOI](https://doi.org/10.1177/0950017097114009)
+- Stuck in the Middle? Managers in Building Societies · [DOI](https://doi.org/10.1177/0950017097111006)
 
 ## 1996
 
 - Book Reviews · [DOI](https://doi.org/10.1177/0950017096101023)
 - The `New Economic Sociology' · [DOI](https://doi.org/10.1177/0950017096103008)
+- Welfare Dependency, the Enterprise Culture and Self-Employed Survival · [DOI](https://doi.org/10.1177/0950017096103002)
+- Paternalism and its Discontents: A Case Study · [DOI](https://doi.org/10.1177/0950017096104005)
 
 ## 1995
 
@@ -1947,6 +1959,9 @@
 - Book Reviews · [DOI](https://doi.org/10.1177/095001709481020)
 - Book Reviews · [DOI](https://doi.org/10.1177/095001709484016)
 - Book Reviews · [DOI](https://doi.org/10.1177/095001709482017)
+- Economic Theory, the Labour Market and Inequality · [DOI](https://doi.org/10.1177/095001709482007)
+- Fiddly Jobs, Undeclared Working and the Something for Nothing Society · [DOI](https://doi.org/10.1177/095001709484002)
+- Disciplinary Practice: A Study of Railways in Britain, 1860-1988 · [DOI](https://doi.org/10.1177/095001709483001)
 
 ## 1993
 
@@ -1954,6 +1969,7 @@
 - The End of a Way of Life: Coal Communities Since the 1984-85 Miners' Strike · [DOI](https://doi.org/10.1177/095001709371007)
 - Professional Knowledge and Social Mobility: Postwar Changes in the Knowledge-Base of Management Accounting · [DOI](https://doi.org/10.1177/095001709371001)
 - Book Reviews · [DOI](https://doi.org/10.1177/095001709374017)
+- Outsourcing and the Search for `Flexibility' · [DOI](https://doi.org/10.1177/095001709372003)
 
 ## 1992
 
@@ -1967,6 +1983,7 @@
 - Gendering Jobs: Corporate Strategy, Managerial Control and the Dynamics of Job Segregation · [DOI](https://doi.org/10.1177/0950017091005002003)
 - Consumers' Reports: Management by Customers in a Changing Economy · [DOI](https://doi.org/10.1177/0950017091005001002)
 - Book Reviews · [DOI](https://doi.org/10.1177/0950017091005001018)
+- How do you Manage a Flexible Firm? The Total Quality Model · [DOI](https://doi.org/10.1177/0950017091005003005)
 
 ## 1990
 

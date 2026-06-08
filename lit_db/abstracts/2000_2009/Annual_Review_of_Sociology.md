@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **128** 篇
+共 **130** 篇
 
 ---
 
@@ -370,6 +370,11 @@
 **作者**: Hitlin, Steven; Piliavin, Jane Allyn
 **摘要**: Over the past decades, the concept of values has gone in and out of fashion within sociology. Relatively recent advances in both the conceptualization and measurement of values offer the potential for a reincorporation of values into sociological work.…
 
+### Low-Income Fathers
+**年份**: 2004 | **DOI**: [10.1146/annurev.soc.29.010202.095947](https://doi.org/10.1146/annurev.soc.29.010202.095947)
+**作者**: Nelson, Timothy J.
+**摘要**: This article reviews recent literature on low-income fathers, including the transition to fatherhood for young unmarried fathers and levels of father involvement among married, cohabiting, and nonresident low-income fathers.…
+
 ### Beyond rational choice theory
 **年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100213](https://doi.org/10.1146/annurev.soc.29.010202.100213)
 **作者**: Boudon, R
@@ -644,3 +649,8 @@
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.107](https://doi.org/10.1146/annurev.soc.26.1.107)
 **作者**: Nagel, Joane
 **摘要**: This paper explores the connections between ethnicity and sexuality. Racial, ethnic, and national boundaries are also sexual boundaries. The borderlands dividing racial, ethnic, and national identities and communities constitute ethnosexual frontiers, erotic intersections that are heavily patrolled,…
+
+### Feminist State Theory: Applications to Jurisprudence, Criminology, and the Welfare State
+**年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.641](https://doi.org/10.1146/annurev.soc.26.1.641)
+**作者**: Haney, Lynne A.
+**摘要**: This chapter discusses developments in feminist state theory through a comparison of feminist interventions into jurisprudence, criminology, and welfare state theory. Early feminist work on the state analyzed how women were subordinated by a centralized state.…

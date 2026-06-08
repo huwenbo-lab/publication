@@ -1,6 +1,6 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **602** 篇 | 年份范围：1975–2026
+共 **612** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -48,6 +48,7 @@
 - Online Illegal Cryptomarkets · [DOI](https://doi.org/10.1146/annurev-soc-090523-052916)
 - “Which Cases Do I Need?” Constructing Cases and Observations in Qualitative Research · [DOI](https://doi.org/10.1146/annurev-soc-031021-035000)
 - Conservatism, the Far Right, and the Environment · [DOI](https://doi.org/10.1146/annurev-soc-083023-035225)
+- A Sociology of Real Estate: Polanyi, Du Bois, and the Relational Study of Commodified Land in a Climate-Changed Future · [DOI](https://doi.org/10.1146/annurev-soc-033022-035124)
 
 ## 2023
 
@@ -59,6 +60,7 @@
 - The Social Construction of Age: Concepts and Measurement · [DOI](https://doi.org/10.1146/annurev-soc-031021-121020)
 - The Legitimacy of Science · [DOI](https://doi.org/10.1146/annurev-soc-030320-035037)
 - Social Consequences of Forced and Refugee Migration · [DOI](https://doi.org/10.1146/annurev-soc-090221-040023)
+- Critical Race Theory: Confronting, Challenging, and Rethinking White Privilege · [DOI](https://doi.org/10.1146/annurev-soc-031021-123710)
 
 ## 2022
 
@@ -526,6 +528,7 @@
 - America's Changing Color Lines: Immigration, Race/Ethnicity, and Multiracial Identification · [DOI](https://doi.org/10.1146/annurev.soc.30.012703.110519)
 - The Sociology of Property Rights · [DOI](https://doi.org/10.1146/annurev.soc.30.012703.110538)
 - Values: Reviving a Dormant Concept · [DOI](https://doi.org/10.1146/annurev.soc.30.012703.110640)
+- Low-Income Fathers · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.095947)
 
 ## 2003
 
@@ -593,11 +596,13 @@
 - Wealth Inequality in the United States · [DOI](https://doi.org/10.1146/annurev.soc.26.1.63)
 - Social Psychology of Identities · [DOI](https://doi.org/10.1146/annurev.soc.26.1.367)
 - Ethnicity and Sexuality · [DOI](https://doi.org/10.1146/annurev.soc.26.1.107)
+- Feminist State Theory: Applications to Jurisprudence, Criminology, and the Welfare State · [DOI](https://doi.org/10.1146/annurev.soc.26.1.641)
 
 ## 1999
 
 - SOCIAL NETWORKS AND STATUS ATTAINMENT · [DOI](https://doi.org/10.1146/annurev.soc.25.1.467)
 - WHAT HAS HAPPENED TO THE US LABOR MOVEMENT? Union Decline and Renewal · [DOI](https://doi.org/10.1146/annurev.soc.25.1.95)
+- A RETROSPECTIVE ON THE CIVIL RIGHTS MOVEMENT: Political and Intellectual Landmarks · [DOI](https://doi.org/10.1146/annurev.soc.25.1.517)
 
 ## 1998
 
@@ -657,6 +662,7 @@
 - Concepts and Measurement of Prestige · [DOI](https://doi.org/10.1146/annurev.so.18.080192.001345)
 - Job Mobility and Career Processes · [DOI](https://doi.org/10.1146/annurev.so.18.080192.000351)
 - Two Approaches to Social Structure: Exchange Theory and Network Analysis · [DOI](https://doi.org/10.1146/annurev.so.18.080192.000545)
+- Social Science Research and Contemporary Studies of Homelessness · [DOI](https://doi.org/10.1146/annurev.so.18.080192.001021)
 
 ## 1991
 
@@ -676,6 +682,7 @@
 - The Risks of Reproductive Impairment in the Later Years of Childbearing · [DOI](https://doi.org/10.1146/annurev.so.16.080190.002423)
 - The Sociology of Nonprofit Organizations and Sectors · [DOI](https://doi.org/10.1146/annurev.so.16.080190.001033)
 - Ethnicity and Entrepreneurship · [DOI](https://doi.org/10.1146/annurev.so.16.080190.000551)
+- Theories and Methods of Telephone Surveys · [DOI](https://doi.org/10.1146/annurev.so.16.080190.001253)
 
 ## 1989
 
@@ -691,6 +698,7 @@
 - Energy and Society · [DOI](https://doi.org/10.1146/annurev.so.14.080188.001053)
 - Soviet Sociology and Sociology in the Soviet Union · [DOI](https://doi.org/10.1146/annurev.so.14.080188.000531)
 - Evaluating Work and Comparable Worth · [DOI](https://doi.org/10.1146/annurev.so.14.080188.001303)
+- National Politics and Collective Action: Recent Theory and Research in Western Europe and the United States · [DOI](https://doi.org/10.1146/annurev.so.14.080188.002225)
 
 ## 1987
 
@@ -701,6 +709,8 @@
 ## 1986
 
 - Social Impact Assessment · [DOI](https://doi.org/10.1146/annurev.so.12.080186.002315)
+- The Transition to Adulthood · [DOI](https://doi.org/10.1146/annurev.so.12.080186.000545)
+- Associations and Interest Groups · [DOI](https://doi.org/10.1146/annurev.so.12.080186.000245)
 
 ## 1985
 

@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **1990** 篇 | 年份范围：1964–2026
+共 **2001** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -20,6 +20,7 @@
 - Net Worth Poverty in Childhood: Duration, Timing, and Educational Outcomes · [DOI](https://doi.org/10.1215/00703370-12563780)
 - Can Incorporating Parity Information Improve the Reliability of Completed Cohort Fertility Projections? Insights From a Bayesian Generalized Additive Model Approach · [DOI](https://doi.org/10.1215/00703370-12530362)
 - Impaired Cognitive and Behavioral Functioning in Childhood and Economic Outcomes in Adulthood · [DOI](https://doi.org/10.1215/00703370-12543998)
+- Mobility Framing Effects in Migration Surveys: A Research Note With Experimental Evidence From Senegal · [DOI](https://doi.org/10.1215/00703370-12655184)
 
 ## 2025
 
@@ -2008,6 +2009,7 @@
 - Rectangularization revisited: Variability of age at death within human populations* · [DOI](https://doi.org/10.2307/2648085)
 - Geographic morbidity differentials in the late nineteenth-century United States · [DOI](https://doi.org/10.2307/2648082)
 - The effect of inbreeding on early childhood mortality: Twelve generations of an amish settlement · [DOI](https://doi.org/10.2307/2648113)
+- Life course transitions of American children: Parental cohabitation, marriage, and single motherhood · [DOI](https://doi.org/10.2307/2648109)
 
 ## 1998
 
@@ -2024,6 +2026,7 @@
 - Couple childbearing desires, intentions, and births · [DOI](https://doi.org/10.2307/3038288)
 - Ever since gompertz · [DOI](https://doi.org/10.2307/2061656)
 - The effects of economic and population growth on national saving and inequality · [DOI](https://doi.org/10.2307/2061662)
+- The mobility experience and neighborhood attachment · [DOI](https://doi.org/10.2307/2061701)
 
 ## 1996
 
@@ -2055,6 +2058,7 @@
 - Personality traits and developmental experiences as antecedents of childbearing motivation · [DOI](https://doi.org/10.2307/2061731)
 - African-American marriage in 1910: Beneath the surface of census data · [DOI](https://doi.org/10.2307/2061359)
 - Religion and fertility in the United States: New patterns · [DOI](https://doi.org/10.2307/2061727)
+- Stemming the tide? Assessing the deterrent effects of the immigration reform and control act · [DOI](https://doi.org/10.2307/2061724)
 
 ## 1991
 
@@ -2067,6 +2071,8 @@
 
 - Fertility desires and fertility: Hers, his, and theirs · [DOI](https://doi.org/10.2307/2061571)
 - The Origins of the Chinese Fertility Decline · [DOI](https://doi.org/10.2307/2061373)
+- When Is a Father Really Gone? Paternal–Child Contact in Father-Absent Homes · [DOI](https://doi.org/10.2307/2061567)
+- Age estimation from the number of teeth erupted in young children: An aid to demographic surveys · [DOI](https://doi.org/10.2307/2061560)
 
 ## 1989
 
@@ -2086,6 +2092,10 @@
 - Intergenerational transmission of relative fertility and life course patterns · [DOI](https://doi.org/10.2307/2061386)
 - Social factors and infant mortality: Identifying high-risk groups and proximate causes · [DOI](https://doi.org/10.2307/2061300)
 
+## 1986
+
+- A new look at entropy and the life table · [DOI](https://doi.org/10.2307/2061621)
+
 ## 1985
 
 - Constraints, Satisfaction and Residential Mobility: Speare’s Model Reconsidered · [DOI](https://doi.org/10.2307/2061178)
@@ -2102,11 +2112,13 @@
 ## 1983
 
 - A hazards-Model analysis of the covariates of infant and child mortality in Sri Lanka · [DOI](https://doi.org/10.2307/2060898)
+- The long-term effects of time-dependent maternity behavior · [DOI](https://doi.org/10.2307/2060902)
 
 ## 1982
 
 - Immigration and the Stable Population Model · [DOI](https://doi.org/10.2307/2061132)
 - Race differences in age at first birth and the pace of subsequent fertility: Implications for the minority group status hypothesis · [DOI](https://doi.org/10.2307/2060973)
+- Income and Fertility: The Elusive Relationship · [DOI](https://doi.org/10.2307/2061129)
 
 ## 1981
 
@@ -2130,6 +2142,7 @@
 - Contextual and ideological dimensions of attitudes toward discretionary abortion · [DOI](https://doi.org/10.2307/2060657)
 - The effects of demographic factors, family background, and early job achievement on age at marriage · [DOI](https://doi.org/10.2307/2060520)
 - What will 1984 be like? Socioeconomic implications of recent twists in age structure · [DOI](https://doi.org/10.2307/2061197)
+- The stable births resulting from a time dependent change between two net maternity functions · [DOI](https://doi.org/10.2307/2060496)
 
 ## 1975
 
@@ -2147,6 +2160,7 @@
 ## 1970
 
 - Some demographic determinants of average household size: An analytic approach · [DOI](https://doi.org/10.2307/2060023)
+- Estimates of induced abortion in urban North Carolina · [DOI](https://doi.org/10.2307/2060019)
 
 ## 1969
 

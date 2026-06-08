@@ -1,7 +1,7 @@
 # 社会学与人口学文献数据库概览
 
-> 生成时间：2026-06-01  
-> 总计：**33,680** 篇 | **25** 本期刊 | 1896–2026
+> 生成时间：2026-06-08  
+> 总计：**33,935** 篇 | **25** 本期刊 | 1896–2026
 
 ## 数据字段
 
@@ -27,31 +27,31 @@
 
 | 期刊 | 文章数 | 年份范围 | 近6年(2020+) |
 |---|---|---|---|
-| American Journal of Sociology | 1,053 | 1896–2026 | 195 |
-| American Sociological Review | 1,221 | 1936–2026 | 228 |
-| Annual Review of Sociology | 602 | 1975–2026 | 126 |
-| Asian Population Studies | 431 | 2005–2026 | 138 |
-| British Journal of Sociology | 1,815 | 1950–2026 | 432 |
-| British Journal of Sociology of Education | 1,709 | 1980–2026 | 490 |
-| Chinese Journal of Sociology | 263 | 2015–2026 | 148 |
+| American Journal of Sociology | 1,070 | 1896–2026 | 196 |
+| American Sociological Review | 1,240 | 1936–2026 | 228 |
+| Annual Review of Sociology | 612 | 1975–2026 | 128 |
+| Asian Population Studies | 433 | 2005–2026 | 140 |
+| British Journal of Sociology | 1,836 | 1950–2026 | 434 |
+| British Journal of Sociology of Education | 1,719 | 1980–2026 | 493 |
+| Chinese Journal of Sociology | 264 | 2015–2026 | 149 |
 | Chinese Sociological Review | 272 | 2011–2026 | 142 |
-| Demographic Research | 1,834 | 1999–2026 | 507 |
-| Demography | 1,990 | 1964–2026 | 545 |
-| European Journal of Population | 843 | 1985–2026 | 215 |
-| European Sociological Review | 1,519 | 1986–2026 | 409 |
-| Gender & Society | 1,244 | 1987–2026 | 215 |
-| Journal of Family Issues | 2,332 | 1980–2026 | 743 |
+| Demographic Research | 1,841 | 1999–2026 | 512 |
+| Demography | 2,001 | 1964–2026 | 546 |
+| European Journal of Population | 846 | 1985–2026 | 215 |
+| European Sociological Review | 1,525 | 1986–2026 | 411 |
+| Gender & Society | 1,255 | 1987–2026 | 215 |
+| Journal of Family Issues | 2,346 | 1980–2026 | 746 |
 | Journal of Family Theory & Review | 763 | 2009–2026 | 323 |
-| Journal of Marriage and Family | 2,547 | 1965–2026 | 533 |
-| Population and Development Review | 1,079 | 1976–2026 | 284 |
-| Research in Social Stratification and Mobility | 858 | 2001–2026 | 374 |
-| Social Forces | 2,926 | 1926–2026 | 512 |
-| Social Science Research | 2,211 | 1972–2026 | 535 |
-| Sociological Science | 392 | 2014–2026 | 199 |
-| Sociology | 2,287 | 1968–2026 | 479 |
-| Sociology of Education | 590 | 1963–2026 | 127 |
-| Socius | 1,021 | 2016–2026 | 736 |
-| Work, Employment and Society | 1,878 | 1987–2026 | 442 |
+| Journal of Marriage and Family | 2,560 | 1965–2026 | 534 |
+| Population and Development Review | 1,092 | 1976–2026 | 284 |
+| Research in Social Stratification and Mobility | 859 | 2001–2026 | 375 |
+| Social Forces | 2,943 | 1926–2026 | 512 |
+| Social Science Research | 2,216 | 1972–2026 | 537 |
+| Sociological Science | 394 | 2014–2026 | 201 |
+| Sociology | 2,307 | 1968–2026 | 480 |
+| Sociology of Education | 624 | 1963–2026 | 127 |
+| Socius | 1,022 | 2016–2026 | 737 |
+| Work, Employment and Society | 1,895 | 1987–2026 | 446 |
 
 ## 如何查阅文献
 

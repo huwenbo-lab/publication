@@ -1,7 +1,7 @@
 # Demography
 ## 2020–2026 年文章（含摘要）
 
-共 **545** 篇
+共 **546** 篇
 
 ---
 
@@ -69,6 +69,11 @@
 **年份**: 2026 | **DOI**: [10.1215/00703370-12543998](https://doi.org/10.1215/00703370-12543998)
 **作者**: Corman, Hope; Noonan, Kelly; Reichman, Nancy E.
 **摘要**: Abstract Developmental disabilities are prevalent among U.S. children, child disability rates have been increasing, and the increases have been driven by cognitive and behavioral disorders.…
+
+### Mobility Framing Effects in Migration Surveys: A Research Note With Experimental Evidence From Senegal
+**年份**: 2026 | **DOI**: [10.1215/00703370-12655184](https://doi.org/10.1215/00703370-12655184)
+**作者**: Murken, Niklas; Schewel, Kerilyn; Tjaden, Jasper
+**摘要**: Highlights We provide causal evidence that asking about intentions to stay rather than migrate reduces expressed migration aspirations by 12 percentage points, confirming a significant “mobility framing effect” in survey responses.…
 
 ### Single Parenthood, Gender, and Mortality
 **年份**: 2025 | **DOI**: [10.1215/00703370-12234087](https://doi.org/10.1215/00703370-12234087)

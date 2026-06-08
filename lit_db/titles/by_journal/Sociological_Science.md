@@ -1,6 +1,6 @@
 # Sociological Science — 文章标题索引
 
-共 **392** 篇 | 年份范围：2014–2026
+共 **394** 篇 | 年份范围：2014–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -29,6 +29,8 @@
 - Echo Chambers Are Defined by Conflict, Not Isolation · [DOI](https://doi.org/10.15195/v13.a22)
 - Dissecting Taste Distinction: Cultural Tastes and Perceptions of Individuals’ Status and Qualities · [DOI](https://doi.org/10.15195/v13.a20)
 - How a Seemingly Innocuous and Intuitive Methodological Choice Confused a Generation of Research on Policy Responsiveness · [DOI](https://doi.org/10.15195/v13.a21)
+- Declining Inequality and Persistent Inequality Structures · [DOI](https://doi.org/10.15195/v13.a24)
+- Family Networks and Childcare Choices: A Predictive Machine Learning Approach · [DOI](https://doi.org/10.15195/v13.a23)
 
 ## 2025
 

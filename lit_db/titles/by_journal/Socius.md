@@ -1,6 +1,6 @@
 # Socius — 文章标题索引
 
-共 **1021** 篇 | 年份范围：2016–2026
+共 **1022** 篇 | 年份范围：2016–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -40,6 +40,7 @@
 - Keys to the Future: How Gender and Sexuality Jointly Shape Parental Financial Support for Home Ownership · [DOI](https://doi.org/10.1177/23780231261450330)
 - What Would Jesus Fund? Christian Nationalism and Americans’ Views on Government Spending · [DOI](https://doi.org/10.1177/23780231261447651)
 - The Self-Other Gap in Perceived Automation Risk: Evidence from the United States and Canada · [DOI](https://doi.org/10.1177/23780231261453968)
+- Resource Stratification and Income Segregation in Brazilian and Chilean Universities · [DOI](https://doi.org/10.1177/23780231261451346)
 
 ## 2025
 

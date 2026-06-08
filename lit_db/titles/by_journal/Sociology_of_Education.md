@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **590** 篇 | 年份范围：1963–2026
+共 **624** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -580,6 +580,7 @@
 - Effects of Feeder Patterns on Students' Transition to High School · [DOI](https://doi.org/10.2307/2673154)
 - Race, Cultural Capital, and Educational Resources: Persistent Inequalities and Achievement Returns · [DOI](https://doi.org/10.2307/2673227)
 - Students on the Move: Residential and Educational Mobility in America's Schools · [DOI](https://doi.org/10.2307/2673186)
+- Pathways into Work: Short- and Long-Term Effects of Personal and Institutional Ties · [DOI](https://doi.org/10.2307/2673228)
 
 ## 1998
 
@@ -587,11 +588,16 @@
 - Parent-Child Differences in Educational Expectations and the Academic Achievement of Immigrant and Native Students · [DOI](https://doi.org/10.2307/2673201)
 - "Moving On": Residential Mobility and Children's School Lives · [DOI](https://doi.org/10.2307/2673244)
 - Parents' Extrafamilial Resources and Children's School Attainment · [DOI](https://doi.org/10.2307/2673204)
+- A Little Help from My Friend's Parents: Intergenerational Closure and Educational Outcomes · [DOI](https://doi.org/10.2307/2673172)
+- Gender-Related Change in Occupational Aspirations · [DOI](https://doi.org/10.2307/2673221)
+- Toward Explaining Differences in Educational Achievement among Mexican American Language-Minority Students · [DOI](https://doi.org/10.2307/2673222)
+- E Pluribus Unum: Bilingualism and Loss of Language in the Second Generation · [DOI](https://doi.org/10.2307/2673171)
 
 ## 1997
 
 - From First Grade Forward: Early Foundations of High School Dropout · [DOI](https://doi.org/10.2307/2673158)
 - History and Agency in Men's Lives: Pathways to Achievement in Cohort Perspective · [DOI](https://doi.org/10.2307/2673192)
+- Gender Segregation among College and University Employees · [DOI](https://doi.org/10.2307/2673161)
 
 ## 1996
 
@@ -601,6 +607,7 @@
 - Race, Cultural Capital, and Schooling: An Analysis of Trends in the United States · [DOI](https://doi.org/10.2307/2112721)
 - Access to and Opportunity in Postsecondary Education in the United States: A Review · [DOI](https://doi.org/10.2307/3108457)
 - Teachers' Decision-Making Power and School Conflict · [DOI](https://doi.org/10.2307/2112804)
+- Effects of High School Work Experience a Decade Later: Evidence from the National Longitudinal Survey · [DOI](https://doi.org/10.2307/2112724)
 
 ## 1995
 
@@ -610,12 +617,14 @@
 - Individual and Organizational Predictors of High School Track Placement · [DOI](https://doi.org/10.2307/2112743)
 - Secondary Vocational Education and the Transition from School to Work · [DOI](https://doi.org/10.2307/2112684)
 - Religious Socialization and Female Subjectivity: Religious-Zionist Adolescent Girls in Israel · [DOI](https://doi.org/10.2307/2112763)
+- Social Capital and the Reproduction of Inequality: Information Networks among Mexican-Origin High School Students · [DOI](https://doi.org/10.2307/2112778)
 
 ## 1994
 
 - Tracking: From Theory to Practice · [DOI](https://doi.org/10.2307/2112697)
 - Lost Talent: Unrealized Educational Aspirations and Expectations among U.S. Youths · [DOI](https://doi.org/10.2307/2112789)
 - Sequences of Opportunities for Learning · [DOI](https://doi.org/10.2307/2112790)
+- Sexism in Single-Sex and Coeducational Independent Secondary School Classrooms · [DOI](https://doi.org/10.2307/2112699)
 
 ## 1993
 
@@ -631,6 +640,8 @@
 - World Expansion of Mass Education, 1870-1980 · [DOI](https://doi.org/10.2307/2112679)
 - Policy, School Structure, and Sociodemographic Effects on Statewide High School Dropout Rates · [DOI](https://doi.org/10.2307/2112694)
 - Multinational Corporate Investment and Women's Participation in Higher Education in Noncore Nations · [DOI](https://doi.org/10.2307/2112691)
+- Contextual Effects on the Self-perceived Efficacy of High School Teachers · [DOI](https://doi.org/10.2307/2112680)
+- Socialization to Gender Roles: Popularity among Elementary School Boys and Girls · [DOI](https://doi.org/10.2307/2112807)
 
 ## 1991
 
@@ -638,17 +649,23 @@
 - Class, Gender, and School Expansion in France: A Four-Systems Comparison · [DOI](https://doi.org/10.2307/2112705)
 - The Effect of the Social Organization of Schools on Teachers' Efficacy and Satisfaction · [DOI](https://doi.org/10.2307/2112851)
 - State Control of the Curriculum and Classroom Instruction · [DOI](https://doi.org/10.2307/2112887)
+- Do School Achievements Affect the Early Jobs of High School Graduates in the United States and Japan? · [DOI](https://doi.org/10.2307/2112880)
+- Education, Social Class, and Participation in Collective Action · [DOI](https://doi.org/10.2307/2112881)
 
 ## 1990
 
 - The Attitude-Achievement Paradox Among Black Adolescents · [DOI](https://doi.org/10.2307/2112896)
 - Students' Characteristics and the Peer-Influence Process · [DOI](https://doi.org/10.2307/2112858)
+- Effects of Peer, Faculty, and Parental Influences on Students' Persistence · [DOI](https://doi.org/10.2307/2112838)
+- Education, Occupational Prestige, and Income of Asian Americans · [DOI](https://doi.org/10.2307/2112895)
 
 ## 1989
 
 - Sibling Resemblance and Intersibling Effects in Educational Attainment · [DOI](https://doi.org/10.2307/2112864)
 - A Multilevel Model of the Social Distribution of High School Achievement · [DOI](https://doi.org/10.2307/2112866)
 - Construction of the First Mass Education Systems in Nineteenth-Century Europe · [DOI](https://doi.org/10.2307/2112831)
+- High School Completion and Men's Incomes: An Apparent Anomaly · [DOI](https://doi.org/10.2307/2112867)
+- Education, Gender, and Economic Development: A Cross-National Study · [DOI](https://doi.org/10.2307/2112821)
 
 ## 1988
 
@@ -664,12 +681,16 @@
 - The Stratification of High School Learning Opportunities · [DOI](https://doi.org/10.2307/2112271)
 - Student Passivity: A Study of Question Asking in K-12 Classrooms · [DOI](https://doi.org/10.2307/2112275)
 - Ability Grouping and Sex Differences in Mathematics Achievement · [DOI](https://doi.org/10.2307/2112582)
+- The Effects of Community Colleges: Aid or Hindrance to Socioeconomic Attainment? · [DOI](https://doi.org/10.2307/2112584)
 
 ## 1986
 
 - Mothers' Strategies for Children's School Achievement: Managing the Transition to High School · [DOI](https://doi.org/10.2307/2112340)
 - Instructional and Institutional Effects of Ability Grouping · [DOI](https://doi.org/10.2307/2112346)
 - Cross-Group Contact Opportunities: Impact on Interpersonal Relationships in Desegregated Middle Schools · [DOI](https://doi.org/10.2307/2112436)
+- The Impact of Financial and Cultural Resources on Educational Attainment in the Netherlands · [DOI](https://doi.org/10.2307/2112350)
+- Effects of Ethnicity and Sex on Teachers' Expectations of Junior High School Students · [DOI](https://doi.org/10.2307/2112486)
+- Performance Standards, Student Effort on Homework, and Academic Achievement · [DOI](https://doi.org/10.2307/2112483)
 
 ## 1985
 
@@ -679,12 +700,14 @@
 - From Idealism to Pragmatic Detachment: The Academic Performance of College Athletes · [DOI](https://doi.org/10.2307/2112226)
 - Course Enrollment in the High School: The Perspective of Working-Class Females · [DOI](https://doi.org/10.2307/2112540)
 - Catholic-School Effects on Academic Achievement: New Evidence from the High School and Beyond Follow-Up Study · [DOI](https://doi.org/10.2307/2112250)
+- The Legitimacy of Early School Leaving: Occupational Orientations, Vocational Training Plans, and Educational Attainment Among Urban Australian Youth · [DOI](https://doi.org/10.2307/2112225)
 
 ## 1984
 
 - Sibling Similarities in Educational Attainment: A Comparison of Like-Sex and Cross-Sex Sibling Pairs · [DOI](https://doi.org/10.2307/2112464)
 - Language and Schooling · [DOI](https://doi.org/10.2307/2112601)
 - The College Channel: Private and Public Schools Reconsidered · [DOI](https://doi.org/10.2307/2112633)
+- Experience Counts, Theory Doesn't: How Teachers Talk About Their Work · [DOI](https://doi.org/10.2307/2112428)
 
 ## 1983
 
@@ -699,12 +722,14 @@
 
 - The Structure of Significant Other Influence on Status Aspirations: Black-White Variations · [DOI](https://doi.org/10.2307/2112608)
 - High School Seniors' Occupational Plans and Values: Trends in Sex Differences 1976 through 1980 · [DOI](https://doi.org/10.2307/2112606)
+- Racial Segregation Among Public and Private Schools · [DOI](https://doi.org/10.2307/2112293)
 
 ## 1981
 
 - Does Consistency of Parental Educational Encouragement Matter for Secondary School Students? · [DOI](https://doi.org/10.2307/2112567)
 - Research Productivity in Academia: A Comparative Study of the Sciences, Social Sciences and Humanities · [DOI](https://doi.org/10.2307/2112566)
 - Sex-Typing and Change in the Occupational Choices of High School Seniors: 1964-1975 · [DOI](https://doi.org/10.2307/2112509)
+- Ability Grouping as a Self-Fulfilling Prophecy: A Micro-Analysis of Teacher-Student Interaction · [DOI](https://doi.org/10.2307/2112327)
 
 ## 1980
 
@@ -725,6 +750,9 @@
 
 - Athletics, Aspirations, and Attainments · [DOI](https://doi.org/10.2307/2112373)
 - High School Context Effects on Aspirations · [DOI](https://doi.org/10.2307/2112499)
+- Black-White Differences in the Educational Attainment Process · [DOI](https://doi.org/10.2307/2112641)
+- Schooling, Ability, and Earnings: Cross-Sectional Findings 8 to 14 Years after High School Graduation · [DOI](https://doi.org/10.2307/2112649)
+- Open Schools and Achievement: Extended Tests of a Finding of No Relationship · [DOI](https://doi.org/10.2307/2112375)
 
 ## 1976
 
@@ -739,17 +767,21 @@
 ## 1974
 
 - Recruiting Faculty and Students · [DOI](https://doi.org/10.2307/2112168)
+- Research Activity in American Higher Education · [DOI](https://doi.org/10.2307/2112166)
 
 ## 1973
 
 - The School as a Social Environment for Learning: Social Organization and Micro-Social Process in Education · [DOI](https://doi.org/10.2307/2112204)
 - School Bureaucratization and Alienation from High School · [DOI](https://doi.org/10.2307/2112177)
 - The Effect of Physical Attractiveness on Teacher Expectations · [DOI](https://doi.org/10.2307/2112099)
+- The Psychocultural Origins of Achievement and Achievement Motivation: The Mexican-American Family · [DOI](https://doi.org/10.2307/2111895)
+- Status Attainment Processes · [DOI](https://doi.org/10.2307/2112205)
 
 ## 1972
 
 - Voluntary Withdrawal from a Total Adult Socializing Organization: A Model · [DOI](https://doi.org/10.2307/2112147)
 - Elementary School Predictors of High School Dropout among Black Males · [DOI](https://doi.org/10.2307/2112008)
+- How Teachers Perceive the Relation Between School and Society · [DOI](https://doi.org/10.2307/2111829)
 
 ## 1970
 
@@ -759,6 +791,10 @@
 ## 1969
 
 - Patterns of Mobility of New Ph.D.'s Among American Academic Institutions · [DOI](https://doi.org/10.2307/2111806)
+
+## 1968
+
+- Some Methodological and Field Problems of Social Research in Elite Secondary Schools · [DOI](https://doi.org/10.2307/2111848)
 
 ## 1967
 
@@ -774,3 +810,4 @@
 ## 1963
 
 - Secondary Schooling and Social Mobility in a West African Nation · [DOI](https://doi.org/10.2307/2111950)
+- Comparison Between Pre- and Post-War Student Movements in Japan · [DOI](https://doi.org/10.2307/2112140)

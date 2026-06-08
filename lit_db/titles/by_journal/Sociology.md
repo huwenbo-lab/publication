@@ -1,6 +1,6 @@
 # Sociology — 文章标题索引
 
-共 **2287** 篇 | 年份范围：1968–2026
+共 **2307** 篇 | 年份范围：1968–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -25,6 +25,7 @@
 - Time Well Spent? Rhythms of Dating on Apps before, during and after COVID-19 Social Restrictions · [DOI](https://doi.org/10.1177/00380385251412565)
 - Love Your Neighbourhood and Leave It: Citizenship Ideals, Welfare Encounters and the Reproduction of Cross-Pressure in a Disadvantaged Helsinki Neighbourhood · [DOI](https://doi.org/10.1177/00380385261424076)
 - The Invisible Super-Rich? A Quantitative Analysis of the Press Coverage of Germany’s Wealth Elite · [DOI](https://doi.org/10.1177/00380385261428292)
+- Contested capital: Class and the sociology of work · [DOI](https://doi.org/10.1177/00380385261446192)
 
 ## 2025
 
@@ -2255,6 +2256,7 @@
 - From Banana Time to Just-in-Time: Power and Resistance at Work · [DOI](https://doi.org/10.1177/s0038038599000486)
 - Consumer Culture and the Commodification of Policing and Security · [DOI](https://doi.org/10.1177/s003803859900022x)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038599033003025)
+- Some Social and Physical Correlates of Intergenerational Social Mobility: Evidence from the West of Scotland Collaborative Study · [DOI](https://doi.org/10.1177/s0038038599000097)
 
 ## 1998
 
@@ -2263,6 +2265,9 @@
 - Social Integration and System Integration: Reconsidering the Classical Distinction · [DOI](https://doi.org/10.1177/0038038598032003005)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038598032001020)
 - Visions of Anthropology: What's the Goddamn Point of it all? · [DOI](https://doi.org/10.1177/0038038598032004013)
+- Gender, Methodology and People's Ways of Knowing: Some Problems with Feminism and the Paradigm Debate in Social Science · [DOI](https://doi.org/10.1177/0038038598032004005)
+- International Comparative Analysis and Explanation in Medical Sociology: Demystifying the Halcion Anomaly · [DOI](https://doi.org/10.1177/0038038598032001009)
+- EVALUATING ‘DIASPORA’: BEYOND ETHNICITY? · [DOI](https://doi.org/10.1017/s0038038598000091)
 
 ## 1997
 
@@ -2276,6 +2281,11 @@
 - On the Concept of Motive in Sociology · [DOI](https://doi.org/10.1177/0038038596030001007)
 - The Sociology of Professions and the Profession of Gender · [DOI](https://doi.org/10.1177/0038038596030004003)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038596030003016)
+- Investing in Class Analysis Futures · [DOI](https://doi.org/10.1177/0038038596030002008)
+- Halcion Nights: A Sociological Account of a Medical Controversy · [DOI](https://doi.org/10.1177/0038038596030003003)
+- Wives and Husbands: Social Class, Gender, and Class Identification in the U.S. · [DOI](https://doi.org/10.1177/0038038596030002003)
+- Social Integration and System Integration: Developing the Distinction · [DOI](https://doi.org/10.1177/0038038596030004004)
+- Generational Changes in Gender-Role Attitudes: Britain in a Cross-National Perspective · [DOI](https://doi.org/10.1177/0038038596030003004)
 
 ## 1995
 
@@ -2285,6 +2295,7 @@
 - Incorporation without Integration: Palestinian Citizens in Israel's Labour Market · [DOI](https://doi.org/10.1177/0038038595029003004)
 - Death in the News: The Public Invigilation of Private Emotion · [DOI](https://doi.org/10.1177/0038038595029004002)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038595029001018)
+- Uncovering Gender Differences in the Use of Marital Violence: The Effect of Methodology · [DOI](https://doi.org/10.1177/0038038595029003006)
 
 ## 1994
 
@@ -2348,6 +2359,7 @@
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038588022002026)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038588022003039)
 - Engineering Education in Britain and Japan: Some Reflections on the Use of `the Best Practice' Models in International Comparison · [DOI](https://doi.org/10.1177/0038038588022004007)
+- `Women at Class Crossroads': A Critical Note · [DOI](https://doi.org/10.1177/0038038588022004004)
 
 ## 1987
 
@@ -2358,6 +2370,7 @@
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038587021002018)
 - Gender, Status and Professionalism · [DOI](https://doi.org/10.1177/0038038587021003007)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038587021003017)
+- Assessing the Socio-Economic Status of Families · [DOI](https://doi.org/10.1177/0038038587021003008)
 
 ## 1986
 
@@ -2386,12 +2399,14 @@
 
 - Secondary Analysis and the Relationship between Official and Academic Social Research · [DOI](https://doi.org/10.1177/0038038582016001005)
 - Shorter Notices · [DOI](https://doi.org/10.1177/0038038582016004029)
+- Conservatism, Dogmatism, and Authoritarianism in British Police Officers · [DOI](https://doi.org/10.1177/0038038582016001004)
 
 ## 1981
 
 - `Objective' Interests and the Sociology of Power · [DOI](https://doi.org/10.1177/003803858101500202)
 - Objectives in Teaching and Using Research Methodology · [DOI](https://doi.org/10.1177/003803858101500402)
 - The Making of Social Psychology. Discussions with Creative Contributors · [DOI](https://doi.org/10.1177/003803858101500427)
+- The Voice and the Eye: An Analysis of Social Movements · [DOI](https://doi.org/10.1177/003803858101500433)
 
 ## 1980
 
@@ -2409,24 +2424,28 @@
 
 - What's in a `Nyem'? · [DOI](https://doi.org/10.1177/003803857801200109)
 - Estrangenment, Alienation and Exploitation: A Sociological Approach to Historical Materialism · [DOI](https://doi.org/10.1177/003803857801200233)
+- The Sociology of Health and Illness: Its Present State, Future Prospects and Potential for Health Research · [DOI](https://doi.org/10.1177/003803857801200206)
 
 ## 1977
 
 - Sociology, Equality and Education · [DOI](https://doi.org/10.1177/003803857701100217)
 - Psychiatry in Dissent; Controversial Issues in Thought and Practice · [DOI](https://doi.org/10.1177/003803857701100314)
 - Sociological Analysis: Methods of Discovery · [DOI](https://doi.org/10.1177/003803857701100319)
+- A Critical Evaluation of Fox's Radicalisation of Industrial Relations Theory · [DOI](https://doi.org/10.1177/003803857701100106)
 
 ## 1976
 
 - Social Theory and Political Practice · [DOI](https://doi.org/10.1177/003803857601000229)
 - A Sociology of Belief · [DOI](https://doi.org/10.1177/003803857601000318)
 - Moral Indignation and the Media: An Analysis of the NVALA · [DOI](https://doi.org/10.1177/003803857601000204)
+- The Disappearance of the Sick-Man from Medical Cosmology, 1770-1870 · [DOI](https://doi.org/10.1177/003803857601000202)
 
 ## 1975
 
 - Holding the Middle Ground: The BBC, the Public and the Professional Broadcaster · [DOI](https://doi.org/10.1177/003803857500900104)
 - Occupational Structure in Industrialized Societies: Some Notes on the Convergence Thesis in the Light of Soviet Experience · [DOI](https://doi.org/10.1177/003803857500900304)
 - Beneath the Surface; An account of three styles of Sociological Research · [DOI](https://doi.org/10.1177/003803857500900329)
+- Social Class and Psychiatric Disturbance among Women in an Urban Population · [DOI](https://doi.org/10.1177/003803857500900203)
 
 ## 1974
 
@@ -2434,6 +2453,7 @@
 - Saint and Sufi in Modern Egypt: An Essay in the Sociology of Religion · [DOI](https://doi.org/10.1177/003803857400800333)
 - Hopes and Fears of Israelis · [DOI](https://doi.org/10.1177/003803857400800119)
 - Advances in Social Research: A Reader · [DOI](https://doi.org/10.1177/003803857400800326)
+- The Culture-Free Context of Organization Structure: A Tri-National Comparison · [DOI](https://doi.org/10.1177/003803857400800104)
 
 ## 1973
 

@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1519** 篇 | 年份范围：1986–2026
+共 **1525** 篇 | 年份范围：1986–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -14,6 +14,8 @@
 - Beyond absolute education: relative educational attainment and perceived discrimination among immigrants · [DOI](https://doi.org/10.1093/esr/jcaf054)
 - Labour market insecurity and parental co-residence in the United Kingdom: heterogeneities by parental class and age · [DOI](https://doi.org/10.1093/esr/jcaf058)
 - Changing choices? Primary and secondary effects through times of educational contraction · [DOI](https://doi.org/10.1093/esr/jcag019)
+- The long-term effects of childhood residential mobility on social capital · [DOI](https://doi.org/10.1093/esr/jcag001)
+- Why do young US Americans avoid cross-partisan dating? A closer look at mediators and variation by gender and party · [DOI](https://doi.org/10.1093/esr/jcag020)
 
 ## 2025
 
@@ -1617,6 +1619,8 @@
 
 - Grateful slaves and self-made women: fact and fantasy in women's work orientations · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036590)
 - Educational transition in Hungary from the post-war period to the end of the 1980s · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036602)
+- Distinction by consumption in Czechoslovakia, Hungary, and the Netherlands · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036605)
+- Childhood Living Conditions, Health Status, and Social Mobility: A Contribution to the Health Selection Debate · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036593)
 
 ## 1990
 
@@ -1635,8 +1639,10 @@
 - Jobs and classes: structural constraints on career mobility · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036428)
 - Commonality and variation in social fluidity in industrial nations. Part II: the model of core social fluidity applied · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036441)
 - Individuals and parties—changes in processes of political mobilization · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036449)
+- Book Reviews · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036431)
 
 ## 1986
 
 - Increasing equality in household work: patterns of time-use change in Norway · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036417)
 - Social context and inter-ethnic relations: the case of migrant workers in West German urban areas · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036404)
+- Educational systems and labour markets as determinants of worklife mobility in France and West Germany: a comparison of men's career mobility, 1965–1970 · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036414)

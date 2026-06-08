@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **126** 篇
+共 **128** 篇
 
 ---
 
@@ -180,6 +180,11 @@
 **作者**: Bryant, Jesse Callahan; Farrell, Justin
 **摘要**: Sociology operates with an impoverished understanding of conservatism and the natural environment. The discipline's focus on antiregulatory and antiscience dimensions of conservative politics can obscure a more comprehensive, historically deep, and theoretically rich understanding of conservatism's …
 
+### A Sociology of Real Estate: Polanyi, Du Bois, and the Relational Study of Commodified Land in a Climate-Changed Future
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-033022-035124](https://doi.org/10.1146/annurev-soc-033022-035124)
+**作者**: Besbris, Max; Robinson, John N.; Angelo, Hillary
+**摘要**: Real estate plays an essential part in various sociological theories of political economy, state capacity, racecraft, stratification, and urbanization. However, since foundational insights about the novelty of commodified, emplaced private property from theorists like Du Bois and Polanyi, these disp…
+
 ### Policing, Punishment, and Place: Spatial-Contextual Analyses of the Criminal Legal System
 **年份**: 2023 | **DOI**: [10.1146/annurev-soc-031021-035328](https://doi.org/10.1146/annurev-soc-031021-035328)
 **作者**: Simes, Jessica T.; Beck, Brenden; Eason, John M.
@@ -219,6 +224,11 @@
 **年份**: 2023 | **DOI**: [10.1146/annurev-soc-090221-040023](https://doi.org/10.1146/annurev-soc-090221-040023)
 **作者**: Kraly, Ellen Percy; Abbasi-Shavazi, Mohammad Jalal; Torres Colón, Lorraine Lizbeth 等4人
 **摘要**: This review considers sociological perspectives and research on the outcomes and implications of forced and refugee migration for migrants and communities of settlement. Analytic constraints and opportunities posed by concepts of forced and refugee migration and migrants for empirical research are u…
+
+### Critical Race Theory: Confronting, Challenging, and Rethinking White Privilege
+**年份**: 2023 | **DOI**: [10.1146/annurev-soc-031021-123710](https://doi.org/10.1146/annurev-soc-031021-123710)
+**作者**: Bhopal, Kalwant
+**摘要**: The term “White privilege” has been used to denote specific privileges that White groups possess due to their Whiteness and White identity. In this article, firstly, I outline how, as a conceptual tool, White privilege can only be understood in relation to Critical Race Theory, specifically the noti…
 
 ### Criminal Governance and the Crisis of Contemporary Latin American States
 **年份**: 2022 | **DOI**: [10.1146/annurev-soc-030420-124931](https://doi.org/10.1146/annurev-soc-030420-124931)

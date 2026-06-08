@@ -1,7 +1,7 @@
 # European Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **409** 篇
+共 **411** 篇
 
 ---
 
@@ -39,6 +39,16 @@
 **年份**: 2026 | **DOI**: [10.1093/esr/jcag019](https://doi.org/10.1093/esr/jcag019)
 **作者**: Lintunen, Lotta
 **摘要**: Abstract How does inequality of educational opportunity evolve in the context of educational contraction? In Finland, educational attainment declined for cohorts born after the late 1970s, and this study analyses trends in class background inequality in the transition to upper secondary education us…
+
+### The long-term effects of childhood residential mobility on social capital
+**年份**: 2026 | **DOI**: [10.1093/esr/jcag001](https://doi.org/10.1093/esr/jcag001)
+**作者**: Valente, Riccardo; Vacchiano, Mattia
+**摘要**: Abstract When a child moves home multiple times, the consequences for the adult they will later become can be substantial. This study investigates how frequent relocations during childhood influence the development of social capital in adulthood.…
+
+### Why do young US Americans avoid cross-partisan dating? A closer look at mediators and variation by gender and party
+**年份**: 2026 | **DOI**: [10.1093/esr/jcag020](https://doi.org/10.1093/esr/jcag020)
+**作者**: Taflinger, Shannon; Hudde, Ansgar
+**摘要**: Abstract US Americans are divided along party lines, both in politics and personal relationships. While prior research shows a preference for dating co-partisans, it remains unclear why people prefer to date co-partisans and for whom the effects are strongest.…
 
 ### Family ideals in Italy and Spain: towards the end of the traditional Southern European family model?
 **年份**: 2025 | **DOI**: [10.1093/esr/jcaf055](https://doi.org/10.1093/esr/jcaf055)

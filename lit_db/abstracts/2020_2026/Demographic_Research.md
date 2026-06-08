@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2020–2026 年文章（含摘要）
 
-共 **507** 篇
+共 **512** 篇
 
 ---
 
@@ -53,6 +53,26 @@
 ### The European Parenting Leave Policies (EPLP) dataset: Leave duration entitlements for 21 countries from 1970 to 2024
 **年份**: 2026 | **DOI**: [10.4054/demres.2026.54.31](https://doi.org/10.4054/demres.2026.54.31)
 **作者**: Spitzer, Sonja; Lemoine, Adèle; Song, Zhanxiong 等30人
+**摘要**: （暂无）
+
+### Formatting the two-step gender measure: Experimental insights from the United States
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.35](https://doi.org/10.4054/demres.2026.54.35)
+**作者**: Holtzman, Tessa; Saperstein, Aliya
+**摘要**: （暂无）
+
+### The power of inclusive labor force participation for mitigating population aging: Closing gaps at the intersection between race/ethnicity and gender in the United States
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.33](https://doi.org/10.4054/demres.2026.54.33)
+**作者**: Böheim, René; Horvath, Thomas; Leoni, Thomas 等4人
+**摘要**: （暂无）
+
+### Economic resources and parity among US women: A conjoint experiment on preferred family scenarios
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.34](https://doi.org/10.4054/demres.2026.54.34)
+**作者**: Behrman, Julia; Marshall, Emily; Percheski, Christine
+**摘要**: （暂无）
+
+### Revisiting the association between women’s employment and separation: An analysis of harmonised longitudinal surveys in six countries
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.32](https://doi.org/10.4054/demres.2026.54.32)
+**作者**: Turek, Konrad; Kalmijn, Matthijs
 **摘要**: （暂无）
 
 ### Shifting spousal age gaps in Kenya and Ghana: Does education matter?
@@ -2539,3 +2559,8 @@
 **年份**: 2020 | **DOI**: [10.4054/demres.2020.42.1](https://doi.org/10.4054/demres.2020.42.1)
 **作者**: Solis-Soto, Maria Teresa; Paudel, Deepak; Nicoli, Francesco
 **摘要**: BACKGROUND A body of evidence suggests that vaccines support the development of the immune system and also improve overall health. OBJECTIVE To study the effect of the complete basic vaccination schedule (Bacille Calmette-Guerin, i.e., BCG; measles; polio 3; and Diphtheria, Tetanus toxoids, and Pert…
+
+### Estimation of older adult mortality from imperfect data: A comparative review of methods using Burkina Faso censuses
+**年份**: 2020 | **DOI**: [10.4054/demres.2020.43.38](https://doi.org/10.4054/demres.2020.43.38)
+**作者**: Ouedraogo, Soumaïla
+**摘要**: （暂无）

@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **1079** 篇 | 年份范围：1976–2026
+共 **1092** 篇 | 年份范围：1976–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -599,6 +599,7 @@
 - Relative Cohort Size, Relative Income, and Married Women's Labor Force Participation: United States, 1968-2010 · [DOI](https://doi.org/10.1111/j.1728-4457.2012.00530.x)
 - On the Crafting of Population Knowledge · [DOI](https://doi.org/10.1111/j.1728-4457.2012.00474.x)
 - Ronald Lee and Andrew Mason, Population Aging and the Generational Economy: A Global Perspective · [DOI](https://doi.org/10.1111/j.1728-4457.2012.00477.x)
+- On the Role of Human Development in the Arab Spring · [DOI](https://doi.org/10.1111/j.1728-4457.2012.00531.x)
 
 ## 2011
 
@@ -1058,6 +1059,7 @@
 - How Influential Are Demography Journals? · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00229.x)
 - The Bangladesh Fertility Decline: An Interpretation · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00067.x)
 - Frank Fetter on Population Versus Prosperity · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00577.x)
+- Population Weights in the International Order · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00411.x)
 
 ## 1998
 
@@ -1080,6 +1082,7 @@
 - Fertility and Family Time Allocation in the Philippines · [DOI](https://doi.org/10.2307/2137550)
 - Shifting Costs of Caring for the Elderly Back to Families in Japan: Will It Work? · [DOI](https://doi.org/10.2307/2137461)
 - Feminists and Neo-Malthusians: Past and Present Alliances · [DOI](https://doi.org/10.2307/2137570)
+- State Policies and the Birth Rate in Egypt: From Socialism to Liberalism · [DOI](https://doi.org/10.2307/2137463)
 
 ## 1996
 
@@ -1100,6 +1103,7 @@
 - The Evolutionary Demography of the Fertility-Mortality Quasi-Equilibrium · [DOI](https://doi.org/10.2307/2137752)
 - Fertility, Dimensions of Patriarchy, and Development in India · [DOI](https://doi.org/10.2307/2137495)
 - The CIA on Global Humanitarian Emergencies · [DOI](https://doi.org/10.2307/2137798)
+- China's One-Child Policy: How and How Well Has it Worked? A Case Study of Hebei Province, 1979-88 · [DOI](https://doi.org/10.2307/2137750)
 
 ## 1994
 
@@ -1111,6 +1115,7 @@
 - Fertility in sub-Saharan Africa: Status and Prospects · [DOI](https://doi.org/10.2307/2137636)
 - Reductions in Mortality at Advanced Ages: Several Decades of Evidence from 27 Countries · [DOI](https://doi.org/10.2307/2137662)
 - Does the Threat of Border Apprehension Deter Undocumented US Immigration? · [DOI](https://doi.org/10.2307/2137667)
+- Maternal Employment and Changes in Family Dynamics: The Social Context of Women's Work in Rural South India · [DOI](https://doi.org/10.2307/2137632)
 
 ## 1993
 
@@ -1120,6 +1125,7 @@
 - Parity Progression and Birth Intervals in China: The Influence of Policy in Hastening Fertility Decline · [DOI](https://doi.org/10.2307/2938385)
 - Coitus Interruptus in the Twentieth Century · [DOI](https://doi.org/10.2307/2938413)
 - The Resumption of Fertility Decline in Japan: 1973-92 · [DOI](https://doi.org/10.2307/2938411)
+- Competing Perspectives on the Latin American Informal Sector · [DOI](https://doi.org/10.2307/2938384)
 
 ## 1992
 
@@ -1155,6 +1161,7 @@
 - On Aggregate Empirical Studies Relating Population Variables to Economic Development · [DOI](https://doi.org/10.2307/1973707)
 - The Social Context of AIDS in sub-Saharan Africa · [DOI](https://doi.org/10.2307/1973703)
 - Is the Chinese Family Planning Program "Tightening Up"? · [DOI](https://doi.org/10.2307/1973708)
+- The Impact of Urbanization and Delayed Childbearing on Population Growth and Aging in China · [DOI](https://doi.org/10.2307/1972441)
 
 ## 1988
 
@@ -1171,6 +1178,7 @@
 - The Concentration of Reproduction among US Women, 1917-80 · [DOI](https://doi.org/10.2307/1973030)
 - Demographic Consequences of the Great Leap Forward in China's Provinces · [DOI](https://doi.org/10.2307/1973026)
 - Fertility Levels and Trends in India, 1951-81 · [DOI](https://doi.org/10.2307/1973137)
+- Population Redistribution in the Socialist Republic of Vietnam · [DOI](https://doi.org/10.2307/1972120)
 
 ## 1986
 
@@ -1185,6 +1193,7 @@
 ## 1985
 
 - Educational Transition in Rural South India · [DOI](https://doi.org/10.2307/1973377)
+- The Old-Age Security Motive for Fertility · [DOI](https://doi.org/10.2307/1973379)
 
 ## 1984
 
@@ -1195,17 +1204,20 @@
 ## 1983
 
 - The Political Demography of Assam's Anti-Immigrant Movement · [DOI](https://doi.org/10.2307/1973053)
+- Fertility Decline in the West: Causes and Prospects · [DOI](https://doi.org/10.2307/1972897)
 
 ## 1982
 
 - Population Studies and Population Policy in China · [DOI](https://doi.org/10.2307/1972987)
 - Mortality Transition in South and East Asia: Technology Confronts Poverty · [DOI](https://doi.org/10.2307/1972380)
+- Can Knowledge Improve Forecasts? · [DOI](https://doi.org/10.2307/1972470)
 
 ## 1981
 
 - Sex Bias in the Family Allocation of Food and Health Care in Rural Bangladesh · [DOI](https://doi.org/10.2307/1972764)
 - Population Trends, Population Policy, and Population Studies in China · [DOI](https://doi.org/10.2307/1972766)
 - Malay Marriage and Divorce in Peninsular Malaysia: Three Decades of Change · [DOI](https://doi.org/10.2307/1972623)
+- Population Research and Population Policy in Korea in the 1970s · [DOI](https://doi.org/10.2307/1972802)
 
 ## 1980
 
@@ -1224,6 +1236,7 @@
 - Size and Age Structure of Family Households: Exploratory Comparisons · [DOI](https://doi.org/10.2307/1972278)
 - Mortality, Income Distribution, and Rural-Urban Residence in Brazil · [DOI](https://doi.org/10.2307/1972857)
 - Toward an Anthropology of Women. · [DOI](https://doi.org/10.2307/1972301)
+- Zero Population Growth and the Economies of Developed Nations · [DOI](https://doi.org/10.2307/1971730)
 
 ## 1977
 

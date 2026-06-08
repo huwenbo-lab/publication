@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **283** 篇
+共 **284** 篇
 
 ---
 
@@ -1248,6 +1248,11 @@
 ### Music in Everyday Life. By Tia DeNora. Cambridge: Cambridge University Press, 2000. Pp. xiv+181. $54.95 (cloth); $19.95 (paper).
 **年份**: 2001 | **DOI**: [10.1086/320846](https://doi.org/10.1086/320846)
 **作者**: Cook, Daniel Thomas
+**摘要**: （暂无）
+
+### Emergence in Sociology: Contemporary Philosophy of Mind and Some Implications for Sociological Theory
+**年份**: 2001 | **DOI**: [10.1086/338780](https://doi.org/10.1086/338780)
+**作者**: Sawyer, R. Keith
 **摘要**: （暂无）
 
 ### Rethinking social reactions to crime: Personal and altruistic fear in family households

@@ -1,7 +1,7 @@
 # Sociological Science
 ## 2020–2026 年文章（含摘要）
 
-共 **199** 篇
+共 **201** 篇
 
 ---
 
@@ -113,6 +113,16 @@
 ### How a Seemingly Innocuous and Intuitive Methodological Choice Confused a Generation of Research on Policy Responsiveness
 **年份**: 2026 | **DOI**: [10.15195/v13.a21](https://doi.org/10.15195/v13.a21)
 **作者**: Enns, Peter
+**摘要**: （暂无）
+
+### Declining Inequality and Persistent Inequality Structures
+**年份**: 2026 | **DOI**: [10.15195/v13.a24](https://doi.org/10.15195/v13.a24)
+**作者**: Roh, Soohyun; Wilmers, Nathan
+**摘要**: （暂无）
+
+### Family Networks and Childcare Choices: A Predictive Machine Learning Approach
+**年份**: 2026 | **DOI**: [10.15195/v13.a23](https://doi.org/10.15195/v13.a23)
+**作者**: Soler, Nicolás; Emery, Tom; Kanas, Agnieszka
 **摘要**: （暂无）
 
 ### Workplace Networks and the Dynamics of Worker Organizing

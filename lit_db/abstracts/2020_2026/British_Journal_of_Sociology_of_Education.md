@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **490** 篇
+共 **493** 篇
 
 ---
 
@@ -193,6 +193,21 @@
 ### Evolving homophily in higher education: how university settings transform international student relationships
 **年份**: 2026 | **DOI**: [10.1080/01425692.2026.2679479](https://doi.org/10.1080/01425692.2026.2679479)
 **作者**: Grund, Thomas; Tiernan, Aisling; Negrea, Briana-Andreea
+**摘要**: （暂无）
+
+### Roots and leaves: rethinking the relationship between habitus and identity
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2681654](https://doi.org/10.1080/01425692.2026.2681654)
+**作者**: Manzano, Martí; Tarabini, Aina; Gil, Sara
+**摘要**: （暂无）
+
+### What makes bullying complicated - teachers’ perceptions of bullying-related issues in school
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2682490](https://doi.org/10.1080/01425692.2026.2682490)
+**作者**: Lanas, Maija; Petäjäniemi, Maria; Väisänen, Anne-Mari 等5人
+**摘要**: （暂无）
+
+### Understanding racialised elements of habitus of working-class women on an access to higher education course
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2679486](https://doi.org/10.1080/01425692.2026.2679486)
+**作者**: McLaughlin, Sarah
 **摘要**: （暂无）
 
 ### Numerical diversity only? The case of academic preparatory programs for the Negev Bedouin in Israel

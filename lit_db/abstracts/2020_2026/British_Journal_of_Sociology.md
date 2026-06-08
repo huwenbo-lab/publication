@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **432** 篇
+共 **434** 篇
 
 ---
 
@@ -99,6 +99,11 @@
 **年份**: 2026 | **DOI**: [10.1111/1468-4446.70123](https://doi.org/10.1111/1468-4446.70123)
 **作者**: Bishop, Nicola
 **摘要**: （暂无）
+
+### Class Ruptures and Openings: The Role of Social and Family History in Narratives on Class Mobility and Reproduction
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70135](https://doi.org/10.1111/1468-4446.70135)
+**作者**: Kajta, Justyna; Bieńkowski, Stefan
+**摘要**: ABSTRACT In recent years, sociological interest in the study of social class—particularly its subjective dimensions—has intensified. This article contributes to this growing body of literature by focusing on Poland as a case within the Central and Eastern European region.…
 
 ### Securing Profit: Threat Production as a Mechanism of Racial Capitalism in US-Occupied Kabul
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.70065](https://doi.org/10.1111/1468-4446.70065)
@@ -679,6 +684,11 @@
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.13141](https://doi.org/10.1111/1468-4446.13141)
 **作者**: Stewart, Callum
 **摘要**: For Black, Indigenous, and other colonised peoples, decolonisation and racial justice are urgent imperatives, but their demands are often dismissed as utopian, impossible, or otherwise out-of-time.…
+
+### Comparing Transgender Identities in the Census of Scotland and the Census of England and Wales
+**年份**: 2025 | **DOI**: [10.1111/1468-4446.70030](https://doi.org/10.1111/1468-4446.70030)
+**作者**: Biggs, Michael
+**摘要**: ABSTRACT The most recent British census was the first to elicit transgender identity. The 2021 Census of England and Wales asked ‘Is the gender you identify with the same as your sex registered at birth?’.…
 
 ### What is social science if not critical?
 **年份**: 2024 | **DOI**: [10.1111/1468-4446.13142](https://doi.org/10.1111/1468-4446.13142)

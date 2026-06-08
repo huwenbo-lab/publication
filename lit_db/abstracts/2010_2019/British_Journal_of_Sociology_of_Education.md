@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **649** 篇
+共 **650** 篇
 
 ---
 
@@ -1689,6 +1689,11 @@
 **年份**: 2015 | **DOI**: [10.1080/01425692.2014.967841](https://doi.org/10.1080/01425692.2014.967841)
 **作者**: Windle, Joel; Nogueira, Maria Alice
 **摘要**: This paper analyses tendencies that distinguish the internationalisation of education for two class fractions - owners of medium to large businesses and highly qualified university professors and researchers.…
+
+### Psychopathology at school: theorizing mental disorders in school
+**年份**: 2015 | **DOI**: [10.1080/01425692.2015.1043185](https://doi.org/10.1080/01425692.2015.1043185)
+**作者**: Daniels, Harry; MacLure, Maggie; Youdell, Deborah
+**摘要**: （暂无）
 
 ### Doctoral theses
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.887894](https://doi.org/10.1080/01425692.2014.887894)

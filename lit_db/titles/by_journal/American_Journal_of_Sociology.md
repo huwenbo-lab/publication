@@ -1,6 +1,6 @@
 # American Journal of Sociology — 文章标题索引
 
-共 **1053** 篇 | 年份范围：1896–2026
+共 **1070** 篇 | 年份范围：1896–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -124,6 +124,7 @@
 - From Superdiversity to Consolidation: Implications of Structural Intersectionality for Interethnic Friendships · [DOI](https://doi.org/10.1086/723435)
 - Crime Pays the Victim: Criminal Fines, the State, and Victim Compensation Law 1964-19841 · [DOI](https://doi.org/10.1086/723952)
 - How Tilly's WUNC Works: Bystander Evaluations of Social Movement Signals Lead to Mobilization · [DOI](https://doi.org/10.1086/723489)
+- No Differential Effects of Classroom Ethnic Composition on Native and Immigrant Friendship Segregation: Comment on Smith et al., 2016 · [DOI](https://doi.org/10.1086/727823)
 
 ## 2022
 
@@ -868,6 +869,7 @@
 - Postcommunist capitalism, culture, and history · [DOI](https://doi.org/10.1086/320302)
 - Change rules · [DOI](https://doi.org/10.1086/320303)
 - Music in Everyday Life. By Tia DeNora. Cambridge: Cambridge University Press, 2000. Pp. xiv+181. $54.95 (cloth); $19.95 (paper). · [DOI](https://doi.org/10.1086/320846)
+- Emergence in Sociology: Contemporary Philosophy of Mind and Some Implications for Sociological Theory · [DOI](https://doi.org/10.1086/338780)
 
 ## 2000
 
@@ -974,6 +976,8 @@
 - Law That Does Not Fit Society: Sentencing Guidelines as a Neoclassical Reaction to the Dilemmas of Substantivized Law · [DOI](https://doi.org/10.1086/229904)
 - Shadow Education and Allocation in Formal Schooling: Transition to University in Japan · [DOI](https://doi.org/10.1086/229942)
 - Was There a Hawthorne Effect? · [DOI](https://doi.org/10.1086/230046)
+- Religion, Disability, Depression, and the Timing of Death · [DOI](https://doi.org/10.1086/229861)
+- Reciprocal Effects of Religiosity, Cohabitation, and Marriage · [DOI](https://doi.org/10.1086/230051)
 
 ## 1991
 
@@ -986,6 +990,8 @@
 - Mind, Self, Society, and Computer: Artificial Intelligence and the Sociology of Mind · [DOI](https://doi.org/10.1086/229649)
 - Human Capital Investments or Norms of Role Transition? How Women's Schooling and Career Affect the Process of Family Formation · [DOI](https://doi.org/10.1086/229743)
 - Accounting for Rationality: Double-Entry Bookkeeping and the Rhetoric of Economic Rationality · [DOI](https://doi.org/10.1086/229739)
+- Getting Ahead in Urban China · [DOI](https://doi.org/10.1086/229816)
+- Children and Marital Disruption · [DOI](https://doi.org/10.1086/229613)
 
 ## 1990
 
@@ -1011,6 +1017,7 @@
 - Intergenerational Consequences of Family Disruption · [DOI](https://doi.org/10.1086/228954)
 - Matching: Finding a Partner for Life or Otherwise · [DOI](https://doi.org/10.1086/228947)
 - She Works Hard for the Money: Household Responsibilities and the Allocation of Work Effort · [DOI](https://doi.org/10.1086/228863)
+- The Other Side of Dialogue: On Making the Other Strange and the Experience of Otherness · [DOI](https://doi.org/10.1086/228868)
 
 ## 1987
 
@@ -1066,6 +1073,7 @@
 - The Focused Organization of Social Ties · [DOI](https://doi.org/10.1086/227352)
 - Detecting Sentencing Disparity: Some Problems and Evidence · [DOI](https://doi.org/10.1086/227320)
 - Perspectives on the Legal Order: The Capacity for Social Control · [DOI](https://doi.org/10.1086/227465)
+- Talcott Parsons and the Theory of Action. I. The Structure of the Kantian Core · [DOI](https://doi.org/10.1086/227314)
 
 ## 1980
 
@@ -1082,6 +1090,7 @@
 - Indicators of Sex Typing: Traditional and Egalitarian, Situational and Ideological Responses · [DOI](https://doi.org/10.1086/227009)
 - Women and Work: The Psychological Effects of Occupational Conditions · [DOI](https://doi.org/10.1086/226974)
 - Emotion Work, Feeling Rules, and Social Structure · [DOI](https://doi.org/10.1086/227049)
+- Ethnic Inequality in Israeli Schools and Sports: An Expectation-States Approach · [DOI](https://doi.org/10.1086/227050)
 
 ## 1978
 
@@ -1096,6 +1105,8 @@
 - The Population Ecology of Organizations · [DOI](https://doi.org/10.1086/226424)
 - Talcott Parsons, the Problem of Order in Society, and the Program of an Analytical Sociology · [DOI](https://doi.org/10.1086/226549)
 - Resource Mobilization and Social Movements: A Partial Theory · [DOI](https://doi.org/10.1086/226464)
+- Habermas's Social and Political TheoryToward a Rational Society: Student Protest, Science, and Politics.Jürgen Habermas , Jeremy J. ShapiroKnowledge and Human Interests.Jürgen Habermas , Jeremy J. ShapiroTheory and Practice.Jürgen Habermas , John ViertelLegitimation Crisis.Jürgen Habermas , Thomas McCarthy · [DOI](https://doi.org/10.1086/226517)
+- Problematics in Stratum Consistency and Stratum Formation: An Australian Example · [DOI](https://doi.org/10.1086/226391)
 
 ## 1976
 
@@ -1112,6 +1123,8 @@
 ## 1974
 
 - The Analysis of Systems of Qualitative Variables When Some of the Variables Are Unobservable. Part I-A Modified Latent Structure Approach · [DOI](https://doi.org/10.1086/225676)
+- Relations in Public: Microstudies of the Public Order.Erving Goffman · [DOI](https://doi.org/10.1086/225689)
+- Instrumental and Infra-Resources: The Bases of Power · [DOI](https://doi.org/10.1086/225708)
 
 ## 1973
 
@@ -1180,12 +1193,14 @@
 
 - Professions in Process · [DOI](https://doi.org/10.1086/222898)
 - Corporate Size, Bureaucratization, and Managerial Succession · [DOI](https://doi.org/10.1086/223129)
+- The Professional Employee: A Study of Conflict in Nursing Roles · [DOI](https://doi.org/10.1086/223010)
 
 ## 1960
 
 - Structure and Process in Modern Societies.Talcott Parsons · [DOI](https://doi.org/10.1086/222828)
 - The Rural-Urban Continuum: Real but Relatively Unimportant · [DOI](https://doi.org/10.1086/222824)
 - The Klan Revival · [DOI](https://doi.org/10.1086/222749)
+- Client Control and Medical Practice · [DOI](https://doi.org/10.1086/222726)
 
 ## 1959
 
@@ -1231,6 +1246,10 @@
 
 - The Sociology of Gambling · [DOI](https://doi.org/10.1086/220938)
 - Rumor and Public Opinion · [DOI](https://doi.org/10.1086/220916)
+
+## 1950
+
+- A Quantitative Analysis of Intragroup Relationships · [DOI](https://doi.org/10.1086/220616)
 
 ## 1949
 
@@ -1328,6 +1347,10 @@
 ## 1914
 
 - The Social Gradations of Capital · [DOI](https://doi.org/10.1086/212334)
+
+## 1912
+
+- The Children's Bureau · [DOI](https://doi.org/10.1086/212095)
 
 ## 1911
 

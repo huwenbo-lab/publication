@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1834** 篇 | 年份范围：1999–2026
+共 **1841** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -17,6 +17,10 @@
 - Economic insecurity and material deprivation: Coping strategies among couple families with and without small children in Europe · [DOI](https://doi.org/10.4054/demres.2026.54.25)
 - The ratio of births observed to births needed: An indicator to assess demographic sustainability · [DOI](https://doi.org/10.4054/demres.2026.54.30)
 - The European Parenting Leave Policies (EPLP) dataset: Leave duration entitlements for 21 countries from 1970 to 2024 · [DOI](https://doi.org/10.4054/demres.2026.54.31)
+- Formatting the two-step gender measure: Experimental insights from the United States · [DOI](https://doi.org/10.4054/demres.2026.54.35)
+- The power of inclusive labor force participation for mitigating population aging: Closing gaps at the intersection between race/ethnicity and gender in the United States · [DOI](https://doi.org/10.4054/demres.2026.54.33)
+- Economic resources and parity among US women: A conjoint experiment on preferred family scenarios · [DOI](https://doi.org/10.4054/demres.2026.54.34)
+- Revisiting the association between women’s employment and separation: An analysis of harmonised longitudinal surveys in six countries · [DOI](https://doi.org/10.4054/demres.2026.54.32)
 
 ## 2025
 
@@ -532,6 +536,7 @@
 - Traditional versus Facebook-based surveys: Evaluation of biases in self-reported demographic and psychometric information · [DOI](https://doi.org/10.4054/demres.2020.42.5)
 - Assimilation and ethnic marriage squeeze in early 20th century America: A gender perspective
 - Relationship between vaccination and nutritional status in children: Analysis of recent Demographic and Health Surveys · [DOI](https://doi.org/10.4054/demres.2020.42.1)
+- Estimation of older adult mortality from imperfect data: A comparative review of methods using Burkina Faso censuses · [DOI](https://doi.org/10.4054/demres.2020.43.38)
 
 ## 2019
 
@@ -1049,6 +1054,8 @@
 - Traditional and modern cohabitation in Latin America · [DOI](https://doi.org/10.4054/demres.2015.32.32)
 - The timing of family commitments in the early work career · [DOI](https://doi.org/10.4054/demres.2015.32.22)
 - Europe-wide fertility trends since the 1990s: Turning the corner from declining first birth rates · [DOI](https://doi.org/10.4054/demres.2015.32.21)
+- Working with teams of "insiders" · [DOI](https://doi.org/10.4054/demres.2015.32.12)
+- The future size of religiously affiliated and unaffiliated populations · [DOI](https://doi.org/10.4054/demres.2015.32.27)
 
 ## 2014
 

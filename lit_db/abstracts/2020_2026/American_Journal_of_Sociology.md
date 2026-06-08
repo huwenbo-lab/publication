@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **195** 篇
+共 **196** 篇
 
 ---
 
@@ -544,6 +544,11 @@
 **年份**: 2023 | **DOI**: [10.1086/723489](https://doi.org/10.1086/723489)
 **作者**: Bailey, Erica R.; Wang, Dan; Soule, Sarah A. 等4人
 **摘要**: Social movements must mobilize participation from bystanders to survive, yet there is little research on how bystanders' evaluations of social movements predict their likelihood to join.…
+
+### No Differential Effects of Classroom Ethnic Composition on Native and Immigrant Friendship Segregation: Comment on Smith et al., 2016
+**年份**: 2023 | **DOI**: [10.1086/727823](https://doi.org/10.1086/727823)
+**作者**: Kretschmer, David; Gereke, Johanna; Winter, Fabian 等4人
+**摘要**: （暂无）
 
 ### Green American City: Civic Capacity and the Distributed Adoption of Urban Innovations
 **年份**: 2022 | **DOI**: [10.1086/722965](https://doi.org/10.1086/722965)

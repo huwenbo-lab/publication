@@ -1,6 +1,6 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1815** 篇 | 年份范围：1950–2026
+共 **1836** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -26,6 +26,7 @@
 - The Negotiation of Intergenerational Support for Housing: Diverging Patterns Among Renters and Homeowners · [DOI](https://doi.org/10.1111/1468-4446.70131)
 - Unequal Family Ties, Wealth Transmission and Social Mobility Among Congolese Traders in Kinshasa · [DOI](https://doi.org/10.1111/1468-4446.70132)
 - Reading Margaret Kennedy’s The Feast (1950) at the Same Time as Dan Evan’s A Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie (2023) · [DOI](https://doi.org/10.1111/1468-4446.70123)
+- Class Ruptures and Openings: The Role of Social and Family History in Narratives on Class Mobility and Reproduction · [DOI](https://doi.org/10.1111/1468-4446.70135)
 
 ## 2025
 
@@ -145,6 +146,7 @@
 - Marriage in displacement: Gendered (self)resettlement strategies of Syrian women in Egypt · [DOI](https://doi.org/10.1111/1468-4446.13145)
 - Conspiratorial narratives as cultural repertoires and methodological tools · [DOI](https://doi.org/10.1111/1468-4446.13143)
 - The coloniality of age: Navigating the chronopolitics of Black childhood · [DOI](https://doi.org/10.1111/1468-4446.13141)
+- Comparing Transgender Identities in the Census of Scotland and the Census of England and Wales · [DOI](https://doi.org/10.1111/1468-4446.70030)
 
 ## 2024
 
@@ -1805,6 +1807,7 @@
 - Social mobility and personal satisfaction: evidence from ten countries* · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00028.x)
 - The barbarism of civilization: cultural genocide and the ‘stolen generations’1 · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00297.x)
 - Towards an embodied understanding of the structure / agency relationship · [DOI](https://doi.org/10.1080/000713199358527)
+- The barbarism of civilization: cultural genocide and the 'stolen generations' · [DOI](https://doi.org/10.1080/000713199358752)
 
 ## 1998
 
@@ -1813,6 +1816,8 @@
 - Habermas and Foucault: Thinkers for Civil Society? · [DOI](https://doi.org/10.2307/591310)
 - A Special Case of Voluntary Associations? Towards a Theory of Congregational Organization · [DOI](https://doi.org/10.2307/591291)
 - Developing a Sociology for the Twenty-First Century: Preference Theory · [DOI](https://doi.org/10.2307/591267)
+- A Telling Tale: A Case of Vigilantism and Its Aftermath in an English Town · [DOI](https://doi.org/10.2307/591394)
+- Stuart Hall's Cultural Studies and the Problem of Hegemony · [DOI](https://doi.org/10.2307/591390)
 
 ## 1997
 
@@ -1833,6 +1838,8 @@
 - The Sexual Division of Labour and Women's Heterogeneity · [DOI](https://doi.org/10.2307/591124)
 - Agrarian Relations and Class Hegemony: A Comparative Analysis of Landlord, Social and Political Power - Italy 1861-1920 · [DOI](https://doi.org/10.2307/591725)
 - Was Communism Good for Social Justice?: A Comparative Analysis of the Two Germanies · [DOI](https://doi.org/10.2307/591359)
+- Social Class and Underclass in Britain and the USA · [DOI](https://doi.org/10.2307/591114)
+- The Fragmentation of Class Analysis · [DOI](https://doi.org/10.2307/591116)
 
 ## 1995
 
@@ -1842,10 +1849,14 @@
 - Five Feminist Myths about Women's Employment · [DOI](https://doi.org/10.2307/591850)
 - Rethinking 'Moral Panic' for Multi-Mediated Social Worlds · [DOI](https://doi.org/10.2307/591571)
 - The Social Meanings behind Male Sex Work: Implications for Sexual Interactions · [DOI](https://doi.org/10.2307/591574)
+- East Germany: Rising Incomes, Unchanged Inequality and the Impact of Redistributive Government 1990-92 · [DOI](https://doi.org/10.2307/591787)
+- Towards a Sociological Model of the Police Informant · [DOI](https://doi.org/10.2307/591854)
 
 ## 1994
 
 - Mannheim's Sociology of Generations: An Undervalued Legacy · [DOI](https://doi.org/10.2307/591659)
+- John Goldthorpe and the Relics of Sociology · [DOI](https://doi.org/10.2307/591522)
+- New Times for the Military: Some Sociological Remarks on the Changing Role and Structure of the Armed Forces of the Advanced Societies · [DOI](https://doi.org/10.2307/591887)
 
 ## 1992
 
@@ -1872,12 +1883,14 @@
 ## 1988
 
 - The Reproduction of Privilege in Australian Education · [DOI](https://doi.org/10.2307/590483)
+- Sociology after the Holocaust · [DOI](https://doi.org/10.2307/590497)
 
 ## 1987
 
 - Recent Marxist Theories of Nationalism and the Issue of Racism · [DOI](https://doi.org/10.2307/590577)
 - The Idea of Crisis in Modern Society · [DOI](https://doi.org/10.2307/590914)
 - Weber and the Classification of Forms of Legitimacy · [DOI](https://doi.org/10.2307/590532)
+- Acts of Union: Youth Sub-Culture and Ethnic Identity amongst Protestants in Northern Ireland · [DOI](https://doi.org/10.2307/590530)
 
 ## 1986
 
@@ -1887,6 +1900,7 @@
 
 - Weber's Verstehen and the History of Qualitative Research: The Missing Link · [DOI](https://doi.org/10.2307/590460)
 - On Economic Development and Social Mobility · [DOI](https://doi.org/10.2307/590331)
+- Power and Resistance · [DOI](https://doi.org/10.2307/590330)
 
 ## 1984
 
@@ -1919,6 +1933,7 @@
 ## 1980
 
 - The Problem of Thematic Unity in the Works of Max Weber · [DOI](https://doi.org/10.2307/589370)
+- Immigrants and Society - A Critical View of the Dominant School of Israeli Sociology · [DOI](https://doi.org/10.2307/589690)
 
 ## 1979
 
@@ -1934,6 +1949,7 @@
 ## 1977
 
 - Class Variation in Friendship Patterns · [DOI](https://doi.org/10.2307/590002)
+- The Return of the Sacred? The Argument on the Future of Religion · [DOI](https://doi.org/10.2307/589420)
 
 ## 1976
 
@@ -1961,6 +1977,7 @@
 ## 1970
 
 - Attachment and Loss, Volume I: Attachment · [DOI](https://doi.org/10.2307/588279)
+- The Two Sociologies · [DOI](https://doi.org/10.2307/588409)
 
 ## 1969
 
@@ -1969,6 +1986,7 @@
 ## 1968
 
 - The Sociology of the Betting Shop · [DOI](https://doi.org/10.2307/588541)
+- Methodological Individualism Reconsidered · [DOI](https://doi.org/10.2307/588689)
 
 ## 1967
 
@@ -1988,10 +2006,19 @@
 
 - The Dehumanization of Anomie and Alienation: A Problem in the Ideology of Sociology · [DOI](https://doi.org/10.2307/588861)
 
+## 1963
+
+- Conflict and Liberty: Some Remarks on the Social Structure of German Politics · [DOI](https://doi.org/10.2307/587731)
+
 ## 1962
 
 - The Denomination · [DOI](https://doi.org/10.2307/587942)
 - The Meaning of Poverty · [DOI](https://doi.org/10.2307/587266)
+- Aspects of Westernization: A Study of Adult-Class Students in Ghana: II · [DOI](https://doi.org/10.2307/587945)
+
+## 1959
+
+- Social Stratification and 'Right-Wing Extremism' · [DOI](https://doi.org/10.2307/587800)
 
 ## 1958
 

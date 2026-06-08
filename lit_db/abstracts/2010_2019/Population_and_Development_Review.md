@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2010–2019 年文章（含摘要）
 
-共 **335** 篇
+共 **336** 篇
 
 ---
 
@@ -1333,6 +1333,11 @@
 **年份**: 2012 | **DOI**: [10.1111/j.1728-4457.2012.00477.x](https://doi.org/10.1111/j.1728-4457.2012.00477.x)
 **作者**: McNicoll, Geoffrey
 **摘要**: （暂无）
+
+### On the Role of Human Development in the Arab Spring
+**年份**: 2012 | **DOI**: [10.1111/j.1728-4457.2012.00531.x](https://doi.org/10.1111/j.1728-4457.2012.00531.x)
+**作者**: Kuhn, Randall
+**摘要**: This essay traces the effects of human development on political change, focusing on the events of the Arab Spring. Over the past generation, the Arab world experienced rapid progress in human development outcomes, including declining child mortality, extended schooling, and increasing status of wome…
 
 ### Comparing Relative Effects of Education and Economic Resources on Infant Mortality in Developing Countries
 **年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00451.x](https://doi.org/10.1111/j.1728-4457.2011.00451.x)

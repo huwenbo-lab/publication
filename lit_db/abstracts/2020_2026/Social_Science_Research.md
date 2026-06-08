@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2020–2026 年文章（含摘要）
 
-共 **535** 篇
+共 **537** 篇
 
 ---
 
@@ -138,6 +138,11 @@
 ### Corrigendum to “Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024” [Soc. Sci. Res. 136C (2026) 103347]
 **年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103373](https://doi.org/10.1016/j.ssresearch.2026.103373)
 **作者**: Lee, Hyo Joo
+**摘要**: （暂无）
+
+### The good, the bad, and the healthy: A factorial survey analysis of situational morality in consumption and healthcare
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103378](https://doi.org/10.1016/j.ssresearch.2026.103378)
+**作者**: Güler, Selen
 **摘要**: （暂无）
 
 ### Who do they think you are? Inconsistencies in self-and proxy-reports of education within families
@@ -644,6 +649,11 @@
 **年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2024.103095](https://doi.org/10.1016/j.ssresearch.2024.103095)
 **作者**: Zanasi, Francesca; Bordone, Valeria
 **摘要**: As the early years are crucial for individuals' lifelong socioeconomic success, extensive research has examined the impact of non-maternal childcare on children's development. This study aims to enhance the understanding of the relationship between grandparental involvement (defined as grandparent c…
+
+### Corrigendum to “The uneven effects of gender parity: Trends in gender homophily in scientific publications, 1980–2019” [Soc. Sci. Res. (2025) Volume 132/103228]
+**年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2025.103249](https://doi.org/10.1016/j.ssresearch.2025.103249)
+**作者**: Torre, Margarita; Prieto-Alonso, Jesús A.; Ucar, Iñaki
+**摘要**: （暂无）
 
 ### Field of study, political attitudes, and support for the radical right in Sweden and Europe
 **年份**: 2024 | **DOI**: [10.1016/j.ssresearch.2024.103091](https://doi.org/10.1016/j.ssresearch.2024.103091)

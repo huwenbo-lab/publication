@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2010–2019 年文章（含摘要）
 
-共 **897** 篇
+共 **899** 篇
 
 ---
 
@@ -2513,6 +2513,16 @@
 ### Europe-wide fertility trends since the 1990s: Turning the corner from declining first birth rates
 **年份**: 2015 | **DOI**: [10.4054/demres.2015.32.21](https://doi.org/10.4054/demres.2015.32.21)
 **作者**: Burkimsher, Marion
+**摘要**: （暂无）
+
+### Working with teams of "insiders"
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.12](https://doi.org/10.4054/demres.2015.32.12)
+**作者**: Schatz, Enid; Angotti, Nicole; Madhavan, Sangeetha 等4人
+**摘要**: （暂无）
+
+### The future size of religiously affiliated and unaffiliated populations
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.27](https://doi.org/10.4054/demres.2015.32.27)
+**作者**: Hackett, Conrad; Stonawski, Marcin Jan; Potančoková, Michaela 等5人
 **摘要**: （暂无）
 
 ### When people shed religious identity in Ireland and Austria: Evidence from censuses
