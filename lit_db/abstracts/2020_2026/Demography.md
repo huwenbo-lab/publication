@@ -1,7 +1,7 @@
 # Demography
 ## 2020–2026 年文章（含摘要）
 
-共 **546** 篇
+共 **548** 篇
 
 ---
 
@@ -74,6 +74,16 @@
 **年份**: 2026 | **DOI**: [10.1215/00703370-12655184](https://doi.org/10.1215/00703370-12655184)
 **作者**: Murken, Niklas; Schewel, Kerilyn; Tjaden, Jasper
 **摘要**: Highlights We provide causal evidence that asking about intentions to stay rather than migrate reduces expressed migration aspirations by 12 percentage points, confirming a significant “mobility framing effect” in survey responses.…
+
+### Dynamic Contributions of Chronic Diseases to the Widening Educational Gap in Disability and Mortality, 2002–2018: A Research Note
+**年份**: 2026 | **DOI**: [10.1215/00703370-12664351](https://doi.org/10.1215/00703370-12664351)
+**作者**: Zheng, Hui
+**摘要**: Highlights I examine the role of chronic conditions in the widening educational health gap. The prevalence of chronic conditions increases similarly for adults with and without a college degree.…
+
+### The Effect of the Great Recession on U.S. Fertility: Causal Estimates From a Novel Cohort Discontinuity Design
+**年份**: 2026 | **DOI**: [10.1215/00703370-12664250](https://doi.org/10.1215/00703370-12664250)
+**作者**: Wu, Lawrence L.; Mark, Nicholas D. E.; Hill, Jennifer
+**摘要**: Highlights This article presents causal effects of the Great Recession on U.S. fertility. Effects are identified using a new cohort discontinuity design. The design identifies effects for single-year cohorts of women, as well as for single-year cohorts of White and Black women.…
 
 ### Single Parenthood, Gender, and Mortality
 **年份**: 2025 | **DOI**: [10.1215/00703370-12234087](https://doi.org/10.1215/00703370-12234087)

@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **493** 篇
+共 **496** 篇
 
 ---
 
@@ -208,6 +208,21 @@
 ### Understanding racialised elements of habitus of working-class women on an access to higher education course
 **年份**: 2026 | **DOI**: [10.1080/01425692.2026.2679486](https://doi.org/10.1080/01425692.2026.2679486)
 **作者**: McLaughlin, Sarah
+**摘要**: （暂无）
+
+### Symbolic haunting: first-generation university students’ limited sense of entitlement
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2615957](https://doi.org/10.1080/01425692.2026.2615957)
+**作者**: Lin-Januszewski, Liang-Wen
+**摘要**: （暂无）
+
+### Translanguaging knowledge mobilised for theorising: a case study of Chinese bilingual postgraduate researchers in Australia
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2685042](https://doi.org/10.1080/01425692.2026.2685042)
+**作者**: Shen, Haibo; Liu, Wei; Qi, Jing
+**摘要**: （暂无）
+
+### The UK field of higher education institutions and its homologies: class, gender and race
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2679488](https://doi.org/10.1080/01425692.2026.2679488)
+**作者**: Atkinson, Will; Benites Nieves, Rodolfo
 **摘要**: （暂无）
 
 ### Numerical diversity only? The case of academic preparatory programs for the Negev Bedouin in Israel

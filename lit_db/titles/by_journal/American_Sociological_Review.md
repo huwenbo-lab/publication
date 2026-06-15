@@ -1,6 +1,6 @@
 # American Sociological Review — 文章标题索引
 
-共 **1240** 篇 | 年份范围：1936–2026
+共 **1259** 篇 | 年份范围：1936–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -9,6 +9,7 @@
 
 - Pedagogy of Fear: Folklore and the Far-Right in Weimar Germany · [DOI](https://doi.org/10.1177/00031224251409746)
 - The Influence “Paradox”: When More Network Ties Lead to Less Change · [DOI](https://doi.org/10.1177/00031224261438845)
+- Unstable Work in a Fissured Economy: Tracking Employment in Subcontractor Establishments in France · [DOI](https://doi.org/10.1177/00031224261448194)
 
 ## 2025
 
@@ -1027,6 +1028,8 @@
 - Assessing Alternative Perspectives on Race and Sex Employment Segregation · [DOI](https://doi.org/10.1177/000312240206700404)
 - Social Integration, Imitation, and the Geographic Patterning of Suicide · [DOI](https://doi.org/10.1177/000312240206700605)
 - Does Oppositional Culture Exist in Minority and Poverty Peer Groups? · [DOI](https://doi.org/10.2307/3088938)
+- Social Capital and Democracy: An Interdependent Relationship · [DOI](https://doi.org/10.2307/3088895)
+- A Brief History of Human Society: The Origin and Role of Emotion in Social Life: 2001 Presidential Address · [DOI](https://doi.org/10.2307/3088931)
 
 ## 2001
 
@@ -1129,6 +1132,9 @@
 - Income Inequality, Development, and Dependence: A Reconsideration · [DOI](https://doi.org/10.2307/2657259)
 - The Ties That Bind: Principles of Cohesion in Cohabitation and Marriage · [DOI](https://doi.org/10.2307/2657490)
 - “Property Values Drop When Blacks Move In, Because…”: Racial and Socioeconomic Determinants of Neighborhood Desirability · [DOI](https://doi.org/10.1177/000312249906400308)
+- Organizational Mediation of Project-Based Labor Markets: Talent Agencies and the Careers of Screenwriters · [DOI](https://doi.org/10.2307/2657278)
+- Rebel without a Cause or Effect: Birth Order and Social Attitudes · [DOI](https://doi.org/10.2307/2657528)
+- The Effect of Marriage and Divorce on Women's Economic Well-Being · [DOI](https://doi.org/10.2307/2657403)
 
 ## 1998
 
@@ -1189,6 +1195,7 @@
 - Money in the Bank: Transaction Costs and the Economic Organization of Marriage · [DOI](https://doi.org/10.2307/2096283)
 - The Rational Reconstruction of Society: 1992 Presidential Address · [DOI](https://doi.org/10.2307/2096213)
 - Conservative Protestantism and Support for Corporal Punishment · [DOI](https://doi.org/10.2307/2096222)
+- Constructing Racial Rhetoric: Media Depictions of Harm in Heavy Metal and Rap Music · [DOI](https://doi.org/10.2307/2095949)
 
 ## 1992
 
@@ -1234,6 +1241,7 @@
 - Gender and Promotion in Segmented Job Ladder Systems · [DOI](https://doi.org/10.2307/2095730)
 - Back to the Future: Adult Political Behavior of Former Student Activists · [DOI](https://doi.org/10.2307/2095823)
 - Power Relations in Exchange Networks · [DOI](https://doi.org/10.2307/2095689)
+- Rethinking Macrosociological Theory · [DOI](https://doi.org/10.2307/2095685)
 
 ## 1987
 
@@ -1257,11 +1265,14 @@
 - Professionalization of American Scientists: Public Science in the Creation/ Evolution Trials · [DOI](https://doi.org/10.2307/2095548)
 - Changes in the Employment Activities of New Parents · [DOI](https://doi.org/10.2307/2095414)
 - Toward a Multilevel Distributive Justice Theory · [DOI](https://doi.org/10.2307/2095506)
+- Dynamic Relationships between Premarital Cohabitation and Illicit Drug Use: An Event-History Analysis of Role Selection and Role Socialization · [DOI](https://doi.org/10.2307/2095437)
+- Job Power and Earnings · [DOI](https://doi.org/10.2307/2095377)
 
 ## 1984
 
 - Occupational and Labor Market Effects on Secondary and Postsecondary Educational Expansion in the United States: 1922 to 1979 · [DOI](https://doi.org/10.2307/2095423)
 - Organization, Rationality and Spontaneity in the Civil Rights Movement · [DOI](https://doi.org/10.2307/2095529)
+- Why Not Equal Protection? Explaining the Politics of Public Social Spending in Britain, 1900-1911, and the United States, 1880s-1920 · [DOI](https://doi.org/10.2307/2095527)
 
 ## 1983
 
@@ -1312,6 +1323,7 @@
 - The Deterrence Doctrine and the Perceived Certainty of Legal Punishments · [DOI](https://doi.org/10.2307/2094607)
 - The French Republican Calendar: A Case Study in the Sociology of Time · [DOI](https://doi.org/10.2307/2094573)
 - Social Status, Status Inconsistency and Psychological Stress · [DOI](https://doi.org/10.2307/2094560)
+- A Computer Simulation of the Emergence of Consensus in Crowds · [DOI](https://doi.org/10.2307/2094754)
 
 ## 1976
 
@@ -1324,6 +1336,7 @@
 - Socioeconomic Status and Religious Participation · [DOI](https://doi.org/10.2307/2094180)
 - The Effects of International Economic Dependence on Development and Inequality: A Cross-National Study · [DOI](https://doi.org/10.2307/2094176)
 - The Structure of Intragenerational Mobility · [DOI](https://doi.org/10.2307/2094433)
+- The Market, Tradition and Peasant Rebellion: The Case of Romania in 1907 · [DOI](https://doi.org/10.2307/2094430)
 
 ## 1974
 
@@ -1370,6 +1383,7 @@
 
 - Social Factors in the Origins of a New Science: The Case of Psychology · [DOI](https://doi.org/10.2307/2090769)
 - Industrialization and the American Family: A Look Backward · [DOI](https://doi.org/10.2307/2090821)
+- The Sociology of Law and Normative Phenomena · [DOI](https://doi.org/10.2307/2090820)
 
 ## 1965
 
@@ -1391,6 +1405,7 @@
 ## 1962
 
 - Toward a Theory of Revolution · [DOI](https://doi.org/10.2307/2089714)
+- The Achievement Motive and Differential Occupational Mobility in the United States · [DOI](https://doi.org/10.2307/2089675)
 
 ## 1961
 
@@ -1434,6 +1449,7 @@
 - The Function and Meaning of Work and the Job · [DOI](https://doi.org/10.2307/2088325)
 - Participation of Migrants in Urban Structures · [DOI](https://doi.org/10.2307/2088329)
 - Role Differentiation in Small Groups · [DOI](https://doi.org/10.2307/2087389)
+- The Effect of Changing Size Upon the Internal Structure of Organizations · [DOI](https://doi.org/10.2307/2088193)
 
 ## 1954
 
@@ -1444,6 +1460,10 @@
 
 - A Technique for the Measurement of Race Attitudes · [DOI](https://doi.org/10.2307/2087852)
 - Levels of Aspiration and Social Class · [DOI](https://doi.org/10.2307/2087876)
+
+## 1952
+
+- A Formal Theory of Interaction in Social Groups · [DOI](https://doi.org/10.2307/2087661)
 
 ## 1951
 
@@ -1461,6 +1481,10 @@
 - The Power of Science and the Science of Power · [DOI](https://doi.org/10.2307/2086645)
 - An Analysis of Conflicting Social Norms · [DOI](https://doi.org/10.2307/2086672)
 - Politics Among Nations: The Struggle for Power and Peace. · [DOI](https://doi.org/10.2307/2086875)
+
+## 1948
+
+- Public Opinion and Public Opinion Polling · [DOI](https://doi.org/10.2307/2087146)
 
 ## 1947
 
@@ -1487,6 +1511,10 @@
 
 - A Conceptual Analysis of Stratification · [DOI](https://doi.org/10.2307/2085360)
 - Geophagy (Dirt Eating) Among Mississippi Negro School Children · [DOI](https://doi.org/10.2307/2086258)
+
+## 1941
+
+- The Community as a Social Group · [DOI](https://doi.org/10.2307/2085549)
 
 ## 1940
 

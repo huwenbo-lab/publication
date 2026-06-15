@@ -1,7 +1,7 @@
 # Chinese Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **149** 篇
+共 **150** 篇
 
 ---
 
@@ -64,6 +64,11 @@
 **年份**: 2026 | **DOI**: [10.1177/2057150x261454806](https://doi.org/10.1177/2057150x261454806)
 **作者**: Han, Bing; He, Ranran; Kane, Danielle
 **摘要**: Amid declining marriage rates in China, bride price has become a key source of strain in marriage formation. While earlier studies have examined its economic and cultural dimensions, less is known about how migrant workers experience the negotiation of bride price as they move between rural traditio…
+
+### The mother–daughter relationship in urban singleton-daughter families: Changing intergenerational relationships and the implications for Chinese family reinstitutionalization
+**年份**: 2026 | **DOI**: [10.1177/2057150x261454099](https://doi.org/10.1177/2057150x261454099)
+**作者**: Ji, Yingchun; Li, Xuan
+**摘要**: The father–son relationship has traditionally been regarded as the cornerstone of family dynamics and has been the focal point of research in both Western and Chinese contexts. Conversely, the mother–daughter relationship has either been overlooked or portrayed in a negative light.…
 
 ### Scholars like any other? An inquiry into productivity and citations in the field of contemporary China studies
 **年份**: 2025 | **DOI**: [10.1177/2057150X251345124](https://doi.org/10.1177/2057150X251345124)

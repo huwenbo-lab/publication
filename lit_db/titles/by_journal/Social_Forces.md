@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2943** 篇 | 年份范围：1926–2026
+共 **2950** 篇 | 年份范围：1926–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2907,6 +2907,7 @@
 
 - Religious Resources and Church Growth · [DOI](https://doi.org/10.2307/2580498)
 - Sex and Race Homogeneity in Naturally Occurring Groups · [DOI](https://doi.org/10.2307/2580623)
+- Parental Divorce, Marital Conflict, and Offspring Well-being during Early Adulthood · [DOI](https://doi.org/10.2307/2580551)
 
 ## 1994
 
@@ -2996,12 +2997,14 @@
 - Achievement and Ascriptive Processes in the Recognition of Scientific Articles · [DOI](https://doi.org/10.2307/2578354)
 - Socioeconomic Returns to Migration among Married Women · [DOI](https://doi.org/10.2307/2578318)
 - Theory and Method in Comparative Research: Two Strategies · [DOI](https://doi.org/10.2307/2578132)
+- Industrial Segmentation and Men's Intergenerational Mobility · [DOI](https://doi.org/10.1093/sf/61.4.1119)
 
 ## 1981
 
 - The Structures and Meanings of Social Time · [DOI](https://doi.org/10.2307/2578444)
 - Durkheim and the Social Anthropology of Culture · [DOI](https://doi.org/10.2307/2577977)
 - Sociology: Parochial or Universal? · [DOI](https://doi.org/10.2307/2578443)
+- A Dynamic Model of Voluntary Affiliation · [DOI](https://doi.org/10.2307/2578190)
 
 ## 1980
 
@@ -3044,6 +3047,7 @@
 - The Division of Labor: Conceptualization and Related Measures · [DOI](https://doi.org/10.2307/2576589)
 - Microeconomic Theories of Fertility: A Critique · [DOI](https://doi.org/10.2307/2576080)
 - Professionalization, Bureaucratization and Rationalization: The Views of Max Weber · [DOI](https://doi.org/10.2307/2576478)
+- From Region to Class, the Changing Locus of Country Music: A Test of the Massification Hypothesis · [DOI](https://doi.org/10.2307/2576592)
 
 ## 1974
 
@@ -3057,6 +3061,10 @@
 - Social Control Violence and Radicalizat The Kent State Case · [DOI](https://doi.org/10.1093/sf/51.3.342)
 - Georg Simmel and the Aesthetics of Social Reality · [DOI](https://doi.org/10.2307/2577137)
 
+## 1972
+
+- American Civil Religion: An Empirical Study · [DOI](https://doi.org/10.2307/2576338)
+
 ## 1971
 
 - The Logic of Naturalistic Inquiry · [DOI](https://doi.org/10.2307/2576935)
@@ -3065,6 +3073,7 @@
 
 - A Critical Examination of the Designation of Standard Metropolitan Statistical Areas · [DOI](https://doi.org/10.2307/2574651)
 - Life-Style Differences Among Urban and Suburban Blue-Collar Families · [DOI](https://doi.org/10.2307/2574652)
+- The Community as A Social Field · [DOI](https://doi.org/10.2307/2574650)
 
 ## 1969
 
@@ -3165,6 +3174,10 @@
 - The Modern Caste School of Race Relations · [DOI](https://doi.org/10.2307/2570563)
 - The Process of Urbanization · [DOI](https://doi.org/10.2307/3005615)
 - The Significance of Comte · [DOI](https://doi.org/10.2307/2570423)
+
+## 1941
+
+- The Definition of Definition · [DOI](https://doi.org/10.2307/2571207)
 
 ## 1939
 

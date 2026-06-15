@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **624** 篇 | 年份范围：1963–2026
+共 **639** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -581,6 +581,7 @@
 - Race, Cultural Capital, and Educational Resources: Persistent Inequalities and Achievement Returns · [DOI](https://doi.org/10.2307/2673227)
 - Students on the Move: Residential and Educational Mobility in America's Schools · [DOI](https://doi.org/10.2307/2673186)
 - Pathways into Work: Short- and Long-Term Effects of Personal and Institutional Ties · [DOI](https://doi.org/10.2307/2673228)
+- Race, Class, and Gender in America: Narratives of Opportunity among Low-Income African American Youths · [DOI](https://doi.org/10.2307/2673226)
 
 ## 1998
 
@@ -598,6 +599,7 @@
 - From First Grade Forward: Early Foundations of High School Dropout · [DOI](https://doi.org/10.2307/2673158)
 - History and Agency in Men's Lives: Pathways to Achievement in Cohort Perspective · [DOI](https://doi.org/10.2307/2673192)
 - Gender Segregation among College and University Employees · [DOI](https://doi.org/10.2307/2673161)
+- Are Students Being Pulled Out of High School? The Effect of Adolescent Employment on Dropping Out · [DOI](https://doi.org/10.2307/2673209)
 
 ## 1996
 
@@ -625,6 +627,8 @@
 - Lost Talent: Unrealized Educational Aspirations and Expectations among U.S. Youths · [DOI](https://doi.org/10.2307/2112789)
 - Sequences of Opportunities for Learning · [DOI](https://doi.org/10.2307/2112790)
 - Sexism in Single-Sex and Coeducational Independent Secondary School Classrooms · [DOI](https://doi.org/10.2307/2112699)
+- Residential Segregation and School Integration · [DOI](https://doi.org/10.2307/2112817)
+- Overeducation and Skill Mismatch · [DOI](https://doi.org/10.2307/2112749)
 
 ## 1993
 
@@ -633,6 +637,8 @@
 - Analyzing Distributions in School Effects Research: An Empirical Illustration · [DOI](https://doi.org/10.2307/2112757)
 - From Nerds to Normals: The Recovery of Identity among Adolescents from Middle School to High School · [DOI](https://doi.org/10.2307/2112783)
 - The Effect of the Number of Diplomas on Their Value · [DOI](https://doi.org/10.2307/2112737)
+- Creating Gender Equality: Cross-national Gender Stratification and Mathematical Performance · [DOI](https://doi.org/10.2307/2112795)
+- Educational Quality and Labor Market Outcomes: Evidence from Bogota, Colombia · [DOI](https://doi.org/10.2307/2112797)
 
 ## 1992
 
@@ -666,6 +672,9 @@
 - Construction of the First Mass Education Systems in Nineteenth-Century Europe · [DOI](https://doi.org/10.2307/2112831)
 - High School Completion and Men's Incomes: An Apparent Anomaly · [DOI](https://doi.org/10.2307/2112867)
 - Education, Gender, and Economic Development: A Cross-National Study · [DOI](https://doi.org/10.2307/2112821)
+- Working-Class Women's Ways of Knowing: Effects of Gender, Race, and Class · [DOI](https://doi.org/10.2307/2112822)
+- Why Does Jane Read and Write so Well? The Anomaly of Women's Achievement · [DOI](https://doi.org/10.2307/2112823)
+- Can Classrooms Learn? · [DOI](https://doi.org/10.2307/2112841)
 
 ## 1988
 
@@ -673,6 +682,7 @@
 - Curriculum Tracking as Mediating the Social Distribution of High School Achievement · [DOI](https://doi.org/10.2307/2112266)
 - Routines in the Peer Culture of American and Italian Nursery School Children · [DOI](https://doi.org/10.2307/2112305)
 - Friendship in School: Gender and Racial Homophily · [DOI](https://doi.org/10.2307/2112441)
+- Multicode Organizations: A Conceptual Framework for the Analysis of Boarding Schools · [DOI](https://doi.org/10.2307/2112440)
 
 ## 1987
 
@@ -691,6 +701,7 @@
 - The Impact of Financial and Cultural Resources on Educational Attainment in the Netherlands · [DOI](https://doi.org/10.2307/2112350)
 - Effects of Ethnicity and Sex on Teachers' Expectations of Junior High School Students · [DOI](https://doi.org/10.2307/2112486)
 - Performance Standards, Student Effort on Homework, and Academic Achievement · [DOI](https://doi.org/10.2307/2112483)
+- A Hierarchical Model for Studying School Effects · [DOI](https://doi.org/10.2307/2112482)
 
 ## 1985
 
@@ -723,6 +734,8 @@
 - The Structure of Significant Other Influence on Status Aspirations: Black-White Variations · [DOI](https://doi.org/10.2307/2112608)
 - High School Seniors' Occupational Plans and Values: Trends in Sex Differences 1976 through 1980 · [DOI](https://doi.org/10.2307/2112606)
 - Racial Segregation Among Public and Private Schools · [DOI](https://doi.org/10.2307/2112293)
+- The Effects of Task Structure on Beliefs About Competence and Participation in Small Groups · [DOI](https://doi.org/10.2307/2112673)
+- Public and Catholic Schools: A Reanalysis of "Public and Private Schools" · [DOI](https://doi.org/10.2307/2112292)
 
 ## 1981
 
@@ -753,6 +766,7 @@
 - Black-White Differences in the Educational Attainment Process · [DOI](https://doi.org/10.2307/2112641)
 - Schooling, Ability, and Earnings: Cross-Sectional Findings 8 to 14 Years after High School Graduation · [DOI](https://doi.org/10.2307/2112649)
 - Open Schools and Achievement: Extended Tests of a Finding of No Relationship · [DOI](https://doi.org/10.2307/2112375)
+- The Non-Linear Impact of Schooling: Comparing Different Types and Amounts of Jewish Education · [DOI](https://doi.org/10.2307/2112374)
 
 ## 1976
 
@@ -776,6 +790,7 @@
 - The Effect of Physical Attractiveness on Teacher Expectations · [DOI](https://doi.org/10.2307/2112099)
 - The Psychocultural Origins of Achievement and Achievement Motivation: The Mexican-American Family · [DOI](https://doi.org/10.2307/2111895)
 - Status Attainment Processes · [DOI](https://doi.org/10.2307/2112205)
+- Development of the Sociology of Higher Education · [DOI](https://doi.org/10.2307/2112203)
 
 ## 1972
 

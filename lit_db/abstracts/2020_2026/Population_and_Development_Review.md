@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **284** 篇
+共 **285** 篇
 
 ---
 
@@ -887,6 +887,10 @@
 
 ### Giorgia Meloni on Italy's Demographic Challenge
 **年份**: 2023 | **DOI**: [10.1111/padr.12595](https://doi.org/10.1111/padr.12595)
+**摘要**: （暂无）
+
+### The United Nations on Global Food Security
+**年份**: 2023 | **DOI**: [10.1111/padr.12594](https://doi.org/10.1111/padr.12594)
 **摘要**: （暂无）
 
 ### Change and Variation in US Couples' Earnings Equality Following Parenthood

@@ -1,7 +1,7 @@
 # Sociological Science
 ## 2020–2026 年文章（含摘要）
 
-共 **201** 篇
+共 **206** 篇
 
 ---
 
@@ -123,6 +123,31 @@
 ### Family Networks and Childcare Choices: A Predictive Machine Learning Approach
 **年份**: 2026 | **DOI**: [10.15195/v13.a23](https://doi.org/10.15195/v13.a23)
 **作者**: Soler, Nicolás; Emery, Tom; Kanas, Agnieszka
+**摘要**: （暂无）
+
+### Changing Opportunity: Rising Local Wealth Inequality and Growing Class Gaps in Income Mobility
+**年份**: 2026 | **DOI**: [10.15195/v13.a25](https://doi.org/10.15195/v13.a25)
+**作者**: Schechtl, Manuel; Torche, Florencia
+**摘要**: （暂无）
+
+### Teacher Sorting and Inequalities in Student Achievement: Unequal Exposures and Differential Returns to Teacher Qualifications
+**年份**: 2026 | **DOI**: [10.15195/v13.a29](https://doi.org/10.15195/v13.a29)
+**作者**: Hassan, Said
+**摘要**: （暂无）
+
+### Clickbait Crime News? Metrics and Professional Authority in Local Newsrooms
+**年份**: 2026 | **DOI**: [10.15195/v13.a27](https://doi.org/10.15195/v13.a27)
+**作者**: Ben-Menachem, Jonathan
+**摘要**: （暂无）
+
+### Beyond Text: Using AI-Generated Visual Conjoints to Study Gender and Housework Attribution
+**年份**: 2026 | **DOI**: [10.15195/v13.a26](https://doi.org/10.15195/v13.a26)
+**作者**: Pessin, Léa; Munger, Kevin
+**摘要**: （暂无）
+
+### The Exception to Women’s Advantage: How Rurality, Red Counties, and the Local Economy Shape Gender Gaps in Educational Attainment
+**年份**: 2026 | **DOI**: [10.15195/v13.a28](https://doi.org/10.15195/v13.a28)
+**作者**: Sutton, April; Mackenna, Bernardo; Zhang, Bolun 等4人
 **摘要**: （暂无）
 
 ### Workplace Networks and the Dynamics of Worker Organizing

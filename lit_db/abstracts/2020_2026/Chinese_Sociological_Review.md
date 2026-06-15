@@ -1,7 +1,7 @@
 # Chinese Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **142** 篇
+共 **143** 篇
 
 ---
 
@@ -18,6 +18,11 @@
 ### Large language models as a conduit for value shifts in contemporary China
 **年份**: 2026 | **DOI**: [10.1080/21620555.2026.2656193](https://doi.org/10.1080/21620555.2026.2656193)
 **作者**: Cao, Likun; Dai, Lianghao
+**摘要**: （暂无）
+
+### An alternative perspective on the Second Demographic Transition in East Asia: the relationship between pregnancy intentions and trajectories of cohabitation, marriage, and pregnancy in Japan
+**年份**: 2026 | **DOI**: [10.1080/21620555.2026.2663396](https://doi.org/10.1080/21620555.2026.2663396)
+**作者**: Mogi, Ryohei; Uchikoshi, Fumiya; Yoda, Shohei
 **摘要**: （暂无）
 
 ### Unlocking policy implementation logic: comparative analysis of Chinese Social Credit Systems in Rongcheng and Danyang with an enterprise focus

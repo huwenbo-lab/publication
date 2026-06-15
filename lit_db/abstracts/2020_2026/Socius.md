@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **737** 篇
+共 **739** 篇
 
 ---
 
@@ -174,6 +174,11 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231261451346](https://doi.org/10.1177/23780231261451346)
 **作者**: Kuzmanic, Danilo
 **摘要**: Wealthy universities enjoy advantages in accessing resources, disproportionately benefiting high-income students who are overrepresented in these institutions. Using administrative data from 2017 to 2019, the author analyzes the relationship between resource inequality and student income segregation…
+
+### Group Differences in Income Distributions, Poverty Gaps, and Poverty Buffers: Inequalities between the Children of Swedish-Born and Migrant Parents
+**年份**: 2026 | **DOI**: [10.1177/23780231261450748](https://doi.org/10.1177/23780231261450748)
+**作者**: Aradhya, Siddartha; Grotti, Raffaele; Nieuwenhuis, Rense
+**摘要**: Conventional approaches define income poverty as a binary status, implying that being poor or nonpoor is equivalent across groups. The authors propose a novel visualization that moves beyond head count rates to display group-specific income distributions relative to the poverty threshold, simultaneo…
 
 ### Gender Egalitarianism and Marital Dissolution: Understanding the Bifurcation of the “Gender Revolution” in the United States
 **年份**: 2025 | **DOI**: [10.1177/23780231251372790](https://doi.org/10.1177/23780231251372790)
@@ -3339,6 +3344,11 @@
 **年份**: 2021 | **DOI**: [10.1177/23780231211055246](https://doi.org/10.1177/23780231211055246)
 **作者**: Glass, Jennifer L.; Raley, R. Kelly; Pepin, Joanna R.
 **摘要**: Over 40 percent of American children rely primarily on their mothers’ earnings for financial support in cross-sectional surveys. Yet these data understate mothers’ role as their family’s primary earner.…
+
+### Health Starting Points: Continuity and Change in Physical and Mental Health before and during the Pandemic
+**年份**: 2021 | **DOI**: [10.1177/23780231211025382](https://doi.org/10.1177/23780231211025382)
+**作者**: Manning, Wendy; Longmore, Monica; Giordano, Peggy 等4人
+**摘要**: The pandemic has created multiple changes in the lives of Americans, with growing and widespread concerns about the implications for the nation’s health and well-being. Most empirical examinations of the physical and mental health implications of the pandemic have rested on aggregate comparisons of …
 
 ### Predicting Postsecondary Pathways: The Effect of Social Background and Academic Factors on Routes through School
 **年份**: 2020 | **DOI**: [10.1177/2378023119895174](https://doi.org/10.1177/2378023119895174)

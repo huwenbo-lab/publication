@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1525** 篇 | 年份范围：1986–2026
+共 **1529** 篇 | 年份范围：1986–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1590,6 +1590,7 @@
 - Explaining Sex Differences in Educational Choice An Empirical Assessment of a Rational Choice Model · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018272)
 - Military Service During Wartime Effects on Men's Occupational Trajectories and Later Economic Well-Being · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018261)
 - Validity and Systematicity of Newspaper Data in Event Analysis · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018265)
+- Occupational Matching and Social Stratification: Theoretical Insights and Empirical Observations Taken from a German-German Comparison · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018253)
 
 ## 1998
 
@@ -1599,6 +1600,10 @@
 
 - 'Losing my religion'1: a dynamic analysis of leaving the church in the Netherlands · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018179)
 - The Salience of the Part-time Divide in the European Union · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018190)
+
+## 1995
+
+- Matching Training and Jobs: The Fit Between Vocational Education and Employment in the German Labour Market · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036365)
 
 ## 1994
 
@@ -1614,6 +1619,7 @@
 - Locating class cleavages in inter-generational mobility: cross-national commonalities and variations in mobility patterns · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036641)
 - Common social fluidity: a comment on recent criticisms · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036639)
 - Explaining Trends in Occupational Segregation: The Measurement, Causes, and Consequences of the Sexual Division of Labour · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036628)
+- Symmetry and hierarchy in social mobility: a methodological analysis of the CASMIN model of class mobility · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036640)
 
 ## 1991
 
@@ -1646,3 +1652,4 @@
 - Increasing equality in household work: patterns of time-use change in Norway · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036417)
 - Social context and inter-ethnic relations: the case of migrant workers in West German urban areas · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036404)
 - Educational systems and labour markets as determinants of worklife mobility in France and West Germany: a comparison of men's career mobility, 1965–1970 · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036414)
+- Career opportunities in the Federal Republic of Germany: a dynamic approach to the study of life-course, cohort, and period effects · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036419)

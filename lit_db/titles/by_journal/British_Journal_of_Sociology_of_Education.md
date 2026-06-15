@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1719** 篇 | 年份范围：1980–2026
+共 **1724** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -48,6 +48,9 @@
 - Roots and leaves: rethinking the relationship between habitus and identity · [DOI](https://doi.org/10.1080/01425692.2026.2681654)
 - What makes bullying complicated - teachers’ perceptions of bullying-related issues in school · [DOI](https://doi.org/10.1080/01425692.2026.2682490)
 - Understanding racialised elements of habitus of working-class women on an access to higher education course · [DOI](https://doi.org/10.1080/01425692.2026.2679486)
+- Symbolic haunting: first-generation university students’ limited sense of entitlement · [DOI](https://doi.org/10.1080/01425692.2026.2615957)
+- Translanguaging knowledge mobilised for theorising: a case study of Chinese bilingual postgraduate researchers in Australia · [DOI](https://doi.org/10.1080/01425692.2026.2685042)
+- The UK field of higher education institutions and its homologies: class, gender and race · [DOI](https://doi.org/10.1080/01425692.2026.2679488)
 
 ## 2025
 
@@ -1807,6 +1810,7 @@
 
 - Critical Events in Education · [DOI](https://doi.org/10.1080/0142569930140401)
 - The Sociology of School Effectiveness · [DOI](https://doi.org/10.1080/0142569930140309)
+- The Competitive Structure of School and the Labour Market: Japan and Britain · [DOI](https://doi.org/10.1080/0142569930140306)
 
 ## 1992
 
@@ -1846,6 +1850,10 @@
 ## 1982
 
 - The ‘Hidden Pedagogy’ and its Implications for Teacher Training · [DOI](https://doi.org/10.1080/0142569820030303)
+
+## 1981
+
+- Teacher Satisfaction and Dissatisfaction: Herzberg's ‘two‐factor’ hypothesis revisited · [DOI](https://doi.org/10.1080/0142569810020302)
 
 ## 1980
 

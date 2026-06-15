@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2216** 篇 | 年份范围：1972–2026
+共 **2227** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -35,6 +35,16 @@
 - A Schumpeter hotel? Surname status inequality and persistence in Sweden, 1880–2015 · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103367)
 - Corrigendum to “Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024” [Soc. Sci. Res. 136C (2026) 103347] · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103373)
 - The good, the bad, and the healthy: A factorial survey analysis of situational morality in consumption and healthcare · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103378)
+- Toward a formal sociological model of partner search · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103356)
+- Regrets, she's had a few: Gender and regret of computer science and engineering degrees · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103298)
+- When categories change value: How new educational resources reshape patterns of inequality · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103310)
+- Do geopolitical tensions increase negative attitudes toward minorities? Evidence from a natural experiment in India · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103323)
+- The intergenerational mobility advantage of educators’ children: Capital embedded in occupations · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103388)
+- Criminal legal contact, labor market insecurity and labor market participation · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103321)
+- Catalysts and buffers: How diversity and status in social networks shape attitudes towards inequality in contemporary societies · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103389)
+- Americans' views of religion in public life: The effect of three cultural models on attitudes toward religious and nonreligious groups · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103393)
+- Horizontal stratification and educational homogamy in South Korea: Marriage patterns and preferences across elite- and non-elite university graduates · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103386)
+- Educational attainment, gender, and the change in access to schedule flexibility in Europe and the United States · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103309)
 
 ## 2025
 
@@ -410,6 +420,7 @@
 - Gender inequality in relational position-taking: An analysis of intra-organizational job mobility networks · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102622)
 - The impact of anticipated, vicarious, and experienced racial and ethnic discrimination on depression and suicidal behavior among Chicago youth · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102623)
 - Gender, union formation, and assortative mating among older women · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102656)
+- Higher education non-completion, employers, and labor market integration: Experimental evidence · [DOI](https://doi.org/10.1016/j.ssresearch.2022.102696)
 
 ## 2021
 

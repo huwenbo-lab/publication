@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2000–2009 年文章（含摘要）
 
-共 **386** 篇
+共 **388** 篇
 
 ---
 
@@ -1523,6 +1523,16 @@
 ### Does Oppositional Culture Exist in Minority and Poverty Peer Groups?
 **年份**: 2002 | **DOI**: [10.2307/3088938](https://doi.org/10.2307/3088938)
 **作者**: Farkas, George; Lleras, Christy; Maczuga, Steve
+**摘要**: （暂无）
+
+### Social Capital and Democracy: An Interdependent Relationship
+**年份**: 2002 | **DOI**: [10.2307/3088895](https://doi.org/10.2307/3088895)
+**作者**: Paxton, Pamela
+**摘要**: （暂无）
+
+### A Brief History of Human Society: The Origin and Role of Emotion in Social Life: 2001 Presidential Address
+**年份**: 2002 | **DOI**: [10.2307/3088931](https://doi.org/10.2307/3088931)
+**作者**: Massey, Douglas S.
 **摘要**: （暂无）
 
 ### Youth violence and the end of adolescence

@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2020–2026 年文章（含摘要）
 
-共 **512** 篇
+共 **515** 篇
 
 ---
 
@@ -73,6 +73,21 @@
 ### Revisiting the association between women’s employment and separation: An analysis of harmonised longitudinal surveys in six countries
 **年份**: 2026 | **DOI**: [10.4054/demres.2026.54.32](https://doi.org/10.4054/demres.2026.54.32)
 **作者**: Turek, Konrad; Kalmijn, Matthijs
+**摘要**: （暂无）
+
+### Housing changes of immigrants and their descendants using long-term census panel data from England and Wales
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.36](https://doi.org/10.4054/demres.2026.54.36)
+**作者**: Pandya, Parth; Kulu, Hill; Liu, Chia
+**摘要**: （暂无）
+
+### Partnering in turbulent times: Hooking up, dating, and romantic relationship formation in college, 2019–2024
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.37](https://doi.org/10.4054/demres.2026.54.37)
+**作者**: Kuperberg, Arielle; Daniels, Briana D.; Curington, Celeste 等4人
+**摘要**: （暂无）
+
+### Educational differences in fertility recuperation: The role of partnership trajectories in Spain
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.38](https://doi.org/10.4054/demres.2026.54.38)
+**作者**: Suero, Cristina
 **摘要**: （暂无）
 
 ### Shifting spousal age gaps in Kenya and Ghana: Does education matter?

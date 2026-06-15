@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **1092** 篇 | 年份范围：1976–2026
+共 **1110** 篇 | 年份范围：1976–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -193,6 +193,7 @@
 - Shifting Parental Age Differences in High-Income Countries: Insights and Implications · [DOI](https://doi.org/10.1111/padr.12597)
 - It's None of Their Damn Business: Privacy and Disclosure Control in the US Census, 1790-2020 · [DOI](https://doi.org/10.1111/padr.12580)
 - Giorgia Meloni on Italy's Demographic Challenge · [DOI](https://doi.org/10.1111/padr.12595)
+- The United Nations on Global Food Security · [DOI](https://doi.org/10.1111/padr.12594)
 
 ## 2022
 
@@ -454,6 +455,7 @@
 - Advanced Maternal Age and Offspring Outcomes: Reproductive Aging and Counterbalancing Period Trends · [DOI](https://doi.org/10.1111/j.1728-4457.2016.00105.x)
 - The Impact of Migration on Long-Term European Population Trends, 1850 to Present · [DOI](https://doi.org/10.1111/j.1728-4457.2016.00132.x)
 - WHO, UNICEF, UNFPA, World Bank Group, and United Nations Population DivisionTrends in Maternal Mortality: 1990 to 2015Geneva: World Health Organization, 2015. · [DOI](https://doi.org/10.1111/padr.12033)
+- A Happy Ending to a Half‐Century of Family Change? · [DOI](https://doi.org/10.1111/j.1728-4457.2016.00111.x)
 
 ## 2015
 
@@ -675,6 +677,7 @@
 - East Asian Childbearing Patterns and Policy Developments · [DOI](https://doi.org/10.1111/j.1728-4457.2010.00347.x)
 - China's Below-Replacement Fertility: Government Policy or Socioeconomic Development? · [DOI](https://doi.org/10.1111/j.1728-4457.2010.00341.x)
 - The Correspondence Between Fertility Intentions and Behavior in the United States · [DOI](https://doi.org/10.1111/j.1728-4457.2010.00319.x)
+- United Nations: World Population Prospects: The 2008 Revision, Volume 1: Comprehensive Tables and United Nations, World Population Prospects: The 2008 Revision, Highlights · [DOI](https://doi.org/10.1111/j.1728-4457.2010.00368.x)
 
 ## 2009
 
@@ -1096,6 +1099,7 @@
 - Children's Schooling in sub-Saharan Africa: The Role of Fathers, Mothers, and Others · [DOI](https://doi.org/10.2307/2137435)
 - Post-Cairo Population Policy: Does Promoting Girls' Schooling Miss the Mark? · [DOI](https://doi.org/10.2307/2137805)
 - The Istanbul Declaration on Human Settlements · [DOI](https://doi.org/10.2307/2137742)
+- The Rome Declaration on World Food Security · [DOI](https://doi.org/10.2307/2137827)
 
 ## 1995
 
@@ -1104,6 +1108,8 @@
 - Fertility, Dimensions of Patriarchy, and Development in India · [DOI](https://doi.org/10.2307/2137495)
 - The CIA on Global Humanitarian Emergencies · [DOI](https://doi.org/10.2307/2137798)
 - China's One-Child Policy: How and How Well Has it Worked? A Case Study of Hebei Province, 1979-88 · [DOI](https://doi.org/10.2307/2137750)
+- The Cairo Conference on Population and Development: A New Paradigm? · [DOI](https://doi.org/10.2307/2137493)
+- Social Security and Laissez Faire in Eighteenth-Century Political Economy · [DOI](https://doi.org/10.2307/2137772)
 
 ## 1994
 
@@ -1126,6 +1132,7 @@
 - Coitus Interruptus in the Twentieth Century · [DOI](https://doi.org/10.2307/2938413)
 - The Resumption of Fertility Decline in Japan: 1973-92 · [DOI](https://doi.org/10.2307/2938411)
 - Competing Perspectives on the Latin American Informal Sector · [DOI](https://doi.org/10.2307/2938384)
+- The Divorce of Marriage and Childbearing: Changing Attitudes and Behavior in the United States · [DOI](https://doi.org/10.2307/2938442)
 
 ## 1992
 
@@ -1162,12 +1169,15 @@
 - The Social Context of AIDS in sub-Saharan Africa · [DOI](https://doi.org/10.2307/1973703)
 - Is the Chinese Family Planning Program "Tightening Up"? · [DOI](https://doi.org/10.2307/1973708)
 - The Impact of Urbanization and Delayed Childbearing on Population Growth and Aging in China · [DOI](https://doi.org/10.2307/1972441)
+- Child Mortality in the Developing World · [DOI](https://doi.org/10.2307/1972594)
+- Depletion of Common Property Resources in India: Micro-Level Evidence · [DOI](https://doi.org/10.2307/2807930)
 
 ## 1988
 
 - Cultural Dynamics and Economic Theories of Fertility Change · [DOI](https://doi.org/10.2307/1972499)
 - Population, Economic Growth, and Energy Demand, 1985-2020 · [DOI](https://doi.org/10.2307/1973571)
 - Social Science Approaches to International Migration · [DOI](https://doi.org/10.2307/2808098)
+- Moral Philosophy and Population Questions in Eighteenth Century Europe · [DOI](https://doi.org/10.2307/2808088)
 
 ## 1987
 
@@ -1179,6 +1189,7 @@
 - Demographic Consequences of the Great Leap Forward in China's Provinces · [DOI](https://doi.org/10.2307/1973026)
 - Fertility Levels and Trends in India, 1951-81 · [DOI](https://doi.org/10.2307/1973137)
 - Population Redistribution in the Socialist Republic of Vietnam · [DOI](https://doi.org/10.2307/1972120)
+- Differences between Women's and Men's Reproductive Goals in Developing Countries · [DOI](https://doi.org/10.2307/1973025)
 
 ## 1986
 
@@ -1189,6 +1200,7 @@
 - The Effects of Rapid Population Growth on Labor Supply and Employment in Developing Countries · [DOI](https://doi.org/10.2307/1973216)
 - Altruism and the Economic Theory of Fertility · [DOI](https://doi.org/10.2307/2807893)
 - Observations on the History of Cohort Fertility in the United States · [DOI](https://doi.org/10.2307/1973429)
+- The Indonesian Family Planning Program: Government Influence and Client Choice · [DOI](https://doi.org/10.2307/1973219)
 
 ## 1985
 
@@ -1200,11 +1212,13 @@
 - Effects of Maternal Education, Women's Roles, and Child Care on Child Mortality · [DOI](https://doi.org/10.2307/2807961)
 - Wives and Work: The Sex Role Revolution and Its Consequences · [DOI](https://doi.org/10.2307/1973512)
 - An Analytical Framework for the Study of Child Survival in Developing Countries · [DOI](https://doi.org/10.2307/2807954)
+- Population Growth, Industrial Revolutions, and the Urban Transition · [DOI](https://doi.org/10.2307/1973513)
 
 ## 1983
 
 - The Political Demography of Assam's Anti-Immigrant Movement · [DOI](https://doi.org/10.2307/1973053)
 - Fertility Decline in the West: Causes and Prospects · [DOI](https://doi.org/10.2307/1972897)
+- A Century of Demographic and Cultural Change in Western Europe: An Exploration of Underlying Dimensions · [DOI](https://doi.org/10.2307/1973316)
 
 ## 1982
 
@@ -1218,6 +1232,10 @@
 - Population Trends, Population Policy, and Population Studies in China · [DOI](https://doi.org/10.2307/1972766)
 - Malay Marriage and Divorce in Peninsular Malaysia: Three Decades of Change · [DOI](https://doi.org/10.2307/1972623)
 - Population Research and Population Policy in Korea in the 1970s · [DOI](https://doi.org/10.2307/1972802)
+- Risk and Insurance: Perspectives on Fertility and Agrarian Change in India and Bangladesh · [DOI](https://doi.org/10.2307/1972559)
+- The Limits of Population Forecasting · [DOI](https://doi.org/10.2307/1972799)
+- The Only Child in America: Prejudice versus Performance · [DOI](https://doi.org/10.2307/1972763)
+- Economic Decision Theory and Human Fertility Behavior: A Speculative Essay · [DOI](https://doi.org/10.2307/1972556)
 
 ## 1980
 

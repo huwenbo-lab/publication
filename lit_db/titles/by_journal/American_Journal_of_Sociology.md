@@ -1,6 +1,6 @@
 # American Journal of Sociology — 文章标题索引
 
-共 **1070** 篇 | 年份范围：1896–2026
+共 **1094** 篇 | 年份范围：1896–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -716,6 +716,7 @@
 - Mergers and mobility: Organizational growth and the origins of career migration at Lloyds Bank · [DOI](https://doi.org/10.1086/498469)
 - Class forces, political institutions, and state intervention: Subnational economic development policy in the United States, 1971-1990 · [DOI](https://doi.org/10.1086/498467)
 - Social change, premarital nonfamily experience, and spouse choice in an arranged marriage society · [DOI](https://doi.org/10.1086/498468)
+- Organizational Invention and Elite Transformation: The Birth of Partnership Systems in Renaissance Florence · [DOI](https://doi.org/10.1086/498470)
 
 ## 2005
 
@@ -917,6 +918,7 @@
 - Systematic Social Observation of Public Spaces: A New Look at Disorder in Urban Neighborhoods · [DOI](https://doi.org/10.1086/210356)
 - Escape from the GDR, 1961–1989: Hybrid Exit Repertoires in a Disintegrating Leninist Regime · [DOI](https://doi.org/10.1086/210358)
 - Bending with the Wind: Strategic Change and Adaptation by Women's and Racial Minority Organizations · [DOI](https://doi.org/10.1086/210220)
+- Nominal, Ordinal, and Narrative Appraisal in Macrocausal Analysis · [DOI](https://doi.org/10.1086/210139)
 
 ## 1998
 
@@ -931,6 +933,7 @@
 - Celebration and Suppression: The Strategic Uses of Identity by the Lesbian and Gay Movement · [DOI](https://doi.org/10.1086/231250)
 - Political Culture Wars 1960s Style: Equal Employment Opportunity–Affirmative Action Law and the Philadelphia Plan · [DOI](https://doi.org/10.1086/231252)
 - Whose Expectations Matter? The Relative Power of First‐ and Second‐Order Expectations in Determining Social Influence · [DOI](https://doi.org/10.1086/231253)
+- World-Economic Trends in the Distribution of Income, 1965-1992 · [DOI](https://doi.org/10.1086/231038)
 
 ## 1996
 
@@ -942,6 +945,8 @@
 - Culture, Class, and Connections · [DOI](https://doi.org/10.1086/230912)
 - Sociology as a WorldviewA Second Chicago School? The Development of a Postwar American Sociology.Gary Alan Fine · [DOI](https://doi.org/10.1086/230913)
 - Regional Variation in Earnings Inequality in Reform-Era Urban China · [DOI](https://doi.org/10.1086/230785)
+- Reputational Entrepreneurs and the Memory of Incompetence: Melting Supporters, Partisan Warriors, and Images of President Harding · [DOI](https://doi.org/10.1086/230820)
+- Pictures at an Exhibition: Conflicting Pressures in Museums and the Display of Art · [DOI](https://doi.org/10.1086/230781)
 
 ## 1995
 
@@ -949,6 +954,7 @@
 - The Organizational Context of Criminal Sentencing · [DOI](https://doi.org/10.1086/230635)
 - On the Edge or In Between: Niche Position, Niche Overlap, and the Duration of Voluntary Association Memberships · [DOI](https://doi.org/10.1086/230757)
 - Careers in Print: Books, Journals, and Scholarly Reputations · [DOI](https://doi.org/10.1086/230730)
+- Prediction in Macrosociology: The Case of the Soviet Collapse · [DOI](https://doi.org/10.1086/230672)
 
 ## 1994
 
@@ -967,6 +973,7 @@
 - When Partners Become Parents: The Big Life Change for Couples.Carolyn Pape Cowan , Philip A. Cowan · [DOI](https://doi.org/10.1086/230251)
 - Intraorganizational Power and Internal Secularization in Protestant Denominations · [DOI](https://doi.org/10.1086/230228)
 - The Structure of Intergenerational Exchanges in American Families · [DOI](https://doi.org/10.1086/230194)
+- The Protestant Ethic Revisited: Disciplinary Revolution and State Formation in Holland and Prussia · [DOI](https://doi.org/10.1086/230266)
 
 ## 1992
 
@@ -978,6 +985,7 @@
 - Was There a Hawthorne Effect? · [DOI](https://doi.org/10.1086/230046)
 - Religion, Disability, Depression, and the Timing of Death · [DOI](https://doi.org/10.1086/229861)
 - Reciprocal Effects of Religiosity, Cohabitation, and Marriage · [DOI](https://doi.org/10.1086/230051)
+- Payment Systems and the Structure of Inequality: Conceptual Issues and an Analysis of Salespersons in Department Stores · [DOI](https://doi.org/10.1086/229969)
 
 ## 1991
 
@@ -992,6 +1000,7 @@
 - Accounting for Rationality: Double-Entry Bookkeeping and the Rhetoric of Economic Rationality · [DOI](https://doi.org/10.1086/229739)
 - Getting Ahead in Urban China · [DOI](https://doi.org/10.1086/229816)
 - Children and Marital Disruption · [DOI](https://doi.org/10.1086/229613)
+- Learning to Cooperate: Stochastic and Tacit Collusion in Social Exchange · [DOI](https://doi.org/10.1086/229821)
 
 ## 1990
 
@@ -1008,6 +1017,7 @@
 - Self-Perceptions of Black Americans: Self-Esteem and Personal Efficacy · [DOI](https://doi.org/10.1086/229216)
 - Crime and State Surveillance in Nineteenth-Century France · [DOI](https://doi.org/10.1086/229271)
 - Structure After 50 Years: The Anatomy of a Charter · [DOI](https://doi.org/10.1086/229214)
+- Narrative Knowing and the Human Sciences.Donald E. Polkinghorne · [DOI](https://doi.org/10.1086/229259)
 
 ## 1988
 
@@ -1061,6 +1071,7 @@
 - Yearning for Yesterday: A Sociology of Nostalgia.Fred Davis · [DOI](https://doi.org/10.1086/227614)
 - Subculture: The Meaning of Style.Dick Hebdige · [DOI](https://doi.org/10.1086/227629)
 - Job Conditions and Personality: A Longitudinal Assessment of Their Reciprocal Effects · [DOI](https://doi.org/10.1086/227593)
+- Community Change and Patterns of Delinquency · [DOI](https://doi.org/10.1086/227632)
 
 ## 1981
 
@@ -1074,12 +1085,14 @@
 - Detecting Sentencing Disparity: Some Problems and Evidence · [DOI](https://doi.org/10.1086/227320)
 - Perspectives on the Legal Order: The Capacity for Social Control · [DOI](https://doi.org/10.1086/227465)
 - Talcott Parsons and the Theory of Action. I. The Structure of the Kantian Core · [DOI](https://doi.org/10.1086/227314)
+- Economic Segmentation, Worker Power, and Income Inequality · [DOI](https://doi.org/10.1086/227499)
 
 ## 1980
 
 - Autonomy in a Social Topology · [DOI](https://doi.org/10.1086/227093)
 - Cultural Orientations, Institutional Entrepreneurs, and Social Change: Comparative Analysis of Traditional Civilizations · [DOI](https://doi.org/10.1086/227091)
 - The Vagaries of the Vignette World: A Comment on Alves and Rossi · [DOI](https://doi.org/10.1086/227096)
+- The Social Context of Women's Labor Force Participation: A Comparative Analysis · [DOI](https://doi.org/10.1086/227280)
 
 ## 1979
 
@@ -1147,6 +1160,7 @@
 
 - Mobility and Work Satisfaction: A Discussion of the Use and Interpretation of Mobility Models · [DOI](https://doi.org/10.1086/225065)
 - Black Invisibility, the Press, and the Los Angeles Riot · [DOI](https://doi.org/10.1086/224978)
+- Observations on the Study of Crime Causation · [DOI](https://doi.org/10.1086/225100)
 
 ## 1970
 
@@ -1157,6 +1171,7 @@
 - Queue Culture: The Waiting Line as a Social System · [DOI](https://doi.org/10.1086/224787)
 - Making Men Modern: On the Causes and Consequences of Individual Change in Six Developing Countries · [DOI](https://doi.org/10.1086/224767)
 - The Professional Self-Concept of Music Students · [DOI](https://doi.org/10.1086/224791)
+- Racial Change in a Stable Community · [DOI](https://doi.org/10.1086/224768)
 
 ## 1968
 
@@ -1165,6 +1180,10 @@
 - Social Class, Parental Encouragement, and Educational Aspirations · [DOI](https://doi.org/10.1086/224530)
 - Patterns of Residence in Poona (India) by Income, Education, and Occupation (1937-65) · [DOI](https://doi.org/10.1086/224509)
 - Patterns of Management and Adaptations to Organizational Roles: A Study of Prison Inmates · [DOI](https://doi.org/10.1086/224617)
+
+## 1967
+
+- Britain's Married Women Workers.Viola Klein · [DOI](https://doi.org/10.1086/224387)
 
 ## 1966
 
@@ -1179,6 +1198,7 @@
 ## 1964
 
 - Outsiders: Studies in the Sociology of Deviance.Howard S. Becker · [DOI](https://doi.org/10.1086/223626)
+- Occupational Prestige in the United States, 1925-63 · [DOI](https://doi.org/10.1086/223840)
 
 ## 1963
 
@@ -1208,6 +1228,7 @@
 - Some Alternatives to Ecological Correlation · [DOI](https://doi.org/10.1086/222597)
 - Feral Children and Autistic Children · [DOI](https://doi.org/10.1086/222541)
 - Social Class and Parental Values · [DOI](https://doi.org/10.1086/222493)
+- American Sociology in Japan · [DOI](https://doi.org/10.1086/222596)
 
 ## 1958
 
@@ -1224,6 +1245,7 @@
 - Democracy Unlimited: Kurt Lewin's Field Theory · [DOI](https://doi.org/10.1086/222005)
 - Intermetropolitan Migration: A Correlation Analysis · [DOI](https://doi.org/10.1086/221805)
 - Age and Sex in the Interview · [DOI](https://doi.org/10.1086/221954)
+- Interviewing Frenchmen · [DOI](https://doi.org/10.1086/221961)
 
 ## 1955
 
@@ -1241,6 +1263,7 @@
 
 - The Tradition of Opportunity and the Aspirations of Automobile Workers · [DOI](https://doi.org/10.1086/221013)
 - The Quantitative Study of Social Dynamics and Social Change · [DOI](https://doi.org/10.1086/221042)
+- Conservatism and Sociology · [DOI](https://doi.org/10.1086/221116)
 
 ## 1951
 
@@ -1290,6 +1313,7 @@
 
 - The Role of the Intellectual in the Modern World · [DOI](https://doi.org/10.1086/218060)
 - Economic Differentials in the Probability of Insanity · [DOI](https://doi.org/10.1086/218065)
+- Illegitimacy and the Social Structure · [DOI](https://doi.org/10.1086/218266)
 
 ## 1938
 
@@ -1318,6 +1342,7 @@
 - Attitudes and Behavior · [DOI](https://doi.org/10.1086/214668)
 - Human Migration and the Marginal Man · [DOI](https://doi.org/10.1086/214592)
 - Population of the United States, 1925 to 1975 · [DOI](https://doi.org/10.1086/214667)
+- Das Gesetz der Macht.Friedrich WieserDie Masse und ihre Aktion. Ein Beitrag zur Soziologie der Revolutionen.Theodor Geiger · [DOI](https://doi.org/10.1086/214491)
 
 ## 1927
 
@@ -1347,6 +1372,7 @@
 ## 1914
 
 - The Social Gradations of Capital · [DOI](https://doi.org/10.1086/212334)
+- Social Organization · [DOI](https://doi.org/10.1086/212357)
 
 ## 1912
 
@@ -1380,6 +1406,7 @@
 ## 1899
 
 - Factory Legislation for Women in Canada · [DOI](https://doi.org/10.1086/210880)
+- The World's First Sociological Laboratory · [DOI](https://doi.org/10.1086/210832)
 
 ## 1898
 

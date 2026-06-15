@@ -1,6 +1,6 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1836** 篇 | 年份范围：1950–2026
+共 **1850** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1808,6 +1808,7 @@
 - The barbarism of civilization: cultural genocide and the ‘stolen generations’1 · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00297.x)
 - Towards an embodied understanding of the structure / agency relationship · [DOI](https://doi.org/10.1080/000713199358527)
 - The barbarism of civilization: cultural genocide and the 'stolen generations' · [DOI](https://doi.org/10.1080/000713199358752)
+- Risk and the welfare state* · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00177.x)
 
 ## 1998
 
@@ -1869,6 +1870,7 @@
 - Disability and Social Stratification · [DOI](https://doi.org/10.2307/591447)
 - Spotting the Invisible Man: The Influence of Male Gender on Fieldwork Relations · [DOI](https://doi.org/10.2307/590367)
 - Eugenics, Social Medicine and the Career of Richard Titmuss in Britain 1935-50 · [DOI](https://doi.org/10.2307/590366)
+- Obligations of Kinship in Contemporary Britain: Is There Normative Agreement? · [DOI](https://doi.org/10.2307/591185)
 
 ## 1990
 
@@ -1884,6 +1886,7 @@
 
 - The Reproduction of Privilege in Australian Education · [DOI](https://doi.org/10.2307/590483)
 - Sociology after the Holocaust · [DOI](https://doi.org/10.2307/590497)
+- Part II: Weber's Exploration of Calvinism: The Undiscovered Provenance of Capitalism · [DOI](https://doi.org/10.2307/590780)
 
 ## 1987
 
@@ -1891,6 +1894,7 @@
 - The Idea of Crisis in Modern Society · [DOI](https://doi.org/10.2307/590914)
 - Weber and the Classification of Forms of Legitimacy · [DOI](https://doi.org/10.2307/590532)
 - Acts of Union: Youth Sub-Culture and Ethnic Identity amongst Protestants in Northern Ireland · [DOI](https://doi.org/10.2307/590530)
+- Moral Protest, Status Defence and the Anti-Abortion Campaign · [DOI](https://doi.org/10.2307/590534)
 
 ## 1986
 
@@ -1908,6 +1912,7 @@
 - The Structure of Closure: A Critique and Development of the Theories of Weber, Collins, and Parkin · [DOI](https://doi.org/10.2307/590434)
 - The Genesis of the Registrar-General's Social Classification of Occupations · [DOI](https://doi.org/10.2307/590433)
 - Immigrants, Socio-Economic Attainment, and Politics in Australia · [DOI](https://doi.org/10.2307/590972)
+- Beyond the Market: The Survival of Family Capitalism in the English Merchant Banks · [DOI](https://doi.org/10.2307/590234)
 
 ## 1983
 
@@ -1915,6 +1920,7 @@
 - The 'Old' and the 'New' Hermeneutic in Sociological Theory · [DOI](https://doi.org/10.2307/590937)
 - Nationalism and Classical Social Theory · [DOI](https://doi.org/10.2307/590606)
 - Explaining Perceptions of Class and Racial Inequality in England and the United States of America · [DOI](https://doi.org/10.2307/590253)
+- The Family · [DOI](https://doi.org/10.2307/590941)
 
 ## 1982
 
@@ -1973,6 +1979,7 @@
 
 - Dialectical Sociology: Toward a Resolution of the Current 'Crisis' in Western Sociology · [DOI](https://doi.org/10.2307/589076)
 - Some Anthropological Concepts of 'Crime': The Hobhouse Memorial Lecture · [DOI](https://doi.org/10.2307/588319)
+- Value Theory: Towards Conceptual Clarification · [DOI](https://doi.org/10.2307/589108)
 
 ## 1970
 
@@ -1982,6 +1989,8 @@
 ## 1969
 
 - The Theme of Contemporary Social Movements · [DOI](https://doi.org/10.2307/588924)
+- The Myth of Community Studies · [DOI](https://doi.org/10.2307/588525)
+- A Weberian Outline of a Theory of Community: Its Application to the 'Dark Ghetto' · [DOI](https://doi.org/10.2307/588526)
 
 ## 1968
 
@@ -1991,6 +2000,7 @@
 ## 1967
 
 - Interpersonal Perception: A Theory and a Method of Research · [DOI](https://doi.org/10.2307/588644)
+- The Personal Service Society · [DOI](https://doi.org/10.2307/588586)
 
 ## 1966
 
@@ -2015,6 +2025,12 @@
 - The Denomination · [DOI](https://doi.org/10.2307/587942)
 - The Meaning of Poverty · [DOI](https://doi.org/10.2307/587266)
 - Aspects of Westernization: A Study of Adult-Class Students in Ghana: II · [DOI](https://doi.org/10.2307/587945)
+- The Evolution of the American City and the Emergence of Anomie: A Culture Case Study of Buffalo, New York: 1810-1910 · [DOI](https://doi.org/10.2307/587892)
+
+## 1961
+
+- The Teaching of Social Administration · [DOI](https://doi.org/10.2307/587815)
+- 'Working-Class Authoritarianism': A Critique of Lipset · [DOI](https://doi.org/10.2307/587819)
 
 ## 1959
 
@@ -2036,6 +2052,10 @@
 ## 1955
 
 - Radcliffe-Brown's Contributions to the Study of Social Organization · [DOI](https://doi.org/10.2307/587222)
+
+## 1953
+
+- Conference of the British Sociological Association, 1953. I Impressions of the Conference · [DOI](https://doi.org/10.2307/587538)
 
 ## 1952
 

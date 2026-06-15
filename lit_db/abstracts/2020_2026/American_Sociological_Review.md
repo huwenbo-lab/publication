@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **228** 篇
+共 **229** 篇
 
 ---
 
@@ -14,6 +14,11 @@
 **年份**: 2026 | **DOI**: [10.1177/00031224261438845](https://doi.org/10.1177/00031224261438845)
 **作者**: Hsiao, Yuan; Christakis, Nicholas A.
 **摘要**: The diffusion of behaviors and ideas is a core concern in many fields and highly relevant to collective action and innovation adoption. A common assumption is that well-connected individuals within social networks are especially influential and so are good targets to initiate behavioral intervention…
+
+### Unstable Work in a Fissured Economy: Tracking Employment in Subcontractor Establishments in France
+**年份**: 2026 | **DOI**: [10.1177/00031224261448194](https://doi.org/10.1177/00031224261448194)
+**作者**: Aeppli, Clem
+**摘要**: Many jobs in the twenty-first century have become short-term, precarious, and unstable. To help explain this phenomenon, I consider the fragmentation of economic activity across networks of transacting organizations—a trend known to affect pay, but with unknown implications for the stability of work…
 
 ### Fabricating Communists: The Imagined Third That Reinvented the National Fault Line in Mid-Twentieth-Century Colombia's Civil War
 **年份**: 2025 | **DOI**: [10.1177/00031224251371066](https://doi.org/10.1177/00031224251371066)

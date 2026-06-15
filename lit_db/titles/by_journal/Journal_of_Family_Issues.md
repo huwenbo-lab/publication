@@ -1,6 +1,6 @@
 # Journal of Family Issues — 文章标题索引
 
-共 **2346** 篇 | 年份范围：1980–2026
+共 **2357** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -28,6 +28,12 @@
 - Acculturation and Resilience Influences from the Latino Fathers’ Perspective · [DOI](https://doi.org/10.1177/0192513x251414622)
 - The Politics of the Home: How Family Labour Division, Patriarchy, and Kinship Reproduce Gender Inequality · [DOI](https://doi.org/10.1177/0192513x261459395)
 - How Child and Partnership Characteristics Influence Paternal Involvement · [DOI](https://doi.org/10.1177/0192513x261427676)
+- Subjective Well-Being of Children and Caregivers: The Role of Caregiver Traits and Socioeconomic Pressures in Ethiopia · [DOI](https://doi.org/10.1177/0192513x261459378)
+- Resilience Among African American Adolescent Girls Navigating Fatherlessness: A Qualitative Inquiry · [DOI](https://doi.org/10.1177/0192513x261459377)
+- When Kin Are Far: Reshaping Social Support Networks in Later Life · [DOI](https://doi.org/10.1177/0192513x261459374)
+- Diapers vs. Date Nights: A Longitudinal Comparison of Premaritally Pregnant, Postmaritally Pregnant Parents, and Nonparents on Marital Disillusionment and Satisfaction · [DOI](https://doi.org/10.1177/0192513x261459394)
+- From Work-Family Enrichment to Marital Satisfaction: A Dyadic Longitudinal Study and Marital Attachment Mediation · [DOI](https://doi.org/10.1177/0192513x261459405)
+- Caring Costs: The Impact of Care Burdens on the Composition of Household Expenditure in Chile · [DOI](https://doi.org/10.1177/0192513x261459384)
 
 ## 2025
 
@@ -410,6 +416,7 @@
 - International Displacement and Family Stress in Latin America · [DOI](https://doi.org/10.1177/0192513x231151291)
 - Family Dynamics in Cross-National Families With Young Children in Singapore · [DOI](https://doi.org/10.1177/0192513x231156675)
 - Siblinghood Amongst Older Adults: What Being a Sibling or Having Siblings Means · [DOI](https://doi.org/10.1177/0192513x221150974)
+- Ethnic-Racial Socialization of White Children by White Parents: A Systematic Review · [DOI](https://doi.org/10.1177/0192513x231194306)
 
 ## 2022
 
@@ -2358,6 +2365,7 @@
 - Family Members' Experiences With Do-Not-Resuscitate (DNR) · [DOI](https://doi.org/10.1177/019251399020002005)
 - Living the Postmodern Dream · [DOI](https://doi.org/10.1177/019251399020002002)
 - Self-Regulation and Self-Worth of Black Children Reared in Economically Stressed, Rural, Single Mother-Headed Families · [DOI](https://doi.org/10.1177/019251399020004003)
+- Getting Help With Housework · [DOI](https://doi.org/10.1177/019251399020006001)
 
 ## 1998
 
@@ -2380,6 +2388,7 @@
 - Improving Parental Partnerships in Low-Income Families as a Means for Increasing Noncustodial Parental Compliance with Child Support Orders · [DOI](https://doi.org/10.1177/019251396017005006)
 - Entitlement, Obligation, and Gratitude in Family Work · [DOI](https://doi.org/10.1177/019251396017001005)
 - Market Child Care Versus Care by Relatives · [DOI](https://doi.org/10.1177/019251396017004007)
+- Fathers' Parenting Role Identity and Father Involvement · [DOI](https://doi.org/10.1177/019251396017001003)
 
 ## 1995
 
@@ -2403,6 +2412,7 @@
 - The Influence of Parental Support, Depressed Affect, and Peers on the Sexual Behaviors of Adolescent Girls · [DOI](https://doi.org/10.1177/019251393014002006)
 - The Impact of Rational Considerations and Perceived Opinions on Young Adults' Union Formation Intentions · [DOI](https://doi.org/10.1177/019251393014002004)
 - Family Discourse, Organizational Embeddedness, and Local Enactment · [DOI](https://doi.org/10.1177/0192513x93014001006)
+- Responsibilities in Studying Postmodern Families · [DOI](https://doi.org/10.1177/0192513x93014001004)
 
 ## 1992
 
@@ -2456,6 +2466,7 @@
 - Family Rhetoric as Social Order · [DOI](https://doi.org/10.1177/019251385006001008)
 - Who Divorces and Why · [DOI](https://doi.org/10.1177/019251385006003002)
 - Predicting Divorce and Permanent Separation · [DOI](https://doi.org/10.1177/019251385006003005)
+- Transitions to Parenthood · [DOI](https://doi.org/10.1177/019251385006004004)
 
 ## 1984
 

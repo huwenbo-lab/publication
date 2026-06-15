@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2020–2026 年文章（含摘要）
 
-共 **537** 篇
+共 **548** 篇
 
 ---
 
@@ -143,6 +143,56 @@
 ### The good, the bad, and the healthy: A factorial survey analysis of situational morality in consumption and healthcare
 **年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103378](https://doi.org/10.1016/j.ssresearch.2026.103378)
 **作者**: Güler, Selen
+**摘要**: （暂无）
+
+### Toward a formal sociological model of partner search
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103356](https://doi.org/10.1016/j.ssresearch.2026.103356)
+**作者**: L Wu, Lawrence
+**摘要**: （暂无）
+
+### Regrets, she's had a few: Gender and regret of computer science and engineering degrees
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2025.103298](https://doi.org/10.1016/j.ssresearch.2025.103298)
+**作者**: VanHeuvelen, Tom; Quadlin, Natasha; Wald, Jordyn
+**摘要**: （暂无）
+
+### When categories change value: How new educational resources reshape patterns of inequality
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103310](https://doi.org/10.1016/j.ssresearch.2026.103310)
+**作者**: Liu, Tiffany T.
+**摘要**: （暂无）
+
+### Do geopolitical tensions increase negative attitudes toward minorities? Evidence from a natural experiment in India
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103323](https://doi.org/10.1016/j.ssresearch.2026.103323)
+**作者**: Francis-Tan, Andrew; Mathew, Nikhitha Mary; Pratap, Chitra
+**摘要**: （暂无）
+
+### The intergenerational mobility advantage of educators’ children: Capital embedded in occupations
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103388](https://doi.org/10.1016/j.ssresearch.2026.103388)
+**作者**: Adamson, Clayton; Vachuska, Karl
+**摘要**: （暂无）
+
+### Criminal legal contact, labor market insecurity and labor market participation
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103321](https://doi.org/10.1016/j.ssresearch.2026.103321)
+**作者**: Nur, Alexandra V.; Nguyen, Holly; Parker, Brandy R.
+**摘要**: （暂无）
+
+### Catalysts and buffers: How diversity and status in social networks shape attitudes towards inequality in contemporary societies
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103389](https://doi.org/10.1016/j.ssresearch.2026.103389)
+**作者**: Franetovic, Gonzalo
+**摘要**: （暂无）
+
+### Americans' views of religion in public life: The effect of three cultural models on attitudes toward religious and nonreligious groups
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103393](https://doi.org/10.1016/j.ssresearch.2026.103393)
+**作者**: Sikkink, David; Wurm, Greg
+**摘要**: （暂无）
+
+### Horizontal stratification and educational homogamy in South Korea: Marriage patterns and preferences across elite- and non-elite university graduates
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103386](https://doi.org/10.1016/j.ssresearch.2026.103386)
+**作者**: Lee, Sangsoo; Park, Hyunjoon; Kim, HJ Katelyn
+**摘要**: （暂无）
+
+### Educational attainment, gender, and the change in access to schedule flexibility in Europe and the United States
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103309](https://doi.org/10.1016/j.ssresearch.2026.103309)
+**作者**: Paek, Eunjeong
 **摘要**: （暂无）
 
 ### Who do they think you are? Inconsistencies in self-and proxy-reports of education within families
@@ -1958,6 +2008,11 @@
 ### Gender, union formation, and assortative mating among older women
 **年份**: 2022 | **DOI**: [10.1016/j.ssresearch.2021.102656](https://doi.org/10.1016/j.ssresearch.2021.102656)
 **作者**: Lichter, Daniel T.; Qian, Zhenchao; Song, Haoming
+**摘要**: （暂无）
+
+### Higher education non-completion, employers, and labor market integration: Experimental evidence
+**年份**: 2022 | **DOI**: [10.1016/j.ssresearch.2022.102696](https://doi.org/10.1016/j.ssresearch.2022.102696)
+**作者**: Neugebauer, Martin; Daniel, Annabell
 **摘要**: （暂无）
 
 ### Understanding the role of religion in shaping cross-national and domestic attitudes and interest in abortion, homosexuality, and pornography using traditional and Google search data

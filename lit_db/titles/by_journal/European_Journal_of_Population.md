@@ -1,6 +1,6 @@
 # European Journal of Population — 文章标题索引
 
-共 **846** 篇 | 年份范围：1985–2026
+共 **848** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -904,6 +904,7 @@
 - Mortality Differences Related to Socioeconomic Status and the Progressivity of Old-Age Pensions and Health Insurance: The Netherlands · [DOI](https://doi.org/10.1023/a:1006188911462)
 - Childbearing Trends in Sweden 1961--1997 · [DOI](https://doi.org/10.1023/a:1006145610780)
 - A Demographic Model of Measles Epidemics · [DOI](https://doi.org/10.1023/a:1006224902376)
+- Who, What, Where, and When? Specifying the Impact of Educational Attainment and Labour Force Participation on Family Formation · [DOI](https://doi.org/10.1023/a:1006137104191)
 
 ## 1998
 
@@ -931,6 +932,7 @@
 
 - A reconstruction of the population of North Italy from 1650 to 1881 using annual inverse projection with comparisons to England, France, and Sweden · [DOI](https://doi.org/10.1007/bf01265303)
 - Innovation and tradition: Reproductive and marital behaviour in Italy in the 1970s and 1980s · [DOI](https://doi.org/10.1007/bf01264895)
+- Monitoring international migration flows in Europe · [DOI](https://doi.org/10.1007/bf01268210)
 
 ## 1993
 

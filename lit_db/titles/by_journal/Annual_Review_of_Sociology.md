@@ -1,6 +1,6 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **612** 篇 | 年份范围：1975–2026
+共 **628** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -453,6 +453,8 @@
 - Gender Ideology: Components, Predictors, and Consequences · [DOI](https://doi.org/10.1146/annurev-soc-070308-115920)
 - Is America Fragmenting? · [DOI](https://doi.org/10.1146/annurev-soc-070308-115909)
 - New Directions in Life Course Research · [DOI](https://doi.org/10.1146/annurev.soc.34.040507.134619)
+- Switching Social Contexts: The Effects of Housing Mobility and School Choice Programs on Youth Outcomes · [DOI](https://doi.org/10.1146/annurev-soc-070308-120032)
+- The Sociology of War and the Military · [DOI](https://doi.org/10.1146/annurev-soc-070308-120004)
 
 ## 2008
 
@@ -545,6 +547,7 @@
 - Cognitive Skills and Noncognitive Traits and Behaviors in Stratification Processes · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.100023)
 - Population and African Society · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.100126)
 - The Urban Street Gang after 1970 · [DOI](https://doi.org/10.1146/annurev.soc.29.101602.130751)
+- The Economic Sociology of Conventions: Habit, Custom, Practice, and Routine in Market Order · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.100051)
 
 ## 2002
 
@@ -597,6 +600,7 @@
 - Social Psychology of Identities · [DOI](https://doi.org/10.1146/annurev.soc.26.1.367)
 - Ethnicity and Sexuality · [DOI](https://doi.org/10.1146/annurev.soc.26.1.107)
 - Feminist State Theory: Applications to Jurisprudence, Criminology, and the Welfare State · [DOI](https://doi.org/10.1146/annurev.soc.26.1.641)
+- States and Markets in an Era of Globalization · [DOI](https://doi.org/10.1146/annurev.soc.26.1.187)
 
 ## 1999
 
@@ -647,6 +651,7 @@
 - Multilevel Models: Methods and Substance · [DOI](https://doi.org/10.1146/annurev.so.20.080194.001555)
 - Religion and Political Legitimation · [DOI](https://doi.org/10.1146/annurev.so.20.080194.001133)
 - Women, Family and Class · [DOI](https://doi.org/10.1146/annurev.so.20.080194.000331)
+- Stepfamilies in the United States: A Reconsideration · [DOI](https://doi.org/10.1146/annurev.so.20.080194.002043)
 
 ## 1993
 
@@ -663,6 +668,7 @@
 - Job Mobility and Career Processes · [DOI](https://doi.org/10.1146/annurev.so.18.080192.000351)
 - Two Approaches to Social Structure: Exchange Theory and Network Analysis · [DOI](https://doi.org/10.1146/annurev.so.18.080192.000545)
 - Social Science Research and Contemporary Studies of Homelessness · [DOI](https://doi.org/10.1146/annurev.so.18.080192.001021)
+- Population Aging and Social Policy · [DOI](https://doi.org/10.1146/annurev.so.18.080192.002313)
 
 ## 1991
 
@@ -673,6 +679,7 @@
 - Ethnic Minorities and Mental Health · [DOI](https://doi.org/10.1146/annurev.so.17.080191.002031)
 - Third World Urbanization: Dimensions, Theories, and Determinants · [DOI](https://doi.org/10.1146/annurev.so.17.080191.002343)
 - Work Experiences and Family Interaction Processes: The Long Reach of the Job? · [DOI](https://doi.org/10.1146/annurev.so.17.080191.002223)
+- The US Labor Movement: Its Development and Impact on Social Inequality and Politics · [DOI](https://doi.org/10.1146/annurev.so.17.080191.000331)
 
 ## 1990
 
@@ -699,12 +706,14 @@
 - Soviet Sociology and Sociology in the Soviet Union · [DOI](https://doi.org/10.1146/annurev.so.14.080188.000531)
 - Evaluating Work and Comparable Worth · [DOI](https://doi.org/10.1146/annurev.so.14.080188.001303)
 - National Politics and Collective Action: Recent Theory and Research in Western Europe and the United States · [DOI](https://doi.org/10.1146/annurev.so.14.080188.002225)
+- Equality of Educational Opportunity · [DOI](https://doi.org/10.1146/annurev.so.14.080188.001341)
 
 ## 1987
 
 - Gentrification: Culture and Capital in the Urban Core · [DOI](https://doi.org/10.1146/annurev.so.13.080187.001021)
 - New Directions in Environmental Sociology · [DOI](https://doi.org/10.1146/annurev.so.13.080187.002341)
 - Making Sense of Diversity: Recent Research on Hispanic Minorities in the United States · [DOI](https://doi.org/10.1146/annurev.so.13.080187.002043)
+- On the Degradation of Skills · [DOI](https://doi.org/10.1146/annurev.so.13.080187.000333)
 
 ## 1986
 
@@ -733,10 +742,15 @@
 - Generation as a Sociological Problem · [DOI](https://doi.org/10.1146/annurev.so.09.080183.001013)
 - Models of Neighborhood Change · [DOI](https://doi.org/10.1146/annurev.so.09.080183.000503)
 
+## 1982
+
+- Expectation States and Interracial Interaction in School Settings · [DOI](https://doi.org/10.1146/annurev.so.08.080182.001233)
+
 ## 1981
 
 - Organizational Performance: Recent Developments in Measurement · [DOI](https://doi.org/10.1146/annurev.so.07.080181.001541)
 - Self-Help and Mutual Aid: An Emerging Social Movement? · [DOI](https://doi.org/10.1146/annurev.so.07.080181.001021)
+- Dimensions of the New Immigration to the United States and the Prospects for Assimilation · [DOI](https://doi.org/10.1146/annurev.so.07.080181.000421)
 
 ## 1980
 
@@ -747,6 +761,7 @@
 - The Sociology of Labor Markets · [DOI](https://doi.org/10.1146/annurev.so.05.080179.002031)
 - Ascribed and Achieved Bases of Stratification · [DOI](https://doi.org/10.1146/annurev.so.05.080179.001251)
 - Environmental Sociology · [DOI](https://doi.org/10.1146/annurev.so.05.080179.001331)
+- The Sociology of American Catholics · [DOI](https://doi.org/10.1146/annurev.so.05.080179.000515)
 
 ## 1978
 
@@ -757,6 +772,7 @@
 - Theories of Social Conflict · [DOI](https://doi.org/10.1146/annurev.so.04.080178.001451)
 - The Development of Soviet Sociology, 1956-1976 · [DOI](https://doi.org/10.1146/annurev.so.04.080178.001131)
 - Achievement Ambitions · [DOI](https://doi.org/10.1146/annurev.so.04.080178.002105)
+- Adult Socialization · [DOI](https://doi.org/10.1146/annurev.so.04.080178.002225)
 
 ## 1977
 
@@ -765,7 +781,10 @@
 ## 1976
 
 - Environments of Organizations · [DOI](https://doi.org/10.1146/annurev.so.02.080176.000455)
+- The Military · [DOI](https://doi.org/10.1146/annurev.so.02.080176.000415)
 
 ## 1975
 
 - Age Differentiation and the Life Course · [DOI](https://doi.org/10.1146/annurev.so.01.080175.001121)
+- Community Power · [DOI](https://doi.org/10.1146/annurev.so.01.080175.001415)
+- Organizational Structure · [DOI](https://doi.org/10.1146/annurev.so.01.080175.000245)

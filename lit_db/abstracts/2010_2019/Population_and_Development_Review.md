@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2010–2019 年文章（含摘要）
 
-共 **336** 篇
+共 **338** 篇
 
 ---
 
@@ -668,6 +668,11 @@
 ### WHO, UNICEF, UNFPA, World Bank Group, and United Nations Population DivisionTrends in Maternal Mortality: 1990 to 2015Geneva: World Health Organization, 2015.
 **年份**: 2016 | **DOI**: [10.1111/padr.12033](https://doi.org/10.1111/padr.12033)
 **作者**: Bongaarts, John
+**摘要**: （暂无）
+
+### A Happy Ending to a Half‐Century of Family Change?
+**年份**: 2016 | **DOI**: [10.1111/j.1728-4457.2016.00111.x](https://doi.org/10.1111/j.1728-4457.2016.00111.x)
+**作者**: Cherlin, Andrew J.
 **摘要**: （暂无）
 
 ### Could Pronatalist Policies Discourage Childbearing?
@@ -1682,3 +1687,7 @@
 **年份**: 2010 | **DOI**: [10.1111/j.1728-4457.2010.00319.x](https://doi.org/10.1111/j.1728-4457.2010.00319.x)
 **作者**: Morgan, S. Philip; Rackin, Heather
 **摘要**: Using data from the 1979 National Longitudinal Survey of Youth, we describe the correspondence between intended family size and observed fertility for US men and women in the 1957-64 birth cohorts.…
+
+### United Nations: World Population Prospects: The 2008 Revision, Volume 1: Comprehensive Tables and United Nations, World Population Prospects: The 2008 Revision, Highlights
+**年份**: 2010 | **DOI**: [10.1111/j.1728-4457.2010.00368.x](https://doi.org/10.1111/j.1728-4457.2010.00368.x)
+**摘要**: （暂无）

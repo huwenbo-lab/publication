@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2020–2026 年文章（含摘要）
 
-共 **746** 篇
+共 **753** 篇
 
 ---
 
@@ -109,6 +109,36 @@
 **年份**: 2026 | **DOI**: [10.1177/0192513x261427676](https://doi.org/10.1177/0192513x261427676)
 **作者**: Eichhorn, Thomas; Zerle-Elsäßer, Claudia
 **摘要**: Coming from a family system theoretical perspective we asked to what extent selected child characteristics (age and gender of the child, position in the sibling order, biological/non-biological child, child health status) influence paternal involvement.…
+
+### Subjective Well-Being of Children and Caregivers: The Role of Caregiver Traits and Socioeconomic Pressures in Ethiopia
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459378](https://doi.org/10.1177/0192513x261459378)
+**作者**: Alemu, Ferede Mengistie
+**摘要**: Whilst important and shaped by economic pressures, children’s subjective well-being (SWB) remains largely overlooked in low-income settings. This study examines: (i) whether economic shocks affect children’s SWB through caregivers’ well-being pathways, and (ii) differences in children’s SWB in relat…
+
+### Resilience Among African American Adolescent Girls Navigating Fatherlessness: A Qualitative Inquiry
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459377](https://doi.org/10.1177/0192513x261459377)
+**作者**: Barnes, Jessica Mikaja; Sandonato, Brittany; Coleman, Cheryl 等6人
+**摘要**: In recent years the construct of fatherlessness has been a well-researched topic. The topic has been heavily researched from the lens of the fathers themselves, the adults their children grow to be, and the sons that they have abandoned.…
+
+### When Kin Are Far: Reshaping Social Support Networks in Later Life
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459374](https://doi.org/10.1177/0192513x261459374)
+**作者**: Ti, Lijun; Gui, Tianhan
+**摘要**: This study examines how older adults in China reorganize their social support networks following the migration of their adult children. Drawing on the Social Convoy Model (SCM) and Socioemotional Selectivity Theory (SST), the study explores how older adults respond to intergenerational geographic se…
+
+### Diapers vs. Date Nights: A Longitudinal Comparison of Premaritally Pregnant, Postmaritally Pregnant Parents, and Nonparents on Marital Disillusionment and Satisfaction
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459394](https://doi.org/10.1177/0192513x261459394)
+**作者**: Gendron, Sydney; Willis-Grossmann, Emma; Reifman, Alan 等6人
+**摘要**: The transition to parenthood is often a challenging and stressful time for couples, with partners’ experiences possibly varying by gender and timing of childbirth. We surveyed married couples (two-phase n = 124 couples; roughly 45% Hispanic) within 6 months post-wedding and 2.5 years later to assess…
+
+### From Work-Family Enrichment to Marital Satisfaction: A Dyadic Longitudinal Study and Marital Attachment Mediation
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459405](https://doi.org/10.1177/0192513x261459405)
+**作者**: Ren, Menghao; Luo, Xiaohang; Zhao, Ruoshui 等5人
+**摘要**: Within the framework of the work-family enrichment model, this study examined the actor and partner effects of work-family enrichment on marital satisfaction, as well as the mediating role of marital attachment.…
+
+### Caring Costs: The Impact of Care Burdens on the Composition of Household Expenditure in Chile
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459384](https://doi.org/10.1177/0192513x261459384)
+**作者**: Palma, Julieta; Pérez-Roa, Lorena; Arteaga, Catalina 等4人
+**摘要**: Although previous studies have examined the economic costs of care in terms of reduced earnings and increased direct expenses, less is known about how caregiving responsibilities shape household budget allocation.…
 
 ### Fictive Kin Support Networks of African American and Black Caribbean Adolescents
 **年份**: 2025 | **DOI**: [10.1177/0192513X251379000](https://doi.org/10.1177/0192513X251379000)
@@ -1974,6 +2004,11 @@
 **年份**: 2023 | **DOI**: [10.1177/0192513x221150974](https://doi.org/10.1177/0192513x221150974)
 **作者**: Sýkorová, Dana
 **摘要**: The aim of this study is to understand siblinghood in old age through the perspective of Czech older adults. Forty-one in-depth interviews were analyzed, and four themes characterizing siblinghood among older persons were identified in the data: (1) Siblinghood as a unique bond, understood through g…
+
+### Ethnic-Racial Socialization of White Children by White Parents: A Systematic Review
+**年份**: 2023 | **DOI**: [10.1177/0192513x231194306](https://doi.org/10.1177/0192513x231194306)
+**作者**: Nieri, Tanya; Montoya, Lissette; Carlos, Clarissa
+**摘要**: This systematic review of the literature examined the extent and nature of white parent’s ethic-racial socialization (ERS) of white children, the factors associated with white parents’ ERS, and the child outcomes of white parents’ ERS.…
 
 ### Search and Communication About Origins in Internationally Adopted Young Adults in Spain: A Phenomenological Perspective
 **年份**: 2022 | **DOI**: [10.1177/0192513X211029257](https://doi.org/10.1177/0192513X211029257)

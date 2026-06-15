@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **130** 篇
+共 **134** 篇
 
 ---
 
@@ -69,6 +69,16 @@
 **年份**: 2009 | **DOI**: [10.1146/annurev.soc.34.040507.134619](https://doi.org/10.1146/annurev.soc.34.040507.134619)
 **作者**: Mayer, Karl Ulrich
 **摘要**: Life courses are studied in sociology and neighboring fields as developmental processes, as culturally and normatively constructed life stages and age roles, as biographical meanings, as aging processes, as outcomes of institutional regulation and policies, as demographic accounts, or as mere empiri…
+
+### Switching Social Contexts: The Effects of Housing Mobility and School Choice Programs on Youth Outcomes
+**年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-120032](https://doi.org/10.1146/annurev-soc-070308-120032)
+**作者**: DeLuca, Stefanie; Dayton, Elizabeth
+**摘要**: Despite years of research, methodological and practical obstacles make it difficult to conclude whether policies aimed at improving schools and communities are effective for improving youth outcomes.…
+
+### The Sociology of War and the Military
+**年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-120004](https://doi.org/10.1146/annurev-soc-070308-120004)
+**作者**: Kestnbaum, Meyer
+**摘要**: Recent work on war and the military has addressed two broad questions: Why do states and societies wage war as they do? And what difference does it make that war is, or has been, waged in that manner?…
 
 ### From Mead to a structural symbolic interactionism and beyond
 **年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134649](https://doi.org/10.1146/annurev.soc.34.040507.134649)
@@ -440,6 +450,11 @@
 **作者**: Coughlin, Brenda C.; Venkatesh, Sudhir Alladi
 **摘要**: ▪ Abstract This review discusses research on the urban street gang after the 1960s, the period in which social scientists began to conceptualize the gang outside of the social-problems framework.…
 
+### The Economic Sociology of Conventions: Habit, Custom, Practice, and Routine in Market Order
+**年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100051](https://doi.org/10.1146/annurev.soc.29.010202.100051)
+**作者**: Biggart, Nicole Woolsey; Beamish, Thomas D.
+**摘要**: ▪ Abstract Economic sociology and economics have tried to explain the organization and stability of market capitalism mostly by arguing for the effects of social structure on the patterning of relations, or for the role of the price system in balancing the demands of individual economic actors.…
+
 ### Barking up the wrong branch: Scientific alternatives to the current model of sociological science
 **年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.141122](https://doi.org/10.1146/annurev.soc.28.110601.141122)
 **作者**: Lieberson, S; Lynn, FB
@@ -654,3 +669,8 @@
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.641](https://doi.org/10.1146/annurev.soc.26.1.641)
 **作者**: Haney, Lynne A.
 **摘要**: This chapter discusses developments in feminist state theory through a comparison of feminist interventions into jurisprudence, criminology, and welfare state theory. Early feminist work on the state analyzed how women were subordinated by a centralized state.…
+
+### States and Markets in an Era of Globalization
+**年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.187](https://doi.org/10.1146/annurev.soc.26.1.187)
+**作者**: Riain, Seán Ó
+**摘要**: The paper considers how states and markets shape one another at the national and world-system levels and how globalization is transforming that relationship. This process is illustrated through a review of research on liberal, social rights, developmental, and socialist states in the postwar capital…

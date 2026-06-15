@@ -1,6 +1,6 @@
 # Chinese Journal of Sociology — 文章标题索引
 
-共 **264** 篇 | 年份范围：2015–2026
+共 **265** 篇 | 年份范围：2015–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -19,6 +19,7 @@
 - Respectability and gendered-capital vulnerability: A qualitative study of second-generation women entrepreneurs in Dongguan, China · [DOI](https://doi.org/10.1177/2057150x261448693)
 - Discernible rupture and implicit continuity: The modernization of family ethics from the perspective of intergenerational co-parenting in China · [DOI](https://doi.org/10.1177/2057150x261439965)
 - Negotiating bride price in contemporary China: Gender identities, community norms, and education effects in marriage practices · [DOI](https://doi.org/10.1177/2057150x261454806)
+- The mother–daughter relationship in urban singleton-daughter families: Changing intergenerational relationships and the implications for Chinese family reinstitutionalization · [DOI](https://doi.org/10.1177/2057150x261454099)
 
 ## 2025
 

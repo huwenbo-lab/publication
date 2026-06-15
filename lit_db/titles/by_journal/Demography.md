@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **2001** 篇 | 年份范围：1964–2026
+共 **2011** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -21,6 +21,8 @@
 - Can Incorporating Parity Information Improve the Reliability of Completed Cohort Fertility Projections? Insights From a Bayesian Generalized Additive Model Approach · [DOI](https://doi.org/10.1215/00703370-12530362)
 - Impaired Cognitive and Behavioral Functioning in Childhood and Economic Outcomes in Adulthood · [DOI](https://doi.org/10.1215/00703370-12543998)
 - Mobility Framing Effects in Migration Surveys: A Research Note With Experimental Evidence From Senegal · [DOI](https://doi.org/10.1215/00703370-12655184)
+- Dynamic Contributions of Chronic Diseases to the Widening Educational Gap in Disability and Mortality, 2002–2018: A Research Note · [DOI](https://doi.org/10.1215/00703370-12664351)
+- The Effect of the Great Recession on U.S. Fertility: Causal Estimates From a Novel Cohort Discontinuity Design · [DOI](https://doi.org/10.1215/00703370-12664250)
 
 ## 2025
 
@@ -2046,6 +2048,7 @@
 
 - Migration and the Latino Family: The Union Formation Behavior of Puerto Rican Women · [DOI](https://doi.org/10.2307/2061912)
 - Environmental Equity: The Demographics of Dumping · [DOI](https://doi.org/10.2307/2061884)
+- The Nature of Gender · [DOI](https://doi.org/10.2307/2061790)
 
 ## 1993
 
@@ -2077,6 +2080,8 @@
 ## 1989
 
 - Relative deprivation and international migration oded stark · [DOI](https://doi.org/10.2307/2061490)
+- The Growth of Home Ownership: 1940–1980 · [DOI](https://doi.org/10.2307/2061523)
+- National Estimates of Cohabitation · [DOI](https://doi.org/10.2307/2061261)
 
 ## 1988
 
@@ -2091,10 +2096,12 @@
 - Socioeconomic development, family planning, and fertility in China · [DOI](https://doi.org/10.2307/2061390)
 - Intergenerational transmission of relative fertility and life course patterns · [DOI](https://doi.org/10.2307/2061386)
 - Social factors and infant mortality: Identifying high-risk groups and proximate causes · [DOI](https://doi.org/10.2307/2061300)
+- Pregnancy Wantedness and Maternal Behavior During Pregnancy · [DOI](https://doi.org/10.2307/2061306)
 
 ## 1986
 
 - A new look at entropy and the life table · [DOI](https://doi.org/10.2307/2061621)
+- Proportional hazards models for current status data: Application to the study of differentials in age at weaning in Pakistan · [DOI](https://doi.org/10.2307/2061354)
 
 ## 1985
 
@@ -2108,6 +2115,7 @@
 - Place, race and differential occupational opportunities · [DOI](https://doi.org/10.2307/2061043)
 - Social and economic change, intergenerational relationships, and family formation in Taiwan · [DOI](https://doi.org/10.2307/2060911)
 - A multilevel model of family planning availability and contraceptive use in rural Thailand · [DOI](https://doi.org/10.2307/2060915)
+- Children and the elderly: Divergent paths for America’s dependents · [DOI](https://doi.org/10.2307/2060909)
 
 ## 1983
 
@@ -2169,6 +2177,14 @@
 ## 1968
 
 - Fertility Control In Turkey · [DOI](https://doi.org/10.2307/2060248)
+
+## 1967
+
+- Fertility of the jews · [DOI](https://doi.org/10.2307/2060361)
+
+## 1966
+
+- Occupation trends and patterns of net mobility in the United States · [DOI](https://doi.org/10.2307/2060060)
 
 ## 1964
 

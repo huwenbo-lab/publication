@@ -1,6 +1,6 @@
 # Sociological Science — 文章标题索引
 
-共 **394** 篇 | 年份范围：2014–2026
+共 **399** 篇 | 年份范围：2014–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -31,6 +31,11 @@
 - How a Seemingly Innocuous and Intuitive Methodological Choice Confused a Generation of Research on Policy Responsiveness · [DOI](https://doi.org/10.15195/v13.a21)
 - Declining Inequality and Persistent Inequality Structures · [DOI](https://doi.org/10.15195/v13.a24)
 - Family Networks and Childcare Choices: A Predictive Machine Learning Approach · [DOI](https://doi.org/10.15195/v13.a23)
+- Changing Opportunity: Rising Local Wealth Inequality and Growing Class Gaps in Income Mobility · [DOI](https://doi.org/10.15195/v13.a25)
+- Teacher Sorting and Inequalities in Student Achievement: Unequal Exposures and Differential Returns to Teacher Qualifications · [DOI](https://doi.org/10.15195/v13.a29)
+- Clickbait Crime News? Metrics and Professional Authority in Local Newsrooms · [DOI](https://doi.org/10.15195/v13.a27)
+- Beyond Text: Using AI-Generated Visual Conjoints to Study Gender and Housework Attribution · [DOI](https://doi.org/10.15195/v13.a26)
+- The Exception to Women’s Advantage: How Rurality, Red Counties, and the Local Economy Shape Gender Gaps in Educational Attainment · [DOI](https://doi.org/10.15195/v13.a28)
 
 ## 2025
 

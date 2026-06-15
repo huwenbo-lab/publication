@@ -1,6 +1,6 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2560** 篇 | 年份范围：1965–2026
+共 **2567** 篇 | 年份范围：1965–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2530,6 +2530,7 @@
 - Emotional Transmission in the Daily Lives of Families: A New Paradigm for Studying Family Process · [DOI](https://doi.org/10.2307/353879)
 - The Timing of Childbearing and Women's Wages · [DOI](https://doi.org/10.2307/354020)
 - Marital Strains and Marital Quality: The Role of High and Low Locus of Control · [DOI](https://doi.org/10.2307/353759)
+- Perceived Instrumental Support Exchanges in Relationships between Elderly Parents and Their Adult Children: Normative and Structural Explanations · [DOI](https://doi.org/10.2307/354006)
 
 ## 1998
 
@@ -2579,6 +2580,7 @@
 - Physical Wife Abuse in a Non-Western Society: An Integrated Theoretical Approach · [DOI](https://doi.org/10.2307/352709)
 - Contextual Effects on the Sexual Behavior of Adolescent Women · [DOI](https://doi.org/10.2307/353107)
 - Interwoven Lives: Parents, Marriage, and Guanxi in China · [DOI](https://doi.org/10.2307/353592)
+- Filial Responsibility Expectations and Patterns of Intergenerational Assistance · [DOI](https://doi.org/10.2307/352867)
 
 ## 1993
 
@@ -2604,6 +2606,7 @@
 - Parental Divorce and Adult Well-Being: A Meta-Analysis · [DOI](https://doi.org/10.2307/353132)
 - Determining Children's Home Environments: The Impact of Maternal Characteristics and Current Occupational and Family Conditions · [DOI](https://doi.org/10.2307/352909)
 - Effects of Corporal Punishment, Perceived Caretaker Warmth, and Cultural Beliefs on the Psychological Adjustment of Children in St. Kitts, West Indies · [DOI](https://doi.org/10.2307/352743)
+- Effect of Economic Resources on Marital Quality in Black Married Couples · [DOI](https://doi.org/10.2307/352740)
 
 ## 1990
 
@@ -2614,6 +2617,7 @@
 - Marital Communication in the Eighties · [DOI](https://doi.org/10.2307/353305)
 - Linking Economic Hardship to Marital Quality and Instability · [DOI](https://doi.org/10.2307/352931)
 - Sons, Daughters, and Intergenerational Social Support · [DOI](https://doi.org/10.2307/353036)
+- Changing Patterns of Remarriage · [DOI](https://doi.org/10.2307/352939)
 
 ## 1989
 
@@ -2634,6 +2638,7 @@
 - Marital Strain, Coping, and Depression among Mexican-American Women · [DOI](https://doi.org/10.2307/352005)
 - A Generic Measure of Relationship Satisfaction · [DOI](https://doi.org/10.2307/352430)
 - Quality of Family Life, Social Support, and Stress · [DOI](https://doi.org/10.2307/352427)
+- Fifty Years of Family Research, 1937-1987 · [DOI](https://doi.org/10.2307/351998)
 
 ## 1987
 
@@ -2694,6 +2699,7 @@
 - A Clarification of the Concept of Psychological Father Presence in Families Experiencing Ambiguity of Boundary · [DOI](https://doi.org/10.2307/351070)
 - Updating the Life Cycle of the Family · [DOI](https://doi.org/10.2307/351058)
 - Do Family Ties Reduce Mortality? Evidence from the United States, 1966-1968 · [DOI](https://doi.org/10.2307/350478)
+- Who Adopts: The Relationship of Adoption and Social-Demographic Characteristics of Women · [DOI](https://doi.org/10.2307/351125)
 
 ## 1976
 
@@ -2719,6 +2725,7 @@
 ## 1970
 
 - Satisfaction with Various Aspects of Marriage over the Life Cycle: A Random Middle Class Sample · [DOI](https://doi.org/10.2307/349968)
+- Marital Happiness and Stability: A Review of the Research in the Sixties · [DOI](https://doi.org/10.2307/350251)
 
 ## 1969
 

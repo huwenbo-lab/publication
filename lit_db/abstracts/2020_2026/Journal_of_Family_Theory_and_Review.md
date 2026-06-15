@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **323** 篇
+共 **324** 篇
 
 ---
 
@@ -159,6 +159,11 @@
 **年份**: 2026 | **DOI**: [10.1111/jftr.70072](https://doi.org/10.1111/jftr.70072)
 **作者**: Alston, Brandon
 **摘要**: ABSTRACT Family contexts are sites to analyze the changing expectations associated with masculinity, revealing the multiple expressions of various types of masculinities. However, research in family and gender studies often uses catchall categorizations to understand complex dynamics that influence …
+
+### Disciplinary Systems Theory: A Bibliometric Review of Scholarly Interdisciplinarity in Human Development and Family Science
+**年份**: 2026 | **DOI**: [10.1111/jftr.70074](https://doi.org/10.1111/jftr.70074)
+**作者**: Dyer, Kathleen D.; Fine, Mark; Foster, Britt
+**摘要**: ABSTRACT Interdisciplinarity in human development and family science (HDFS) is difficult to define because the boundaries demarcating the discipline are ambiguous. We introduce disciplinary systems theory (DST), which, like family systems theory, is a variant of general systems theory.…
 
 ### Exploring Therapist's Worldview in a Family Therapy Theory Course: A Four‐Corners Learning Activity
 **年份**: 2025 | **DOI**: [10.1111/jftr.70010](https://doi.org/10.1111/jftr.70010)

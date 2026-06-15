@@ -1,6 +1,6 @@
 # Sociology — 文章标题索引
 
-共 **2307** 篇 | 年份范围：1968–2026
+共 **2319** 篇 | 年份范围：1968–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2257,6 +2257,9 @@
 - Consumer Culture and the Commodification of Policing and Security · [DOI](https://doi.org/10.1177/s003803859900022x)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038599033003025)
 - Some Social and Physical Correlates of Intergenerational Social Mobility: Evidence from the West of Scotland Collaborative Study · [DOI](https://doi.org/10.1177/s0038038599000097)
+- CONSUMER CULTURE AND THE COMMODIFICATION OF POLICING AND SECURITY · [DOI](https://doi.org/10.1017/s003803859900022x)
+- CONSUMPTION AND THE PROBLEM OF VARIETY: CULTURAL OMNIVOROUSNESS, SOCIAL DISTINCTION AND DINING OUT · [DOI](https://doi.org/10.1017/s0038038599000061)
+- Refracted Selves? A Study of Changes in Self-Identity in the Transition to Motherhood · [DOI](https://doi.org/10.1177/s0038038599000206)
 
 ## 1998
 
@@ -2275,6 +2278,7 @@
 - Subjectivity and the Labour Process: Conceptualising `Good Work' · [DOI](https://doi.org/10.1177/0038038597031003004)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038597031004011)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038597031004031)
+- Manufacturing Control: Supervisory Systems on the `New' Shopfloor · [DOI](https://doi.org/10.1177/0038038597031003003)
 
 ## 1996
 
@@ -2304,6 +2308,7 @@
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038594028003016)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038594028004013)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038594028004030)
+- Gender Inequality and Social Structure in Urban China · [DOI](https://doi.org/10.1177/0038038594028003007)
 
 ## 1993
 
@@ -2316,6 +2321,8 @@
 - The Problem of other Lives: Social Perspectives on Written Biography · [DOI](https://doi.org/10.1177/003803859302700103)
 - Book Reviews · [DOI](https://doi.org/10.1177/003803859302700121)
 - Book Reviews · [DOI](https://doi.org/10.1177/003803859302700119)
+- Relative Merits: Family Culture and Kinship in Small Firms · [DOI](https://doi.org/10.1177/0038038593027004005)
+- Public Health Spaces and the Fabrication of Identity · [DOI](https://doi.org/10.1177/0038038593027003004)
 
 ## 1992
 
@@ -2325,6 +2332,7 @@
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038592026004047)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038592026001008)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038592026003021)
+- On Feminist Methodology · [DOI](https://doi.org/10.1177/0038038592026002002)
 
 ## 1991
 
@@ -2344,6 +2352,7 @@
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038590024002032)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038590024002068)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038590024003035)
+- Perspectives on Consumer Culture · [DOI](https://doi.org/10.1177/0038038590024001003)
 
 ## 1989
 
@@ -2371,6 +2380,7 @@
 - Gender, Status and Professionalism · [DOI](https://doi.org/10.1177/0038038587021003007)
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038587021003017)
 - Assessing the Socio-Economic Status of Families · [DOI](https://doi.org/10.1177/0038038587021003008)
+- Equalisation and Improvement: Some Effects of Comprehensive Reorganisation in Scotland · [DOI](https://doi.org/10.1177/0038038587021004003)
 
 ## 1986
 
@@ -2471,6 +2481,7 @@
 
 - The Prevention of Drinking Problems: Alcohol Control and Cultural Influences · [DOI](https://doi.org/10.1177/003803857100500337)
 - Social Mobility and Political Change · [DOI](https://doi.org/10.1177/003803857100500318)
+- The Organic Organization and Innovation · [DOI](https://doi.org/10.1177/003803857100500105)
 
 ## 1970
 
@@ -2478,6 +2489,7 @@
 - Industrial Democracy: The Sociology of Participation. The Sociology and Social Welfare Series 2 · [DOI](https://doi.org/10.1177/003803857000400114)
 - Trinidad Electoral Politics: the persistence of the race factor · [DOI](https://doi.org/10.1177/003803857000400212)
 - Sample Size: An Innovatory Procedure in Survey Analysis · [DOI](https://doi.org/10.1177/003803857000400306)
+- Attitude Measurement: Use of Coefficient Alpha with Cluster or Factor Analysis · [DOI](https://doi.org/10.1177/003803857000400206)
 
 ## 1969
 

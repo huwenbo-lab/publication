@@ -1,6 +1,6 @@
 # Socius — 文章标题索引
 
-共 **1022** 篇 | 年份范围：2016–2026
+共 **1024** 篇 | 年份范围：2016–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -41,6 +41,7 @@
 - What Would Jesus Fund? Christian Nationalism and Americans’ Views on Government Spending · [DOI](https://doi.org/10.1177/23780231261447651)
 - The Self-Other Gap in Perceived Automation Risk: Evidence from the United States and Canada · [DOI](https://doi.org/10.1177/23780231261453968)
 - Resource Stratification and Income Segregation in Brazilian and Chilean Universities · [DOI](https://doi.org/10.1177/23780231261451346)
+- Group Differences in Income Distributions, Poverty Gaps, and Poverty Buffers: Inequalities between the Children of Swedish-Born and Migrant Parents · [DOI](https://doi.org/10.1177/23780231261450748)
 
 ## 2025
 
@@ -689,6 +690,7 @@
 - Norms, Norm Sets, and Reference Groups: Implications for Household Interest in Energy Technologies · [DOI](https://doi.org/10.1177/23780231211039035)
 - Publishing and Parenting in Academic Science: A Study of Different National Contexts · [DOI](https://doi.org/10.1177/23780231211025186)
 - Children’s Financial Dependence on Mothers: Propensity and Duration · [DOI](https://doi.org/10.1177/23780231211055246)
+- Health Starting Points: Continuity and Change in Physical and Mental Health before and during the Pandemic · [DOI](https://doi.org/10.1177/23780231211025382)
 
 ## 2020
 

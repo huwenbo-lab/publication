@@ -1,5 +1,60 @@
 # 更新日志
 
+## 2026-06-15 06:34（最近30天）
+
+- 新增文章总数：**196**
+- 数据库总文章数：**34,131**
+
+- 非文献筛查跳过：**55** 条
+
+| 期刊 | 新增 |
+|---|---|
+| American Journal of Sociology | 24 |
+| American Sociological Review | 19 |
+| Annual Review of Sociology | 16 |
+| British Journal of Sociology | 14 |
+| British Journal of Sociology of Education | 5 |
+| Chinese Journal of Sociology | 1 |
+| Chinese Sociological Review | 1 |
+| Demographic Research | 3 |
+| Demography | 10 |
+| European Journal of Population | 2 |
+| European Sociological Review | 4 |
+| Gender & Society | 5 |
+| Journal of Family Issues | 11 |
+| Journal of Family Theory & Review | 1 |
+| Journal of Marriage and Family | 7 |
+| Population and Development Review | 18 |
+| Social Forces | 7 |
+| Social Science Research | 11 |
+| Sociological Science | 5 |
+| Sociology | 12 |
+| Sociology of Education | 15 |
+| Socius | 2 |
+| Work, Employment and Society | 3 |
+
+| 期刊 | 非文献筛查跳过 |
+|---|---|
+| American Journal of Sociology | 1 |
+| American Sociological Review | 3 |
+| Annual Review of Sociology | 2 |
+| British Journal of Sociology | 4 |
+| British Journal of Sociology of Education | 1 |
+| Demographic Research | 2 |
+| Demography | 1 |
+| European Journal of Population | 3 |
+| European Sociological Review | 1 |
+| Gender & Society | 13 |
+| Journal of Family Theory & Review | 4 |
+| Population and Development Review | 2 |
+| Research in Social Stratification and Mobility | 1 |
+| Social Forces | 2 |
+| Social Science Research | 5 |
+| Sociological Science | 1 |
+| Sociology | 2 |
+| Socius | 1 |
+| Work, Employment and Society | 6 |
+
 ## 2026-06-08 06:03（最近30天）
 
 - 新增文章总数：**255**

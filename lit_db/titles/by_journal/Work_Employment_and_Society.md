@@ -1,6 +1,6 @@
 # Work, Employment and Society — 文章标题索引
 
-共 **1895** 篇 | 年份范围：1987–2026
+共 **1898** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1962,6 +1962,7 @@
 - Economic Theory, the Labour Market and Inequality · [DOI](https://doi.org/10.1177/095001709482007)
 - Fiddly Jobs, Undeclared Working and the Something for Nothing Society · [DOI](https://doi.org/10.1177/095001709484002)
 - Disciplinary Practice: A Study of Railways in Britain, 1860-1988 · [DOI](https://doi.org/10.1177/095001709483001)
+- Flexibility, Politics &amp; Strategy: In Defence of the Model of the Flexible Firm · [DOI](https://doi.org/10.1177/095001709482004)
 
 ## 1993
 
@@ -2004,6 +2005,7 @@
 - Women in Banking: Continuity and Change Since the Second World War · [DOI](https://doi.org/10.1177/0950017089003002002)
 - Book Reviews · [DOI](https://doi.org/10.1177/0950017089003002011)
 - Book Reviews · [DOI](https://doi.org/10.1177/0950017089003002018)
+- Industrial Discipline, the Control of Attendance, and the Subordination of Labour: Towards an Integrated Analysis · [DOI](https://doi.org/10.1177/0950017089003001002)
 
 ## 1988
 
@@ -2011,6 +2013,7 @@
 - Book Reviews · [DOI](https://doi.org/10.1177/0950017088002001013)
 - Book Reviews · [DOI](https://doi.org/10.1177/0950017088002003011)
 - Book Reviews · [DOI](https://doi.org/10.1177/0950017088002004010)
+- Do Female Representatives make a Difference? Women Full-Time Officials and Trade Union Work · [DOI](https://doi.org/10.1177/0950017088002004004)
 
 ## 1987
 

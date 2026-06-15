@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **284** 篇
+共 **285** 篇
 
 ---
 
@@ -559,6 +559,11 @@
 **年份**: 2006 | **DOI**: [10.1086/498468](https://doi.org/10.1086/498468)
 **作者**: Ghimire, DJ; Axinn, WG; Yabiku, ST 等4人
 **摘要**: This article examines the influences of nonfamily experiences on participation in the selection of a first spouse in an arranged marriage society. The authors developed a theoretical framework to explain how a broad array of nonfamily experiences may translate into greater participation in the choic…
+
+### Organizational Invention and Elite Transformation: The Birth of Partnership Systems in Renaissance Florence
+**年份**: 2006 | **DOI**: [10.1086/498470](https://doi.org/10.1086/498470)
+**作者**: Padgett, John F.; McLean, Paul D.
+**摘要**: （暂无）
 
 ### Civil society reconsidered: The durable nature and community structure of collective civic action
 **年份**: 2005 | **DOI**: [10.1086/497351](https://doi.org/10.1086/497351)
