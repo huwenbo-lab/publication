@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2020–2026 年文章（含摘要）
 
-共 **753** 篇
+共 **755** 篇
 
 ---
 
@@ -139,6 +139,16 @@
 **年份**: 2026 | **DOI**: [10.1177/0192513x261459384](https://doi.org/10.1177/0192513x261459384)
 **作者**: Palma, Julieta; Pérez-Roa, Lorena; Arteaga, Catalina 等4人
 **摘要**: Although previous studies have examined the economic costs of care in terms of reduced earnings and increased direct expenses, less is known about how caregiving responsibilities shape household budget allocation.…
+
+### Religion and Women’s Emotional Responses to Abortion
+**年份**: 2026 | **DOI**: [10.1177/0192513x261460819](https://doi.org/10.1177/0192513x261460819)
+**作者**: Clifton, Tristen; Uecker, Jeremy E.; Zhu, Xi
+**摘要**: The social processes that shape women’s emotional responses to abortions are not well understood, including the role of religion. Using a nationally representative sample of women who have had abortions ( N = 1,217), we examine the relationships between religious service attendance, salience, and af…
+
+### Marital Satisfaction in Late Life: Sociodemographic and Psychological Correlates Among Iranian Older Adults
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459388](https://doi.org/10.1177/0192513x261459388)
+**作者**: Ramezani, Tahereh; Rahmanian, Fatemeh; Bayati, Fatemeh 等4人
+**摘要**: Marital satisfaction is essential for older adults’ well-being. This cross-sectional study examined sociodemographic and psychological factors influencing marital satisfaction among 363 older adults in Semnan, Iran (mean age 65.42 ± 5.24 years; 58.1% male; mean marriage duration 42.09 ± 7.13 years).…
 
 ### Fictive Kin Support Networks of African American and Black Caribbean Adolescents
 **年份**: 2025 | **DOI**: [10.1177/0192513X251379000](https://doi.org/10.1177/0192513X251379000)

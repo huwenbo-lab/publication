@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **134** 篇
+共 **135** 篇
 
 ---
 
@@ -454,6 +454,11 @@
 **年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100051](https://doi.org/10.1146/annurev.soc.29.010202.100051)
 **作者**: Biggart, Nicole Woolsey; Beamish, Thomas D.
 **摘要**: ▪ Abstract Economic sociology and economics have tried to explain the organization and stability of market capitalism mostly by arguing for the effects of social structure on the patterning of relations, or for the role of the price system in balancing the demands of individual economic actors.…
+
+### Skills Mismatch in the Labor Market
+**年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100030](https://doi.org/10.1146/annurev.soc.29.010202.100030)
+**作者**: Handel, Michael J.
+**摘要**: ▪ Abstract Researchers across a wide range of fields, policy makers, and large segments of the public believe that the work-related skills of the labor force do not match the requirements of jobs and that this explains a large part of the growth of wage inequality in the United States in the past 20…
 
 ### Barking up the wrong branch: Scientific alternatives to the current model of sociological science
 **年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.141122](https://doi.org/10.1146/annurev.soc.28.110601.141122)

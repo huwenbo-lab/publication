@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **324** 篇
+共 **327** 篇
 
 ---
 
@@ -164,6 +164,21 @@
 **年份**: 2026 | **DOI**: [10.1111/jftr.70074](https://doi.org/10.1111/jftr.70074)
 **作者**: Dyer, Kathleen D.; Fine, Mark; Foster, Britt
 **摘要**: ABSTRACT Interdisciplinarity in human development and family science (HDFS) is difficult to define because the boundaries demarcating the discipline are ambiguous. We introduce disciplinary systems theory (DST), which, like family systems theory, is a variant of general systems theory.…
+
+### Gray Divorce After 50: A Scoping Review of Antecedents, Consequences, and Family‐Theoretical Gaps
+**年份**: 2026 | **DOI**: [10.1111/jftr.70078](https://doi.org/10.1111/jftr.70078)
+**作者**: Ugwu, Lawrence E.; Ugwoke, Uzoamaka F.; White, Janine Anthea
+**摘要**: ABSTRACT Gray divorce, marital dissolution at Age 50 and older, has become an increasingly important family transition with implications for later‐life kinship, economic security, intergenerational ties, and postmarital adjustment.…
+
+### The Social‐Ecological Model of Military Family Financial Well‐Being
+**年份**: 2026 | **DOI**: [10.1111/jftr.70076](https://doi.org/10.1111/jftr.70076)
+**作者**: O'Neal, Catherine W.; Lucier‐Greer, Mallory; Okamoto, Rachel M. 等4人
+**摘要**: ABSTRACT The social‐ecological model of military family financial well‐being was developed to delineate and depict individual‐, family‐, community‐, military‐ and societal‐level factors that jointly shape these families' financial well‐being.…
+
+### From Family to Death: Murder‐Suicide Incidents in an Interdisciplinary Perspective
+**年份**: 2026 | **DOI**: [10.1111/jftr.70077](https://doi.org/10.1111/jftr.70077)
+**作者**: Xu, Haoran
+**摘要**: ABSTRACT This article reframes family murder‐suicide as a process of family annihilation rather than an isolated crime. It presents a conceptual framework that links strain, shame, and threatened control with family structures, power relations, and stress.…
 
 ### Exploring Therapist's Worldview in a Family Therapy Theory Course: A Four‐Corners Learning Activity
 **年份**: 2025 | **DOI**: [10.1111/jftr.70010](https://doi.org/10.1111/jftr.70010)

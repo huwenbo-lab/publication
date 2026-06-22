@@ -1,6 +1,6 @@
 # American Sociological Review — 文章标题索引
 
-共 **1259** 篇 | 年份范围：1936–2026
+共 **1263** 篇 | 年份范围：1936–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1145,6 +1145,7 @@
 - Detection and Determinants of Bias in Subjective Measures · [DOI](https://doi.org/10.2307/2657559)
 - Modeling Durkheim on the Micro Level: A Study of Youth Suicidality · [DOI](https://doi.org/10.2307/2657479)
 - How White Attitudes Vary with the Racial Composition of Local Populations: Numbers Count · [DOI](https://doi.org/10.2307/2657265)
+- Network Structure and Emotion in Exchange Relations · [DOI](https://doi.org/10.2307/2657506)
 
 ## 1997
 
@@ -1287,6 +1288,7 @@
 - Testing Control Theory and Differential Association: A Causal Modeling Approach · [DOI](https://doi.org/10.2307/2095194)
 - Heterogeneity and Intermarriage · [DOI](https://doi.org/10.2307/2095041)
 - Cultural Capital and School Success: The Impact of Status Culture Participation on the Grades of U.S. High School Students · [DOI](https://doi.org/10.2307/2094962)
+- Estimable Functions of Age, Period, and Cohort Effects · [DOI](https://doi.org/10.2307/2095213)
 
 ## 1981
 
@@ -1314,6 +1316,7 @@
 ## 1978
 
 - Race and Involvement in Common Law Personal Crimes · [DOI](https://doi.org/10.2307/2094764)
+- Bringing the Boss Back In: Employer Size, Employee Schooling, and Socioeconomic Achievement · [DOI](https://doi.org/10.2307/2094623)
 
 ## 1977
 
@@ -1337,6 +1340,7 @@
 - The Effects of International Economic Dependence on Development and Inequality: A Cross-National Study · [DOI](https://doi.org/10.2307/2094176)
 - The Structure of Intragenerational Mobility · [DOI](https://doi.org/10.2307/2094433)
 - The Market, Tradition and Peasant Rebellion: The Case of Romania in 1907 · [DOI](https://doi.org/10.2307/2094430)
+- Sex and the Process of Status Attainment: A Comparison of Working Women and Men · [DOI](https://doi.org/10.2307/2094344)
 
 ## 1974
 

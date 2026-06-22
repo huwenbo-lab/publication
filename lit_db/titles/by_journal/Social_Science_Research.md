@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2227** 篇 | 年份范围：1972–2026
+共 **2228** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -45,6 +45,7 @@
 - Americans' views of religion in public life: The effect of three cultural models on attitudes toward religious and nonreligious groups · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103393)
 - Horizontal stratification and educational homogamy in South Korea: Marriage patterns and preferences across elite- and non-elite university graduates · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103386)
 - Educational attainment, gender, and the change in access to schedule flexibility in Europe and the United States · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103309)
+- Workers, jobs, and how they are matched: A decomposition of US labor market trends in educational mismatch · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103311)
 
 ## 2025
 

@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **1110** 篇 | 年份范围：1976–2026
+共 **1120** 篇 | 年份范围：1976–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -19,6 +19,7 @@
 - The Living Arrangements of Single Mothers in Latin America: Stratification by Education and Partnership Status · [DOI](https://doi.org/10.1111/padr.70075)
 - School Enrollment and Living Arrangements of Children in Sub‐Saharan Africa · [DOI](https://doi.org/10.1111/padr.70045)
 - Leveraging High‐Frequency Digital Data to Analyze Forced Displacement Dynamics: A Case Study from the Gaza Strip · [DOI](https://doi.org/10.1111/padr.70064)
+- The Covid‐19 Pandemic and the Social Mathematics of Life and Death · [DOI](https://doi.org/10.1111/padr.70072)
 
 ## 2025
 
@@ -310,6 +311,8 @@
 - Time Use and Household Division of Labor in India-Within-Gender Dynamics · [DOI](https://doi.org/10.1111/padr.12309)
 - Armed Conflict and the Timing of Childbearing in Azerbaijan · [DOI](https://doi.org/10.1111/padr.12359)
 - HL Mencken on Marriage in the New Age · [DOI](https://doi.org/10.1111/padr.12324)
+- AnneCase and AngusDeaton, Deaths of Despair and the Future of Capitalism, Princeton, NJ: Princeton University Press, 2020. 312 p. $27.95 · [DOI](https://doi.org/10.1111/padr.12345)
+- Lessons of Past Coronavirus Pandemics · [DOI](https://doi.org/10.1111/padr.12360)
 
 ## 2019
 
@@ -924,6 +927,7 @@
 - Ansley J. Coale on increases in expectation of life and population growth · [DOI](https://doi.org/10.1111/j.1728-4457.2003.00113.x)
 - Life span extension of Drosophila melanogaster:: Genetic and population studies
 - How and why do aging and life span evolve?
+- Social Demography and Eugenics in the Interwar United States · [DOI](https://doi.org/10.1111/j.1728-4457.2003.00547.x)
 
 ## 2002
 
@@ -963,6 +967,7 @@
 - David Riesman on phases of population growth and social character · [DOI](https://doi.org/10.1111/j.1728-4457.2002.00313.x)
 - Population and environmental services
 - The Emergence of Lowest‐Low Fertility in Europe During the 1990s · [DOI](https://doi.org/10.1111/j.1728-4457.2002.00641.x)
+- Chinese Reproductive Policy at the Turn of the Millennium: Dynamic Stability · [DOI](https://doi.org/10.1111/j.1728-4457.2002.00379.x)
 
 ## 2001
 
@@ -1171,6 +1176,7 @@
 - The Impact of Urbanization and Delayed Childbearing on Population Growth and Aging in China · [DOI](https://doi.org/10.2307/1972441)
 - Child Mortality in the Developing World · [DOI](https://doi.org/10.2307/1972594)
 - Depletion of Common Property Resources in India: Micro-Level Evidence · [DOI](https://doi.org/10.2307/2807930)
+- The Varying Connection between Marital Status and Childbearing in the United States · [DOI](https://doi.org/10.2307/1972442)
 
 ## 1988
 
@@ -1190,6 +1196,7 @@
 - Fertility Levels and Trends in India, 1951-81 · [DOI](https://doi.org/10.2307/1973137)
 - Population Redistribution in the Socialist Republic of Vietnam · [DOI](https://doi.org/10.2307/1972120)
 - Differences between Women's and Men's Reproductive Goals in Developing Countries · [DOI](https://doi.org/10.2307/1973025)
+- Below-Replacement Fertility in Nineteenth Century America · [DOI](https://doi.org/10.2307/1973195)
 
 ## 1986
 
@@ -1213,12 +1220,15 @@
 - Wives and Work: The Sex Role Revolution and Its Consequences · [DOI](https://doi.org/10.2307/1973512)
 - An Analytical Framework for the Study of Child Survival in Developing Countries · [DOI](https://doi.org/10.2307/2807954)
 - Population Growth, Industrial Revolutions, and the Urban Transition · [DOI](https://doi.org/10.2307/1973513)
+- The Proximate Determinants of Fertility in Sub-Saharan Africa · [DOI](https://doi.org/10.2307/1973518)
+- Fertility in Prerevolutionary Rural China: In Defense of a Reassessment · [DOI](https://doi.org/10.2307/1973515)
 
 ## 1983
 
 - The Political Demography of Assam's Anti-Immigrant Movement · [DOI](https://doi.org/10.2307/1973053)
 - Fertility Decline in the West: Causes and Prospects · [DOI](https://doi.org/10.2307/1972897)
 - A Century of Demographic and Cultural Change in Western Europe: An Exploration of Underlying Dimensions · [DOI](https://doi.org/10.2307/1973316)
+- Infant Mortality Trends in the Soviet Union · [DOI](https://doi.org/10.2307/1973050)
 
 ## 1982
 

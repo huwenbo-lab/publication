@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **2011** 篇 | 年份范围：1964–2026
+共 **2016** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -23,6 +23,8 @@
 - Mobility Framing Effects in Migration Surveys: A Research Note With Experimental Evidence From Senegal · [DOI](https://doi.org/10.1215/00703370-12655184)
 - Dynamic Contributions of Chronic Diseases to the Widening Educational Gap in Disability and Mortality, 2002–2018: A Research Note · [DOI](https://doi.org/10.1215/00703370-12664351)
 - The Effect of the Great Recession on U.S. Fertility: Causal Estimates From a Novel Cohort Discontinuity Design · [DOI](https://doi.org/10.1215/00703370-12664250)
+- Wildfires and Birth Outcomes: Evidence From Spain · [DOI](https://doi.org/10.1215/00703370-12665495)
+- Decomposing Differences in Cohort Health Expectancy by Cause and Age With Longitudinal Data · [DOI](https://doi.org/10.1215/00703370-12654071)
 
 ## 2025
 
@@ -2088,6 +2090,7 @@
 - Stability over time in the distribution of population forecast errors · [DOI](https://doi.org/10.2307/2061544)
 - Undocumented Mexican immigrants and the earnings of other workers in the United States · [DOI](https://doi.org/10.2307/2061476)
 - The timing of falls into poverty after retirement and widowhood · [DOI](https://doi.org/10.2307/2061540)
+- Age-specific growth rates: The legacy of past population dynamics · [DOI](https://doi.org/10.2307/2061542)
 
 ## 1987
 
@@ -2102,6 +2105,7 @@
 
 - A new look at entropy and the life table · [DOI](https://doi.org/10.2307/2061621)
 - Proportional hazards models for current status data: Application to the study of differentials in age at weaning in Pakistan · [DOI](https://doi.org/10.2307/2061354)
+- Statistics and politics: The “hispanic issue” in the 1980 census · [DOI](https://doi.org/10.2307/2061438)
 
 ## 1985
 
@@ -2160,6 +2164,10 @@
 
 - Effect of Mortality Change on Stable Population Parameters · [DOI](https://doi.org/10.2307/2060703)
 - Review Symposium · [DOI](https://doi.org/10.2307/2060567)
+
+## 1973
+
+- Growth of U.S. population, 1940–1971, in the light of an interactive two-sex model · [DOI](https://doi.org/10.2307/2060882)
 
 ## 1972
 

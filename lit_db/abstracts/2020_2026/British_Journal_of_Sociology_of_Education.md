@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **496** 篇
+共 **501** 篇
 
 ---
 
@@ -223,6 +223,26 @@
 ### The UK field of higher education institutions and its homologies: class, gender and race
 **年份**: 2026 | **DOI**: [10.1080/01425692.2026.2679488](https://doi.org/10.1080/01425692.2026.2679488)
 **作者**: Atkinson, Will; Benites Nieves, Rodolfo
+**摘要**: （暂无）
+
+### ‘There actually aren’t enough hours in the week’: a constructivist grounded theory of defending inaction on the implementation of intercultural education in Irish schools
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2622379](https://doi.org/10.1080/01425692.2026.2622379)
+**作者**: Harris, Greg; Keane, Elaine
+**摘要**: （暂无）
+
+### Toward a sociology of education and artificial intelligence
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2686013](https://doi.org/10.1080/01425692.2026.2686013)
+**作者**: Shi, Lulu P.; Selwyn, Neil; Eynon, Rebecca 等4人
+**摘要**: （暂无）
+
+### The role of parents’ educational background in upper secondary students’ utilization of career guidance resources
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2619914](https://doi.org/10.1080/01425692.2026.2619914)
+**作者**: Schrøder Olsen, Astrid
+**摘要**: （暂无）
+
+### The paradox of the ‘good teacher’: navigating power relations and subjectivity in China’s recorded courses
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2618474](https://doi.org/10.1080/01425692.2026.2618474)
+**作者**: Li, Kaiyi
 **摘要**: （暂无）
 
 ### Numerical diversity only? The case of academic preparatory programs for the Negev Bedouin in Israel
@@ -2029,6 +2049,11 @@
 **年份**: 2021 | **DOI**: [10.1080/01425692.2021.1875198](https://doi.org/10.1080/01425692.2021.1875198)
 **作者**: Lilliedahl, Jonathan
 **摘要**: This study examines parental involvement in urban public schools, focusing on how parents in organised school-centred networks support, navigate, and negotiate from their different social positions.…
+
+### Class, education and parenting: cross-cultural perspectives
+**年份**: 2021 | **DOI**: [10.1080/01425692.2021.1946301](https://doi.org/10.1080/01425692.2021.1946301)
+**作者**: Golden, Deborah; Erdreich, Lauren; Stefansen, Kari 等4人
+**摘要**: （暂无）
 
 ### Working with/in institutions: how policy enactment in widening participation is shaped through practitioners' experience
 **年份**: 2020 | **DOI**: [10.1080/01425692.2020.1865130](https://doi.org/10.1080/01425692.2020.1865130)

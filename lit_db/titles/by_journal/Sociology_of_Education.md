@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **639** 篇 | 年份范围：1963–2026
+共 **643** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -593,6 +593,7 @@
 - Gender-Related Change in Occupational Aspirations · [DOI](https://doi.org/10.2307/2673221)
 - Toward Explaining Differences in Educational Achievement among Mexican American Language-Minority Students · [DOI](https://doi.org/10.2307/2673222)
 - E Pluribus Unum: Bilingualism and Loss of Language in the Second Generation · [DOI](https://doi.org/10.2307/2673171)
+- School Finance and Opportunities to Learn: Does Money Well Spent Enhance Students' Achievement? · [DOI](https://doi.org/10.2307/2673203)
 
 ## 1997
 
@@ -702,6 +703,7 @@
 - Effects of Ethnicity and Sex on Teachers' Expectations of Junior High School Students · [DOI](https://doi.org/10.2307/2112486)
 - Performance Standards, Student Effort on Homework, and Academic Achievement · [DOI](https://doi.org/10.2307/2112483)
 - A Hierarchical Model for Studying School Effects · [DOI](https://doi.org/10.2307/2112482)
+- Single Parents, Working Mothers, and the Educational Achievement of School Children · [DOI](https://doi.org/10.2307/2112335)
 
 ## 1985
 
@@ -728,6 +730,7 @@
 - Public and Private Schools Revisited · [DOI](https://doi.org/10.2307/2112551)
 - Youth Job Structure and School Enrollment, 1890-1920 · [DOI](https://doi.org/10.2307/2112383)
 - A Text and Reconceptualization of a Theoretical Model of College Withdrawal in a Commuter Institution Setting · [DOI](https://doi.org/10.2307/2112657)
+- The Wisconsin Model of Status Attainment: A National Replication with Improved Measures of Ability and Aspiration · [DOI](https://doi.org/10.2307/2112300)
 
 ## 1982
 
@@ -777,6 +780,7 @@
 
 - A Comparative Analysis of Organizational Conflict in Schools · [DOI](https://doi.org/10.2307/2112050)
 - Innovation in Organizations: The Case of Schools · [DOI](https://doi.org/10.2307/2112048)
+- Race and the Social Structure of the Elementary Classroom · [DOI](https://doi.org/10.2307/2112459)
 
 ## 1974
 

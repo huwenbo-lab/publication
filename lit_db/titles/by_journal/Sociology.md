@@ -1,6 +1,6 @@
 # Sociology — 文章标题索引
 
-共 **2319** 篇 | 年份范围：1968–2026
+共 **2324** 篇 | 年份范围：1968–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2271,6 +2271,7 @@
 - Gender, Methodology and People's Ways of Knowing: Some Problems with Feminism and the Paradigm Debate in Social Science · [DOI](https://doi.org/10.1177/0038038598032004005)
 - International Comparative Analysis and Explanation in Medical Sociology: Demystifying the Halcion Anomaly · [DOI](https://doi.org/10.1177/0038038598032001009)
 - EVALUATING ‘DIASPORA’: BEYOND ETHNICITY? · [DOI](https://doi.org/10.1017/s0038038598000091)
+- `You Lucky Punters!' A Study of Gambling in Betting Shops · [DOI](https://doi.org/10.1177/0038038598032003010)
 
 ## 1997
 
@@ -2369,6 +2370,7 @@
 - Book Reviews · [DOI](https://doi.org/10.1177/0038038588022003039)
 - Engineering Education in Britain and Japan: Some Reflections on the Use of `the Best Practice' Models in International Comparison · [DOI](https://doi.org/10.1177/0038038588022004007)
 - `Women at Class Crossroads': A Critical Note · [DOI](https://doi.org/10.1177/0038038588022004004)
+- Social Movements, Self-Limiting Radicalism and the Green Party in West Germany · [DOI](https://doi.org/10.1177/0038038588022003007)
 
 ## 1987
 
@@ -2429,6 +2431,7 @@
 - A Phenomenology of Tourist Experiences · [DOI](https://doi.org/10.1177/003803857901300203)
 - Contemporary Europe: Social Structures and Cultural Patterns · [DOI](https://doi.org/10.1177/003803857901300230)
 - Tragic Realism and Modern Society: Studies in the Sociology of the Novel · [DOI](https://doi.org/10.1177/003803857901300237)
+- Problems with Surveys: Method or Epistemology? · [DOI](https://doi.org/10.1177/003803857901300210)
 
 ## 1978
 
@@ -2442,6 +2445,7 @@
 - Psychiatry in Dissent; Controversial Issues in Thought and Practice · [DOI](https://doi.org/10.1177/003803857701100314)
 - Sociological Analysis: Methods of Discovery · [DOI](https://doi.org/10.1177/003803857701100319)
 - A Critical Evaluation of Fox's Radicalisation of Industrial Relations Theory · [DOI](https://doi.org/10.1177/003803857701100106)
+- Some Sequential Negotiations in Conversation: Unexpanded and Expanded Versions of Projected Action Sequences · [DOI](https://doi.org/10.1177/003803857701100105)
 
 ## 1976
 
@@ -2456,6 +2460,7 @@
 - Occupational Structure in Industrialized Societies: Some Notes on the Convergence Thesis in the Light of Soviet Experience · [DOI](https://doi.org/10.1177/003803857500900304)
 - Beneath the Surface; An account of three styles of Sociological Research · [DOI](https://doi.org/10.1177/003803857500900329)
 - Social Class and Psychiatric Disturbance among Women in an Urban Population · [DOI](https://doi.org/10.1177/003803857500900203)
+- Political Ritual and Social Integration · [DOI](https://doi.org/10.1177/003803857500900205)
 
 ## 1974
 

@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2950** 篇 | 年份范围：1926–2026
+共 **2956** 篇 | 年份范围：1926–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -22,6 +22,7 @@
 - Review of “Reimagining Aid: Foreign Donors, Women’s Health, and New Paths for Development in Cambodia” · [DOI](https://doi.org/10.1093/sf/soag056)
 - The code of cohesion: adolescent network centrality, offending, and the downside of school cohesion · [DOI](https://doi.org/10.1093/sf/soag062)
 - Is it good to work with? Workability and the meaning of non-native species in urban policy · [DOI](https://doi.org/10.1093/sf/soag047)
+- Whose merit, which redistribution? Elites, taxes, and transfers in Brazil and South Africa · [DOI](https://doi.org/10.1093/sf/soag064)
 
 ## 2025
 
@@ -252,6 +253,7 @@
 - Best for Whom? Heterogeneous Treatment Effects of Breastfeeding on Child Development · [DOI](https://doi.org/10.1093/sf/soad075)
 - Promising or Predatory? Online Education in Non-Profit and For-Profit Universities · [DOI](https://doi.org/10.1093/sf/soad074)
 - Theorizing Potential Downstream Cultural Consequences of LGBT plus Activism · [DOI](https://doi.org/10.1093/sf/soad067)
+- Review of “The Making of Lawyers’ Careers: Inequality and Opportunity in the American Legal Profession” · [DOI](https://doi.org/10.1093/sf/soae086)
 
 ## 2023
 
@@ -2902,12 +2904,15 @@
 - From Protest to Change of Regime: The 4-19 Revolt and the Fall of the Rhee Regime in South Korea · [DOI](https://doi.org/10.2307/2580348)
 - Labor Market Structures in Japan: An Analysis of Organizational and Occupational Mobility Patterns · [DOI](https://doi.org/10.2307/2580350)
 - Metropolitan Expansion and Black Social Dislocation: The Link between Suburbanization and Center-City Crime · [DOI](https://doi.org/10.2307/2580417)
+- Context and Opportunity: Minorities in London and New York · [DOI](https://doi.org/10.2307/2580410)
 
 ## 1995
 
 - Religious Resources and Church Growth · [DOI](https://doi.org/10.2307/2580498)
 - Sex and Race Homogeneity in Naturally Occurring Groups · [DOI](https://doi.org/10.2307/2580623)
 - Parental Divorce, Marital Conflict, and Offspring Well-being during Early Adulthood · [DOI](https://doi.org/10.2307/2580551)
+- The More, the Better? A Four-Nation Study of the Inclusion of Women in Symphony Orchestras · [DOI](https://doi.org/10.2307/2580487)
+- Sociology and Economics: Crossing the Boundaries · [DOI](https://doi.org/10.2307/2580442)
 
 ## 1994
 
@@ -3018,6 +3023,7 @@
 - Gender Advertisements. · [DOI](https://doi.org/10.2307/2577822)
 - A Pseudomodel of the Small World Problem · [DOI](https://doi.org/10.2307/2577602)
 - Status Consistency in Comparative Perspective: An Examination of Educational, Occupational, and Income Data in Nine Societies · [DOI](https://doi.org/10.2307/2577604)
+- Private Time and Public Time: The Temporal Structure of Social Accessibility and Professional Commitments · [DOI](https://doi.org/10.2307/2577783)
 
 ## 1978
 

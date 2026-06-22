@@ -1,7 +1,7 @@
 # Demography
 ## 2020–2026 年文章（含摘要）
 
-共 **548** 篇
+共 **550** 篇
 
 ---
 
@@ -84,6 +84,16 @@
 **年份**: 2026 | **DOI**: [10.1215/00703370-12664250](https://doi.org/10.1215/00703370-12664250)
 **作者**: Wu, Lawrence L.; Mark, Nicholas D. E.; Hill, Jennifer
 **摘要**: Highlights This article presents causal effects of the Great Recession on U.S. fertility. Effects are identified using a new cohort discontinuity design. The design identifies effects for single-year cohorts of women, as well as for single-year cohorts of White and Black women.…
+
+### Wildfires and Birth Outcomes: Evidence From Spain
+**年份**: 2026 | **DOI**: [10.1215/00703370-12665495](https://doi.org/10.1215/00703370-12665495)
+**作者**: Keivabu, Risto Conte; Rubio-Cabañez, Maria
+**摘要**: Highlights Wildfire exposure during pregnancy harms birth outcomes in Spain. Wildfire exposure lowers birth weight and raises the risk of low birth weight and preterm birth. Impacts are uniform across sociodemographic groups. Both fire proximity and fire-driven PM2.5 affect birth outcomes.
+
+### Decomposing Differences in Cohort Health Expectancy by Cause and Age With Longitudinal Data
+**年份**: 2026 | **DOI**: [10.1215/00703370-12654071](https://doi.org/10.1215/00703370-12654071)
+**作者**: Sun, Tao; Zheng, Huiping; Wang, Xiaojun
+**摘要**: Highlights We propose a new method to decompose cohort health expectancy by age and cause. We develop a new attribution method for longitudinal data. This method handles interval censoring, semicompeting risks, and time-dependent covariates.…
 
 ### Single Parenthood, Gender, and Mortality
 **年份**: 2025 | **DOI**: [10.1215/00703370-12234087](https://doi.org/10.1215/00703370-12234087)

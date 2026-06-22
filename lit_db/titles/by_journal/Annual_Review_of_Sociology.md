@@ -1,6 +1,6 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **628** 篇 | 年份范围：1975–2026
+共 **631** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -548,6 +548,7 @@
 - Population and African Society · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.100126)
 - The Urban Street Gang after 1970 · [DOI](https://doi.org/10.1146/annurev.soc.29.101602.130751)
 - The Economic Sociology of Conventions: Habit, Custom, Practice, and Routine in Market Order · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.100051)
+- Skills Mismatch in the Labor Market · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.100030)
 
 ## 2002
 
@@ -607,6 +608,7 @@
 - SOCIAL NETWORKS AND STATUS ATTAINMENT · [DOI](https://doi.org/10.1146/annurev.soc.25.1.467)
 - WHAT HAS HAPPENED TO THE US LABOR MOVEMENT? Union Decline and Renewal · [DOI](https://doi.org/10.1146/annurev.soc.25.1.95)
 - A RETROSPECTIVE ON THE CIVIL RIGHTS MOVEMENT: Political and Intellectual Landmarks · [DOI](https://doi.org/10.1146/annurev.soc.25.1.517)
+- WOMEN'S MOVEMENTS IN THE THIRD WORLD: Identity, Mobilization, and Autonomy · [DOI](https://doi.org/10.1146/annurev.soc.25.1.47)
 
 ## 1998
 
@@ -669,6 +671,7 @@
 - Two Approaches to Social Structure: Exchange Theory and Network Analysis · [DOI](https://doi.org/10.1146/annurev.so.18.080192.000545)
 - Social Science Research and Contemporary Studies of Homelessness · [DOI](https://doi.org/10.1146/annurev.so.18.080192.001021)
 - Population Aging and Social Policy · [DOI](https://doi.org/10.1146/annurev.so.18.080192.002313)
+- The Concept of Family Adaptive Strategies · [DOI](https://doi.org/10.1146/annurev.so.18.080192.001313)
 
 ## 1991
 

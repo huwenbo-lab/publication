@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1724** 篇 | 年份范围：1980–2026
+共 **1729** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -51,6 +51,10 @@
 - Symbolic haunting: first-generation university students’ limited sense of entitlement · [DOI](https://doi.org/10.1080/01425692.2026.2615957)
 - Translanguaging knowledge mobilised for theorising: a case study of Chinese bilingual postgraduate researchers in Australia · [DOI](https://doi.org/10.1080/01425692.2026.2685042)
 - The UK field of higher education institutions and its homologies: class, gender and race · [DOI](https://doi.org/10.1080/01425692.2026.2679488)
+- ‘There actually aren’t enough hours in the week’: a constructivist grounded theory of defending inaction on the implementation of intercultural education in Irish schools · [DOI](https://doi.org/10.1080/01425692.2026.2622379)
+- Toward a sociology of education and artificial intelligence · [DOI](https://doi.org/10.1080/01425692.2026.2686013)
+- The role of parents’ educational background in upper secondary students’ utilization of career guidance resources · [DOI](https://doi.org/10.1080/01425692.2026.2619914)
+- The paradox of the ‘good teacher’: navigating power relations and subjectivity in China’s recorded courses · [DOI](https://doi.org/10.1080/01425692.2026.2618474)
 
 ## 2025
 
@@ -427,6 +431,7 @@
 - Intervention culture, grouping and triage: high-stakes tests and practices of division in English primary schools · [DOI](https://doi.org/10.1080/01425692.2021.1878873)
 - Between ethnonational and international curricula: competing identity discourses in the Armenian school in Jerusalem · [DOI](https://doi.org/10.1080/01425692.2021.1877528)
 - Class, capital, and school culture: Parental involvement in public schools with specialised music programmes · [DOI](https://doi.org/10.1080/01425692.2021.1875198)
+- Class, education and parenting: cross-cultural perspectives · [DOI](https://doi.org/10.1080/01425692.2021.1946301)
 
 ## 2020
 

@@ -1,6 +1,6 @@
 # European Journal of Population — 文章标题索引
 
-共 **848** 篇 | 年份范围：1985–2026
+共 **852** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -20,6 +20,7 @@
 - Perceptions of Medically Assisted Reproduction and Fertility Postponement: Limited Evidence, Critical Questions · [DOI](https://doi.org/10.1007/s10680-025-09765-3)
 - The Spatial Diffusion of Internal Migration Across the Rural-Urban Continuum in Developing Countries · [DOI](https://doi.org/10.1007/s10680-026-09774-w)
 - Long-Term Recall Error in Retrospective Family Surveys: Cohabitation Histories in Denmark · [DOI](https://doi.org/10.1007/s10680-026-09775-9)
+- Home-Leaving Patterns Among Middle Eastern-Origin Youth in Sweden: The Influence of Origin, Generation, and Neighbourhood · [DOI](https://doi.org/10.1007/s10680-026-09776-8)
 
 ## 2025
 
@@ -933,6 +934,7 @@
 - A reconstruction of the population of North Italy from 1650 to 1881 using annual inverse projection with comparisons to England, France, and Sweden · [DOI](https://doi.org/10.1007/bf01265303)
 - Innovation and tradition: Reproductive and marital behaviour in Italy in the 1970s and 1980s · [DOI](https://doi.org/10.1007/bf01264895)
 - Monitoring international migration flows in Europe · [DOI](https://doi.org/10.1007/bf01268210)
+- Does it matter where I live in Western Europe? · [DOI](https://doi.org/10.1007/bf01266567)
 
 ## 1993
 
@@ -953,6 +955,10 @@
 - Mariage et mobilité sociale en France · [DOI](https://doi.org/10.1007/bf01797102)
 - Who forgets? An analysis of memory effects in a retrospective survey on migration history · [DOI](https://doi.org/10.1007/bf01796872)
 
+## 1990
+
+- Socio-economic differences in fertility control. Is there an early warning system at the village level? · [DOI](https://doi.org/10.1007/bf01796800)
+
 ## 1989
 
 - Divorce, mobility and housing demand · [DOI](https://doi.org/10.1007/bf01796818)
@@ -961,6 +967,7 @@
 
 - Kinship patterns and household composition: Older unmarried Hungarian women, 1984 · [DOI](https://doi.org/10.1007/bf01797132)
 - Ageing and social-security costs · [DOI](https://doi.org/10.1007/bf01796907)
+- Recent trends in family and household composition in europe · [DOI](https://doi.org/10.1007/bf01796903)
 
 ## 1987
 

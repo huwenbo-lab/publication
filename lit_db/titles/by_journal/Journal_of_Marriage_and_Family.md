@@ -1,6 +1,6 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2567** 篇 | 年份范围：1965–2026
+共 **2569** 篇 | 年份范围：1965–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2590,6 +2590,7 @@
 - Family Support to Single and Married African American Mothers: The Provision of Financial, Emotional, and Child Care Assistance · [DOI](https://doi.org/10.2307/352800)
 - Grandparents Who Parent Their Grandchildren: Effects on Lifestyle · [DOI](https://doi.org/10.2307/353342)
 - Timing of Fatherhood: Is "On-Time" Optimal? · [DOI](https://doi.org/10.2307/352969)
+- Childrearing Orientations in Mexican American Families: The Influence of Generation and Sociocultural Factors · [DOI](https://doi.org/10.2307/352778)
 
 ## 1992
 
@@ -2661,6 +2662,7 @@
 - Agreement, Understanding, Realization, and Feeling Understood as Predictors of Communicative Satisfaction in Marital Dyads · [DOI](https://doi.org/10.2307/352540)
 - The Social and Demographic Correlates of Divorce and Separation in the United States: An Update and Reconsideration · [DOI](https://doi.org/10.2307/352598)
 - WASP (Wives as Senior Partners) · [DOI](https://doi.org/10.2307/352534)
+- Emotional and Sexual Components of Extramarital Relations · [DOI](https://doi.org/10.2307/351861)
 
 ## 1983
 

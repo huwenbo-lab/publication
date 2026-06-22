@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **434** 篇
+共 **438** 篇
 
 ---
 
@@ -104,6 +104,21 @@
 **年份**: 2026 | **DOI**: [10.1111/1468-4446.70135](https://doi.org/10.1111/1468-4446.70135)
 **作者**: Kajta, Justyna; Bieńkowski, Stefan
 **摘要**: ABSTRACT In recent years, sociological interest in the study of social class—particularly its subjective dimensions—has intensified. This article contributes to this growing body of literature by focusing on Poland as a case within the Central and Eastern European region.…
+
+### Screenshots, SIM Cards, and Household Governance: Digital Coercive Control and Evidence Making in Uganda
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70140](https://doi.org/10.1111/1468-4446.70140)
+**作者**: Namatovu, Charles
+**摘要**: ABSTRACT Tech facilitated intimate partner violence is increasingly embedded in everyday Ugandan digital life, including phone confiscation, SIM card control, WhatsApp monitoring, coerced “proof,” mobile money coercion, and reputational threats.…
+
+### Criminal Records as Classification Situations
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70142](https://doi.org/10.1111/1468-4446.70142)
+**作者**: Bing, Lindsay; Lageson, Sarah Esther
+**摘要**: ABSTRACT Marion Fourcade and Kieran Healy developed the notion of “classification situations” to describe how ordinal schema that sort and rank individuals, like credit scores, are used to differentiate opportunities, prices, and services in ways that structure life chances while masking inequality …
+
+### Subjective Social Inequalities, Lay Perceptions of Merit and Puzzles of Explanation
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70137](https://doi.org/10.1111/1468-4446.70137)
+**作者**: Irwin, Sarah
+**摘要**: ABSTRACT Despite rising socioeconomic inequalities most people see individualised merit as crucial for social success. Drawing on surveys such as the ISSP a wealth of research examines trends in subjective perceptions, the relative importance accorded to merit and non‐merit factors for getting ahead…
 
 ### Securing Profit: Threat Production as a Mechanism of Racial Capitalism in US-Occupied Kabul
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.70065](https://doi.org/10.1111/1468-4446.70065)
@@ -939,6 +954,11 @@
 **年份**: 2024 | **DOI**: [10.1111/1468-4446.13130](https://doi.org/10.1111/1468-4446.13130)
 **作者**: Ferraro, A. C.; Maher, Erin J.
 **摘要**: AbstractThis research note highlights an emerging transdisciplinary research method—photovoice—and why it is particularly suited for sociological studies of children and youth. Traditional social science data collection methods can be limited in their ability to capture both the depth and breadth of…
+
+### Asian Americans in an anti‐Black world. By Claire JeanKim, Cambridge: Cambridge University Press. 2023. pp. 1–412. ISBN: 9781009222280
+**年份**: 2024 | **DOI**: [10.1111/1468-4446.13139](https://doi.org/10.1111/1468-4446.13139)
+**作者**: Kim, Sunmin
+**摘要**: （暂无）
 
 ### Deepening the divide: Does globalization increase the polarization between winners and losers of globalization?
 **年份**: 2023 | **DOI**: [10.1111/1468-4446.13060](https://doi.org/10.1111/1468-4446.13060)

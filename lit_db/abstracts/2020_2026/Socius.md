@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **739** 篇
+共 **740** 篇
 
 ---
 
@@ -179,6 +179,11 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231261450748](https://doi.org/10.1177/23780231261450748)
 **作者**: Aradhya, Siddartha; Grotti, Raffaele; Nieuwenhuis, Rense
 **摘要**: Conventional approaches define income poverty as a binary status, implying that being poor or nonpoor is equivalent across groups. The authors propose a novel visualization that moves beyond head count rates to display group-specific income distributions relative to the poverty threshold, simultaneo…
+
+### Rethinking Platform Capitalism: Mapping the Algorithmic Logics and Labor Control Models of Uber Eats and Fantuan
+**年份**: 2026 | **DOI**: [10.1177/23780231261452733](https://doi.org/10.1177/23780231261452733)
+**作者**: Wu, Tommy; Zhang, Junyi; Gan, Zachary 等4人
+**摘要**: The authors examine how platform companies structure labor control in the food-delivery sector by comparing two major apps operating in the United States and Canada: Uber Eats and Fantuan.…
 
 ### Gender Egalitarianism and Marital Dissolution: Understanding the Bifurcation of the “Gender Revolution” in the United States
 **年份**: 2025 | **DOI**: [10.1177/23780231251372790](https://doi.org/10.1177/23780231251372790)

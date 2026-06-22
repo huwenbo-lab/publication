@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1529** 篇 | 年份范围：1986–2026
+共 **1530** 篇 | 年份范围：1986–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1653,3 +1653,4 @@
 - Social context and inter-ethnic relations: the case of migrant workers in West German urban areas · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036404)
 - Educational systems and labour markets as determinants of worklife mobility in France and West Germany: a comparison of men's career mobility, 1965–1970 · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036414)
 - Career opportunities in the Federal Republic of Germany: a dynamic approach to the study of life-course, cohort, and period effects · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036419)
+- Sources of immigrants' language proficiency: Australian results with comparisons to the Federal Republic of Germany and the United States of America · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036420)

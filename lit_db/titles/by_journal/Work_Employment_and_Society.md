@@ -1,6 +1,6 @@
 # Work, Employment and Society — 文章标题索引
 
-共 **1898** 篇 | 年份范围：1987–2026
+共 **1899** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -94,6 +94,7 @@
 - Misclassification, Tipping and the Responsibilisation of Work in the Global South · [DOI](https://doi.org/10.1177/09500170251336936)
 - Fields, Frames and Fundamental Rights: The Campaign to Elevate Occupational Safety and Health at the International Labour Organization (ILO) · [DOI](https://doi.org/10.1177/09500170241309584)
 - From Precarious Work to Precarious Lives: Managing and Navigating Uncertainty at the Intersections of Employment, Households and the State · [DOI](https://doi.org/10.1177/09500170251359125)
+- Nihan Akyelken, Women, Work and Mobilities: The Case of Urban and Regional Contexts in Turkey and Sonia Bertolini, Valentina Goglio and Dirk Hofäcker, Job Insecurity and Life Courses AkyelkenNihanWomen, Work and Mobilities: The Case of Urban and Regional Contexts in TurkeyAbingdon: Routledge, 2024, £39.99 pbk, (ISBN: 9781032562988), 148 pp.BertoliniSoniaGoglioValentinaHofäckerDirkJob Insecurity and Life CoursesBristol: Bristol University Press, 2024, £27.99 ebk, (ISBN: 9781529208733), 208 pp. · [DOI](https://doi.org/10.1177/09500170251375727)
 
 ## 2024
 

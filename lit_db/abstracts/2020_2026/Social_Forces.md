@@ -1,7 +1,7 @@
 # Social Forces
 ## 2020–2026 年文章（含摘要）
 
-共 **512** 篇
+共 **514** 篇
 
 ---
 
@@ -79,6 +79,11 @@
 **年份**: 2026 | **DOI**: [10.1093/sf/soag047](https://doi.org/10.1093/sf/soag047)
 **作者**: Bateman, Tyler J; Silver, Daniel; Eads, Alicia 等4人
 **摘要**: Abstract Research on social problems often analyzes how different groups think or act in relation to a single issue. Less frequent are studies of how a single group thinks or acts in relation to many phenomena, any of which may be construed as problematic to a greater or lesser degree.…
+
+### Whose merit, which redistribution? Elites, taxes, and transfers in Brazil and South Africa
+**年份**: 2026 | **DOI**: [10.1093/sf/soag064](https://doi.org/10.1093/sf/soag064)
+**作者**: Silva-Muller, Livio; Moraes Silva, Graziella; López, Matias
+**摘要**: Abstract Scholarship often treats two dimensions of meritocracy as interchangeable: if success is due to hard work, poverty must be due to a lack of effort. We contrast elites’ perceptions about their own success with their perceptions about the lack of success of others.…
 
 ### Financialization and unintended emission reductions: evidence from the OECD, 1995-2020
 **年份**: 2025 | **DOI**: [10.1093/sf/soaf220](https://doi.org/10.1093/sf/soaf220)
@@ -1199,6 +1204,11 @@
 **年份**: 2024 | **DOI**: [10.1093/sf/soad067](https://doi.org/10.1093/sf/soad067)
 **作者**: Ayoub, Phillip M.; Page, Douglas; Whitt, Samuel
 **摘要**: To what extent does local LGBT+ activism have impacts beyond its immediate surroundings? We offer a theoretical framework emphasizing how a combination of local movement visibility and LGBT+ cultural receptivity can account for disseminating influences of LGBT+ activism.…
+
+### Review of “The Making of Lawyers’ Careers: Inequality and Opportunity in the American Legal Profession”
+**年份**: 2024 | **DOI**: [10.1093/sf/soae086](https://doi.org/10.1093/sf/soae086)
+**作者**: Liu, Sida
+**摘要**: （暂无）
 
 ### Contexts of Contestation: How Competing Logics of the State Enable and Constrain Immigrant Civic and Political Participation
 **年份**: 2023 | **DOI**: [10.1093/sf/soad146](https://doi.org/10.1093/sf/soad146)

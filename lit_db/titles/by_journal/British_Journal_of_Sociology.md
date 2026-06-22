@@ -1,6 +1,6 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1850** 篇 | 年份范围：1950–2026
+共 **1862** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -27,6 +27,9 @@
 - Unequal Family Ties, Wealth Transmission and Social Mobility Among Congolese Traders in Kinshasa · [DOI](https://doi.org/10.1111/1468-4446.70132)
 - Reading Margaret Kennedy’s The Feast (1950) at the Same Time as Dan Evan’s A Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie (2023) · [DOI](https://doi.org/10.1111/1468-4446.70123)
 - Class Ruptures and Openings: The Role of Social and Family History in Narratives on Class Mobility and Reproduction · [DOI](https://doi.org/10.1111/1468-4446.70135)
+- Screenshots, SIM Cards, and Household Governance: Digital Coercive Control and Evidence Making in Uganda · [DOI](https://doi.org/10.1111/1468-4446.70140)
+- Criminal Records as Classification Situations · [DOI](https://doi.org/10.1111/1468-4446.70142)
+- Subjective Social Inequalities, Lay Perceptions of Merit and Puzzles of Explanation · [DOI](https://doi.org/10.1111/1468-4446.70137)
 
 ## 2025
 
@@ -200,6 +203,7 @@
 - Two Islamophobias? Racism and religion as distinct but mutually supportive dimensions of anti-Muslim prejudice · [DOI](https://doi.org/10.1111/1468-4446.13049)
 - Becoming Buddhists: The emergence of a prestigious temple · [DOI](https://doi.org/10.1111/1468-4446.13052)
 - Children picturing their own worlds: Using photovoice to amplify children’s voice in sociological research · [DOI](https://doi.org/10.1111/1468-4446.13130)
+- Asian Americans in an anti‐Black world. By Claire JeanKim, Cambridge: Cambridge University Press. 2023. pp. 1–412. ISBN: 9781009222280 · [DOI](https://doi.org/10.1111/1468-4446.13139)
 
 ## 2023
 
@@ -1871,6 +1875,7 @@
 - Spotting the Invisible Man: The Influence of Male Gender on Fieldwork Relations · [DOI](https://doi.org/10.2307/590367)
 - Eugenics, Social Medicine and the Career of Richard Titmuss in Britain 1935-50 · [DOI](https://doi.org/10.2307/590366)
 - Obligations of Kinship in Contemporary Britain: Is There Normative Agreement? · [DOI](https://doi.org/10.2307/591185)
+- Social Movements during Cycles of Issue Attention: The Decline of the Anti-Nuclear Energy Movements in West Germany and the USA · [DOI](https://doi.org/10.2307/590834)
 
 ## 1990
 
@@ -1881,6 +1886,7 @@
 ## 1989
 
 - The Homosexual Escort Agency: Deviance Disavowal · [DOI](https://doi.org/10.2307/590288)
+- Social Mobility · [DOI](https://doi.org/10.2307/591043)
 
 ## 1988
 
@@ -1899,6 +1905,7 @@
 ## 1986
 
 - Appraising Goffman · [DOI](https://doi.org/10.2307/590645)
+- Spectator Violence at Football Matches: Towards a Sociological Explanation · [DOI](https://doi.org/10.2307/590355)
 
 ## 1985
 
@@ -1921,6 +1928,7 @@
 - Nationalism and Classical Social Theory · [DOI](https://doi.org/10.2307/590606)
 - Explaining Perceptions of Class and Racial Inequality in England and the United States of America · [DOI](https://doi.org/10.2307/590253)
 - The Family · [DOI](https://doi.org/10.2307/590941)
+- The Ethics of Anomie: Jean Marie Guyau and Emile Durkheim · [DOI](https://doi.org/10.2307/590936)
 
 ## 1982
 
@@ -1940,6 +1948,7 @@
 
 - The Problem of Thematic Unity in the Works of Max Weber · [DOI](https://doi.org/10.2307/589370)
 - Immigrants and Society - A Critical View of the Dominant School of Israeli Sociology · [DOI](https://doi.org/10.2307/589690)
+- The Philosophy of the Social Sciences · [DOI](https://doi.org/10.2307/589695)
 
 ## 1979
 
@@ -1964,6 +1973,7 @@
 - Woman Culture and Society · [DOI](https://doi.org/10.2307/590199)
 - Consciousness and Contradiction: A Study of Student Protest in Zambia · [DOI](https://doi.org/10.2307/589562)
 - H. T. Buckle: The Liberal Faith and the Science of History · [DOI](https://doi.org/10.2307/589622)
+- Alienation: Trying to Bridge the Chasm · [DOI](https://doi.org/10.2307/589559)
 
 ## 1975
 
@@ -2048,6 +2058,7 @@
 ## 1956
 
 - Indians in East Africa: A Study in a Plural Society · [DOI](https://doi.org/10.2307/587991)
+- Problems of Involvement and Detachment · [DOI](https://doi.org/10.2307/587994)
 
 ## 1955
 
@@ -2056,6 +2067,7 @@
 ## 1953
 
 - Conference of the British Sociological Association, 1953. I Impressions of the Conference · [DOI](https://doi.org/10.2307/587538)
+- Selection for Secondary Education and Achievement in Four Grammar Schools · [DOI](https://doi.org/10.2307/587167)
 
 ## 1952
 

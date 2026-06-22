@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2020–2026 年文章（含摘要）
 
-共 **548** 篇
+共 **549** 篇
 
 ---
 
@@ -193,6 +193,11 @@
 ### Educational attainment, gender, and the change in access to schedule flexibility in Europe and the United States
 **年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103309](https://doi.org/10.1016/j.ssresearch.2026.103309)
 **作者**: Paek, Eunjeong
+**摘要**: （暂无）
+
+### Workers, jobs, and how they are matched: A decomposition of US labor market trends in educational mismatch
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103311](https://doi.org/10.1016/j.ssresearch.2026.103311)
+**作者**: Tobler, Lina; Leesch, Julia
 **摘要**: （暂无）
 
 ### Who do they think you are? Inconsistencies in self-and proxy-reports of education within families

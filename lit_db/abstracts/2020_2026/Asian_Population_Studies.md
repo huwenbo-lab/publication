@@ -1,7 +1,7 @@
 # Asian Population Studies
 ## 2020–2026 年文章（含摘要）
 
-共 **140** 篇
+共 **141** 篇
 
 ---
 
@@ -48,6 +48,11 @@
 ### The role of social networks on fertility: evidence from high and low fertility states of India
 **年份**: 2026 | **DOI**: [10.1080/17441730.2026.2680865](https://doi.org/10.1080/17441730.2026.2680865)
 **作者**: Bhunia, Priya; Das, Pallabi; Ghosh, Saswata
+**摘要**: （暂无）
+
+### Ethnicity matters: unpacking female labour participation in Lao PDR
+**年份**: 2026 | **DOI**: [10.1080/17441730.2026.2691002](https://doi.org/10.1080/17441730.2026.2691002)
+**作者**: Kim, Najung; Sisouphanthong, Viriyasack; Han, Jung-Sun 等4人
 **摘要**: （暂无）
 
 ### Labour supply and retirement decisions of older adults: evidence from Thailand

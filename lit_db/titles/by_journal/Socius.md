@@ -1,6 +1,6 @@
 # Socius — 文章标题索引
 
-共 **1024** 篇 | 年份范围：2016–2026
+共 **1025** 篇 | 年份范围：2016–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -42,6 +42,7 @@
 - The Self-Other Gap in Perceived Automation Risk: Evidence from the United States and Canada · [DOI](https://doi.org/10.1177/23780231261453968)
 - Resource Stratification and Income Segregation in Brazilian and Chilean Universities · [DOI](https://doi.org/10.1177/23780231261451346)
 - Group Differences in Income Distributions, Poverty Gaps, and Poverty Buffers: Inequalities between the Children of Swedish-Born and Migrant Parents · [DOI](https://doi.org/10.1177/23780231261450748)
+- Rethinking Platform Capitalism: Mapping the Algorithmic Logics and Labor Control Models of Uber Eats and Fantuan · [DOI](https://doi.org/10.1177/23780231261452733)
 
 ## 2025
 

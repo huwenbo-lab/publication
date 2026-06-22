@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2020–2026 年文章（含摘要）
 
-共 **375** 篇
+共 **376** 篇
 
 ---
 
@@ -98,6 +98,11 @@
 ### Aspirations as boundaries. Guidance practices and the reproduction of social inequality in free-choice tracking systems
 **年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101165](https://doi.org/10.1016/j.rssm.2026.101165)
 **作者**: Borgna, Camilla; Contini, Dalit
+**摘要**: （暂无）
+
+### Can vocational role models change the gendered perception of STEM VET occupations? Results from an intervention study in Germany
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101166](https://doi.org/10.1016/j.rssm.2026.101166)
+**作者**: Beckmann, Janina; Athanasiadi, Ermioni; Granato, Mona
 **摘要**: （暂无）
 
 ### Inequalities in early childhood education and care by immigrant background

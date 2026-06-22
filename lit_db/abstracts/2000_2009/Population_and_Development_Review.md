@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2000–2009 年文章（含摘要）
 
-共 **345** 篇
+共 **347** 篇
 
 ---
 
@@ -1126,6 +1126,11 @@
 **作者**: Orzack, Steven Hecht
 **摘要**: （暂无）
 
+### Social Demography and Eugenics in the Interwar United States
+**年份**: 2003 | **DOI**: [10.1111/j.1728-4457.2003.00547.x](https://doi.org/10.1111/j.1728-4457.2003.00547.x)
+**作者**: Ramsden, Edmund
+**摘要**: This article explores the relationship between eugenics and demography in the United States in the interwar era. In focusing on the founding of the International Union for the Scientific Investigation of Population Problems and the Population Association of America, it shows how early population sci…
+
 ### Sex-selective abortions in India
 **年份**: 2002 | **DOI**: [10.1111/j.1728-4457.2002.00759.x](https://doi.org/10.1111/j.1728-4457.2002.00759.x)
 **作者**: Arnold, F; Kishor, S; Roy, TK
@@ -1305,6 +1310,11 @@
 **年份**: 2002 | **DOI**: [10.1111/j.1728-4457.2002.00641.x](https://doi.org/10.1111/j.1728-4457.2002.00641.x)
 **作者**: Kohler, Hans‐Peter; Billari, Francesco C.; Ortega, José Antonio
 **摘要**: Lowest‐low fertility, defined as a period total fertility rate at or below 1.3, has rapidly spread in Europe during the 1990s. This article traces the emergence of this new phenomenon to the interaction of five factors.…
+
+### Chinese Reproductive Policy at the Turn of the Millennium: Dynamic Stability
+**年份**: 2002 | **DOI**: [10.1111/j.1728-4457.2002.00379.x](https://doi.org/10.1111/j.1728-4457.2002.00379.x)
+**作者**: Winckler, Edwin A.
+**摘要**: In the 1990s, as fertility fell below replacement, China's state birth planning program began reforms, first to improve its state‐centric approach to birth limitation and then to incorporate some elements of a more client‐centered approach.…
 
 ### Spatial patterns of fertility transition in Indian districts
 **年份**: 2001 | **DOI**: [10.1111/j.1728-4457.2001.00713.x](https://doi.org/10.1111/j.1728-4457.2001.00713.x)

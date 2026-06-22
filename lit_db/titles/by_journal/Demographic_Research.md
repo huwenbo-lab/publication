@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1844** 篇 | 年份范围：1999–2026
+共 **1846** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -24,6 +24,8 @@
 - Housing changes of immigrants and their descendants using long-term census panel data from England and Wales · [DOI](https://doi.org/10.4054/demres.2026.54.36)
 - Partnering in turbulent times: Hooking up, dating, and romantic relationship formation in college, 2019–2024 · [DOI](https://doi.org/10.4054/demres.2026.54.37)
 - Educational differences in fertility recuperation: The role of partnership trajectories in Spain · [DOI](https://doi.org/10.4054/demres.2026.54.38)
+- Collecting data on HIV/AIDS mortality during household surveys: A randomized validation study in Malawi · [DOI](https://doi.org/10.4054/demres.2026.54.41)
+- Fertility timing and the birth squeeze · [DOI](https://doi.org/10.4054/demres.2026.54.40)
 
 ## 2025
 

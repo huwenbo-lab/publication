@@ -1,6 +1,6 @@
 # American Journal of Sociology — 文章标题索引
 
-共 **1094** 篇 | 年份范围：1896–2026
+共 **1104** 篇 | 年份范围：1896–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -926,6 +926,8 @@
 - Making Use of the Past: Time Periods as Cases to Compare and as Sequences of Problem Solving · [DOI](https://doi.org/10.1086/210041)
 - A Cultural Field in the Making: Gastronomy in 19th‐Century France · [DOI](https://doi.org/10.1086/210082)
 - Defended Neighborhoods, Integration, and Racially Motivated Crime · [DOI](https://doi.org/10.1086/210042)
+- How Many Latent Classes of Delinquent/ Criminal Careers? Results from Mixed Poisson Regression Analyses · [DOI](https://doi.org/10.1086/231402)
+- Ecologies of Social Movements: Student Mobilization during the 1989 Prodemocracy Movement in Beijing · [DOI](https://doi.org/10.1086/231399)
 
 ## 1997
 
@@ -1093,6 +1095,7 @@
 - Cultural Orientations, Institutional Entrepreneurs, and Social Change: Comparative Analysis of Traditional Civilizations · [DOI](https://doi.org/10.1086/227091)
 - The Vagaries of the Vignette World: A Comment on Alves and Rossi · [DOI](https://doi.org/10.1086/227096)
 - The Social Context of Women's Labor Force Participation: A Comparative Analysis · [DOI](https://doi.org/10.1086/227280)
+- Public Opinion and Public Ignorance: The Fine Line Between Attitudes and Nonattitudes · [DOI](https://doi.org/10.1086/227131)
 
 ## 1979
 
@@ -1104,6 +1107,7 @@
 - Women and Work: The Psychological Effects of Occupational Conditions · [DOI](https://doi.org/10.1086/226974)
 - Emotion Work, Feeling Rules, and Social Structure · [DOI](https://doi.org/10.1086/227049)
 - Ethnic Inequality in Israeli Schools and Sports: An Expectation-States Approach · [DOI](https://doi.org/10.1086/227050)
+- Dynamic Analysis of Event Histories · [DOI](https://doi.org/10.1086/226863)
 
 ## 1978
 
@@ -1112,6 +1116,7 @@
 - Max Weber's Elective Affinities: Sociology Within the Bounds of Pure Reason · [DOI](https://doi.org/10.1086/226788)
 - Arts and Crafts · [DOI](https://doi.org/10.1086/226635)
 - Social Movements in Organizations: Coup d'Etat, Insurgency, and Mass Movements · [DOI](https://doi.org/10.1086/226634)
+- Cross-National Evidence of the Effects of Foreign Investment and Aid on Economic Growth and Inequality: A Survey of Findings and a Reanalysis · [DOI](https://doi.org/10.1086/226831)
 
 ## 1977
 
@@ -1138,6 +1143,7 @@
 - The Analysis of Systems of Qualitative Variables When Some of the Variables Are Unobservable. Part I-A Modified Latent Structure Approach · [DOI](https://doi.org/10.1086/225676)
 - Relations in Public: Microstudies of the Public Order.Erving Goffman · [DOI](https://doi.org/10.1086/225689)
 - Instrumental and Infra-Resources: The Bases of Power · [DOI](https://doi.org/10.1086/225708)
+- Corporate Ownership and Control: The Large Corporation and the Capitalist Class · [DOI](https://doi.org/10.1086/225672)
 
 ## 1973
 
@@ -1147,6 +1153,7 @@
 - Reporting the News: An Organizational Analysis · [DOI](https://doi.org/10.1086/225511)
 - A Funny Thing Happened on the Way to the Orifice: Women in Gynecology Textbooks · [DOI](https://doi.org/10.1086/225420)
 - Neglected Characteristics of Collective Behavior · [DOI](https://doi.org/10.1086/225589)
+- Functionalism and the Functional Theory of Stratification: An Empirical Assessment · [DOI](https://doi.org/10.1086/225429)
 
 ## 1972
 
@@ -1229,6 +1236,7 @@
 - Feral Children and Autistic Children · [DOI](https://doi.org/10.1086/222541)
 - Social Class and Parental Values · [DOI](https://doi.org/10.1086/222493)
 - American Sociology in Japan · [DOI](https://doi.org/10.1086/222596)
+- The Functional Differentiation of Elites in the Kibbutz · [DOI](https://doi.org/10.1086/222543)
 
 ## 1958
 
@@ -1314,6 +1322,7 @@
 - The Role of the Intellectual in the Modern World · [DOI](https://doi.org/10.1086/218060)
 - Economic Differentials in the Probability of Insanity · [DOI](https://doi.org/10.1086/218065)
 - Illegitimacy and the Social Structure · [DOI](https://doi.org/10.1086/218266)
+- The Influence of Sigmund Freud Upon Sociology in the United States · [DOI](https://doi.org/10.1086/218308)
 
 ## 1938
 
@@ -1381,6 +1390,7 @@
 ## 1911
 
 - The Influence of Newspaper Presentations Upon the Growth of Crime and Other Anti-Social Activity · [DOI](https://doi.org/10.1086/211912)
+- Moral Instruction Through Social Intelligence · [DOI](https://doi.org/10.1086/211944)
 
 ## 1910
 

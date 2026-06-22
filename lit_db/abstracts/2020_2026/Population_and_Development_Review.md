@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **285** 篇
+共 **288** 篇
 
 ---
 
@@ -64,6 +64,11 @@
 **年份**: 2026 | **DOI**: [10.1111/padr.70064](https://doi.org/10.1111/padr.70064)
 **作者**: Darin, Edith; Kashyap, Ridhi; Leasure, Douglas R.
 **摘要**: Abstract The quantification and analysis of forced displacement, driven by political unrest or natural disasters, has become increasingly central to both humanitarian and demographic research.…
+
+### The Covid‐19 Pandemic and the Social Mathematics of Life and Death
+**年份**: 2026 | **DOI**: [10.1111/padr.70072](https://doi.org/10.1111/padr.70072)
+**作者**: Mojola, Sanyu A.
+**摘要**: （暂无）
 
 ### The Impact of Migration on Age Structure Conducive to Human Development Across the Urban Hierarchy
 **年份**: 2025 | **DOI**: [10.1111/padr.70033](https://doi.org/10.1111/padr.70033)
@@ -1422,4 +1427,13 @@
 ### HL Mencken on Marriage in the New Age
 **年份**: 2020 | **DOI**: [10.1111/padr.12324](https://doi.org/10.1111/padr.12324)
 **作者**: Mencken, H. L.
+**摘要**: （暂无）
+
+### AnneCase and AngusDeaton, Deaths of Despair and the Future of Capitalism, Princeton, NJ: Princeton University Press, 2020. 312 p. $27.95
+**年份**: 2020 | **DOI**: [10.1111/padr.12345](https://doi.org/10.1111/padr.12345)
+**作者**: Desai, Sonalde
+**摘要**: （暂无）
+
+### Lessons of Past Coronavirus Pandemics
+**年份**: 2020 | **DOI**: [10.1111/padr.12360](https://doi.org/10.1111/padr.12360)
 **摘要**: （暂无）

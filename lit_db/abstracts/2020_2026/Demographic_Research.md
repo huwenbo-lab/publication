@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2020–2026 年文章（含摘要）
 
-共 **515** 篇
+共 **517** 篇
 
 ---
 
@@ -88,6 +88,16 @@
 ### Educational differences in fertility recuperation: The role of partnership trajectories in Spain
 **年份**: 2026 | **DOI**: [10.4054/demres.2026.54.38](https://doi.org/10.4054/demres.2026.54.38)
 **作者**: Suero, Cristina
+**摘要**: （暂无）
+
+### Collecting data on HIV/AIDS mortality during household surveys: A randomized validation study in Malawi
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.41](https://doi.org/10.4054/demres.2026.54.41)
+**作者**: Dube, Albert; Amoah, Abena; Brumfield, Sarah 等7人
+**摘要**: （暂无）
+
+### Fertility timing and the birth squeeze
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.40](https://doi.org/10.4054/demres.2026.54.40)
+**作者**: Schoen, Robert
 **摘要**: （暂无）
 
 ### Shifting spousal age gaps in Kenya and Ghana: Does education matter?

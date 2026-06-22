@@ -1,6 +1,6 @@
 # Gender & Society — 文章标题索引
 
-共 **1260** 篇 | 年份范围：1987–2026
+共 **1261** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1288,6 +1288,7 @@
 - THE TRANSFORMATION OF SEXUAL WORK IN 20TH-CENTURY KOREA · [DOI](https://doi.org/10.1177/089124395009003004)
 - GENDER ROLE ATTITUDES IN THE SOUTHERN UNITED STATES · [DOI](https://doi.org/10.1177/089124395009006007)
 - “MAKING A BIG STINK” · [DOI](https://doi.org/10.1177/089124395009002002)
+- CROSSING THE GREAT DIVIDES · [DOI](https://doi.org/10.1177/089124395009006003)
 
 ## 1994
 

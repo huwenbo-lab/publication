@@ -1,6 +1,6 @@
 # Journal of Family Issues — 文章标题索引
 
-共 **2357** 篇 | 年份范围：1980–2026
+共 **2359** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -34,6 +34,8 @@
 - Diapers vs. Date Nights: A Longitudinal Comparison of Premaritally Pregnant, Postmaritally Pregnant Parents, and Nonparents on Marital Disillusionment and Satisfaction · [DOI](https://doi.org/10.1177/0192513x261459394)
 - From Work-Family Enrichment to Marital Satisfaction: A Dyadic Longitudinal Study and Marital Attachment Mediation · [DOI](https://doi.org/10.1177/0192513x261459405)
 - Caring Costs: The Impact of Care Burdens on the Composition of Household Expenditure in Chile · [DOI](https://doi.org/10.1177/0192513x261459384)
+- Religion and Women’s Emotional Responses to Abortion · [DOI](https://doi.org/10.1177/0192513x261460819)
+- Marital Satisfaction in Late Life: Sociodemographic and Psychological Correlates Among Iranian Older Adults · [DOI](https://doi.org/10.1177/0192513x261459388)
 
 ## 2025
 
