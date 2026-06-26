@@ -1,6 +1,6 @@
 # Chinese Sociological Review — 文章标题索引
 
-共 **269** 篇 | 年份范围：2011–2026
+共 **273** 篇 | 年份范围：2011–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -8,6 +8,9 @@
 ## 2026
 
 - Subjective consequences of social movement participation: the impact of Occupy Central on mental health in Hong Kong · [DOI](https://doi.org/10.1080/21620555.2026.2650269)
+- Normalization, parent–child relationships and identity: becoming parents with tongxinglian (same-sex loving) sons/daughters in PFLAG China · [DOI](https://doi.org/10.1080/21620555.2026.2656195)
+- Large language models as a conduit for value shifts in contemporary China · [DOI](https://doi.org/10.1080/21620555.2026.2656193)
+- An alternative perspective on the Second Demographic Transition in East Asia: the relationship between pregnancy intentions and trajectories of cohabitation, marriage, and pregnancy in Japan · [DOI](https://doi.org/10.1080/21620555.2026.2663396)
 
 ## 2025
 
@@ -140,6 +143,7 @@
 - The global, the local, and the Chinese: vying cultures in Taiwan · [DOI](https://doi.org/10.1080/21620555.2021.1871729)
 - Understanding the consequence of higher educational expansion in China: a double-treatment perspective · [DOI](https://doi.org/10.1080/21620555.2021.1873124)
 - What enables the meritocratic power of a college degree? Changing labor market outcomes of first-generation college graduates in post-revolution China · [DOI](https://doi.org/10.1080/21620555.2021.1888080)
+- Migration and children in China: a review and future research agenda · [DOI](https://doi.org/10.1080/21620555.2021.1908823)
 
 ## 2020
 

@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **530** 篇
+共 **532** 篇
 
 ---
 
@@ -434,6 +434,16 @@
 **年份**: 2019 | **DOI**: [10.1111/1468-4446.12368](https://doi.org/10.1111/1468-4446.12368)
 **作者**: Harris, Anita; Lam, Kim
 **摘要**: Recently there has been renewed interest in the role of religion in the public sphere in the context of a 'post-secular' age characterized by the resurgence of religious identities and communities in increasingly diverse, multi-faith societies.…
+
+### On culture and inequality: distinction, omnivorousness, status and class
+**年份**: 2019 | **DOI**: [10.1111/1468-4446.12678](https://doi.org/10.1111/1468-4446.12678)
+**作者**: Laurison, Daniel
+**摘要**: （暂无）
+
+### Cultural narratives and their social supports, or: sociology as a team sport
+**年份**: 2019 | **DOI**: [10.1111/1468-4446.12666](https://doi.org/10.1111/1468-4446.12666)
+**作者**: Kuipers, Giselinde
+**摘要**: （暂无）
 
 ### 'I just don't want to connect my life with this occupation': working-class young men, manual labour, and social mobility in contemporary Russia
 **年份**: 2018 | **DOI**: [10.1111/1468-4446.12299](https://doi.org/10.1111/1468-4446.12299)

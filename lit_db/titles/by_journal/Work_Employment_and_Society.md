@@ -1,6 +1,6 @@
 # Work, Employment and Society — 文章标题索引
 
-共 **1522** 篇 | 年份范围：1990–2026
+共 **1563** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -26,6 +26,10 @@
 - The Labour Process under Worker Control: Organisational Tensions in Worker Cooperatives · [DOI](https://doi.org/10.1177/09500170251412800)
 - The Political Dynamics of Inclusion: Noncitizen Workers in Ethnocratic States · [DOI](https://doi.org/10.1177/09500170261424126)
 - Who You Know or What You Know? Job Search and Matching in the Presence of Network-Based Recruitment · [DOI](https://doi.org/10.1177/09500170251404824)
+- Solidarity and Contentiousness in Migrant Worker Mobilisation: Syndicalist Unionisation in Sweden · [DOI](https://doi.org/10.1177/09500170261432085)
+- ‘Straight from a Night Shift to the Infusions’: Crip Temporalities at Work · [DOI](https://doi.org/10.1177/09500170261432090)
+- Working Through Alienation? The Ambivalent Promise of Craft · [DOI](https://doi.org/10.1177/09500170261434883)
+- Managing Mobility: Platform Work Models, Organizational Identification, and Food Delivery Couriers' Exit Intentions · [DOI](https://doi.org/10.1177/09500170261428386)
 
 ## 2025
 
@@ -1599,6 +1603,16 @@
 - Change in the Benefits Agency: Empowering the Exhausted Worker? · [DOI](https://doi.org/10.1177/09500179922117773)
 - School Age Workers: the Paid Employment of Children in Britain · [DOI](https://doi.org/10.1177/09500179922118015)
 - The Transition from Organisational Employment to Portfolio Working: Perceptions of `Boundarylessness' · [DOI](https://doi.org/10.1177/09500179922117962)
+- Contingent Workers and Health and Safety · [DOI](https://doi.org/10.1177/09500179922118024)
+- Danger: Bodies at Work · [DOI](https://doi.org/10.1177/09500179922117737)
+- Myths and Counter-Myths: An Analysis of Part-Time Female Employees and Their Orientations to Work and Working Hours · [DOI](https://doi.org/10.1177/09500179922117908)
+- The Myth of Empowerment: Work Organisation, Hierarchy and Employee Autonomy in Contemporary Australian Workplaces · [DOI](https://doi.org/10.1177/09500179922117782)
+
+## 1998
+
+- Gender Relations and Employment: The Impact of Occupation · [DOI](https://doi.org/10.1177/0950017098122005)
+- CLASS AND THE CHANGING NATURE OF WORK: TESTING HYPOTHESES OF DESKILLING AND CONVERGENCE AMONG SWEDISH EMPLOYEES · [DOI](https://doi.org/10.1017/s0950017098000154)
+- Gendered Equity? Comparing Explanations of Women's Satisfaction with the Domestic Division of Labour · [DOI](https://doi.org/10.1177/0950017098123006)
 
 ## 1997
 
@@ -1606,25 +1620,70 @@
 - The Family Enterprise and Business Strategies · [DOI](https://doi.org/10.1177/0950017097114005)
 - Who Decides What? Decision Making in Dual-Career Households · [DOI](https://doi.org/10.1177/0950017097112006)
 - Youth, Gender and Part-Time Work-Students in the Labour Process · [DOI](https://doi.org/10.1177/0950017097114001)
+- Ethnic Differences in Women's Employment · [DOI](https://doi.org/10.1177/0950017097113003)
+- Whatever it Takes? Managing `Empowered' Employees and the Service Encounter in an International Hotel Chain · [DOI](https://doi.org/10.1177/0950017097113008)
+- Shopfloor Trade Unionism in Russia: The Prospects of Reform from Below · [DOI](https://doi.org/10.1177/0950017097111007)
+- Dualism, Flexibility and Self-Employment in the UK Construction Industry · [DOI](https://doi.org/10.1177/0950017097113004)
+- In Search of Technik: Will Engineering Outgrow Management? · [DOI](https://doi.org/10.1177/0950017097114009)
+- Stuck in the Middle? Managers in Building Societies · [DOI](https://doi.org/10.1177/0950017097111006)
+
+## 1996
+
+- The `New Economic Sociology' · [DOI](https://doi.org/10.1177/0950017096103008)
+- Welfare Dependency, the Enterprise Culture and Self-Employed Survival · [DOI](https://doi.org/10.1177/0950017096103002)
+- Paternalism and its Discontents: A Case Study · [DOI](https://doi.org/10.1177/0950017096104005)
 
 ## 1995
 
 - Employees' Perspectives on One Dimension of Labour Flexibility: Working at a Distance · [DOI](https://doi.org/10.1177/095001709593003)
 - Self-Employment Career Dynamics: The Case of `Unemployment Push' in UK Book Publishing · [DOI](https://doi.org/10.1177/095001709593004)
+- It Ain't What You do, it's the Way that You do it: Production Organisation and Skill Utilisation in Commercial Vehicles · [DOI](https://doi.org/10.1177/095001709594005)
+- Automation and New Work Patterns: Cases from Singapore's Electronics Industry · [DOI](https://doi.org/10.1177/095001709592005)
+- The Reluctant Profession - Homoeopathy and the Search for Legitimacy · [DOI](https://doi.org/10.1177/095001709594006)
+- Output Characteristics as Input in the Skilling Debate · [DOI](https://doi.org/10.1177/095001709592006)
+
+## 1994
+
+- Industry and the Rest: The Economic Identity of Services · [DOI](https://doi.org/10.1177/095001709482006)
+- Economic Theory, the Labour Market and Inequality · [DOI](https://doi.org/10.1177/095001709482007)
+- Fiddly Jobs, Undeclared Working and the Something for Nothing Society · [DOI](https://doi.org/10.1177/095001709484002)
+- Disciplinary Practice: A Study of Railways in Britain, 1860-1988 · [DOI](https://doi.org/10.1177/095001709483001)
+- Flexibility, Politics & Strategy: In Defence of the Model of the Flexible Firm · [DOI](https://doi.org/10.1177/095001709482004)
 
 ## 1993
 
 - Air France's Strategic Plan: Benevolent `New Despotism'? · [DOI](https://doi.org/10.1177/095001709374004)
+- The End of a Way of Life: Coal Communities Since the 1984-85 Miners' Strike · [DOI](https://doi.org/10.1177/095001709371007)
+- Professional Knowledge and Social Mobility: Postwar Changes in the Knowledge-Base of Management Accounting · [DOI](https://doi.org/10.1177/095001709371001)
+- Outsourcing and the Search for `Flexibility' · [DOI](https://doi.org/10.1177/095001709372003)
 
 ## 1992
 
 - Where do You Draw the Line? Functional Flexibility, Training & Skill in Britain & France · [DOI](https://doi.org/10.1177/095001709263004)
+- Employment and `Community Care': Policies for the 1990s · [DOI](https://doi.org/10.1177/095001709261006)
+- `The Figures, the Personality and the Bums': Service Work and Sexuality · [DOI](https://doi.org/10.1177/095001709261002)
 
 ## 1991
 
 - Consumers' Reports: Management by Customers in a Changing Economy · [DOI](https://doi.org/10.1177/0950017091005001002)
 - Gendering Jobs: Corporate Strategy, Managerial Control and the Dynamics of Job Segregation · [DOI](https://doi.org/10.1177/0950017091005002003)
+- How do you Manage a Flexible Firm? The Total Quality Model · [DOI](https://doi.org/10.1177/0950017091005003005)
 
 ## 1990
 
 - Gender and Skills · [DOI](https://doi.org/10.1177/0950017090004002002)
+- The End of Japanese-Style Employment? · [DOI](https://doi.org/10.1177/0950017090004003002)
+
+## 1989
+
+- Unemployed Youth: A Lost Generation? · [DOI](https://doi.org/10.1177/0950017089003004005)
+- Women in Banking: Continuity and Change Since the Second World War · [DOI](https://doi.org/10.1177/0950017089003002002)
+- Industrial Discipline, the Control of Attendance, and the Subordination of Labour: Towards an Integrated Analysis · [DOI](https://doi.org/10.1177/0950017089003001002)
+
+## 1988
+
+- Do Female Representatives make a Difference? Women Full-Time Officials and Trade Union Work · [DOI](https://doi.org/10.1177/0950017088002004004)
+
+## 1987
+
+- Subcontracting in Steel · [DOI](https://doi.org/10.1177/0950017087001004006)

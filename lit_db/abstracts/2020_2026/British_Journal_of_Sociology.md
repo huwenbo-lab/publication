@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **421** 篇
+共 **437** 篇
 
 ---
 
@@ -29,6 +29,81 @@
 **年份**: 2026 | **DOI**: [10.1111/1468-4446.70116](https://doi.org/10.1111/1468-4446.70116)
 **作者**: Lootens, Elif
 **摘要**: The author declares no conflicts of interest. The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.
+
+### Entrepreneuring Legitimacy: A Case Study of the Cultural Codes and Boundary‐Makings of the Tech Elite
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70046](https://doi.org/10.1111/1468-4446.70046)
+**作者**: Dorschel, Robert
+**摘要**: ABSTRACT How do those who are pulling away economically justify their advantageous positions? This issue has acquired salience in the context of rising inequalities and propelled a reflourishing of sociological analysis focused on elites.…
+
+### Privileged Precarity: How the Mobile Middle Class Leverage Housing Insecurity as Labour Market Strategy
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70118](https://doi.org/10.1111/1468-4446.70118)
+**作者**: White, Tim
+**摘要**: ABSTRACT How does the ability to weather insecurity give some an upper‐hand over others? This paper examines the interrelationship between housing and labour market precarity among middle class young professionals.…
+
+### Laying Grounds for Dialogue: Exploring Anti‐Racist Activists' Negotiations of Emotions When Challenging Colour‐Blindness in Norway
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70121](https://doi.org/10.1111/1468-4446.70121)
+**作者**: Michelet, Kine Marie
+**摘要**: ABSTRACT In this article, I explore how 36 Norwegian anti‐racist activists of colour negotiate emotions when engaging with the white majority population. Much recent research on racist ideology draws on Bonilla‐Silva's framework of colour‐blindness, arguing that the white majority nowadays is more l…
+
+### The Worldviews of Elites: Differences Between Inheritors and Newcomers
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70122](https://doi.org/10.1111/1468-4446.70122)
+**作者**: Otero, Gabriel
+**摘要**: ABSTRACT The main goal of this paper is to examine variations in the political attitudes of elites in Chile concerning two key dimensions: socioeconomic attitudes (concerning redistribution, taxation, and state provision of services) and sociocultural attitudes (concerning immigration, LGBTQ+ rights…
+
+### Cruel and Usual: Recursive Racial Cruelty at the US Immigration Courts
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70120](https://doi.org/10.1111/1468-4446.70120)
+**作者**: Islam, Nabila N.
+**摘要**: ABSTRACT In this paper, I advance a theorization of recursive racial cruelty by focusing on the suffering of racialized respondents in the US immigration courts and connecting it to the routine functioning of the US empire and colonial racial capitalism.…
+
+### More Productive Bodies Faster! Human Capital and Anti‐Intellectualism in Danish University Reform
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70129](https://doi.org/10.1111/1468-4446.70129)
+**作者**: Gøtzsche‐Astrup, Johan; Villadsen, Kaspar
+**摘要**: ABSTRACT This article examines the current Danish reform of master's programmes as a case of contested marketization in higher education. While the reform aims to produce “labour‐market‐relevant” graduates by shortening degrees, introducing corporate programmes, and reducing enrolment, it reveals a …
+
+### Cultural and Human Capital Signals in Hiring—A Factorial Survey Experiment Across Contexts
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70125](https://doi.org/10.1111/1468-4446.70125)
+**作者**: Burchartz, Luisa; De Keere, Kobe; Geven, Sara
+**摘要**: ABSTRACT When evaluating candidates, hiring agents may draw on signals of human as well as cultural capital. While these processes have been considered separately, an open question is how the two types of signals interact.…
+
+### De(‐)Meaning Anti‐Racism
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70130](https://doi.org/10.1111/1468-4446.70130)
+**作者**: Nijjar, Jasbinder S.
+**摘要**: ABSTRACT Following David Theo Goldberg's astute insights, this article discusses a form of neoliberal authoritarianism that extends incessant denial of systematic racial degradation by de(‐)meaning anti‐racism.…
+
+### The Negotiation of Intergenerational Support for Housing: Diverging Patterns Among Renters and Homeowners
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70131](https://doi.org/10.1111/1468-4446.70131)
+**作者**: Ramond, Quentin
+**摘要**: ABSTRACT Rising housing prices in major Western cities have increased the share of middle‐class households living in the private rental sector and heightened the importance of parental financial support in shaping their housing trajectories.…
+
+### Unequal Family Ties, Wealth Transmission and Social Mobility Among Congolese Traders in Kinshasa
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70132](https://doi.org/10.1111/1468-4446.70132)
+**作者**: Mesa, Héritier; Noret, Joël
+**摘要**: ABSTRACT Based on ethnographic fieldwork among Congolese traders operating in Kinshasa's urban economy, this article examines how differentiated family ties and wealth transmission shape social mobility and the intergenerational reproduction of inequality.…
+
+### Reading Margaret Kennedy’s The Feast (1950) at the Same Time as Dan Evan’s A Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie (2023)
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70123](https://doi.org/10.1111/1468-4446.70123)
+**作者**: Bishop, Nicola
+**摘要**: （暂无）
+
+### Class Ruptures and Openings: The Role of Social and Family History in Narratives on Class Mobility and Reproduction
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70135](https://doi.org/10.1111/1468-4446.70135)
+**作者**: Kajta, Justyna; Bieńkowski, Stefan
+**摘要**: ABSTRACT In recent years, sociological interest in the study of social class—particularly its subjective dimensions—has intensified. This article contributes to this growing body of literature by focusing on Poland as a case within the Central and Eastern European region.…
+
+### Screenshots, SIM Cards, and Household Governance: Digital Coercive Control and Evidence Making in Uganda
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70140](https://doi.org/10.1111/1468-4446.70140)
+**作者**: Namatovu, Charles
+**摘要**: ABSTRACT Tech facilitated intimate partner violence is increasingly embedded in everyday Ugandan digital life, including phone confiscation, SIM card control, WhatsApp monitoring, coerced “proof,” mobile money coercion, and reputational threats.…
+
+### Criminal Records as Classification Situations
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70142](https://doi.org/10.1111/1468-4446.70142)
+**作者**: Bing, Lindsay; Lageson, Sarah Esther
+**摘要**: ABSTRACT Marion Fourcade and Kieran Healy developed the notion of “classification situations” to describe how ordinal schema that sort and rank individuals, like credit scores, are used to differentiate opportunities, prices, and services in ways that structure life chances while masking inequality …
+
+### Subjective Social Inequalities, Lay Perceptions of Merit and Puzzles of Explanation
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70137](https://doi.org/10.1111/1468-4446.70137)
+**作者**: Irwin, Sarah
+**摘要**: ABSTRACT Despite rising socioeconomic inequalities most people see individualised merit as crucial for social success. Drawing on surveys such as the ISSP a wealth of research examines trends in subjective perceptions, the relative importance accorded to merit and non‐merit factors for getting ahead…
 
 ### 'Cubs of Wall Street': Cocaine Use in Top-Boy Culture
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.13212](https://doi.org/10.1111/1468-4446.13212)
@@ -609,6 +684,11 @@
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.70031](https://doi.org/10.1111/1468-4446.70031)
 **作者**: Dobbernack, Jan
 **摘要**: Perspectives on neoliberal political-economic practice often frame its dominance in terms of harms to 'society'. Prominently, Wendy Brown (2019, 52) offers an account of the 'neoliberal revolution', claiming that, when 'the social vanishes from our ideas, speech, and experience', commonality disappe…
+
+### Comparing Transgender Identities in the Census of Scotland and the Census of England and Wales
+**年份**: 2025 | **DOI**: [10.1111/1468-4446.70030](https://doi.org/10.1111/1468-4446.70030)
+**作者**: Biggs, Michael
+**摘要**: ABSTRACT The most recent British census was the first to elicit transgender identity. The 2021 Census of England and Wales asked ‘Is the gender you identify with the same as your sex registered at birth?’.…
 
 ### 'Levelling up' social mobility? Comparing the social and spatial mobility for university graduates across districts of Britain
 **年份**: 2024 | **DOI**: [10.1111/1468-4446.13089](https://doi.org/10.1111/1468-4446.13089)

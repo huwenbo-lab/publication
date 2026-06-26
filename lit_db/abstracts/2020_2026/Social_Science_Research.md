@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2020–2026 年文章（含摘要）
 
-共 **528** 篇
+共 **548** 篇
 
 ---
 
@@ -99,6 +99,101 @@
 **年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2025.103292](https://doi.org/10.1016/j.ssresearch.2025.103292)
 **作者**: Oberhauser, Vincent; Velicu, Antonia; Rauhut, Heiko
 **摘要**: Science studies have often emphasized the what of misconduct while neglecting the equally important why. Using a sociological lens, we shed light on the mechanisms underlying scientific misconduct and contribute to theoretical debates on its causes.…
+
+### State-level gender inequality and couples’ relative earnings following parenthood over four decades
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2025.103302](https://doi.org/10.1016/j.ssresearch.2025.103302)
+**作者**: Musick, Kelly; Jeong, Wonjeong
+**摘要**: （暂无）
+
+### Childhood exposure to local wealth inequality, economic isolation in schools, and inter-class social ties in adulthood
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103355](https://doi.org/10.1016/j.ssresearch.2026.103355)
+**作者**: Schechtl, Manuel
+**摘要**: （暂无）
+
+### Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103347](https://doi.org/10.1016/j.ssresearch.2026.103347)
+**作者**: Lee, Hyo Joo
+**摘要**: （暂无）
+
+### Socioeconomic divides in curricular pathways: Unpacking decision-making mechanisms and peer effects
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103359](https://doi.org/10.1016/j.ssresearch.2026.103359)
+**作者**: Pensiero, Nicola; Barone, Carlo; Janmaat, Jan Germen
+**摘要**: （暂无）
+
+### Gendered work and family trajectories: How do STEM graduates fare in the labor market?
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103345](https://doi.org/10.1016/j.ssresearch.2026.103345)
+**作者**: Weber, Rosa; Härtull, Camilla; Saarela, Jan
+**摘要**: （暂无）
+
+### Employment stability and social origin: Cumulative advantages in young adults’ homeownership and financial asset accumulation
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103369](https://doi.org/10.1016/j.ssresearch.2026.103369)
+**作者**: Ramos, Vincent Jerald; Berrington, Ann
+**摘要**: （暂无）
+
+### A Schumpeter hotel? Surname status inequality and persistence in Sweden, 1880–2015
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103367](https://doi.org/10.1016/j.ssresearch.2026.103367)
+**作者**: Dalman, Elien; Dribe, Martin; Eriksson, Björn
+**摘要**: （暂无）
+
+### The good, the bad, and the healthy: A factorial survey analysis of situational morality in consumption and healthcare
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103378](https://doi.org/10.1016/j.ssresearch.2026.103378)
+**作者**: Güler, Selen
+**摘要**: （暂无）
+
+### Toward a formal sociological model of partner search
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103356](https://doi.org/10.1016/j.ssresearch.2026.103356)
+**作者**: L Wu, Lawrence
+**摘要**: （暂无）
+
+### Regrets, she's had a few: Gender and regret of computer science and engineering degrees
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2025.103298](https://doi.org/10.1016/j.ssresearch.2025.103298)
+**作者**: VanHeuvelen, Tom; Quadlin, Natasha; Wald, Jordyn
+**摘要**: （暂无）
+
+### When categories change value: How new educational resources reshape patterns of inequality
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103310](https://doi.org/10.1016/j.ssresearch.2026.103310)
+**作者**: Liu, Tiffany T.
+**摘要**: （暂无）
+
+### Do geopolitical tensions increase negative attitudes toward minorities? Evidence from a natural experiment in India
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103323](https://doi.org/10.1016/j.ssresearch.2026.103323)
+**作者**: Francis-Tan, Andrew; Mathew, Nikhitha Mary; Pratap, Chitra
+**摘要**: （暂无）
+
+### The intergenerational mobility advantage of educators’ children: Capital embedded in occupations
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103388](https://doi.org/10.1016/j.ssresearch.2026.103388)
+**作者**: Adamson, Clayton; Vachuska, Karl
+**摘要**: （暂无）
+
+### Criminal legal contact, labor market insecurity and labor market participation
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103321](https://doi.org/10.1016/j.ssresearch.2026.103321)
+**作者**: Nur, Alexandra V.; Nguyen, Holly; Parker, Brandy R.
+**摘要**: （暂无）
+
+### Catalysts and buffers: How diversity and status in social networks shape attitudes towards inequality in contemporary societies
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103389](https://doi.org/10.1016/j.ssresearch.2026.103389)
+**作者**: Franetovic, Gonzalo
+**摘要**: （暂无）
+
+### Americans' views of religion in public life: The effect of three cultural models on attitudes toward religious and nonreligious groups
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103393](https://doi.org/10.1016/j.ssresearch.2026.103393)
+**作者**: Sikkink, David; Wurm, Greg
+**摘要**: （暂无）
+
+### Horizontal stratification and educational homogamy in South Korea: Marriage patterns and preferences across elite- and non-elite university graduates
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103386](https://doi.org/10.1016/j.ssresearch.2026.103386)
+**作者**: Lee, Sangsoo; Park, Hyunjoon; Kim, HJ Katelyn
+**摘要**: （暂无）
+
+### Educational attainment, gender, and the change in access to schedule flexibility in Europe and the United States
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103309](https://doi.org/10.1016/j.ssresearch.2026.103309)
+**作者**: Paek, Eunjeong
+**摘要**: （暂无）
+
+### Workers, jobs, and how they are matched: A decomposition of US labor market trends in educational mismatch
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103311](https://doi.org/10.1016/j.ssresearch.2026.103311)
+**作者**: Tobler, Lina; Leesch, Julia
+**摘要**: （暂无）
 
 ### A real effort vs. standard public goods experiment: Asking for effort does make a difference
 **年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2025.103171](https://doi.org/10.1016/j.ssresearch.2025.103171)
@@ -1904,6 +1999,11 @@
 **年份**: 2022 | **DOI**: [10.1016/j.ssresearch.2022.102721](https://doi.org/10.1016/j.ssresearch.2022.102721)
 **作者**: Van Hootegem, Arno
 **摘要**: Based on welfare regime theory, scholars have tried to understand cross-national differences in solidarity by constructing 'worlds of welfare attitudes'. Most studies use a variable-centred logic to examine quantitative differences in support for the delivery of welfare provisions.…
+
+### Higher education non-completion, employers, and labor market integration: Experimental evidence
+**年份**: 2022 | **DOI**: [10.1016/j.ssresearch.2022.102696](https://doi.org/10.1016/j.ssresearch.2022.102696)
+**作者**: Neugebauer, Martin; Daniel, Annabell
+**摘要**: （暂无）
 
 ### A path towards citizenship: The effects of early college high schools on criminal convictions and voting
 **年份**: 2021 | **DOI**: [10.1016/j.ssresearch.2021.102584](https://doi.org/10.1016/j.ssresearch.2021.102584)

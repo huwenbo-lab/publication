@@ -1,7 +1,7 @@
 # Sociological Science
 ## 2020–2026 年文章（含摘要）
 
-共 **199** 篇
+共 **209** 篇
 
 ---
 
@@ -99,6 +99,56 @@
 **年份**: 2026 | **DOI**: [10.15195/v13.a12](https://doi.org/10.15195/v13.a12)
 **作者**: Biegert, Thomas; Kühhirt, Michael; Van Lancker, Wim
 **摘要**: Peter McMahan and Eran Shor (MS) published an article in Sociological Science critiquing our study on cumulative status bias in NBA All-Star elections (Biegert, Kühhirt, and Van Lancker 2023). In this article, we affirm the presence of cumulative status bias in NBA Awards.…
+
+### Echo Chambers Are Defined by Conflict, Not Isolation
+**年份**: 2026 | **DOI**: [10.15195/v13.a22](https://doi.org/10.15195/v13.a22)
+**作者**: Keuchenius, Anna; Törnberg, Petter; Uitermark, Justus
+**摘要**: （暂无）
+
+### Dissecting Taste Distinction: Cultural Tastes and Perceptions of Individuals’ Status and Qualities
+**年份**: 2026 | **DOI**: [10.15195/v13.a20](https://doi.org/10.15195/v13.a20)
+**作者**: Larsen, Mikkel; Jæger, Mads
+**摘要**: （暂无）
+
+### How a Seemingly Innocuous and Intuitive Methodological Choice Confused a Generation of Research on Policy Responsiveness
+**年份**: 2026 | **DOI**: [10.15195/v13.a21](https://doi.org/10.15195/v13.a21)
+**作者**: Enns, Peter
+**摘要**: （暂无）
+
+### Declining Inequality and Persistent Inequality Structures
+**年份**: 2026 | **DOI**: [10.15195/v13.a24](https://doi.org/10.15195/v13.a24)
+**作者**: Roh, Soohyun; Wilmers, Nathan
+**摘要**: （暂无）
+
+### Family Networks and Childcare Choices: A Predictive Machine Learning Approach
+**年份**: 2026 | **DOI**: [10.15195/v13.a23](https://doi.org/10.15195/v13.a23)
+**作者**: Soler, Nicolás; Emery, Tom; Kanas, Agnieszka
+**摘要**: （暂无）
+
+### Changing Opportunity: Rising Local Wealth Inequality and Growing Class Gaps in Income Mobility
+**年份**: 2026 | **DOI**: [10.15195/v13.a25](https://doi.org/10.15195/v13.a25)
+**作者**: Schechtl, Manuel; Torche, Florencia
+**摘要**: （暂无）
+
+### Teacher Sorting and Inequalities in Student Achievement: Unequal Exposures and Differential Returns to Teacher Qualifications
+**年份**: 2026 | **DOI**: [10.15195/v13.a29](https://doi.org/10.15195/v13.a29)
+**作者**: Hassan, Said
+**摘要**: （暂无）
+
+### Clickbait Crime News? Metrics and Professional Authority in Local Newsrooms
+**年份**: 2026 | **DOI**: [10.15195/v13.a27](https://doi.org/10.15195/v13.a27)
+**作者**: Ben-Menachem, Jonathan
+**摘要**: （暂无）
+
+### Beyond Text: Using AI-Generated Visual Conjoints to Study Gender and Housework Attribution
+**年份**: 2026 | **DOI**: [10.15195/v13.a26](https://doi.org/10.15195/v13.a26)
+**作者**: Pessin, Léa; Munger, Kevin
+**摘要**: （暂无）
+
+### The Exception to Women’s Advantage: How Rurality, Red Counties, and the Local Economy Shape Gender Gaps in Educational Attainment
+**年份**: 2026 | **DOI**: [10.15195/v13.a28](https://doi.org/10.15195/v13.a28)
+**作者**: Sutton, April; Mackenna, Bernardo; Zhang, Bolun 等4人
+**摘要**: （暂无）
 
 ### An Unreliable Ladder: Top–Bottom Self-Placement, Subjective Social Status, and Political Preferences
 **年份**: 2025 | **DOI**: [10.15195/v12.a25](https://doi.org/10.15195/v12.a25)

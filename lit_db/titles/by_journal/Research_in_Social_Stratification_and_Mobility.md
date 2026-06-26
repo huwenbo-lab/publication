@@ -1,6 +1,6 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **848** 篇 | 年份范围：2001–2026
+共 **860** 篇 | 年份范围：2001–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -17,6 +17,16 @@
 - The Role of Income Stratification in Shaping Class Conflict Perceptions: Evidence from ISSP 1987-2019 · [DOI](https://doi.org/10.1016/j.rssm.2026.101153)
 - The long-term effects of adolescent work on adult socioeconomic attainment · [DOI](https://doi.org/10.1016/j.rssm.2026.101137)
 - The role of graduate education in the intergenerational reproduction of inequality in Chile · [DOI](https://doi.org/10.1016/j.rssm.2026.101147)
+- Estimating the intersecting labor market disparities for justice-impacted individuals with disabilities: Evidence from two United States national data sets · [DOI](https://doi.org/10.1016/j.rssm.2026.101152)
+- The contingency of future vs. present orientation and status attainment · [DOI](https://doi.org/10.1016/j.rssm.2026.101151)
+- Gender differences in employers’ promotion preferences? The role of working time, care obligations, and work–family policies · [DOI](https://doi.org/10.1016/j.rssm.2026.101154)
+- Place of education, revisited: Effects on earnings by nativity, race, and gender · [DOI](https://doi.org/10.1016/j.rssm.2026.101150)
+- The role of network isolation on language proficiency of children of migrants · [DOI](https://doi.org/10.1016/j.rssm.2026.101138)
+- Is a liberal school-to-work system more ‘meritocratic’? Overeducation, social origin, and early career mobility in Germany and the United Kingdom · [DOI](https://doi.org/10.1016/j.rssm.2026.101146)
+- Occupational Gender Composition is Related to Occupational Wages: Causal Evidence from a Survey Experiment Investigating Occupational Devaluation · [DOI](https://doi.org/10.1016/j.rssm.2026.101161)
+- Is overqualification a stepping stone for career progression among children of immigrants? · [DOI](https://doi.org/10.1016/j.rssm.2026.101164)
+- Aspirations as boundaries. Guidance practices and the reproduction of social inequality in free-choice tracking systems · [DOI](https://doi.org/10.1016/j.rssm.2026.101165)
+- Can vocational role models change the gendered perception of STEM VET occupations? Results from an intervention study in Germany · [DOI](https://doi.org/10.1016/j.rssm.2026.101166)
 
 ## 2025
 
@@ -85,6 +95,7 @@
 - When advantages disappear: Long-term trends in gender and social origin inequalities and the rise of horizontal stratification in higher education in South Korea · [DOI](https://doi.org/10.1016/j.rssm.2025.101036)
 - Who opts out of neighborhood schools? Determinants and consequences of school choice strategies in China · [DOI](https://doi.org/10.1016/j.rssm.2025.101065)
 - Work-schedule instability and workers' health and well-being across different socioeconomic strata in China · [DOI](https://doi.org/10.1016/j.rssm.2024.101008)
+- Origin, destination, or mobility? A systematic review of studies using diagonal reference models · [DOI](https://doi.org/10.1016/j.rssm.2025.101047)
 
 ## 2024
 
@@ -389,6 +400,7 @@
 - When upward social mobility leads to frustration: Boudon's game-theoretic model of relative deprivation and experimental evidence · [DOI](https://doi.org/10.1016/j.rssm.2019.100440)
 - Who loses income during the COVID-19 outbreak? Evidence from China · [DOI](https://doi.org/10.1016/j.rssm.2020.100522)
 - Youth adversity, parental resources and educational attainment: Contrasting a resilience and a reproduction perspective · [DOI](https://doi.org/10.1016/j.rssm.2020.100505)
+- The institutional and cultural framing of the educational stratification in fertility. A review of the role of labor market institutions and attitudinal orientations · [DOI](https://doi.org/10.1016/j.rssm.2020.100482)
 
 ## 2019
 

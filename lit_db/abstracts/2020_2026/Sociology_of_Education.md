@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **118** 篇
+共 **123** 篇
 
 ---
 
@@ -54,6 +54,16 @@
 **年份**: 2026 | **DOI**: [10.1177/00380407261419106](https://doi.org/10.1177/00380407261419106)
 **作者**: Ciocca Eller, Christina; Ayala-Hurtado, Elena
 **摘要**: The United States is a “schooled society”: one where formal education is viewed as a primary conduit between American cultural ideals and people's moral worth and social value. Sociologists of education have described resistance against this dominant model through disinvestment from school, particul…
+
+### Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training
+**年份**: 2026 | **DOI**: [10.1177/00380407261440275](https://doi.org/10.1177/00380407261440275)
+**作者**: Emmenegger, Patrick; Haslberger, Matthias; Wilson, Anna
+**摘要**: Vocational education and training (VET) is hailed for easing skill shortages and fostering inclusion. However, little is known about the factors influencing the choice between VET and general education.…
+
+### From Aspiration to Action: Socioeconomic Disparity in the Translation of Educational Goals into Time Investment
+**年份**: 2026 | **DOI**: [10.1177/00380407261432647](https://doi.org/10.1177/00380407261432647)
+**作者**: Yong, Anna
+**摘要**: Although educational aspirations are widely viewed as central to attainment, less is known about how they translate into academic behavior. This study investigates the behavioral consequences of aspirations using nationally representative data from South Korea and dynamic panel models with individua…
 
 ### Complicating the Suburban Advantage: Examining Racial and Gender Inequality in Suburban and Urban School Settings
 **年份**: 2025 | **DOI**: [10.1177/00380407241291997](https://doi.org/10.1177/00380407241291997)
@@ -244,6 +254,11 @@
 **年份**: 2024 | **DOI**: [10.1177/00380407231210279](https://doi.org/10.1177/00380407231210279)
 **作者**: Plavgo, Ilze; Bernardi, Fabrizio
 **摘要**: This article expands the scope of comparative social stratification research in education to rapidly developing, largely low-income sub-Saharan Africa. First, we investigate trends in the association between parental socioeconomic status (SES) and children's chances to attend and complete primary ed…
+
+### Message from the Editors
+**年份**: 2024 | **DOI**: [10.1177/00380407241299625](https://doi.org/10.1177/00380407241299625)
+**作者**: Carbonaro, William; Haskins, Anna R.
+**摘要**: （暂无）
 
 ### Advanced Placement Gatekeeping and Racialized Tracking
 **年份**: 2023 | **DOI**: [10.1177/00380407231161334](https://doi.org/10.1177/00380407231161334)
@@ -500,6 +515,11 @@
 **作者**: Furuta, Jared
 **摘要**: National high-stakes exams are a fundamental structural feature of education systems around the world. Despite their importance in shaping educational stratification, little is known about the social processes that influence how and why national high-stakes exams are used at early ages on a global b…
 
+### Message from the Editors
+**年份**: 2021 | **DOI**: [10.1177/00380407211063529](https://doi.org/10.1177/00380407211063529)
+**作者**: Diamond, John B.; Johnson, Odis
+**摘要**: （暂无）
+
 ### Bad Apples or Bad Orchards? An Organizational Analysis of Educator Cheating on Standardized Accountability Tests
 **年份**: 2020 | **DOI**: [10.1177/0038040720927234](https://doi.org/10.1177/0038040720927234)
 **作者**: Hibel, Jacob; Penn, Daphne M.
@@ -594,3 +614,7 @@
 **年份**: 2020 | **DOI**: [10.1177/0038040719898505](https://doi.org/10.1177/0038040719898505)
 **作者**: Brint, Steven; German, Komi T.; Anderson-Natale, Kayleigh 等5人
 **摘要**: Status transmission theory argues that leading educational institutions prepare individuals from privileged backgrounds for positions of prestige and power in their societies. We examine the educational backgrounds of more than 2,900 members of the U.S.…
+
+### 2020 Reviewer Thank You
+**年份**: 2020 | **DOI**: [10.1177/0038040720954439](https://doi.org/10.1177/0038040720954439)
+**摘要**: （暂无）

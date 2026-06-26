@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2010–2019 年文章（含摘要）
 
-共 **895** 篇
+共 **905** 篇
 
 ---
 
@@ -1074,6 +1074,11 @@
 **年份**: 2018 | **DOI**: [10.4054/DemRes.2018.38.41](https://doi.org/10.4054/DemRes.2018.38.41)
 **作者**: Boertien, Diederik; Harkonen, Juho
 **摘要**: BACKGROUND Despite widespread attention paid to the negative correlation between female education and divorce, we lack an explanation for it. In this study we use social exchange theory to assess two broad groups of explanations.…
+
+### Using census data to measure maternal mortality: A review of recent experience
+**年份**: 2018 | **DOI**: [10.4054/demres.2018.39.11](https://doi.org/10.4054/demres.2018.39.11)
+**作者**: Hill, Kenneth; Johnson, Peter; Singh, Kavita 等5人
+**摘要**: （暂无）
 
 ### A mixed-methods framework for analyzing text data: Integrating computational techniques with qualitative methods in demography
 **年份**: 2017 | **DOI**: [10.4054/demres.2017.37.42](https://doi.org/10.4054/demres.2017.37.42)
@@ -2160,6 +2165,16 @@
 **作者**: Kulu, Hill; Hannemann, Tina
 **摘要**: BACKGROUND Previous research has shown high total fertility among certain UK-born ethnic minorities, but the reasons behind their high fertility have remained far from clear. Some researchers attribute their elevated fertility levels to cultural factors, whereas others argue that high fertility is t…
 
+### Loss aversion and duration of residence
+**年份**: 2016 | **DOI**: [10.4054/demres.2016.35.36](https://doi.org/10.4054/demres.2016.35.36)
+**作者**: Morrison, Philip S.; Clark, William A.V.
+**摘要**: （暂无）
+
+### Gender Inequalities in Employment and Wage-earning among Economic Migrants in Chinese Cities
+**年份**: 2016 | **DOI**: [10.4054/demres.2016.34.6](https://doi.org/10.4054/demres.2016.34.6)
+**作者**: Qin, Min; Brown, James; Padmadas, Sabu S. 等6人
+**摘要**: （暂无）
+
 ### A multistate life table approach to understanding return and reentry migration between Mexico and the United States during later life
 **年份**: 2015 | **DOI**: [10.4054/DemRes.2015.33.43](https://doi.org/10.4054/DemRes.2015.33.43)
 **作者**: Vega, Alma; Brazil, Noli
@@ -2499,6 +2514,41 @@
 **年份**: 2015 | **DOI**: [10.4054/DemRes.2015.33.48](https://doi.org/10.4054/DemRes.2015.33.48)
 **作者**: Bocquier, Philippe; Costa, Rafael
 **摘要**: BACKGROUND Several theories compete to explain the main drivers of urbanisation, past and present, in relation to both demographic transition and economic development. One hypothesis is that rural-to-urban migration is the driver of urbanisation; another is that urban mortality decline actually trig…
+
+### Migration signatures across the decades
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.38](https://doi.org/10.4054/demres.2015.32.38)
+**作者**: Johnson, Kenneth M.; Winkler, Richelle L.
+**摘要**: （暂无）
+
+### Sibship size and height before, during, and after the fertility decline
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.2](https://doi.org/10.4054/demres.2015.32.2)
+**作者**: Öberg, Stefan
+**摘要**: （暂无）
+
+### Traditional and modern cohabitation in Latin America
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.32](https://doi.org/10.4054/demres.2015.32.32)
+**作者**: Covre-Sussai, Maira; Meuleman, Bart; Botterman, Sarah 等4人
+**摘要**: （暂无）
+
+### The timing of family commitments in the early work career
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.22](https://doi.org/10.4054/demres.2015.32.22)
+**作者**: Koelet, Suzana; de Valk, Helga; Glorieux, Ignace 等5人
+**摘要**: （暂无）
+
+### Europe-wide fertility trends since the 1990s: Turning the corner from declining first birth rates
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.21](https://doi.org/10.4054/demres.2015.32.21)
+**作者**: Burkimsher, Marion
+**摘要**: （暂无）
+
+### Working with teams of "insiders"
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.12](https://doi.org/10.4054/demres.2015.32.12)
+**作者**: Schatz, Enid; Angotti, Nicole; Madhavan, Sangeetha 等4人
+**摘要**: （暂无）
+
+### The future size of religiously affiliated and unaffiliated populations
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.27](https://doi.org/10.4054/demres.2015.32.27)
+**作者**: Hackett, Conrad; Stonawski, Marcin Jan; Potančoková, Michaela 等5人
+**摘要**: （暂无）
 
 ### A Bayesian analysis of the spatial concentration of individual wealth in the US North during the nineteenth century
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.36](https://doi.org/10.4054/demres.2014.30.36)

@@ -1,7 +1,7 @@
 # European Journal of Population
 ## 2020–2026 年文章（含摘要）
 
-共 **205** 篇
+共 **210** 篇
 
 ---
 
@@ -49,6 +49,31 @@
 **年份**: 2026 | **DOI**: [10.1007/s10680-026-09767-9](https://doi.org/10.1007/s10680-026-09767-9)
 **作者**: Balbo, Nicoletta; Burciu, Roxana-Diana
 **摘要**: This paper sheds light on the health-related, economic, and social well-being of single parents of children with disabilities, a population often overlooked in research. Much literature examines single parenthood and child disability independently and generally finds negative consequences of experie…
+
+### Trends in Working Life Expectancy and Untapped Employment Potential in an Ageing Population: The Case of Germany
+**年份**: 2026 | **DOI**: [10.1007/s10680-026-09773-x](https://doi.org/10.1007/s10680-026-09773-x)
+**作者**: Sulak, Harun; Dudel, Christian; Loichinger, Elke 等4人
+**摘要**: Abstract The population of Germany is ageing rapidly. As a result, the country’s working age population is expected to shrink substantially over the next 15 years. To cope with this challenge, a number of policy reforms have been introduced to activate untapped employment potential and increase the …
+
+### Perceptions of Medically Assisted Reproduction and Fertility Postponement: Limited Evidence, Critical Questions
+**年份**: 2026 | **DOI**: [10.1007/s10680-025-09765-3](https://doi.org/10.1007/s10680-025-09765-3)
+**作者**: Compans, Marie-Caroline; Lazzari, Ester; Beaujouan, Eva
+**摘要**: （暂无）
+
+### The Spatial Diffusion of Internal Migration Across the Rural-Urban Continuum in Developing Countries
+**年份**: 2026 | **DOI**: [10.1007/s10680-026-09774-w](https://doi.org/10.1007/s10680-026-09774-w)
+**作者**: Lerch, Mathias; Du, Wenxiu; Beckendorff, Dorothee
+**摘要**: （暂无）
+
+### Long-Term Recall Error in Retrospective Family Surveys: Cohabitation Histories in Denmark
+**年份**: 2026 | **DOI**: [10.1007/s10680-026-09775-9](https://doi.org/10.1007/s10680-026-09775-9)
+**作者**: Fallesen, Peter; Trille G. Loft, Lisbeth; A.L. Simonsen, Emil 等5人
+**摘要**: Abstract Recall questions provide the possibility of obtaining longitudinal information in cross-sectional surveys and are often used in family research. Yet, recall instruments may suffer from measurement issues.…
+
+### Home-Leaving Patterns Among Middle Eastern-Origin Youth in Sweden: The Influence of Origin, Generation, and Neighbourhood
+**年份**: 2026 | **DOI**: [10.1007/s10680-026-09776-8](https://doi.org/10.1007/s10680-026-09776-8)
+**作者**: Zalfou, Rami; Tegunimataka, Anna
+**摘要**: Abstract This study examines home-leaving patterns among Middle Eastern (ME) immigrants and youth with ME backgrounds in Sweden using population register data for individuals aged 17 to 35 between 1998 and 2022.…
 
 ### Agree to Disagree? Fertility Intentions Among Mixed Couples in Sweden
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09742-w](https://doi.org/10.1007/s10680-025-09742-w)

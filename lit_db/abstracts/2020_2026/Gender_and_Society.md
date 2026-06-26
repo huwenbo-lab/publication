@@ -1,7 +1,7 @@
 # Gender & Society
 ## 2020–2026 年文章（含摘要）
 
-共 **208** 篇
+共 **209** 篇
 
 ---
 
@@ -79,6 +79,11 @@
 **年份**: 2026 | **DOI**: [10.1177/08912432261431281](https://doi.org/10.1177/08912432261431281)
 **作者**: Kurashige, Scott
 **摘要**: The revolutionary philosophy and activism of Grace Lee Boggs provide a model for social relations centered on an ethic of care. After witnessing the collapse of the industrial order in Detroit, which was a sign of a broader structural crisis that would reshape U.S.…
+
+### The Maya Effect: Theorizing Beyond Matthew and Matilda Effects to an Intersectional Understanding of Collaboration
+**年份**: 2026 | **DOI**: [10.1177/08912432261449277](https://doi.org/10.1177/08912432261449277)
+**作者**: Mickey, Ethel; Misra, Joya; Smith-Doerr, Laurel 等4人
+**摘要**: Unequal credit in academic collaboration has long been understood through the Matthew effect—more credit is given to already famous coauthors. The Matilda effect posits that women receive less credit than men, assumed to be riding collaborators’ coattails.…
 
 ### Abortion Accompaniment and Insurgent Reproductive Citizenship in Mexico
 **年份**: 2025 | **DOI**: [10.1177/08912432251392906](https://doi.org/10.1177/08912432251392906)

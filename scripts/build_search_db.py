@@ -13,11 +13,58 @@ build_search_db.py — 构建 SQLite FTS5 全文检索数据库
 import json
 import sqlite3
 import argparse
+import re
+import unicodedata
 
 from _paths import ROOT
 
 DB_PATH = ROOT / "literature.db"
 ARTICLES_PATH = ROOT / "articles.json"
+
+
+def strip_diacritics(text):
+    normalized = unicodedata.normalize("NFKD", str(text or ""))
+    return "".join(ch for ch in normalized if not unicodedata.combining(ch))
+
+
+def normalize_name_part(text):
+    text = strip_diacritics(text).lower()
+    text = re.sub(r"[^a-z0-9\s-]", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def initials_from_given(given):
+    parts = [part for part in re.split(r"[\s-]+", normalize_name_part(given)) if part]
+    return "".join(part[0] for part in parts)
+
+
+def build_author_search_text(authors_text):
+    """为作者检索生成保守变体，处理“Smith, John”和“John Smith”等顺序差异。"""
+    variants = set()
+    for item in str(authors_text or "").split(";"):
+        raw = item.strip()
+        if not raw:
+            continue
+        variants.add(raw)
+        if "," in raw:
+            family, given = [part.strip() for part in raw.split(",", 1)]
+        else:
+            parts = raw.split()
+            if len(parts) >= 2:
+                given = " ".join(parts[:-1])
+                family = parts[-1]
+            else:
+                given = ""
+                family = raw
+        initials = initials_from_given(given)
+        variants.update({
+            f"{given} {family}".strip(),
+            f"{family} {given}".strip(),
+            f"{family}, {initials}".strip().strip(","),
+            f"{initials} {family}".strip(),
+        })
+    normalized = {normalize_name_part(variant) for variant in variants if normalize_name_part(variant)}
+    return " ".join(sorted(variants | normalized))
 
 
 # ─────────────────────────────────────────────
@@ -40,12 +87,18 @@ def build(verbose=True):
     cur.execute("DROP TABLE IF EXISTS articles")
     cur.execute("DROP TABLE IF EXISTS articles_meta")
 
-    # FTS5 虚拟表（title + abstract + authors 参与全文索引，其余字段仅存储）
+    # FTS5 虚拟表：
+    # - title / abstract / authors 保留原始展示字段
+    # - author_search / journal_search / year_search 用于科研检索模式
+    # - journal / year / doi 仅存储展示和过滤字段
     cur.execute("""
         CREATE VIRTUAL TABLE articles USING fts5(
             title,
             abstract,
             authors,
+            author_search,
+            journal_search,
+            year_search,
             journal    UNINDEXED,
             year       UNINDEXED,
             doi        UNINDEXED,
@@ -68,17 +121,28 @@ def build(verbose=True):
     # 插入数据
     rows = []
     for a in articles:
+        journal = (a.get("journal") or "").strip()
+        year = str(a.get("year") or "")
+        authors = (a.get("authors") or "").strip()
         rows.append((
             (a.get("title")    or "").strip(),
             (a.get("abstract") or "").strip(),
-            (a.get("authors")  or "").strip(),
-            (a.get("journal")  or "").strip(),
-            str(a.get("year") or ""),
+            authors,
+            build_author_search_text(authors),
+            normalize_name_part(journal),
+            year,
+            journal,
+            year,
             (a.get("doi")      or "").strip(),
         ))
 
     cur.executemany(
-        "INSERT INTO articles(title, abstract, authors, journal, year, doi) VALUES (?,?,?,?,?,?)",
+        """
+        INSERT INTO articles(
+            title, abstract, authors, author_search, journal_search, year_search,
+            journal, year, doi
+        ) VALUES (?,?,?,?,?,?,?,?,?)
+        """,
         rows
     )
 

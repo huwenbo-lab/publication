@@ -1,6 +1,6 @@
 # Chinese Journal of Sociology — 文章标题索引
 
-共 **256** 篇 | 年份范围：2015–2026
+共 **265** 篇 | 年份范围：2015–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -14,6 +14,12 @@
 - Job demands, job resources, and mental health among new graduates in China · [DOI](https://doi.org/10.1177/2057150x261428651)
 - Sex, digital media, and fertility intentions in China: A chain mediation analysis of media use and gender role attitudes · [DOI](https://doi.org/10.1177/2057150x261434703)
 - The Paris Climate Agreement and China's environmental policies: A pseudo-panel data model approach to analyzing the predictors of environmental policy intensity in China · [DOI](https://doi.org/10.1177/2057150x251410671)
+- When artificial intelligence makes everything similar: The risks of content homogenization · [DOI](https://doi.org/10.1177/2057150x261419573)
+- Born to work longer? Lifetime socioeconomic dynamics, pension eligibility, and late-life employment in urban China · [DOI](https://doi.org/10.1177/2057150x261420939)
+- Respectability and gendered-capital vulnerability: A qualitative study of second-generation women entrepreneurs in Dongguan, China · [DOI](https://doi.org/10.1177/2057150x261448693)
+- Discernible rupture and implicit continuity: The modernization of family ethics from the perspective of intergenerational co-parenting in China · [DOI](https://doi.org/10.1177/2057150x261439965)
+- Negotiating bride price in contemporary China: Gender identities, community norms, and education effects in marriage practices · [DOI](https://doi.org/10.1177/2057150x261454806)
+- The mother–daughter relationship in urban singleton-daughter families: Changing intergenerational relationships and the implications for Chinese family reinstitutionalization · [DOI](https://doi.org/10.1177/2057150x261454099)
 
 ## 2025
 
@@ -40,6 +46,7 @@
 - The modern transformation of philanthropy in China over the past four decades · [DOI](https://doi.org/10.1177/2057150X251349684)
 - The social impact of generative LLM-based AI · [DOI](https://doi.org/10.1177/2057150X251315997)
 - Toward a low-carbon economy: A study of the economy's impact on China's CO2 emissions, 1997-2021 · [DOI](https://doi.org/10.1177/2057150X251387426)
+- AI's dual impact: Transforming society and social sciences · [DOI](https://doi.org/10.1177/2057150x251316601)
 
 ## 2024
 
@@ -115,6 +122,8 @@
 - The game of popularity: The earnings system and labor control in the live streaming industry · [DOI](https://doi.org/10.1177/2057150X221090328)
 - The power of family: The impact of family culture on marriage stability in China · [DOI](https://doi.org/10.1177/2057150X211067297)
 - Widening inequality: The evolution of the motherhood penalty in China (1989-2015) · [DOI](https://doi.org/10.1177/2057150X221129343)
+- Social class differentials in marital sex in China (2000–2015) · [DOI](https://doi.org/10.1177/2057150x221107958)
+- Knowledge production and epistemic politics: A scientometric review of Chinese sexuality studies in English-language academia · [DOI](https://doi.org/10.1177/2057150x221111523)
 
 ## 2021
 

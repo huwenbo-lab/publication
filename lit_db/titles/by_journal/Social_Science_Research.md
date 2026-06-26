@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2201** 篇 | 年份范围：1972–2026
+共 **2237** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -26,6 +26,25 @@
 - The structural fit of personal gender beliefs: A cross-national analysis of its implications for life satisfaction · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103308)
 - What drives educational segregation and which communities are affected? Findings from a decomposition approach☆ · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103263)
 - Why social norms matter in science: Determinants of misconduct in German-speaking Europe · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103292)
+- State-level gender inequality and couples’ relative earnings following parenthood over four decades · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103302)
+- Childhood exposure to local wealth inequality, economic isolation in schools, and inter-class social ties in adulthood · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103355)
+- Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024 · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103347)
+- Socioeconomic divides in curricular pathways: Unpacking decision-making mechanisms and peer effects · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103359)
+- Gendered work and family trajectories: How do STEM graduates fare in the labor market? · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103345)
+- Employment stability and social origin: Cumulative advantages in young adults’ homeownership and financial asset accumulation · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103369)
+- A Schumpeter hotel? Surname status inequality and persistence in Sweden, 1880–2015 · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103367)
+- The good, the bad, and the healthy: A factorial survey analysis of situational morality in consumption and healthcare · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103378)
+- Toward a formal sociological model of partner search · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103356)
+- Regrets, she's had a few: Gender and regret of computer science and engineering degrees · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103298)
+- When categories change value: How new educational resources reshape patterns of inequality · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103310)
+- Do geopolitical tensions increase negative attitudes toward minorities? Evidence from a natural experiment in India · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103323)
+- The intergenerational mobility advantage of educators’ children: Capital embedded in occupations · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103388)
+- Criminal legal contact, labor market insecurity and labor market participation · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103321)
+- Catalysts and buffers: How diversity and status in social networks shape attitudes towards inequality in contemporary societies · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103389)
+- Americans' views of religion in public life: The effect of three cultural models on attitudes toward religious and nonreligious groups · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103393)
+- Horizontal stratification and educational homogamy in South Korea: Marriage patterns and preferences across elite- and non-elite university graduates · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103386)
+- Educational attainment, gender, and the change in access to schedule flexibility in Europe and the United States · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103309)
+- Workers, jobs, and how they are matched: A decomposition of US labor market trends in educational mismatch · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103311)
 
 ## 2025
 
@@ -399,6 +418,7 @@
 - Women's employment and Children's education: Longitudinal evidence from Nepal · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102669)
 - Work-family conflict and depressive symptoms among dual-earner couples in Germany: A dyadic and longitudinal analysis · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102684)
 - Worlds of distributive justice preferences: Individual- and country-level profiles of support for equality, equity and need · [DOI](https://doi.org/10.1016/j.ssresearch.2022.102721)
+- Higher education non-completion, employers, and labor market integration: Experimental evidence · [DOI](https://doi.org/10.1016/j.ssresearch.2022.102696)
 
 ## 2021
 
@@ -2276,6 +2296,7 @@
 ## 1998
 
 - The Academic Success of East-Asian–American Students—An Investment Model · [DOI](https://doi.org/10.1006/ssre.1998.0629)
+- Windows on Divorce: Before and after · [DOI](https://doi.org/10.1006/ssre.1998.0625)
 
 ## 1997
 
@@ -2285,10 +2306,12 @@
 ## 1996
 
 - The Effect of Military Service on Educational, Occupational, and Income Attainment · [DOI](https://doi.org/10.1006/ssre.1996.0001)
+- Internationally Comparable Measures of Occupational Status for the 1988 International Standard Classification of Occupations · [DOI](https://doi.org/10.1006/ssre.1996.0010)
 
 ## 1995
 
 - A Resource Dependence Approach To Organizational Failure · [DOI](https://doi.org/10.1006/ssre.1995.1002)
+- Intergenerational Transmission of Political Party Preference in the Netherlands · [DOI](https://doi.org/10.1006/ssre.1995.1009)
 
 ## 1994
 
@@ -2303,10 +2326,14 @@
 ## 1992
 
 - A standard international socio-economic index of occupational status · [DOI](https://doi.org/10.1016/0049-089x(92)90017-b)
+- Education, control at work, and job satisfaction · [DOI](https://doi.org/10.1016/0049-089x(92)90012-6)
 
 ## 1991
 
 - Estimating the size of an average personal network and of an event subpopulation: Some empirical results · [DOI](https://doi.org/10.1016/0049-089x(91)90012-r)
+- Leaving the faith: Testing theories of religious switching using survival models · [DOI](https://doi.org/10.1016/0049-089x(91)90015-u)
+- Why do married men earn more than unmarried men? · [DOI](https://doi.org/10.1016/0049-089x(91)90002-k)
+- Density dependence in the organizational evolution of the American brewing industry across different levels of analysis · [DOI](https://doi.org/10.1016/0049-089x(91)90008-q)
 
 ## 1989
 
@@ -2315,10 +2342,20 @@
 ## 1988
 
 - Estimation and hypothesis testing for seemingly unrelated regressions: A sociological application · [DOI](https://doi.org/10.1016/0049-089x(88)90010-5)
+- Conjoint scaling of the utility of money using paired comparisons · [DOI](https://doi.org/10.1016/0049-089x(88)90017-8)
+
+## 1987
+
+- Measuring the process of role change during the transition to adulthood · [DOI](https://doi.org/10.1016/0049-089x(87)90017-2)
 
 ## 1986
 
 - Bilingualism and Hispanic scholastic achievement: Some baseline results · [DOI](https://doi.org/10.1016/0049-089x(86)90003-7)
+- Language skills and school achievement of bilingual Hispanics · [DOI](https://doi.org/10.1016/0049-089x(86)90006-2)
+
+## 1981
+
+- Durkheim and pierce on suicide and economic change · [DOI](https://doi.org/10.1016/0049-089x(81)90001-6)
 
 ## 1979
 
@@ -2327,7 +2364,21 @@
 ## 1978
 
 - Sex similarities in occupational status attainment: Are the results due to the restriction of the sample to employed women? · [DOI](https://doi.org/10.1016/0049-089x(78)90011-x)
+- Interorganizational resource networks: Formal patterns of overlap · [DOI](https://doi.org/10.1016/0049-089x(78)90006-6)
+
+## 1977
+
+- Body time and social time: Mood patterns by menstrual cycle phase and day of the week · [DOI](https://doi.org/10.1016/0049-089x(77)90013-8)
+
+## 1976
+
+- Season's greetings: From my status to yours · [DOI](https://doi.org/10.1016/0049-089x(76)90003-x)
+
+## 1973
+
+- On the social structure of an ocean-going research vessel and other important things · [DOI](https://doi.org/10.1016/0049-089x(73)90016-1)
 
 ## 1972
 
 - A lower-bound method for the dimension-free measurement of internal consistency · [DOI](https://doi.org/10.1016/0049-089x(72)90082-8)
+- The size of national assemblies · [DOI](https://doi.org/10.1016/0049-089x(72)90084-1)

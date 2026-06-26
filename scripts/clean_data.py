@@ -152,7 +152,6 @@ DELETE_TITLE_PATTERNS = [
     r'^references\s*$',
     r'^appendix\s*$',
     r'^chapter\s+\d+\b',
-    r'^part\s+[ivxlcdm]+\b',
     r'^general\s+conclusions?\b',
     r'^index\s+(to\s+|$)',                  # 期刊年度索引
     r'^index\s+to\s+volume\b',

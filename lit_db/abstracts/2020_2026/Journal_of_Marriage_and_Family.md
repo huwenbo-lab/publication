@@ -1,7 +1,7 @@
 # Journal of Marriage and Family
 ## 2020–2026 年文章（含摘要）
 
-共 **532** 篇
+共 **537** 篇
 
 ---
 
@@ -14,6 +14,26 @@
 **年份**: 2026 | **DOI**: [10.1111/jomf.70056](https://doi.org/10.1111/jomf.70056)
 **作者**: (Anne) Brons, M. D.; Kalmijn, Matthijs; Poortman, Anne‐Rigt
 **摘要**: ABSTRACT Objective This study investigates the association between mothers' socioeconomic status (SES) and joint physical custody among children, focusing on how the SES gradient in joint physical custody relates to its country‐specific prevalence.…
+
+### Life Course Changes in the Geographical Distance Between Adult Children of Immigrants and Their Parents: The Role of Partnership Formation and Dissolution
+**年份**: 2026 | **DOI**: [10.1111/jomf.70074](https://doi.org/10.1111/jomf.70074)
+**作者**: Pertzikovitz, Alon; Kalmijn, Matthijs; Das, Marjolijn 等4人
+**摘要**: ABSTRACT Objective This study explores how geographical distance between adult children of immigrants and their parents changes in response to partnership formation and partnership dissolution. Background Geographical distance between generations is a key factor in intergenerational support.…
+
+### Attractiveness for Status? The Link Between Physical Attractiveness and Male Refugees' Romantic Relationships in Germany
+**年份**: 2026 | **DOI**: [10.1111/jomf.70085](https://doi.org/10.1111/jomf.70085)
+**作者**: Kogan, Irena; Kuhlemann, Jana; Schmitt, Laura Marie
+**摘要**: ABSTRACT Objective This study examines the link between physical attractiveness and partnership outcomes among a group of young male refugees, drawing on Social Exchange Theory, which posits that individuals exchange valued traits—such as attractiveness—for higher status in other domains.…
+
+### Early Labor Market Outcomes of Young Adults From Same‐Sex Families: Evidence From Population Data
+**年份**: 2026 | **DOI**: [10.1111/jomf.70079](https://doi.org/10.1111/jomf.70079)
+**作者**: Palmaccio, Silvia; Mazrekaj, Deni; De Witte, Kristof
+**摘要**: ABSTRACT Objective This study offers the first population‐based evidence on how young adults from same‐sex families fare when entering the labor market shortly after leaving full‐time education. Background Same‐sex couples' parenting rights remain controversial in many countries.…
+
+### Impact of Sibling Death in Midlife on Tension Among Surviving Siblings
+**年份**: 2026 | **DOI**: [10.1111/jomf.70083](https://doi.org/10.1111/jomf.70083)
+**作者**: Suitor, J. Jill; Frase, Robert T.; Gilligan, Megan 等6人
+**摘要**: ABSTRACT Objective This study investigates changes in sibling tension following the deaths of sibship members in midlife, as well as the processes underlying these changes, particularly as they vary by the gender of the deceased sibling.…
 
 ### A Brief Report Comparing Younger and Older Cohabitors
 **年份**: 2025 | **DOI**: [10.1111/jomf.13128](https://doi.org/10.1111/jomf.13128)
@@ -1869,6 +1889,11 @@
 **年份**: 2022 | **DOI**: [10.1111/jomf.12866](https://doi.org/10.1111/jomf.12866)
 **作者**: Reyna, Chandra V.
 **摘要**: Objective This study examines thematic content and discourse surrounding multiracial socialization between Black and non-Black multiracial families on multiracial mommy blogs. Background Mommy blogs have been recognized as a medium through which mothers challenge dominant representations of motherho…
+
+### Converging trends in developmental child care time by fathers' education? Comment on Cha and Park (2021)
+**年份**: 2022 | **DOI**: [10.1111/jomf.12889](https://doi.org/10.1111/jomf.12889)
+**作者**: Gao, Melody Ge
+**摘要**: AbstractObjectiveThis comment uses more recently available data to examine the robustness of the converging trends in developmental child care time by parental education argued by Cha & Park (2021, Journal of Marriage and Family, 83, 769–785).BackgroundDrawing on the 2003–2017 American Time Use Surv…
 
 ### #HealthyDads: Fit Fathering Discourse and Digital Health Promotion in Dad Blogs
 **年份**: 2021 | **DOI**: [10.1111/jomf.12743](https://doi.org/10.1111/jomf.12743)

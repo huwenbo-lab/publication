@@ -1,9 +1,34 @@
 # Annual Review of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **108** 篇
+共 **126** 篇
 
 ---
+
+### Discrimination and Health Inequalities
+**年份**: 2026 | **DOI**: [10.1146/annurev-soc-031324-114207](https://doi.org/10.1146/annurev-soc-031324-114207)
+**作者**: Aranguren, Martin
+**摘要**: Although theory suggests that discrimination generates health inequalities in a variety of ways, research today concentrates almost exclusively on one particular mechanism: the conscious experience of unfair treatment, often termed “perceived discrimination.” To rethink perceived discrimination as o…
+
+### Sending Money Home: Understanding the Social Dynamics of Migrant Remittances
+**年份**: 2026 | **DOI**: [10.1146/annurev-soc-031324-111448](https://doi.org/10.1146/annurev-soc-031324-111448)
+**作者**: Mahmud, Hasan; Zhou, Min
+**摘要**: This article synthesizes major strands of scholarship on migrant remittances, addressing the central question of what motivates migrants to remit and how these motivations vary across social, temporal, and structural contexts.…
+
+### Luck and Predictability in the Life Course
+**年份**: 2026 | **DOI**: [10.1146/annurev-soc-031324-115112](https://doi.org/10.1146/annurev-soc-031324-115112)
+**作者**: van de Rijt, Arnout; Bernardi, Fabrizio; Foley, William 等4人
+**摘要**: There is an emerging recognition among sociological theorists that luck may play a substantial role in life course achievement. There is also a nascent empirical literature that finds life outcomes to be unpredictable and unexpected life events to be a likely cause.…
+
+### The Architecture of Global Capital: Elites, States, and the New Geography of Wealth
+**年份**: 2026 | **DOI**: [10.1146/annurev-soc-031524-105759](https://doi.org/10.1146/annurev-soc-031524-105759)
+**作者**: Hoang, Kimberly Kay; Biron-Boileau, Camille
+**摘要**: This article reviews the sociological and interdisciplinary literature on the global architecture of elite wealth, emphasizing structural transformations in the global political economy following the 2008 financial crisis.…
+
+### Qualitative Research in an Era of Artificial Intelligence: A Pragmatic Approach to Data Analysis, Workflow, and Computation
+**年份**: 2026 | **DOI**: [10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
+**作者**: Abramson, Corey M.; Prendergast, Tara; Li, Zhuofan 等4人
+**摘要**: Computational developments—particularly artificial intelligence—are reshaping social scientific research and raising new questions for in-depth methods such as ethnography and qualitative interviewing.…
 
 ### Advancing the Scientific Study of Structural Racism: Concepts, Measures, and Methods
 **年份**: 2025 | **DOI**: [10.1146/annurev-soc-090924-021305](https://doi.org/10.1146/annurev-soc-090924-021305)
@@ -125,6 +150,41 @@
 **作者**: Faber, Jacob William; Drummond, Jocelyn Pak
 **摘要**: In the thirty years since Massey and Denton's American Apartheid, sociological scholarship on segregation has proliferated, calling attention to the ways in which the social geography of the United States both drives and is shaped by racial and economic inequality.…
 
+### Thinking Like a Feminist: What Feminist Theory Has to Offer Sociology
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-031021-040911](https://doi.org/10.1146/annurev-soc-031021-040911)
+**作者**: Salzinger, Leslie; Gonsalves, Tara
+**摘要**: What does feminist theory have to offer sociology? Defining feminist theory as work that problematizes the gender binary and the relations of domination that constitute and emerge from it, we explore four key aspects of feminist scholarship.…
+
+### The Sociology of Interpretation
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-020321-030515](https://doi.org/10.1146/annurev-soc-020321-030515)
+**作者**: Goldberg, Amir; Singell, Madison H.
+**摘要**: Recent years have seen a growing sociological interest in meaning. In fact, some argue that sociology cannot confront its foundational questions without addressing meaning. Yet sociologists mean many things when they talk about meaning.…
+
+### How Threat Mobilizes the Resurgence and Persistence of US White Supremacist Activism: The 1980s to the Present
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-031021-112151](https://doi.org/10.1146/annurev-soc-031021-112151)
+**作者**: Simi, Pete; Futrell, Robert; Burston, Adam
+**摘要**: Despite a centuries-long history of violent mobilization, white supremacist activism (WSA) has received relatively little sociological attention outside a small, specialized subfield.…
+
+### Online Illegal Cryptomarkets
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-090523-052916](https://doi.org/10.1146/annurev-soc-090523-052916)
+**作者**: Haynie, Dana L.; Duxbury, Scott W.
+**摘要**: Cryptomarkets—online markets for illegal goods—have revolutionized the illegal drug trade, constituting about 10% of all drug trades and attracting users to a greater variety of and more addictive substances than available in offline drug markets.…
+
+### “Which Cases Do I Need?” Constructing Cases and Observations in Qualitative Research
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-031021-035000](https://doi.org/10.1146/annurev-soc-031021-035000)
+**作者**: Collins, Caitlyn; Neely, Megan Tobias; Khan, Shamus
+**摘要**: This methodological review starts one step before Small's classic account of how many cases a scholar needs. We ask, “Which cases do I need?” We argue that a core feature of most qualitative research is case construction, which we define as the delineation of a social category of inquiry.…
+
+### Conservatism, the Far Right, and the Environment
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-083023-035225](https://doi.org/10.1146/annurev-soc-083023-035225)
+**作者**: Bryant, Jesse Callahan; Farrell, Justin
+**摘要**: Sociology operates with an impoverished understanding of conservatism and the natural environment. The discipline's focus on antiregulatory and antiscience dimensions of conservative politics can obscure a more comprehensive, historically deep, and theoretically rich understanding of conservatism's …
+
+### A Sociology of Real Estate: Polanyi, Du Bois, and the Relational Study of Commodified Land in a Climate-Changed Future
+**年份**: 2024 | **DOI**: [10.1146/annurev-soc-033022-035124](https://doi.org/10.1146/annurev-soc-033022-035124)
+**作者**: Besbris, Max; Robinson, John N.; Angelo, Hillary
+**摘要**: Real estate plays an essential part in various sociological theories of political economy, state capacity, racecraft, stratification, and urbanization. However, since foundational insights about the novelty of commodified, emplaced private property from theorists like Du Bois and Polanyi, these disp…
+
 ### Expanding Notions of LGBTQ+
 **年份**: 2023 | **DOI**: [10.1146/annurev-soc-030320-032256](https://doi.org/10.1146/annurev-soc-030320-032256)
 **作者**: Russell, Stephen T.; Bishop, Meg D.; Fish, Jessica N.
@@ -144,6 +204,31 @@
 **年份**: 2023 | **DOI**: [10.1146/annurev-soc-030420-015345](https://doi.org/10.1146/annurev-soc-030420-015345)
 **作者**: Brand, Jennie E.; Zhou, Xiang; Xie, Yu
 **摘要**: This article reviews recent advances in causal inference relevant to sociology. We focus on a selective subset of contributions aligning with four broad topics: causal effect identification and estimation in general, causal effect heterogeneity, causal effect mediation, and temporal and spatial inte…
+
+### What Makes Weak Ties Strong?
+**年份**: 2023 | **DOI**: [10.1146/annurev-soc-030921-034152](https://doi.org/10.1146/annurev-soc-030921-034152)
+**作者**: Kim, Minjae; Fernandez, Roberto M.
+**摘要**: We raise two challenges concerning the validity of arguments underlying Granovetter's strength of weak ties (SWT) thesis: ( a) whether weak ties are actually bridges, i.e., they help reach more socially distant actors than strong ties, and ( b) whether weak ties transmit information effectively enou…
+
+### The Social Construction of Age: Concepts and Measurement
+**年份**: 2023 | **DOI**: [10.1146/annurev-soc-031021-121020](https://doi.org/10.1146/annurev-soc-031021-121020)
+**作者**: Johfre, Sasha; Saperstein, Aliya
+**摘要**: Age as an individual characteristic is ubiquitous in social science research because it has important associations with numerous outcomes of interest. Yet age is rarely treated as a phenomenon that requires explanation or theoretical attention.…
+
+### The Legitimacy of Science
+**年份**: 2023 | **DOI**: [10.1146/annurev-soc-030320-035037](https://doi.org/10.1146/annurev-soc-030320-035037)
+**作者**: Gauchat, Gordon W.
+**摘要**: The ongoing pandemic and quickening climate crisis make it difficult to overstate the significance of science and science policy to our world. These global catastrophes have laid bare the fragility of science's legitimacy and its dependence on broader cultural understandings and institutional norms.…
+
+### Social Consequences of Forced and Refugee Migration
+**年份**: 2023 | **DOI**: [10.1146/annurev-soc-090221-040023](https://doi.org/10.1146/annurev-soc-090221-040023)
+**作者**: Kraly, Ellen Percy; Abbasi-Shavazi, Mohammad Jalal; Torres Colón, Lorraine Lizbeth 等4人
+**摘要**: This review considers sociological perspectives and research on the outcomes and implications of forced and refugee migration for migrants and communities of settlement. Analytic constraints and opportunities posed by concepts of forced and refugee migration and migrants for empirical research are u…
+
+### Critical Race Theory: Confronting, Challenging, and Rethinking White Privilege
+**年份**: 2023 | **DOI**: [10.1146/annurev-soc-031021-123710](https://doi.org/10.1146/annurev-soc-031021-123710)
+**作者**: Bhopal, Kalwant
+**摘要**: The term “White privilege” has been used to denote specific privileges that White groups possess due to their Whiteness and White identity. In this article, firstly, I outline how, as a conceptual tool, White privilege can only be understood in relation to Critical Race Theory, specifically the noti…
 
 ### Accounting for Credit
 **年份**: 2022 | **DOI**: [10.1146/annurev-soc-030320-114444](https://doi.org/10.1146/annurev-soc-030320-114444)
@@ -239,6 +324,11 @@
 **年份**: 2022 | **DOI**: [10.1146/annurev-soc-030420-122027](https://doi.org/10.1146/annurev-soc-030420-122027)
 **作者**: Lens, Michael C.
 **摘要**: Zoning determines what can be built where, and is ubiquitous in the United States. Low-density residential zoning predominates in US cities far more than in other countries, limiting housing opportunities for those who cannot afford large homes.…
+
+### Measuring Women's Empowerment in the Global South
+**年份**: 2022 | **DOI**: [10.1146/annurev-soc-030420-015018](https://doi.org/10.1146/annurev-soc-030420-015018)
+**作者**: Desai, Sonalde; Chen, Feinian; Reddy, Shilpa 等4人
+**摘要**: Over the past two decades, we have seen an explosion in research on the topic of women's empowerment and its related dimensions, yet there remains much to be done in terms of clarifying conceptual pathways and best practices in measurement.…
 
 ### A Retrospective on Fundamental Cause Theory: State of the Literature and Goals for the Future
 **年份**: 2021 | **DOI**: [10.1146/annurev-soc-090320-094912](https://doi.org/10.1146/annurev-soc-090320-094912)

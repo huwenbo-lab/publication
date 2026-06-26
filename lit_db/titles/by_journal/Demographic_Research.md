@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1830** 篇 | 年份范围：1999–2026
+共 **1862** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -8,6 +8,24 @@
 ## 2026
 
 - The groupwise decomposition: Estimating group-specific contributions to differences between demographic measures · [DOI](https://doi.org/10.4054/demres.2026.54.14)
+- Settlement intentions of Ukrainian refugees in Germany: Adhering to social status back home or restarting again abroad? · [DOI](https://doi.org/10.4054/demres.2026.54.16)
+- Spatial perspective on environmental migration: Empirical insights from a spatiotemporal approach in the United States, 1970–2010 · [DOI](https://doi.org/10.4054/demres.2026.54.27)
+- Bayesian multidimensional mortality reconstruction · [DOI](https://doi.org/10.4054/demres.2026.54.28)
+- Partnership life courses and completed fertility in Spain · [DOI](https://doi.org/10.4054/demres.2026.54.29)
+- “Family-Anchored” transitions to adult life in Mexico · [DOI](https://doi.org/10.4054/demres.2026.54.2)
+- Probabilistic population forecasts for small regions · [DOI](https://doi.org/10.4054/demres.2026.54.23)
+- Economic insecurity and material deprivation: Coping strategies among couple families with and without small children in Europe · [DOI](https://doi.org/10.4054/demres.2026.54.25)
+- The ratio of births observed to births needed: An indicator to assess demographic sustainability · [DOI](https://doi.org/10.4054/demres.2026.54.30)
+- The European Parenting Leave Policies (EPLP) dataset: Leave duration entitlements for 21 countries from 1970 to 2024 · [DOI](https://doi.org/10.4054/demres.2026.54.31)
+- Formatting the two-step gender measure: Experimental insights from the United States · [DOI](https://doi.org/10.4054/demres.2026.54.35)
+- The power of inclusive labor force participation for mitigating population aging: Closing gaps at the intersection between race/ethnicity and gender in the United States · [DOI](https://doi.org/10.4054/demres.2026.54.33)
+- Economic resources and parity among US women: A conjoint experiment on preferred family scenarios · [DOI](https://doi.org/10.4054/demres.2026.54.34)
+- Revisiting the association between women’s employment and separation: An analysis of harmonised longitudinal surveys in six countries · [DOI](https://doi.org/10.4054/demres.2026.54.32)
+- Housing changes of immigrants and their descendants using long-term census panel data from England and Wales · [DOI](https://doi.org/10.4054/demres.2026.54.36)
+- Partnering in turbulent times: Hooking up, dating, and romantic relationship formation in college, 2019–2024 · [DOI](https://doi.org/10.4054/demres.2026.54.37)
+- Educational differences in fertility recuperation: The role of partnership trajectories in Spain · [DOI](https://doi.org/10.4054/demres.2026.54.38)
+- Collecting data on HIV/AIDS mortality during household surveys: A randomized validation study in Malawi · [DOI](https://doi.org/10.4054/demres.2026.54.41)
+- Fertility timing and the birth squeeze · [DOI](https://doi.org/10.4054/demres.2026.54.40)
 
 ## 2025
 
@@ -81,6 +99,9 @@
 - Unpacking the black box of latent class analysis using qualitative life history interviews: A data-linked explanatory approach examining sexual behavior in rural South Africa · [DOI](https://doi.org/10.4054/DemRes.2025.53.13)
 - Using sequence analysis to visualize exposure to pregnancy in the postpartum period · [DOI](https://doi.org/10.4054/DemRes.2025.53.1)
 - Where do we go from here? Partnership-parenthood trajectories of cohabitation as first union during young adulthood in the United States · [DOI](https://doi.org/10.4054/DemRes.2025.53.9)
+- The changing inter-relationship between partnership dynamics and fertility trends in Europe and the United States: A review · [DOI](https://doi.org/10.4054/demres.2025.52.7)
+- Unrealized fertility in demography · [DOI](https://doi.org/10.4054/demres.2025.53.36)
+- Family and social resilience: A scoping review of the empirical literature · [DOI](https://doi.org/10.4054/demres.2025.52.27)
 
 ## 2024
 
@@ -527,6 +548,7 @@
 - Who responds to fertility-boosting incentives? Evidence from pro-natal policies in Australia · [DOI](https://doi.org/10.4054/DemRes.2020.42.18)
 - Women's employment and fertility in a global perspective (1960-2015) · [DOI](https://doi.org/10.4054/DemRes.2020.43.25)
 - Young women's joint relationship, sex, and contraceptive trajectories: Evidence from the United States · [DOI](https://doi.org/10.4054/demres.2020.42.34)
+- Estimation of older adult mortality from imperfect data: A comparative review of methods using Burkina Faso censuses · [DOI](https://doi.org/10.4054/demres.2020.43.38)
 
 ## 2019
 
@@ -747,6 +769,7 @@
 - WhatsApp usage patterns and prediction of demographic characteristics without access to message content · [DOI](https://doi.org/10.4054/DemRes.2018.39.22)
 - When working isn't enough: Family demographic processes and in-work poverty across the life course in the United States · [DOI](https://doi.org/10.4054/DemRes.2018.39.12)
 - Why does women's education stabilize marriages? The role of marital attraction and barriers to divorce · [DOI](https://doi.org/10.4054/DemRes.2018.38.41)
+- Using census data to measure maternal mortality: A review of recent experience · [DOI](https://doi.org/10.4054/demres.2018.39.11)
 
 ## 2017
 
@@ -970,6 +993,8 @@
 - What drives Senegalese migration to Europe? The role of economic restructuring, labor demand, and the multiplier effect of networks · [DOI](https://doi.org/10.4054/DemRes.2016.35.13)
 - Who brings home the bacon? The influence of context on partners' contributions to the household income · [DOI](https://doi.org/10.4054/DemRes.2016.35.41)
 - Why does fertility remain high among certain UK-born ethnic minority women? · [DOI](https://doi.org/10.4054/DemRes.2016.35.49)
+- Loss aversion and duration of residence · [DOI](https://doi.org/10.4054/demres.2016.35.36)
+- Gender Inequalities in Employment and Wage-earning among Economic Migrants in Chinese Cities · [DOI](https://doi.org/10.4054/demres.2016.34.6)
 
 ## 2015
 
@@ -1041,6 +1066,13 @@
 - Union formation and dissolution among immigrants and their descendants in the United Kingdom · [DOI](https://doi.org/10.4054/DemRes.2015.33.10)
 - What does living alone really mean for older persons? A comparative study of Myanmar, Vietnam, and Thailand · [DOI](https://doi.org/10.4054/DemRes.2015.32.48)
 - Which transition comes first? Urban and demographic transitions in Belgium and Sweden · [DOI](https://doi.org/10.4054/DemRes.2015.33.48)
+- Migration signatures across the decades · [DOI](https://doi.org/10.4054/demres.2015.32.38)
+- Sibship size and height before, during, and after the fertility decline · [DOI](https://doi.org/10.4054/demres.2015.32.2)
+- Traditional and modern cohabitation in Latin America · [DOI](https://doi.org/10.4054/demres.2015.32.32)
+- The timing of family commitments in the early work career · [DOI](https://doi.org/10.4054/demres.2015.32.22)
+- Europe-wide fertility trends since the 1990s: Turning the corner from declining first birth rates · [DOI](https://doi.org/10.4054/demres.2015.32.21)
+- Working with teams of "insiders" · [DOI](https://doi.org/10.4054/demres.2015.32.12)
+- The future size of religiously affiliated and unaffiliated populations · [DOI](https://doi.org/10.4054/demres.2015.32.27)
 
 ## 2014
 

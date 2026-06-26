@@ -1,6 +1,6 @@
 # Journal of Family Theory & Review — 文章标题索引
 
-共 **732** 篇 | 年份范围：2009–2026
+共 **753** 篇 | 年份范围：2009–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -21,6 +21,27 @@
 - The Grandparent–Grandchild Relationship and Grandchildren's Developmental Outcomes: A Systematic Review With Meta‐Analysis · [DOI](https://doi.org/10.1111/jftr.70045)
 - The Intersectional Theory of Planned Behavior: Transforming Financial Behavior Theory for Contemporary Families · [DOI](https://doi.org/10.1111/jftr.70046)
 - Vernacularizing the Best Interests of the Child: Comparative Insights From Three Legal Systems · [DOI](https://doi.org/10.1111/jftr.70043)
+- Are We Willing to Change? A Feminist Agenda for the Study of Men in Families · [DOI](https://doi.org/10.1111/jftr.70061)
+- A Comprehensive Mapping of Intergenerational Caregiving: A Scoping Review of Dyadic and Family Caregiving · [DOI](https://doi.org/10.1111/jftr.70067)
+- Couple Dynamics Following Brain Cancer Diagnosis: A Scoping Review · [DOI](https://doi.org/10.1111/jftr.70060)
+- Effects of Paternal Unemployment on Family Dynamics and Well‐Being: A Systematic Review · [DOI](https://doi.org/10.1111/jftr.70069)
+- Cooperative Rearing and Low Fertility Persistence: A Two‐Constraint Theoretical Framework · [DOI](https://doi.org/10.1111/jftr.70062)
+- Family Gerontology, Fatherhood, and Masculinity: Enduring Impacts of Fathers and Adult Children · [DOI](https://doi.org/10.1111/jftr.70068)
+- Adolescence: A Critical Media Review · [DOI](https://doi.org/10.1111/jftr.70059)
+- Reconfiguring Gendered Power in Families Through Men's Emotions · [DOI](https://doi.org/10.1111/jftr.70064)
+- Doing Parenting: Critical Approaches to the Study of Mothering and Fathering · [DOI](https://doi.org/10.1111/jftr.70066)
+- Discovering Legacies: Fathers, Sons, Masculinities, and Equity Within Families · [DOI](https://doi.org/10.1111/jftr.70052)
+- Constructing Meaning in Digital Lives: A Theory‐Driven and Practical Approach to Using Online Forums in Family Science · [DOI](https://doi.org/10.1111/jftr.70057)
+- Critical Masculinities in Families: Situating the Special Issue · [DOI](https://doi.org/10.1111/jftr.70071)
+- Parental Racial–Ethnic Socialization in the Early Years: A Scoping Review · [DOI](https://doi.org/10.1111/jftr.70051)
+- Masculinity Development in the Manosphere: An Ecological Systems Perspective · [DOI](https://doi.org/10.1111/jftr.70065)
+- How to Study Family Learning Practices Mediated by Digital Platforms: A Scoping Review · [DOI](https://doi.org/10.1111/jftr.70063)
+- Bringing Critical Femininities Into Conversation With Critical Masculinities in Family Science: Extending the Case for Using Femme Theory · [DOI](https://doi.org/10.1111/jftr.70070)
+- Marginalized and Protest Masculinities: Conceptualizing Racism for Black Men in Families · [DOI](https://doi.org/10.1111/jftr.70072)
+- Disciplinary Systems Theory: A Bibliometric Review of Scholarly Interdisciplinarity in Human Development and Family Science · [DOI](https://doi.org/10.1111/jftr.70074)
+- Gray Divorce After 50: A Scoping Review of Antecedents, Consequences, and Family‐Theoretical Gaps · [DOI](https://doi.org/10.1111/jftr.70078)
+- The Social‐Ecological Model of Military Family Financial Well‐Being · [DOI](https://doi.org/10.1111/jftr.70076)
+- From Family to Death: Murder‐Suicide Incidents in an Interdisciplinary Perspective · [DOI](https://doi.org/10.1111/jftr.70077)
 
 ## 2025
 

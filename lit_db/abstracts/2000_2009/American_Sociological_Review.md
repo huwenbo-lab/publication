@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2000–2009 年文章（含摘要）
 
-共 **359** 篇
+共 **374** 篇
 
 ---
 
@@ -390,6 +390,11 @@
 **作者**: Gartner, Scott Sigmund
 **摘要**: Although played out on a global stage, 9/11 and the Iraq War represent highly personal events for those connected to the victims. A social tie to a conflict casualty transforms abstract costs into a vivid personal experience that increases the likelihood an individual disapproves of the president.…
 
+### The Integration of Genetic Propensities into Social-Control Models of Delinquency and Violence among Male Youths
+**年份**: 2008 | **DOI**: [10.1177/000312240807300402](https://doi.org/10.1177/000312240807300402)
+**作者**: Guo, Guang; Roettger, Michael E.; Cai, Tianji
+**摘要**: This study, drawing on approximately 1,100 males from the National Longitudinal Study of Adolescent Health, demonstrates the importance of genetics, and genetic-environmental interactions, for understanding adolescent delinquency and violence.…
+
 ### African American, Hispanic, and white beliefs about black/white inequality, 1977-2004
 **年份**: 2007 | **DOI**: [10.1177/000312240707200304](https://doi.org/10.1177/000312240707200304)
 **作者**: Hunt, Matthew O.
@@ -770,6 +775,21 @@
 **作者**: Elwert, F; Christakis, NA
 **摘要**: The health effects of marital status are frequently cited in the current debate on marriage promotion, but little is known about how marital health effects vary across groups. This article assembles the largest properly longitudinal and nationally representative dataset of elderly married couples in…
 
+### Cultural Assets or Structural Advantages in Numbers Gambling?
+**年份**: 2006 | **DOI**: [10.1177/000312240607100107](https://doi.org/10.1177/000312240607100107)
+**作者**: Lee, Jennifer
+**摘要**: （暂无）
+
+### Free-Market and Religious Fundamentalists versus Poor Relief
+**年份**: 2006 | **DOI**: [10.1177/000312240607100309](https://doi.org/10.1177/000312240607100309)
+**作者**: Hicks, Alexander
+**摘要**: （暂无）
+
+### The Dynamics of Economic Disadvantage and Children's Life Chances
+**年份**: 2006 | **DOI**: [10.1177/000312240607100507](https://doi.org/10.1177/000312240607100507)
+**作者**: Wagmiller, Robert L.; Lennon, Mary Clare; Kuang, Li 等5人
+**摘要**: Recent research suggests that child well-being and subsequent status attainment are influenced not only by the duration of exposure to economic disadvantage during childhood, but also by the timing and sequencing of exposure.…
+
 ### A clash of capitalisms: Foreign shareholders and corporate restructuring in 1990s Japan
 **年份**: 2005 | **DOI**: [10.1177/000312240507000305](https://doi.org/10.1177/000312240507000305)
 **作者**: Ahmadjian, CL; Robbins, GE
@@ -924,6 +944,16 @@
 **年份**: 2005 | **DOI**: [10.1177/000312240507000303](https://doi.org/10.1177/000312240507000303)
 **作者**: Yakubovich, V
 **摘要**: In 1973 Granovetter formulated the strength-of-weak-ties hypothesis (SWT), which became the foundation of a vast sociological literature on social networks in labor markets. Until now, SWT has never been directly tested but treated instead as a surrogate for the relationship between an actor's netwo…
+
+### Civic Associations and Authoritarian Regimes in Interwar Europe: Italy and Spain in Comparative Perspective
+**年份**: 2005 | **DOI**: [10.1177/000312240507000205](https://doi.org/10.1177/000312240507000205)
+**作者**: Riley, Dylan
+**摘要**: What is the relationship between civic associations and authoritarian regimes? While Tocquevillian theories have concentrated mostly on the connection between civic associationism and democracy, this article develops a Gramscian approach, suggesting that a strong associational sphere can facilitate …
+
+### Constructing Social Problems in an Age of Globalization: A French-American Comparison
+**年份**: 2005 | **DOI**: [10.1177/000312240507000203](https://doi.org/10.1177/000312240507000203)
+**作者**: Benson, Rodney; Saguy, Abigail C.
+**摘要**: Despite growing academic interest in political and cultural globalization, sociologists have failed to systematically account for the factors that favor cross-national convergence or divergence in the form or content of public political debates in news media.…
 
 ### Abortion, race, and gender in nineteenth-century America
 **年份**: 2004 | **DOI**: [10.1177/000312240406900402](https://doi.org/10.1177/000312240406900402)
@@ -1100,6 +1130,11 @@
 **作者**: Soule, SA; Olzak, S
 **摘要**: Data on the state-level ERA ratification process are used here to address leading theoretical debates about the role of social movements, public opinion, and political climate on policy outcomes, the goal being to test the claim that these factors depend on each other Social movement organizations, …
 
+### The Political Economy of Imprisonment in Affluent Western Democracies, 1960—1990
+**年份**: 2004 | **DOI**: [10.1177/000312240406900309](https://doi.org/10.1177/000312240406900309)
+**作者**: Sutton, John R.
+**摘要**: （暂无）
+
 ### A formalization and test of the religious economies model
 **年份**: 2003 | **DOI**: [10.2307/1519762](https://doi.org/10.2307/1519762)
 **作者**: Montgomery, JD
@@ -1114,11 +1149,6 @@
 **年份**: 2003 | **DOI**: [10.2307/1519742](https://doi.org/10.2307/1519742)
 **作者**: Rosental, C
 **摘要**: This study examines the concrete modalities of the production and recognition of a specific logical theorem in the field of artificial intelligence in the 1990s. Ethnographic observations, interviews, and textual analysis, reveal the impact of a heterogeneity of practices of evaluation and other for…
-
-### Culture and competition: Homophily and distancing explanations for cultural niches
-**年份**: 2003 | **DOI**: [10.2307/1519727](https://doi.org/10.2307/1519727)
-**作者**: Mark, NP
-**摘要**: Why do different kinds of people like different kinds of culture? Two answers to this question are formally analyzed and empirically tested: the homophily model and the distancing model.…
 
 ### Cumulative disadvantage and health: long-term consequences of obesity?
 **年份**: 2003 | **DOI**: [10.2307/1519759](https://doi.org/10.2307/1519759)
@@ -1149,11 +1179,6 @@
 **年份**: 2003 | **DOI**: [10.2307/3088903](https://doi.org/10.2307/3088903)
 **作者**: Zhou, XG; Zhao, W; Li, Q 等4人
 **摘要**: Interfirm contracts represent common economic relations in the marketplace; they are also deeply embedded in social relations and social institutions. In the context of China's transitional economy, this study examines how three mechanisms-economizing transaction costs, network-based social relation…
-
-### Foreign capital dependence and development: A new direction
-**年份**: 2003 | **DOI**: [10.2307/1519770](https://doi.org/10.2307/1519770)
-**作者**: Kentor, J; Boswell, T
-**摘要**: Scholars have long debated the impact of foreign investment on the economies of less developed countries. Many argue that foreign investment is beneficial for the host economy; others argue, just as forcefully, that dependence on foreign capital is detrimental.…
 
 ### Grammar and social organization: Yes/no interrogatives and the structure of responding
 **年份**: 2003 | **DOI**: [10.2307/1519752](https://doi.org/10.2307/1519752)
@@ -1249,6 +1274,26 @@
 **年份**: 2003 | **DOI**: [10.2307/1519767](https://doi.org/10.2307/1519767)
 **作者**: Vallas, SP
 **摘要**: Using data from a comparative, multisite ethnography, this paper identifies some of the social and organizational conditions that limited the impact of workplace transformation at four manufacturing plants during the 1990s.…
+
+### Emergent Public Spheres: Talking Politics in Participatory Governance
+**年份**: 2003 | **DOI**: [10.1177/000312240306800103](https://doi.org/10.1177/000312240306800103)
+**作者**: Baiocchi, Gianpaolo
+**摘要**: This article addresses the question of whether and how participation in government promotes the conditions for participants to engage in the open-ended and public-minded discussion heralded by democratic theorists.…
+
+### Foreign Capital Dependence and Development: A New Direction
+**年份**: 2003 | **DOI**: [10.1177/000312240306800206](https://doi.org/10.1177/000312240306800206)
+**作者**: Kentor, Jeffrey; Boswell, Terry
+**摘要**: Scholars have long debated the impact of foreign investment on the economies of less developed countries. Many argue that foreign investment is beneficial for the host economy; others argue, just as forcefully, that dependence on foreign capital is detrimental.…
+
+### Culture and Competition: Homophily and distancing Explanations for Cultural Niches
+**年份**: 2003 | **DOI**: [10.1177/000312240306800302](https://doi.org/10.1177/000312240306800302)
+**作者**: Mark, Noah P.
+**摘要**: Why do different kinds of people like different kinds of culture? Two answers to this question are formally analyzed and empirically tested: the homophily model and the distancing model.…
+
+### Structural Cohesion and Embeddedness: A Hierarchical Concept of Social Groups
+**年份**: 2003 | **DOI**: [10.2307/3088904](https://doi.org/10.2307/3088904)
+**作者**: Moody, James; White, Douglas R.
+**摘要**: （暂无）
 
 ### Assessing alternative perspectives on race and sex employment segregation
 **年份**: 2002 | **DOI**: [10.2307/3088945](https://doi.org/10.2307/3088945)
@@ -1365,11 +1410,6 @@
 **作者**: Boone, C; Carroll, GR; van Witteloostuijn, A
 **摘要**: Resource-partitioning theory explains how, in heavily concentrated populations, specialist organizations arise and proliferate. The theory also addresses the process of market concentration itself, although far less attention has been devoted to the theoretical claims in this area.…
 
-### Social integration, imitation, and the geographic patterning of suicide
-**年份**: 2002 | **DOI**: [10.2307/3088974](https://doi.org/10.2307/3088974)
-**作者**: Baller, RD; Richardson, KK
-**摘要**: One of sociology's defining debates centers on explanations of the geographic patterning of suicide. this classic debate is revisited using techniques of spatial analysis and data for two geographies: late nineteenth-century French departments, and late twentieth-century U.S. counties.…
-
 ### Structural change and post-socialist stratification: Labor market transitions in contemporary Russia
 **年份**: 2002 | **DOI**: [10.2307/3088910](https://doi.org/10.2307/3088910)
 **作者**: Gerber, TP
@@ -1415,10 +1455,30 @@
 **作者**: Harris, David R.; Sim, Jeremiah Joseph
 **摘要**: Patterns of racial classification in the National Longitudinal Study of Adolescent Health are examined. The survey's large sample size and multiple indicators of race permit generalizable claims about patterns and processes of social construction in the racial categorization of adolescents.…
 
-### Why more Americans have no religious preference: Politics and generations
-**年份**: 2002 | **DOI**: [10.2307/3088891](https://doi.org/10.2307/3088891)
-**作者**: Hout, M; Fischer, CS
+### Why More Americans Have No Religious Preference: Politics and Generations
+**年份**: 2002 | **DOI**: [10.1177/000312240206700201](https://doi.org/10.1177/000312240206700201)
+**作者**: Hout, Michael; Fischer, Claude S.
 **摘要**: The proportion of Americans who reported no religious preference doubled from 7 percent to 14 percent in the 1990s. This dramatic change may have resulted from demographic shifts, increasing religious skepticism, or the mix of politics and religion that characterized the 1990s.…
+
+### Social Integration, Imitation, and the Geographic Patterning of Suicide
+**年份**: 2002 | **DOI**: [10.1177/000312240206700605](https://doi.org/10.1177/000312240206700605)
+**作者**: Baller, Robert D.; Richardson, Kelly K.
+**摘要**: One of sociology's defining debates centers on explanations of the geographic patterning of suicide. This classic debate is revisited using techniques of spatial analysis and data for two geographies: late nineteenth-century French departments, and late twentieth-century U.S. counties.…
+
+### Does Oppositional Culture Exist in Minority and Poverty Peer Groups?
+**年份**: 2002 | **DOI**: [10.2307/3088938](https://doi.org/10.2307/3088938)
+**作者**: Farkas, George; Lleras, Christy; Maczuga, Steve
+**摘要**: （暂无）
+
+### Social Capital and Democracy: An Interdependent Relationship
+**年份**: 2002 | **DOI**: [10.2307/3088895](https://doi.org/10.2307/3088895)
+**作者**: Paxton, Pamela
+**摘要**: （暂无）
+
+### A Brief History of Human Society: The Origin and Role of Emotion in Social Life: 2001 Presidential Address
+**年份**: 2002 | **DOI**: [10.2307/3088931](https://doi.org/10.2307/3088931)
+**作者**: Massey, Douglas S.
+**摘要**: （暂无）
 
 ### America's liberalization in attitudes toward homosexuality, 1973 to 1998
 **年份**: 2001 | **DOI**: [10.2307/3088957](https://doi.org/10.2307/3088957)
@@ -1595,6 +1655,11 @@
 **作者**: Hagan, J; Foster, H
 **摘要**: American youth experience high levels of violence, and increasingly the U.S. public policy response is to punish young perpetrators of violence through waivers and transfers from juvenile to adult courts.…
 
+### What is Gender?
+**年份**: 2001 | **DOI**: [10.1177/000312240106600407](https://doi.org/10.1177/000312240106600407)
+**作者**: Kennelly, Ivy; Merz, Sabine N.; Lorber, Judith
+**摘要**: （暂无）
+
 ### A new solution to the collective action problem: The paradox of voter turnout
 **年份**: 2000 | **DOI**: [10.2307/2657465](https://doi.org/10.2307/2657465)
 **作者**: Kanazawa, S
@@ -1684,11 +1749,6 @@
 **年份**: 2000 | **DOI**: [10.2307/2657544](https://doi.org/10.2307/2657544)
 **作者**: Mouw, T
 **摘要**: The spatial mismatch hypothesis argues that residential segregation and job decentralization combine to adversely affect the employment opportunities of minorities. While employment is increasingly located outside of central cities, residential segregation prevents minorities from moving closer to s…
-
-### Leveraging the state: Private money and the development of public education for blacks
-**年份**: 2000 | **DOI**: [10.2307/2657541](https://doi.org/10.2307/2657541)
-**作者**: Strong, D; Walters, PB; Driscoll, B 等4人
-**摘要**: This study analyses African Americans' success in getting the state to improve access to a basic social right-the right to a public education-in the late nineteenth- and early twentieth- century South.…
 
 ### Lost in the storm: The sociology of the black working class, 1850 to 1990
 **年份**: 2000 | **DOI**: [10.2307/2657294](https://doi.org/10.2307/2657294)
@@ -1799,3 +1859,18 @@
 **年份**: 2000 | **DOI**: [10.2307/2657292](https://doi.org/10.2307/2657292)
 **作者**: Buttel, FH
 **摘要**: Frederick H. Buttel, World Society, the Nation-State, and Environmental Protection: Comment on Frank, Hironaka, and Schofer, American Sociological Review, Vol. 65, No. 1, Looking Forward, Looking Back: Continuity and Change at the Turn of the Millenium (Feb., 2000), pp. 117-121
+
+### Still the Missing Feminist Revolution? Inequalities of Race, Class, and Gender in Introductory Sociology Textbooks
+**年份**: 2000 | **DOI**: [10.1177/000312240006500309](https://doi.org/10.1177/000312240006500309)
+**作者**: Manza, Jeff; Schyndel, Debbie Van
+**摘要**: （暂无）
+
+### Leveraging the State: Private Money and the Development of Public Education for Blacks
+**年份**: 2000 | **DOI**: [10.1177/000312240006500503](https://doi.org/10.1177/000312240006500503)
+**作者**: Strong, David; Walters, Pamela Barnhouse; Driscoll, Brian 等4人
+**摘要**: This study analyses African Americans’ success in getting the state to improve access to a basic social right—the right to a public education—in the late nineteenth-and early twentieth-century South.…
+
+### More or Less Educational Homogamy? A Test of Different Versions of Modernization Theory Using Cross-Temporal Evidence for 60 Countries
+**年份**: 2000 | **DOI**: [10.1177/000312240006500509](https://doi.org/10.1177/000312240006500509)
+**作者**: Smits, Jeroen; Ultee, Wout; Lammers, Jan
+**摘要**: （暂无）

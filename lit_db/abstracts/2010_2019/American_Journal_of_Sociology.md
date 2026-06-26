@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **341** 篇
+共 **342** 篇
 
 ---
 
@@ -1359,6 +1359,11 @@
 **年份**: 2012 | **DOI**: [10.1086/663327](https://doi.org/10.1086/663327)
 **作者**: Moon, Dawne
 **摘要**: Identity politics arises out of conditions of systematic stigmatization and structural disadvantage, but sharing a social structural position does not guarantee that people will define themselves and their collectivity in the same way.…
+
+### Exposing the Myth of Sexual Aversion in the Israeli Kibbutzim: A Challenge to the Westermarck Hypothesis
+**年份**: 2012 | **DOI**: [10.1086/665522](https://doi.org/10.1086/665522)
+**作者**: Shor, Eran; Simchai, Dalit
+**摘要**: （暂无）
 
 ### 737-Cabriolet: The Limits of Knowledge and the Sociology of Inevitable Failure
 **年份**: 2011 | **DOI**: [10.1086/662383](https://doi.org/10.1086/662383)

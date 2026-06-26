@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **183** 篇
+共 **188** 篇
 
 ---
 
@@ -90,6 +90,11 @@
 **作者**: Levy, Brian L.; Owens, Ann; Sampson, Robert J.
 **摘要**: This study estimates the effect of neighborhood disadvantage on bachelor's degree attainment with data from a long-term follow-up of the Project on Human Development in Chicago Neighborhoods.…
 
+### Understanding Variation in Estimates of Diversionary Effects of Community College Entrance: A Systematic Review and Meta-analysis
+**年份**: 2019 | **DOI**: [10.1177/0038040719848445](https://doi.org/10.1177/0038040719848445)
+**作者**: Schudde, Lauren; Brown, Raymond Stanley
+**摘要**: Decades of research have estimated the effect of entering a community college on bachelor’s degree attainment. In this study, we examined the influence of methodological choices, including sample restrictions and identification strategies, on estimated effects from studies published between 1970 and…
+
 ### A Downward Spiral? Childhood Suspension and the Path to Juvenile Arrest
 **年份**: 2018 | **DOI**: [10.1177/0038040718784603](https://doi.org/10.1177/0038040718784603)
 **作者**: Mittleman, Joel
@@ -169,6 +174,10 @@
 **年份**: 2018 | **DOI**: [10.1177/0038040718802258](https://doi.org/10.1177/0038040718802258)
 **作者**: Zarifa, David; Kim, Jeannie; Seward, Brad 等4人
 **摘要**: Despite improved access in expanded postsecondary systems, the great majority of bachelor's degree graduates are taking considerably longer than the allotted four years to complete their four-year degrees.…
+
+### 2018 Reviewer Thank You
+**年份**: 2018 | **DOI**: [10.1177/0038040718802292](https://doi.org/10.1177/0038040718802292)
+**摘要**: （暂无）
 
 ### (How) Does Obesity Harm Academic Performance? Stratification at the Intersection of Race, Sex, and Body Size in Elementary and High School
 **年份**: 2017 | **DOI**: [10.1177/0038040716680271](https://doi.org/10.1177/0038040716680271)
@@ -360,6 +369,15 @@
 **作者**: Holland, Megan M.; DeLuca, Stefanie
 **摘要**: Increasing numbers of low-income and minority youth are now pursuing shorter-duration sub-baccalaureate credentials at for-profit trade and technical schools. However, many students drop out of these schools, leaving with large debts and few job prospects.…
 
+### 2016 Reviewer Thank You
+**年份**: 2016 | **DOI**: [10.1177/0038040716670151](https://doi.org/10.1177/0038040716670151)
+**摘要**: （暂无）
+
+### Schooling, Skills, and Self-rated Health
+**年份**: 2016 | **DOI**: [10.1177/0038040716653168](https://doi.org/10.1177/0038040716653168)
+**作者**: Duke, Naomi; Macmillan, Ross
+**摘要**: Education is a key sociological variable in the explanation of health and health disparities. Conventional wisdom emphasizes a life course–human capital perspective with expectations of causal effects that are quasi-linear, large in magnitude for high levels of educational attainment, and reasonably…
+
 ### (No) Harm in Asking
 **年份**: 2015 | **DOI**: [10.1177/0038040715614913](https://doi.org/10.1177/0038040715614913)
 **作者**: Jack, Anthony Abraham
@@ -529,6 +547,10 @@
 **年份**: 2014 | **DOI**: [10.1177/0038040714525970](https://doi.org/10.1177/0038040714525970)
 **作者**: Hanselman, Paul; Bruch, Sarah K.; Gamoran, Adam 等4人
 **摘要**: Schools with very few and relatively low-performing marginalized students may be most likely to trigger social identity threats (including stereotype threats) that contribute to racial disparities.…
+
+### 2013 Reviewer Thank You
+**年份**: 2014 | **DOI**: [10.1177/0038040714525928](https://doi.org/10.1177/0038040714525928)
+**摘要**: （暂无）
 
 ### Altered States of the Collective Mind: A Response to Brint
 **年份**: 2013 | **DOI**: [10.1177/0038040713503308](https://doi.org/10.1177/0038040713503308)

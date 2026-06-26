@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2000–2009 年文章（含摘要）
 
-共 **168** 篇
+共 **172** 篇
 
 ---
 
@@ -159,6 +159,11 @@
 **年份**: 2008 | **DOI**: [10.1177/003804070808100102](https://doi.org/10.1177/003804070808100102)
 **作者**: Kelly, Sean
 **摘要**: This analysis of data from the Partnership for Literacy Study investigates the relationship among achievement, effort, and grades. Certainly, grades reward achievement, the mastery of material by students.…
+
+### Student Engagement, Peer Social Capital, and School Dropout Among Mexican American and Non-Latino White Students
+**年份**: 2008 | **DOI**: [10.1177/003804070808100201](https://doi.org/10.1177/003804070808100201)
+**作者**: Ream, Robert K.; Rumberger, Russell W.
+**摘要**: Policy makers are especially concerned about persistently high dropout rates among U.S. Latinos, the largest minority population in the United States. This study used a national longitudinal database to show that the behavioral and social aspects of schooling are dynamically linked in the process of…
 
 ### Contextual explanations of school choice
 **年份**: 2007 | **DOI**: [10.1177/003804070708000301](https://doi.org/10.1177/003804070708000301)
@@ -389,6 +394,16 @@
 **年份**: 2005 | **DOI**: [10.1177/003804070507800102](https://doi.org/10.1177/003804070507800102)
 **作者**: Carbonaro, W
 **摘要**: This study examined the links among students' effort, tracking, and students' achievement. It found that students in higher tracks exert substantially more effort than do students in lower tracks.…
+
+### The Problem of Underqualified Teachers: A Sociological Perspective
+**年份**: 2005 | **DOI**: [10.1177/003804070507800206](https://doi.org/10.1177/003804070507800206)
+**作者**: Ingersoll, Richard M.
+**摘要**: （暂无）
+
+### No Child Left Behind? Sociology Ignored!
+**年份**: 2005 | **DOI**: [10.1177/003804070507800204](https://doi.org/10.1177/003804070507800204)
+**作者**: Karen, David
+**摘要**: Too many American children are segregated into schools without standards, shuffled from grade-to-grade because of their age, regardless of their knowledge. This is discrimination, pure and simple—the soft bigotry of low expectations.…
 
 ### Beyond decoupling: Rethinking the relationship between the institutional environment and the classroom
 **年份**: 2004 | **DOI**: [10.1177/003804070407700302](https://doi.org/10.1177/003804070407700302)
@@ -774,6 +789,11 @@
 **年份**: 2001 | **DOI**: [10.2307/2673136](https://doi.org/10.2307/2673136)
 **作者**: Attewell, P
 **摘要**: Across the United States, families seek schools with reputations for academic excellence for their children, assuming that such schools improve a talented child's prospects for college admission.…
+
+### American Schooling and Educational Inequality: A Forecast for the 21st Century
+**年份**: 2001 | **DOI**: [10.2307/2673258](https://doi.org/10.2307/2673258)
+**作者**: Gamoran, Adam
+**摘要**: （暂无）
 
 ### Educational battlefields in America: The tug-of-war over students' engagement with instruction
 **年份**: 2000 | **DOI**: [10.2307/2673233](https://doi.org/10.2307/2673233)

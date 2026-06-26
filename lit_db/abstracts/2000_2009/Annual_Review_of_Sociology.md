@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **115** 篇
+共 **135** 篇
 
 ---
 
@@ -60,6 +60,26 @@
 **作者**: Gans, Herbert J.
 **摘要**: I have written a strictly autobiographical essay about the half dozen areas or fields in which I have done sociological research during my career. One reason for writing the essay is to encourage students to become what I call a multi, there being too few in sociology, as in other disciplines in whi…
 
+### Is America Fragmenting?
+**年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-115909](https://doi.org/10.1146/annurev-soc-070308-115909)
+**作者**: Fischer, Claude S.; Mattson, Greggor
+**摘要**: The view that America is fragmenting is popular among both pundits and academics and may well be endemic to American culture. We review claims that between 1970 and 2005 American society fragmented along lines of cultural politics, social class, immigration, race, or lifestyle.…
+
+### New Directions in Life Course Research
+**年份**: 2009 | **DOI**: [10.1146/annurev.soc.34.040507.134619](https://doi.org/10.1146/annurev.soc.34.040507.134619)
+**作者**: Mayer, Karl Ulrich
+**摘要**: Life courses are studied in sociology and neighboring fields as developmental processes, as culturally and normatively constructed life stages and age roles, as biographical meanings, as aging processes, as outcomes of institutional regulation and policies, as demographic accounts, or as mere empiri…
+
+### Switching Social Contexts: The Effects of Housing Mobility and School Choice Programs on Youth Outcomes
+**年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-120032](https://doi.org/10.1146/annurev-soc-070308-120032)
+**作者**: DeLuca, Stefanie; Dayton, Elizabeth
+**摘要**: Despite years of research, methodological and practical obstacles make it difficult to conclude whether policies aimed at improving schools and communities are effective for improving youth outcomes.…
+
+### The Sociology of War and the Military
+**年份**: 2009 | **DOI**: [10.1146/annurev-soc-070308-120004](https://doi.org/10.1146/annurev-soc-070308-120004)
+**作者**: Kestnbaum, Meyer
+**摘要**: Recent work on war and the military has addressed two broad questions: Why do states and societies wage war as they do? And what difference does it make that war is, or has been, waged in that manner?…
+
 ### Access to Civil Justice and Race, Class, and Gender Inequality
 **年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134534](https://doi.org/10.1146/annurev.soc.34.040507.134534)
 **作者**: Sandefur, Rebecca L.
@@ -114,6 +134,11 @@
 **年份**: 2008 | **DOI**: [10.1146/annurev.soc.33.040406.131632](https://doi.org/10.1146/annurev.soc.33.040406.131632)
 **作者**: Blanton, Hart; Jaccard, James
 **摘要**: It is common in scientific and popular discussions to claim that unconscious racism is both prevalent and potent in modern societies. We review the theoretical model that posit different forms of unconscious racism and evaluate the empirical evidence for them.…
+
+### Conditional Cash Transfers as Social Policy in Latin America: An Assessment of their Contributions and Limitations
+**年份**: 2008 | **DOI**: [10.1146/annurev.soc.34.040507.134537](https://doi.org/10.1146/annurev.soc.34.040507.134537)
+**作者**: Valencia Lomelí, Enrique
+**摘要**: Conditional cash transfer programs have recently spread throughout Latin America, and early findings suggest their potential to overcome poverty and create human capital. This review undertakes an assessment of CCT programs and the conventional theory that has evolved to justify them.…
 
 ### Bourdieu in American sociology, 1980-2004
 **年份**: 2007 | **DOI**: [10.1146/annurev.soc.33.040406.131627](https://doi.org/10.1146/annurev.soc.33.040406.131627)
@@ -175,6 +200,11 @@
 **作者**: DiTomaso, Nancy; Post, Corinne; Parks-Yancy, Rochelle
 **摘要**: Workforce diversity refers to the composition of work units in terms of the cultural or demographic characteristics that are salient and symbolically meaningful in the relationships among group members.…
 
+### The Sociology of Markets
+**年份**: 2007 | **DOI**: [10.1146/annurev.soc.33.040406.131736](https://doi.org/10.1146/annurev.soc.33.040406.131736)
+**作者**: Fligstein, Neil; Dauter, Luke
+**摘要**: The sociology of markets has been one of the most vibrant fields in sociology in the past 25 years. There is a great deal of agreement that markets are social structures characterized by extensive social relationships between firms, workers, suppliers, customers, and governments.…
+
 ### Community ecology and the sociology of organizations
 **年份**: 2006 | **DOI**: [10.1146/annurev.soc.32.061604.123135](https://doi.org/10.1146/annurev.soc.32.061604.123135)
 **作者**: Freeman, John H.; Audia, Pino G.
@@ -225,6 +255,16 @@
 **作者**: Evans, Geoffrey
 **摘要**: To what extent are the social bases of political divisions in former communist societies consistent with those observed in Western democracies? This review critically examines theoretical and empirical work on social cleavages in East European, post-communist societies.…
 
+### Estimating the Causal Effect of Social Capital: A Review of Recent Research
+**年份**: 2006 | **DOI**: [10.1146/annurev.soc.32.061604.123150](https://doi.org/10.1146/annurev.soc.32.061604.123150)
+**作者**: Mouw, Ted
+**摘要**: Although there is a large literature on social capital, empirical estimates of the effect of social capital may be biased because of social homophily, the tendency of similar people to become friends with each other.…
+
+### Law and the American State
+**年份**: 2006 | **DOI**: [10.1146/annurev.soc.32.061604.123113](https://doi.org/10.1146/annurev.soc.32.061604.123113)
+**作者**: Skrentny, John D.
+**摘要**: Although classical theories of the state and key texts of historical institutionalism and American political development (APD) defined the American state as a fundamentally legal entity, contemporary studies of the American state show a range of roles for law and courts, from no role at all, to a co…
+
 ### Agency theory
 **年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122159](https://doi.org/10.1146/annurev.soc.31.041304.122159)
 **作者**: Shapiro, SP
@@ -259,6 +299,16 @@
 **年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122312](https://doi.org/10.1146/annurev.soc.31.041304.122312)
 **作者**: Griswold, W; McDonnell, T; Wright, N
 **摘要**: Sociological research on reading, which formerly focused on literacy, now conceptualizes reading as a social practice. This review examines the current state of knowledge on (a) who reads, i.e., the demographic characteristics of readers; (b) how they read, i.e., reading as a form of social practice…
+
+### The Social Consequences of Structural Adjustment: Recent Evidence and Current Debates
+**年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122258](https://doi.org/10.1146/annurev.soc.31.041304.122258)
+**作者**: Babb, Sarah
+**摘要**: Thirty years ago, intellectual debates concerning the relationship between wealthy and poor nations could be summed up under the rubric of modernization versus dependency. However, the events of the 1980s and 1990s completely shifted the terms of this debate.…
+
+### Multiethnic Cities in North America
+**年份**: 2005 | **DOI**: [10.1146/annurev.soc.31.041304.122246](https://doi.org/10.1146/annurev.soc.31.041304.122246)
+**作者**: Fong, Eric; Shibuya, Kumiko
+**摘要**: The growing Hispanic and Asian populations in most major North American cities have drastically transformed the urban demographic landscape to become racially and ethnically diversified.…
 
 ### America's Changing Color Lines: Immigration, Race/Ethnicity, and Multiracial Identification
 **年份**: 2004 | **DOI**: [10.1146/annurev.soc.30.012703.110519](https://doi.org/10.1146/annurev.soc.30.012703.110519)
@@ -325,6 +375,16 @@
 **作者**: Earl, J; Martin, A; McCarthy, JD 等4人
 **摘要**: Studying collective action with newspaper accounts of protest events, rare only 20 years ago, has become commonplace in the past decade. A critical literature has accompanied the growth of protest event analysis.…
 
+### Values: Reviving a Dormant Concept
+**年份**: 2004 | **DOI**: [10.1146/annurev.soc.30.012703.110640](https://doi.org/10.1146/annurev.soc.30.012703.110640)
+**作者**: Hitlin, Steven; Piliavin, Jane Allyn
+**摘要**: Over the past decades, the concept of values has gone in and out of fashion within sociology. Relatively recent advances in both the conceptualization and measurement of values offer the potential for a reincorporation of values into sociological work.…
+
+### Low-Income Fathers
+**年份**: 2004 | **DOI**: [10.1146/annurev.soc.29.010202.095947](https://doi.org/10.1146/annurev.soc.29.010202.095947)
+**作者**: Nelson, Timothy J.
+**摘要**: This article reviews recent literature on low-income fathers, including the transition to fatherhood for young unmarried fathers and levels of father involvement among married, cohabiting, and nonresident low-income fathers.…
+
 ### Associations and democracy: Between theories, hopes, and realities
 **年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100134](https://doi.org/10.1146/annurev.soc.29.010202.100134)
 **作者**: Fung, A
@@ -385,6 +445,21 @@
 **作者**: Korpi, W
 **摘要**: The new-politics perspective derives welfare state retrenchment from postindustrial changes generating budget deficits and government attempts to benefit cuts, attempts largely resisted by powerful new,groups of welfare-state clients.…
 
+### The Urban Street Gang after 1970
+**年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.101602.130751](https://doi.org/10.1146/annurev.soc.29.101602.130751)
+**作者**: Coughlin, Brenda C.; Venkatesh, Sudhir Alladi
+**摘要**: ▪ Abstract This review discusses research on the urban street gang after the 1960s, the period in which social scientists began to conceptualize the gang outside of the social-problems framework.…
+
+### The Economic Sociology of Conventions: Habit, Custom, Practice, and Routine in Market Order
+**年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100051](https://doi.org/10.1146/annurev.soc.29.010202.100051)
+**作者**: Biggart, Nicole Woolsey; Beamish, Thomas D.
+**摘要**: ▪ Abstract Economic sociology and economics have tried to explain the organization and stability of market capitalism mostly by arguing for the effects of social structure on the patterning of relations, or for the role of the price system in balancing the demands of individual economic actors.…
+
+### Skills Mismatch in the Labor Market
+**年份**: 2003 | **DOI**: [10.1146/annurev.soc.29.010202.100030](https://doi.org/10.1146/annurev.soc.29.010202.100030)
+**作者**: Handel, Michael J.
+**摘要**: ▪ Abstract Researchers across a wide range of fields, policy makers, and large segments of the public believe that the work-related skills of the labor force do not match the requirements of jobs and that this explains a large part of the growth of wage inequality in the United States in the past 20…
+
 ### Assessing neighborhood effects: Social processes and new directions in research
 **年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.141114](https://doi.org/10.1146/annurev.soc.28.110601.141114)
 **作者**: Sampson, RJ; Morenoff, JD; Gannon-Rowley, T
@@ -429,6 +504,11 @@
 **年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.140745](https://doi.org/10.1146/annurev.soc.28.110601.140745)
 **作者**: Kurzman, Charles; Owens, Lynn
 **摘要**: The sociology of intellectuals has adopted three fundamentally distinct approaches to its subject. The Dreyfusards, Julien Benda, “new class” theorists, and Pierre Bourdieu treated intellectuals as potentially a class-in-themselves, that is, as having interests that distinguish them from other group…
+
+### New Economics of Sociological Criminology
+**年份**: 2002 | **DOI**: [10.1146/annurev.soc.28.110601.140752](https://doi.org/10.1146/annurev.soc.28.110601.140752)
+**作者**: McCarthy, Bill
+**摘要**: ▪ Abstract This paper begins with a summary of the rational choice approach and its implications for the study of criminal behavior. I then review research on offending that uses the rational choice approach in conjunction with more sociological orientations.…
 
 ### Cases and biographies: An essay on routinization and the nature of comparison
 **年份**: 2001 | **DOI**: [10.1146/annurev.soc.27.1.47](https://doi.org/10.1146/annurev.soc.27.1.47)
@@ -579,3 +659,23 @@
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.711](https://doi.org/10.1146/annurev.soc.26.1.711)
 **作者**: Sampson, RJ
 **摘要**: The rapid growth of the platform economy has provoked scholarly discussion of its consequences for the nature of work and employment. We identify four major themes in the literature on platform work and the underlying metaphors associated with each. ...Read More
+
+### Social Psychology of Identities
+**年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.367](https://doi.org/10.1146/annurev.soc.26.1.367)
+**作者**: Howard, Judith A.
+**摘要**: In this chapter I review the social psychological underpinnings of identity, emphasizing social cognitive and symbolic interactionist perspectives and research, and I turn then to key themes of current work on identity—social psychological, sociological, and interdisciplinary.…
+
+### Ethnicity and Sexuality
+**年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.107](https://doi.org/10.1146/annurev.soc.26.1.107)
+**作者**: Nagel, Joane
+**摘要**: This paper explores the connections between ethnicity and sexuality. Racial, ethnic, and national boundaries are also sexual boundaries. The borderlands dividing racial, ethnic, and national identities and communities constitute ethnosexual frontiers, erotic intersections that are heavily patrolled,…
+
+### Feminist State Theory: Applications to Jurisprudence, Criminology, and the Welfare State
+**年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.641](https://doi.org/10.1146/annurev.soc.26.1.641)
+**作者**: Haney, Lynne A.
+**摘要**: This chapter discusses developments in feminist state theory through a comparison of feminist interventions into jurisprudence, criminology, and welfare state theory. Early feminist work on the state analyzed how women were subordinated by a centralized state.…
+
+### States and Markets in an Era of Globalization
+**年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.187](https://doi.org/10.1146/annurev.soc.26.1.187)
+**作者**: Riain, Seán Ó
+**摘要**: The paper considers how states and markets shape one another at the national and world-system levels and how globalization is transforming that relationship. This process is illustrated through a review of research on liberal, social rights, developmental, and socialist states in the postwar capital…

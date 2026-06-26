@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **726** 篇
+共 **743** 篇
 
 ---
 
@@ -104,6 +104,86 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231261431008](https://doi.org/10.1177/23780231261431008)
 **作者**: Umamaheswar, Janani
 **摘要**: President Trump has long espoused “tough-on-crime” rhetoric, and many of his current policy initiatives risk exacerbating challenges faced by the nation’s most vulnerable citizens, including formerly incarcerated people.…
+
+### The “Most Familiar Stranger”: Chinese Perceptions of the Contemporary Japanese Ethnoracial Hierarchy
+**年份**: 2026 | **DOI**: [10.1177/23780231261437862](https://doi.org/10.1177/23780231261437862)
+**作者**: Zhang, Xiaorui
+**摘要**: Since the coronavirus disease 2019 pandemic, anti-Asian racism has garnered scholarly attention worldwide. However, this literature focuses primarily on Asian panethnic frameworks in the North American context and obscures the significance of Sinophobia as a distinct facet of global anti-Asian racis…
+
+### The Sociology of “Dirty Research”: Interresearcher Positionality, Marginalization, and Stigma Management
+**年份**: 2026 | **DOI**: [10.1177/23780231261440318](https://doi.org/10.1177/23780231261440318)
+**作者**: Shor, Eran
+**摘要**: Although social science research has thoroughly reflected on researchers’ positionality vs. their field and informants, interresearcher positionality has been less rigorously explored.…
+
+### Are There Service Work-Games of Resistance? “Work-Play” and Relational Resistance in Dance Club Waitstaff Work
+**年份**: 2026 | **DOI**: [10.1177/23780231261435044](https://doi.org/10.1177/23780231261435044)
+**作者**: Chew, Matthew Ming-tak
+**摘要**: This study tackles an important yet marginalized question in the sociology of work: Are there service work-games of resistance? Sociologists kept trying to find them but had little success. Current studies only find service work-games of consent.…
+
+### Power, Status, Legitimacy, and Shame in Organizations
+**年份**: 2026 | **DOI**: [10.1177/23780231261438914](https://doi.org/10.1177/23780231261438914)
+**作者**: Dippong, Joseph; Moller, Stephanie; Ruppanner, Leah 等4人
+**摘要**: The power-status theory of emotions posits that emotions arise out of a process in which people compare the levels of status and power that they experience against some standard of status and power adequacy.…
+
+### The Changing Distribution of U.S. Asian Populations across Urban and Suburban Ethnic Neighborhoods
+**年份**: 2026 | **DOI**: [10.1177/23780231261442407](https://doi.org/10.1177/23780231261442407)
+**作者**: Kye, Samuel H.; Wei, Zhongze
+**摘要**: Although prior scholarship has highlighted the challenge that suburban ethnic communities pose to traditional theories of assimilation, less attention has been given to how many Asian residents these neighborhoods capture relative to traditional urban enclaves.…
+
+### Work-Family Conflict and Physical Activity: Exploring Gender Differences among Australian Parents
+**年份**: 2026 | **DOI**: [10.1177/23780231261429664](https://doi.org/10.1177/23780231261429664)
+**作者**: Maciejewski, Linda
+**摘要**: In this longitudinal study the author investigates the association among work-to-family conflict (WTFC) and family-to-work conflict (FTWC), gender, and the frequency of physical activity among Australian parents.…
+
+### Visualizing the Spatial Distribution of Aging Places in the United States, 2000 to 2020
+**年份**: 2026 | **DOI**: [10.1177/23780231261446047](https://doi.org/10.1177/23780231261446047)
+**作者**: Price, Paige E.; Kelly, Paige; Thombs, Ryan P.
+**摘要**: Population aging has important sociological implications at the community level, including reductions in local workforce size, greater demand for health and social services, and changing housing needs.…
+
+### Infrastructure-Led Development: The Reciprocal Asymmetry of the Urban Growth Machine
+**年份**: 2026 | **DOI**: [10.1177/23780231261438909](https://doi.org/10.1177/23780231261438909)
+**作者**: Clement, Matthew Thomas
+**摘要**: Road construction is a catalyst of land-use change. In this analysis, drawing on the growth machine framework, the investigators assess whether there is any reciprocal feedback in this process, specifically asking if there is a bidirectional association between road construction and land development…
+
+### Real-Time Revisionism: How Racialized Narratives Legitimize White Christian Dominance in the United States
+**年份**: 2026 | **DOI**: [10.1177/23780231261444056](https://doi.org/10.1177/23780231261444056)
+**作者**: Prince, Tryce
+**摘要**: Conspiracy theorists, self-identified Christian nationalists, or conservative activists are often depicted as the faces of pro-Christian social movements in the United States. Often overlooked is the role of local churches that till the ideological ground for the seeds of once fringe social movement…
+
+### Rights of Nature in the United States: An Empirical Analysis of Local Legal Adoption
+**年份**: 2026 | **DOI**: [10.1177/23780231261446748](https://doi.org/10.1177/23780231261446748)
+**作者**: Sindoni, Raffaele; Bryant, Jesse Callahan
+**摘要**: The authors present the first comprehensive empirical analysis of rights of nature (RoN) adoption in the United States, a globally growing legal movement asserting that rivers, forests, and ecosystems should be holders of rights.…
+
+### Keys to the Future: How Gender and Sexuality Jointly Shape Parental Financial Support for Home Ownership
+**年份**: 2026 | **DOI**: [10.1177/23780231261450330](https://doi.org/10.1177/23780231261450330)
+**作者**: Wang, Yiwen; Alexander, Katherine; Wolski, Caroline 等5人
+**摘要**: Homeownership is a key marker of economic stability, yet rising housing costs have made it increasingly difficult for young adults to purchase homes. Parental financial transfers can help offset these barriers, but such support is unevenly distributed across social groups.…
+
+### What Would Jesus Fund? Christian Nationalism and Americans’ Views on Government Spending
+**年份**: 2026 | **DOI**: [10.1177/23780231261447651](https://doi.org/10.1177/23780231261447651)
+**作者**: Atac, Ibrahim Enes; Kunjan, Lena; Lovette, Forrest 等4人
+**摘要**: Research on government spending focuses primarily on the roles of partisanship, ideology, and in-group self-interest. Beyond these, the authors propose that religiopolitical schemas have an independent (though interrelated) role in shaping Americans’ conceptions of government’s purpose, beneficiarie…
+
+### The Self-Other Gap in Perceived Automation Risk: Evidence from the United States and Canada
+**年份**: 2026 | **DOI**: [10.1177/23780231261453968](https://doi.org/10.1177/23780231261453968)
+**作者**: Glavin, Paul; Schieman, Scott; Wilson, Alexander
+**摘要**: This visualization shows a systematic misperception in how workers judge automation risk. Drawing on the 2026 Measuring Employment Sentiments and Social Inequality study, the authors compare paired measures of perceived automation likelihood for self and most others, using nationally representative …
+
+### Resource Stratification and Income Segregation in Brazilian and Chilean Universities
+**年份**: 2026 | **DOI**: [10.1177/23780231261451346](https://doi.org/10.1177/23780231261451346)
+**作者**: Kuzmanic, Danilo
+**摘要**: Wealthy universities enjoy advantages in accessing resources, disproportionately benefiting high-income students who are overrepresented in these institutions. Using administrative data from 2017 to 2019, the author analyzes the relationship between resource inequality and student income segregation…
+
+### Group Differences in Income Distributions, Poverty Gaps, and Poverty Buffers: Inequalities between the Children of Swedish-Born and Migrant Parents
+**年份**: 2026 | **DOI**: [10.1177/23780231261450748](https://doi.org/10.1177/23780231261450748)
+**作者**: Aradhya, Siddartha; Grotti, Raffaele; Nieuwenhuis, Rense
+**摘要**: Conventional approaches define income poverty as a binary status, implying that being poor or nonpoor is equivalent across groups. The authors propose a novel visualization that moves beyond head count rates to display group-specific income distributions relative to the poverty threshold, simultaneo…
+
+### Rethinking Platform Capitalism: Mapping the Algorithmic Logics and Labor Control Models of Uber Eats and Fantuan
+**年份**: 2026 | **DOI**: [10.1177/23780231261452733](https://doi.org/10.1177/23780231261452733)
+**作者**: Wu, Tommy; Zhang, Junyi; Gan, Zachary 等4人
+**摘要**: The authors examine how platform companies structure labor control in the food-delivery sector by comparing two major apps operating in the United States and Canada: Uber Eats and Fantuan.…
 
 ### A Convergence of Crises: Sudden Employment Loss and Black Lives Matter Protest Attendance during the COVID-19 Pandemic
 **年份**: 2025 | **DOI**: [10.1177/23780231251328799](https://doi.org/10.1177/23780231251328799)
@@ -3284,6 +3364,11 @@
 **年份**: 2021 | **DOI**: [10.1177/23780231211024776](https://doi.org/10.1177/23780231211024776)
 **作者**: Ravenelle, Alexandrea J.; Newell, Abigail; Kowalski, Ken Cai
 **摘要**: The authors explore media distrust among a sample of precarious and gig workers interviewed during the COVID-19 pandemic. Although these left-leaning respondents initially increased their media consumption at the outset of the pandemic, they soon complained of media sensationalism and repurposed a r…
+
+### Health Starting Points: Continuity and Change in Physical and Mental Health before and during the Pandemic
+**年份**: 2021 | **DOI**: [10.1177/23780231211025382](https://doi.org/10.1177/23780231211025382)
+**作者**: Manning, Wendy; Longmore, Monica; Giordano, Peggy 等4人
+**摘要**: The pandemic has created multiple changes in the lives of Americans, with growing and widespread concerns about the implications for the nation’s health and well-being. Most empirical examinations of the physical and mental health implications of the pandemic have rested on aggregate comparisons of …
 
 ### (Can’t Get No) Neighborhood Satisfaction? How Multilevel Immigration Factors Shape Latinos’ Neighborhood Attitudes
 **年份**: 2020 | **DOI**: [10.1177/2378023120921634](https://doi.org/10.1177/2378023120921634)

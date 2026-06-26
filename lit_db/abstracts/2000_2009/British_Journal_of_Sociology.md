@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **630** 篇
+共 **631** 篇
 
 ---
 
@@ -2535,6 +2535,11 @@
 **年份**: 2003 | **DOI**: [10.1080/0007131032000045897](https://doi.org/10.1080/0007131032000045897)
 **作者**: Árnason, Arnar; Hafsteinsson, Sigurjón Baldur
 **摘要**: ABSTRACTThis paper discusses Walter's (1994) assertion that death in the West has recently undergone a revival. In particular it focuses on his claim that this revival is composed of two different strands: a late modern strand and a postmodern strand.…
+
+### Social capital and social exclusion in England and Wales (1972-1999)
+**年份**: 2003 | **DOI**: [10.1080/0007131032000143564](https://doi.org/10.1080/0007131032000143564)
+**作者**: Li, Yaojun
+**摘要**: （暂无）
 
 ### Accountability in action?: the case of a database purchasing decision
 **年份**: 2002 | **DOI**: [10.1080/00071310220133331](https://doi.org/10.1080/00071310220133331)

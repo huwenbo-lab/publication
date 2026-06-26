@@ -1,23 +1,43 @@
+# Python / local runtime
 venv/
 __pycache__/
 scripts/__pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# OS / editor / local assistant state
 .DS_Store
 .claude/
-
-# 生成文件（从 articles.json 重建即可）
-literature.db
-
-# 补全进度缓存
 .cache/
+workers/**/.wrangler/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
-# 本地中间产物、备份和一次性导出
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Logs, temporary files, and local archives
 _local/
 backups/
 tmp/
 exports/
 archive/
+logs/*
+!logs/README.md
 *.log
+*.tmp
+*.bak
 
-# Cloudflare/Wrangler 本地缓存
-workers/**/.wrangler/
+# Generated search databases. GitHub Pages builds literature.db during deploy.
+literature.db
+*.sqlite
+*.sqlite3
+*.db
+!api/**/*.json

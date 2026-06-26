@@ -1,7 +1,7 @@
 # European Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **405** 篇
+共 **412** 篇
 
 ---
 
@@ -19,6 +19,36 @@
 **年份**: 2026 | **DOI**: [10.1093/esr/jcag010](https://doi.org/10.1093/esr/jcag010)
 **作者**: Ostermann, Kerstin; Patzina, Alexander; Morris, Katy
 **摘要**: Abstract While the association between apprenticeship dropout and negative labour market consequences is well documented, the causal link and social stratification in this effect are less clear.…
+
+### Parenthood, occupational sex segregation, and wage: motherhood penalty and fatherhood premium in China
+**年份**: 2026 | **DOI**: [10.1093/esr/jcag012](https://doi.org/10.1093/esr/jcag012)
+**作者**: Liu, Wenting; Dai, Haijing
+**摘要**: Abstract Although parenthood and occupational sex segregation have been identified as important contributors to the gender wage gap, the interwoven effect of the two is insufficiently explored.…
+
+### Beyond absolute education: relative educational attainment and perceived discrimination among immigrants
+**年份**: 2026 | **DOI**: [10.1093/esr/jcaf054](https://doi.org/10.1093/esr/jcaf054)
+**作者**: van Tubergen, Frank
+**摘要**: Abstract The integration paradox—the positive association between absolute education and perceived discrimination among more visible immigrant groups—has been a central puzzle in migration research.…
+
+### Labour market insecurity and parental co-residence in the United Kingdom: heterogeneities by parental class and age
+**年份**: 2026 | **DOI**: [10.1093/esr/jcaf058](https://doi.org/10.1093/esr/jcaf058)
+**作者**: Ramos, Vincent Jerald; Berrington, Ann
+**摘要**: Abstract Amidst young adults’ increasing labour market insecurity and rates of parental co-residence, this article examines how unemployment and underexplored forms of non-standard employment (NSE)—underemployment and temporary and agency work (TAW)—are associated with inter-generational co-residenc…
+
+### Changing choices? Primary and secondary effects through times of educational contraction
+**年份**: 2026 | **DOI**: [10.1093/esr/jcag019](https://doi.org/10.1093/esr/jcag019)
+**作者**: Lintunen, Lotta
+**摘要**: Abstract How does inequality of educational opportunity evolve in the context of educational contraction? In Finland, educational attainment declined for cohorts born after the late 1970s, and this study analyses trends in class background inequality in the transition to upper secondary education us…
+
+### The long-term effects of childhood residential mobility on social capital
+**年份**: 2026 | **DOI**: [10.1093/esr/jcag001](https://doi.org/10.1093/esr/jcag001)
+**作者**: Valente, Riccardo; Vacchiano, Mattia
+**摘要**: Abstract When a child moves home multiple times, the consequences for the adult they will later become can be substantial. This study investigates how frequent relocations during childhood influence the development of social capital in adulthood.…
+
+### Why do young US Americans avoid cross-partisan dating? A closer look at mediators and variation by gender and party
+**年份**: 2026 | **DOI**: [10.1093/esr/jcag020](https://doi.org/10.1093/esr/jcag020)
+**作者**: Taflinger, Shannon; Hudde, Ansgar
+**摘要**: Abstract US Americans are divided along party lines, both in politics and personal relationships. While prior research shows a preference for dating co-partisans, it remains unclear why people prefer to date co-partisans and for whom the effects are strongest.…
 
 ### A caution on sibling comparisons in studying effects of the rearing environment
 **年份**: 2025 | **DOI**: [10.1093/esr/jcae037](https://doi.org/10.1093/esr/jcae037)
@@ -1139,6 +1169,11 @@
 **年份**: 2023 | **DOI**: [10.1093/esr/jcac055](https://doi.org/10.1093/esr/jcac055)
 **作者**: Sterkens, Philippe; Baert, Stijn; Rooman, Claudia 等4人
 **摘要**: Recent studies have explored hiring discrimination as an obstacle to former burnout patients. A substantial share of the burned-out working population, however, returns to the same employer, where they face an even more severe aftermath of burnout syndrome: promotion discrimination.…
+
+### Women’s aversion to majors that (seemingly) require systemizing skills causes gendered field of study choice
+**年份**: 2023 | **DOI**: [10.1093/esr/jcad021](https://doi.org/10.1093/esr/jcad021)
+**作者**: Combet, Benita
+**摘要**: Abstract This article examines whether gender differences in preferences for field of study characteristics can explain gendered major choice. Specifically, this study focuses on a broad range of subject characteristics that are often simultaneously present: systemizing skills required (math intensi…
 
 ### (Mis)Matched College Aspirations and Expectations: The Role of Social Background and Admission Barriers
 **年份**: 2022 | **DOI**: [10.1093/esr/jcab055](https://doi.org/10.1093/esr/jcab055)

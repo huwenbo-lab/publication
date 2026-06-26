@@ -1,6 +1,6 @@
 # Sociological Science — 文章标题索引
 
-共 **393** 篇 | 年份范围：2014–2026
+共 **403** 篇 | 年份范围：2014–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -26,6 +26,16 @@
 - The Faith Factor. How Scholars’ Religiosity Biases Research Findings on Secularization · [DOI](https://doi.org/10.15195/v13.a7)
 - The Forward March of Categorical Tolerance in the United States · [DOI](https://doi.org/10.15195/v13.a2)
 - There Is Cumulative Status Bias and Status Entrenchment in NBA Awards: Comment on McMahan and Shor (2024) · [DOI](https://doi.org/10.15195/v13.a12)
+- Echo Chambers Are Defined by Conflict, Not Isolation · [DOI](https://doi.org/10.15195/v13.a22)
+- Dissecting Taste Distinction: Cultural Tastes and Perceptions of Individuals’ Status and Qualities · [DOI](https://doi.org/10.15195/v13.a20)
+- How a Seemingly Innocuous and Intuitive Methodological Choice Confused a Generation of Research on Policy Responsiveness · [DOI](https://doi.org/10.15195/v13.a21)
+- Declining Inequality and Persistent Inequality Structures · [DOI](https://doi.org/10.15195/v13.a24)
+- Family Networks and Childcare Choices: A Predictive Machine Learning Approach · [DOI](https://doi.org/10.15195/v13.a23)
+- Changing Opportunity: Rising Local Wealth Inequality and Growing Class Gaps in Income Mobility · [DOI](https://doi.org/10.15195/v13.a25)
+- Teacher Sorting and Inequalities in Student Achievement: Unequal Exposures and Differential Returns to Teacher Qualifications · [DOI](https://doi.org/10.15195/v13.a29)
+- Clickbait Crime News? Metrics and Professional Authority in Local Newsrooms · [DOI](https://doi.org/10.15195/v13.a27)
+- Beyond Text: Using AI-Generated Visual Conjoints to Study Gender and Housework Attribution · [DOI](https://doi.org/10.15195/v13.a26)
+- The Exception to Women’s Advantage: How Rurality, Red Counties, and the Local Economy Shape Gender Gaps in Educational Attainment · [DOI](https://doi.org/10.15195/v13.a28)
 
 ## 2025
 

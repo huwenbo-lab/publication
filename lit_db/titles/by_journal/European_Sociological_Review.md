@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1393** 篇 | 年份范围：1986–2026
+共 **1421** 篇 | 年份范围：1986–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -10,6 +10,12 @@
 - Changing regional university availability and inequality of educational opportunity in Japan · [DOI](https://doi.org/10.1093/esr/jcag011)
 - Does statistical discrimination explain grading bias? Evidence from a natural experiment · [DOI](https://doi.org/10.1093/esr/jcag005)
 - Stratified scars: social inequality in the labour market consequences of apprenticeship dropout · [DOI](https://doi.org/10.1093/esr/jcag010)
+- Parenthood, occupational sex segregation, and wage: motherhood penalty and fatherhood premium in China · [DOI](https://doi.org/10.1093/esr/jcag012)
+- Beyond absolute education: relative educational attainment and perceived discrimination among immigrants · [DOI](https://doi.org/10.1093/esr/jcaf054)
+- Labour market insecurity and parental co-residence in the United Kingdom: heterogeneities by parental class and age · [DOI](https://doi.org/10.1093/esr/jcaf058)
+- Changing choices? Primary and secondary effects through times of educational contraction · [DOI](https://doi.org/10.1093/esr/jcag019)
+- The long-term effects of childhood residential mobility on social capital · [DOI](https://doi.org/10.1093/esr/jcag001)
+- Why do young US Americans avoid cross-partisan dating? A closer look at mediators and variation by gender and party · [DOI](https://doi.org/10.1093/esr/jcag020)
 
 ## 2025
 
@@ -243,6 +249,7 @@
 - Who benefits from school-to-work linkages in the labour market? A comparison between natives, migrants educated abroad, and those educated domestically · [DOI](https://doi.org/10.1093/esr/jcac038)
 - Why do gendered divisions of labour persist? Parental leave take-up among adoptive and biological parents · [DOI](https://doi.org/10.1093/esr/jcac058)
 - Why making promotion after a burnout is like boiling the ocean · [DOI](https://doi.org/10.1093/esr/jcac055)
+- Women’s aversion to majors that (seemingly) require systemizing skills causes gendered field of study choice · [DOI](https://doi.org/10.1093/esr/jcad021)
 
 ## 2022
 
@@ -1472,10 +1479,27 @@
 ## 1999
 
 - When Institutions Matter:Union Growth and Decline in Western Europe, 1950-1995 · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018257)
+- Explaining Sex Differences in Educational Choice An Empirical Assessment of a Rational Choice Model · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018272)
+- Military Service During Wartime Effects on Men's Occupational Trajectories and Later Economic Well-Being · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018261)
+- Validity and Systematicity of Newspaper Data in Event Analysis · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018265)
+- Occupational Matching and Social Stratification: Theoretical Insights and Empirical Observations Taken from a German-German Comparison · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018253)
+
+## 1998
+
+- Reforms, Expansion, and Equality of Opportunity · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018226)
 
 ## 1996
 
 - 'Losing my religion'1: a dynamic analysis of leaving the church in the Netherlands · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018179)
+- The Salience of the Part-time Divide in the European Union · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018190)
+
+## 1995
+
+- Matching Training and Jobs: The Fit Between Vocational Education and Employment in the German Labour Market · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036365)
+
+## 1994
+
+- Ideological Basis of the Market Economy: Attitudes Toward Distribution Principles and the Role of Government in Western and Eastern Germany · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036324)
 
 ## 1993
 
@@ -1484,11 +1508,21 @@
 ## 1992
 
 - Testing the validity of the Goldthorpe class schema · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036638)
+- Locating class cleavages in inter-generational mobility: cross-national commonalities and variations in mobility patterns · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036641)
+- Common social fluidity: a comment on recent criticisms · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036639)
+- Explaining Trends in Occupational Segregation: The Measurement, Causes, and Consequences of the Sexual Division of Labour · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036628)
+- Symmetry and hierarchy in social mobility: a methodological analysis of the CASMIN model of class mobility · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036640)
 
 ## 1991
 
 - Educational transition in Hungary from the post-war period to the end of the 1980s · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036602)
 - Grateful slaves and self-made women: fact and fantasy in women's work orientations · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036590)
+- Distinction by consumption in Czechoslovakia, Hungary, and the Netherlands · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036605)
+- Childhood Living Conditions, Health Status, and Social Mobility: A Contribution to the Health Selection Debate · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036593)
+
+## 1990
+
+- Kinship and social networks in modern societies: a cross-cultural comparison among seven nations · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036553)
 
 ## 1989
 
@@ -1501,7 +1535,13 @@
 ## 1987
 
 - Jobs and classes: structural constraints on career mobility · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036428)
+- Commonality and variation in social fluidity in industrial nations. Part II: the model of core social fluidity applied · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036441)
+- Individuals and parties—changes in processes of political mobilization · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036449)
 
 ## 1986
 
 - Increasing equality in household work: patterns of time-use change in Norway · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036417)
+- Social context and inter-ethnic relations: the case of migrant workers in West German urban areas · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036404)
+- Educational systems and labour markets as determinants of worklife mobility in France and West Germany: a comparison of men's career mobility, 1965–1970 · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036414)
+- Career opportunities in the Federal Republic of Germany: a dynamic approach to the study of life-course, cohort, and period effects · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036419)
+- Sources of immigrants' language proficiency: Australian results with comparisons to the Federal Republic of Germany and the United States of America · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036420)

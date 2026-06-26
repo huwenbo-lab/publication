@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2020–2026 年文章（含摘要）
 
-共 **731** 篇
+共 **756** 篇
 
 ---
 
@@ -64,6 +64,91 @@
 **年份**: 2026 | **DOI**: [10.1177/0192513X251362452](https://doi.org/10.1177/0192513X251362452)
 **作者**: Fauziah, Nailul
 **摘要**: This research aims to build a substantive theory about the dynamics of family harmony in families with children with ASD. Data were collected through in-depth interviews with 23 participants (9 families) and analysed using the constant comparison method.…
+
+### Latent Class of Child-Rearing Values and Their Relationships With Fertility
+**年份**: 2026 | **DOI**: [10.1177/0192513x251415517](https://doi.org/10.1177/0192513x251415517)
+**作者**: Jung, Sun Young
+**摘要**: The purpose of this study is to identify the subgroups of child-rearing values and the patterns of the proportions of the subgroups across OECD countries. It also examines the relationships between the proportions of these subgroups and the total fertility rates (TFRs) of the countries concerned.…
+
+### Mothering Black Adolescents: Personal and Adolescent-Experienced Racial Discrimination, Superwoman Schema, and Black American Mothers’ Mental Health
+**年份**: 2026 | **DOI**: [10.1177/0192513x261419151](https://doi.org/10.1177/0192513x261419151)
+**作者**: Jelsma, Elizabeth; Varner, Fatima
+**摘要**: Racial discrimination affects individuals and families, especially Black American mothers, who often rely on coping strategies like the Superwoman Schema—reflecting stress, resilience, and societal expectations shaped by racism and sexism.…
+
+### “Me Siento Mal”: Mexican and Central American Immigrants’ Narratives on the Emotional Costs of Extended Parental Separation
+**年份**: 2026 | **DOI**: [10.1177/0192513x251414624](https://doi.org/10.1177/0192513x251414624)
+**作者**: Cholula, Natalie J.
+**摘要**: Immigrants in the United States maintain emotional and economic relationships across borders while navigating the immigration system’s methods of control. The current study investigates the emotional and mental health impacts of Mexican and Central American adult immigrants experiencing transnationa…
+
+### Presence Matters: Perceptions of Emotional and Social Involvement of Black Fathers
+**年份**: 2026 | **DOI**: [10.1177/0192513x251414617](https://doi.org/10.1177/0192513x251414617)
+**作者**: Campbell, Erica; Alston, Mar’Deja S.
+**摘要**: Background: Historically, systemic oppression and slavery disrupted the structure of Black families, contributing to the absence of fathers and ongoing challenges with paternal involvement.…
+
+### The Relationship Between Family Socio-Economic Status and Preschool Children’s Social Competence: The Chain Mediating Role of Family Internal Support and Children’s Empathy
+**年份**: 2026 | **DOI**: [10.1177/0192513x261423891](https://doi.org/10.1177/0192513x261423891)
+**作者**: Li, Jingmei; Yuan, Haojie; Yan, Zhonglian 等6人
+**摘要**: The present study aims to explore the relationship between family socioeconomic status and children’s social competence and to examine the chain-mediating mechanism of the relationship between family internal support and children’s empathy.…
+
+### Through Their Eyes: “My Mother Hit Me Because I’m a Girl…” The Looking-Glass Self and Parents’ Perception of Childhood Maltreatment
+**年份**: 2026 | **DOI**: [10.1177/0192513x261418731](https://doi.org/10.1177/0192513x261418731)
+**作者**: Intan, Reno; Suminar, Jenny Ratna; Hadisiwi, Purwanti 等4人
+**摘要**: Self-perception shapes how individuals view themselves and interact with the world. For parents with a history of childhood maltreatment, these self-perceptions are often influenced by past trauma and negative relational experiences.…
+
+### Acculturation and Resilience Influences from the Latino Fathers’ Perspective
+**年份**: 2026 | **DOI**: [10.1177/0192513x251414622](https://doi.org/10.1177/0192513x251414622)
+**作者**: Garcia, John; Hwang, Shann Hwa
+**摘要**: This phenomenological study focused on the lived experiences of Latino fathers’ perceptions of acculturation into the United States and how their role, family structure, and responsibility were impacted from their perspective.…
+
+### The Politics of the Home: How Family Labour Division, Patriarchy, and Kinship Reproduce Gender Inequality
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459395](https://doi.org/10.1177/0192513x261459395)
+**作者**: Zhao, Jianyun
+**摘要**: This paper examines the family as a pivotal site in the production and reproduction of gender inequality. Tracing origins, continuation, and intergenerational transmission, it argues that household labour division and entrenched gender norms, which are rooted in biological determinist narratives, es…
+
+### How Child and Partnership Characteristics Influence Paternal Involvement
+**年份**: 2026 | **DOI**: [10.1177/0192513x261427676](https://doi.org/10.1177/0192513x261427676)
+**作者**: Eichhorn, Thomas; Zerle-Elsäßer, Claudia
+**摘要**: Coming from a family system theoretical perspective we asked to what extent selected child characteristics (age and gender of the child, position in the sibling order, biological/non-biological child, child health status) influence paternal involvement.…
+
+### Subjective Well-Being of Children and Caregivers: The Role of Caregiver Traits and Socioeconomic Pressures in Ethiopia
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459378](https://doi.org/10.1177/0192513x261459378)
+**作者**: Alemu, Ferede Mengistie
+**摘要**: Whilst important and shaped by economic pressures, children’s subjective well-being (SWB) remains largely overlooked in low-income settings. This study examines: (i) whether economic shocks affect children’s SWB through caregivers’ well-being pathways, and (ii) differences in children’s SWB in relat…
+
+### Resilience Among African American Adolescent Girls Navigating Fatherlessness: A Qualitative Inquiry
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459377](https://doi.org/10.1177/0192513x261459377)
+**作者**: Barnes, Jessica Mikaja; Sandonato, Brittany; Coleman, Cheryl 等6人
+**摘要**: In recent years the construct of fatherlessness has been a well-researched topic. The topic has been heavily researched from the lens of the fathers themselves, the adults their children grow to be, and the sons that they have abandoned.…
+
+### When Kin Are Far: Reshaping Social Support Networks in Later Life
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459374](https://doi.org/10.1177/0192513x261459374)
+**作者**: Ti, Lijun; Gui, Tianhan
+**摘要**: This study examines how older adults in China reorganize their social support networks following the migration of their adult children. Drawing on the Social Convoy Model (SCM) and Socioemotional Selectivity Theory (SST), the study explores how older adults respond to intergenerational geographic se…
+
+### Diapers vs. Date Nights: A Longitudinal Comparison of Premaritally Pregnant, Postmaritally Pregnant Parents, and Nonparents on Marital Disillusionment and Satisfaction
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459394](https://doi.org/10.1177/0192513x261459394)
+**作者**: Gendron, Sydney; Willis-Grossmann, Emma; Reifman, Alan 等6人
+**摘要**: The transition to parenthood is often a challenging and stressful time for couples, with partners’ experiences possibly varying by gender and timing of childbirth. We surveyed married couples (two-phase n = 124 couples; roughly 45% Hispanic) within 6 months post-wedding and 2.5 years later to assess…
+
+### From Work-Family Enrichment to Marital Satisfaction: A Dyadic Longitudinal Study and Marital Attachment Mediation
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459405](https://doi.org/10.1177/0192513x261459405)
+**作者**: Ren, Menghao; Luo, Xiaohang; Zhao, Ruoshui 等5人
+**摘要**: Within the framework of the work-family enrichment model, this study examined the actor and partner effects of work-family enrichment on marital satisfaction, as well as the mediating role of marital attachment.…
+
+### Caring Costs: The Impact of Care Burdens on the Composition of Household Expenditure in Chile
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459384](https://doi.org/10.1177/0192513x261459384)
+**作者**: Palma, Julieta; Pérez-Roa, Lorena; Arteaga, Catalina 等4人
+**摘要**: Although previous studies have examined the economic costs of care in terms of reduced earnings and increased direct expenses, less is known about how caregiving responsibilities shape household budget allocation.…
+
+### Religion and Women’s Emotional Responses to Abortion
+**年份**: 2026 | **DOI**: [10.1177/0192513x261460819](https://doi.org/10.1177/0192513x261460819)
+**作者**: Clifton, Tristen; Uecker, Jeremy E.; Zhu, Xi
+**摘要**: The social processes that shape women’s emotional responses to abortions are not well understood, including the role of religion. Using a nationally representative sample of women who have had abortions ( N = 1,217), we examine the relationships between religious service attendance, salience, and af…
+
+### Marital Satisfaction in Late Life: Sociodemographic and Psychological Correlates Among Iranian Older Adults
+**年份**: 2026 | **DOI**: [10.1177/0192513x261459388](https://doi.org/10.1177/0192513x261459388)
+**作者**: Ramezani, Tahereh; Rahmanian, Fatemeh; Bayati, Fatemeh 等4人
+**摘要**: Marital satisfaction is essential for older adults’ well-being. This cross-sectional study examined sociodemographic and psychological factors influencing marital satisfaction among 363 older adults in Semnan, Iran (mean age 65.42 ± 5.24 years; 58.1% male; mean marriage duration 42.09 ± 7.13 years).…
 
 ### 'It's Like a Weight Lifted off Your Shoulders': A Qualitative Study of Adult Carers Taking a Break
 **年份**: 2025 | **DOI**: [10.1177/0192513X251393155](https://doi.org/10.1177/0192513X251393155)
@@ -584,6 +669,16 @@
 **年份**: 2025 | **DOI**: [10.1177/0192513X241257231](https://doi.org/10.1177/0192513X241257231)
 **作者**: Pujol-Cols, Lucas; Arraigada, Mariana; Lazzaro-Salazar, Mariana 等4人
 **摘要**: The deep technological and social transformations undergone by modern societies in the last few decades, along with the increasing demands for adaptation associated with the COVID-19 pandemic, have imposed unprecedented challenges on employees in terms of balancing competing demands both from work a…
+
+### Parental Recollections of Bullying
+**年份**: 2025 | **DOI**: [10.1177/0192513x251347314](https://doi.org/10.1177/0192513x251347314)
+**作者**: Rosen, Lisa H.; Rubin, Linda J.; Romines, Ashton 等4人
+**摘要**: Bullying is a problem of global concern with most research focused on school-aged children. The current study examined the types of childhood bullying parents recalled as well as how they perceived effects of these experiences. A diverse sample of 250 U.S.…
+
+### When Working From Home Fails to Support Work–Life Balance: The Role of Childcare- and Work-Related Demands
+**年份**: 2025 | **DOI**: [10.1177/0192513x251356260](https://doi.org/10.1177/0192513x251356260)
+**作者**: Kurowska, Anna; Kasperska, Agnieszka; Kaufman, Gayle
+**摘要**: The new normal of working from home (WFH) brought by the COVID-19 pandemic enabled parents to manage increased childcare demands while working remotely. Using multi-country data from the Familydemic Harmonized Dataset ( n = 9364), this study examines how WFH was related to perceived changes in work–…
 
 ### 'It's a Man's Job': Doing Gender and Male Gatekeeping in the Division of Household Labor
 **年份**: 2024 | **DOI**: [10.1177/0192513X231224109](https://doi.org/10.1177/0192513X231224109)
@@ -1920,6 +2015,11 @@
 **作者**: Gomez-Urrutia, Veronica; Jimenez Figueroa, Andres; Diaz, Nicole 等4人
 **摘要**: The distribution of paid work and family responsibilities along gender lines is an important source of gender inequality, even in younger generations. Young people declare to embrace egalitarian work-family conciliation ideals, but, in practice, women still assume the bulk of domestic and carework.…
 
+### Ethnic-Racial Socialization of White Children by White Parents: A Systematic Review
+**年份**: 2023 | **DOI**: [10.1177/0192513x231194306](https://doi.org/10.1177/0192513x231194306)
+**作者**: Nieri, Tanya; Montoya, Lissette; Carlos, Clarissa
+**摘要**: This systematic review of the literature examined the extent and nature of white parent’s ethic-racial socialization (ERS) of white children, the factors associated with white parents’ ERS, and the child outcomes of white parents’ ERS.…
+
 ### A Qualitative Exploration of Fathers' Antenatal and Postnatal Challenges
 **年份**: 2022 | **DOI**: [10.1177/0192513X211030060](https://doi.org/10.1177/0192513X211030060)
 **作者**: Gemayel, Daisy J.; Wiener, Karl K. K.; Easpaig, Brona Nic Giolla 等4人
@@ -2600,6 +2700,16 @@
 **作者**: Chojnacka, Barbara; Iwanski, Rafal
 **摘要**: Keywords family processes, parent/child relations, young carers, parentification, child welfare, family support
 
+### Weathering the Storm: Longitudinal Evidence on Women’s Changing Family Relationships During COVID-19
+**年份**: 2022 | **DOI**: [10.1177/0192513x221087721](https://doi.org/10.1177/0192513x221087721)
+**作者**: Lim-Soh, Jeremy W.; Tan, Poh Lin
+**摘要**: The massive socioeconomic changes wrought by COVID-19 have disrupted multiple aspects of family life. However, evidence is still lacking on the sustained long-term impact of the pandemic and how families are adapting to this new normal.…
+
+### Grandparenting and Well-Being of the Elderly in China
+**年份**: 2022 | **DOI**: [10.1177/0192513x221127024](https://doi.org/10.1177/0192513x221127024)
+**作者**: Luo, Qi; Fidrmuc, Jan; Wang, Hao
+**摘要**: Grandparenting duties can affect the well-being of the elderly both positively and negatively. This paper disentangles the interactions between grandparenting, quality of life, and life satisfaction in China.…
+
 ### A Blessing and a Curse Couples Dealing with Ambivalence Concerning Grandparental Involvement During the Transition to Parenthood-A Longitudinal Study
 **年份**: 2021 | **DOI**: [10.1177/0192513X20950786](https://doi.org/10.1177/0192513X20950786)
 **作者**: Zartler, Ulrike; Schmidt, Eva-Maria; Schadler, Cornelia 等5人
@@ -3185,6 +3295,16 @@
 **作者**: Emmott, Emily H.; Mace, Ruth
 **摘要**: Studies show that fathers across Western populations tend to provide more care to sons than daughters. Following a human behavioral ecological framework, we hypothesize that son-biases in fathering may (at least in part) be due to differences in fitness returns to paternal direct investments by chil…
 
+### Does Family Decision-Making Power Improve Women’s Happiness?
+**年份**: 2021 | **DOI**: [10.1177/0192513x211030025](https://doi.org/10.1177/0192513x211030025)
+**作者**: Li, Zhongwu
+**摘要**: It is almost a consensus that the stronger family decision-making power a woman has, the happier she will be. While using the China Family Panel Studies, this study reveals a long-overlooked fact that women’s control over more family decision-making power does not necessarily improve their happiness…
+
+### Gender Role Ideology, Work–Family Conflict, Family–Work Conflict, and Marital Satisfaction Among Korean Dual-Earner Couples
+**年份**: 2021 | **DOI**: [10.1177/0192513x211026966](https://doi.org/10.1177/0192513x211026966)
+**作者**: Yoo, Jieun
+**摘要**: The purpose of this study was to examine the effect of the gender role ideology of Korean dual-earner couples on marital satisfaction through work-to-family conflict and family-to-work conflict.…
+
 ### (Re) Honoring the Legacy of Jessie Bernard: An Analysis of Junior Scholars' Outstanding Feminist Family Scholarship
 **年份**: 2020 | **DOI**: [10.1177/0192513X20913065](https://doi.org/10.1177/0192513X20913065)
 **作者**: Weaver, Shannon E.; Sharp, Elizabeth A.; Britton, Carmen
@@ -3659,3 +3779,8 @@
 **年份**: 2020 | **DOI**: [10.1177/0192513X19898512](https://doi.org/10.1177/0192513X19898512)
 **作者**: Roche, Kathleen M.; Vaquera, Elizabeth; Delbasso, Claudia A. 等6人
 **摘要**: The current study examines residency status differences in US Latino/a parents' perceptions of how recent immigration actions and news have shaped their lives. Focus group data were collected during the fall of 2017 from 50 Central American parents of adolescents.…
+
+### Romantic Relationship Quality of Youth with Two Biological Parents and Stepfathers
+**年份**: 2020 | **DOI**: [10.1177/0192513x20941906](https://doi.org/10.1177/0192513x20941906)
+**作者**: Washington, Chanell
+**摘要**: This study uses data from a sample of 7,404 respondents from Waves I and IV of the National Longitudinal Study of Adolescent to Adult Health (Add Health) to examine how the quality of relationships between parents (mother–father) and relationships between parents and children during adolescence (mot…

@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2010–2019 年文章（含摘要）
 
-共 **413** 篇
+共 **417** 篇
 
 ---
 
@@ -570,6 +570,11 @@
 **作者**: Hahl, Oliver; Zuckerman, Ezra W.; Kim, Minjae
 **摘要**: We develop and test the idea that public appreciation for authentic lowbrow culture affords an effective way for certain elites to address feelings of authenticity-insecurity arising from high status denigration (Hahl and Zuckerman 2014).…
 
+### Patchwork Leviathan: How Pockets of Bureaucratic Governance Flourish within Institutionally Diverse Developing States
+**年份**: 2017 | **DOI**: [10.1177/0003122417705874](https://doi.org/10.1177/0003122417705874)
+**作者**: McDonnell, Erin Metz
+**摘要**: Within seemingly weak states, exceptionally effective subunits lie hidden. These high-performing niches exhibit organizational characteristics distinct from poor-performing peer organizations, but also distinct from high-functioning organizations in Western countries.…
+
 ### Adolescents under Pressure: A New Durkheimian Framework for Understanding Adolescent Suicide in a Cohesive Community
 **年份**: 2016 | **DOI**: [10.1177/0003122416663464](https://doi.org/10.1177/0003122416663464)
 **作者**: Mueller, Anna S.; Abrutyn, Seth
@@ -1000,6 +1005,11 @@
 **作者**: Mears, Ashley
 **摘要**: Why do workers participate in their own exploitation? This article moves beyond the situational production of consent that has dominated studies of the labor process and outlines the relational production of labor's surplus value.…
 
+### Elements of Professional Expertise
+**年份**: 2015 | **DOI**: [10.1177/0003122415601157](https://doi.org/10.1177/0003122415601157)
+**作者**: Sandefur, Rebecca L.
+**摘要**: Lawyers keep the gates of public justice institutions, particularly through their roles in formal procedures like hearings and trials. Yet, it is not clear what lawyers do in such quintessentially legal settings: conclusions from past research are bedeviled by a lack of clear theory and inconsistenc…
+
 ### Are Suicidal Behaviors Contagious in Adolescence? Using Longitudinal Data to Examine Suicide Suggestion
 **年份**: 2014 | **DOI**: [10.1177/0003122413519445](https://doi.org/10.1177/0003122413519445)
 **作者**: Abrutyn, Seth; Mueller, Anna S.
@@ -1264,6 +1274,10 @@
 **年份**: 2014 | **DOI**: [10.1177/0003122413515997](https://doi.org/10.1177/0003122413515997)
 **作者**: Ridgeway, Cecilia L.
 **摘要**: To understand the mechanisms behind social inequality, this address argues that we need to more thoroughly incorporate the effects of status-inequality based on differences in esteem and respect-alongside those based on resources and power.…
+
+### Acknowledgment of Referees
+**年份**: 2014 | **DOI**: [10.1177/0003122414557779](https://doi.org/10.1177/0003122414557779)
+**摘要**: （暂无）
 
 ### A Broken Public? Americans' Responses to the Great Recession
 **年份**: 2013 | **DOI**: [10.1177/0003122413498255](https://doi.org/10.1177/0003122413498255)
@@ -1874,6 +1888,10 @@
 **年份**: 2011 | **DOI**: [10.1177/0003122411409704](https://doi.org/10.1177/0003122411409704)
 **作者**: Dobbin, Frank; Kim, Soohan; Kalev, Alexandra
 **摘要**: While some U.S. corporations have adopted a host of diversity management programs, many have done little or nothing. We explore the forces promoting six diversity programs in a national sample of 816 firms over 23 years.…
+
+### Acknowledgment of Referees
+**年份**: 2011 | **DOI**: [10.1177/0003122411431065](https://doi.org/10.1177/0003122411431065)
+**摘要**: （暂无）
 
 ### Activist Religion, Empire, and the Emergence of Modern Long-Distance Advocacy Networks
 **年份**: 2010 | **DOI**: [10.1177/0003122410374083](https://doi.org/10.1177/0003122410374083)

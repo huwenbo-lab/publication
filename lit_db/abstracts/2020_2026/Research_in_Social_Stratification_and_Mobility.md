@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2020–2026 年文章（含摘要）
 
-共 **364** 篇
+共 **376** 篇
 
 ---
 
@@ -53,6 +53,56 @@
 ### The role of graduate education in the intergenerational reproduction of inequality in Chile
 **年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101147](https://doi.org/10.1016/j.rssm.2026.101147)
 **作者**: Espinoza, Oscar; Corradi, Bruno; Sandoval, Luis 等5人
+**摘要**: （暂无）
+
+### Estimating the intersecting labor market disparities for justice-impacted individuals with disabilities: Evidence from two United States national data sets
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101152](https://doi.org/10.1016/j.rssm.2026.101152)
+**作者**: Brooks, Jennifer; Saleh, Matthew; Gao, Star Yanxin
+**摘要**: （暂无）
+
+### The contingency of future vs. present orientation and status attainment
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101151](https://doi.org/10.1016/j.rssm.2026.101151)
+**作者**: Kwon, Hye Won; Erola, Jani
+**摘要**: （暂无）
+
+### Gender differences in employers’ promotion preferences? The role of working time, care obligations, and work–family policies
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101154](https://doi.org/10.1016/j.rssm.2026.101154)
+**作者**: Wehner, Caroline; Protsch, Paula; Grip, Andries de
+**摘要**: （暂无）
+
+### Place of education, revisited: Effects on earnings by nativity, race, and gender
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101150](https://doi.org/10.1016/j.rssm.2026.101150)
+**作者**: Dunatchik, Allison; Schut, Rebecca Anna; Song, Xi
+**摘要**: （暂无）
+
+### The role of network isolation on language proficiency of children of migrants
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101138](https://doi.org/10.1016/j.rssm.2026.101138)
+**作者**: van Klingeren, Fijnanda; van der Laan, Jan; Das, Marjolijn
+**摘要**: （暂无）
+
+### Is a liberal school-to-work system more ‘meritocratic’? Overeducation, social origin, and early career mobility in Germany and the United Kingdom
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101146](https://doi.org/10.1016/j.rssm.2026.101146)
+**作者**: Michelin, Irene; Gioachin, Filippo; Barbieri, Paolo
+**摘要**: （暂无）
+
+### Occupational Gender Composition is Related to Occupational Wages: Causal Evidence from a Survey Experiment Investigating Occupational Devaluation
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101161](https://doi.org/10.1016/j.rssm.2026.101161)
+**作者**: Taylor, Catherine J.; Salim, Safa; Levanon, Asaf 等5人
+**摘要**: （暂无）
+
+### Is overqualification a stepping stone for career progression among children of immigrants?
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101164](https://doi.org/10.1016/j.rssm.2026.101164)
+**作者**: Kim, Wooseong; Grotti, Raffaele; Aradhya, Siddartha
+**摘要**: （暂无）
+
+### Aspirations as boundaries. Guidance practices and the reproduction of social inequality in free-choice tracking systems
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101165](https://doi.org/10.1016/j.rssm.2026.101165)
+**作者**: Borgna, Camilla; Contini, Dalit
+**摘要**: （暂无）
+
+### Can vocational role models change the gendered perception of STEM VET occupations? Results from an intervention study in Germany
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101166](https://doi.org/10.1016/j.rssm.2026.101166)
+**作者**: Beckmann, Janina; Athanasiadi, Ermioni; Granato, Mona
 **摘要**: （暂无）
 
 ### Associations of perceived social mobility with health indicators: Findings from the Chinese general social survey from 2017 to 2021
@@ -379,6 +429,11 @@
 **年份**: 2025 | **DOI**: [10.1016/j.rssm.2024.101008](https://doi.org/10.1016/j.rssm.2024.101008)
 **作者**: Guo, Ya; Ling, Wanying; Fan, Wen 等4人
 **摘要**: Although there is a growing body of literature on the detrimental health effects of work-schedule instability in high-income countries (e.g., the U.S.), most studies have predominantly focused on low socioeconomic status (SES) groups, overlooking the variations in the health effects of schedule inst…
+
+### Origin, destination, or mobility? A systematic review of studies using diagonal reference models
+**年份**: 2025 | **DOI**: [10.1016/j.rssm.2025.101047](https://doi.org/10.1016/j.rssm.2025.101047)
+**作者**: Shi, Songyun; Gugushvili, Alexi
+**摘要**: （暂无）
 
 ### Adding experiments to the classical survey-interview mix: A three-method design for supporting micro-to-macro explanations in sociology
 **年份**: 2024 | **DOI**: [10.1016/j.rssm.2024.100933](https://doi.org/10.1016/j.rssm.2024.100933)
@@ -1824,3 +1879,8 @@
 **年份**: 2020 | **DOI**: [10.1016/j.rssm.2020.100505](https://doi.org/10.1016/j.rssm.2020.100505)
 **作者**: Bussemakers, Carlijn; Kraaykamp, Gerbert
 **摘要**: In this article, we combine insights from development psychology and educational sociology to investigate to what extent adverse youth experiences harm children's educational attainment and how this impact varies with parents' resources.…
+
+### The institutional and cultural framing of the educational stratification in fertility. A review of the role of labor market institutions and attitudinal orientations
+**年份**: 2020 | **DOI**: [10.1016/j.rssm.2020.100482](https://doi.org/10.1016/j.rssm.2020.100482)
+**作者**: Bellani, Daniela
+**摘要**: （暂无）

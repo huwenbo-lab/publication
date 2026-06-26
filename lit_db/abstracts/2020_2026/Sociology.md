@@ -1,7 +1,7 @@
 # Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **474** 篇
+共 **475** 篇
 
 ---
 
@@ -94,6 +94,11 @@
 **年份**: 2026 | **DOI**: [10.1177/00380385251408261](https://doi.org/10.1177/00380385251408261)
 **作者**: Jackson, Emma
 **摘要**: There has been recent recognition of the potentials of walking as a social research method but less has been written about its pedagogical uses in sociology. This article sets out an approach for using walking in teaching as a collective practice that has the potential to shake up the traditional dy…
+
+### Contested capital: Class and the sociology of work
+**年份**: 2026 | **DOI**: [10.1177/00380385261446192](https://doi.org/10.1177/00380385261446192)
+**作者**: Choonara, Joseph; Carter, Bob
+**摘要**: Theories of class within sociology have, over several decades, increasingly marginalised work and employment as generators of social class. In place of this, there has been a growing emphasis on culture determining class, drawing especially on the work of Pierre Bourdieu and exemplified by the work …
 
 ### A Discomforting Pedagogy of Poverty: Discourses, Representations and Vulnerabilities
 **年份**: 2025 | **DOI**: [10.1177/00380385251380772](https://doi.org/10.1177/00380385251380772)

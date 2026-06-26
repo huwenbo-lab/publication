@@ -1,6 +1,6 @@
 # Socius — 文章标题索引
 
-共 **1015** 篇 | 年份范围：2016–2026
+共 **1032** 篇 | 年份范围：2016–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -27,6 +27,22 @@
 - Visualizing the Rise and Seasonality of Mass Shootings in the United States · [DOI](https://doi.org/10.1177/23780231261425279)
 - Who Feels Prestigious? Gender Differences in Self-Rated Occupational Prestige · [DOI](https://doi.org/10.1177/23780231251412640)
 - “He Got More Felonies Than I Do!” Formerly Incarcerated Americans on President Trump · [DOI](https://doi.org/10.1177/23780231261431008)
+- The “Most Familiar Stranger”: Chinese Perceptions of the Contemporary Japanese Ethnoracial Hierarchy · [DOI](https://doi.org/10.1177/23780231261437862)
+- The Sociology of “Dirty Research”: Interresearcher Positionality, Marginalization, and Stigma Management · [DOI](https://doi.org/10.1177/23780231261440318)
+- Are There Service Work-Games of Resistance? “Work-Play” and Relational Resistance in Dance Club Waitstaff Work · [DOI](https://doi.org/10.1177/23780231261435044)
+- Power, Status, Legitimacy, and Shame in Organizations · [DOI](https://doi.org/10.1177/23780231261438914)
+- The Changing Distribution of U.S. Asian Populations across Urban and Suburban Ethnic Neighborhoods · [DOI](https://doi.org/10.1177/23780231261442407)
+- Work-Family Conflict and Physical Activity: Exploring Gender Differences among Australian Parents · [DOI](https://doi.org/10.1177/23780231261429664)
+- Visualizing the Spatial Distribution of Aging Places in the United States, 2000 to 2020 · [DOI](https://doi.org/10.1177/23780231261446047)
+- Infrastructure-Led Development: The Reciprocal Asymmetry of the Urban Growth Machine · [DOI](https://doi.org/10.1177/23780231261438909)
+- Real-Time Revisionism: How Racialized Narratives Legitimize White Christian Dominance in the United States · [DOI](https://doi.org/10.1177/23780231261444056)
+- Rights of Nature in the United States: An Empirical Analysis of Local Legal Adoption · [DOI](https://doi.org/10.1177/23780231261446748)
+- Keys to the Future: How Gender and Sexuality Jointly Shape Parental Financial Support for Home Ownership · [DOI](https://doi.org/10.1177/23780231261450330)
+- What Would Jesus Fund? Christian Nationalism and Americans’ Views on Government Spending · [DOI](https://doi.org/10.1177/23780231261447651)
+- The Self-Other Gap in Perceived Automation Risk: Evidence from the United States and Canada · [DOI](https://doi.org/10.1177/23780231261453968)
+- Resource Stratification and Income Segregation in Brazilian and Chilean Universities · [DOI](https://doi.org/10.1177/23780231261451346)
+- Group Differences in Income Distributions, Poverty Gaps, and Poverty Buffers: Inequalities between the Children of Swedish-Born and Migrant Parents · [DOI](https://doi.org/10.1177/23780231261450748)
+- Rethinking Platform Capitalism: Mapping the Algorithmic Logics and Labor Control Models of Uber Eats and Fantuan · [DOI](https://doi.org/10.1177/23780231261452733)
 
 ## 2025
 
@@ -678,6 +694,7 @@
 - “Hey, by the Way, I’m Transgender”: Transgender Disclosures as Coming Out Stories in Social Contexts among Trans Men · [DOI](https://doi.org/10.1177/23780231211039389)
 - “Pee in Peace” or “Make Everyone Uncomfortable”: Public Perceptions of Transgender Rights · [DOI](https://doi.org/10.1177/23780231211055541)
 - “The Looming, Crazy Stalker Coronavirus”: Fear Mongering, Fake News, and the Diffusion of Distrust · [DOI](https://doi.org/10.1177/23780231211024776)
+- Health Starting Points: Continuity and Change in Physical and Mental Health before and during the Pandemic · [DOI](https://doi.org/10.1177/23780231211025382)
 
 ## 2020
 

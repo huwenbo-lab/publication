@@ -1,7 +1,7 @@
 # Chinese Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **139** 篇
+共 **143** 篇
 
 ---
 
@@ -9,6 +9,21 @@
 **年份**: 2026 | **DOI**: [10.1080/21620555.2026.2650269](https://doi.org/10.1080/21620555.2026.2650269)
 **作者**: Miao, Jia; Wu, Xiaogang
 **摘要**: As social protests have proliferated globally, concerns have grown regarding their implications for population mental health. This study investigates the impact of the Occupy Central movement, a large-scale, nonviolent protest, on mental distress among Hong Kong adults.…
+
+### Normalization, parent–child relationships and identity: becoming parents with tongxinglian (same-sex loving) sons/daughters in PFLAG China
+**年份**: 2026 | **DOI**: [10.1080/21620555.2026.2656195](https://doi.org/10.1080/21620555.2026.2656195)
+**作者**: Shi, Junpeng
+**摘要**: （暂无）
+
+### Large language models as a conduit for value shifts in contemporary China
+**年份**: 2026 | **DOI**: [10.1080/21620555.2026.2656193](https://doi.org/10.1080/21620555.2026.2656193)
+**作者**: Cao, Likun; Dai, Lianghao
+**摘要**: （暂无）
+
+### An alternative perspective on the Second Demographic Transition in East Asia: the relationship between pregnancy intentions and trajectories of cohabitation, marriage, and pregnancy in Japan
+**年份**: 2026 | **DOI**: [10.1080/21620555.2026.2663396](https://doi.org/10.1080/21620555.2026.2663396)
+**作者**: Mogi, Ryohei; Uchikoshi, Fumiya; Yoda, Shohei
+**摘要**: （暂无）
 
 ### Accept it or not?: young people's struggles with parental financing for property-purchase in Hong Kong
 **年份**: 2025 | **DOI**: [10.1080/21620555.2024.2414439](https://doi.org/10.1080/21620555.2024.2414439)
@@ -594,6 +609,11 @@
 **年份**: 2021 | **DOI**: [10.1080/21620555.2021.1888080](https://doi.org/10.1080/21620555.2021.1888080)
 **作者**: Dong, Hao; Fan, Xiaoguang
 **摘要**: Taking advantage of changes in college admissions and the labor market in post-revolution China, this study sheds light on the institutional conditions under which a college degree may equalize the influence of family educational background on labor market outcomes.…
+
+### Migration and children in China: a review and future research agenda
+**年份**: 2021 | **DOI**: [10.1080/21620555.2021.1908823](https://doi.org/10.1080/21620555.2021.1908823)
+**作者**: Liang, Zai; Li, Wenli
+**摘要**: （暂无）
 
 ### Are Children from Divorced Single-Parent Families Disadvantaged? New Evidence from the China Family Panel Studies
 **年份**: 2020 | **DOI**: [10.1080/21620555.2019.1654366](https://doi.org/10.1080/21620555.2019.1654366)

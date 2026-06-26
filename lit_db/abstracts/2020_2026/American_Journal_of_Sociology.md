@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **188** 篇
+共 **197** 篇
 
 ---
 
@@ -13,6 +13,46 @@
 ### Exams, Meritocracy, and Disenchantment with the Chinese Dream
 **年份**: 2026 | **DOI**: [10.1086/738608](https://doi.org/10.1086/738608)
 **作者**: Wu, Xiaogang
+**摘要**: （暂无）
+
+### : Sons, Daughters, and Sidewalk Psychotics: Mental Illness and Homelessness in Los Angeles
+**年份**: 2026 | **DOI**: [10.1086/739928](https://doi.org/10.1086/739928)
+**作者**: Purser, Gretchen
+**摘要**: （暂无）
+
+### : The Economy of Promises: Trust, Power, and Credit in America
+**年份**: 2026 | **DOI**: [10.1086/740005](https://doi.org/10.1086/740005)
+**作者**: Lauer, Josh
+**摘要**: （暂无）
+
+### Skill Diversification Beyond High-Paying Jobs
+**年份**: 2026 | **DOI**: [10.1086/741725](https://doi.org/10.1086/741725)
+**作者**: Han, Siqi; Cheng, Siwei
+**摘要**: （暂无）
+
+### : Reunited: Family Separation and Central American Youth Migration
+**年份**: 2026 | **DOI**: [10.1086/739927](https://doi.org/10.1086/739927)
+**作者**: Schmalzbauer, Leah
+**摘要**: （暂无）
+
+### The Coupled Dynamics of Neighborhood and School Change
+**年份**: 2026 | **DOI**: [10.1086/740798](https://doi.org/10.1086/740798)
+**作者**: Field, Elly; Bruch, Elizabeth
+**摘要**: （暂无）
+
+### From Conflict to Cohesion: Structural Similarity Dampens Uncivil Discourse in Polarized Social Groups
+**年份**: 2026 | **DOI**: [10.1086/740301](https://doi.org/10.1086/740301)
+**作者**: Yeaton, Matthew; Anshuman, Sarayu; Srivastava, Sameer B.
+**摘要**: （暂无）
+
+### Atlantic Reconstruction: Democracy, Abolition, and the Making of Political Personhood
+**年份**: 2026 | **DOI**: [10.1086/741674](https://doi.org/10.1086/741674)
+**作者**: Hammer, Ricarda
+**摘要**: （暂无）
+
+### Deportation’s Fallout: Evidence from Denmark
+**年份**: 2026 | **DOI**: [10.1086/742317](https://doi.org/10.1086/742317)
+**作者**: Light, Michael T.; Andersen, Lars H.; Hendel, Noa
 **摘要**: （暂无）
 
 ### Adjudication Under Cover: Compliance and Inequality in the Criminal Courts
@@ -508,6 +548,11 @@
 ### You Are Worthy, Queen: Black Women and Women of Color's Struggles in the Labor Market Continue
 **年份**: 2023 | **DOI**: [10.1086/728980](https://doi.org/10.1086/728980)
 **作者**: Durr, Marlese
+**摘要**: （暂无）
+
+### No Differential Effects of Classroom Ethnic Composition on Native and Immigrant Friendship Segregation: Comment on Smith et al., 2016
+**年份**: 2023 | **DOI**: [10.1086/727823](https://doi.org/10.1086/727823)
+**作者**: Kretschmer, David; Gereke, Johanna; Winter, Fabian 等4人
 **摘要**: （暂无）
 
 ### Balancing Categorical Conventionality in Music

@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1568** 篇 | 年份范围：1980–2026
+共 **1630** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -26,6 +26,34 @@
 - What determines PhD graduates' employability in Chinese academia? A graduate capital perspective · [DOI](https://doi.org/10.1080/01425692.2025.2578231)
 - When meritocracy breeds insecurity: moralized over-striving, temporal disciplining and resistance in China’s specialized college · [DOI](https://doi.org/10.1080/01425692.2026.2645104)
 - ‘I won’t remain here’: socially advantaged students and vocational education in China’s institutional tracking context · [DOI](https://doi.org/10.1080/01425692.2026.2642106)
+- The Creative Art of Troublemaking in education, · [DOI](https://doi.org/10.1080/01425692.2025.2602256)
+- A different kind of familiar: the insider-outsider paradox and negotiating teacher sense of belonging · [DOI](https://doi.org/10.1080/01425692.2026.2657329)
+- Diversity of religion and belief in education: inequality, citizenship and belonging · [DOI](https://doi.org/10.1080/01425692.2026.2648452)
+- Parents’ perspectives on special education in England: institutional disability discrimination and non-compliance with the law · [DOI](https://doi.org/10.1080/01425692.2026.2638269)
+- Religion, agency, and choice in English state schools · [DOI](https://doi.org/10.1080/01425692.2026.2616654)
+- Exploring anxiety and behaviour. Agency, liminality and relational embodiment in a PRU · [DOI](https://doi.org/10.1080/01425692.2026.2664171)
+- ‘Do you want to be a bully?’ Critical school textbook analysis on friendship and bullying · [DOI](https://doi.org/10.1080/01425692.2026.2668489)
+- Against School: Thinking Education Differently · [DOI](https://doi.org/10.1080/01425692.2026.2615545)
+- The ‘grammar’ of justice: how do governing boards advance social justice for racially minoritised learners? · [DOI](https://doi.org/10.1080/01425692.2025.2609180)
+- Diluting exclusivity? The prevalence and distribution of bursaries and scholarships for Britain’s private schools · [DOI](https://doi.org/10.1080/01425692.2026.2664720)
+- Conservative peripheral societies and the acquisition of higher education: multidimensional marginality · [DOI](https://doi.org/10.1080/01425692.2025.2609174)
+- Post-schooling the elite: spaceX, cognitive platforming and educational abstraction · [DOI](https://doi.org/10.1080/01425692.2025.2609177)
+- Fighting for funding, working-class women’s transitions to sociology doctoral education: ‘significant academic others’, economic and social capital · [DOI](https://doi.org/10.1080/01425692.2025.2608321)
+- Being a ‘good’ citizen: white collegiality and academic citizenship · [DOI](https://doi.org/10.1080/01425692.2026.2674680)
+- Between reflexivity and habitus: transnational academic mobility among Chinese-trained postdoctoral researchers in the United States · [DOI](https://doi.org/10.1080/01425692.2026.2679478)
+- Navigating structure and agency: disadvantaged Chinese students’ motivations for international education mobility · [DOI](https://doi.org/10.1080/01425692.2026.2619550)
+- Education and the Politics of Interruption: Does the Right Always Win? · [DOI](https://doi.org/10.1080/01425692.2026.2666440)
+- Evolving homophily in higher education: how university settings transform international student relationships · [DOI](https://doi.org/10.1080/01425692.2026.2679479)
+- Roots and leaves: rethinking the relationship between habitus and identity · [DOI](https://doi.org/10.1080/01425692.2026.2681654)
+- What makes bullying complicated - teachers’ perceptions of bullying-related issues in school · [DOI](https://doi.org/10.1080/01425692.2026.2682490)
+- Understanding racialised elements of habitus of working-class women on an access to higher education course · [DOI](https://doi.org/10.1080/01425692.2026.2679486)
+- Symbolic haunting: first-generation university students’ limited sense of entitlement · [DOI](https://doi.org/10.1080/01425692.2026.2615957)
+- Translanguaging knowledge mobilised for theorising: a case study of Chinese bilingual postgraduate researchers in Australia · [DOI](https://doi.org/10.1080/01425692.2026.2685042)
+- The UK field of higher education institutions and its homologies: class, gender and race · [DOI](https://doi.org/10.1080/01425692.2026.2679488)
+- ‘There actually aren’t enough hours in the week’: a constructivist grounded theory of defending inaction on the implementation of intercultural education in Irish schools · [DOI](https://doi.org/10.1080/01425692.2026.2622379)
+- Toward a sociology of education and artificial intelligence · [DOI](https://doi.org/10.1080/01425692.2026.2686013)
+- The role of parents’ educational background in upper secondary students’ utilization of career guidance resources · [DOI](https://doi.org/10.1080/01425692.2026.2619914)
+- The paradox of the ‘good teacher’: navigating power relations and subjectivity in China’s recorded courses · [DOI](https://doi.org/10.1080/01425692.2026.2618474)
 
 ## 2025
 
@@ -127,6 +155,8 @@
 - What does a sociologist do? Norwegian, English, and Hungarian university students' possible future selves · [DOI](https://doi.org/10.1080/01425692.2024.2431274)
 - When the halo of my overseas credentials disappeared: Chinese student returnees and their domestic employability · [DOI](https://doi.org/10.1080/01425692.2025.2519491)
 - Whiteness in HE and the limitations of representational politics: racially minoritised student's views and experiences · [DOI](https://doi.org/10.1080/01425692.2025.2596931)
+- Time in education policy transfer: the seven temporalities of global school reform · [DOI](https://doi.org/10.1080/01425692.2025.2602255)
+- The Time Inheritors – How Time Inequalities Shape Higher Education Mobility in China · [DOI](https://doi.org/10.1080/01425692.2025.2602254)
 
 ## 2024
 
@@ -403,6 +433,7 @@
 - Understanding the complexity of Chinese rural parents' roles in their children's access to elite universities · [DOI](https://doi.org/10.1080/01425692.2021.1872364)
 - World, planet, territory: toward a geo-logic in the critical sociology of education · [DOI](https://doi.org/10.1080/01425692.2021.1925086)
 - Young pupils' articulations of time spent in school in the wake of a policy reform · [DOI](https://doi.org/10.1080/01425692.2021.1977611)
+- Class, education and parenting: cross-cultural perspectives · [DOI](https://doi.org/10.1080/01425692.2021.1946301)
 
 ## 2020
 
@@ -493,6 +524,7 @@
 - Wasteland revisited: defining an agenda for a sociology of education and migration · [DOI](https://doi.org/10.1080/01425692.2020.1755229)
 - What works? Academic integrity and the research-policy relationship · [DOI](https://doi.org/10.1080/01425692.2020.1755226)
 - Working with/in institutions: how policy enactment in widening participation is shaped through practitioners' experience · [DOI](https://doi.org/10.1080/01425692.2020.1865130)
+- Doctoral theses · [DOI](https://doi.org/10.1080/01425692.2020.1794177)
 
 ## 2019
 
@@ -718,6 +750,7 @@
 - The university, democracy and the public sphere · [DOI](https://doi.org/10.1080/01425692.2016.1220286)
 - The uses of equality in an elite school in India: enterprise and merit · [DOI](https://doi.org/10.1080/01425692.2016.1218754)
 - The worldly space: the digital university in network time · [DOI](https://doi.org/10.1080/01425692.2016.1234364)
+- Rethinking education and poverty · [DOI](https://doi.org/10.1080/01425692.2017.1349654)
 
 ## 2016
 
@@ -782,6 +815,7 @@
 - What is it worth? An empirical investigation into attitudes towards education amongst youngsters following secondary education in Flanders · [DOI](https://doi.org/10.1080/01425692.2014.960960)
 - White working-class male narratives of loyalty to self' in discourses of aspiration · [DOI](https://doi.org/10.1080/01425692.2014.982859)
 - Young people and school General Certificate of Secondary Education attainment: looking for the 'missing middle' · [DOI](https://doi.org/10.1080/01425692.2014.935292)
+- Thomas Piketty’s relevance for the study of education: reflections on the political economy of education · [DOI](https://doi.org/10.1080/01425692.2016.1200821)
 
 ## 2015
 
@@ -844,6 +878,7 @@
 - What do families of the 'professional and managerial' class educate their children for? The links between happiness and autonomy · [DOI](https://doi.org/10.1080/01425692.2013.814531)
 - What does class origin and education mean for the capabilities of agency and voice? · [DOI](https://doi.org/10.1080/01425692.2013.820126)
 - Widening participation in higher education: the role of professional and social class identities and commitments · [DOI](https://doi.org/10.1080/01425692.2013.829742)
+- Psychopathology at school: theorizing mental disorders in school · [DOI](https://doi.org/10.1080/01425692.2015.1043185)
 
 ## 2014
 
@@ -1643,40 +1678,72 @@
 - Racism in Schools and Ethnic Differentials in Educational Achievement: A brief comment on a recent debate · [DOI](https://doi.org/10.1080/01425699995344)
 - Self, Space and Place: Youth identities and citizenship · [DOI](https://doi.org/10.1080/01425699995236)
 - Vertical and Horizontal Discourse: An essay · [DOI](https://doi.org/10.1080/01425699995380)
+- Promotion, Persuasion and Class-taste: Marketing (in) the UK post-compulsory sector · [DOI](https://doi.org/10.1080/01425699995272)
+- Coeducation and Gender Identity Formation: A comparative analysis of secondary schools in Belgium · [DOI](https://doi.org/10.1080/01425699995308)
+- Knowledge and Politics of Social Change: The implication of anti-racism · [DOI](https://doi.org/10.1080/01425699995335)
 
 ## 1998
 
 - Class Differentiation in Education: rational choices? · [DOI](https://doi.org/10.1080/0142569980190101)
 - Inequality in Higher Education: a study of class barriers · [DOI](https://doi.org/10.1080/0142569980190401)
 - ’I Heard It on the Grapevine’: ‘hot’ knowledge and school choice · [DOI](https://doi.org/10.1080/0142569980190307)
+- Schools, Families and Academically Able Students: contrasting modes of involvement in secondary education · [DOI](https://doi.org/10.1080/0142569980190201)
 
 ## 1997
 
 - Recognising Difference: the Romani ‘Gypsy’ child socialisation and education process · [DOI](https://doi.org/10.1080/0142569970180207)
+- Disciplining Students: the construction of student subjectivities · [DOI](https://doi.org/10.1080/0142569970180106)
+
+## 1996
+
+- School Organization and Market Ecology: a realist sociological look at the infrastructure of school choice · [DOI](https://doi.org/10.1080/0142569960170403)
+- Power, Meaning and Identity: critical sociology of education in the United States · [DOI](https://doi.org/10.1080/0142569960170201)
 
 ## 1995
 
 - Carry on Caring: the work of women teachers · [DOI](https://doi.org/10.1080/0142569950160102)
+- The School Mix Effect: the history of an enduring problem in educational research, policy and practice · [DOI](https://doi.org/10.1080/0142569950160204)
 
 ## 1994
 
 - The Colonisation of Social Class in Education · [DOI](https://doi.org/10.1080/0142569940150301)
+- The Thirst for Learning, or Protecting One's Niche? The shaping of teacher training in Finland during the 19th and 20th centuries · [DOI](https://doi.org/10.1080/0142569940150405)
+- For Whom This Reform?: outlining educational policy as a social field · [DOI](https://doi.org/10.1080/0142569940150303)
+- Students’ Differential Text Production in the Regulative Context of the Classroom · [DOI](https://doi.org/10.1080/0142569940150206)
+- Captured by the Discourse? Issues and concerns in researching ‘parental choice‘ · [DOI](https://doi.org/10.1080/0142569940150104)
 
 ## 1993
 
 - Critical Events in Education · [DOI](https://doi.org/10.1080/0142569930140401)
+- The Sociology of School Effectiveness · [DOI](https://doi.org/10.1080/0142569930140309)
+- The Competitive Structure of School and the Labour Market: Japan and Britain · [DOI](https://doi.org/10.1080/0142569930140306)
 
 ## 1992
 
 - Reconceptualising Structure and Agency in the Sociology of Education: structuration theory and schooling · [DOI](https://doi.org/10.1080/0142569920130105)
+- The Paradigm Wars: reports from the front · [DOI](https://doi.org/10.1080/0142569920130110)
+- Teachers’ Struggle: the case of white English‐speaking teachers in South Africa · [DOI](https://doi.org/10.1080/0142569920130302)
+
+## 1991
+
+- Politics, Markets and America's Schools · [DOI](https://doi.org/10.1080/0142569910120306)
 
 ## 1990
 
 - Bourdieu on Education and Social and Cultural Reproduction · [DOI](https://doi.org/10.1080/0142569900110405)
+- Agency as a Form of Discursive Practice. A Classroom Scene Observed · [DOI](https://doi.org/10.1080/0142569900110306)
+- The ‘Third Wave’: education and the ideology of parentocracy · [DOI](https://doi.org/10.1080/0142569900110105)
+- Classroom Order as Practical Action: the making and un‐making of a quiet reproach · [DOI](https://doi.org/10.1080/0142569900110205)
+- The Social Construction of the ‘At‐risk’ Child · [DOI](https://doi.org/10.1080/0142569900110305)
+- Critical Sociology of Education Theory in Practice: the Druze education in the Golan · [DOI](https://doi.org/10.1080/0142569900110406)
 
 ## 1989
 
 - Race, Categorisation and Educational Achievement · [DOI](https://doi.org/10.1080/0142569890100205)
+
+## 1988
+
+- Constructing Teacher Culture · [DOI](https://doi.org/10.1080/0142569880090404)
 
 ## 1987
 
@@ -1686,6 +1753,16 @@
 
 - Policies on Inequality in the Third World: dependency or autonomy? · [DOI](https://doi.org/10.1080/0142569860070206)
 
+## 1982
+
+- The ‘Hidden Pedagogy’ and its Implications for Teacher Training · [DOI](https://doi.org/10.1080/0142569820030303)
+
+## 1981
+
+- Teacher Satisfaction and Dissatisfaction: Herzberg's ‘two‐factor’ hypothesis revisited · [DOI](https://doi.org/10.1080/0142569810020302)
+
 ## 1980
 
 - History and the Sociology of Education · [DOI](https://doi.org/10.1080/0142569800010307)
+- The ‘Mother‐Tongue’ Issue in Britain: cultural diversity or control? · [DOI](https://doi.org/10.1080/0142569800010301)
+- Women, the Other Academics∗ · [DOI](https://doi.org/10.1080/0142569800010106)

@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **278** 篇
+共 **284** 篇
 
 ---
 
@@ -425,6 +425,16 @@
 **作者**: Johnson, Victoria
 **摘要**: Organization theorists have long recognized that organizations take on elements from their environments in the course of being founded. This observation, articulated by Stinchcombe in 1965 and known today as the organizational imprinting hypothesis, is frequently cited but remains little understood.…
 
+### Syndication, Institutionalization, and Lottery Play
+**年份**: 2007 | **DOI**: [10.1086/521847](https://doi.org/10.1086/521847)
+**作者**: Garvía, Roberto
+**摘要**: （暂无）
+
+### Racial Context and Police Force Size: Evaluating the Empirical Validity of the Minority Threat Perspective
+**年份**: 2007 | **DOI**: [10.1086/518906](https://doi.org/10.1086/518906)
+**作者**: Stults, Brian J.; Baumer, Eric P.
+**摘要**: （暂无）
+
 ### A welfare state paradox: State interventions and women's employment opportunities in 22 countries
 **年份**: 2006 | **DOI**: [10.1086/499912](https://doi.org/10.1086/499912)
 **作者**: Mandel, Hadas; Semyonov, Moshe
@@ -544,6 +554,11 @@
 **年份**: 2006 | **DOI**: [10.1086/506416](https://doi.org/10.1086/506416)
 **作者**: Gifford, Brian
 **摘要**: Studies of nations' military efforts and social well-being are a staple of sociology, economics, and political science, but have produced ambiguous results. This article argues that the standard measure of military efforts-defense spending-inadequately captures the social and political impact of mil…
+
+### Organizational Invention and Elite Transformation: The Birth of Partnership Systems in Renaissance Florence
+**年份**: 2006 | **DOI**: [10.1086/498470](https://doi.org/10.1086/498470)
+**作者**: Padgett, John F.; McLean, Paul D.
+**摘要**: （暂无）
 
 ### A critique of exchange theory in mate selection
 **年份**: 2005 | **DOI**: [10.1086/428441](https://doi.org/10.1086/428441)
@@ -705,6 +720,11 @@
 **作者**: Loveman, M
 **摘要**: The exercise of symbolic power has become a privileged focus of scholarship on the state, but without much attention to how states acquired this power in the first place. This article lays a foundation for systematic historical inquiry into the primitive accumulation of symbolic power by modernizing…
 
+### Globalization Pressures and the State: The Worldwide Spread of Central Bank Independence
+**年份**: 2005 | **DOI**: [10.1086/428685](https://doi.org/10.1086/428685)
+**作者**: Polillo, Simone; Guillén, Mauro F.
+**摘要**: （暂无）
+
 ### Accounting for the recent decline in global income inequality
 **年份**: 2004 | **DOI**: [10.1086/421541](https://doi.org/10.1086/421541)
 **作者**: Firebaugh, G; Goesling, B
@@ -844,6 +864,11 @@
 **年份**: 2004 | **DOI**: [10.1086/422662](https://doi.org/10.1086/422662)
 **作者**: Dechter, AR; Elder, GH
 **摘要**: The labor needs of World War II fueled a growing demand for both military and war industry personnel. This longitudinal study investigates mobilization into these competing activities and their work life effects among men from the middle class.…
+
+### Organizational Success and Worker Dignity: Complementary or Contradictory?
+**年份**: 2004 | **DOI**: [10.1086/422626](https://doi.org/10.1086/422626)
+**作者**: Hodson, Randy; Roscigno, Vincent J.
+**摘要**: （暂无）
 
 ### Ballot Manipulation and the “Menace of Negro Domination”: Racial Threat and Felon Disenfranchisement in the United States, 1850–2002
 **年份**: 2003 | **DOI**: [10.1086/378647](https://doi.org/10.1086/378647)
@@ -1219,6 +1244,11 @@
 **年份**: 2001 | **DOI**: [10.1086/338781](https://doi.org/10.1086/338781)
 **作者**: Conley, D; Springer, KW
 **摘要**: This article seeks to understand the effects of welfare-state spending on infant mortality rates. Infant mortality was chosen for its importance as a social indicator and its putative sensitivity to state action over a short time span.…
+
+### Emergence in Sociology: Contemporary Philosophy of Mind and Some Implications for Sociological Theory
+**年份**: 2001 | **DOI**: [10.1086/338780](https://doi.org/10.1086/338780)
+**作者**: Sawyer, R. Keith
+**摘要**: （暂无）
 
 ### A neo-utilitarian theory of class?
 **年份**: 2000 | **DOI**: [10.1086/210466](https://doi.org/10.1086/210466)

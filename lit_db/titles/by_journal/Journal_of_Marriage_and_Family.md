@@ -1,6 +1,6 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2447** 篇 | 年份范围：1966–2026
+共 **2531** 篇 | 年份范围：1965–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -9,6 +9,10 @@
 
 - Couple Mobility and Employment Patterns. A Gender Perspective in Six European Countries · [DOI](https://doi.org/10.1111/jomf.70063)
 - The Socioeconomic Gradient in Joint Physical Custody: A Comparison of 32 Countries · [DOI](https://doi.org/10.1111/jomf.70056)
+- Life Course Changes in the Geographical Distance Between Adult Children of Immigrants and Their Parents: The Role of Partnership Formation and Dissolution · [DOI](https://doi.org/10.1111/jomf.70074)
+- Attractiveness for Status? The Link Between Physical Attractiveness and Male Refugees' Romantic Relationships in Germany · [DOI](https://doi.org/10.1111/jomf.70085)
+- Early Labor Market Outcomes of Young Adults From Same‐Sex Families: Evidence From Population Data · [DOI](https://doi.org/10.1111/jomf.70079)
+- Impact of Sibling Death in Midlife on Tension Among Surviving Siblings · [DOI](https://doi.org/10.1111/jomf.70083)
 
 ## 2025
 
@@ -392,6 +396,7 @@
 - Weekend work and work-family conflict: Evidence from Australian panel data · [DOI](https://doi.org/10.1111/jomf.12779)
 - White parents of adopted Black children in an era of racial reckoning: Challenges, tensions, and strategies · [DOI](https://doi.org/10.1111/jomf.12867)
 - You're biracial but horizontal ellipsis : Multiracial socialization discourse among mommy bloggers with Black and non-Black multiracial children · [DOI](https://doi.org/10.1111/jomf.12866)
+- Converging trends in developmental child care time by fathers' education? Comment on Cha and Park (2021) · [DOI](https://doi.org/10.1111/jomf.12889)
 
 ## 2021
 
@@ -2482,21 +2487,40 @@
 - Nonresident Fathers and Children's Well-Being: A Meta-Analysis · [DOI](https://doi.org/10.2307/353560)
 - Playing All the Roles: Gender and the Work-Family Balancing Act · [DOI](https://doi.org/10.2307/353763)
 - Scaling Back: Dual-Earner Couples' Work-Family Strategies · [DOI](https://doi.org/10.2307/354019)
+- The Economic Risk of Childhood in America: Estimating the Probability of Poverty across the Formative Years · [DOI](https://doi.org/10.2307/354024)
+- The Micropolitics of Care in Relationships between Aging Parents and Adult Children: Individualism, Collectivism, and Power · [DOI](https://doi.org/10.2307/353568)
+- Emotional Transmission in the Daily Lives of Families: A New Paradigm for Studying Family Process · [DOI](https://doi.org/10.2307/353879)
+- The Timing of Childbearing and Women's Wages · [DOI](https://doi.org/10.2307/354020)
+- Marital Strains and Marital Quality: The Role of High and Low Locus of Control · [DOI](https://doi.org/10.2307/353759)
+- Perceived Instrumental Support Exchanges in Relationships between Elderly Parents and Their Adult Children: Normative and Structural Explanations · [DOI](https://doi.org/10.2307/354006)
 
 ## 1998
 
 - "They Think You Ain't Much of Nothing": The Social Construction of the Welfare Mother · [DOI](https://doi.org/10.2307/353629)
 - The Impact of Husbands' and Wives' Relative Earnings on Marital Disruption · [DOI](https://doi.org/10.2307/353538)
+- Interparental Conflict Styles and Youth Problem Behaviors: A Two-Sample Replication Study · [DOI](https://doi.org/10.2307/353446)
+- Do Safety Nets Work? The Role of Anticipated Help in Times of Need · [DOI](https://doi.org/10.2307/353636)
+- Sibling Resemblance in Behavioral and Cognitive Outcomes: The Role of Father Presence · [DOI](https://doi.org/10.2307/353628)
+- Husbands' and Wives' Resources and Marital Dissolution · [DOI](https://doi.org/10.2307/353537)
 
 ## 1997
 
 - Consequences of Young Mothers' Marital Histories for Children's Cognitive Development · [DOI](https://doi.org/10.2307/353468)
 - Gender, Status, and Domestic Violence: An Integration of Feminist and Family Violence Approaches · [DOI](https://doi.org/10.2307/353952)
+- Effectiveness of Prevention Programs for Adolescent Pregnancy: A Meta-Analysis · [DOI](https://doi.org/10.2307/353945)
+- What Did You Do Today? Children's Use of Time, Family Composition, and the Acquisition of Social Capital · [DOI](https://doi.org/10.2307/353474)
+- Parents' Socioemotional Investment in Children · [DOI](https://doi.org/10.2307/353663)
+- The Effects of Age at Home Leaving and Pathways from Home on Educational Attainment · [DOI](https://doi.org/10.2307/353797)
 
 ## 1996
 
 - Caring More or Less: Individualistic and Collectivist Systems of Family Eldercare · [DOI](https://doi.org/10.2307/353503)
 - Living Separately as a Child-Care Strategy: Implications for Women's Work and Family in Urban Thailand · [DOI](https://doi.org/10.2307/353499)
+- The Life Course of Children Born to Unmarried Mothers: Childhood Living Arrangements and Young Adult Outcomes · [DOI](https://doi.org/10.2307/353496)
+- Too Much of a Good Thing? Intergenerational Social Support and the Psychological Well-Being of Older Parents · [DOI](https://doi.org/10.2307/353984)
+- Stress as a Driver of the Allocation of Housework · [DOI](https://doi.org/10.2307/353509)
+- An Examination of Parent-Child Shared Time · [DOI](https://doi.org/10.2307/353391)
+- Husbands' Participation in Domestic Labor: Interactive Effects of Wives' and Husbands' Gender Ideologies · [DOI](https://doi.org/10.2307/353719)
 
 ## 1995
 
@@ -2507,26 +2531,56 @@
 - Coping with the Dual-Income Lifestyle · [DOI](https://doi.org/10.2307/353819)
 - Marriage, Sex, and Mortality · [DOI](https://doi.org/10.2307/353703)
 - Understanding and Evaluating Qualitative Research · [DOI](https://doi.org/10.2307/353409)
+- Family Caregiving Systems: Models, Resources, and Values · [DOI](https://doi.org/10.2307/353826)
+- Beyond Drudgery, Power, and Equity: Toward an Expanded Discourse on the Moral Dimensions of Housework in Families · [DOI](https://doi.org/10.2307/353816)
+- Detecting and Correcting Attrition Bias in Longitudinal Family Research · [DOI](https://doi.org/10.2307/353412)
+- A Tutorial in Logistic Regression · [DOI](https://doi.org/10.2307/353415)
+- Social Sources of Change in Children's Home Environments: The Effects of Parental Occupational Experiences and Family Conditions · [DOI](https://doi.org/10.2307/353817)
+
+## 1994
+
+- Physical Wife Abuse in a Non-Western Society: An Integrated Theoretical Approach · [DOI](https://doi.org/10.2307/352709)
+- Contextual Effects on the Sexual Behavior of Adolescent Women · [DOI](https://doi.org/10.2307/353107)
+- Interwoven Lives: Parents, Marriage, and Guanxi in China · [DOI](https://doi.org/10.2307/353592)
+- Filial Responsibility Expectations and Patterns of Intergenerational Assistance · [DOI](https://doi.org/10.2307/352867)
 
 ## 1993
 
 - A Comparison of Voluntarily Childfree Adults and Parents · [DOI](https://doi.org/10.2307/353345)
 - American Family Decline, 1960-1990: A Review and Appraisal · [DOI](https://doi.org/10.2307/353333)
 - Care of the Elderly in Japan: Changing Norms and Expectations · [DOI](https://doi.org/10.2307/353340)
+- Family Support to Single and Married African American Mothers: The Provision of Financial, Emotional, and Child Care Assistance · [DOI](https://doi.org/10.2307/352800)
+- Grandparents Who Parent Their Grandchildren: Effects on Lifestyle · [DOI](https://doi.org/10.2307/353342)
+- Timing of Fatherhood: Is "On-Time" Optimal? · [DOI](https://doi.org/10.2307/352969)
+- Childrearing Orientations in Mexican American Families: The Influence of Generation and Sociocultural Factors · [DOI](https://doi.org/10.2307/352778)
 
 ## 1992
 
 - Educational Expansion and Changes in Women's Entry into Marriage and Motherhood in the Federal Republic of Germany · [DOI](https://doi.org/10.2307/353062)
+- Short-Term Consequences of Parenting versus Adoption among Young Unmarried Women · [DOI](https://doi.org/10.2307/353277)
+- The Influence of Parents and Friends on the Quality and Stability of Romantic Relationships: A Three-Wave Longitudinal Investigation · [DOI](https://doi.org/10.2307/353170)
+- International Perspectives on the Residential Mobility of America's Children · [DOI](https://doi.org/10.2307/353167)
+- No Large Convergence during Marriage for Health, Lifestyle, and Personality in a Large Sample of Norwegian Spouses · [DOI](https://doi.org/10.2307/353175)
+- Marriage Opportunities and Family Formation: Further Implications of Imbalanced Sex Ratios · [DOI](https://doi.org/10.2307/353075)
 
 ## 1991
 
 - Fathers, Sons, and Daughters: Differential Paternal Involvement in Parenting · [DOI](https://doi.org/10.2307/352730)
+- Parental Divorce and Adult Well-Being: A Meta-Analysis · [DOI](https://doi.org/10.2307/353132)
+- Determining Children's Home Environments: The Impact of Maternal Characteristics and Current Occupational and Family Conditions · [DOI](https://doi.org/10.2307/352909)
+- Effects of Corporal Punishment, Perceived Caretaker Warmth, and Cultural Beliefs on the Psychological Adjustment of Children in St. Kitts, West Indies · [DOI](https://doi.org/10.2307/352743)
+- Effect of Economic Resources on Marital Quality in Black Married Couples · [DOI](https://doi.org/10.2307/352740)
 
 ## 1990
 
 - A Meta-Analytic Review of Family Structure Stereotypes · [DOI](https://doi.org/10.2307/353026)
 - Parenting Styles, Drug Use, and Children's Adjustment in Families of Young Adults · [DOI](https://doi.org/10.2307/352849)
 - Quantitative Research on Marital Quality in the 1980s: A Critical Review · [DOI](https://doi.org/10.2307/353304)
+- Family Ties, Friendships, and Subjective Well-Being among Black Americans · [DOI](https://doi.org/10.2307/353027)
+- Marital Communication in the Eighties · [DOI](https://doi.org/10.2307/353305)
+- Linking Economic Hardship to Marital Quality and Instability · [DOI](https://doi.org/10.2307/352931)
+- Sons, Daughters, and Intergenerational Social Support · [DOI](https://doi.org/10.2307/353036)
+- Changing Patterns of Remarriage · [DOI](https://doi.org/10.2307/352939)
 
 ## 1989
 
@@ -2534,6 +2588,8 @@
 - Gender in Families: Women and Men in Marriage, Work, and Parenthood · [DOI](https://doi.org/10.2307/353201)
 - Marital Satisfaction in Remarriage: A Meta-Analysis · [DOI](https://doi.org/10.2307/352170)
 - The Contagion of Stress across Multiple Roles · [DOI](https://doi.org/10.2307/352378)
+- Some Economic Complexities of Child Care Provided by Grandmothers · [DOI](https://doi.org/10.2307/352158)
+- Marital Status and Career Stage Influences on Social Networks of Young Adults · [DOI](https://doi.org/10.2307/352513)
 
 ## 1988
 
@@ -2544,12 +2600,15 @@
 - Parental Self-Esteem and Its Relationship to Childrearing Practices, Parent-Adolescent Interaction, and Adolescent Behavior · [DOI](https://doi.org/10.2307/352115)
 - Sex Ratios, Economic Power, and Women's Roles: A Theoretical Extension and Empirical Test · [DOI](https://doi.org/10.2307/352424)
 - Work Role Characteristics, Family Structure Demands, and Work/Family Conflict · [DOI](https://doi.org/10.2307/352644)
+- Quality of Family Life, Social Support, and Stress · [DOI](https://doi.org/10.2307/352427)
+- Fifty Years of Family Research, 1937-1987 · [DOI](https://doi.org/10.2307/351998)
 
 ## 1987
 
 - Determinants of Fathers' Participation in Family Work · [DOI](https://doi.org/10.2307/352667)
 - Family Processes in One-Parent, Stepparent, and Intact Families: The Child's Point of View · [DOI](https://doi.org/10.2307/352303)
 - Income Change, Parental Life Outlook, and Adolescent Expectations for Job Success · [DOI](https://doi.org/10.2307/352678)
+- The Effect of Stressful Life Events and Transitions on Family Functioning and Well-Being · [DOI](https://doi.org/10.2307/351979)
 
 ## 1986
 
@@ -2562,31 +2621,57 @@
 ## 1984
 
 - The Intergenerational Transmission of Marital Aggression · [DOI](https://doi.org/10.2307/351858)
+- Agreement, Understanding, Realization, and Feeling Understood as Predictors of Communicative Satisfaction in Marital Dyads · [DOI](https://doi.org/10.2307/352540)
+- The Social and Demographic Correlates of Divorce and Separation in the United States: An Update and Reconsideration · [DOI](https://doi.org/10.2307/352598)
+- WASP (Wives as Senior Partners) · [DOI](https://doi.org/10.2307/352534)
+- Emotional and Sexual Components of Extramarital Relations · [DOI](https://doi.org/10.2307/351861)
 
 ## 1983
 
 - Age at Marriage, Role Enactment, Role Consensus, and Marital Satisfaction · [DOI](https://doi.org/10.2307/351792)
+- A Family Life-Cycle Approach to the Socioeconomic Attainment of Working Women · [DOI](https://doi.org/10.2307/351511)
+- CHIP. Coping Health Inventory for Parents: An Assessment of Parental Coping Patterns in the Care of the Chronically Ill Child · [DOI](https://doi.org/10.2307/351514)
+- Mothers and Mothers-in-Law · [DOI](https://doi.org/10.2307/351307)
+- Social Support and Adaptation to Widowhood · [DOI](https://doi.org/10.2307/351795)
+- Dysfunction and Failure in Open Family Systems, I: Application of a Unified Theory · [DOI](https://doi.org/10.2307/351786)
 
 ## 1982
 
 - Adult Role Transitions, Parental Influence, and Status Aspirations Early in the Life Course · [DOI](https://doi.org/10.2307/351261)
+- Decision Making in Intergenerational Puerto Rican Families · [DOI](https://doi.org/10.2307/351584)
+- Sampling Issues in Family Research · [DOI](https://doi.org/10.2307/351457)
+- Life Course Analysis and Multistate Demography: An Application to Marriage, Divorce, and Remarriage · [DOI](https://doi.org/10.2307/351461)
+- Transmission of Religious and Social Values from Parents to Teenage Children · [DOI](https://doi.org/10.2307/351580)
 
 ## 1981
 
 - Structural Exchange and Marital Interaction · [DOI](https://doi.org/10.2307/351340)
+- The Measurement of Family Material Well-Being · [DOI](https://doi.org/10.2307/351771)
+
+## 1980
+
+- Marital Quality: A Review of the Seventies · [DOI](https://doi.org/10.2307/351827)
 
 ## 1979
 
 - Measuring Intrafamily Conflict and Violence: The Conflict Tactics (CT) Scales · [DOI](https://doi.org/10.2307/351733)
+- Measuring Marital Satisfaction in Three Generations: Positive and Negative Dimensions · [DOI](https://doi.org/10.2307/351705)
+- Implementation of a National Family Policy: The Role of the Social Scientist · [DOI](https://doi.org/10.2307/351618)
 
 ## 1977
 
 - A Clarification of the Concept of Psychological Father Presence in Families Experiencing Ambiguity of Boundary · [DOI](https://doi.org/10.2307/351070)
 - Updating the Life Cycle of the Family · [DOI](https://doi.org/10.2307/351058)
+- Do Family Ties Reduce Mortality? Evidence from the United States, 1966-1968 · [DOI](https://doi.org/10.2307/350478)
+- Who Adopts: The Relationship of Adoption and Social-Demographic Characteristics of Women · [DOI](https://doi.org/10.2307/351125)
 
 ## 1976
 
 - Measuring Dyadic Adjustment: New Scales for Assessing the Quality of Marriage and Similar Dyads · [DOI](https://doi.org/10.2307/350547)
+
+## 1975
+
+- Leisure Activity Patterns and Marital Satisfaction over the Marital Career · [DOI](https://doi.org/10.2307/351033)
 
 ## 1974
 
@@ -2599,11 +2684,18 @@
 ## 1971
 
 - Purdah in Pakistan: Seclusion and Modern Occupations for Women · [DOI](https://doi.org/10.2307/349849)
+- When the Girls Move in: A Sociological Analysis of the Feminization of the Bank Teller's Job · [DOI](https://doi.org/10.2307/349451)
+
+## 1970
+
+- Satisfaction with Various Aspects of Marriage over the Life Cycle: A Random Middle Class Sample · [DOI](https://doi.org/10.2307/349968)
+- Marital Happiness and Stability: A Review of the Research in the Sixties · [DOI](https://doi.org/10.2307/350251)
 
 ## 1969
 
 - Familial Behavior as Social Exchange · [DOI](https://doi.org/10.2307/349775)
 - Occupational Characteristics and Males' Role Performance in the Family · [DOI](https://doi.org/10.2307/349312)
+- Life Plans and Marriage Age: An Application of Path Analysis · [DOI](https://doi.org/10.2307/349780)
 
 ## 1968
 
@@ -2613,3 +2705,10 @@
 ## 1966
 
 - An Analysis of Power Dynamics in Marriage · [DOI](https://doi.org/10.2307/349283)
+- Dating Behavior: A Framework for Analysis and an Illustration · [DOI](https://doi.org/10.2307/349537)
+
+## 1965
+
+- Maternal Deprivation: The Research and Its Implications · [DOI](https://doi.org/10.2307/350276)
+- Writing for Newspapers and Magazines · [DOI](https://doi.org/10.2307/350202)
+- Intergenerational Relations: Perspectives of the Two Generations on the Older Parent · [DOI](https://doi.org/10.2307/350186)

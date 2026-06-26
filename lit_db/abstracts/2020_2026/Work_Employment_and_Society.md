@@ -1,7 +1,7 @@
 # Work, Employment and Society
 ## 2020–2026 年文章（含摘要）
 
-共 **435** 篇
+共 **439** 篇
 
 ---
 
@@ -99,6 +99,26 @@
 **年份**: 2026 | **DOI**: [10.1177/09500170251404824](https://doi.org/10.1177/09500170251404824)
 **作者**: Harris, Jamelia
 **摘要**: This article analyses how employers and university-educated jobseekers behave when networks are overly used, and connections supersede merit in recruitment. It advances the debate by exploring the effects of networks on how the labour market for the university-educated functions, and how the normali…
+
+### Solidarity and Contentiousness in Migrant Worker Mobilisation: Syndicalist Unionisation in Sweden
+**年份**: 2026 | **DOI**: [10.1177/09500170261432085](https://doi.org/10.1177/09500170261432085)
+**作者**: Ahlstrand, Rasmus
+**摘要**: This article analyses the mobilisation of migrant workers in SAC, the main syndicalist trade union in Sweden. It theorises mobilisation and solidarity from a labour process perspective and, based on ethnography, identifies accessibility , contentiousness and belonging as key mechanisms to explain th…
+
+### ‘Straight from a Night Shift to the Infusions’: Crip Temporalities at Work
+**年份**: 2026 | **DOI**: [10.1177/09500170261432090](https://doi.org/10.1177/09500170261432090)
+**作者**: Porkertová, Hana; Kotýnková Krotká, Veronika
+**摘要**: This article explores how disabled people navigate normative temporalities in the workplace through everyday practices of adaptation and resistance. Grounded in qualitative research with disabled participants, it examines how linear, productivity-driven temporal norms—referred to as chrononormativit…
+
+### Working Through Alienation? The Ambivalent Promise of Craft
+**年份**: 2026 | **DOI**: [10.1177/09500170261434883](https://doi.org/10.1177/09500170261434883)
+**作者**: Schaefer, Stephan M; Schneider, Anselm
+**摘要**: Craft is re-emerging in debates on improving contemporary work. A recurring theme in research on craft is its potential to thwart alienation, which is considered one of the central pathologies of modern work.…
+
+### Managing Mobility: Platform Work Models, Organizational Identification, and Food Delivery Couriers' Exit Intentions
+**年份**: 2026 | **DOI**: [10.1177/09500170261428386](https://doi.org/10.1177/09500170261428386)
+**作者**: Binyi, Yang; Quan, Meng
+**摘要**: Despite flexibility being central to the gig economy, platform businesses face challenges balancing operational needs with labor mobility. Through empirical analysis of China’s food delivery platforms, this study finds that professionally oriented couriers in the outsourced model, while viewing plat…
 
 ### A Contextual Model of Moral Injury: Redefining Trauma in Frontline Professions through Ethics and Context
 **年份**: 2025 | **DOI**: [10.1177/09500170251386329](https://doi.org/10.1177/09500170251386329)

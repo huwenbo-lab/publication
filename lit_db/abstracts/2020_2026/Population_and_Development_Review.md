@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **274** 篇
+共 **288** 篇
 
 ---
 
@@ -24,6 +24,46 @@
 **年份**: 2026 | **DOI**: [10.1111/padr.70053](https://doi.org/10.1111/padr.70053)
 **作者**: Matysiak, Anna; Vignoli, Daniele
 **摘要**: Abstract This paper examines whether women's employment in the 21st century remains a barrier to family formation, as it was in the 1980s and 1990s, or—similar to men's—it has become a prerequisite for childbearing.…
+
+### Revisiting the Relationship between Marriage and Childbearing in East Asia: The Role of Fertility Desires in Japan
+**年份**: 2026 | **DOI**: [10.1111/padr.70050](https://doi.org/10.1111/padr.70050)
+**作者**: Uchikoshi, Fumiya; Mugiyama, Ryota; Yoda, Shohei 等4人
+**摘要**: Abstract In this study, we propose and evaluate a new framework for understanding “lowest‐low” fertility in East Asia, emphasizing the link between the desire for children and marriage.…
+
+### A Global Perspective on Trends in the Use of Withdrawal and Periodic Abstinence for Pregnancy Prevention
+**年份**: 2026 | **DOI**: [10.1111/padr.70063](https://doi.org/10.1111/padr.70063)
+**作者**: Kantorová, Vladimíra; Corker, Jamaica; Molitoris, Joseph 等5人
+**摘要**: Abstract Periodic abstinence and withdrawal (the dominant methods in the “traditional methods” category) have been used to prevent pregnancy in both historical and contemporary contexts and, in some countries, continue to be used despite increased availability and use of modern methods.…
+
+### Health Influences on Second‐ and Third‐Birth Probabilities in Norway
+**年份**: 2026 | **DOI**: [10.1111/padr.70066](https://doi.org/10.1111/padr.70066)
+**作者**: Kravdal, Øystein; Grundy, Emily; Hart, Rannveig K.
+**摘要**: Abstract We examined how several health variables were associated with mothers’ probability of having a second or third child and the timing of the second birth. Data from the Norwegian Mother, Father and Child Cohort Study (MoBa) and linked registers were used.…
+
+### Changing Landscapes of Parenthood: Childbearing Among Same‐Sex and Different‐Sex Couples in the Nordic Countries
+**年份**: 2026 | **DOI**: [10.1111/padr.70068](https://doi.org/10.1111/padr.70068)
+**作者**: Ponkilainen, Maria; Einiö, Elina; Kolk, Martin 等7人
+**摘要**: Abstract The Nordic countries of Denmark, Sweden, Norway, and Finland were among the first countries to acknowledge same‐sex couples’ partnership and parenthood rights in their legislation.…
+
+### The Living Arrangements of Single Mothers in Latin America: Stratification by Education and Partnership Status
+**年份**: 2026 | **DOI**: [10.1111/padr.70075](https://doi.org/10.1111/padr.70075)
+**作者**: Becca, Federica; Alburez‐Gutierrez, Diego; Esteve, Albert
+**摘要**: Abstract One in four young mothers in Latin America raises her children without a partner, yet more than two‐thirds do so within extended households, typically with their own parents.…
+
+### School Enrollment and Living Arrangements of Children in Sub‐Saharan Africa
+**年份**: 2026 | **DOI**: [10.1111/padr.70045](https://doi.org/10.1111/padr.70045)
+**作者**: Pohl, Maria; Batyra, Ewa; Esteve, Albert
+**摘要**: Abstract School enrollment has increased in many sub‐Saharan African countries over recent decades, alongside substantial socioeconomic and demographic transitions. However, gains in educational enrollment have not been equal, raising questions about the determinants of access to and variability in …
+
+### Leveraging High‐Frequency Digital Data to Analyze Forced Displacement Dynamics: A Case Study from the Gaza Strip
+**年份**: 2026 | **DOI**: [10.1111/padr.70064](https://doi.org/10.1111/padr.70064)
+**作者**: Darin, Edith; Kashyap, Ridhi; Leasure, Douglas R.
+**摘要**: Abstract The quantification and analysis of forced displacement, driven by political unrest or natural disasters, has become increasingly central to both humanitarian and demographic research.…
+
+### The Covid‐19 Pandemic and the Social Mathematics of Life and Death
+**年份**: 2026 | **DOI**: [10.1111/padr.70072](https://doi.org/10.1111/padr.70072)
+**作者**: Mojola, Sanyu A.
+**摘要**: （暂无）
 
 ### A Concentration of Reproduction to Later Ages? A Worldwide Assessment of Trends in Fertility Timing
 **年份**: 2025 | **DOI**: [10.1111/padr.70036](https://doi.org/10.1111/padr.70036)
@@ -850,6 +890,14 @@
 **作者**: Han, Sinn Won
 **摘要**: How individuals perceive raising children varies across countries. Researchers seeking to explain this have tended to focus on variation in family policies across countries, arguing that having children is perceived more negatively in terms of cost and disturbance to parents' freedom and careers in …
 
+### Giorgia Meloni on Italy's Demographic Challenge
+**年份**: 2023 | **DOI**: [10.1111/padr.12595](https://doi.org/10.1111/padr.12595)
+**摘要**: （暂无）
+
+### The United Nations on Global Food Security
+**年份**: 2023 | **DOI**: [10.1111/padr.12594](https://doi.org/10.1111/padr.12594)
+**摘要**: （暂无）
+
 ### Change and Variation in US Couples' Earnings Equality Following Parenthood
 **年份**: 2022 | **DOI**: [10.1111/padr.12481](https://doi.org/10.1111/padr.12481)
 **作者**: Musick, Kelly; Gonalons-Pons, Pilar; Schwartz, Christine R.
@@ -1039,6 +1087,18 @@
 **年份**: 2022 | **DOI**: [10.1111/padr.12474](https://doi.org/10.1111/padr.12474)
 **作者**: Chatterjee, Esha; Vanneman, Reeve D.
 **摘要**: Indian women's labor force participation rates have long demonstrated a U-shaped relationship with their education, rather than a more conventional positive linear relationship. The low rates of employment for moderately educated women are usually explained either as a result of the cultural stigma …
+
+### The 2022 UN Long‐Range Population Projections
+**年份**: 2022 | **DOI**: [10.1111/padr.12512](https://doi.org/10.1111/padr.12512)
+**摘要**: （暂无）
+
+### The State of Global Learning Poverty: 2022 UpdateThe World Bank, UNESCO, UNICEF, USAID, FSDO, Bill and Melinda Gates Foundation, 2022, 77 p., Open Access
+**年份**: 2022 | **DOI**: [10.1111/padr.12534](https://doi.org/10.1111/padr.12534)
+**摘要**: （暂无）
+
+### The Covid‐19 Pandemic in Latin America and the Caribbean
+**年份**: 2022 | **DOI**: [10.1111/padr.12484](https://doi.org/10.1111/padr.12484)
+**摘要**: （暂无）
 
 ### A Little Bit Pregnant? Productive Ambiguity and Fertility Research
 **年份**: 2021 | **DOI**: [10.1111/padr.12403](https://doi.org/10.1111/padr.12403)
@@ -1373,3 +1433,7 @@
 **年份**: 2020 | **DOI**: [10.1111/padr.12309](https://doi.org/10.1111/padr.12309)
 **作者**: Srivastava, Abhilasha
 **摘要**: Household allocation of labor is an important area of scholarship in developing countries where women's well-being is affected by the heavy load of unpaid work within the household. This study extends nuclear household-centric research on labor allocation by drawing attention to bargaining between f…
+
+### Lessons of Past Coronavirus Pandemics
+**年份**: 2020 | **DOI**: [10.1111/padr.12360](https://doi.org/10.1111/padr.12360)
+**摘要**: （暂无）

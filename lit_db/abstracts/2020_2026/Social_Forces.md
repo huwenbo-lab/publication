@@ -1,7 +1,7 @@
 # Social Forces
 ## 2020–2026 年文章（含摘要）
 
-共 **490** 篇
+共 **514** 篇
 
 ---
 
@@ -9,6 +9,81 @@
 **年份**: 2026 | **DOI**: [10.1093/sf/soag018](https://doi.org/10.1093/sf/soag018)
 **作者**: Friedman, Brittany
 **摘要**: （暂无）
+
+### Policy configurations and the elasticity of gendered patterns of paid and unpaid work—evidence from comparative conjoint analyses
+**年份**: 2026 | **DOI**: [10.1093/sf/soag038](https://doi.org/10.1093/sf/soag038)
+**作者**: Stadelmann-Steffen, Isabelle; Oehrli, Dominique; Lütolf, Meret
+**摘要**: Abstract A considerable number of scholars have discussed the role that family policies play in shaping the gendered division of labor within households. The majority of this research has focused on childcare and parental leave policies and their relationship with maternal employment.…
+
+### Are aging parents and adult children living farther apart? Decomposing trends in intergenerational proximity and coresidence among Finnish parents aged 60–69 (2003–2023)
+**年份**: 2026 | **DOI**: [10.1093/sf/soag043](https://doi.org/10.1093/sf/soag043)
+**作者**: Afable, Sanny D; Evans, Megan; Korhonen, Kaarina 等7人
+**摘要**: Abstract Closer distance between parents and their children facilitates intergenerational contact and exchanges of support in later life. There are mixed narratives and evidence regarding the divergence—or convergence—of intergenerational proximity in aging societies.…
+
+### The role of graduate education in the rising wage premium for professional and managerial occupations, 1980–2019
+**年份**: 2026 | **DOI**: [10.1093/sf/soag045](https://doi.org/10.1093/sf/soag045)
+**作者**: Busch, Felix; England, Paula; Jiang, Wenhao
+**摘要**: Abstract Part of the rise in US wage inequality comes from a widening gap between professional/managerial (PM) and other occupations (NPM). We examine the role of education in the trend in this gap from 1980 to 2019.…
+
+### Volunteering trajectories across crises: resilience, persistence and spill-over between ordinary and crisis volunteering
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf219](https://doi.org/10.1093/sf/soaf219)
+**作者**: Høgenhaven, Lærke; Møgelmose, Louis; Carlsen, Hjalmar Bang 等4人
+**摘要**: Abstract This study contributes to the sociology of volunteering and crisis research by analyzing the little studied relationship between crisis volunteering (addressing societal crises) and ordinary volunteering (unrelated to crises).…
+
+### Review of “Replace the State: How to Change the World When Elections and Protests Fail”
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf227](https://doi.org/10.1093/sf/soaf227)
+**作者**: Lu, Todd
+**摘要**: （暂无）
+
+### Does stringent climate policy decouple economic growth from greenhouse gas emissions?
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf217](https://doi.org/10.1093/sf/soaf217)
+**作者**: Thombs, Ryan P; Jorgenson, Andrew K
+**摘要**: Abstract A foundational question in environmental sociology is whether economic growth can be sufficiently decoupled from greenhouse gas emissions. Scholars working in different analytical perspectives assert that such a decoupling is largely contingent on more stringent climate policy that mandates…
+
+### Review of “The Returned: Former U.S. Migrants’ Lives in Mexico City”
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf221](https://doi.org/10.1093/sf/soaf221)
+**作者**: Parrado, Emilio A
+**摘要**: （暂无）
+
+### The racialized penalties of immigrant origin: meta-analytic evidence on hiring discrimination in twelve countries
+**年份**: 2026 | **DOI**: [10.1093/sf/soag028](https://doi.org/10.1093/sf/soag028)
+**作者**: Quillian, Lincoln; Midtbøen, Arnfinn H
+**摘要**: Abstract The role of discrimination in shaping the life chances of immigrants and their descendants is central to debates in the sociology of immigration. This study synthesizes evidence from 114 field experiments on hiring conducted across twelve countries, comparing discrimination against foreign-…
+
+### Breaking the mold: the changing modularity of protest forms during cycles of contention
+**年份**: 2026 | **DOI**: [10.1093/sf/soag048](https://doi.org/10.1093/sf/soag048)
+**作者**: Ciordia, Alejandro; Portos, Martín
+**摘要**: Abstract One crucial decision that every group of protesters needs to make concerns the forms of action through which they want to convey their claims. While repertoires of contention can vary greatly across different sociopolitical contexts, we know little about why some protest forms may acquire o…
+
+### Do occupations confer equal prestige on female and male incumbents?
+**年份**: 2026 | **DOI**: [10.1093/sf/soag054](https://doi.org/10.1093/sf/soag054)
+**作者**: Hamjediers, Maik; Geissler, Ferdinand; Giesecke, Johannes 等4人
+**摘要**: Abstract While common measures of occupational prestige target shared beliefs about occupations at the aggregate level, little is known about whether these apply equally across potentially different incumbents of the same occupation.…
+
+### Review of “Traders, Speculators, and Captains of Industry: How Capitalist Legitimacy Shaped Foreign Investment Policy in India”
+**年份**: 2026 | **DOI**: [10.1093/sf/soag051](https://doi.org/10.1093/sf/soag051)
+**作者**: Nair, Manjusha
+**摘要**: （暂无）
+
+### Review of “Reimagining Aid: Foreign Donors, Women’s Health, and New Paths for Development in Cambodia”
+**年份**: 2026 | **DOI**: [10.1093/sf/soag056](https://doi.org/10.1093/sf/soag056)
+**作者**: DoCarmo, Tania
+**摘要**: （暂无）
+
+### The code of cohesion: adolescent network centrality, offending, and the downside of school cohesion
+**年份**: 2026 | **DOI**: [10.1093/sf/soag062](https://doi.org/10.1093/sf/soag062)
+**作者**: Pinchak, Nicolo P
+**摘要**: Abstract Paradoxical to numerous theories and policies, adolescents attending schools high in student cohesion do not reliably exhibit less involvement in offending. Coleman’s arguments about status and norms and the broader literature on adolescent networks suggest that this paradox is partially at…
+
+### Is it good to work with? Workability and the meaning of non-native species in urban policy
+**年份**: 2026 | **DOI**: [10.1093/sf/soag047](https://doi.org/10.1093/sf/soag047)
+**作者**: Bateman, Tyler J; Silver, Daniel; Eads, Alicia 等4人
+**摘要**: Abstract Research on social problems often analyzes how different groups think or act in relation to a single issue. Less frequent are studies of how a single group thinks or acts in relation to many phenomena, any of which may be construed as problematic to a greater or lesser degree.…
+
+### Whose merit, which redistribution? Elites, taxes, and transfers in Brazil and South Africa
+**年份**: 2026 | **DOI**: [10.1093/sf/soag064](https://doi.org/10.1093/sf/soag064)
+**作者**: Silva-Muller, Livio; Moraes Silva, Graziella; López, Matias
+**摘要**: Abstract Scholarship often treats two dimensions of meritocracy as interchangeable: if success is due to hard work, poverty must be due to a lack of effort. We contrast elites’ perceptions about their own success with their perceptions about the lack of success of others.…
 
 ### A processual framework for understanding the rise of the populist right: the case of Brazil (2013-2018)
 **年份**: 2025 | **DOI**: [10.1093/sf/soae189](https://doi.org/10.1093/sf/soae189)
@@ -650,6 +725,31 @@
 **作者**: Powell, Amber Joy
 **摘要**: Despite political calls on the state to protect the children from sexual violence, feminist scholars argue the state itself reproduces routine gender-based violence toward incarcerated communities, including youth.…
 
+### Review of “Bordering on Indifference: Immigration Agents Negotiating Race and Morality.”
+**年份**: 2025 | **DOI**: [10.1093/sf/soaf171](https://doi.org/10.1093/sf/soaf171)
+**作者**: Martínez, Daniel E
+**摘要**: （暂无）
+
+### Review of “Bad Nature: How Rat Control Shapes Human and Nonhuman Worlds”
+**年份**: 2025 | **DOI**: [10.1093/sf/soaf209](https://doi.org/10.1093/sf/soaf209)
+**作者**: Colin, Jerolmack
+**摘要**: （暂无）
+
+### Review of “Be Water: Collective Improvisation in Hong Kong’s Anti-Extradition Protests”
+**年份**: 2025 | **DOI**: [10.1093/sf/soaf185](https://doi.org/10.1093/sf/soaf185)
+**作者**: Wong, Kennedy
+**摘要**: （暂无）
+
+### Deporting children: case outcomes for unaccompanied minors facing removal proceedings in US immigration court
+**年份**: 2025 | **DOI**: [10.1093/sf/soaf124](https://doi.org/10.1093/sf/soaf124)
+**作者**: Galli, Chiara; Padilla, Tatiana
+**摘要**: Abstract Using an originally compiled dataset of over 200,000 cases of unaccompanied minors decided in US immigration court between 2009 and 2023, this paper asks: what determines whether immigrant children are ordered deported?…
+
+### Review of “The High School: Sports, Spirit, and Citizens, 1903–2024”
+**年份**: 2025 | **DOI**: [10.1093/sf/soaf179](https://doi.org/10.1093/sf/soaf179)
+**作者**: Oyewole, Kemi A
+**摘要**: （暂无）
+
 ### A Social Movement Model for Judicial Behavior: Evidence from Brazil's Anti-Corruption Movements
 **年份**: 2024 | **DOI**: [10.1093/sf/soae065](https://doi.org/10.1093/sf/soae065)
 **作者**: Vilaca, Luiz
@@ -1104,6 +1204,11 @@
 **年份**: 2024 | **DOI**: [10.1093/sf/soad109](https://doi.org/10.1093/sf/soad109)
 **作者**: Cai, Julie
 **摘要**: Despite established links among persistent unemployment, low wages, and children's economic well-being, social scientists have yet to document how variability in work hours is linked to child poverty.…
+
+### Review of “The Making of Lawyers’ Careers: Inequality and Opportunity in the American Legal Profession”
+**年份**: 2024 | **DOI**: [10.1093/sf/soae086](https://doi.org/10.1093/sf/soae086)
+**作者**: Liu, Sida
+**摘要**: （暂无）
 
 ### A Gendered and Racialized Educational Hierarchy: Disparities in Elementary School Teachers' Perceptions of Student Behavior
 **年份**: 2023 | **DOI**: [10.1093/sf/soac095](https://doi.org/10.1093/sf/soac095)
@@ -1800,6 +1905,11 @@
 **作者**: Keller, Tamas; Takacs, Karoly; Elwert, Felix
 **摘要**: High school track choice determines college access in many countries. We hypothesize that some qualified students avoid the college-bound track in high school simply because they overestimate admission requirements.…
 
+### 100 Years ofSocial Forces
+**年份**: 2022 | **DOI**: [10.1093/sf/soac050](https://doi.org/10.1093/sf/soac050)
+**作者**: Kalleberg, Arne L; Newell, Abigail
+**摘要**: （暂无）
+
 ### A House but Not a Home: How Surveillance in Subsidized Housing Exacerbates Poverty and Reinforces Marginalization
 **年份**: 2021 | **DOI**: [10.1093/sf/soaa108](https://doi.org/10.1093/sf/soaa108)
 **作者**: Hughes, Cayce C.
@@ -2454,3 +2564,13 @@
 **年份**: 2020 | **DOI**: [10.1093/sf/soz032](https://doi.org/10.1093/sf/soz032)
 **作者**: LaBriola, Joe; Schneider, Daniel
 **摘要**: Precarious work, which has become more prevalent in the United States in recent decades, is disproportionately experienced by workers of lower socio-economic classes, and research suggests that the erosion of worker power has contributed to this class polarization in precarity.…
+
+### Fearing the Black Body: The Racial Origins of Fat Phobia
+**年份**: 2020 | **DOI**: [10.1093/sf/soz161](https://doi.org/10.1093/sf/soz161)
+**作者**: Strings, Sabrina
+**摘要**: （暂无）
+
+### The Overworked Consumer: Self-Checkouts, Supermarkets, and the Do-it-Yourself Economy
+**年份**: 2020 | **DOI**: [10.1093/sf/soz168](https://doi.org/10.1093/sf/soz168)
+**作者**: Andrews, Christopher K
+**摘要**: （暂无）

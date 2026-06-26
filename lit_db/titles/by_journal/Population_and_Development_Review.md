@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **1002** 篇 | 年份范围：1976–2026
+共 **1124** 篇 | 年份范围：1976–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -11,6 +11,14 @@
 - Infertility and Unrealized Ideal Family Size · [DOI](https://doi.org/10.1111/padr.70043)
 - National Identity and Fertility Intentions: Evidence from Hungary · [DOI](https://doi.org/10.1111/padr.70051)
 - The End of an Era: The Vanishing Negative Effect of Women's Employment on Fertility · [DOI](https://doi.org/10.1111/padr.70053)
+- Revisiting the Relationship between Marriage and Childbearing in East Asia: The Role of Fertility Desires in Japan · [DOI](https://doi.org/10.1111/padr.70050)
+- A Global Perspective on Trends in the Use of Withdrawal and Periodic Abstinence for Pregnancy Prevention · [DOI](https://doi.org/10.1111/padr.70063)
+- Health Influences on Second‐ and Third‐Birth Probabilities in Norway · [DOI](https://doi.org/10.1111/padr.70066)
+- Changing Landscapes of Parenthood: Childbearing Among Same‐Sex and Different‐Sex Couples in the Nordic Countries · [DOI](https://doi.org/10.1111/padr.70068)
+- The Living Arrangements of Single Mothers in Latin America: Stratification by Education and Partnership Status · [DOI](https://doi.org/10.1111/padr.70075)
+- School Enrollment and Living Arrangements of Children in Sub‐Saharan Africa · [DOI](https://doi.org/10.1111/padr.70045)
+- Leveraging High‐Frequency Digital Data to Analyze Forced Displacement Dynamics: A Case Study from the Gaza Strip · [DOI](https://doi.org/10.1111/padr.70064)
+- The Covid‐19 Pandemic and the Social Mathematics of Life and Death · [DOI](https://doi.org/10.1111/padr.70072)
 
 ## 2025
 
@@ -185,6 +193,8 @@
 - The Race between Mortality and Morbidity: Implications for the Global Distribution of Health · [DOI](https://doi.org/10.1111/padr.12582)
 - US Citizen Children De Facto Deported to Mexico · [DOI](https://doi.org/10.1111/padr.12521)
 - When Kids Are a Burden: Understanding the Normative Sources of Negative Perceptions of Parenthood · [DOI](https://doi.org/10.1111/padr.12573)
+- Giorgia Meloni on Italy's Demographic Challenge · [DOI](https://doi.org/10.1111/padr.12595)
+- The United Nations on Global Food Security · [DOI](https://doi.org/10.1111/padr.12594)
 
 ## 2022
 
@@ -226,6 +236,9 @@
 - Witnessing Intimate Partner Violence Impacts Schooling and Labor Market Outcomes for Young Women in India · [DOI](https://doi.org/10.1111/padr.12460)
 - Women's Legal Rights and Gender Gaps in Property Ownership in Developing Countries · [DOI](https://doi.org/10.1111/padr.12493)
 - Women's Low Employment Rates in India: Cultural and Structural Explanations · [DOI](https://doi.org/10.1111/padr.12474)
+- The 2022 UN Long‐Range Population Projections · [DOI](https://doi.org/10.1111/padr.12512)
+- The State of Global Learning Poverty: 2022 UpdateThe World Bank, UNESCO, UNICEF, USAID, FSDO, Bill and Melinda Gates Foundation, 2022, 77 p., Open Access · [DOI](https://doi.org/10.1111/padr.12534)
+- The Covid‐19 Pandemic in Latin America and the Caribbean · [DOI](https://doi.org/10.1111/padr.12484)
 
 ## 2021
 
@@ -299,6 +312,7 @@
 - The Rise and Prominence of Skip-Generation Households in Lower- and Middle-Income Countries · [DOI](https://doi.org/10.1111/padr.12349)
 - The US National Academy of Sciences on the Changing Biothreat Landscape · [DOI](https://doi.org/10.1111/padr.12346)
 - Time Use and Household Division of Labor in India-Within-Gender Dynamics · [DOI](https://doi.org/10.1111/padr.12309)
+- Lessons of Past Coronavirus Pandemics · [DOI](https://doi.org/10.1111/padr.12360)
 
 ## 2019
 
@@ -340,6 +354,7 @@
 - The Patterns of Disability in the Peripheral Neighborhoods of Ouagadougou, Burkina Faso, and the Male-Female Health-Survival Paradox · [DOI](https://doi.org/10.1111/padr.12294)
 - The Quantity-Quality Tradeoff: A Cross-Country Comparison of Market and Nonmarket Investments per Child in Relation to Fertility · [DOI](https://doi.org/10.1111/padr.12245)
 - Trends in Non-Hispanic White Mortality in the United States by Metropolitan-Nonmetropolitan Status and Region, 1990-2016 · [DOI](https://doi.org/10.1111/padr.12249)
+- Intergovernmental Panel on Climate ChangeSpecial Report on Global Warming of 1.5°CSwitzerland: IPCC, 2018. · [DOI](https://doi.org/10.1111/padr.12234)
 
 ## 2018
 
@@ -442,6 +457,8 @@
 - Trends in Inter-Birth Intervals in Developing Countries 1965-2014 · [DOI](https://doi.org/10.1111/j.1728-4457.2016.00134.x)
 - Two or Three Children? Turkish Fertility at a Crossroads · [DOI](https://doi.org/10.1111/j.1728-4457.2016.00148.x)
 - Why Brexit? The Toxic Mix of Immigration and Austerity · [DOI](https://doi.org/10.1111/padr.12007)
+- WHO, UNICEF, UNFPA, World Bank Group, and United Nations Population DivisionTrends in Maternal Mortality: 1990 to 2015Geneva: World Health Organization, 2015. · [DOI](https://doi.org/10.1111/padr.12033)
+- A Happy Ending to a Half‐Century of Family Change? · [DOI](https://doi.org/10.1111/j.1728-4457.2016.00111.x)
 
 ## 2015
 
@@ -586,6 +603,8 @@
 - Trends in the Economic Independence of Young Adults in the United States: 1973-2007 · [DOI](https://doi.org/10.1111/j.1728-4457.2012.00529.x)
 - Unintended Consequences of US Immigration Policy: Explaining the Post-1965 Surge from Latin America · [DOI](https://doi.org/10.1111/j.1728-4457.2012.00470.x)
 - Urbanization as a Global Historical Process: Theory and Evidence from sub-Saharan Africa · [DOI](https://doi.org/10.1111/j.1728-4457.2012.00493.x)
+- Ronald Lee and Andrew Mason, Population Aging and the Generational Economy: A Global Perspective · [DOI](https://doi.org/10.1111/j.1728-4457.2012.00477.x)
+- On the Role of Human Development in the Arab Spring · [DOI](https://doi.org/10.1111/j.1728-4457.2012.00531.x)
 
 ## 2011
 
@@ -630,6 +649,8 @@
 - Toward a Comprehensive Demography: Rethinking the Research Agenda on Change and Response · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00409.x)
 - Understanding Global Demographic Convergence since 1950 · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00415.x)
 - Yearning, Learning, and Conceding: Reasons Men and Women Change Their Childbearing Intentions · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00391.x)
+- Abhijit v. Banerjee and Ester Duflo: Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00462.x)
+- Who's Afraid of Population Decline? A Critical Examination of Its Consequences · [DOI](https://doi.org/10.1111/j.1728-4457.2011.00385.x)
 
 ## 2010
 
@@ -661,6 +682,7 @@
 - US Mortality in an International Context: Age Variations · [DOI](https://doi.org/10.1111/j.1728-4457.2010.00356.x)
 - Well-Being, Front and Center: A Note on the Sarkozy Report · [DOI](https://doi.org/10.1111/j.1728-4457.2010.00320.x)
 - Who Wins and Who Loses? Public Transfer Accounts for US Generations Born 1850 to 2090 · [DOI](https://doi.org/10.1111/j.1728-4457.2010.00315.x)
+- United Nations: World Population Prospects: The 2008 Revision, Volume 1: Comprehensive Tables and United Nations, World Population Prospects: The 2008 Revision, Highlights · [DOI](https://doi.org/10.1111/j.1728-4457.2010.00368.x)
 
 ## 2009
 
@@ -693,6 +715,7 @@
 - Universal versus Economically Polarized Change in Age at First Birth: A French-British Comparison · [DOI](https://doi.org/10.1111/j.1728-4457.2009.00262.x)
 - Welfare Regimes for Aging Populations: No Single Path for Reform · [DOI](https://doi.org/10.1111/j.1728-4457.2009.00305.x)
 - What's Next for the Demography of Aging? A Symposium · [DOI](https://doi.org/10.1111/j.1728-4457.2009.00278.x)
+- The End of “Lowest‐Low” Fertility? · [DOI](https://doi.org/10.1111/j.1728-4457.2009.00304.x)
 
 ## 2008
 
@@ -761,6 +784,8 @@
 - The effect on elderly parents in cambodia of losing an adult child to AIDS · [DOI](https://doi.org/10.1111/j.1728-4457.2007.00181.x)
 - Theories of fertility decline and the evidence from development indicators · [DOI](https://doi.org/10.1111/j.1728-4457.2007.00160.x)
 - Yves Guyot on the protection of national labor · [DOI](https://doi.org/10.1111/j.1728-4457.2007.00174.x)
+- Pandemic Influenza: A Review · [DOI](https://doi.org/10.1111/j.1728-4457.2007.00179.x)
+- Longevity Among Hunter‐ Gatherers: A Cross‐Cultural Examination · [DOI](https://doi.org/10.1111/j.1728-4457.2007.00171.x)
 
 ## 2006
 
@@ -797,6 +822,8 @@
 - The second demographic transition in the United States: Exception or textbook example? · [DOI](https://doi.org/10.1111/j.1728-4457.2006.00146.x)
 - World population 1950-2000: Perception and response · [DOI](https://doi.org/10.1111/j.1728-4457.2006.tb00002.x)
 - Young adulthood as a factor in social change in the United States · [DOI](https://doi.org/10.1111/j.1728-4457.2006.00104.x)
+- Europe's Demographic Future: Determinants, Dimensions, and Challenges · [DOI](https://doi.org/10.1111/j.1728-4457.2006.tb00003.x)
+- Immigration and Ethnic Change in Low‐Fertility Countries: A Third Demographic Transition · [DOI](https://doi.org/10.1111/j.1728-4457.2006.00131.x)
 
 ## 2005
 
@@ -823,6 +850,7 @@
 - The weakening position of university graduates in Singapore's labor market: Causes and consequences · [DOI](https://doi.org/10.1111/j.1728-4457.2005.00053.x)
 - Tibetan fertility transitions in China and South Asia · [DOI](https://doi.org/10.1111/j.1728-4457.2005.00068.x)
 - Why is fertility lower in wealthier countries? The role of relaxed fertility-selection · [DOI](https://doi.org/10.1111/j.1728-4457.2005.00054.x)
+- Environmental Degradation and Human Well-Being: Report of the Millennium Ecosystem Assessment · [DOI](https://doi.org/10.1111/j.1728-4457.2005.00073.x)
 
 ## 2004
 
@@ -903,6 +931,7 @@
 - The world trend in maximum life span
 - Toward a new conceptualization of settlements for demography · [DOI](https://doi.org/10.1111/j.1728-4457.2003.00277.x)
 - Urban-rural mortality differentials: An unresolved debate · [DOI](https://doi.org/10.1111/j.1728-4457.2003.00029.x)
+- Social Demography and Eugenics in the Interwar United States · [DOI](https://doi.org/10.1111/j.1728-4457.2003.00547.x)
 
 ## 2002
 
@@ -942,6 +971,7 @@
 - The epidemiologic transition revisited: Compositional models for causes of death by age and sex · [DOI](https://doi.org/10.1111/j.1728-4457.2002.00205.x)
 - The ethnic composition of families in Russia in 1989: Insights into the Soviet nationalities policy · [DOI](https://doi.org/10.1111/j.1728-4457.2002.00681.x)
 - Uncertainties in the composition of world population in the twenty-first century · [DOI](https://doi.org/10.1111/j.1728-4457.2002.00539.x)
+- Chinese Reproductive Policy at the Turn of the Millennium: Dynamic Stability · [DOI](https://doi.org/10.1111/j.1728-4457.2002.00379.x)
 
 ## 2001
 
@@ -986,6 +1016,7 @@
 - WHO on health and sustainable development · [DOI](https://doi.org/10.1111/j.1728-4457.2001.00395.x)
 - William Farr on the economic value of the population · [DOI](https://doi.org/10.1111/j.1728-4457.2001.00565.x)
 - Women's autonomy in India and Pakistan: The influence of religion and region · [DOI](https://doi.org/10.1111/j.1728-4457.2001.00687.x)
+- Life Span Extension in Humans Is Self‐Reinforcing: A General Theory of Longevity · [DOI](https://doi.org/10.1111/j.1728-4457.2001.00411.x)
 
 ## 2000
 
@@ -1037,6 +1068,10 @@
 - Measuring Women's Work in Developing Countries · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00543.x)
 - Smallpox in Nineteenth‐Century India · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00649.x)
 - Urban Growth in Developing Countries: A Review of Projections and Predictions · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00757.x)
+- How Influential Are Demography Journals? · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00229.x)
+- The Bangladesh Fertility Decline: An Interpretation · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00067.x)
+- Frank Fetter on Population Versus Prosperity · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00577.x)
+- Population Weights in the International Order · [DOI](https://doi.org/10.1111/j.1728-4457.1999.00411.x)
 
 ## 1998
 
@@ -1046,11 +1081,20 @@
 - On the Quantum and Tempo of Fertility · [DOI](https://doi.org/10.2307/2807974)
 - Population Statistics, the Holocaust, and the Nuremberg Trials · [DOI](https://doi.org/10.2307/2808153)
 - The World Bank on the Social Impact of the Indonesian Crisis · [DOI](https://doi.org/10.2307/2808180)
+- Probabilistic Approaches to Population Forecasting · [DOI](https://doi.org/10.2307/2808055)
+- Demographic Dimensions in Forecasting: Adding Education to Age and Sex · [DOI](https://doi.org/10.2307/2808050)
+- Reproductive Mishaps and Western Contraception: An African Challenge to Fertility Theory · [DOI](https://doi.org/10.2307/2808121)
+- International Migration 1965-96: An Overview · [DOI](https://doi.org/10.2307/2808151)
+- Immigration Policy Prior to the 1930s: Labor Markets, Policy Interactions, and Globalization Backlash · [DOI](https://doi.org/10.2307/2808023)
+- Divergence of Marriage Patterns in Quebec and Elsewhere in Canada · [DOI](https://doi.org/10.2307/2807978)
 
 ## 1997
 
 - Economic Growth, Disruption, Deprivation, Disease, and Death: On the Importance of the Politics of Public Health for Development · [DOI](https://doi.org/10.2307/2137377)
 - Fertility and Family Time Allocation in the Philippines · [DOI](https://doi.org/10.2307/2137550)
+- Shifting Costs of Caring for the Elderly Back to Families in Japan: Will It Work? · [DOI](https://doi.org/10.2307/2137461)
+- Feminists and Neo-Malthusians: Past and Present Alliances · [DOI](https://doi.org/10.2307/2137570)
+- State Policies and the Birth Rate in Egypt: From Socialism to Liberalism · [DOI](https://doi.org/10.2307/2137463)
 
 ## 1996
 
@@ -1058,12 +1102,23 @@
 - Brazil's Fertility Decline, 1965-95: A Fresh Look at Key Factors · [DOI](https://doi.org/10.2307/2137686)
 - Development Theory: An Analytical Framework and Selected Application · [DOI](https://doi.org/10.2307/2137718)
 - Fertility and Commitment: Bringing Men Back In · [DOI](https://doi.org/10.2307/2808006)
+- Fertility and Racial Stratification · [DOI](https://doi.org/10.2307/2808009)
+- Immigration, Domestic Migration, and Demographic Balkanization in America: New Evidence for the 1990s · [DOI](https://doi.org/10.2307/2137808)
+- Social Interactions and Contemporary Fertility Transitions · [DOI](https://doi.org/10.2307/2137804)
+- Children's Schooling in sub-Saharan Africa: The Role of Fathers, Mothers, and Others · [DOI](https://doi.org/10.2307/2137435)
+- Post-Cairo Population Policy: Does Promoting Girls' Schooling Miss the Mark? · [DOI](https://doi.org/10.2307/2137805)
+- The Istanbul Declaration on Human Settlements · [DOI](https://doi.org/10.2307/2137742)
+- The Rome Declaration on World Food Security · [DOI](https://doi.org/10.2307/2137827)
 
 ## 1995
 
 - Fertility, Dimensions of Patriarchy, and Development in India · [DOI](https://doi.org/10.2307/2137495)
 - Mortality, Fertility, and Gender Bias in India: A District-Level Analysis · [DOI](https://doi.org/10.2307/2137773)
 - The Evolutionary Demography of the Fertility-Mortality Quasi-Equilibrium · [DOI](https://doi.org/10.2307/2137752)
+- The CIA on Global Humanitarian Emergencies · [DOI](https://doi.org/10.2307/2137798)
+- China's One-Child Policy: How and How Well Has it Worked? A Case Study of Hebei Province, 1979-88 · [DOI](https://doi.org/10.2307/2137750)
+- The Cairo Conference on Population and Development: A New Paradigm? · [DOI](https://doi.org/10.2307/2137493)
+- Social Security and Laissez Faire in Eighteenth-Century Political Economy · [DOI](https://doi.org/10.2307/2137772)
 
 ## 1994
 
@@ -1073,10 +1128,20 @@
 - Population Growth and Economic Growth: Some More Correlations · [DOI](https://doi.org/10.2307/2137634)
 - What Drove the Mass Migrations from Europe in the Late Nineteenth Century? · [DOI](https://doi.org/10.2307/2137600)
 - Women's Rising Employment and the Future of the Family in Industrial Societies · [DOI](https://doi.org/10.2307/2137521)
+- Reductions in Mortality at Advanced Ages: Several Decades of Evidence from 27 Countries · [DOI](https://doi.org/10.2307/2137662)
+- Does the Threat of Border Apprehension Deter Undocumented US Immigration? · [DOI](https://doi.org/10.2307/2137667)
+- Maternal Employment and Changes in Family Dynamics: The Social Context of Women's Work in Rural South India · [DOI](https://doi.org/10.2307/2137632)
 
 ## 1993
 
 - Theories of International Migration: A Review and Appraisal · [DOI](https://doi.org/10.2307/2938462)
+- Nutritional Patterns and Transitions · [DOI](https://doi.org/10.2307/2938388)
+- The Idea of Demographic Transition and the Study of Fertility Change: A Critical Intellectual History · [DOI](https://doi.org/10.2307/2938410)
+- Parity Progression and Birth Intervals in China: The Influence of Policy in Hastening Fertility Decline · [DOI](https://doi.org/10.2307/2938385)
+- Coitus Interruptus in the Twentieth Century · [DOI](https://doi.org/10.2307/2938413)
+- The Resumption of Fertility Decline in Japan: 1973-92 · [DOI](https://doi.org/10.2307/2938411)
+- Competing Perspectives on the Latin American Informal Sector · [DOI](https://doi.org/10.2307/2938384)
+- The Divorce of Marriage and Childbearing: Changing Attitudes and Behavior in the United States · [DOI](https://doi.org/10.2307/2938442)
 
 ## 1992
 
@@ -1084,62 +1149,114 @@
 - Climate Change: The IPCC Scientific Assessment. · [DOI](https://doi.org/10.2307/1971875)
 - Period Paramount? A Critique of the Cohort Approach to Fertility · [DOI](https://doi.org/10.2307/1973757)
 - Understanding Morbidity Change · [DOI](https://doi.org/10.2307/1973655)
+- Children at Risk: The Role of Family Structure in Latin America and West Africa · [DOI](https://doi.org/10.2307/1973760)
+- M. K. Bennett on Population and Food Supply · [DOI](https://doi.org/10.2307/1973684)
+- The Development Dictionary: A Guide to Knowledge as Power. · [DOI](https://doi.org/10.2307/1971880)
+- Jacques Cousteau on the Demographic Implications of Man's Divorce from Nature · [DOI](https://doi.org/10.2307/1973776)
+- Patterns and Trends of International Migration in Western Europe · [DOI](https://doi.org/10.2307/1973654)
 
 ## 1991
 
 - Excess Female Mortality and the Balance of the Sexes in the Population: An Estimate of the Number of "Missing Females" · [DOI](https://doi.org/10.2307/1971953)
 - The Missing Girls of China: A New Demographic Account · [DOI](https://doi.org/10.2307/1972351)
+- Creating New Traditions in Modern Chinese Populations: Aiming for Birth in the Year of the Dragon · [DOI](https://doi.org/10.2307/1973601)
+- The Ideological Origins of the Population Association of America · [DOI](https://doi.org/10.2307/1972350)
+- The Human Development Index: "Handle with Care" · [DOI](https://doi.org/10.2307/1973733)
 
 ## 1990
 
 - The Comparative Method: Moving Beyond Qualitative and Quantitative Strategies. · [DOI](https://doi.org/10.2307/1972971)
+- Toward a Political Economy of Fertility: Anthropological Contributions · [DOI](https://doi.org/10.2307/1972530)
+- Comment: The Second Tragedy of the Commons · [DOI](https://doi.org/10.2307/2808079)
+- Son Preference and Fertility in Bangladesh · [DOI](https://doi.org/10.2307/1972966)
+- The World's Forests and Human Populations: The Environmental Interconnections · [DOI](https://doi.org/10.2307/2808073)
 
 ## 1989
 
 - Agrarian Responses to Outmigration in Sub-Saharan Africa · [DOI](https://doi.org/10.2307/2807933)
+- On Aggregate Empirical Studies Relating Population Variables to Economic Development · [DOI](https://doi.org/10.2307/1973707)
+- The Social Context of AIDS in sub-Saharan Africa · [DOI](https://doi.org/10.2307/1973703)
+- Is the Chinese Family Planning Program "Tightening Up"? · [DOI](https://doi.org/10.2307/1973708)
+- The Impact of Urbanization and Delayed Childbearing on Population Growth and Aging in China · [DOI](https://doi.org/10.2307/1972441)
+- Child Mortality in the Developing World · [DOI](https://doi.org/10.2307/1972594)
+- Depletion of Common Property Resources in India: Micro-Level Evidence · [DOI](https://doi.org/10.2307/2807930)
+- The Varying Connection between Marital Status and Childbearing in the United States · [DOI](https://doi.org/10.2307/1972442)
 
 ## 1988
 
 - Cultural Dynamics and Economic Theories of Fertility Change · [DOI](https://doi.org/10.2307/1972499)
+- Population, Economic Growth, and Energy Demand, 1985-2020 · [DOI](https://doi.org/10.2307/1973571)
+- Social Science Approaches to International Migration · [DOI](https://doi.org/10.2307/2808098)
+- Moral Philosophy and Population Questions in Eighteenth Century Europe · [DOI](https://doi.org/10.2307/2808088)
 
 ## 1987
 
 - Illegal Migration and US Immigration Reform: A Conceptual Framework · [DOI](https://doi.org/10.2307/1972122)
 - Selective Discrimination against Female Children in Rural Punjab, India · [DOI](https://doi.org/10.2307/1972121)
 - The Cultural Context of High Fertility in sub-Saharan Africa · [DOI](https://doi.org/10.2307/1973133)
+- The Proximate Determinants of Exceptionally High Fertility · [DOI](https://doi.org/10.2307/1972125)
+- The Concentration of Reproduction among US Women, 1917-80 · [DOI](https://doi.org/10.2307/1973030)
+- Demographic Consequences of the Great Leap Forward in China's Provinces · [DOI](https://doi.org/10.2307/1973026)
+- Fertility Levels and Trends in India, 1951-81 · [DOI](https://doi.org/10.2307/1973137)
+- Population Redistribution in the Socialist Republic of Vietnam · [DOI](https://doi.org/10.2307/1972120)
+- Differences between Women's and Men's Reproductive Goals in Developing Countries · [DOI](https://doi.org/10.2307/1973025)
+- Below-Replacement Fertility in Nineteenth Century America · [DOI](https://doi.org/10.2307/1973195)
 
 ## 1986
 
 - Changes in Family Structure in China: A Simulation Study · [DOI](https://doi.org/10.2307/1973431)
 - Long-Term Fluctuations in Climate and Population in the Preindustrial Era · [DOI](https://doi.org/10.2307/1973349)
 - Routes to Low Mortality in Poor Countries · [DOI](https://doi.org/10.2307/1973108)
+- Population Dynamics with Immigration and Low Fertility · [DOI](https://doi.org/10.2307/2807908)
+- The Effects of Rapid Population Growth on Labor Supply and Employment in Developing Countries · [DOI](https://doi.org/10.2307/1973216)
+- Altruism and the Economic Theory of Fertility · [DOI](https://doi.org/10.2307/2807893)
+- Observations on the History of Cohort Fertility in the United States · [DOI](https://doi.org/10.2307/1973429)
+- The Indonesian Family Planning Program: Government Influence and Client Choice · [DOI](https://doi.org/10.2307/1973219)
 
 ## 1985
 
 - Educational Transition in Rural South India · [DOI](https://doi.org/10.2307/1973377)
+- The Old-Age Security Motive for Fertility · [DOI](https://doi.org/10.2307/1973379)
 
 ## 1984
 
 - An Analytical Framework for the Study of Child Survival in Developing Countries · [DOI](https://doi.org/10.2307/2807954)
 - Effects of Maternal Education, Women's Roles, and Child Care on Child Mortality · [DOI](https://doi.org/10.2307/2807961)
 - Wives and Work: The Sex Role Revolution and Its Consequences · [DOI](https://doi.org/10.2307/1973512)
+- Population Growth, Industrial Revolutions, and the Urban Transition · [DOI](https://doi.org/10.2307/1973513)
+- The Proximate Determinants of Fertility in Sub-Saharan Africa · [DOI](https://doi.org/10.2307/1973518)
+- Fertility in Prerevolutionary Rural China: In Defense of a Reassessment · [DOI](https://doi.org/10.2307/1973515)
 
 ## 1983
 
 - The Political Demography of Assam's Anti-Immigrant Movement · [DOI](https://doi.org/10.2307/1973053)
+- Fertility Decline in the West: Causes and Prospects · [DOI](https://doi.org/10.2307/1972897)
+- A Century of Demographic and Cultural Change in Western Europe: An Exploration of Underlying Dimensions · [DOI](https://doi.org/10.2307/1973316)
+- Infant Mortality Trends in the Soviet Union · [DOI](https://doi.org/10.2307/1973050)
 
 ## 1982
 
 - Population Studies and Population Policy in China · [DOI](https://doi.org/10.2307/1972987)
+- Mortality Transition in South and East Asia: Technology Confronts Poverty · [DOI](https://doi.org/10.2307/1972380)
+- Can Knowledge Improve Forecasts? · [DOI](https://doi.org/10.2307/1972470)
 
 ## 1981
 
 - Sex Bias in the Family Allocation of Food and Health Care in Rural Bangladesh · [DOI](https://doi.org/10.2307/1972764)
+- Population Trends, Population Policy, and Population Studies in China · [DOI](https://doi.org/10.2307/1972766)
+- Malay Marriage and Divorce in Peninsular Malaysia: Three Decades of Change · [DOI](https://doi.org/10.2307/1972623)
+- Population Research and Population Policy in Korea in the 1970s · [DOI](https://doi.org/10.2307/1972802)
+- Risk and Insurance: Perspectives on Fertility and Agrarian Change in India and Bangladesh · [DOI](https://doi.org/10.2307/1972559)
+- The Limits of Population Forecasting · [DOI](https://doi.org/10.2307/1972799)
+- The Only Child in America: Prejudice versus Performance · [DOI](https://doi.org/10.2307/1972763)
+- Economic Decision Theory and Human Fertility Behavior: A Speculative Essay · [DOI](https://doi.org/10.2307/1972556)
 
 ## 1980
 
 - Mass Education as a Determinant of the Timing of Fertility Decline · [DOI](https://doi.org/10.2307/1972729)
 - W. F. Lloyd on the Checks to Population · [DOI](https://doi.org/10.2307/1972412)
+- On the Social Control of Human Reproduction · [DOI](https://doi.org/10.2307/1972925)
+- Sex Differentials in Mortality in Rural Bangladesh · [DOI](https://doi.org/10.2307/1972730)
 
 ## 1979
 
@@ -1149,11 +1266,16 @@
 
 - Rays of Hope: The Transition to a Post-Petroleum World. · [DOI](https://doi.org/10.2307/1972157)
 - Size and Age Structure of Family Households: Exploratory Comparisons · [DOI](https://doi.org/10.2307/1972278)
+- Mortality, Income Distribution, and Rural-Urban Residence in Brazil · [DOI](https://doi.org/10.2307/1972857)
+- Toward an Anthropology of Women. · [DOI](https://doi.org/10.2307/1972301)
+- Zero Population Growth and the Economies of Developed Nations · [DOI](https://doi.org/10.2307/1971730)
 
 ## 1977
 
 - Historical Estimates of World Population: An Evaluation · [DOI](https://doi.org/10.2307/1971891)
 - Internal Migration in Developing Countries: A Review of Theory, Evidence, Methodology, and Research Priorities. · [DOI](https://doi.org/10.2307/1971779)
+- The Modern Rise of Population. · [DOI](https://doi.org/10.2307/1971906)
+- Counting the Uncountable: Estimates of Undocumented Aliens in the United States · [DOI](https://doi.org/10.2307/1971686)
 
 ## 1976
 

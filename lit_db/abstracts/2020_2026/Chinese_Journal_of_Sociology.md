@@ -1,7 +1,7 @@
 # Chinese Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **142** 篇
+共 **151** 篇
 
 ---
 
@@ -39,6 +39,36 @@
 **年份**: 2026 | **DOI**: [10.1177/2057150x251410671](https://doi.org/10.1177/2057150x251410671)
 **作者**: Aboubakr, Passant; Gohli, Hannes
 **摘要**: This paper provides insights into the interplay between international and domestic environmental governance by assessing the relationship between China's ratification of the Paris Climate Agreement and the intensity of its domestic environmental policies.…
+
+### When artificial intelligence makes everything similar: The risks of content homogenization
+**年份**: 2026 | **DOI**: [10.1177/2057150x261419573](https://doi.org/10.1177/2057150x261419573)
+**作者**: Xie, Yu; Xie, Yueqi
+**摘要**: Generative artificial intelligence (AI) models will increasingly replace humans in producing output for a variety of important tasks. While much prior work has mostly focused on the improvement in the average performance of generative AI models relative to humans’ performance, much less attention ha…
+
+### Born to work longer? Lifetime socioeconomic dynamics, pension eligibility, and late-life employment in urban China
+**年份**: 2026 | **DOI**: [10.1177/2057150x261420939](https://doi.org/10.1177/2057150x261420939)
+**作者**: Zhou, Shuai; Bai, Xue
+**摘要**: The expansion of an extended working life has been reported worldwide. While retirement researchers discuss socioeconomic inequalities in late careers in affluent Western countries, unequal retirement decisions in China have attracted growing attention.…
+
+### Respectability and gendered-capital vulnerability: A qualitative study of second-generation women entrepreneurs in Dongguan, China
+**年份**: 2026 | **DOI**: [10.1177/2057150x261448693](https://doi.org/10.1177/2057150x261448693)
+**作者**: Pei, Yuxin; Li, Peiru
+**摘要**: Based on in-depth interviews with 16 second-generation women entrepreneurs in Dongguan, China, this study examines how elite women navigate the tension between market modernity and persistent lineage norms during intergenerational transfer.…
+
+### Discernible rupture and implicit continuity: The modernization of family ethics from the perspective of intergenerational co-parenting in China
+**年份**: 2026 | **DOI**: [10.1177/2057150x261439965](https://doi.org/10.1177/2057150x261439965)
+**作者**: Ji, Yingying; Ruan, Wenya
+**摘要**: This article examines the intergenerational co-parenting experiences of “second-generation rural migrant” families, and the practical process of rebuilding family balance by the parent generation in cohabitation and co-parenting setting during the urbanization of rural households.…
+
+### Negotiating bride price in contemporary China: Gender identities, community norms, and education effects in marriage practices
+**年份**: 2026 | **DOI**: [10.1177/2057150x261454806](https://doi.org/10.1177/2057150x261454806)
+**作者**: Han, Bing; He, Ranran; Kane, Danielle
+**摘要**: Amid declining marriage rates in China, bride price has become a key source of strain in marriage formation. While earlier studies have examined its economic and cultural dimensions, less is known about how migrant workers experience the negotiation of bride price as they move between rural traditio…
+
+### The mother–daughter relationship in urban singleton-daughter families: Changing intergenerational relationships and the implications for Chinese family reinstitutionalization
+**年份**: 2026 | **DOI**: [10.1177/2057150x261454099](https://doi.org/10.1177/2057150x261454099)
+**作者**: Ji, Yingchun; Li, Xuan
+**摘要**: The father–son relationship has traditionally been regarded as the cornerstone of family dynamics and has been the focal point of research in both Western and Chinese contexts. Conversely, the mother–daughter relationship has either been overlooked or portrayed in a negative light.…
 
 ### A new interpretation of Lenin's What Is to Be Done? A comparative study from a historical-sociological perspective
 **年份**: 2025 | **DOI**: [10.1177/2057150X251357545](https://doi.org/10.1177/2057150X251357545)
@@ -154,6 +184,11 @@
 **年份**: 2025 | **DOI**: [10.1177/2057150X251387426](https://doi.org/10.1177/2057150X251387426)
 **作者**: Hao, Feng
 **摘要**: Climate change has substantially impacted the environment and human society. Carbon dioxide (CO2) emissions are one of the primary causes of the climate crisis, and fossil fuel consumption for numerous economic activities has been a major factor leading to those emissions.…
+
+### AI's dual impact: Transforming society and social sciences
+**年份**: 2025 | **DOI**: [10.1177/2057150x251316601](https://doi.org/10.1177/2057150x251316601)
+**作者**: Cai, Tianji; Huang, Junming
+**摘要**: （暂无）
 
 ### A dynamic relationship between discrimination and psychological distress among rural migrant workers in China
 **年份**: 2024 | **DOI**: [10.1177/2057150X241289704](https://doi.org/10.1177/2057150X241289704)
@@ -484,6 +519,16 @@
 **年份**: 2022 | **DOI**: [10.1177/2057150X221129343](https://doi.org/10.1177/2057150X221129343)
 **作者**: Shen, Chao
 **摘要**: The motherhood penalty is an important issue in the field of family and gender inequality research. China has experienced rapid economic growth and drastic social change in recent decades, but existing studies fail to provide an overview of changes in the effect of the motherhood penalty during this…
+
+### Social class differentials in marital sex in China (2000–2015)
+**年份**: 2022 | **DOI**: [10.1177/2057150x221107958](https://doi.org/10.1177/2057150x221107958)
+**作者**: Zhang, Yueyun; Wang, Xin; Pan, Suiming
+**摘要**: This study examines whether and how social class matters for marital sex in China since the beginning of the 21st century. We utilize data from a national sexuality survey that has been administered at four time points: 2000, 2006, 2010, and 2015.…
+
+### Knowledge production and epistemic politics: A scientometric review of Chinese sexuality studies in English-language academia
+**年份**: 2022 | **DOI**: [10.1177/2057150x221111523](https://doi.org/10.1177/2057150x221111523)
+**作者**: Luo, Muyuan; Chen, Gaoran; He, Qing 等4人
+**摘要**: In recent decades, sexuality studies has become an increasingly important field of social scientific research in and beyond China. This paper uses CiteSpace and VOSviewer to carry out a bibliometric analysis of 26,975 sexuality-related papers included in the Web of Science database in the past four …
 
 ### Cohort dynamics in relation to gender attitudes in China
 **年份**: 2021 | **DOI**: [10.1177/2057150X211002981](https://doi.org/10.1177/2057150X211002981)

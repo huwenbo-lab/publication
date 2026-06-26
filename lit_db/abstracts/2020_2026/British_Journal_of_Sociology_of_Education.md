@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **468** 篇
+共 **500** 篇
 
 ---
 
@@ -99,6 +99,146 @@
 **年份**: 2026 | **DOI**: [10.1080/01425692.2026.2642106](https://doi.org/10.1080/01425692.2026.2642106)
 **作者**: Xie, Yang; Liu, Fengshu
 **摘要**: Vocational education is often associated with socially disadvantaged youth, yet less is known about advantaged students who enter lower-status vocational tracks. This study examines how such students draw on family capital to navigate placement within China’s stratified education system.…
+
+### The Creative Art of Troublemaking in education,
+**年份**: 2026 | **DOI**: [10.1080/01425692.2025.2602256](https://doi.org/10.1080/01425692.2025.2602256)
+**作者**: Veitch, Rose
+**摘要**: （暂无）
+
+### A different kind of familiar: the insider-outsider paradox and negotiating teacher sense of belonging
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2657329](https://doi.org/10.1080/01425692.2026.2657329)
+**作者**: Sedawi, Orwa; Oplatka, Izhar
+**摘要**: （暂无）
+
+### Diversity of religion and belief in education: inequality, citizenship and belonging
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2648452](https://doi.org/10.1080/01425692.2026.2648452)
+**作者**: Hemming, Peter J.; Ma, Lin; Malone, Joanna 等5人
+**摘要**: （暂无）
+
+### Parents’ perspectives on special education in England: institutional disability discrimination and non-compliance with the law
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2638269](https://doi.org/10.1080/01425692.2026.2638269)
+**作者**: Holt, Louise; Trudgill, Marian; Azpitarte, Francisco
+**摘要**: （暂无）
+
+### Religion, agency, and choice in English state schools
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2616654](https://doi.org/10.1080/01425692.2026.2616654)
+**作者**: Hobson, Charlotte
+**摘要**: （暂无）
+
+### Exploring anxiety and behaviour. Agency, liminality and relational embodiment in a PRU
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2664171](https://doi.org/10.1080/01425692.2026.2664171)
+**作者**: Woolhouse, Clare
+**摘要**: （暂无）
+
+### ‘Do you want to be a bully?’ Critical school textbook analysis on friendship and bullying
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2668489](https://doi.org/10.1080/01425692.2026.2668489)
+**作者**: Puutio, Eveliina; Väisänen, Anne-Mari; Lanas, Maija
+**摘要**: （暂无）
+
+### Against School: Thinking Education Differently
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2615545](https://doi.org/10.1080/01425692.2026.2615545)
+**作者**: Jones, Ken
+**摘要**: （暂无）
+
+### The ‘grammar’ of justice: how do governing boards advance social justice for racially minoritised learners?
+**年份**: 2026 | **DOI**: [10.1080/01425692.2025.2609180](https://doi.org/10.1080/01425692.2025.2609180)
+**作者**: Pennacchia, Jodie; Bathmaker, Ann-Marie
+**摘要**: （暂无）
+
+### Diluting exclusivity? The prevalence and distribution of bursaries and scholarships for Britain’s private schools
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2664720](https://doi.org/10.1080/01425692.2026.2664720)
+**作者**: Green, Francis; Henseke, Golo; Lee, Sangwoo 等4人
+**摘要**: （暂无）
+
+### Conservative peripheral societies and the acquisition of higher education: multidimensional marginality
+**年份**: 2026 | **DOI**: [10.1080/01425692.2025.2609174](https://doi.org/10.1080/01425692.2025.2609174)
+**作者**: Agur-Cohen, Kineret; Kalagy, Tehila
+**摘要**: （暂无）
+
+### Post-schooling the elite: spaceX, cognitive platforming and educational abstraction
+**年份**: 2026 | **DOI**: [10.1080/01425692.2025.2609177](https://doi.org/10.1080/01425692.2025.2609177)
+**作者**: Leaton Gray, Sandra; Scott, David
+**摘要**: （暂无）
+
+### Fighting for funding, working-class women’s transitions to sociology doctoral education: ‘significant academic others’, economic and social capital
+**年份**: 2026 | **DOI**: [10.1080/01425692.2025.2608321](https://doi.org/10.1080/01425692.2025.2608321)
+**作者**: Rowell, Carli Ria
+**摘要**: （暂无）
+
+### Being a ‘good’ citizen: white collegiality and academic citizenship
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2674680](https://doi.org/10.1080/01425692.2026.2674680)
+**作者**: Bhopal, Kalwant; Myers, Martin
+**摘要**: （暂无）
+
+### Between reflexivity and habitus: transnational academic mobility among Chinese-trained postdoctoral researchers in the United States
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2679478](https://doi.org/10.1080/01425692.2026.2679478)
+**作者**: Wang, Weijun; Yu, Jing
+**摘要**: （暂无）
+
+### Navigating structure and agency: disadvantaged Chinese students’ motivations for international education mobility
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2619550](https://doi.org/10.1080/01425692.2026.2619550)
+**作者**: Liu, Chu
+**摘要**: （暂无）
+
+### Education and the Politics of Interruption: Does the Right Always Win?
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2666440](https://doi.org/10.1080/01425692.2026.2666440)
+**作者**: Khan, Tayeba
+**摘要**: （暂无）
+
+### Evolving homophily in higher education: how university settings transform international student relationships
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2679479](https://doi.org/10.1080/01425692.2026.2679479)
+**作者**: Grund, Thomas; Tiernan, Aisling; Negrea, Briana-Andreea
+**摘要**: （暂无）
+
+### Roots and leaves: rethinking the relationship between habitus and identity
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2681654](https://doi.org/10.1080/01425692.2026.2681654)
+**作者**: Manzano, Martí; Tarabini, Aina; Gil, Sara
+**摘要**: （暂无）
+
+### What makes bullying complicated - teachers’ perceptions of bullying-related issues in school
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2682490](https://doi.org/10.1080/01425692.2026.2682490)
+**作者**: Lanas, Maija; Petäjäniemi, Maria; Väisänen, Anne-Mari 等5人
+**摘要**: （暂无）
+
+### Understanding racialised elements of habitus of working-class women on an access to higher education course
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2679486](https://doi.org/10.1080/01425692.2026.2679486)
+**作者**: McLaughlin, Sarah
+**摘要**: （暂无）
+
+### Symbolic haunting: first-generation university students’ limited sense of entitlement
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2615957](https://doi.org/10.1080/01425692.2026.2615957)
+**作者**: Lin-Januszewski, Liang-Wen
+**摘要**: （暂无）
+
+### Translanguaging knowledge mobilised for theorising: a case study of Chinese bilingual postgraduate researchers in Australia
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2685042](https://doi.org/10.1080/01425692.2026.2685042)
+**作者**: Shen, Haibo; Liu, Wei; Qi, Jing
+**摘要**: （暂无）
+
+### The UK field of higher education institutions and its homologies: class, gender and race
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2679488](https://doi.org/10.1080/01425692.2026.2679488)
+**作者**: Atkinson, Will; Benites Nieves, Rodolfo
+**摘要**: （暂无）
+
+### ‘There actually aren’t enough hours in the week’: a constructivist grounded theory of defending inaction on the implementation of intercultural education in Irish schools
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2622379](https://doi.org/10.1080/01425692.2026.2622379)
+**作者**: Harris, Greg; Keane, Elaine
+**摘要**: （暂无）
+
+### Toward a sociology of education and artificial intelligence
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2686013](https://doi.org/10.1080/01425692.2026.2686013)
+**作者**: Shi, Lulu P.; Selwyn, Neil; Eynon, Rebecca 等4人
+**摘要**: （暂无）
+
+### The role of parents’ educational background in upper secondary students’ utilization of career guidance resources
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2619914](https://doi.org/10.1080/01425692.2026.2619914)
+**作者**: Schrøder Olsen, Astrid
+**摘要**: （暂无）
+
+### The paradox of the ‘good teacher’: navigating power relations and subjectivity in China’s recorded courses
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2618474](https://doi.org/10.1080/01425692.2026.2618474)
+**作者**: Li, Kaiyi
+**摘要**: （暂无）
 
 ### 'Dancing with bonds': embodied transitions of rural students into higher education
 **年份**: 2025 | **DOI**: [10.1080/01425692.2025.2512161](https://doi.org/10.1080/01425692.2025.2512161)
@@ -589,6 +729,16 @@
 **年份**: 2025 | **DOI**: [10.1080/01425692.2025.2596931](https://doi.org/10.1080/01425692.2025.2596931)
 **作者**: O'Neill, Siobhan
 **摘要**: Institutional whiteness underpins UK Higher Education (HE). A growing field of scholarship has highlighted the impacts of this on racially minoritised academics and students. I expand on this by asking: how does institutional whiteness shape the ways that racially minoritised students understand, ta…
+
+### Time in education policy transfer: the seven temporalities of global school reform
+**年份**: 2025 | **DOI**: [10.1080/01425692.2025.2602255](https://doi.org/10.1080/01425692.2025.2602255)
+**作者**: Broeck, Pieter Vanden
+**摘要**: （暂无）
+
+### The Time Inheritors – How Time Inequalities Shape Higher Education Mobility in China
+**年份**: 2025 | **DOI**: [10.1080/01425692.2025.2602254](https://doi.org/10.1080/01425692.2025.2602254)
+**作者**: Sun, Yifei
+**摘要**: （暂无）
 
 ### 'He's actually very kind': bullying figurations and the call of capital
 **年份**: 2024 | **DOI**: [10.1080/01425692.2024.2381098](https://doi.org/10.1080/01425692.2024.2381098)
@@ -1910,6 +2060,11 @@
 **作者**: Kjer, Mikkel; Bengtsson, Tea; Nielsen, Chantal
 **摘要**: Advancing the 'temporal turn' in the sociology of education, this article explores how a strong national discourse on the length of the school day influences pupils' articulations of their temporal experiences.…
 
+### Class, education and parenting: cross-cultural perspectives
+**年份**: 2021 | **DOI**: [10.1080/01425692.2021.1946301](https://doi.org/10.1080/01425692.2021.1946301)
+**作者**: Golden, Deborah; Erdreich, Lauren; Stefansen, Kari 等4人
+**摘要**: （暂无）
+
 ### 'Creating a modern nursing workforce': nursing education reform in the neoliberal social imaginary
 **年份**: 2020 | **DOI**: [10.1080/01425692.2020.1865131](https://doi.org/10.1080/01425692.2020.1865131)
 **作者**: Snee, Helene; White, Peter; Cox, Nigel
@@ -2344,3 +2499,8 @@
 **年份**: 2020 | **DOI**: [10.1080/01425692.2020.1865130](https://doi.org/10.1080/01425692.2020.1865130)
 **作者**: Rainford, Jon
 **摘要**: Widening participation in higher education is driven by policy that is then enacted by individual practitioners. Practitioners bring with them a wealth of personal and employment experiences which shape their interpretations and enactments.…
+
+### Doctoral theses
+**年份**: 2020 | **DOI**: [10.1080/01425692.2020.1794177](https://doi.org/10.1080/01425692.2020.1794177)
+**作者**: Pennant, April-Louise M.O.O.
+**摘要**: （暂无）

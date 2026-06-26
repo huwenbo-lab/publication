@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2010–2019 年文章（含摘要）
 
-共 **915** 篇
+共 **920** 篇
 
 ---
 
@@ -564,6 +564,26 @@
 **年份**: 2019 | **DOI**: [10.1177/0192513X19833094](https://doi.org/10.1177/0192513X19833094)
 **作者**: Brandao, Daniela; Ribeiro, Oscar; Jopp, Daniela
 **摘要**: This study aims to analyze the wish to reach 100 years old in a sample of centenarians' family members and explore the main reasons for supporting or refuting such a desire. Answers to an open question on the wish to reach 100 years old were analyzed via thematic coding and further explored in relat…
+
+### Family Structure Change Among Latinos: Variation by Ecologic Risk
+**年份**: 2019 | **DOI**: [10.1177/0192513x19849636](https://doi.org/10.1177/0192513x19849636)
+**作者**: Cabrera, Natasha J.; Karberg, Elizabeth; Fagan, Jay
+**摘要**: We examined differences in family structure change in an urban sample of mothers ( N = 1,314) from their child’s birth to age 5 and whether ecological risk moderated this association.…
+
+### “Honey, I Want to Be a Surrogate”: How Military Spouses Negotiate and Navigate Surrogacy With Their Service Member Husbands
+**年份**: 2019 | **DOI**: [10.1177/0192513x19862843](https://doi.org/10.1177/0192513x19862843)
+**作者**: Ziff, Elizabeth
+**摘要**: This article examines how military spouses negotiate the decision to become a surrogate with their service member husband and how the two navigate surrogacy together. It is speculated that military spouses are ideal candidates for surrogacy due to their particular status as a military spouse; howeve…
+
+### The Relationship Between Religion and Intergenerational Solidarity in Eastern and Western Germany
+**年份**: 2019 | **DOI**: [10.1177/0192513x19868750](https://doi.org/10.1177/0192513x19868750)
+**作者**: Steinbach, Anja; Silverstein, Merril
+**摘要**: This article investigated the relationship between religiosity and intergenerational solidarity in Germany, with a focus on differences between eastern and western regions that have maintained unique religious profiles that trace back to before unification.…
+
+### Resources, Time and Gender: Determinants of Women’s Housework in Bahir Dar and Nearby Rural Villages, Northwest Ethiopia
+**年份**: 2019 | **DOI**: [10.1177/0192513x19878862](https://doi.org/10.1177/0192513x19878862)
+**作者**: Desta, Chalachew Getahun
+**摘要**: Women’s disproportionate engagement in housework and its determinants has been relatively well studied for developed countries, but such research is absent for less developed countries.…
 
 ### A Balance That We Walk: Characteristics, Attributes, and Behaviors That Promote Healthy American Indian Heterosexual Couple Relationships
 **年份**: 2018 | **DOI**: [10.1177/0192513X16680091](https://doi.org/10.1177/0192513X16680091)
@@ -1379,6 +1399,11 @@
 **年份**: 2018 | **DOI**: [10.1177/0192513X17720960](https://doi.org/10.1177/0192513X17720960)
 **作者**: Baker, Jillian Lucas; Lanier, Yzette; James, George 等9人
 **摘要**: Context: Although parents can be influential toward the sexual attitudes and behaviors of adolescents, fathers are significantly underrepresented in studies of parental influences on adolescent sexual practices and behaviors.…
+
+### The Role of Attachment of Each Partner on Marital Adjustment
+**年份**: 2018 | **DOI**: [10.1177/0192513x18812005](https://doi.org/10.1177/0192513x18812005)
+**作者**: Siegel, Alana; Levin, Yafit; Solomon, Zahava
+**摘要**: This study conducted a latent profile analysis on quantitative data gathered from 156 married couples, so to learn more about the role of attachment and gender in marital adjustment.…
 
 ### A Brief Tribute to Murray A. Straus
 **年份**: 2017 | **DOI**: [10.1177/0192513x17728192](https://doi.org/10.1177/0192513x17728192)

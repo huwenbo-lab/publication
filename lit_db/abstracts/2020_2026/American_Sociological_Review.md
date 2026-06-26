@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **226** 篇
+共 **230** 篇
 
 ---
 
@@ -9,6 +9,16 @@
 **年份**: 2026 | **DOI**: [10.1177/00031224251409746](https://doi.org/10.1177/00031224251409746)
 **作者**: Amaya, Elena; Braun, Robert
 **摘要**: This article argues that folklore (orally transmitted group knowledge) shapes far-right voting by inculcating feeling rules that resonate with nativist and autocratic ideas. Drawing on recently rediscovered archives of nineteenth- and twentieth-century folklorists, we pair a dataset of local support…
+
+### The Influence “Paradox”: When More Network Ties Lead to Less Change
+**年份**: 2026 | **DOI**: [10.1177/00031224261438845](https://doi.org/10.1177/00031224261438845)
+**作者**: Hsiao, Yuan; Christakis, Nicholas A.
+**摘要**: The diffusion of behaviors and ideas is a core concern in many fields and highly relevant to collective action and innovation adoption. A common assumption is that well-connected individuals within social networks are especially influential and so are good targets to initiate behavioral intervention…
+
+### Unstable Work in a Fissured Economy: Tracking Employment in Subcontractor Establishments in France
+**年份**: 2026 | **DOI**: [10.1177/00031224261448194](https://doi.org/10.1177/00031224261448194)
+**作者**: Aeppli, Clem
+**摘要**: Many jobs in the twenty-first century have become short-term, precarious, and unstable. To help explain this phenomenon, I consider the fragmentation of economic activity across networks of transacting organizations—a trend known to affect pay, but with unknown implications for the stability of work…
 
 ### (Not) Getting What You Deserve: How Misrecognized Evaluators Reproduce Misrecognition in Peer Evaluations
 **年份**: 2025 | **DOI**: [10.1177/00031224251318051](https://doi.org/10.1177/00031224251318051)
@@ -394,6 +404,10 @@
 **年份**: 2024 | **DOI**: [10.1177/00031224241263497](https://doi.org/10.1177/00031224241263497)
 **作者**: Yavas, Mustafa
 **摘要**: Why do elite professionals leave hard-earned, privileged corporate careers? This article examines an underappreciated case of employee turnover, white-collar opt-out, which involves resignations that may not immediately lead to a similar job or life experience, but are instead followed by alternativ…
+
+### Acknowledgment of Referees
+**年份**: 2024 | **DOI**: [10.1177/00031224241291634](https://doi.org/10.1177/00031224241291634)
+**摘要**: （暂无）
 
 ### Born Again French: Explaining Inconsistency in Citizenship Declarations in French Longitudinal Data
 **年份**: 2023 | **DOI**: [10.1177/00031224231207392](https://doi.org/10.1177/00031224231207392)
@@ -949,6 +963,11 @@
 **年份**: 2021 | **DOI**: [10.1177/0003122420977480](https://doi.org/10.1177/0003122420977480)
 **作者**: Randles, Jennifer
 **摘要**: Prior research highlights how mothers across social classes express similar beliefs that good parenting adheres to the tenets of intensive mothering by being child-centered, time-consuming, and self-sacrificing.…
+
+### Relative to Whom? Comment on “Relative Education and the Advantage of a College Degree”
+**年份**: 2021 | **DOI**: [10.1177/00031224211042326](https://doi.org/10.1177/00031224211042326)
+**作者**: Furey, Jane
+**摘要**: To understand the relative advantage of a bachelor’s degree, we must consider the question: relative to whom? Using the Current Population Survey Annual Social and Economic Supplement, Horowitz (2018) argues that educational expansion between 1971 and 2010 decreased college graduates’ skill usage an…
 
 ### A Numbers Game: Quantification of Work, Auto-Gamification, and Worker Productivity
 **年份**: 2020 | **DOI**: [10.1177/0003122420936665](https://doi.org/10.1177/0003122420936665)

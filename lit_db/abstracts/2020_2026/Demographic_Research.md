@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2020–2026 年文章（含摘要）
 
-共 **502** 篇
+共 **524** 篇
 
 ---
 
@@ -9,6 +9,96 @@
 **年份**: 2026 | **DOI**: [10.4054/demres.2026.54.14](https://doi.org/10.4054/demres.2026.54.14)
 **作者**: Paglino, Eugenio
 **摘要**: BACKGROUNDSeveral general decomposition algorithms have been developed to decompose the difference between the values of demographic measures in two populations.However, fewer techniques are available to researchers wishing to understand how different subpopulations are contributing to the differenc…
+
+### Settlement intentions of Ukrainian refugees in Germany: Adhering to social status back home or restarting again abroad?
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.16](https://doi.org/10.4054/demres.2026.54.16)
+**作者**: Ette, Andreas; Kosyakova, Yuliya; Kothe, Christian
+**摘要**: （暂无）
+
+### Spatial perspective on environmental migration: Empirical insights from a spatiotemporal approach in the United States, 1970–2010
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.27](https://doi.org/10.4054/demres.2026.54.27)
+**作者**: Zhou, Shuai; Chi, Guangqing; Liao, Chuan
+**摘要**: （暂无）
+
+### Bayesian multidimensional mortality reconstruction
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.28](https://doi.org/10.4054/demres.2026.54.28)
+**作者**: Tamburini, Andrea; Wiśniowski, Arkadiusz; Yildiz, Dilek
+**摘要**: （暂无）
+
+### Partnership life courses and completed fertility in Spain
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.29](https://doi.org/10.4054/demres.2026.54.29)
+**作者**: Vidal, Sergi; Bolano, Danilo; Lozano, Mariona
+**摘要**: （暂无）
+
+### “Family-Anchored” transitions to adult life in Mexico
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.2](https://doi.org/10.4054/demres.2026.54.2)
+**作者**: Becca, Federica; Esteve, Albert
+**摘要**: （暂无）
+
+### Probabilistic population forecasts for small regions
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.23](https://doi.org/10.4054/demres.2026.54.23)
+**作者**: Goes, Julius; Engelhardt, Henriette
+**摘要**: （暂无）
+
+### Economic insecurity and material deprivation: Coping strategies among couple families with and without small children in Europe
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.25](https://doi.org/10.4054/demres.2026.54.25)
+**作者**: Grotti, Raffaele; Gritti, Davide; Scherer, Stefani
+**摘要**: （暂无）
+
+### The ratio of births observed to births needed: An indicator to assess demographic sustainability
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.30](https://doi.org/10.4054/demres.2026.54.30)
+**作者**: Spoorenberg, Thomas; Skirbekk, Vegard
+**摘要**: （暂无）
+
+### The European Parenting Leave Policies (EPLP) dataset: Leave duration entitlements for 21 countries from 1970 to 2024
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.31](https://doi.org/10.4054/demres.2026.54.31)
+**作者**: Spitzer, Sonja; Lemoine, Adèle; Song, Zhanxiong 等30人
+**摘要**: （暂无）
+
+### Formatting the two-step gender measure: Experimental insights from the United States
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.35](https://doi.org/10.4054/demres.2026.54.35)
+**作者**: Holtzman, Tessa; Saperstein, Aliya
+**摘要**: （暂无）
+
+### The power of inclusive labor force participation for mitigating population aging: Closing gaps at the intersection between race/ethnicity and gender in the United States
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.33](https://doi.org/10.4054/demres.2026.54.33)
+**作者**: Böheim, René; Horvath, Thomas; Leoni, Thomas 等4人
+**摘要**: （暂无）
+
+### Economic resources and parity among US women: A conjoint experiment on preferred family scenarios
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.34](https://doi.org/10.4054/demres.2026.54.34)
+**作者**: Behrman, Julia; Marshall, Emily; Percheski, Christine
+**摘要**: （暂无）
+
+### Revisiting the association between women’s employment and separation: An analysis of harmonised longitudinal surveys in six countries
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.32](https://doi.org/10.4054/demres.2026.54.32)
+**作者**: Turek, Konrad; Kalmijn, Matthijs
+**摘要**: （暂无）
+
+### Housing changes of immigrants and their descendants using long-term census panel data from England and Wales
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.36](https://doi.org/10.4054/demres.2026.54.36)
+**作者**: Pandya, Parth; Kulu, Hill; Liu, Chia
+**摘要**: （暂无）
+
+### Partnering in turbulent times: Hooking up, dating, and romantic relationship formation in college, 2019–2024
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.37](https://doi.org/10.4054/demres.2026.54.37)
+**作者**: Kuperberg, Arielle; Daniels, Briana D.; Curington, Celeste 等4人
+**摘要**: （暂无）
+
+### Educational differences in fertility recuperation: The role of partnership trajectories in Spain
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.38](https://doi.org/10.4054/demres.2026.54.38)
+**作者**: Suero, Cristina
+**摘要**: （暂无）
+
+### Collecting data on HIV/AIDS mortality during household surveys: A randomized validation study in Malawi
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.41](https://doi.org/10.4054/demres.2026.54.41)
+**作者**: Dube, Albert; Amoah, Abena; Brumfield, Sarah 等7人
+**摘要**: （暂无）
+
+### Fertility timing and the birth squeeze
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.54.40](https://doi.org/10.4054/demres.2026.54.40)
+**作者**: Schoen, Robert
+**摘要**: （暂无）
 
 ### A comprehensive database of estimates and forecasts of Spanish sex-age death rates by climate area, income level, and habitat size (2010-2050)
 **年份**: 2025 | **DOI**: [10.4054/DemRes.2025.52.1](https://doi.org/10.4054/DemRes.2025.52.1)
@@ -359,6 +449,21 @@
 **年份**: 2025 | **DOI**: [10.4054/DemRes.2025.53.9](https://doi.org/10.4054/DemRes.2025.53.9)
 **作者**: Huang, Wenxuan; Kelley, Jessica A.
 **摘要**: Center for Integrative Movement Sciences, Charlie Dunlop School of Biological Sciences, University of California, Irvine, CA 92697, USA. CONCLUSIONS Our findings show that there is no single dominant partnership-parenthood pattern, indicating that cohabitation remains a liminal space between singleh…
+
+### The changing inter-relationship between partnership dynamics and fertility trends in Europe and the United States: A review
+**年份**: 2025 | **DOI**: [10.4054/demres.2025.52.7](https://doi.org/10.4054/demres.2025.52.7)
+**作者**: Kuang, Bernice; Berrington, Ann; Vasireddy, Sindhu 等4人
+**摘要**: （暂无）
+
+### Unrealized fertility in demography
+**年份**: 2025 | **DOI**: [10.4054/demres.2025.53.36](https://doi.org/10.4054/demres.2025.53.36)
+**作者**: Yeatman, Sara; Smith-Greenaway, Emily
+**摘要**: （暂无）
+
+### Family and social resilience: A scoping review of the empirical literature
+**年份**: 2025 | **DOI**: [10.4054/demres.2025.52.27](https://doi.org/10.4054/demres.2025.52.27)
+**作者**: Bawati, Abrar; Nieuwenhuis, Rense; Uzunalioǧlu, Merve 等4人
+**摘要**: （暂无）
 
 ### A Bayesian model for age at death with cohort effects
 **年份**: 2024 | **DOI**: [10.4054/DemRes.2024.51.33](https://doi.org/10.4054/DemRes.2024.51.33)
@@ -2514,3 +2619,8 @@
 **年份**: 2020 | **DOI**: [10.4054/demres.2020.42.34](https://doi.org/10.4054/demres.2020.42.34)
 **作者**: Brew, Bridget; Weitzman, Abigail; Musick, Kelly 等4人
 **摘要**: OBJECTIVE We identify common patterns of joint relationship, sex, and contraceptive trajectories in young adulthood and assess how selection into these trajectories differs across socioeconomic and demographic groups and varies with earlier sexual and reproductive experiences and attitudes.…
+
+### Estimation of older adult mortality from imperfect data: A comparative review of methods using Burkina Faso censuses
+**年份**: 2020 | **DOI**: [10.4054/demres.2020.43.38](https://doi.org/10.4054/demres.2020.43.38)
+**作者**: Ouedraogo, Soumaïla
+**摘要**: （暂无）

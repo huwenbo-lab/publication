@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2010–2019 年文章（含摘要）
 
-共 **332** 篇
+共 **340** 篇
 
 ---
 
@@ -194,6 +194,11 @@
 **年份**: 2019 | **DOI**: [10.1111/padr.12249](https://doi.org/10.1111/padr.12249)
 **作者**: Elo, Irma T.; Hendi, Arun S.; Ho, Jessica Y. 等5人
 **摘要**: The first decades of the twenty-first century have been a challenging period for American mortality. Life expectancy in the United States ranked 30th in the world in 2010 and is much lower than in other high-income countries (World Health Organization 2017).…
+
+### Intergovernmental Panel on Climate ChangeSpecial Report on Global Warming of 1.5°CSwitzerland: IPCC, 2018.
+**年份**: 2019 | **DOI**: [10.1111/padr.12234](https://doi.org/10.1111/padr.12234)
+**作者**: Bongaarts, John
+**摘要**: （暂无）
 
 ### Climate Migration at the Height and End of the Great Mexican Emigration Era
 **年份**: 2018 | **DOI**: [10.1111/padr.12158](https://doi.org/10.1111/padr.12158)
@@ -659,6 +664,16 @@
 **年份**: 2016 | **DOI**: [10.1111/padr.12007](https://doi.org/10.1111/padr.12007)
 **作者**: Gietel-Basten, Stuart
 **摘要**: On June 23, 2016, the UK narrowly voted to exit the European Union. Population issues-especially relating to the effect of population growth on infrastructure and public services and the need to take back control over immigration-played a central role in the campaigns ( Leave and Remain) leading up …
+
+### WHO, UNICEF, UNFPA, World Bank Group, and United Nations Population DivisionTrends in Maternal Mortality: 1990 to 2015Geneva: World Health Organization, 2015.
+**年份**: 2016 | **DOI**: [10.1111/padr.12033](https://doi.org/10.1111/padr.12033)
+**作者**: Bongaarts, John
+**摘要**: （暂无）
+
+### A Happy Ending to a Half‐Century of Family Change?
+**年份**: 2016 | **DOI**: [10.1111/j.1728-4457.2016.00111.x](https://doi.org/10.1111/j.1728-4457.2016.00111.x)
+**作者**: Cherlin, Andrew J.
+**摘要**: （暂无）
 
 ### Are We Overly Dependent on Conventional Dependency Ratios?
 **年份**: 2015 | **DOI**: [10.1111/j.1728-4457.2015.00091.x](https://doi.org/10.1111/j.1728-4457.2015.00091.x)
@@ -1320,6 +1335,16 @@
 **作者**: Fox, Sean
 **摘要**: Urbanization has traditionally been understood as a byproduct of economic development, but this explanatory framework fails to account for the phenomenon of urbanization without growth observed in sub-Saharan Africa throughout the 1980s and 1990s.…
 
+### Ronald Lee and Andrew Mason, Population Aging and the Generational Economy: A Global Perspective
+**年份**: 2012 | **DOI**: [10.1111/j.1728-4457.2012.00477.x](https://doi.org/10.1111/j.1728-4457.2012.00477.x)
+**作者**: McNicoll, Geoffrey
+**摘要**: （暂无）
+
+### On the Role of Human Development in the Arab Spring
+**年份**: 2012 | **DOI**: [10.1111/j.1728-4457.2012.00531.x](https://doi.org/10.1111/j.1728-4457.2012.00531.x)
+**作者**: Kuhn, Randall
+**摘要**: This essay traces the effects of human development on political change, focusing on the events of the Arab Spring. Over the past generation, the Arab world experienced rapid progress in human development outcomes, including declining child mortality, extended schooling, and increasing status of wome…
+
 ### A Global Perspective on Happiness and Fertility
 **年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00389.x](https://doi.org/10.1111/j.1728-4457.2011.00389.x)
 **作者**: Margolis, Rachel; Myrskylae, Mikko
@@ -1525,6 +1550,15 @@
 **作者**: Iacovou, Maria; Tavares, Lara Patricio
 **摘要**: People's childbearing intentions change over the course of their reproductive lives. these changes have been conceptualized as occurring in response to the realization that an individual is unlikely to achieve his or her intended fertility, because of constraints such as the “biological clock” or la…
 
+### Abhijit v. Banerjee and Ester Duflo: Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty
+**年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00462.x](https://doi.org/10.1111/j.1728-4457.2011.00462.x)
+**摘要**: （暂无）
+
+### Who's Afraid of Population Decline? A Critical Examination of Its Consequences
+**年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00385.x](https://doi.org/10.1111/j.1728-4457.2011.00385.x)
+**作者**: Coleman, David; Rowthorn, Robert
+**摘要**: In the multitude of people is the king's honour; but in the want of people is the destruction of the prince—Proverbs 14: 28
+
 ### Beyond Material Explanations: Family Solidarity and Mortality, a Small Area-level Analysis
 **年份**: 2010 | **DOI**: [10.1111/j.1728-4457.2010.00316.x](https://doi.org/10.1111/j.1728-4457.2010.00316.x)
 **作者**: Anson, Jon
@@ -1664,3 +1698,7 @@
 **年份**: 2010 | **DOI**: [10.1111/j.1728-4457.2010.00315.x](https://doi.org/10.1111/j.1728-4457.2010.00315.x)
 **作者**: Bommier, Antoine; Lee, Ronald; Miller, Tim 等4人
 **摘要**: Public transfer programs in industrial countries are thought to benefit the elderly through pension and health care programs at the expense of the young and future generations. This intergenerational picture changes, however, if public education is also considered as a transfer program.…
+
+### United Nations: World Population Prospects: The 2008 Revision, Volume 1: Comprehensive Tables and United Nations, World Population Prospects: The 2008 Revision, Highlights
+**年份**: 2010 | **DOI**: [10.1111/j.1728-4457.2010.00368.x](https://doi.org/10.1111/j.1728-4457.2010.00368.x)
+**摘要**: （暂无）

@@ -1,124 +1,102 @@
 const SQL_JS_BASE = "vendor/sqljs";
 const PAGE_SIZE = 50;
-const FAVORITES_STORAGE_KEY = "publication:favorites:v1";
+const FAVORITES_STORAGE_KEY_V1 = "publication:favorites:v1";
+const FAVORITES_STORAGE_KEY_V2 = "publication:favorites:v2";
+const FAVORITES_SYNC_STORAGE_KEY = "publication:favorites-sync:v1";
+const FAVORITES_SYNC_SCHEMA = "publication-favorites-sync";
+const FAVORITES_ALL_FOLDER = "__all__";
+const FAVORITES_UNCATEGORIZED_FOLDER = "__uncategorized__";
 const THEME_STORAGE_KEY = "publication:theme:v1";
 const RAW_BASE = "https://raw.githubusercontent.com/huwenbo-lab/publication/main";
 
-const JOURNAL_GROUPS = [
-    {
-        label: "综合社会学",
-        journals: [
-            "American Journal of Sociology",
-            "American Sociological Review",
-            "Annual Review of Sociology",
-            "British Journal of Sociology",
-            "European Sociological Review",
-            "Social Forces",
-            "Social Science Research",
-            "Sociological Science",
-            "Sociology",
-            "Socius",
-        ],
-    },
-    {
-        label: "人口学",
-        journals: [
-            "Asian Population Studies",
-            "Demographic Research",
-            "Demography",
-            "European Journal of Population",
-            "Population and Development Review",
-        ],
-    },
-    {
-        label: "婚姻与家庭",
-        journals: [
-            "Journal of Family Issues",
-            "Journal of Family Theory & Review",
-            "Journal of Marriage and Family",
-        ],
-    },
-    {
-        label: "教育",
-        journals: [
-            "British Journal of Sociology of Education",
-            "Sociology of Education",
-        ],
-    },
-    {
-        label: "性别",
-        journals: ["Gender & Society"],
-    },
-    {
-        label: "中国研究",
-        journals: [
-            "Chinese Journal of Sociology",
-            "Chinese Sociological Review",
-        ],
-    },
-    {
-        label: "劳动与分层",
-        journals: [
-            "Research in Social Stratification and Mobility",
-            "Work, Employment and Society",
-        ],
-    },
-];
-
-const DISCIPLINE_COPY = {
-    "综合社会学": "先收敛到综合社会学核心刊，再搜理论、方法或一般性经验议题。",
-    "人口学": "适合直接进入生育、死亡、迁移、家庭人口结构等人口学主题。",
-    "婚姻与家庭": "聚焦婚姻、伴侣关系、代际支持、家庭形成与照料分工。",
-    "教育": "优先查看教育分层、学校制度、教育机会与代际再生产。",
-    "性别": "把结果限定在性别不平等、照料劳动、性别规范与交叉性研究。",
-    "中国研究": "先切到中国相关英文期刊，再缩小到具体主题。",
-    "劳动与分层": "适合查职业流动、阶层再生产、劳动力市场与雇佣关系。",
+const SORT_LABELS = {
+    year_desc: "Newest",
+    year_asc: "Oldest",
+    title: "Title",
+    author: "Author",
+    journal: "Journal",
 };
 
-const QUICK_SEARCH_PRESETS = [
-    { label: "社会流动", query: '"social mobility"' },
-    { label: "生育", query: "fertility" },
-    { label: "教育不平等", query: '"education inequality"' },
-    { label: "婚姻家庭", query: "marriage family" },
-    { label: "中国研究", query: "China stratification" },
-];
-
-const app = {
-    db: null,
-    facets: null,
-    meta: null,
-    dashboard: null,
-    fallbackData: null,
-    articleCache: new Map(),
-    favorites: new Map(),
-    engine: "loading",
-    engineMessage: "正在连接浏览器内检索引擎…",
-    sqliteInitError: "",
-    staticIndexesLoaded: false,
-    theme: "light",
-    state: {
-        mode: "search",
-        q: "",
-        journals: [],
-        journalFacetQuery: "",
-        yearFrom: "",
-        yearTo: "",
-        hasAbstractOnly: false,
-        sort: "relevance",
-        page: 1,
-        browseJournal: "",
-        browseYear: "",
-        browseJournalQuery: "",
-        activeArticleKey: "",
-        activeArticleDoi: "",
-        favoritesOpen: false,
-        activeResultKey: "",
-        dashboardOpen: false,
-    },
+const JOURNAL_LABELS = {
+    "American Journal of Sociology": "AJS",
+    "American Sociological Review": "ASR",
+    "Annual Review of Sociology": "ARS",
+    "Asian Population Studies": "APS",
+    "British Journal of Sociology": "BJS",
+    "British Journal of Sociology of Education": "BJSE",
+    "Chinese Journal of Sociology": "CJS",
+    "Chinese Sociological Review": "CSR",
+    "Demographic Research": "DR",
+    "Demography": "Demography",
+    "European Journal of Population": "EJP",
+    "European Sociological Review": "ESR",
+    "Gender & Society": "G&S",
+    "Journal of Family Issues": "JFI",
+    "Journal of Family Theory & Review": "JFT&R",
+    "Journal of Marriage and Family": "JMF",
+    "Population and Development Review": "PDR",
+    "Research in Social Stratification and Mobility": "RSSM",
+    "Social Forces": "SF",
+    "Social Science Research": "SSR",
+    "Sociological Science": "SocSci",
+    "Sociology": "Sociology",
+    "Sociology of Education": "SOE",
+    "Socius": "Socius",
+    "Work, Employment and Society": "WES",
 };
 
 const dom = {};
 let searchDebounceId = null;
+let renderSequence = 0;
+
+function createFavoriteLibrary() {
+    return {
+        version: 2,
+        folders: [],
+        items: {},
+    };
+}
+
+const app = {
+    db: null,
+    dbColumns: new Set(),
+    meta: null,
+    facets: null,
+    fallbackData: null,
+    authorIndex: null,
+    articleCache: new Map(),
+    favoriteLibrary: createFavoriteLibrary(),
+    sync: {
+        endpoint: "",
+        key: "",
+        status: "",
+        busy: false,
+    },
+    engine: "loading",
+    loading: true,
+    loadingText: "Loading",
+    sqliteInitError: "",
+    theme: "light",
+    state: {
+        view: "main",
+        q: "",
+        searchMode: "all",
+        journals: [],
+        yearFrom: "",
+        yearTo: "",
+        hasAbstractOnly: false,
+        filtersOpen: false,
+        sort: "year_desc",
+        sortOpen: false,
+        visibleCount: PAGE_SIZE,
+        expandedKey: "",
+        activeFavoriteFolderId: FAVORITES_ALL_FOLDER,
+        expandedFavoriteFolders: new Set(),
+        draggingFavoriteKey: "",
+        exportOpen: false,
+        authorMin: 10,
+    },
+};
 
 function $(id) {
     return document.getElementById(id);
@@ -143,31 +121,7 @@ function renderHighlightedSnippet(text) {
 }
 
 function formatNumber(value) {
-    return new Intl.NumberFormat("zh-CN").format(value ?? 0);
-}
-
-function formatPercent(value) {
-    const numeric = Number(value || 0);
-    const percent = numeric * 100;
-    const digits = Math.abs(percent - Math.round(percent)) < 0.05 ? 0 : 1;
-    return `${percent.toFixed(digits)}%`;
-}
-
-function formatTimestamp(value) {
-    if (!value) {
-        return "";
-    }
-    const date = new Date(value);
-    if (Number.isNaN(date.getTime())) {
-        return String(value);
-    }
-    return new Intl.DateTimeFormat("zh-CN", {
-        year: "numeric",
-        month: "2-digit",
-        day: "2-digit",
-        hour: "2-digit",
-        minute: "2-digit",
-    }).format(date);
+    return new Intl.NumberFormat("zh-CN").format(Number(value || 0));
 }
 
 function normalizeText(value) {
@@ -177,15 +131,42 @@ function normalizeText(value) {
         .trim();
 }
 
+function normalizeSearchTokenText(value) {
+    return String(value ?? "")
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase()
+        .replace(/[^a-z0-9\s-]/g, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+}
+
+function tokenizeBasicQuery(query) {
+    return normalizeSearchTokenText(query).split(/\s+/).filter(Boolean);
+}
+
+function escapeFtsTerm(term) {
+    return String(term || "").replace(/"/g, '""');
+}
+
+function buildSimpleFtsQuery(query, columns = []) {
+    const tokens = tokenizeBasicQuery(query);
+    if (!tokens.length) {
+        return "";
+    }
+    const tokenQuery = tokens.map((token) => `"${escapeFtsTerm(token)}"`).join(" ");
+    if (!columns.length) {
+        return tokenQuery;
+    }
+    return columns.map((column) => `${column}:(${tokenQuery})`).join(" OR ");
+}
+
 function truncateText(value, maxChars = 280) {
     const text = String(value ?? "").trim();
     if (!text) {
         return "";
     }
-    if (text.length <= maxChars) {
-        return text;
-    }
-    return `${text.slice(0, maxChars).trim()}…`;
+    return text.length > maxChars ? `${text.slice(0, maxChars).trim()}…` : text;
 }
 
 function buildDoiUrl(doi) {
@@ -195,12 +176,6 @@ function buildDoiUrl(doi) {
 
 function buildScholarUrl(title) {
     return `https://scholar.google.com/scholar?q=${encodeURIComponent(title ?? "")}`;
-}
-
-function buildShareUrl(article) {
-    const url = new URL(window.location.href);
-    url.hash = article?.doi ? `doi/${encodeURIComponent(article.doi)}` : "";
-    return url.toString();
 }
 
 function buildAppBaseUrl() {
@@ -218,15 +193,9 @@ function safeJournalFilename(name) {
 
 function getPeriodKey(year) {
     const numericYear = Number(year || 0);
-    if (numericYear >= 2020 && numericYear <= 2026) {
-        return "2020_2026";
-    }
-    if (numericYear >= 2010 && numericYear <= 2019) {
-        return "2010_2019";
-    }
-    if (numericYear >= 2000 && numericYear <= 2009) {
-        return "2000_2009";
-    }
+    if (numericYear >= 2020 && numericYear <= 2026) return "2020_2026";
+    if (numericYear >= 2010 && numericYear <= 2019) return "2010_2019";
+    if (numericYear >= 2000 && numericYear <= 2009) return "2000_2009";
     return "";
 }
 
@@ -242,10 +211,7 @@ function buildArticleApiPath(doi) {
     if (!clean) {
         return "";
     }
-    const segments = clean
-        .split("/")
-        .filter(Boolean)
-        .map((segment) => encodeURIComponent(segment));
+    const segments = clean.split("/").filter(Boolean).map((segment) => encodeURIComponent(segment));
     if (!segments.length) {
         return "";
     }
@@ -258,33 +224,20 @@ function buildArticleApiUrl(doi) {
     return relativePath ? new URL(relativePath, buildAppBaseUrl()).toString() : "";
 }
 
-async function fetchJsonResource(relativePath) {
-    const response = await fetch(relativePath, { cache: "no-cache" });
-    if (!response.ok) {
-        throw new Error(`${relativePath} 不可用 (${response.status})`);
-    }
-    return response.json();
-}
-
 function buildAiResourceLinks(article) {
     const journalSlug = safeJournalFilename(article.journal);
     const period = getPeriodKey(article.year);
     return {
         overview: buildRepoRawUrl("lit_db/overview.md"),
-        journalTitles: journalSlug
-            ? buildRepoRawUrl(`lit_db/titles/by_journal/${journalSlug}.md`)
-            : "",
-        journalAbstracts: journalSlug && period
-            ? buildRepoRawUrl(`lit_db/abstracts/${period}/${journalSlug}.md`)
-            : "",
+        journalTitles: journalSlug ? buildRepoRawUrl(`lit_db/titles/by_journal/${journalSlug}.md`) : "",
+        journalAbstracts: journalSlug && period ? buildRepoRawUrl(`lit_db/abstracts/${period}/${journalSlug}.md`) : "",
         articleJson: buildArticleApiUrl(article.doi),
     };
 }
 
-function buildAiPrompt(article, resources) {
-    const lines = [
-        "请基于以下资料分析这篇文章，并优先引用文章 JSON 中的结构化字段：",
-    ];
+function buildAiPrompt(article, resources = buildAiResourceLinks(article)) {
+    const lines = [];
+    lines.push("请基于以下资料分析这篇文章，并优先引用文章 JSON 中的结构化字段：");
     if (resources.articleJson) {
         lines.push(`1. 文章 JSON：${resources.articleJson}`);
     }
@@ -298,43 +251,6 @@ function buildAiPrompt(article, resources) {
     lines.push("");
     lines.push(`文章：${article.title || "无标题"}${article.year ? `（${article.year}）` : ""}`);
     return lines.join("\n");
-}
-
-function clearArticleSchema() {
-    if (dom.articleSchema) {
-        dom.articleSchema.textContent = "";
-    }
-}
-
-function renderArticleSchema(article, shareUrl, apiUrl) {
-    if (!dom.articleSchema) {
-        return;
-    }
-    const doiUrl = buildDoiUrl(article.doi);
-    const schema = {
-        "@context": "https://schema.org",
-        "@type": "ScholarlyArticle",
-        headline: article.title || "无标题",
-        name: article.title || "无标题",
-        abstract: article.abstract || "",
-        author: parseAuthorList(article.authors).map((author) => ({
-            "@type": "Person",
-            name: author,
-        })),
-        isPartOf: {
-            "@type": "Periodical",
-            name: article.journal || "未知期刊",
-        },
-        datePublished: article.year ? String(article.year) : "",
-        identifier: article.doi ? [{
-            "@type": "PropertyValue",
-            propertyID: "DOI",
-            value: article.doi,
-        }] : [],
-        url: shareUrl || apiUrl || doiUrl || "",
-        sameAs: doiUrl || apiUrl || "",
-    };
-    dom.articleSchema.textContent = JSON.stringify(schema, null, 2);
 }
 
 function readStorage(key) {
@@ -355,12 +271,12 @@ function writeStorage(key, value) {
 
 function normalizeArticleRecord(record) {
     return {
-        title: String(record.title ?? "").trim(),
-        authors: String(record.authors ?? "").trim(),
-        journal: String(record.journal ?? "").trim(),
-        year: record.year ? Number(record.year) : "",
-        doi: String(record.doi ?? "").trim(),
-        abstract: String(record.abstract ?? "").trim(),
+        title: String(record?.title ?? "").trim(),
+        abstract: String(record?.abstract ?? "").trim(),
+        authors: String(record?.authors ?? "").trim(),
+        journal: String(record?.journal ?? "").trim(),
+        year: record?.year ? Number(record.year) : "",
+        doi: String(record?.doi ?? "").trim(),
     };
 }
 
@@ -378,6 +294,10 @@ function rememberArticle(record) {
     return key;
 }
 
+function getArticleByKey(key) {
+    return app.articleCache.get(key) || app.favoriteLibrary.items[key]?.article || null;
+}
+
 function compareArticles(a, b) {
     const yearDiff = Number(b.year || 0) - Number(a.year || 0);
     if (yearDiff !== 0) {
@@ -390,58 +310,542 @@ function compareArticles(a, b) {
     return String(a.title || "").localeCompare(String(b.title || ""));
 }
 
-function loadFavoritesFromStorage() {
-    app.favorites.clear();
-    const raw = readStorage(FAVORITES_STORAGE_KEY);
-    if (!raw) {
-        return;
+function createFolderId() {
+    return `folder-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 8)}`;
+}
+
+function normalizeFavoriteFolder(folder) {
+    const name = String(folder?.name || "").trim();
+    if (!name) {
+        return null;
     }
-    try {
-        const items = JSON.parse(raw);
-        if (!Array.isArray(items)) {
+    return {
+        id: String(folder.id || createFolderId()),
+        name,
+        parentId: folder.parentId ? String(folder.parentId) : "",
+        createdAt: folder.createdAt || new Date().toISOString(),
+        updatedAt: folder.updatedAt || folder.createdAt || new Date().toISOString(),
+    };
+}
+
+function normalizeFavoriteLibrary(payload) {
+    const library = createFavoriteLibrary();
+    if (!payload || typeof payload !== "object") {
+        return library;
+    }
+
+    const folderIds = new Set();
+    if (Array.isArray(payload.folders)) {
+        for (const rawFolder of payload.folders) {
+            const folder = normalizeFavoriteFolder(rawFolder);
+            if (!folder || folderIds.has(folder.id)) {
+                continue;
+            }
+            folderIds.add(folder.id);
+            library.folders.push(folder);
+        }
+    }
+
+    const rawItems = payload.items && typeof payload.items === "object" ? payload.items : {};
+    for (const [rawKey, entry] of Object.entries(rawItems)) {
+        const article = normalizeArticleRecord(entry?.article || entry);
+        if (!article.title && !article.doi) {
+            continue;
+        }
+        const key = buildArticleKey(article);
+        const folderId = entry?.folderId && folderIds.has(entry.folderId) ? entry.folderId : null;
+        library.items[key] = {
+            article,
+            folderId,
+            addedAt: entry?.addedAt || new Date().toISOString(),
+            updatedAt: entry?.updatedAt || new Date().toISOString(),
+        };
+        app.articleCache.set(key, article);
+        app.articleCache.delete(rawKey);
+    }
+
+    return library;
+}
+
+function favoriteLibraryFromV1(items) {
+    const library = createFavoriteLibrary();
+    if (!Array.isArray(items)) {
+        return library;
+    }
+    for (const item of items) {
+        const article = normalizeArticleRecord(item);
+        if (!article.title && !article.doi) {
+            continue;
+        }
+        const key = buildArticleKey(article);
+        library.items[key] = {
+            article,
+            folderId: null,
+            addedAt: new Date().toISOString(),
+            updatedAt: new Date().toISOString(),
+        };
+        app.articleCache.set(key, article);
+    }
+    return library;
+}
+
+function loadFavoritesFromStorage() {
+    const rawV2 = readStorage(FAVORITES_STORAGE_KEY_V2);
+    if (rawV2) {
+        try {
+            app.favoriteLibrary = normalizeFavoriteLibrary(JSON.parse(rawV2));
             return;
+        } catch {
+            app.favoriteLibrary = createFavoriteLibrary();
         }
-        for (const item of items) {
-            const article = normalizeArticleRecord(item);
-            const key = buildArticleKey(article);
-            app.favorites.set(key, article);
-            app.articleCache.set(key, article);
+    }
+
+    const rawV1 = readStorage(FAVORITES_STORAGE_KEY_V1);
+    if (rawV1) {
+        try {
+            app.favoriteLibrary = favoriteLibraryFromV1(JSON.parse(rawV1));
+            saveFavoritesToStorage();
+            return;
+        } catch {
+            app.favoriteLibrary = createFavoriteLibrary();
         }
-    } catch {
-        return;
     }
 }
 
 function saveFavoritesToStorage() {
-    writeStorage(
-        FAVORITES_STORAGE_KEY,
-        JSON.stringify([...app.favorites.values()].sort(compareArticles))
-    );
+    app.favoriteLibrary.version = 2;
+    writeStorage(FAVORITES_STORAGE_KEY_V2, JSON.stringify(app.favoriteLibrary, null, 2));
 }
 
-function getFavoriteArticles() {
-    return [...app.favorites.values()].sort(compareArticles);
+function normalizeSyncEndpoint(value) {
+    return String(value || "").trim().replace(/\/+$/, "");
+}
+
+function loadSyncSettings() {
+    const raw = readStorage(FAVORITES_SYNC_STORAGE_KEY);
+    if (!raw) {
+        return;
+    }
+    try {
+        const settings = JSON.parse(raw);
+        app.sync.endpoint = normalizeSyncEndpoint(settings.endpoint);
+        app.sync.key = String(settings.key || "");
+    } catch {
+        app.sync.endpoint = "";
+        app.sync.key = "";
+    }
+}
+
+function syncSettingsFromInputs() {
+    if (dom.syncEndpoint) {
+        app.sync.endpoint = normalizeSyncEndpoint(dom.syncEndpoint.value);
+    }
+    if (dom.syncKey) {
+        app.sync.key = String(dom.syncKey.value || "");
+    }
+}
+
+function saveSyncSettings(status = "Saved") {
+    syncSettingsFromInputs();
+    if (app.sync.endpoint) {
+        try {
+            new URL(app.sync.endpoint);
+        } catch {
+            app.sync.status = "Invalid endpoint";
+            renderSyncPanel();
+            return false;
+        }
+    }
+    persistSyncSettings();
+    app.sync.status = status;
+    renderSyncPanel();
+    return true;
+}
+
+function persistSyncSettings() {
+    writeStorage(FAVORITES_SYNC_STORAGE_KEY, JSON.stringify({
+        endpoint: app.sync.endpoint,
+        key: app.sync.key,
+    }));
+}
+
+function stableStringify(value) {
+    if (Array.isArray(value)) {
+        return `[${value.map(stableStringify).join(",")}]`;
+    }
+    if (value && typeof value === "object") {
+        return `{${Object.keys(value).sort().map((key) =>
+            `${JSON.stringify(key)}:${stableStringify(value[key])}`
+        ).join(",")}}`;
+    }
+    return JSON.stringify(value);
+}
+
+function canonicalFavoriteLibrary(library) {
+    const normalized = normalizeFavoriteLibrary(library);
+    const items = {};
+    for (const [key, entry] of Object.entries(normalized.items).sort(([a], [b]) => a.localeCompare(b))) {
+        items[key] = entry;
+    }
+    return {
+        version: 2,
+        folders: [...normalized.folders].sort((a, b) => a.id.localeCompare(b.id)),
+        items,
+    };
+}
+
+function computeFavoriteRevision(library) {
+    const text = stableStringify(canonicalFavoriteLibrary(library));
+    let hash = 5381;
+    for (let index = 0; index < text.length; index += 1) {
+        hash = ((hash << 5) + hash) ^ text.charCodeAt(index);
+    }
+    return `v2-${(hash >>> 0).toString(36)}-${text.length.toString(36)}`;
+}
+
+function buildFavoriteLibraryPayload() {
+    const library = canonicalFavoriteLibrary(app.favoriteLibrary);
+    return {
+        schema: FAVORITES_SYNC_SCHEMA,
+        version: 2,
+        revision: computeFavoriteRevision(library),
+        updatedAt: new Date().toISOString(),
+        library,
+    };
+}
+
+function folderPathInLibrary(library, folderId) {
+    const foldersById = new Map(library.folders.map((folder) => [folder.id, folder]));
+    const names = [];
+    let current = foldersById.get(folderId);
+    const seen = new Set();
+    while (current && !seen.has(current.id)) {
+        seen.add(current.id);
+        names.unshift(current.name);
+        current = current.parentId ? foldersById.get(current.parentId) : null;
+    }
+    return names.join("/");
+}
+
+function folderDepthInLibrary(library, folderId) {
+    const path = folderPathInLibrary(library, folderId);
+    return path ? path.split("/").length : 0;
+}
+
+function extractFavoriteLibraryFromPayload(payload) {
+    if (!payload || typeof payload !== "object") {
+        return createFavoriteLibrary();
+    }
+    if (payload.schema === FAVORITES_SYNC_SCHEMA && payload.library) {
+        return normalizeFavoriteLibrary(payload.library);
+    }
+    return normalizeFavoriteLibrary(payload);
+}
+
+function mergeFavoriteLibraries(remotePayload) {
+    const local = normalizeFavoriteLibrary(app.favoriteLibrary);
+    const remote = extractFavoriteLibraryFromPayload(remotePayload);
+    const merged = createFavoriteLibrary();
+    const folderPathToId = new Map();
+    const folderIdRemap = new Map();
+
+    const addFolders = (library) => {
+        const folders = [...library.folders].sort((a, b) =>
+            folderDepthInLibrary(library, a.id) - folderDepthInLibrary(library, b.id) ||
+            folderPathInLibrary(library, a.id).localeCompare(folderPathInLibrary(library, b.id))
+        );
+        for (const folder of folders) {
+            const path = folderPathInLibrary(library, folder.id);
+            const signature = path.toLowerCase();
+            const existingId = folderPathToId.get(signature);
+            if (existingId) {
+                folderIdRemap.set(folder.id, existingId);
+                continue;
+            }
+            const parentId = folder.parentId ? folderIdRemap.get(folder.parentId) || folder.parentId : "";
+            const nextFolder = normalizeFavoriteFolder({ ...folder, parentId });
+            if (!nextFolder) {
+                continue;
+            }
+            merged.folders.push(nextFolder);
+            folderPathToId.set(signature, nextFolder.id);
+            folderIdRemap.set(folder.id, nextFolder.id);
+        }
+    };
+
+    addFolders(local);
+    addFolders(remote);
+
+    const validFolderIds = new Set(merged.folders.map((folder) => folder.id));
+    const addItems = (library) => {
+        for (const [key, entry] of Object.entries(library.items)) {
+            const folderId = entry.folderId ? folderIdRemap.get(entry.folderId) || entry.folderId : null;
+            const nextEntry = {
+                ...entry,
+                folderId: folderId && validFolderIds.has(folderId) ? folderId : null,
+            };
+            const current = merged.items[key];
+            if (!current || Date.parse(nextEntry.updatedAt || "") >= Date.parse(current.updatedAt || "")) {
+                merged.items[key] = nextEntry;
+                app.articleCache.set(key, nextEntry.article);
+            }
+        }
+    };
+
+    addItems(local);
+    addItems(remote);
+    app.favoriteLibrary = merged;
+    saveFavoritesToStorage();
+    return {
+        folders: merged.folders.length,
+        items: Object.keys(merged.items).length,
+    };
+}
+
+function getSyncSettingsForRequest() {
+    syncSettingsFromInputs();
+    if (!app.sync.endpoint || !app.sync.key) {
+        app.sync.status = "Missing sync settings";
+        renderSyncPanel();
+        return null;
+    }
+    try {
+        new URL(app.sync.endpoint);
+    } catch {
+        app.sync.status = "Invalid endpoint";
+        renderSyncPanel();
+        return null;
+    }
+    persistSyncSettings();
+    return {
+        endpoint: app.sync.endpoint,
+        key: app.sync.key,
+    };
+}
+
+async function syncFetch(method, payload = null) {
+    const settings = getSyncSettingsForRequest();
+    if (!settings) {
+        return null;
+    }
+    const headers = {
+        Accept: "application/json",
+        Authorization: `Bearer ${settings.key}`,
+    };
+    if (payload) {
+        headers["Content-Type"] = "application/json";
+    }
+    return fetch(settings.endpoint, {
+        method,
+        cache: "no-cache",
+        headers,
+        body: payload ? JSON.stringify(payload) : undefined,
+    });
+}
+
+async function pullFavoritesFromCloud() {
+    app.sync.busy = true;
+    app.sync.status = "Pulling";
+    renderSyncPanel();
+    try {
+        const response = await syncFetch("GET");
+        if (!response) {
+            return;
+        }
+        if (response.status === 404) {
+            app.sync.status = "No remote favorites";
+            return;
+        }
+        if (!response.ok) {
+            throw new Error(response.status === 401 ? "Unauthorized" : `HTTP ${response.status}`);
+        }
+        const payload = await response.json();
+        const merged = mergeFavoriteLibraries(payload);
+        app.sync.status = `Pulled ${formatNumber(merged.items)} favorites`;
+        await renderAll();
+    } catch (error) {
+        app.sync.status = `Sync failed: ${String(error?.message || error)}`;
+    } finally {
+        app.sync.busy = false;
+        renderSyncPanel();
+    }
+}
+
+async function pushFavoritesToCloud() {
+    app.sync.busy = true;
+    app.sync.status = "Pushing";
+    renderSyncPanel();
+    try {
+        const payload = buildFavoriteLibraryPayload();
+        const response = await syncFetch("PUT", payload);
+        if (!response) {
+            return;
+        }
+        if (!response.ok) {
+            throw new Error(response.status === 401 ? "Unauthorized" : `HTTP ${response.status}`);
+        }
+        app.sync.status = `Pushed ${formatNumber(favoriteCount())} favorites`;
+    } catch (error) {
+        app.sync.status = `Sync failed: ${String(error?.message || error)}`;
+    } finally {
+        app.sync.busy = false;
+        renderSyncPanel();
+    }
+}
+
+function favoriteCount() {
+    return Object.keys(app.favoriteLibrary.items).length;
+}
+
+function getFolderById(folderId) {
+    return app.favoriteLibrary.folders.find((folder) => folder.id === folderId) || null;
+}
+
+function getFolderChildren(parentId = "") {
+    return app.favoriteLibrary.folders
+        .filter((folder) => (folder.parentId || "") === (parentId || ""))
+        .sort((a, b) => a.name.localeCompare(b.name));
+}
+
+function getFolderPath(folderId) {
+    const folder = getFolderById(folderId);
+    if (!folder) {
+        return "";
+    }
+    const names = [folder.name];
+    let current = folder;
+    while (current.parentId) {
+        current = getFolderById(current.parentId);
+        if (!current) {
+            break;
+        }
+        names.unshift(current.name);
+    }
+    return names.join("/");
+}
+
+function countItemsInFolder(folderId) {
+    return Object.values(app.favoriteLibrary.items)
+        .filter((entry) => (entry.folderId || null) === folderId).length;
+}
+
+function getFavoriteArticles(folderId = FAVORITES_ALL_FOLDER) {
+    return Object.entries(app.favoriteLibrary.items)
+        .filter(([, entry]) => {
+            if (folderId === FAVORITES_ALL_FOLDER) return true;
+            if (folderId === FAVORITES_UNCATEGORIZED_FOLDER) return !entry.folderId;
+            return entry.folderId === folderId;
+        })
+        .map(([key, entry]) => ({
+            ...normalizeArticleRecord(entry.article),
+            _favoriteKey: key,
+            _folderId: entry.folderId || null,
+        }))
+        .sort(compareArticles);
 }
 
 function isFavorite(articleKey) {
-    return app.favorites.has(articleKey);
+    return Boolean(app.favoriteLibrary.items[articleKey]);
 }
 
-function toggleFavorite(recordOrKey) {
-    const article = typeof recordOrKey === "string"
-        ? app.articleCache.get(recordOrKey)
-        : normalizeArticleRecord(recordOrKey);
-    if (!article) {
+function addFavorite(article, folderId = null) {
+    const normalized = normalizeArticleRecord(article);
+    const key = buildArticleKey(normalized);
+    const nextFolder = folderId && folderId !== FAVORITES_UNCATEGORIZED_FOLDER ? folderId : null;
+    if (nextFolder && !getFolderById(nextFolder)) {
         return false;
     }
-    const key = buildArticleKey(article);
-    app.articleCache.set(key, article);
-    if (app.favorites.has(key)) {
-        app.favorites.delete(key);
+    app.articleCache.set(key, normalized);
+    app.favoriteLibrary.items[key] = {
+        article: normalized,
+        folderId: nextFolder,
+        addedAt: app.favoriteLibrary.items[key]?.addedAt || new Date().toISOString(),
+        updatedAt: new Date().toISOString(),
+    };
+    saveFavoritesToStorage();
+    return true;
+}
+
+function toggleFavoriteByKey(articleKey) {
+    if (isFavorite(articleKey)) {
+        delete app.favoriteLibrary.items[articleKey];
         saveFavoritesToStorage();
         return false;
     }
-    app.favorites.set(key, article);
+    const article = getArticleByKey(articleKey);
+    if (!article) {
+        return false;
+    }
+    addFavorite(article, null);
+    return true;
+}
+
+function moveFavoriteToFolder(articleKey, folderId) {
+    const article = getArticleByKey(articleKey);
+    if (!article) {
+        return false;
+    }
+    return addFavorite(article, folderId);
+}
+
+function ensureFavoriteFolderPath(pathText) {
+    const segments = String(pathText || "")
+        .split("/")
+        .map((segment) => segment.trim())
+        .filter(Boolean);
+    if (!segments.length) {
+        return null;
+    }
+    let parentId = "";
+    let current = null;
+    for (const segment of segments) {
+        current = app.favoriteLibrary.folders.find((folder) =>
+            (folder.parentId || "") === parentId &&
+            folder.name.toLowerCase() === segment.toLowerCase()
+        );
+        if (!current) {
+            current = normalizeFavoriteFolder({
+                id: createFolderId(),
+                name: segment,
+                parentId,
+            });
+            app.favoriteLibrary.folders.push(current);
+        }
+        parentId = current.id;
+        app.state.expandedFavoriteFolders.add(current.parentId || "");
+    }
+    saveFavoritesToStorage();
+    return current;
+}
+
+function renameFavoriteFolder(folderId, nextName) {
+    const folder = getFolderById(folderId);
+    const cleanName = String(nextName || "").trim();
+    if (!folder || !cleanName) {
+        return false;
+    }
+    const siblingExists = app.favoriteLibrary.folders.some((item) =>
+        item.id !== folder.id &&
+        (item.parentId || "") === (folder.parentId || "") &&
+        item.name.toLowerCase() === cleanName.toLowerCase()
+    );
+    if (siblingExists) {
+        return false;
+    }
+    folder.name = cleanName;
+    folder.updatedAt = new Date().toISOString();
+    saveFavoritesToStorage();
+    return true;
+}
+
+function deleteFavoriteFolder(folderId) {
+    const folder = getFolderById(folderId);
+    if (!folder || getFolderChildren(folderId).length || countItemsInFolder(folderId) > 0) {
+        return false;
+    }
+    app.favoriteLibrary.folders = app.favoriteLibrary.folders.filter((item) => item.id !== folderId);
+    app.state.activeFavoriteFolderId = FAVORITES_ALL_FOLDER;
+    app.state.expandedFavoriteFolders.delete(folderId);
     saveFavoritesToStorage();
     return true;
 }
@@ -451,14 +855,102 @@ function escapeCsvCell(value) {
     return /[",\n]/.test(text) ? `"${text.replaceAll('"', '""')}"` : text;
 }
 
-function buildFavoritesBibtex() {
-    return getFavoriteArticles().map(formatBibtex).join("\n\n");
+function parseAuthorList(authors) {
+    return String(authors || "")
+        .split(";")
+        .map((item) => item.trim())
+        .filter(Boolean);
 }
 
-function buildFavoritesCsv() {
+function formatAuthorInitials(author) {
+    const [familyRaw = "", givenRaw = ""] = String(author || "").split(",").map((item) => item.trim());
+    if (!familyRaw) {
+        return author;
+    }
+    const initials = givenRaw
+        .split(/\s+/)
+        .filter(Boolean)
+        .map((part) => `${part[0]?.toUpperCase() || ""}.`)
+        .join(" ");
+    return initials ? `${familyRaw}, ${initials}` : familyRaw;
+}
+
+function formatApaAuthors(authors) {
+    const names = parseAuthorList(authors).map(formatAuthorInitials);
+    if (!names.length) return "Unknown";
+    if (names.length === 1) return names[0];
+    if (names.length === 2) return `${names[0]} & ${names[1]}`;
+    return `${names.slice(0, -1).join(", ")}, & ${names[names.length - 1]}`;
+}
+
+function buildCitationKey(article) {
+    const firstAuthor = parseAuthorList(article.authors)[0] || "article";
+    const family = (firstAuthor.split(",")[0] || "article").replace(/[^\w]+/g, "");
+    const titleWord = (normalizeText(article.title).split(/\s+/)[0] || "entry").replace(/[^\w]+/g, "");
+    return `${family || "article"}${article.year || "nd"}${titleWord || "entry"}`;
+}
+
+function formatBibtex(article) {
+    const lines = [
+        `@article{${buildCitationKey(article)},`,
+        `  title = {${article.title || "Untitled"}},`,
+        `  author = {${parseAuthorList(article.authors).join(" and ") || "Unknown"}},`,
+        `  journal = {${article.journal || "Unknown Journal"}},`,
+    ];
+    if (article.year) lines.push(`  year = {${article.year}},`);
+    if (article.doi) {
+        lines.push(`  doi = {${article.doi}},`);
+        lines.push(`  url = {${buildDoiUrl(article.doi)}}`);
+    } else {
+        lines[lines.length - 1] = lines[lines.length - 1].replace(/,$/, "");
+    }
+    lines.push("}");
+    return lines.join("\n");
+}
+
+function formatApa(article) {
+    const parts = [
+        `${formatApaAuthors(article.authors)}.`,
+        article.year ? ` (${article.year}).` : "",
+        ` ${article.title || "Untitled"}.`,
+        article.journal ? ` ${article.journal}.` : "",
+        article.doi ? ` ${buildDoiUrl(article.doi)}` : "",
+    ];
+    return parts.join("").replace(/\s+/g, " ").trim();
+}
+
+async function copyText(text) {
+    if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(text);
+        return;
+    }
+    const area = document.createElement("textarea");
+    area.value = text;
+    document.body.append(area);
+    area.select();
+    document.execCommand("copy");
+    area.remove();
+}
+
+function buildFavoritesBibtex(folderId = app.state.activeFavoriteFolderId) {
+    return getFavoriteArticles(folderId).map(formatBibtex).join("\n\n");
+}
+
+function buildFavoritesJson(folderId = app.state.activeFavoriteFolderId) {
+    const articles = getFavoriteArticles(folderId);
+    return JSON.stringify({
+        version: 2,
+        exported_at: new Date().toISOString(),
+        folder: getFavoriteFolderLabel(folderId),
+        articles,
+    }, null, 2);
+}
+
+function buildFavoritesCsv(folderId = app.state.activeFavoriteFolderId) {
     const rows = [
-        ["title", "authors", "journal", "year", "doi", "abstract"],
-        ...getFavoriteArticles().map((article) => ([
+        ["folder_path", "title", "authors", "journal", "year", "doi", "abstract"],
+        ...getFavoriteArticles(folderId).map((article) => ([
+            article._folderId ? getFolderPath(article._folderId) : "未分类",
             article.title,
             article.authors,
             article.journal,
@@ -491,425 +983,47 @@ function detectPreferredTheme() {
     return window.matchMedia?.("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 }
 
-function renderThemeToggle() {
-    if (!dom.themeToggle) {
-        return;
-    }
-    dom.themeToggle.textContent = `主题：${app.theme === "dark" ? "深色" : "浅色"}`;
-    dom.themeToggle.setAttribute("aria-pressed", app.theme === "dark" ? "true" : "false");
-}
-
 function applyTheme(theme) {
     app.theme = theme === "dark" ? "dark" : "light";
     document.body.dataset.theme = app.theme;
-    renderThemeToggle();
+    if (dom.themeToggle) {
+        dom.themeToggle.setAttribute("aria-pressed", app.theme === "dark" ? "true" : "false");
+    }
 }
 
 function loadClientPreferences() {
     loadFavoritesFromStorage();
+    loadSyncSettings();
     const storedTheme = readStorage(THEME_STORAGE_KEY);
     applyTheme(storedTheme === "dark" || storedTheme === "light" ? storedTheme : detectPreferredTheme());
 }
 
-function parseAuthorList(authors) {
-    return String(authors || "")
-        .split(";")
-        .map((item) => item.trim())
-        .filter(Boolean);
-}
-
-function formatAuthorInitials(author) {
-    const [familyRaw = "", givenRaw = ""] = String(author || "").split(",").map((item) => item.trim());
-    if (!familyRaw) {
-        return author;
+async function fetchJsonResource(relativePath) {
+    const response = await fetch(relativePath, { cache: "no-cache" });
+    if (!response.ok) {
+        throw new Error(`${relativePath} unavailable (${response.status})`);
     }
-    const initials = givenRaw
-        .split(/\s+/)
-        .filter(Boolean)
-        .map((part) => `${part[0]?.toUpperCase() || ""}.`)
-        .join(" ");
-    return initials ? `${familyRaw}, ${initials}` : familyRaw;
-}
-
-function formatApaAuthors(authors) {
-    const names = parseAuthorList(authors).map(formatAuthorInitials);
-    if (!names.length) {
-        return "未知作者";
-    }
-    if (names.length === 1) {
-        return names[0];
-    }
-    if (names.length === 2) {
-        return `${names[0]} & ${names[1]}`;
-    }
-    return `${names.slice(0, -1).join(", ")}, & ${names[names.length - 1]}`;
-}
-
-function formatMlaAuthors(authors) {
-    const names = parseAuthorList(authors);
-    if (!names.length) {
-        return "未知作者";
-    }
-    if (names.length === 1) {
-        return names[0];
-    }
-    if (names.length === 2) {
-        return `${names[0]}, and ${names[1]}`;
-    }
-    return `${names[0]}, et al.`;
-}
-
-function buildCitationKey(article) {
-    const firstAuthor = parseAuthorList(article.authors)[0] || "article";
-    const family = (firstAuthor.split(",")[0] || "article").replace(/[^\w]+/g, "");
-    const titleWord = (normalizeText(article.title).split(/\s+/)[0] || "entry").replace(/[^\w]+/g, "");
-    return `${family || "article"}${article.year || "nd"}${titleWord || "entry"}`;
-}
-
-function formatBibtex(article) {
-    const lines = [
-        `@article{${buildCitationKey(article)},`,
-        `  title = {${article.title || "Untitled"}},`,
-        `  author = {${parseAuthorList(article.authors).join(" and ") || "Unknown"}},`,
-        `  journal = {${article.journal || "Unknown Journal"}},`,
-    ];
-    if (article.year) {
-        lines.push(`  year = {${article.year}},`);
-    }
-    if (article.doi) {
-        lines.push(`  doi = {${article.doi}},`);
-        lines.push(`  url = {${buildDoiUrl(article.doi)}}`);
-    } else {
-        lines[lines.length - 1] = lines[lines.length - 1].replace(/,$/, "");
-    }
-    lines.push("}");
-    return lines.join("\n");
-}
-
-function formatApa(article) {
-    const parts = [
-        `${formatApaAuthors(article.authors)}.`,
-        article.year ? ` (${article.year}).` : "",
-        ` ${article.title || "无标题"}.`,
-        article.journal ? ` ${article.journal}.` : "",
-        article.doi ? ` ${buildDoiUrl(article.doi)}` : "",
-    ];
-    return parts.join("").replace(/\s+/g, " ").trim();
-}
-
-function formatMla(article) {
-    const parts = [
-        `${formatMlaAuthors(article.authors)}.`,
-        ` "${article.title || "无标题"}."`,
-        article.journal ? ` ${article.journal},` : "",
-        article.year ? ` ${article.year},` : "",
-        article.doi ? ` ${buildDoiUrl(article.doi)}.` : "",
-    ];
-    return parts.join("").replace(/\s+/g, " ").trim();
-}
-
-async function copyText(text) {
-    if (navigator.clipboard?.writeText) {
-        await navigator.clipboard.writeText(text);
-        return;
-    }
-    const area = document.createElement("textarea");
-    area.value = text;
-    document.body.append(area);
-    area.select();
-    document.execCommand("copy");
-    area.remove();
-}
-
-function cacheDom() {
-    dom.datasetMeta = $("dataset-meta");
-    dom.engineBadge = $("engine-badge");
-    dom.engineMessage = $("engine-message");
-    dom.themeToggle = $("theme-toggle");
-    dom.favoritesToggle = $("favorites-toggle");
-    dom.dashboardToggle = $("dashboard-toggle");
-    dom.disciplineGrid = $("discipline-grid");
-    dom.dashboardPanel = $("dashboard-panel");
-    dom.dashboardClose = $("dashboard-close");
-    dom.dashboardGeneratedAt = $("dashboard-generated-at");
-    dom.dashboardSummary = $("dashboard-summary");
-    dom.dashboardTrendMeta = $("dashboard-trend-meta");
-    dom.dashboardTrend = $("dashboard-trend");
-    dom.dashboardKeywords = $("dashboard-keywords");
-    dom.dashboardAuthors = $("dashboard-authors");
-    dom.dashboardJournals = $("dashboard-journals");
-    dom.tabbar = $("tabbar");
-    dom.searchView = $("view-search");
-    dom.browseView = $("view-browse");
-    dom.searchForm = $("search-form");
-    dom.searchInput = $("search-input");
-    dom.quickSearches = $("quick-searches");
-    dom.sortSelect = $("sort-select");
-    dom.yearFrom = $("year-from");
-    dom.yearTo = $("year-to");
-    dom.hasAbstractOnly = $("has-abstract-only");
-    dom.journalFilterQuery = $("journal-filter-query");
-    dom.journalFilterSummary = $("journal-filter-summary");
-    dom.filterContainer = $("journal-filters");
-    dom.activeFilters = $("active-filters");
-    dom.resultSummary = $("result-summary");
-    dom.resultList = $("result-list");
-    dom.pagination = $("pagination");
-    dom.clearFilters = $("clear-filters");
-    dom.clearQuery = $("clear-query");
-    dom.searchNotice = $("search-notice");
-    dom.browseStatus = $("browse-status");
-    dom.browseBreadcrumbs = $("browse-breadcrumbs");
-    dom.browseJournalQuery = $("browse-journal-query");
-    dom.browseJournalSummary = $("browse-journal-summary");
-    dom.journalRail = $("journal-rail");
-    dom.yearGrid = $("year-grid");
-    dom.articleList = $("browse-article-list");
-    dom.browseReset = $("browse-reset");
-    dom.modal = $("article-modal");
-    dom.modalTitle = $("modal-title");
-    dom.modalKicker = $("modal-kicker");
-    dom.modalMeta = $("modal-meta");
-    dom.modalAuthors = $("modal-authors");
-    dom.modalActions = $("modal-actions");
-    dom.modalAbstract = $("modal-abstract");
-    dom.modalClose = $("modal-close");
-    dom.citationBibtex = $("citation-bibtex");
-    dom.citationApa = $("citation-apa");
-    dom.citationMla = $("citation-mla");
-    dom.aiLinks = $("ai-links");
-    dom.aiPrompt = $("ai-prompt");
-    dom.articleSchema = $("article-schema");
-    dom.favoritesModal = $("favorites-modal");
-    dom.favoritesSummary = $("favorites-summary");
-    dom.favoritesList = $("favorites-list");
-    dom.favoritesClose = $("favorites-close");
-    dom.copyFavoritesBibtex = $("copy-favorites-bibtex");
-    dom.exportFavoritesBibtex = $("export-favorites-bibtex");
-    dom.exportFavoritesCsv = $("export-favorites-csv");
-    dom.clearFavorites = $("clear-favorites");
-}
-
-function renderFavoriteButton(articleKey, label = "") {
-    const active = isFavorite(articleKey);
-    const buttonLabel = label || (active ? "已收藏" : "收藏");
-    return `
-        <button
-            type="button"
-            class="result-link button-link favorite-toggle ${active ? "active" : ""}"
-            data-favorite-article="${escapeHtml(articleKey)}"
-            aria-pressed="${active ? "true" : "false"}"
-        >${escapeHtml(buttonLabel)}</button>
-    `;
-}
-
-function getAvailableJournalsForGroup(group) {
-    if (!app.facets) {
-        return [...group.journals];
-    }
-    const allowed = new Set(app.facets.map((facet) => facet.journal));
-    return group.journals.filter((journal) => allowed.has(journal));
-}
-
-function renderDisciplinePresets() {
-    if (!dom.disciplineGrid) {
-        return;
-    }
-    dom.disciplineGrid.innerHTML = JOURNAL_GROUPS.map((group) => {
-        const journals = getAvailableJournalsForGroup(group);
-        const stats = app.facets
-            ? app.facets.filter((facet) => journals.includes(facet.journal))
-            : [];
-        const articleCount = stats.reduce((sum, item) => sum + Number(item.total || 0), 0);
-        const meta = articleCount
-            ? `${formatNumber(articleCount)} 篇 · ${journals.length} 本期刊`
-            : `${journals.length} 本期刊`;
-        return `
-            <button type="button" class="discipline-card" data-discipline-filter="${escapeHtml(group.label)}">
-                <span class="discipline-kicker">预设筛选</span>
-                <strong>${escapeHtml(group.label)}</strong>
-                <span class="discipline-body">${escapeHtml(DISCIPLINE_COPY[group.label] || "按学科快速限定期刊范围。")}</span>
-                <span class="discipline-meta">${escapeHtml(meta)}</span>
-            </button>
-        `;
-    }).join("");
-}
-
-function renderQuickSearches() {
-    if (!dom.quickSearches) {
-        return;
-    }
-    dom.quickSearches.innerHTML = QUICK_SEARCH_PRESETS.map((item) => `
-        <button type="button" class="quick-search-chip" data-quick-query="${escapeHtml(item.query)}">
-            <strong>${escapeHtml(item.label)}</strong>
-            <span>${escapeHtml(item.query)}</span>
-        </button>
-    `).join("");
-}
-
-function clearActiveNavigationSelection() {
-    app.state.activeResultKey = "";
-}
-
-function getNavigationButtons() {
-    if (app.state.favoritesOpen) {
-        return [...dom.favoritesList.querySelectorAll("[data-nav-article]")];
-    }
-    if (app.state.mode === "search") {
-        return [...dom.resultList.querySelectorAll("[data-nav-article]")];
-    }
-    if (app.state.mode === "browse") {
-        return [...dom.articleList.querySelectorAll("[data-nav-article]")];
-    }
-    return [];
-}
-
-function syncActiveNavigationButtons() {
-    const buttons = getNavigationButtons();
-    let matched = false;
-    buttons.forEach((button) => {
-        const active = button.dataset.navArticle === app.state.activeResultKey;
-        button.classList.toggle("is-selected", active);
-        button.setAttribute("aria-current", active ? "true" : "false");
-        if (active) {
-            matched = true;
-        }
-    });
-    if (!matched) {
-        app.state.activeResultKey = "";
-    }
-}
-
-function setActiveNavigationKey(articleKey, options = {}) {
-    const { focus = false, behavior = "smooth" } = options;
-    app.state.activeResultKey = articleKey || "";
-    syncActiveNavigationButtons();
-    if (!focus || !articleKey) {
-        return;
-    }
-    const button = getNavigationButtons().find((item) => item.dataset.navArticle === articleKey);
-    if (!button) {
-        return;
-    }
-    button.focus({ preventScroll: true });
-    button.scrollIntoView({ block: "nearest", behavior });
-}
-
-function moveActiveNavigation(direction) {
-    const buttons = getNavigationButtons();
-    if (!buttons.length) {
-        return false;
-    }
-    const currentIndex = buttons.findIndex((button) => button.dataset.navArticle === app.state.activeResultKey);
-    const nextIndex = currentIndex === -1
-        ? (direction > 0 ? 0 : buttons.length - 1)
-        : Math.max(0, Math.min(buttons.length - 1, currentIndex + direction));
-    setActiveNavigationKey(buttons[nextIndex].dataset.navArticle, { focus: true });
-    return true;
-}
-
-function hydrateStateFromUrl() {
-    const params = new URLSearchParams(window.location.search);
-    app.state.mode = params.get("mode") === "browse" ? "browse" : "search";
-    app.state.q = params.get("q") ?? "";
-    app.state.journals = params.getAll("journal").filter(Boolean);
-    app.state.yearFrom = params.get("year_from") ?? "";
-    app.state.yearTo = params.get("year_to") ?? "";
-    app.state.hasAbstractOnly = params.get("has_abstract") === "1";
-    app.state.sort = params.get("sort") || "relevance";
-    app.state.page = Math.max(1, Number.parseInt(params.get("page") || "1", 10));
-    app.state.browseJournal = params.get("browse_journal") ?? "";
-    app.state.browseYear = params.get("browse_year") ?? "";
-    app.state.activeArticleDoi = parseArticleHash();
-    app.state.activeArticleKey = app.state.activeArticleDoi
-        ? `doi:${app.state.activeArticleDoi.toLowerCase()}`
-        : "";
-    app.state.favoritesOpen = false;
-    app.state.activeResultKey = "";
-}
-
-function syncUrl() {
-    const params = new URLSearchParams();
-    if (app.state.mode !== "search") {
-        params.set("mode", app.state.mode);
-    }
-    if (app.state.q.trim()) {
-        params.set("q", app.state.q.trim());
-    }
-    app.state.journals.forEach((journal) => params.append("journal", journal));
-    if (app.state.yearFrom) {
-        params.set("year_from", app.state.yearFrom);
-    }
-    if (app.state.yearTo) {
-        params.set("year_to", app.state.yearTo);
-    }
-    if (app.state.hasAbstractOnly) {
-        params.set("has_abstract", "1");
-    }
-    if (app.state.sort && app.state.sort !== "relevance") {
-        params.set("sort", app.state.sort);
-    }
-    if (app.state.page > 1) {
-        params.set("page", String(app.state.page));
-    }
-    if (app.state.browseJournal) {
-        params.set("browse_journal", app.state.browseJournal);
-    }
-    if (app.state.browseYear) {
-        params.set("browse_year", String(app.state.browseYear));
-    }
-    const queryPart = params.toString() ? `?${params.toString()}` : "";
-    const hashPart = app.state.activeArticleDoi
-        ? `#doi/${encodeURIComponent(app.state.activeArticleDoi)}`
-        : "";
-    const next = `${window.location.pathname}${queryPart}${hashPart}`;
-    window.history.replaceState({}, "", next);
-}
-
-function parseArticleHash() {
-    const hash = window.location.hash || "";
-    if (!hash.startsWith("#doi/")) {
-        return "";
-    }
-    try {
-        return decodeURIComponent(hash.slice(5));
-    } catch {
-        return "";
-    }
+    return response.json();
 }
 
 async function initSqliteEngine() {
     if (typeof initSqlJs !== "function") {
-        throw new Error("SQL.js runtime 未加载。");
+        throw new Error("SQL.js runtime unavailable");
     }
     const SQL = await initSqlJs({
         locateFile: (file) => `${SQL_JS_BASE}/${file}`,
     });
     const response = await fetch("literature.db");
     if (!response.ok) {
-        throw new Error(`literature.db 不可用 (${response.status})`);
+        throw new Error(`literature.db unavailable (${response.status})`);
     }
     const bytes = new Uint8Array(await response.arrayBuffer());
     app.db = new SQL.Database(bytes);
+    app.dbColumns = new Set(queryDb("PRAGMA table_info(articles)").map((row) => row.name));
     app.meta = loadMetaFromDb();
     app.facets = loadFacetsFromDb();
     app.engine = "sqlite";
-    app.engineMessage = "已启用浏览器内 SQLite FTS5，可直接搜标题、摘要和作者。";
     app.sqliteInitError = "";
-}
-
-function buildSqliteFailureMessage(error) {
-    const message = String(error?.message || "").trim();
-    if (!message) {
-        return "浏览器内 SQLite 初始化失败，页面已回退到备用 JSON 模式。";
-    }
-    if (message.includes("literature.db 不可用")) {
-        return `当前部署没有成功提供 literature.db。${message}`;
-    }
-    if (message.includes("SQL.js runtime 未加载")) {
-        return "SQLite 运行时没有正常加载，页面已回退到备用 JSON 模式。";
-    }
-    return `浏览器内 SQLite 初始化失败，页面已回退到备用 JSON 模式。${message}`;
 }
 
 function queryDb(sql, params = {}) {
@@ -936,8 +1050,7 @@ function loadMetaFromDb() {
             SUM(CASE WHEN TRIM(COALESCE(articles.abstract, '')) <> '' THEN 1 ELSE 0 END) AS with_abstract
         FROM articles
         JOIN articles_meta m ON m.rowid = articles.rowid
-    `)[0];
-
+    `)[0] || {};
     const total = Number(row.total || 0);
     const withAbstract = Number(row.with_abstract || 0);
     return {
@@ -951,7 +1064,7 @@ function loadMetaFromDb() {
 }
 
 function loadFacetsFromDb() {
-    const rows = queryDb(`
+    return queryDb(`
         SELECT
             journal,
             COUNT(*) AS total,
@@ -960,9 +1073,7 @@ function loadFacetsFromDb() {
         FROM articles_meta
         GROUP BY journal
         ORDER BY journal COLLATE NOCASE ASC
-    `);
-
-    return rows.map((row) => ({
+    `).map((row) => ({
         journal: row.journal,
         total: Number(row.total || 0),
         minYear: Number(row.min_year || 0),
@@ -998,26 +1109,13 @@ function buildFacetsFromStaticIndex(payload) {
 }
 
 async function loadStaticIndexes() {
-    if (app.staticIndexesLoaded) {
-        return;
-    }
-    app.staticIndexesLoaded = true;
-    const [overviewResult, journalsResult, dashboardResult] = await Promise.allSettled([
+    const [overviewResult, journalsResult] = await Promise.allSettled([
         fetchJsonResource("api/overview.json"),
         fetchJsonResource("api/journals.json"),
-        fetchJsonResource("api/dashboard.json"),
     ]);
-
-    if (dashboardResult.status === "fulfilled") {
-        app.dashboard = dashboardResult.value;
+    if (!app.meta && overviewResult.status === "fulfilled") {
+        app.meta = buildMetaFromSummary(overviewResult.value?.summary);
     }
-
-    if (!app.meta) {
-        const summary = app.dashboard?.summary ||
-            (overviewResult.status === "fulfilled" ? overviewResult.value?.summary : null);
-        app.meta = buildMetaFromSummary(summary);
-    }
-
     if (!app.facets && journalsResult.status === "fulfilled") {
         app.facets = buildFacetsFromStaticIndex(journalsResult.value);
     }
@@ -1027,13 +1125,10 @@ async function ensureFallbackData() {
     if (app.fallbackData) {
         return;
     }
-    app.engineMessage = "正在加载备用 JSON 数据（约 40MB）…";
-    renderEngineStatus();
     const response = await fetch("data.json", { cache: "no-cache" });
     if (!response.ok) {
-        throw new Error(`data.json 不可用 (${response.status})`);
+        throw new Error(`data.json unavailable (${response.status})`);
     }
-
     app.fallbackData = await response.json();
     const journalStats = new Map();
     let withAbstract = 0;
@@ -1044,9 +1139,7 @@ async function ensureFallbackData() {
         const journal = String(item["Source Title"] || "").trim();
         const year = Number.parseInt(item["Publication Year"], 10);
         const hasAbstract = String(item["Abstract"] || "").trim().length > 0;
-        if (hasAbstract) {
-            withAbstract += 1;
-        }
+        if (hasAbstract) withAbstract += 1;
         if (!Number.isNaN(year)) {
             minYear = Math.min(minYear, year);
             maxYear = Math.max(maxYear, year);
@@ -1085,530 +1178,51 @@ async function ensureFallbackData() {
             maxYear: Number.isFinite(stat.maxYear) ? stat.maxYear : "",
         }))
         .sort((a, b) => a.journal.localeCompare(b.journal));
-    app.engineMessage = "当前使用备用 JSON 数据。浏览与基础搜索可用，但不支持完整 FTS5 语法与毫秒级响应。";
 }
 
 async function initDataSources() {
+    app.loading = true;
+    app.loadingText = "Loading";
+    renderAll();
     try {
         await initSqliteEngine();
     } catch (error) {
         console.warn(error);
         app.engine = "fallback";
         app.sqliteInitError = String(error?.message || "");
-        app.engineMessage = buildSqliteFailureMessage(error);
-    }
-    try {
         await loadStaticIndexes();
-    } catch (error) {
-        console.warn(error);
+        await ensureFallbackData();
     }
+    await loadStaticIndexes();
+    app.loading = false;
 }
 
-async function findArticleByDoi(doi) {
-    const cleanDoi = String(doi || "").trim();
-    if (!cleanDoi) {
-        return null;
+function buildDbMatchQuery(query) {
+    const raw = query.trim();
+    if (!raw) {
+        return "";
     }
-    const key = `doi:${cleanDoi.toLowerCase()}`;
-    if (app.articleCache.has(key)) {
-        return app.articleCache.get(key);
+    if (app.state.searchMode === "title_abstract") {
+        return buildSimpleFtsQuery(raw, ["title", "abstract"]);
     }
-
-    if (app.engine === "sqlite" && app.db) {
-        const row = queryDb(`
-            SELECT
-                title,
-                authors,
-                journal,
-                year,
-                doi,
-                abstract
-            FROM articles
-            WHERE lower(doi) = lower($doi)
-            LIMIT 1
-        `, { $doi: cleanDoi })[0];
-        if (row) {
-            rememberArticle(row);
-            return app.articleCache.get(key);
-        }
-        return null;
+    if (app.state.searchMode === "author") {
+        const columns = app.dbColumns.has("author_search") ? ["author_search", "authors"] : ["authors"];
+        return buildSimpleFtsQuery(raw, columns);
     }
-
-    await ensureFallbackData();
-    const row = app.fallbackData.find((item) =>
-        String(item["DOI"] || "").trim().toLowerCase() === cleanDoi.toLowerCase()
-    );
-    if (!row) {
-        return null;
+    if (app.state.searchMode === "journal") {
+        return app.dbColumns.has("journal_search")
+            ? buildSimpleFtsQuery(raw, ["journal_search"])
+            : buildSimpleFtsQuery(raw, ["journal"]);
     }
-    rememberArticle({
-        title: row["Article Title"],
-        authors: row["Author Full Names"],
-        journal: row["Source Title"],
-        year: row["Publication Year"],
-        doi: row["DOI"],
-        abstract: row["Abstract"],
-    });
-    return app.articleCache.get(key);
-}
-
-function closeArticleModalState() {
-    app.state.activeArticleKey = "";
-    app.state.activeArticleDoi = "";
-}
-
-function openArticleModalState(record) {
-    const key = rememberArticle(record);
-    const article = app.articleCache.get(key);
-    app.state.activeArticleKey = key;
-    app.state.activeArticleDoi = article?.doi || "";
-}
-
-function closeFavoritesModalState() {
-    app.state.favoritesOpen = false;
-}
-
-function openFavoritesModalState() {
-    closeArticleModalState();
-    app.state.favoritesOpen = true;
-}
-
-function syncOverlayLock() {
-    const articleOpen = !dom.modal.classList.contains("hidden");
-    const favoritesOpen = !dom.favoritesModal.classList.contains("hidden");
-    document.body.classList.toggle("modal-open", articleOpen || favoritesOpen);
-}
-
-function setModalOpen(isOpen) {
-    dom.modal.classList.toggle("hidden", !isOpen);
-    dom.modal.setAttribute("aria-hidden", isOpen ? "false" : "true");
-    syncOverlayLock();
-}
-
-function setFavoritesModalOpen(isOpen) {
-    dom.favoritesModal.classList.toggle("hidden", !isOpen);
-    dom.favoritesModal.setAttribute("aria-hidden", isOpen ? "false" : "true");
-    syncOverlayLock();
-}
-
-async function renderArticleModal() {
-    if (!app.state.activeArticleKey && !app.state.activeArticleDoi) {
-        dom.aiLinks.innerHTML = "";
-        dom.aiPrompt.textContent = "";
-        clearArticleSchema();
-        setModalOpen(false);
-        return;
-    }
-
-    let article = app.state.activeArticleKey
-        ? app.articleCache.get(app.state.activeArticleKey)
-        : null;
-
-    if (!article && app.state.activeArticleDoi) {
-        article = await findArticleByDoi(app.state.activeArticleDoi);
-        if (article) {
-            app.state.activeArticleKey = buildArticleKey(article);
-        }
-    }
-
-    if (!article) {
-        closeArticleModalState();
-        dom.aiLinks.innerHTML = "";
-        dom.aiPrompt.textContent = "";
-        clearArticleSchema();
-        setModalOpen(false);
-        return;
-    }
-
-    const articleKey = buildArticleKey(article);
-    const doiUrl = buildDoiUrl(article.doi);
-    const shareUrl = buildShareUrl(article);
-    const apiUrl = buildArticleApiUrl(article.doi);
-    const aiResources = buildAiResourceLinks(article);
-    const aiPrompt = buildAiPrompt(article, aiResources);
-    const copyLinkLabel = article.doi ? "复制可分享链接" : "复制当前页面链接";
-    dom.modalKicker.textContent = `${article.journal || "未知期刊"} · ${article.year || "年份未知"}`;
-    dom.modalTitle.textContent = article.title || "无标题";
-    dom.modalMeta.innerHTML = `
-        <strong>期刊：</strong>${escapeHtml(article.journal || "未知")}　
-        <strong>年份：</strong>${escapeHtml(article.year || "未知")}　
-        <strong>DOI：</strong>${article.doi ? escapeHtml(article.doi) : "无"}
-    `;
-    dom.modalAuthors.textContent = article.authors || "未知作者";
-    dom.modalActions.innerHTML = `
-        ${renderFavoriteButton(articleKey, isFavorite(articleKey) ? "已收藏" : "加入收藏")}
-        ${doiUrl ? `<a class="result-link" href="${doiUrl}" target="_blank" rel="noreferrer">打开 DOI</a>` : ""}
-        <a class="result-link" href="${buildScholarUrl(article.title)}" target="_blank" rel="noreferrer">Google Scholar</a>
-        <button type="button" class="result-link button-link" data-copy-link="true">${copyLinkLabel}</button>
-    `;
-    dom.modalAbstract.textContent = article.abstract || "暂无摘要。";
-    dom.citationBibtex.textContent = formatBibtex(article);
-    dom.citationApa.textContent = formatApa(article);
-    dom.citationMla.textContent = formatMla(article);
-    dom.aiLinks.innerHTML = `
-        ${aiResources.articleJson ? `<a class="result-link" href="${aiResources.articleJson}" target="_blank" rel="noreferrer">文章 JSON</a>` : '<span class="result-link">无 DOI，暂无单篇 JSON</span>'}
-        <a class="result-link" href="${aiResources.journalTitles}" target="_blank" rel="noreferrer">本刊标题索引</a>
-        ${aiResources.journalAbstracts ? `<a class="result-link" href="${aiResources.journalAbstracts}" target="_blank" rel="noreferrer">同年份段摘要</a>` : ""}
-        <a class="result-link" href="${aiResources.overview}" target="_blank" rel="noreferrer">数据库总览</a>
-    `;
-    dom.aiPrompt.textContent = aiPrompt;
-    dom.modal.dataset.shareUrl = shareUrl;
-    dom.modal.dataset.aiPrompt = aiPrompt;
-    dom.modal.querySelectorAll("[data-copy-link]").forEach((button) => {
-        button.textContent = copyLinkLabel;
-    });
-    renderArticleSchema(article, shareUrl, apiUrl);
-    setModalOpen(true);
-}
-
-function renderFavoritesLauncher() {
-    if (!dom.favoritesToggle) {
-        return;
-    }
-    dom.favoritesToggle.textContent = `我的收藏（${formatNumber(app.favorites.size)}）`;
-    dom.favoritesToggle.classList.toggle("has-items", app.favorites.size > 0);
-    dom.favoritesToggle.setAttribute("aria-expanded", app.state.favoritesOpen ? "true" : "false");
-}
-
-function renderDashboardVisibility() {
-    if (!dom.dashboardPanel || !dom.dashboardToggle) {
-        return;
-    }
-    dom.dashboardPanel.hidden = !app.state.dashboardOpen;
-    dom.dashboardToggle.textContent = app.state.dashboardOpen ? "收起概况" : "数据库概况";
-    dom.dashboardToggle.setAttribute("aria-expanded", app.state.dashboardOpen ? "true" : "false");
-    dom.dashboardToggle.classList.toggle("is-active", app.state.dashboardOpen);
-}
-
-function renderFavoritesModal() {
-    renderFavoritesLauncher();
-    if (!app.state.favoritesOpen) {
-        setFavoritesModalOpen(false);
-        return;
-    }
-
-    const favorites = getFavoriteArticles();
-    dom.favoritesSummary.textContent = favorites.length
-        ? `已收藏 ${formatNumber(favorites.length)} 篇文章。你可以继续筛选、打开详情，或直接导出 BibTeX / CSV。`
-        : "收藏夹还是空的。你可以先在搜索结果、浏览页或详情弹窗里把候选文章加入收藏。";
-    dom.copyFavoritesBibtex.disabled = favorites.length === 0;
-    dom.exportFavoritesBibtex.disabled = favorites.length === 0;
-    dom.exportFavoritesCsv.disabled = favorites.length === 0;
-    dom.clearFavorites.disabled = favorites.length === 0;
-
-    if (!favorites.length) {
-        clearActiveNavigationSelection();
-        dom.favoritesList.innerHTML = '<div class="empty-state">还没有收藏文章。</div>';
-        setFavoritesModalOpen(true);
-        return;
-    }
-
-    dom.favoritesList.innerHTML = favorites.map((article) => {
-        const articleKey = rememberArticle(article);
-        const doiUrl = buildDoiUrl(article.doi);
-        return `
-            <article class="favorite-card">
-                <div class="favorite-card-head">
-                    <div>
-                        <h3 class="favorite-card-title">
-                            <button type="button" class="article-trigger" data-open-article="${escapeHtml(articleKey)}" data-nav-article="${escapeHtml(articleKey)}">${escapeHtml(article.title || "无标题")}</button>
-                        </h3>
-                        <div class="favorite-card-meta">
-                            ${escapeHtml(article.journal || "未知期刊")} · ${escapeHtml(article.year || "年份未知")} · ${article.doi ? `DOI: ${escapeHtml(article.doi)}` : "无 DOI"}
-                        </div>
-                    </div>
-                    ${renderFavoriteButton(articleKey, "移出收藏")}
-                </div>
-                <div class="favorite-card-authors">${escapeHtml(article.authors || "未知作者")}</div>
-                <div class="favorite-card-links">
-                    <button type="button" class="result-link button-link" data-open-article="${escapeHtml(articleKey)}">查看详情</button>
-                    ${doiUrl ? `<a class="result-link" href="${doiUrl}" target="_blank" rel="noreferrer">打开 DOI</a>` : ""}
-                    <a class="result-link" href="${buildScholarUrl(article.title)}" target="_blank" rel="noreferrer">Google Scholar</a>
-                </div>
-            </article>
-        `;
-    }).join("");
-    syncActiveNavigationButtons();
-    setFavoritesModalOpen(true);
-}
-
-function renderDatasetMeta() {
-    if (!app.meta) {
-        dom.datasetMeta.textContent = "正在准备数据概况…";
-        return;
-    }
-    dom.datasetMeta.textContent =
-        `当前数据：${formatNumber(app.meta.total)} 篇文献 · ` +
-        `${formatNumber(app.meta.journals)} 本期刊 · ` +
-        `年份范围 ${app.meta.minYear}-${app.meta.maxYear} · ` +
-        `已有摘要 ${formatNumber(app.meta.withAbstract)} 篇 · ` +
-        `缺摘要 ${formatNumber(app.meta.missingAbstract)} 篇`;
-}
-
-function buildTrendChart(yearCounts) {
-    if (!Array.isArray(yearCounts) || !yearCounts.length) {
-        return '<div class="empty-state">暂无年度趋势数据。</div>';
-    }
-    const width = 760;
-    const height = 240;
-    const padding = { top: 18, right: 20, bottom: 34, left: 16 };
-    const baselineY = height - padding.bottom;
-    const plotWidth = width - padding.left - padding.right;
-    const plotHeight = baselineY - padding.top;
-    const maxCount = Math.max(...yearCounts.map((item) => Number(item.count || 0)), 1);
-    const points = yearCounts.map((item, index) => {
-        const x = yearCounts.length === 1
-            ? padding.left + plotWidth / 2
-            : padding.left + (plotWidth * index) / (yearCounts.length - 1);
-        const y = baselineY - (plotHeight * Number(item.count || 0)) / maxCount;
-        return {
-            x,
-            y,
-            year: item.year,
-            count: Number(item.count || 0),
-        };
-    });
-    const linePoints = points.map((point) => `${point.x.toFixed(1)},${point.y.toFixed(1)}`).join(" ");
-    const areaPoints = [
-        `${points[0].x.toFixed(1)},${baselineY.toFixed(1)}`,
-        linePoints,
-        `${points[points.length - 1].x.toFixed(1)},${baselineY.toFixed(1)}`,
-    ].join(" ");
-    const labelIndexes = [...new Set([0, Math.floor((points.length - 1) / 2), points.length - 1])];
-    const gridValues = [0.25, 0.5, 0.75].map((ratio) => ({
-        y: baselineY - plotHeight * ratio,
-        label: Math.round(maxCount * ratio),
-    }));
-    const lastPoint = points[points.length - 1];
-    return `
-        <svg class="trend-chart" viewBox="0 0 ${width} ${height}" role="img" aria-label="年度发文趋势图">
-            ${gridValues.map((grid) => `
-                <g>
-                    <line class="trend-grid" x1="${padding.left}" y1="${grid.y.toFixed(1)}" x2="${width - padding.right}" y2="${grid.y.toFixed(1)}"></line>
-                    <text class="trend-axis" x="${width - padding.right}" y="${(grid.y - 6).toFixed(1)}" text-anchor="end">${formatNumber(grid.label)}</text>
-                </g>
-            `).join("")}
-            <polygon class="trend-area" points="${areaPoints}"></polygon>
-            <polyline class="trend-line" points="${linePoints}"></polyline>
-            <circle class="trend-point" cx="${lastPoint.x.toFixed(1)}" cy="${lastPoint.y.toFixed(1)}" r="5"></circle>
-            ${labelIndexes.map((index) => {
-                const point = points[index];
-                return `
-                    <text class="trend-label" x="${point.x.toFixed(1)}" y="${height - 10}" text-anchor="middle">${escapeHtml(point.year)}</text>
-                `;
-            }).join("")}
-        </svg>
-    `;
-}
-
-function renderDashboardList(items, nameKey, unit = "篇") {
-    if (!Array.isArray(items) || !items.length) {
-        return '<div class="empty-state">暂无数据。</div>';
-    }
-    return items.map((item) => `
-        <div class="dashboard-list-item">
-            <strong>${escapeHtml(item[nameKey])}</strong>
-            <span>${formatNumber(item.count)} ${unit}</span>
-        </div>
-    `).join("");
-}
-
-function renderDashboard() {
-    if (!dom.dashboardSummary || !dom.dashboardTrend) {
-        return;
-    }
-    if (!app.dashboard?.summary) {
-        dom.dashboardGeneratedAt.textContent = "概况数据尚未就绪";
-        dom.dashboardSummary.innerHTML = '<div class="empty-state">首页概况会在静态索引或检索库准备好后显示。</div>';
-        dom.dashboardTrendMeta.textContent = "";
-        dom.dashboardTrend.innerHTML = '<div class="empty-state">暂无年度趋势数据。</div>';
-        dom.dashboardKeywords.innerHTML = '<div class="empty-state">暂无关键词。</div>';
-        dom.dashboardAuthors.innerHTML = '<div class="empty-state">暂无作者榜。</div>';
-        dom.dashboardJournals.innerHTML = '<div class="empty-state">暂无期刊分布。</div>';
-        return;
-    }
-
-    const summary = app.dashboard.summary;
-    const yearCounts = app.dashboard.year_counts || [];
-    const latestYear = yearCounts[yearCounts.length - 1];
-    dom.dashboardGeneratedAt.textContent = `更新于 ${formatTimestamp(app.dashboard.generated_at)}`;
-    dom.dashboardSummary.innerHTML = `
-        <article class="stat-card">
-            <div class="stat-kicker">总篇数</div>
-            <div class="stat-value">${formatNumber(summary.total_articles)}</div>
-            <div class="stat-meta">${formatNumber(summary.total_journals)} 本期刊 · ${summary.year_min}-${summary.year_max}</div>
-        </article>
-        <article class="stat-card">
-            <div class="stat-kicker">摘要覆盖率</div>
-            <div class="stat-value">${formatPercent(summary.abstract_coverage_rate)}</div>
-            <div class="stat-meta">已补摘要 ${formatNumber(summary.articles_with_abstract)} 篇</div>
-        </article>
-        <article class="stat-card">
-            <div class="stat-kicker">DOI 覆盖率</div>
-            <div class="stat-value">${formatPercent(summary.doi_coverage_rate)}</div>
-            <div class="stat-meta">可直接分享 ${formatNumber(summary.records_with_doi)} 篇</div>
-        </article>
-        <article class="stat-card">
-            <div class="stat-kicker">最新年份</div>
-            <div class="stat-value">${summary.year_max || "—"}</div>
-            <div class="stat-meta">${latestYear ? `该年份当前收录 ${formatNumber(latestYear.count)} 篇` : "年度计数待补充"}</div>
-        </article>
-    `;
-    dom.dashboardTrendMeta.textContent = latestYear
-        ? `${summary.year_min}-${summary.year_max} · ${latestYear.year} 年收录 ${formatNumber(latestYear.count)} 篇`
-        : `${summary.year_min}-${summary.year_max}`;
-    dom.dashboardTrend.innerHTML = buildTrendChart(yearCounts);
-    dom.dashboardKeywords.innerHTML = (app.dashboard.top_keywords || []).length
-        ? app.dashboard.top_keywords.slice(0, 12).map((item, index, list) => {
-            const maxCount = list[0]?.count || 1;
-            const weight = 0.92 + (Number(item.count || 0) / maxCount) * 0.34;
-            return `
-                <span class="dashboard-tag" style="font-size: ${weight.toFixed(2)}rem;">
-                    <strong>${escapeHtml(item.term)}</strong>
-                    <span>${formatNumber(item.count)}</span>
-                </span>
-            `;
-        }).join("")
-        : '<div class="empty-state">暂无关键词。</div>';
-    dom.dashboardAuthors.innerHTML = renderDashboardList(app.dashboard.top_authors, "author", "次");
-    dom.dashboardJournals.innerHTML = renderDashboardList(app.dashboard.top_journals, "journal", "篇");
-}
-
-function renderEngineStatus() {
-    dom.engineBadge.className = "engine-badge";
-    if (app.engine === "sqlite") {
-        dom.engineBadge.classList.add("is-ready");
-        dom.engineBadge.textContent = "SQLite FTS5 已连接";
-    } else if (app.engine === "fallback") {
-        dom.engineBadge.classList.add("is-fallback");
-        dom.engineBadge.textContent = "JSON 备用模式";
-    } else {
-        dom.engineBadge.textContent = "正在初始化";
-    }
-    dom.engineMessage.textContent = app.engineMessage;
-}
-
-function groupFacets() {
-    if (!app.facets) {
-        return [];
-    }
-    const seen = new Set();
-    const groups = [];
-
-    for (const group of JOURNAL_GROUPS) {
-        const items = app.facets.filter((facet) => group.journals.includes(facet.journal));
-        if (!items.length) {
-            continue;
-        }
-        items.forEach((item) => seen.add(item.journal));
-        groups.push({ label: group.label, items });
-    }
-
-    const others = app.facets.filter((facet) => !seen.has(facet.journal));
-    if (others.length) {
-        groups.push({ label: "其他", items: others });
-    }
-    return groups;
-}
-
-function getSelectedFacetItems() {
-    const selected = new Set(app.state.journals);
-    return (app.facets || [])
-        .filter((item) => selected.has(item.journal))
-        .sort((a, b) => a.journal.localeCompare(b.journal));
-}
-
-function renderSelectedJournalPills(items, emptyText = "") {
-    if (!items.length) {
-        return emptyText ? `<div class="helper-text">${escapeHtml(emptyText)}</div>` : "";
-    }
-    return `
-        <div class="selected-journal-list">
-            ${items.map((item) => `
-                <button type="button" class="selected-journal-chip" data-remove-journal="${escapeHtml(item.journal)}">
-                    <strong>${escapeHtml(item.journal)}</strong>
-                    <span>${formatNumber(item.total)} 篇</span>
-                </button>
-            `).join("")}
-        </div>
-    `;
-}
-
-function renderJournalFilters() {
-    if (!app.facets) {
-        dom.filterContainer.innerHTML = '<div class="empty-state">筛选项会在数据源准备好后显示。</div>';
-        if (dom.journalFilterSummary) {
-            dom.journalFilterSummary.textContent = "正在准备期刊列表…";
-        }
-        return;
-    }
-
-    const selected = new Set(app.state.journals);
-    const query = normalizeText(app.state.journalFacetQuery);
-    const groups = groupFacets()
-        .map((group) => ({
-            ...group,
-            items: group.items.filter((item) => !query || normalizeText(item.journal).includes(query)),
-        }))
-        .filter((group) => group.items.length);
-    const visibleCount = groups.reduce((sum, group) => sum + group.items.length, 0);
-    if (dom.journalFilterSummary) {
-        const selectedCount = app.state.journals.length;
-        dom.journalFilterSummary.textContent = query
-            ? `当前显示 ${formatNumber(visibleCount)} 本期刊${selectedCount ? ` · 已选 ${formatNumber(selectedCount)} 本` : ""}`
-            : `共 ${formatNumber(app.facets.length)} 本期刊${selectedCount ? ` · 已选 ${formatNumber(selectedCount)} 本` : ""}`;
-    }
-    if (!groups.length) {
-        dom.filterContainer.innerHTML = '<div class="sidebar-empty">没有匹配的期刊名。可以缩短关键词，或直接清空上面的过滤输入。</div>';
-        return;
-    }
-    const selectedItems = getSelectedFacetItems();
-    const selectedBlock = selectedItems.length ? `
-        <section class="facet-group facet-group-selected">
-            <div class="browse-header">
-                <div>
-                    <h3 class="facet-title">已选期刊</h3>
-                    <div class="helper-text">点一下即可移除，不必再回到对应学科里找。</div>
-                </div>
-                <button type="button" class="tiny-btn" data-clear-filter="journals">清空已选</button>
-            </div>
-            ${renderSelectedJournalPills(selectedItems)}
-        </section>
-    ` : "";
-    dom.filterContainer.innerHTML = selectedBlock + groups.map((group) => `
-        <section class="facet-group">
-            <div class="facet-title-row">
-                <h3 class="facet-title">${escapeHtml(group.label)}</h3>
-                <span class="facet-count">${formatNumber(group.items.length)} 本</span>
-            </div>
-            <div class="facet-list">
-                ${group.items.map((item) => `
-                    <label class="facet-item">
-                        <span class="facet-name">
-                            <input type="checkbox" data-journal-filter="${escapeHtml(item.journal)}" ${selected.has(item.journal) ? "checked" : ""}>
-                            ${escapeHtml(item.journal)}
-                        </span>
-                        <span class="facet-count">${formatNumber(item.total)}</span>
-                    </label>
-                `).join("")}
-            </div>
-        </section>
-    `).join("");
-}
-
-function renderTabs() {
-    dom.searchView.classList.toggle("active", app.state.mode === "search");
-    dom.browseView.classList.toggle("active", app.state.mode === "browse");
-    [...dom.tabbar.querySelectorAll(".tab-btn")].forEach((button) => {
-        button.classList.toggle("active", button.dataset.mode === app.state.mode);
-    });
+    return buildSimpleFtsQuery(raw);
 }
 
 function buildWhereClause(params, query, includeMatch = true) {
     const clauses = [];
-    if (includeMatch && query.trim()) {
+    const matchQuery = buildDbMatchQuery(query);
+    if (includeMatch && matchQuery) {
         clauses.push("articles MATCH $query");
-        params.$query = query.trim();
+        params.$query = matchQuery;
     }
     if (app.state.journals.length) {
         const placeholders = app.state.journals.map((_, index) => `$journal_${index}`);
@@ -1631,28 +1245,36 @@ function buildWhereClause(params, query, includeMatch = true) {
     return clauses.length ? `WHERE ${clauses.join(" AND ")}` : "";
 }
 
+function getOrderByClause() {
+    if (app.state.sort === "journal") {
+        return "ORDER BY m.journal COLLATE NOCASE ASC, m.year DESC, articles.title COLLATE NOCASE ASC";
+    }
+    if (app.state.sort === "year_asc") {
+        return "ORDER BY m.year ASC, articles.title COLLATE NOCASE ASC";
+    }
+    if (app.state.sort === "author") {
+        return "ORDER BY articles.authors COLLATE NOCASE ASC, m.year DESC, articles.title COLLATE NOCASE ASC";
+    }
+    if (app.state.sort === "title") {
+        return "ORDER BY articles.title COLLATE NOCASE ASC, m.year DESC";
+    }
+    return "ORDER BY m.year DESC, articles.title COLLATE NOCASE ASC";
+}
+
 function searchWithDb() {
     const query = app.state.q.trim();
     const params = {
-        $limit: PAGE_SIZE,
-        $offset: (app.state.page - 1) * PAGE_SIZE,
+        $limit: app.state.visibleCount,
+        $offset: 0,
     };
     const whereClause = buildWhereClause(params, query, true);
     const countParams = {};
     const countWhereClause = buildWhereClause(countParams, query, true);
-
-    let orderBy = "ORDER BY m.year DESC, articles.title COLLATE NOCASE ASC";
-    if (app.state.sort === "journal") {
-        orderBy = "ORDER BY m.journal COLLATE NOCASE ASC, m.year DESC, articles.title COLLATE NOCASE ASC";
-    } else if (app.state.sort === "relevance" && query) {
-        orderBy = "ORDER BY bm25(articles, 8.0, 4.0, 2.0) ASC, m.year DESC";
-    }
-
     const previewExpr = query
         ? `
             COALESCE(
-                NULLIF(snippet(articles, 1, '<mark>', '</mark>', '...', 22), ''),
-                NULLIF(snippet(articles, 0, '<mark>', '</mark>', '...', 12), ''),
+                NULLIF(snippet(articles, 1, '<mark>', '</mark>', '...', 24), ''),
+                NULLIF(snippet(articles, 0, '<mark>', '</mark>', '...', 16), ''),
                 NULLIF(snippet(articles, 2, '<mark>', '</mark>', '...', 12), ''),
                 ''
             ) AS preview
@@ -1675,7 +1297,6 @@ function searchWithDb() {
 
     const rows = queryDb(`
         SELECT
-            articles.rowid AS rowid,
             articles.title AS title,
             articles.authors AS authors,
             articles.journal AS journal,
@@ -1686,919 +1307,909 @@ function searchWithDb() {
         FROM articles
         JOIN articles_meta m ON m.rowid = articles.rowid
         ${whereClause}
-        ${orderBy}
+        ${getOrderByClause()}
         LIMIT $limit OFFSET $offset
     `, params);
 
-    return {
-        total,
-        rows,
-        usedFallback: false,
-    };
+    return { total, rows, usedFallback: false };
 }
 
-function scoreFallbackRow(row, tokens) {
-    const haystack = normalizeText(
-        `${row["Article Title"] || ""} ${row["Abstract"] || ""} ${row["Author Full Names"] || ""}`
-    );
-    return tokens.reduce((score, token) => score + (haystack.includes(token) ? 1 : 0), 0);
+function getSearchHaystackForMode(articleLike) {
+    const title = articleLike.title ?? articleLike["Article Title"] ?? "";
+    const abstract = articleLike.abstract ?? articleLike["Abstract"] ?? "";
+    const authors = articleLike.authors ?? articleLike["Author Full Names"] ?? "";
+    const journal = articleLike.journal ?? articleLike["Source Title"] ?? "";
+    const year = articleLike.year ?? articleLike["Publication Year"] ?? "";
+    if (app.state.searchMode === "title_abstract") return `${title} ${abstract}`;
+    if (app.state.searchMode === "author") return authors;
+    if (app.state.searchMode === "journal") return journal;
+    return `${title} ${abstract} ${authors} ${journal} ${year}`;
+}
+
+function rowMatchesSearchMode(articleLike, tokens) {
+    if (!tokens.length) {
+        return true;
+    }
+    const haystack = normalizeSearchTokenText(getSearchHaystackForMode(articleLike));
+    return tokens.every((token) => haystack.includes(token));
+}
+
+function rowMatchesCommonFilters(articleLike) {
+    const journal = String(articleLike.journal ?? articleLike["Source Title"] ?? "").trim();
+    const year = Number.parseInt(articleLike.year ?? articleLike["Publication Year"], 10);
+    const abstract = String(articleLike.abstract ?? articleLike["Abstract"] ?? "").trim();
+    if (app.state.journals.length && !app.state.journals.includes(journal)) {
+        return false;
+    }
+    if (app.state.yearFrom && !Number.isNaN(year) && year < Number(app.state.yearFrom)) {
+        return false;
+    }
+    if (app.state.yearTo && !Number.isNaN(year) && year > Number(app.state.yearTo)) {
+        return false;
+    }
+    if (app.state.hasAbstractOnly && !abstract) {
+        return false;
+    }
+    return true;
+}
+
+function sortSearchRows(rows) {
+    if (app.state.sort === "journal") {
+        rows.sort((a, b) =>
+            String(a.journal || "").localeCompare(String(b.journal || "")) ||
+            Number(b.year || 0) - Number(a.year || 0)
+        );
+    } else if (app.state.sort === "year_asc") {
+        rows.sort((a, b) => Number(a.year || 0) - Number(b.year || 0));
+    } else if (app.state.sort === "author") {
+        rows.sort((a, b) =>
+            String(a.authors || "").localeCompare(String(b.authors || "")) ||
+            Number(b.year || 0) - Number(a.year || 0)
+        );
+    } else if (app.state.sort === "title") {
+        rows.sort((a, b) => String(a.title || "").localeCompare(String(b.title || "")));
+    } else {
+        rows.sort((a, b) =>
+            Number(b.year || 0) - Number(a.year || 0) ||
+            String(a.title || "").localeCompare(String(b.title || ""))
+        );
+    }
 }
 
 function filterFallbackRows() {
-    const query = normalizeText(app.state.q);
-    const tokens = query.split(/\s+/).filter(Boolean);
-
-    let rows = app.fallbackData.filter((item) => {
-        const journal = String(item["Source Title"] || "").trim();
-        const year = Number.parseInt(item["Publication Year"], 10);
-
-        if (app.state.journals.length && !app.state.journals.includes(journal)) {
-            return false;
-        }
-        if (app.state.yearFrom && !Number.isNaN(year) && year < Number(app.state.yearFrom)) {
-            return false;
-        }
-        if (app.state.yearTo && !Number.isNaN(year) && year > Number(app.state.yearTo)) {
-            return false;
-        }
-        if (app.state.hasAbstractOnly && !String(item["Abstract"] || "").trim()) {
-            return false;
-        }
-        if (!tokens.length) {
-            return true;
-        }
-        const haystack = normalizeText(
-            `${item["Article Title"] || ""} ${item["Abstract"] || ""} ${item["Author Full Names"] || ""}`
-        );
-        return tokens.every((token) => haystack.includes(token));
-    });
-
-    if (app.state.sort === "journal") {
-        rows.sort((a, b) => {
-            const journalCompare = String(a["Source Title"] || "").localeCompare(String(b["Source Title"] || ""));
-            if (journalCompare !== 0) {
-                return journalCompare;
-            }
-            return Number(b["Publication Year"] || 0) - Number(a["Publication Year"] || 0);
-        });
-    } else if (app.state.sort === "relevance" && tokens.length) {
-        rows.sort((a, b) => scoreFallbackRow(b, tokens) - scoreFallbackRow(a, tokens));
-    } else {
-        rows.sort((a, b) => Number(b["Publication Year"] || 0) - Number(a["Publication Year"] || 0));
-    }
-
-    const total = rows.length;
-    const offset = (app.state.page - 1) * PAGE_SIZE;
-    const pageRows = rows.slice(offset, offset + PAGE_SIZE).map((item) => ({
-        title: item["Article Title"] || "无标题",
-        authors: item["Author Full Names"] || "未知作者",
+    const tokens = tokenizeBasicQuery(app.state.q);
+    let rows = app.fallbackData.filter((item) =>
+        rowMatchesCommonFilters(item) && rowMatchesSearchMode(item, tokens)
+    );
+    rows = rows.map((item) => ({
+        title: item["Article Title"] || "Untitled",
+        authors: item["Author Full Names"] || "Unknown",
         journal: item["Source Title"] || "",
         year: Number.parseInt(item["Publication Year"], 10) || "",
         doi: item["DOI"] || "",
         preview: truncateText(item["Abstract"] || "", 280),
         abstract: item["Abstract"] || "",
     }));
-
+    sortSearchRows(rows);
     return {
-        total,
-        rows: pageRows,
+        total: rows.length,
+        rows: rows.slice(0, app.state.visibleCount),
         usedFallback: true,
     };
 }
 
-function renderResults(result) {
-    const totalPages = Math.max(1, Math.ceil(result.total / PAGE_SIZE));
-    const queryActive = Boolean(app.state.q.trim());
-    let summary = `共 ${formatNumber(result.total)} 条结果`;
-    if (!queryActive) {
-        summary = `显示 ${formatNumber(result.total)} 条符合筛选条件的文章，默认按年份从新到旧。`;
+async function loadSearchResults() {
+    if (app.loading) {
+        return { total: 0, rows: [], loading: true };
     }
-    if (result.usedFallback) {
-        summary += " 当前为备用 JSON 搜索，语法仅支持基础关键词包含。";
+    if (app.engine === "fallback") {
+        await ensureFallbackData();
+        return filterFallbackRows();
     }
-    if (app.state.hasAbstractOnly) {
-        summary += " 已过滤掉无摘要记录。";
+    try {
+        return searchWithDb();
+    } catch (error) {
+        console.error(error);
+        return { total: 0, rows: [], error };
     }
-    dom.resultSummary.textContent = summary;
+}
 
-    if (!result.rows.length) {
-        clearActiveNavigationSelection();
-        dom.resultList.innerHTML = `
-            <div class="empty-state">
-                ${queryActive
-                    ? "没有找到匹配结果。可以尝试放宽年份范围、减少期刊筛选，或改用更短的关键词。"
-                    : "还没有输入搜索词。你也可以直接按筛选条件浏览最近文章。"}
-            </div>
-        `;
-        dom.pagination.innerHTML = "";
+async function ensureAuthorIndex() {
+    if (app.authorIndex) {
+        return app.authorIndex;
+    }
+    app.authorIndex = await fetchJsonResource("api/authors.json");
+    return app.authorIndex;
+}
+
+function cacheDom() {
+    dom.topbarMeta = $("topbar-meta");
+    dom.favoritesToggle = $("favorites-toggle");
+    dom.favoriteCount = $("favorite-count");
+    dom.themeToggle = $("theme-toggle");
+    dom.authorsLink = $("authors-link");
+    dom.journalStrip = $("journal-strip");
+    dom.journalPills = $("journal-pills");
+    dom.mainView = $("main-view");
+    dom.favoritesView = $("favorites-view");
+    dom.authorsView = $("authors-view");
+    dom.globalLoading = $("global-loading");
+    dom.loadingText = $("loading-text");
+    dom.searchForm = $("search-form");
+    dom.searchInput = $("search-input");
+    dom.searchModeSelect = $("search-mode-select");
+    dom.resultSummary = $("result-summary");
+    dom.filtersToggle = $("filters-toggle");
+    dom.filtersBadge = $("filters-badge");
+    dom.filtersPanel = $("filters-panel");
+    dom.yearFrom = $("year-from");
+    dom.yearTo = $("year-to");
+    dom.hasAbstractOnly = $("has-abstract-only");
+    dom.selectedJournalList = $("selected-journal-list");
+    dom.sortToggle = $("sort-toggle");
+    dom.sortMenu = $("sort-menu");
+    dom.resultList = $("result-list");
+    dom.loadMoreRow = $("load-more-row");
+    dom.loadMore = $("load-more");
+    dom.favoritesBack = $("favorites-back");
+    dom.favoritesSummary = $("favorites-summary");
+    dom.exportToggle = $("export-toggle");
+    dom.exportMenu = $("export-menu");
+    dom.exportFavoritesBibtex = $("export-favorites-bibtex");
+    dom.exportFavoritesCsv = $("export-favorites-csv");
+    dom.exportFavoritesJson = $("export-favorites-json");
+    dom.syncEndpoint = $("sync-endpoint");
+    dom.syncKey = $("sync-key");
+    dom.syncSave = $("sync-save");
+    dom.syncPull = $("sync-pull");
+    dom.syncPush = $("sync-push");
+    dom.syncStatus = $("sync-status");
+    dom.favoriteFolderPath = $("favorite-folder-path");
+    dom.createFavoriteFolder = $("create-favorite-folder");
+    dom.renameFavoriteFolder = $("rename-favorite-folder");
+    dom.deleteFavoriteFolder = $("delete-favorite-folder");
+    dom.favoriteFolderTree = $("favorite-folder-tree");
+    dom.favoritesList = $("favorites-list");
+    dom.authorsBack = $("authors-back");
+    dom.authorsSummary = $("authors-summary");
+    dom.authorMinInput = $("author-min-input");
+    dom.authorList = $("author-list");
+    dom.articleSchema = $("article-schema");
+}
+
+function journalLabel(journal) {
+    return JOURNAL_LABELS[journal] || journal;
+}
+
+function renderTopbar() {
+    if (app.meta) {
+        dom.topbarMeta.textContent = `${formatNumber(app.meta.total)} · ${formatNumber(app.meta.journals)} journals`;
+    } else {
+        dom.topbarMeta.textContent = app.loading ? "Loading" : "0 · 0 journals";
+    }
+    const count = favoriteCount();
+    dom.favoriteCount.textContent = formatNumber(count);
+    dom.favoritesToggle.classList.toggle("is-active", app.state.view === "favorites" || count > 0);
+    dom.favoritesToggle.setAttribute("aria-pressed", app.state.view === "favorites" ? "true" : "false");
+    dom.authorsLink.classList.toggle("is-active", app.state.view === "authors");
+}
+
+function renderLoading() {
+    dom.globalLoading.hidden = !app.loading;
+    dom.loadingText.textContent = app.loadingText;
+}
+
+function renderViews() {
+    dom.mainView.classList.toggle("active", app.state.view === "main");
+    dom.favoritesView.classList.toggle("active", app.state.view === "favorites");
+    dom.authorsView.classList.toggle("active", app.state.view === "authors");
+    dom.journalStrip.hidden = app.state.view !== "main";
+}
+
+function renderJournalPills() {
+    if (!app.facets?.length) {
+        dom.journalPills.innerHTML = "";
         return;
     }
+    const selected = new Set(app.state.journals);
+    const allActive = selected.size === 0;
+    const pills = [
+        `<button class="journal-pill ${allActive ? "active" : ""}" type="button" data-journal-pill="__all__">All</button>`,
+        ...app.facets.map((facet) => `
+            <button
+                class="journal-pill ${selected.has(facet.journal) ? "active" : ""}"
+                type="button"
+                title="${escapeHtml(facet.journal)}"
+                data-journal-pill="${escapeHtml(facet.journal)}"
+            >${escapeHtml(journalLabel(facet.journal))}</button>
+        `),
+    ];
+    dom.journalPills.innerHTML = pills.join("");
+}
 
-    dom.resultList.innerHTML = result.rows.map((row) => {
-        const articleKey = rememberArticle(row);
-        const doiUrl = buildDoiUrl(row.doi);
-        const preview = row.preview
-            ? `<p class="result-snippet">${queryActive ? renderHighlightedSnippet(row.preview) : escapeHtml(row.preview)}</p>`
-            : '<p class="result-snippet muted">暂无摘要。</p>';
-        const abstractBlock = row.abstract && row.abstract !== row.preview
-            ? `
-                <details class="abstract-toggle">
-                    <summary>展开完整摘要</summary>
-                    <div class="full-abstract">${escapeHtml(row.abstract)}</div>
-                </details>
-            `
-            : "";
+function activeFilterCount() {
+    let count = 0;
+    if (app.state.yearFrom || app.state.yearTo) count += 1;
+    if (app.state.hasAbstractOnly) count += 1;
+    if (app.state.journals.length) count += app.state.journals.length;
+    return count;
+}
 
-        return `
-            <article class="result-card">
-                <div class="result-topline">
-                    <span class="journal-tag">${escapeHtml(row.journal)}</span>
-                    <span>${escapeHtml(row.year || "年份未知")}</span>
-                    <span>${row.doi ? `DOI: ${escapeHtml(row.doi)}` : "无 DOI"}</span>
+function renderFilters() {
+    dom.filtersPanel.hidden = !app.state.filtersOpen;
+    dom.filtersToggle.setAttribute("aria-expanded", app.state.filtersOpen ? "true" : "false");
+    const count = activeFilterCount();
+    dom.filtersBadge.hidden = count === 0;
+    dom.filtersBadge.textContent = formatNumber(count);
+    dom.yearFrom.value = app.state.yearFrom;
+    dom.yearTo.value = app.state.yearTo;
+    dom.hasAbstractOnly.checked = app.state.hasAbstractOnly;
+    dom.selectedJournalList.innerHTML = app.state.journals.map((journal) => `
+        <button type="button" class="selected-journal-chip" data-remove-journal="${escapeHtml(journal)}">
+            <span>${escapeHtml(journalLabel(journal))}</span>
+            <span aria-hidden="true">×</span>
+        </button>
+    `).join("");
+}
+
+function renderSortMenu() {
+    dom.sortToggle.textContent = `Sort: ${SORT_LABELS[app.state.sort] || "Newest"} ▾`;
+    dom.sortToggle.setAttribute("aria-expanded", app.state.sortOpen ? "true" : "false");
+    dom.sortMenu.hidden = !app.state.sortOpen;
+    dom.sortMenu.querySelectorAll("[data-sort-value]").forEach((button) => {
+        button.classList.toggle("active", button.dataset.sortValue === app.state.sort);
+    });
+}
+
+function renderArticleSchema(article) {
+    if (!dom.articleSchema) {
+        return;
+    }
+    if (!article) {
+        dom.articleSchema.textContent = "";
+        return;
+    }
+    const doiUrl = buildDoiUrl(article.doi);
+    const schema = {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        headline: article.title || "Untitled",
+        name: article.title || "Untitled",
+        abstract: article.abstract || "",
+        author: parseAuthorList(article.authors).map((author) => ({
+            "@type": "Person",
+            name: author,
+        })),
+        isPartOf: {
+            "@type": "Periodical",
+            name: article.journal || "",
+        },
+        datePublished: article.year ? String(article.year) : "",
+        identifier: article.doi ? [{
+            "@type": "PropertyValue",
+            propertyID: "DOI",
+            value: article.doi,
+        }] : [],
+        url: doiUrl || buildArticleApiUrl(article.doi) || "",
+    };
+    dom.articleSchema.textContent = JSON.stringify(schema, null, 2);
+}
+
+function buildFavoriteFolderOptions(articleKey) {
+    const entry = app.favoriteLibrary.items[articleKey];
+    const selectedFolderId = entry?.folderId || FAVORITES_UNCATEGORIZED_FOLDER;
+    const options = [
+        `<option value="" ${entry ? "" : "selected"}>添加到文件夹</option>`,
+        `<option value="${FAVORITES_UNCATEGORIZED_FOLDER}" ${selectedFolderId === FAVORITES_UNCATEGORIZED_FOLDER && entry ? "selected" : ""}>未分类</option>`,
+    ];
+    const append = (parentId = "", depth = 0) => {
+        for (const folder of getFolderChildren(parentId)) {
+            const prefix = depth ? `${"　".repeat(depth)}└ ` : "";
+            options.push(`<option value="${escapeHtml(folder.id)}" ${selectedFolderId === folder.id ? "selected" : ""}>${prefix}${escapeHtml(folder.name)}</option>`);
+            append(folder.id, depth + 1);
+        }
+    };
+    append();
+    return options.join("");
+}
+
+function renderArticleDetail(article, articleKey, queryActive) {
+    const doiUrl = buildDoiUrl(article.doi);
+    const abstract = article.abstract
+        ? `<p class="article-abstract">${escapeHtml(article.abstract)}</p>`
+        : '<p class="article-abstract muted">No abstract</p>';
+    return `
+        <div class="article-detail">
+            <div class="article-detail-inner">
+                ${abstract}
+                <div class="detail-actions">
+                    ${doiUrl ? `<a class="detail-link" href="${doiUrl}" target="_blank" rel="noreferrer">DOI</a>` : ""}
+                    <a class="detail-link" href="${buildScholarUrl(article.title)}" target="_blank" rel="noreferrer">Scholar</a>
+                    <select class="folder-select" data-folder-select="${escapeHtml(articleKey)}" aria-label="Add to folder">
+                        ${buildFavoriteFolderOptions(articleKey)}
+                    </select>
                 </div>
-                <h3 class="result-title">
-                    <button type="button" class="article-trigger" data-open-article="${escapeHtml(articleKey)}" data-nav-article="${escapeHtml(articleKey)}">${escapeHtml(row.title)}</button>
-                </h3>
-                <p class="result-authors">${escapeHtml(row.authors || "未知作者")}</p>
-                ${preview}
-                ${abstractBlock}
-                <div class="result-actions">
-                    <button type="button" class="result-link button-link" data-open-article="${escapeHtml(articleKey)}">查看详情</button>
-                    ${renderFavoriteButton(articleKey)}
-                    ${doiUrl ? `<a class="result-link" href="${doiUrl}" target="_blank" rel="noreferrer">打开 DOI</a>` : ""}
-                    <a class="result-link" href="${buildScholarUrl(row.title)}" target="_blank" rel="noreferrer">Google Scholar</a>
+                <div class="copy-actions">
+                    <button class="copy-button" type="button" data-copy-bibtex="${escapeHtml(articleKey)}">BibTeX</button>
+                    <button class="copy-button" type="button" data-copy-apa="${escapeHtml(articleKey)}">APA</button>
+                    <button class="copy-button" type="button" data-copy-ai="${escapeHtml(articleKey)}">AI prompt</button>
                 </div>
-            </article>
-        `;
-    }).join("");
-    syncActiveNavigationButtons();
-
-    dom.pagination.innerHTML = `
-        <div class="pagination-meta">第 ${app.state.page} / ${totalPages} 页 · 每页 ${PAGE_SIZE} 条</div>
-        <div class="pagination-controls">
-            <button class="ghost-btn" data-page-action="prev" ${app.state.page <= 1 ? "disabled" : ""}>上一页</button>
-            <button class="ghost-btn" data-page-action="next" ${app.state.page >= totalPages ? "disabled" : ""}>下一页</button>
+            </div>
         </div>
     `;
 }
 
-function renderActiveFilters() {
-    if (!dom.activeFilters) {
-        return;
-    }
-    const chips = [];
-    if (app.state.q.trim()) {
-        chips.push(`
-            <span class="filter-chip">
-                <strong>关键词</strong>
-                <span>${escapeHtml(app.state.q.trim())}</span>
-                <button type="button" data-clear-filter="query">清除</button>
-            </span>
-        `);
-    }
-    if (app.state.yearFrom || app.state.yearTo) {
-        chips.push(`
-            <span class="filter-chip">
-                <strong>年份</strong>
-                <span>${escapeHtml(app.state.yearFrom || "不限")} - ${escapeHtml(app.state.yearTo || "不限")}</span>
-                <button type="button" data-clear-filter="year">清除</button>
-            </span>
-        `);
-    }
-    if (app.state.journals.length) {
-        chips.push(`
-            <span class="filter-chip">
-                <strong>期刊</strong>
-                <span>${formatNumber(app.state.journals.length)} 本</span>
-                <button type="button" data-clear-filter="journals">清除</button>
-            </span>
-        `);
-    }
-    if (app.state.hasAbstractOnly) {
-        chips.push(`
-            <span class="filter-chip">
-                <strong>摘要</strong>
-                <span>只看有摘要</span>
-                <button type="button" data-clear-filter="abstract">清除</button>
-            </span>
-        `);
-    }
-    if (chips.length > 1) {
-        chips.push(`
-            <span class="filter-chip">
-                <strong>全部筛选</strong>
-                <button type="button" data-clear-filter="all">一键清空</button>
-            </span>
-        `);
-    }
-    dom.activeFilters.innerHTML = chips.join("");
-}
-
-async function renderSearchView() {
-    dom.searchInput.value = app.state.q;
-    dom.yearFrom.value = app.state.yearFrom;
-    dom.yearTo.value = app.state.yearTo;
-    dom.hasAbstractOnly.checked = app.state.hasAbstractOnly;
-    dom.journalFilterQuery.value = app.state.journalFacetQuery;
-    dom.sortSelect.value = app.state.sort;
-    renderJournalFilters();
-    renderActiveFilters();
-
-    if (app.engine === "fallback" && (app.state.q.trim() || app.state.journals.length || app.state.yearFrom || app.state.yearTo)) {
-        await ensureFallbackData();
-        renderEngineStatus();
-        renderDatasetMeta();
-        renderJournalFilters();
-    }
-
-    if (app.engine === "fallback" && !app.fallbackData && !app.state.q.trim() && !app.state.journals.length && !app.state.yearFrom && !app.state.yearTo) {
-        clearActiveNavigationSelection();
-        dom.searchNotice.innerHTML = `
-            <div class="notice-box warning">
-                ${escapeHtml(app.engineMessage)}
-                你现在可以直接进入“浏览”标签，或开始搜索时由页面按需加载备用 JSON 数据。
+function renderArticleRow(row, queryActive = false) {
+    const articleKey = rememberArticle(row);
+    const article = app.articleCache.get(articleKey);
+    const expanded = app.state.expandedKey === articleKey;
+    const favorite = isFavorite(articleKey);
+    return `
+        <article class="article-row" data-article-row="${escapeHtml(articleKey)}">
+            <div class="article-summary">
+                <button class="article-open" type="button" data-toggle-article="${escapeHtml(articleKey)}">
+                    <span class="article-title">${escapeHtml(article.title || "Untitled")}</span>
+                    <span class="article-authors">${escapeHtml(article.authors || "Unknown")}</span>
+                    <span class="article-meta">${escapeHtml(article.year || "Unknown")} · ${escapeHtml(journalLabel(article.journal || ""))}</span>
+                </button>
+                <button
+                    class="star-button ${favorite ? "is-active" : ""}"
+                    type="button"
+                    data-favorite-article="${escapeHtml(articleKey)}"
+                    aria-label="${favorite ? "Remove favorite" : "Add favorite"}"
+                    aria-pressed="${favorite ? "true" : "false"}"
+                >${favorite ? "★" : "☆"}</button>
             </div>
-        `;
-        dom.resultList.innerHTML = `
-            <div class="empty-state">
-                输入主题、作者或关键词开始搜索，例如 <code>"social mobility"</code>、<code>fertility NOT mortality</code>、<code>Wenbo Hu</code>。
-            </div>
-        `;
-        dom.pagination.innerHTML = "";
-        dom.resultSummary.textContent = "等待检索输入。";
-        return;
-    }
-
-    dom.searchNotice.innerHTML = app.engine === "sqlite"
-        ? `
-            <div class="notice-box">
-                搜索覆盖标题、摘要和作者。支持 SQLite FTS5 语法，例如 <code>"social mobility"</code>、<code>marriage OR cohabitation</code>、<code>educat*</code>。
-            </div>
-        `
-        : `
-            <div class="notice-box warning">
-                当前为备用 JSON 模式。${escapeHtml(app.engineMessage)} 基础搜索可用，但不支持完整 FTS5 语法和高亮排序。
-            </div>
-        `;
-
-    try {
-        const result = app.engine === "sqlite" ? searchWithDb() : filterFallbackRows();
-        renderResults(result);
-    } catch (error) {
-        console.error(error);
-        clearActiveNavigationSelection();
-        dom.resultSummary.textContent = "查询失败";
-        dom.resultList.innerHTML = `
-            <div class="empty-state">
-                查询语法可能有误。若你在用 FTS5 高级语法，先试试删掉多余括号或引号。
-            </div>
-        `;
-        dom.pagination.innerHTML = "";
-    }
-}
-
-function getBrowseJournals() {
-    return app.facets ?? [];
-}
-
-function getBrowseYearsFromDb(journal) {
-    return queryDb(`
-        SELECT year, COUNT(*) AS total
-        FROM articles_meta
-        WHERE journal = $journal
-        GROUP BY year
-        ORDER BY year DESC
-    `, { $journal: journal }).map((row) => ({
-        year: Number(row.year || 0),
-        total: Number(row.total || 0),
-    }));
-}
-
-function getBrowseArticlesFromDb(journal, year) {
-    return queryDb(`
-        SELECT
-            articles.title AS title,
-            articles.authors AS authors,
-            articles.doi AS doi,
-            articles.abstract AS abstract,
-            m.year AS year,
-            articles.journal AS journal
-        FROM articles
-        JOIN articles_meta m ON m.rowid = articles.rowid
-        WHERE m.journal = $journal
-          AND m.year = $year
-        ORDER BY articles.title COLLATE NOCASE ASC
-    `, {
-        $journal: journal,
-        $year: Number(year),
-    });
-}
-
-function getBrowseYearsFromFallback(journal) {
-    const counter = new Map();
-    for (const item of app.fallbackData) {
-        if ((item["Source Title"] || "") !== journal) {
-            continue;
-        }
-        const year = Number.parseInt(item["Publication Year"], 10);
-        if (Number.isNaN(year)) {
-            continue;
-        }
-        counter.set(year, (counter.get(year) || 0) + 1);
-    }
-    return [...counter.entries()]
-        .map(([year, total]) => ({ year, total }))
-        .sort((a, b) => b.year - a.year);
-}
-
-function getBrowseArticlesFromFallback(journal, year) {
-    return app.fallbackData
-        .filter((item) =>
-            item["Source Title"] === journal &&
-            Number.parseInt(item["Publication Year"], 10) === Number(year)
-        )
-        .map((item) => ({
-            title: item["Article Title"] || "无标题",
-            authors: item["Author Full Names"] || "未知作者",
-            doi: item["DOI"] || "",
-            abstract: item["Abstract"] || "",
-            year: Number(year),
-            journal,
-        }))
-        .sort((a, b) => a.title.localeCompare(b.title));
-}
-
-function renderBrowseJournals(journals) {
-    const query = normalizeText(app.state.browseJournalQuery);
-    const filtered = journals.filter((item) => !query || normalizeText(item.journal).includes(query));
-    if (dom.browseJournalSummary) {
-        const selectedLabel = app.state.browseJournal ? ` · 当前：${app.state.browseJournal}` : "";
-        dom.browseJournalSummary.textContent = query
-            ? `当前显示 ${formatNumber(filtered.length)} / ${formatNumber(journals.length)} 本期刊${selectedLabel}`
-            : `共 ${formatNumber(journals.length)} 本期刊，可按刊名快速过滤${selectedLabel}`;
-    }
-    if (!filtered.length) {
-        dom.journalRail.innerHTML = '<div class="sidebar-empty">没有匹配的期刊名。试试删掉一部分关键词。</div>';
-        return;
-    }
-    const activeJournal = filtered.find((item) => item.journal === app.state.browseJournal) || null;
-    const remaining = activeJournal
-        ? filtered.filter((item) => item.journal !== activeJournal.journal)
-        : filtered;
-    const renderedGroups = groupFacets()
-        .map((group) => ({
-            label: group.label,
-            items: remaining.filter((item) => group.items.some((facet) => facet.journal === item.journal)),
-        }))
-        .filter((group) => group.items.length);
-    const seen = new Set(renderedGroups.flatMap((group) => group.items.map((item) => item.journal)));
-    const others = remaining.filter((item) => !seen.has(item.journal));
-    if (others.length) {
-        renderedGroups.push({ label: "其他", items: others });
-    }
-    const renderJournalButton = (item) => `
-        <button class="journal-rail-btn ${app.state.browseJournal === item.journal ? "active" : ""}" data-browse-journal="${escapeHtml(item.journal)}">
-            <strong>${escapeHtml(item.journal)}</strong>
-            <span class="journal-rail-meta">
-                ${formatNumber(item.total)} 篇 · ${escapeHtml(item.minYear || "?")}-${escapeHtml(item.maxYear || "?")}
-            </span>
-        </button>
+            ${expanded ? renderArticleDetail(article, articleKey, queryActive) : ""}
+        </article>
     `;
-    const activeBlock = activeJournal ? `
-        <section class="journal-rail-group">
-            <div class="journal-rail-group-title">当前期刊</div>
-            ${renderJournalButton(activeJournal)}
-        </section>
-    ` : "";
-    dom.journalRail.innerHTML = activeBlock + renderedGroups.map((group) => `
-        <section class="journal-rail-group">
-            <div class="journal-rail-group-title">
-                <span>${escapeHtml(group.label)}</span>
-                <span class="facet-count">${formatNumber(group.items.length)} 本</span>
-            </div>
-            <div class="journal-rail-group-list">
-                ${group.items.map(renderJournalButton).join("")}
-            </div>
-        </section>
-    `).join("");
 }
 
-function renderBrowseYears(years) {
-    if (!app.state.browseJournal) {
-        dom.yearGrid.innerHTML = '<div class="empty-state">左侧先选一本期刊，再看年份分布。</div>';
+function renderArticleList(result) {
+    if (result.loading) {
+        dom.resultSummary.textContent = "Showing 0 articles";
+        dom.resultList.innerHTML = "";
+        dom.loadMoreRow.hidden = true;
         return;
     }
-    if (!years.length) {
-        dom.yearGrid.innerHTML = '<div class="empty-state">这本期刊暂时没有可用年份。</div>';
+    const shown = Math.min(result.rows.length, result.total);
+    dom.resultSummary.textContent = `Showing ${formatNumber(shown)} of ${formatNumber(result.total)} articles`;
+    if (!result.rows.length) {
+        dom.resultList.innerHTML = '<div class="empty-state">No articles found</div>';
+        dom.loadMoreRow.hidden = true;
+        renderArticleSchema(null);
         return;
     }
-    dom.yearGrid.innerHTML = years.map((item) => `
-        <button class="year-card ${String(app.state.browseYear) === String(item.year) ? "active" : ""}" data-browse-year="${item.year}">
-            <strong>${item.year} 年</strong>
-            <span class="muted">${formatNumber(item.total)} 篇文章</span>
-        </button>
-    `).join("");
+    const queryActive = Boolean(app.state.q.trim());
+    dom.resultList.innerHTML = result.rows.map((row) => renderArticleRow(row, queryActive)).join("");
+    dom.loadMoreRow.hidden = result.total <= app.state.visibleCount;
+    const activeArticle = app.state.expandedKey ? getArticleByKey(app.state.expandedKey) : null;
+    renderArticleSchema(activeArticle);
 }
 
-function renderBrowseArticles(articles) {
-    if (!app.state.browseYear) {
-        clearActiveNavigationSelection();
-        dom.articleList.innerHTML = '<div class="empty-state">选定年份后，这里会列出文章标题、作者、摘要和 DOI。</div>';
+async function renderMainView() {
+    dom.searchInput.value = app.state.q;
+    dom.searchModeSelect.value = app.state.searchMode;
+    renderLoading();
+    renderFilters();
+    renderSortMenu();
+    const sequence = ++renderSequence;
+    const result = await loadSearchResults();
+    if (sequence !== renderSequence || app.state.view !== "main") {
         return;
     }
-    if (!articles.length) {
-        clearActiveNavigationSelection();
-        dom.articleList.innerHTML = '<div class="empty-state">这一年暂时没有文章。</div>';
-        return;
-    }
-    dom.articleList.innerHTML = articles.map((row) => {
-        const articleKey = rememberArticle(row);
-        const doiUrl = buildDoiUrl(row.doi);
-        const preview = truncateText(row.abstract || "", 320);
+    renderArticleList(result);
+}
+
+function getFavoriteFolderLabel(folderId) {
+    if (folderId === FAVORITES_ALL_FOLDER) return "All";
+    if (folderId === FAVORITES_UNCATEGORIZED_FOLDER) return "未分类";
+    return getFolderPath(folderId) || "Folder";
+}
+
+function renderFavoriteFolderButton(id, label, count, depth = 0, hasChildren = false) {
+    const active = app.state.activeFavoriteFolderId === id;
+    const expanded = id === "" || app.state.expandedFavoriteFolders.has(id);
+    const expander = hasChildren
+        ? `<button class="folder-expander" type="button" data-toggle-folder="${escapeHtml(id)}" aria-label="Toggle folder">${expanded ? "▾" : "▸"}</button>`
+        : '<span class="folder-expander" aria-hidden="true"></span>';
+    return `
+        <div class="folder-row" style="--folder-depth: ${depth};" data-drop-folder="${escapeHtml(id)}">
+            ${expander}
+            <button class="folder-button ${active ? "active" : ""}" type="button" data-favorite-folder="${escapeHtml(id)}">
+                <span>${escapeHtml(label)}</span>
+                <span class="folder-count">${formatNumber(count)}</span>
+            </button>
+        </div>
+    `;
+}
+
+function renderFavoriteFolderNodes(parentId = "", depth = 0) {
+    return getFolderChildren(parentId).map((folder) => {
+        const children = getFolderChildren(folder.id);
+        const expanded = app.state.expandedFavoriteFolders.has(folder.id);
+        const childHtml = expanded ? renderFavoriteFolderNodes(folder.id, depth + 1) : "";
         return `
-            <article class="result-card">
-                <div class="result-topline">
-                    <span class="journal-tag">${escapeHtml(row.journal)}</span>
-                    <span>${escapeHtml(row.year)}</span>
-                    <span>${row.doi ? `DOI: ${escapeHtml(row.doi)}` : "无 DOI"}</span>
-                </div>
-                <h3 class="result-title">
-                    <button type="button" class="article-trigger" data-open-article="${escapeHtml(articleKey)}" data-nav-article="${escapeHtml(articleKey)}">${escapeHtml(row.title)}</button>
-                </h3>
-                <p class="result-authors">${escapeHtml(row.authors || "未知作者")}</p>
-                <p class="result-snippet">${escapeHtml(preview || "暂无摘要。")}</p>
-                <div class="result-actions">
-                    <button type="button" class="result-link button-link" data-open-article="${escapeHtml(articleKey)}">查看详情</button>
-                    ${renderFavoriteButton(articleKey)}
-                    ${doiUrl ? `<a class="result-link" href="${doiUrl}" target="_blank" rel="noreferrer">打开 DOI</a>` : ""}
-                    <a class="result-link" href="${buildScholarUrl(row.title)}" target="_blank" rel="noreferrer">Google Scholar</a>
-                </div>
-            </article>
+            ${renderFavoriteFolderButton(folder.id, folder.name, countItemsInFolder(folder.id), depth, children.length > 0)}
+            ${childHtml}
         `;
     }).join("");
-    syncActiveNavigationButtons();
 }
 
-function renderBrowseBreadcrumbs() {
-    const parts = [
-        `<button class="crumb ${!app.state.browseJournal ? "current" : ""}" data-browse-reset="all">全部期刊</button>`,
-    ];
-    if (app.state.browseJournal) {
-        parts.push("<span>/</span>");
-        parts.push(`<button class="crumb ${!app.state.browseYear ? "current" : ""}" data-browse-reset="journal">${escapeHtml(app.state.browseJournal)}</button>`);
-    }
-    if (app.state.browseYear) {
-        parts.push("<span>/</span>");
-        parts.push(`<button class="crumb current">${escapeHtml(app.state.browseYear)} 年</button>`);
-    }
-    dom.browseBreadcrumbs.innerHTML = parts.join("");
+function renderFavoriteFolderTree() {
+    const allCount = getFavoriteArticles(FAVORITES_ALL_FOLDER).length;
+    const uncategorizedCount = getFavoriteArticles(FAVORITES_UNCATEGORIZED_FOLDER).length;
+    dom.favoriteFolderTree.innerHTML = `
+        ${renderFavoriteFolderButton(FAVORITES_ALL_FOLDER, "All", allCount, 0, false)}
+        ${renderFavoriteFolderButton(FAVORITES_UNCATEGORIZED_FOLDER, "未分类", uncategorizedCount, 0, false)}
+        ${renderFavoriteFolderNodes()}
+    `;
 }
 
-async function renderBrowseView() {
-    if (app.engine === "fallback" && !app.fallbackData) {
-        await ensureFallbackData();
-        renderEngineStatus();
-        renderDatasetMeta();
-        renderJournalFilters();
-    }
-    dom.browseJournalQuery.value = app.state.browseJournalQuery;
-    const journals = getBrowseJournals();
-    const years = app.state.browseJournal
-        ? (app.engine === "sqlite"
-            ? getBrowseYearsFromDb(app.state.browseJournal)
-            : getBrowseYearsFromFallback(app.state.browseJournal))
-        : [];
-    const articles = app.state.browseJournal && app.state.browseYear
-        ? (app.engine === "sqlite"
-            ? getBrowseArticlesFromDb(app.state.browseJournal, app.state.browseYear)
-            : getBrowseArticlesFromFallback(app.state.browseJournal, app.state.browseYear))
-        : [];
+function renderFavoriteArticleRow(article) {
+    const articleKey = article._favoriteKey || rememberArticle(article);
+    const folderPath = article._folderId ? getFolderPath(article._folderId) : "未分类";
+    const doiUrl = buildDoiUrl(article.doi);
+    return `
+        <article class="favorite-row" draggable="true" data-drag-favorite="${escapeHtml(articleKey)}">
+            <div>
+                <p class="favorite-title">${escapeHtml(article.title || "Untitled")}</p>
+                <p class="favorite-meta">${escapeHtml(article.authors || "Unknown")}</p>
+                <p class="favorite-meta">${escapeHtml(article.year || "Unknown")} · ${escapeHtml(journalLabel(article.journal || ""))} · ${escapeHtml(folderPath)}</p>
+                <div class="copy-actions">
+                    ${doiUrl ? `<a class="detail-link" href="${doiUrl}" target="_blank" rel="noreferrer">DOI</a>` : ""}
+                    <button class="copy-button" type="button" data-copy-bibtex="${escapeHtml(articleKey)}">BibTeX</button>
+                    <button class="copy-button" type="button" data-copy-apa="${escapeHtml(articleKey)}">APA</button>
+                    <button class="copy-button" type="button" data-copy-ai="${escapeHtml(articleKey)}">AI prompt</button>
+                    <select class="folder-select" data-folder-select="${escapeHtml(articleKey)}" aria-label="Move favorite">
+                        ${buildFavoriteFolderOptions(articleKey)}
+                    </select>
+                </div>
+            </div>
+            <div class="favorite-actions">
+                <button class="star-button is-active" type="button" data-favorite-article="${escapeHtml(articleKey)}" aria-label="Remove favorite">★</button>
+            </div>
+        </article>
+    `;
+}
 
-    dom.browseStatus.innerHTML = app.engine === "sqlite"
-        ? '<div class="notice-box">浏览模式同样直接读取 SQLite 库，不再依赖同步加载的 <code>data.js</code>。</div>'
-        : `<div class="notice-box warning">当前浏览模式使用备用 JSON 数据。${escapeHtml(app.engineMessage)}</div>`;
-    renderBrowseBreadcrumbs();
-    renderBrowseJournals(journals);
-    renderBrowseYears(years);
-    renderBrowseArticles(articles);
+function renderSyncPanel() {
+    if (!dom.syncEndpoint) {
+        return;
+    }
+    const endpointActive = document.activeElement === dom.syncEndpoint;
+    const keyActive = document.activeElement === dom.syncKey;
+    if (!endpointActive) {
+        dom.syncEndpoint.value = app.sync.endpoint;
+    }
+    if (!keyActive) {
+        dom.syncKey.value = app.sync.key;
+    }
+    const settingsReady = Boolean(app.sync.endpoint && app.sync.key);
+    dom.syncSave.disabled = app.sync.busy;
+    dom.syncPull.disabled = app.sync.busy || !settingsReady;
+    dom.syncPush.disabled = app.sync.busy || !settingsReady;
+    dom.syncStatus.textContent = app.sync.status;
+}
+
+function renderFavoritesView() {
+    renderSyncPanel();
+    renderFavoriteFolderTree();
+    const folderId = app.state.activeFavoriteFolderId || FAVORITES_ALL_FOLDER;
+    const articles = getFavoriteArticles(folderId);
+    dom.favoritesSummary.textContent = `${formatNumber(articles.length)} articles · ${getFavoriteFolderLabel(folderId)}`;
+    dom.renameFavoriteFolder.disabled = folderId === FAVORITES_ALL_FOLDER || folderId === FAVORITES_UNCATEGORIZED_FOLDER;
+    dom.deleteFavoriteFolder.disabled = dom.renameFavoriteFolder.disabled;
+    dom.exportFavoritesBibtex.disabled = articles.length === 0;
+    dom.exportFavoritesCsv.disabled = articles.length === 0;
+    dom.exportFavoritesJson.disabled = articles.length === 0;
+    dom.exportMenu.hidden = !app.state.exportOpen;
+    dom.exportToggle.setAttribute("aria-expanded", app.state.exportOpen ? "true" : "false");
+    dom.favoritesList.innerHTML = articles.length
+        ? articles.map(renderFavoriteArticleRow).join("")
+        : '<div class="empty-state">No articles found</div>';
+}
+
+async function renderAuthorsView() {
+    dom.authorMinInput.value = app.state.authorMin;
+    try {
+        await ensureAuthorIndex();
+    } catch (error) {
+        console.error(error);
+        dom.authorsSummary.textContent = "0 authors";
+        dom.authorList.innerHTML = '<div class="empty-state">No articles found</div>';
+        return;
+    }
+    const authors = (app.authorIndex?.authors || [])
+        .filter((author) => Number(author.count || 0) >= app.state.authorMin)
+        .sort((a, b) =>
+            Number(b.count || 0) - Number(a.count || 0) ||
+            String(a.name || "").localeCompare(String(b.name || ""))
+        );
+    dom.authorsSummary.textContent = `${formatNumber(authors.length)} authors`;
+    dom.authorList.innerHTML = authors.map((author) => {
+        const mainJournal = author.journals?.[0]?.journal || "";
+        return `
+            <button class="author-row" type="button" data-author-name="${escapeHtml(author.name || "")}">
+                <span>
+                    <span class="author-name">${escapeHtml(author.name || "Unknown")}</span>
+                    <span class="author-meta">${formatNumber(author.count)} · ${escapeHtml(journalLabel(mainJournal))}</span>
+                </span>
+                <span class="author-count">${formatNumber(author.count)}</span>
+            </button>
+        `;
+    }).join("") || '<div class="empty-state">No articles found</div>';
 }
 
 async function renderAll() {
-    renderTabs();
-    renderEngineStatus();
-    renderDatasetMeta();
-    renderDisciplinePresets();
-    renderQuickSearches();
-    renderDashboardVisibility();
-    renderDashboard();
-    if (app.state.mode === "search") {
-        await renderSearchView();
-    } else {
-        await renderBrowseView();
+    renderViews();
+    renderTopbar();
+    renderJournalPills();
+    if (app.state.view === "main") {
+        await renderMainView();
+    } else if (app.state.view === "favorites") {
+        renderLoading();
+        renderFavoritesView();
+    } else if (app.state.view === "authors") {
+        renderLoading();
+        await renderAuthorsView();
     }
-    await renderArticleModal();
-    renderFavoritesModal();
-    syncUrl();
 }
 
-function resetSearchFilters() {
-    app.state.journals = [];
-    app.state.journalFacetQuery = "";
-    app.state.yearFrom = "";
-    app.state.yearTo = "";
-    app.state.hasAbstractOnly = false;
-    app.state.sort = "relevance";
-    app.state.page = 1;
-    clearActiveNavigationSelection();
+function resetResultWindow() {
+    app.state.visibleCount = PAGE_SIZE;
+    app.state.expandedKey = "";
 }
 
-async function toggleFavoriteByKey(articleKey) {
-    if (!articleKey) {
-        return;
-    }
-    toggleFavorite(articleKey);
+async function setView(view) {
+    app.state.view = view;
+    app.state.sortOpen = false;
+    app.state.exportOpen = false;
     await renderAll();
 }
 
+async function updateSearchFromInput() {
+    app.state.q = dom.searchInput.value;
+    resetResultWindow();
+    await renderAll();
+}
+
+function queueSearchRender() {
+    window.clearTimeout(searchDebounceId);
+    searchDebounceId = window.setTimeout(updateSearchFromInput, 300);
+}
+
+async function copyArticleByKey(articleKey, kind) {
+    const article = getArticleByKey(articleKey);
+    if (!article) {
+        return;
+    }
+    if (kind === "bibtex") {
+        await copyText(formatBibtex(article));
+    } else if (kind === "apa") {
+        await copyText(formatApa(article));
+    } else if (kind === "ai") {
+        await copyText(buildAiPrompt(article));
+    }
+}
+
+function exportCurrentFavorites(kind) {
+    const folderId = app.state.activeFavoriteFolderId;
+    if (kind === "bibtex") {
+        const text = buildFavoritesBibtex(folderId);
+        if (text) downloadTextFile(buildExportFilename("bib"), text, "application/x-bibtex;charset=utf-8");
+    } else if (kind === "csv") {
+        const text = buildFavoritesCsv(folderId);
+        if (text) downloadTextFile(buildExportFilename("csv"), text, "text/csv;charset=utf-8");
+    } else if (kind === "json") {
+        const text = buildFavoritesJson(folderId);
+        if (text) downloadTextFile(buildExportFilename("json"), text, "application/json;charset=utf-8");
+    }
+}
+
 function bindEvents() {
-    dom.themeToggle.addEventListener("click", () => {
-        const nextTheme = app.theme === "dark" ? "light" : "dark";
-        writeStorage(THEME_STORAGE_KEY, nextTheme);
-        applyTheme(nextTheme);
+    dom.searchForm.addEventListener("submit", (event) => {
+        event.preventDefault();
     });
 
-    dom.dashboardToggle.addEventListener("click", async () => {
-        app.state.dashboardOpen = !app.state.dashboardOpen;
+    dom.searchInput.addEventListener("input", queueSearchRender);
+
+    dom.searchModeSelect.addEventListener("change", async () => {
+        app.state.searchMode = dom.searchModeSelect.value;
+        resetResultWindow();
         await renderAll();
-        if (app.state.dashboardOpen) {
-            dom.dashboardPanel.scrollIntoView({ block: "start", behavior: "smooth" });
-        }
     });
 
-    dom.dashboardClose.addEventListener("click", async () => {
-        app.state.dashboardOpen = false;
+    dom.themeToggle.addEventListener("click", async () => {
+        applyTheme(app.theme === "dark" ? "light" : "dark");
+        writeStorage(THEME_STORAGE_KEY, app.theme);
         await renderAll();
     });
 
     dom.favoritesToggle.addEventListener("click", async () => {
-        if (app.state.favoritesOpen) {
-            closeFavoritesModalState();
+        await setView(app.state.view === "favorites" ? "main" : "favorites");
+    });
+
+    dom.authorsLink.addEventListener("click", async () => {
+        await setView("authors");
+    });
+
+    dom.favoritesBack.addEventListener("click", async () => {
+        await setView("main");
+    });
+
+    dom.authorsBack.addEventListener("click", async () => {
+        await setView("main");
+    });
+
+    dom.journalPills.addEventListener("click", async (event) => {
+        const button = event.target.closest("[data-journal-pill]");
+        if (!button) {
+            return;
+        }
+        const journal = button.dataset.journalPill;
+        if (journal === "__all__") {
+            app.state.journals = [];
         } else {
-            openFavoritesModalState();
+            const next = new Set(app.state.journals);
+            if (next.has(journal)) {
+                next.delete(journal);
+            } else {
+                next.add(journal);
+            }
+            app.state.journals = [...next];
         }
+        resetResultWindow();
         await renderAll();
     });
 
-    dom.disciplineGrid.addEventListener("click", async (event) => {
-        const button = event.target.closest("[data-discipline-filter]");
+    dom.filtersToggle.addEventListener("click", async () => {
+        app.state.filtersOpen = !app.state.filtersOpen;
+        await renderAll();
+    });
+
+    dom.selectedJournalList.addEventListener("click", async (event) => {
+        const button = event.target.closest("[data-remove-journal]");
         if (!button) {
             return;
         }
-        const group = JOURNAL_GROUPS.find((item) => item.label === button.dataset.disciplineFilter);
-        if (!group) {
-            return;
-        }
-        closeArticleModalState();
-        closeFavoritesModalState();
-        app.state.mode = "search";
-        app.state.journals = getAvailableJournalsForGroup(group);
-        app.state.page = 1;
-        clearActiveNavigationSelection();
-        await renderAll();
-        dom.searchInput.focus();
-        dom.searchInput.scrollIntoView({ block: "center", behavior: "smooth" });
-    });
-
-    dom.tabbar.addEventListener("click", async (event) => {
-        const button = event.target.closest("[data-mode]");
-        if (!button) {
-            return;
-        }
-        app.state.mode = button.dataset.mode;
-        clearActiveNavigationSelection();
-        await renderAll();
-    });
-
-    dom.searchForm.addEventListener("submit", async (event) => {
-        event.preventDefault();
-        app.state.q = dom.searchInput.value;
-        app.state.page = 1;
-        clearActiveNavigationSelection();
-        await renderAll();
-    });
-
-    dom.searchInput.addEventListener("input", () => {
-        clearTimeout(searchDebounceId);
-        searchDebounceId = setTimeout(async () => {
-            app.state.q = dom.searchInput.value;
-            app.state.page = 1;
-            clearActiveNavigationSelection();
-            await renderAll();
-        }, 240);
-    });
-
-    dom.journalFilterQuery.addEventListener("input", async () => {
-        app.state.journalFacetQuery = dom.journalFilterQuery.value;
-        await renderAll();
-    });
-
-    dom.quickSearches.addEventListener("click", async (event) => {
-        const button = event.target.closest("[data-quick-query]");
-        if (!button) {
-            return;
-        }
-        app.state.mode = "search";
-        app.state.q = button.dataset.quickQuery || "";
-        dom.searchInput.value = app.state.q;
-        app.state.page = 1;
-        clearActiveNavigationSelection();
-        await renderAll();
-        dom.searchInput.focus();
-        dom.searchInput.setSelectionRange(dom.searchInput.value.length, dom.searchInput.value.length);
-    });
-
-    dom.sortSelect.addEventListener("change", async () => {
-        app.state.sort = dom.sortSelect.value;
-        app.state.page = 1;
-        clearActiveNavigationSelection();
+        app.state.journals = app.state.journals.filter((journal) => journal !== button.dataset.removeJournal);
+        resetResultWindow();
         await renderAll();
     });
 
     dom.yearFrom.addEventListener("change", async () => {
         app.state.yearFrom = dom.yearFrom.value;
-        app.state.page = 1;
-        clearActiveNavigationSelection();
+        resetResultWindow();
         await renderAll();
     });
 
     dom.yearTo.addEventListener("change", async () => {
         app.state.yearTo = dom.yearTo.value;
-        app.state.page = 1;
-        clearActiveNavigationSelection();
+        resetResultWindow();
         await renderAll();
     });
 
     dom.hasAbstractOnly.addEventListener("change", async () => {
         app.state.hasAbstractOnly = dom.hasAbstractOnly.checked;
-        app.state.page = 1;
-        clearActiveNavigationSelection();
+        resetResultWindow();
         await renderAll();
     });
 
-    dom.filterContainer.addEventListener("change", async (event) => {
-        const checkbox = event.target.closest("[data-journal-filter]");
-        if (!checkbox) {
-            return;
-        }
-        const journal = checkbox.dataset.journalFilter;
-        const next = new Set(app.state.journals);
-        if (checkbox.checked) {
-            next.add(journal);
-        } else {
-            next.delete(journal);
-        }
-        app.state.journals = [...next];
-        app.state.page = 1;
-        clearActiveNavigationSelection();
+    dom.sortToggle.addEventListener("click", async () => {
+        app.state.sortOpen = !app.state.sortOpen;
         await renderAll();
     });
 
-    dom.filterContainer.addEventListener("click", async (event) => {
-        const removeButton = event.target.closest("[data-remove-journal]");
-        if (removeButton) {
-            app.state.journals = app.state.journals.filter((journal) => journal !== removeButton.dataset.removeJournal);
-            app.state.page = 1;
-            clearActiveNavigationSelection();
-            await renderAll();
-            return;
-        }
-        const clearButton = event.target.closest("[data-clear-filter]");
-        if (clearButton?.dataset.clearFilter === "journals") {
-            app.state.journals = [];
-            app.state.page = 1;
-            clearActiveNavigationSelection();
-            await renderAll();
-        }
-    });
-
-    dom.clearFilters.addEventListener("click", async () => {
-        resetSearchFilters();
-        await renderAll();
-    });
-
-    dom.clearQuery.addEventListener("click", async () => {
-        app.state.q = "";
-        app.state.page = 1;
-        dom.searchInput.value = "";
-        clearActiveNavigationSelection();
-        await renderAll();
-    });
-
-    dom.activeFilters.addEventListener("click", async (event) => {
-        const button = event.target.closest("[data-clear-filter]");
+    dom.sortMenu.addEventListener("click", async (event) => {
+        const button = event.target.closest("[data-sort-value]");
         if (!button) {
             return;
         }
-        const kind = button.dataset.clearFilter;
-        if (kind === "query") {
-            app.state.q = "";
-            dom.searchInput.value = "";
-        } else if (kind === "year") {
-            app.state.yearFrom = "";
-            app.state.yearTo = "";
-        } else if (kind === "journals") {
-            app.state.journals = [];
-        } else if (kind === "abstract") {
-            app.state.hasAbstractOnly = false;
-        } else if (kind === "all") {
-            app.state.q = "";
-            dom.searchInput.value = "";
-            resetSearchFilters();
-        }
-        app.state.page = 1;
-        clearActiveNavigationSelection();
+        app.state.sort = button.dataset.sortValue;
+        app.state.sortOpen = false;
+        resetResultWindow();
         await renderAll();
     });
 
-    dom.pagination.addEventListener("click", async (event) => {
-        const button = event.target.closest("[data-page-action]");
-        if (!button || button.disabled) {
-            return;
-        }
-        app.state.page += button.dataset.pageAction === "next" ? 1 : -1;
-        app.state.page = Math.max(1, app.state.page);
-        clearActiveNavigationSelection();
-        await renderAll();
-        window.scrollTo({ top: 0, behavior: "smooth" });
-    });
-
-    const openArticleFromTrigger = async (event) => {
-        const trigger = event.target.closest("[data-open-article]");
-        if (!trigger) {
-            return;
-        }
-        const article = app.articleCache.get(trigger.dataset.openArticle);
-        if (!article) {
-            return;
-        }
-        setActiveNavigationKey(trigger.dataset.openArticle);
-        openArticleModalState(article);
-        await renderAll();
-    };
-
-    const favoriteFromTrigger = async (event) => {
-        const trigger = event.target.closest("[data-favorite-article]");
-        if (!trigger) {
-            return;
-        }
-        setActiveNavigationKey(trigger.dataset.favoriteArticle);
-        await toggleFavoriteByKey(trigger.dataset.favoriteArticle);
-    };
-
-    dom.resultList.addEventListener("click", openArticleFromTrigger);
-    dom.articleList.addEventListener("click", openArticleFromTrigger);
-    dom.resultList.addEventListener("click", favoriteFromTrigger);
-    dom.articleList.addEventListener("click", favoriteFromTrigger);
-
-    dom.journalRail.addEventListener("click", async (event) => {
-        const button = event.target.closest("[data-browse-journal]");
-        if (!button) {
-            return;
-        }
-        app.state.browseJournal = button.dataset.browseJournal;
-        app.state.browseYear = "";
-        clearActiveNavigationSelection();
-        await renderAll();
-    });
-
-    dom.browseJournalQuery.addEventListener("input", async () => {
-        app.state.browseJournalQuery = dom.browseJournalQuery.value;
-        await renderAll();
-    });
-
-    dom.yearGrid.addEventListener("click", async (event) => {
-        const button = event.target.closest("[data-browse-year]");
-        if (!button) {
-            return;
-        }
-        app.state.browseYear = button.dataset.browseYear;
-        clearActiveNavigationSelection();
-        await renderAll();
-    });
-
-    dom.browseBreadcrumbs.addEventListener("click", async (event) => {
-        const button = event.target.closest("[data-browse-reset]");
-        if (!button) {
-            return;
-        }
-        if (button.dataset.browseReset === "all") {
-            app.state.browseJournal = "";
-            app.state.browseYear = "";
-        } else {
-            app.state.browseYear = "";
-        }
-        clearActiveNavigationSelection();
-        await renderAll();
-    });
-
-    dom.browseReset.addEventListener("click", async () => {
-        app.state.browseJournal = "";
-        app.state.browseYear = "";
-        clearActiveNavigationSelection();
-        await renderAll();
-    });
-
-    dom.modal.addEventListener("click", async (event) => {
-        if (event.target.closest("[data-close-modal]") || event.target.closest("#modal-close")) {
-            closeArticleModalState();
-            await renderAll();
-            return;
-        }
-
+    dom.resultList.addEventListener("click", async (event) => {
         const favoriteButton = event.target.closest("[data-favorite-article]");
         if (favoriteButton) {
-            await toggleFavoriteByKey(favoriteButton.dataset.favoriteArticle);
+            event.stopPropagation();
+            toggleFavoriteByKey(favoriteButton.dataset.favoriteArticle);
+            await renderAll();
             return;
         }
 
-        const copyCitationButton = event.target.closest("[data-copy-citation]");
-        if (copyCitationButton) {
-            const citationKind = copyCitationButton.dataset.copyCitation;
-            const citationMap = {
-                bibtex: dom.citationBibtex.textContent,
-                apa: dom.citationApa.textContent,
-                mla: dom.citationMla.textContent,
-            };
-            const citation = citationMap[citationKind];
-            if (citation) {
-                await copyText(citation);
-            }
+        const toggleButton = event.target.closest("[data-toggle-article]");
+        if (toggleButton) {
+            const key = toggleButton.dataset.toggleArticle;
+            app.state.expandedKey = app.state.expandedKey === key ? "" : key;
+            await renderAll();
             return;
         }
 
-        const copyLinkButton = event.target.closest("[data-copy-link]");
-        if (copyLinkButton) {
-            await copyText(dom.modal.dataset.shareUrl || window.location.href);
+        const copyBibtex = event.target.closest("[data-copy-bibtex]");
+        const copyApa = event.target.closest("[data-copy-apa]");
+        const copyAi = event.target.closest("[data-copy-ai]");
+        if (copyBibtex) await copyArticleByKey(copyBibtex.dataset.copyBibtex, "bibtex");
+        if (copyApa) await copyArticleByKey(copyApa.dataset.copyApa, "apa");
+        if (copyAi) await copyArticleByKey(copyAi.dataset.copyAi, "ai");
+    });
+
+    dom.resultList.addEventListener("change", async (event) => {
+        const select = event.target.closest("[data-folder-select]");
+        if (!select || !select.value) {
             return;
         }
+        moveFavoriteToFolder(select.dataset.folderSelect, select.value);
+        await renderAll();
+    });
 
-        const copyAiPromptButton = event.target.closest("[data-copy-ai-prompt]");
-        if (copyAiPromptButton) {
-            await copyText(dom.modal.dataset.aiPrompt || "");
+    dom.loadMore.addEventListener("click", async () => {
+        app.state.visibleCount += PAGE_SIZE;
+        await renderAll();
+    });
+
+    dom.exportToggle.addEventListener("click", async () => {
+        app.state.exportOpen = !app.state.exportOpen;
+        await renderAll();
+    });
+
+    dom.exportFavoritesBibtex.addEventListener("click", () => exportCurrentFavorites("bibtex"));
+    dom.exportFavoritesCsv.addEventListener("click", () => exportCurrentFavorites("csv"));
+    dom.exportFavoritesJson.addEventListener("click", () => exportCurrentFavorites("json"));
+
+    dom.syncEndpoint.addEventListener("input", () => {
+        app.sync.endpoint = normalizeSyncEndpoint(dom.syncEndpoint.value);
+        renderSyncPanel();
+    });
+
+    dom.syncKey.addEventListener("input", () => {
+        app.sync.key = dom.syncKey.value;
+        renderSyncPanel();
+    });
+
+    dom.syncSave.addEventListener("click", () => {
+        saveSyncSettings();
+    });
+
+    dom.syncPull.addEventListener("click", pullFavoritesFromCloud);
+    dom.syncPush.addEventListener("click", pushFavoritesToCloud);
+
+    dom.createFavoriteFolder.addEventListener("click", async () => {
+        const folder = ensureFavoriteFolderPath(dom.favoriteFolderPath.value);
+        if (folder) {
+            app.state.activeFavoriteFolderId = folder.id;
+            app.state.expandedFavoriteFolders.add(folder.parentId || "");
+            dom.favoriteFolderPath.value = "";
+        }
+        await renderAll();
+    });
+
+    dom.renameFavoriteFolder.addEventListener("click", async () => {
+        const folder = getFolderById(app.state.activeFavoriteFolderId);
+        if (!folder) {
+            return;
+        }
+        const nextName = window.prompt("Rename", folder.name);
+        if (nextName !== null) {
+            renameFavoriteFolder(folder.id, nextName);
+            await renderAll();
         }
     });
 
-    dom.favoritesModal.addEventListener("click", async (event) => {
-        if (event.target.closest("[data-close-favorites]") || event.target.closest("#favorites-close")) {
-            closeFavoritesModalState();
+    dom.deleteFavoriteFolder.addEventListener("click", async () => {
+        if (deleteFavoriteFolder(app.state.activeFavoriteFolderId)) {
             await renderAll();
-            return;
         }
+    });
 
-        const openTrigger = event.target.closest("[data-open-article]");
-        if (openTrigger) {
-            const article = app.articleCache.get(openTrigger.dataset.openArticle);
-            if (!article) {
-                return;
+    dom.favoriteFolderTree.addEventListener("click", async (event) => {
+        const toggle = event.target.closest("[data-toggle-folder]");
+        if (toggle) {
+            const id = toggle.dataset.toggleFolder;
+            if (app.state.expandedFavoriteFolders.has(id)) {
+                app.state.expandedFavoriteFolders.delete(id);
+            } else {
+                app.state.expandedFavoriteFolders.add(id);
             }
-            closeFavoritesModalState();
-            setActiveNavigationKey(openTrigger.dataset.openArticle);
-            openArticleModalState(article);
             await renderAll();
             return;
         }
+        const folderButton = event.target.closest("[data-favorite-folder]");
+        if (!folderButton) {
+            return;
+        }
+        app.state.activeFavoriteFolderId = folderButton.dataset.favoriteFolder;
+        await renderAll();
+    });
 
+    dom.favoriteFolderTree.addEventListener("dragover", (event) => {
+        if (event.target.closest("[data-drop-folder]")) {
+            event.preventDefault();
+        }
+    });
+
+    dom.favoriteFolderTree.addEventListener("drop", async (event) => {
+        const target = event.target.closest("[data-drop-folder]");
+        if (!target || !app.state.draggingFavoriteKey) {
+            return;
+        }
+        event.preventDefault();
+        const folderId = target.dataset.dropFolder;
+        moveFavoriteToFolder(app.state.draggingFavoriteKey, folderId);
+        app.state.draggingFavoriteKey = "";
+        await renderAll();
+    });
+
+    dom.favoritesList.addEventListener("dragstart", (event) => {
+        const row = event.target.closest("[data-drag-favorite]");
+        if (!row) {
+            return;
+        }
+        app.state.draggingFavoriteKey = row.dataset.dragFavorite;
+        event.dataTransfer.effectAllowed = "move";
+    });
+
+    dom.favoritesList.addEventListener("click", async (event) => {
         const favoriteButton = event.target.closest("[data-favorite-article]");
         if (favoriteButton) {
-            await toggleFavoriteByKey(favoriteButton.dataset.favoriteArticle);
+            toggleFavoriteByKey(favoriteButton.dataset.favoriteArticle);
+            await renderAll();
+            return;
         }
+
+        const copyBibtex = event.target.closest("[data-copy-bibtex]");
+        const copyApa = event.target.closest("[data-copy-apa]");
+        const copyAi = event.target.closest("[data-copy-ai]");
+        if (copyBibtex) await copyArticleByKey(copyBibtex.dataset.copyBibtex, "bibtex");
+        if (copyApa) await copyArticleByKey(copyApa.dataset.copyApa, "apa");
+        if (copyAi) await copyArticleByKey(copyAi.dataset.copyAi, "ai");
     });
 
-    dom.copyFavoritesBibtex.addEventListener("click", async () => {
-        const bibtex = buildFavoritesBibtex();
-        if (bibtex) {
-            await copyText(bibtex);
+    dom.favoritesList.addEventListener("change", async (event) => {
+        const select = event.target.closest("[data-folder-select]");
+        if (!select || !select.value) {
+            return;
         }
-    });
-
-    dom.exportFavoritesBibtex.addEventListener("click", () => {
-        const bibtex = buildFavoritesBibtex();
-        if (bibtex) {
-            downloadTextFile(buildExportFilename("bib"), bibtex, "application/x-bibtex;charset=utf-8");
-        }
-    });
-
-    dom.exportFavoritesCsv.addEventListener("click", () => {
-        const csv = buildFavoritesCsv();
-        if (csv) {
-            downloadTextFile(buildExportFilename("csv"), csv, "text/csv;charset=utf-8");
-        }
-    });
-
-    dom.clearFavorites.addEventListener("click", async () => {
-        app.favorites.clear();
-        saveFavoritesToStorage();
+        moveFavoriteToFolder(select.dataset.folderSelect, select.value);
         await renderAll();
+    });
+
+    dom.authorMinInput.addEventListener("change", async () => {
+        app.state.authorMin = Math.max(1, Number(dom.authorMinInput.value || 10));
+        await renderAll();
+    });
+
+    dom.authorList.addEventListener("click", async (event) => {
+        const button = event.target.closest("[data-author-name]");
+        if (!button) {
+            return;
+        }
+        app.state.q = button.dataset.authorName;
+        app.state.searchMode = "author";
+        resetResultWindow();
+        await setView("main");
+        dom.searchInput.focus();
+        dom.searchInput.setSelectionRange(dom.searchInput.value.length, dom.searchInput.value.length);
+    });
+
+    document.addEventListener("click", async (event) => {
+        const insideSort = event.target.closest("#sort-toggle") || event.target.closest("#sort-menu");
+        const insideExport = event.target.closest("#export-toggle") || event.target.closest("#export-menu");
+        let needsRender = false;
+        if (!insideSort && app.state.sortOpen) {
+            app.state.sortOpen = false;
+            needsRender = true;
+        }
+        if (!insideExport && app.state.exportOpen) {
+            app.state.exportOpen = false;
+            needsRender = true;
+        }
+        if (needsRender) {
+            await renderAll();
+        }
     });
 
     document.addEventListener("keydown", async (event) => {
@@ -2607,73 +2218,42 @@ function bindEvents() {
             document.activeElement &&
             document.activeElement !== dom.searchInput &&
             (activeTag === "INPUT" || activeTag === "TEXTAREA" || activeTag === "SELECT" || document.activeElement.isContentEditable);
-        if (event.key === "Escape" && !dom.favoritesModal.classList.contains("hidden")) {
-            closeFavoritesModalState();
-            await renderAll();
-            return;
-        }
-        if (event.key === "Escape" && !dom.modal.classList.contains("hidden")) {
-            closeArticleModalState();
-            await renderAll();
-            return;
-        }
-        if (event.key === "/" && document.activeElement !== dom.searchInput && dom.modal.classList.contains("hidden") && dom.favoritesModal.classList.contains("hidden")) {
+
+        if (event.key === "/" && !editingElsewhere) {
             event.preventDefault();
-            app.state.mode = "search";
+            app.state.view = "main";
             await renderAll();
             dom.searchInput.focus();
+            return;
         }
-        if ((event.key === "ArrowDown" || event.key === "ArrowUp") && !editingElsewhere && dom.modal.classList.contains("hidden")) {
-            const moved = moveActiveNavigation(event.key === "ArrowDown" ? 1 : -1);
-            if (moved) {
-                event.preventDefault();
-            }
-        }
-        if (event.key === "Enter" && document.activeElement === dom.searchInput && app.state.activeResultKey && dom.modal.classList.contains("hidden")) {
-            const article = app.articleCache.get(app.state.activeResultKey);
-            if (article) {
-                event.preventDefault();
-                openArticleModalState(article);
+
+        if (event.key === "Escape") {
+            if (app.state.sortOpen || app.state.exportOpen || app.state.filtersOpen || app.state.expandedKey) {
+                app.state.sortOpen = false;
+                app.state.exportOpen = false;
+                app.state.filtersOpen = false;
+                app.state.expandedKey = "";
                 await renderAll();
-                return;
+            } else if (document.activeElement === dom.searchInput) {
+                dom.searchInput.blur();
             }
         }
-        if (event.key === "Escape" && document.activeElement === dom.searchInput) {
-            dom.searchInput.blur();
-        } else if (event.key === "Escape" && app.state.activeResultKey) {
-            clearActiveNavigationSelection();
-            syncActiveNavigationButtons();
-        }
-    });
-
-    window.addEventListener("hashchange", async () => {
-        const activeDoi = parseArticleHash();
-        closeFavoritesModalState();
-        if (!activeDoi) {
-            closeArticleModalState();
-        } else {
-            app.state.activeArticleDoi = activeDoi;
-            app.state.activeArticleKey = `doi:${activeDoi.toLowerCase()}`;
-        }
-        await renderAll();
-    });
-
-    window.addEventListener("popstate", async () => {
-        hydrateStateFromUrl();
-        await renderAll();
     });
 }
 
 async function init() {
     cacheDom();
     loadClientPreferences();
-    hydrateStateFromUrl();
     bindEvents();
-    renderTabs();
-    renderEngineStatus();
-    renderDatasetMeta();
-    await initDataSources();
+    app.state.expandedFavoriteFolders.add("");
     await renderAll();
+    window.setTimeout(() => dom.searchInput.focus({ preventScroll: true }), 0);
+    try {
+        await initDataSources();
+    } finally {
+        await renderAll();
+        window.setTimeout(() => dom.searchInput.focus({ preventScroll: true }), 0);
+    }
 }
 
 window.addEventListener("DOMContentLoaded", init);

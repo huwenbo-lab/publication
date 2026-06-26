@@ -1,6 +1,6 @@
 # Journal of Family Issues — 文章标题索引
 
-共 **2268** 篇 | 年份范围：1981–2026
+共 **2359** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -19,6 +19,23 @@
 - The Well-Being Implications of Having Children: Evidence From Chinese National Surveys · [DOI](https://doi.org/10.1177/0192513X251370665)
 - Understanding Military Motherhood: How the Armed Forces' Childcare and Family Leave Policies Impact Servicewomen with Young Children · [DOI](https://doi.org/10.1177/0192513X251366623)
 - Understanding the Dynamics of Family Harmony With ASD Children: A Grounded Theory Approach · [DOI](https://doi.org/10.1177/0192513X251362452)
+- Latent Class of Child-Rearing Values and Their Relationships With Fertility · [DOI](https://doi.org/10.1177/0192513x251415517)
+- Mothering Black Adolescents: Personal and Adolescent-Experienced Racial Discrimination, Superwoman Schema, and Black American Mothers’ Mental Health · [DOI](https://doi.org/10.1177/0192513x261419151)
+- “Me Siento Mal”: Mexican and Central American Immigrants’ Narratives on the Emotional Costs of Extended Parental Separation · [DOI](https://doi.org/10.1177/0192513x251414624)
+- Presence Matters: Perceptions of Emotional and Social Involvement of Black Fathers · [DOI](https://doi.org/10.1177/0192513x251414617)
+- The Relationship Between Family Socio-Economic Status and Preschool Children’s Social Competence: The Chain Mediating Role of Family Internal Support and Children’s Empathy · [DOI](https://doi.org/10.1177/0192513x261423891)
+- Through Their Eyes: “My Mother Hit Me Because I’m a Girl…” The Looking-Glass Self and Parents’ Perception of Childhood Maltreatment · [DOI](https://doi.org/10.1177/0192513x261418731)
+- Acculturation and Resilience Influences from the Latino Fathers’ Perspective · [DOI](https://doi.org/10.1177/0192513x251414622)
+- The Politics of the Home: How Family Labour Division, Patriarchy, and Kinship Reproduce Gender Inequality · [DOI](https://doi.org/10.1177/0192513x261459395)
+- How Child and Partnership Characteristics Influence Paternal Involvement · [DOI](https://doi.org/10.1177/0192513x261427676)
+- Subjective Well-Being of Children and Caregivers: The Role of Caregiver Traits and Socioeconomic Pressures in Ethiopia · [DOI](https://doi.org/10.1177/0192513x261459378)
+- Resilience Among African American Adolescent Girls Navigating Fatherlessness: A Qualitative Inquiry · [DOI](https://doi.org/10.1177/0192513x261459377)
+- When Kin Are Far: Reshaping Social Support Networks in Later Life · [DOI](https://doi.org/10.1177/0192513x261459374)
+- Diapers vs. Date Nights: A Longitudinal Comparison of Premaritally Pregnant, Postmaritally Pregnant Parents, and Nonparents on Marital Disillusionment and Satisfaction · [DOI](https://doi.org/10.1177/0192513x261459394)
+- From Work-Family Enrichment to Marital Satisfaction: A Dyadic Longitudinal Study and Marital Attachment Mediation · [DOI](https://doi.org/10.1177/0192513x261459405)
+- Caring Costs: The Impact of Care Burdens on the Composition of Household Expenditure in Chile · [DOI](https://doi.org/10.1177/0192513x261459384)
+- Religion and Women’s Emotional Responses to Abortion · [DOI](https://doi.org/10.1177/0192513x261460819)
+- Marital Satisfaction in Late Life: Sociodemographic and Psychological Correlates Among Iranian Older Adults · [DOI](https://doi.org/10.1177/0192513x261459388)
 
 ## 2025
 
@@ -126,6 +143,8 @@
 - What Happens When Family is Forced Together: Conflict, Intimacy, and Distance in Queer and Trans Youth's Family Relations During the Pandemic · [DOI](https://doi.org/10.1177/0192513X241237613)
 - Who can refuse? Attitudes About the Fertility Decisions of Wives and Husbands · [DOI](https://doi.org/10.1177/0192513X241299421)
 - Work-Family Conflict and Emotional Exhaustion During the COVID-19 Pandemic in Argentina: The Moderating Role of Personal, Family, and Job Resources · [DOI](https://doi.org/10.1177/0192513X241257231)
+- Parental Recollections of Bullying · [DOI](https://doi.org/10.1177/0192513x251347314)
+- When Working From Home Fails to Support Work–Life Balance: The Role of Childcare- and Work-Related Demands · [DOI](https://doi.org/10.1177/0192513x251356260)
 
 ## 2024
 
@@ -399,6 +418,7 @@
 - Whiteness in the COVID-19 Pandemic: Who is Talking About Racism With Their Kids? · [DOI](https://doi.org/10.1177/0192513X221079328)
 - Women Caregivers Under the Spanish Autonomy and Dependence System: A New Social Underclass? · [DOI](https://doi.org/10.1177/0192513X211067528)
 - Work and Family Balance in Chilean Young People's Life Plans · [DOI](https://doi.org/10.1177/0192513X221127022)
+- Ethnic-Racial Socialization of White Children by White Parents: A Systematic Review · [DOI](https://doi.org/10.1177/0192513x231194306)
 
 ## 2022
 
@@ -538,6 +558,8 @@
 - Work-Family Conflicts among Female Staff of Higher Institutions in Nigeria · [DOI](https://doi.org/10.1177/0192513X21994132)
 - Work-to-Family Conflict and Children's Problems with School, Friends, and Health: Household Economic Conditions and Couple Relationship Quality as Contingencies · [DOI](https://doi.org/10.1177/0192513X211026953)
 - Young Carers and Parentification-Between Support and Responsibility: Involving the Child in the Functioning of the Family · [DOI](https://doi.org/10.1177/0192513X211038072)
+- Weathering the Storm: Longitudinal Evidence on Women’s Changing Family Relationships During COVID-19 · [DOI](https://doi.org/10.1177/0192513x221087721)
+- Grandparenting and Well-Being of the Elderly in China · [DOI](https://doi.org/10.1177/0192513x221127024)
 
 ## 2021
 
@@ -658,6 +680,8 @@
 - When My Parents Came to the Gay Ball: Comfort Work in Adult Child-Parent Relationships · [DOI](https://doi.org/10.1177/0192513X20935497)
 - When Paid Work Invades the Family: Single Mothers in the COVID-19 Pandemic · [DOI](https://doi.org/10.1177/0192513X20961420)
 - Why the Son-bias in Caregiving? Testing Sex-differences in the Associations Between Paternal Caregiving and Child Outcomes in England · [DOI](https://doi.org/10.1177/0192513X20941902)
+- Does Family Decision-Making Power Improve Women’s Happiness? · [DOI](https://doi.org/10.1177/0192513x211030025)
+- Gender Role Ideology, Work–Family Conflict, Family–Work Conflict, and Marital Satisfaction Among Korean Dual-Earner Couples · [DOI](https://doi.org/10.1177/0192513x211026966)
 
 ## 2020
 
@@ -756,6 +780,7 @@
 - Who Counts as Family? Gamete donation and the construction of family forms in medical markets · [DOI](https://doi.org/10.1177/0192513X19886620)
 - With or Without You - Starting Single-parent Families: A Qualitative Study on How Single Parents by Choice Reorganise Their Lives to Facilitate Single Parenthood from a Life Course Perspective · [DOI](https://doi.org/10.1177/0192513X20911971)
 - Worry, Behavior Change, and Daily Adversity: How US Latino/a Parents Experience Contemporary Immigration Actions and News · [DOI](https://doi.org/10.1177/0192513X19898512)
+- Romantic Relationship Quality of Youth with Two Biological Parents and Stepfathers · [DOI](https://doi.org/10.1177/0192513x20941906)
 
 ## 2019
 
@@ -871,6 +896,10 @@
 - What Is the Impact of Choosing One's Spouse on Marital Satisfaction of Wives and Husbands? The Case of Arranged and Self-Choice Turkish Marriages · [DOI](https://doi.org/10.1177/0192513X19835874)
 - Women (Not) Troubling the Family: Exploring Women's Narratives of Gendered Family Practices · [DOI](https://doi.org/10.1177/0192513X18809752)
 - Would I Want to Reach Age 100? Perspectives of Centenarians' Family Members on Reaching Exceptional Longevity · [DOI](https://doi.org/10.1177/0192513X19833094)
+- Family Structure Change Among Latinos: Variation by Ecologic Risk · [DOI](https://doi.org/10.1177/0192513x19849636)
+- “Honey, I Want to Be a Surrogate”: How Military Spouses Negotiate and Navigate Surrogacy With Their Service Member Husbands · [DOI](https://doi.org/10.1177/0192513x19862843)
+- The Relationship Between Religion and Intergenerational Solidarity in Eastern and Western Germany · [DOI](https://doi.org/10.1177/0192513x19868750)
+- Resources, Time and Gender: Determinants of Women’s Housework in Bahir Dar and Nearby Rural Villages, Northwest Ethiopia · [DOI](https://doi.org/10.1177/0192513x19878862)
 
 ## 2018
 
@@ -1037,6 +1066,7 @@
 - Who Cares? Motivations for Unregulated Child Care Use · [DOI](https://doi.org/10.1177/0192513X18806025)
 - Working While Caring for Mom, Dad, and Junior Too: Exploring the Impact of Employees' Caregiving Situation on Demands, Control, and Perceived Stress · [DOI](https://doi.org/10.1177/0192513X18777839)
 - You Know What You Gotta Do: African American Fathers and Sons Perspectives' on Parent-Child Sexual Risk Communication and HIV Intervention Development Needs · [DOI](https://doi.org/10.1177/0192513X17720960)
+- The Role of Attachment of Each Partner on Marital Adjustment · [DOI](https://doi.org/10.1177/0192513x18812005)
 
 ## 2017
 
@@ -2334,6 +2364,16 @@
 - Family Solidarity and Health Behaviors · [DOI](https://doi.org/10.1177/019251399020002004)
 - Grandparents Caring for Grandchildren · [DOI](https://doi.org/10.1177/019251399020002003)
 - Stepparents' Affinity-Seeking and Affinity-Maintaining Strategies With Stepchildren · [DOI](https://doi.org/10.1177/019251399020003001)
+- Family Members' Experiences With Do-Not-Resuscitate (DNR) · [DOI](https://doi.org/10.1177/019251399020002005)
+- Living the Postmodern Dream · [DOI](https://doi.org/10.1177/019251399020002002)
+- Self-Regulation and Self-Worth of Black Children Reared in Economically Stressed, Rural, Single Mother-Headed Families · [DOI](https://doi.org/10.1177/019251399020004003)
+- Getting Help With Housework · [DOI](https://doi.org/10.1177/019251399020006001)
+
+## 1998
+
+- Estimating a Proposed Family Policy's Effects · [DOI](https://doi.org/10.1177/019251398019005003)
+- Available But Not Accessible · [DOI](https://doi.org/10.1177/019251398019003003)
+- Parent-Teen Communication About Sexual Topics · [DOI](https://doi.org/10.1177/019251398019003005)
 
 ## 1997
 
@@ -2345,10 +2385,19 @@
 - Poverty, Paternal Involvement, and Adolescent Well-Being · [DOI](https://doi.org/10.1177/019251396017005003)
 - The Effect of Parenting Stress on Marital Quality · [DOI](https://doi.org/10.1177/019251396017001007)
 - The Revised Conflict Tactics Scales (CTS2) · [DOI](https://doi.org/10.1177/019251396017003001)
+- The Changing Circumstances of Children's Lives · [DOI](https://doi.org/10.1177/019251396017004001)
+- Staying in School · [DOI](https://doi.org/10.1177/019251396017004006)
+- Improving Parental Partnerships in Low-Income Families as a Means for Increasing Noncustodial Parental Compliance with Child Support Orders · [DOI](https://doi.org/10.1177/019251396017005006)
+- Entitlement, Obligation, and Gratitude in Family Work · [DOI](https://doi.org/10.1177/019251396017001005)
+- Market Child Care Versus Care by Relatives · [DOI](https://doi.org/10.1177/019251396017004007)
+- Fathers' Parenting Role Identity and Father Involvement · [DOI](https://doi.org/10.1177/019251396017001003)
 
 ## 1995
 
 - The Early Childhood HOME Inventory and HOME-Short Form in Differing Racial/Ethnic Groups · [DOI](https://doi.org/10.1177/019251395016005007)
+- Looking for Mr. Right? · [DOI](https://doi.org/10.1177/019251395016002004)
+- Marriage Timing of Chinese American and Japanese American Women · [DOI](https://doi.org/10.1177/019251395016003005)
+- Parent-Child Relationships During the Transition to Adulthood · [DOI](https://doi.org/10.1177/019251395016005003)
 
 ## 1994
 
@@ -2359,10 +2408,21 @@
 ## 1993
 
 - Unity and Difference in Postmodern Families · [DOI](https://doi.org/10.1177/0192513x93014001002)
+- Father's Presence and Young Children's Behavioral and Cognitive Adjustment · [DOI](https://doi.org/10.1177/019251393014003002)
+- Divorced Fathers · [DOI](https://doi.org/10.1177/019251393014003003)
+- Maternal Employment and Child Behavioral Outcomes · [DOI](https://doi.org/10.1177/019251393014003001)
+- The Influence of Parental Support, Depressed Affect, and Peers on the Sexual Behaviors of Adolescent Girls · [DOI](https://doi.org/10.1177/019251393014002006)
+- The Impact of Rational Considerations and Perceived Opinions on Young Adults' Union Formation Intentions · [DOI](https://doi.org/10.1177/019251393014002004)
+- Family Discourse, Organizational Embeddedness, and Local Enactment · [DOI](https://doi.org/10.1177/0192513x93014001006)
+- Responsibilities in Studying Postmodern Families · [DOI](https://doi.org/10.1177/0192513x93014001004)
 
 ## 1992
 
 - Late-Life Divorce · [DOI](https://doi.org/10.1177/019251392013004008)
+- Remarriage, Stepparenting, and Household Labor · [DOI](https://doi.org/10.1177/019251392013002006)
+- Gender Differences in Expectations of Self and Future Partner · [DOI](https://doi.org/10.1177/019251392013001004)
+- Adult Son-Parent Relationships and Their Associations With Sons' Psychological Distress · [DOI](https://doi.org/10.1177/019251392013004007)
+- Social Class and The Locus of Reciprocity in Relationships With Adult Children · [DOI](https://doi.org/10.1177/019251392013004006)
 
 ## 1991
 
@@ -2371,24 +2431,76 @@
 - Occupational Structure and Men's and Women's Parental Values · [DOI](https://doi.org/10.1177/019251391012003006)
 - Predicting Parents' Experiences With Coresident Adult Children · [DOI](https://doi.org/10.1177/019251391012003005)
 
+## 1990
+
+- Adolescent Sexual Activity and Mildly Deviant Behavior · [DOI](https://doi.org/10.1177/019251390011003003)
+- The Effect of Marriage on the Well-Being of Adults · [DOI](https://doi.org/10.1177/019251390011001002)
+
 ## 1989
 
 - Parenthood and Psychological Well-Being · [DOI](https://doi.org/10.1177/019251389010004002)
+- Marital Disruption and Psychological Well-Being · [DOI](https://doi.org/10.1177/019251389010001004)
+- Child Attributes as Determinants of Parental Television-Viewing Mediation · [DOI](https://doi.org/10.1177/019251389010002006)
+- Psychological Well-Being Among Parents and Nonparents · [DOI](https://doi.org/10.1177/019251389010004007)
+
+## 1988
+
+- Economic Distress, Social Integration, and Family Satisfaction · [DOI](https://doi.org/10.1177/019251388009004007)
+- The Gender Division of Labor and the Reproduction of Female Disadvantage · [DOI](https://doi.org/10.1177/019251388009001006)
+
+## 1987
+
+- The Efficacy of a Spouse Abuse Model in Accounting for Courtship Violence · [DOI](https://doi.org/10.1177/019251387008003003)
+- Remaking Men · [DOI](https://doi.org/10.1177/019251387008001003)
+- Here to Play · [DOI](https://doi.org/10.1177/019251387008004012)
+- Continuity Versus Change, Sanguineness Versus Concern · [DOI](https://doi.org/10.1177/019251387008004002)
 
 ## 1986
 
 - Dimensions of Marital Quality · [DOI](https://doi.org/10.1177/019251386007001003)
 - Manifestations of Levels of Functioning in Grieving Families · [DOI](https://doi.org/10.1177/019251386007003005)
 - The Relative Deprivation of Husbands in Dual-Earner Households · [DOI](https://doi.org/10.1177/019251386007001001)
+- Parental Satisfaction · [DOI](https://doi.org/10.1177/019251386007001006)
 
 ## 1985
 
 - The Impact of Age and Children on Remarriage · [DOI](https://doi.org/10.1177/019251385006002003)
+- Family Rhetoric as Social Order · [DOI](https://doi.org/10.1177/019251385006001008)
+- Who Divorces and Why · [DOI](https://doi.org/10.1177/019251385006003002)
+- Predicting Divorce and Permanent Separation · [DOI](https://doi.org/10.1177/019251385006003005)
+- Transitions to Parenthood · [DOI](https://doi.org/10.1177/019251385006004004)
+
+## 1984
+
+- Foster Care and Public Policy · [DOI](https://doi.org/10.1177/019251384005002003)
+- Marriage, Divorce, and Living Arrangements · [DOI](https://doi.org/10.1177/019251384005001002)
 
 ## 1983
 
 - The Family in an Aging Society · [DOI](https://doi.org/10.1177/019251383004003002)
+- Dilemmas of Support · [DOI](https://doi.org/10.1177/019251383004004008)
+- Television's Role in Family Interaction · [DOI](https://doi.org/10.1177/019251383004002009)
+- On Living Together Unmarried · [DOI](https://doi.org/10.1177/019251383004001003)
+- The Family and Television · [DOI](https://doi.org/10.1177/019251383004002004)
+- Family Policy · [DOI](https://doi.org/10.1177/019251383004003001)
+- The Time Crunch · [DOI](https://doi.org/10.1177/019251383004001004)
+- The Television Family and Children's Fright Reactions · [DOI](https://doi.org/10.1177/019251383004002002)
+
+## 1982
+
+- Childlessness and Marital Satisfaction · [DOI](https://doi.org/10.1177/019251382003004007)
+- Notes from the Editor's Desk · [DOI](https://doi.org/10.1177/019251382003001001)
+- Legal Change and Child Custody Awards · [DOI](https://doi.org/10.1177/019251382003001002)
 
 ## 1981
 
 - Women, Careers, and Family · [DOI](https://doi.org/10.1177/0192513x8100200107)
+- Preschoolers' Sex-Role Identity, Father-Role Perceptions, and Paternal Family Participation · [DOI](https://doi.org/10.1177/0192513x8100200208)
+- Processing Battered Women · [DOI](https://doi.org/10.1177/0192513x8100200403)
+- Notes from the Editor's Desk · [DOI](https://doi.org/10.1177/0192513x8100200101)
+- Protective Labor Legislation and the Cult of Domesticity · [DOI](https://doi.org/10.1177/0192513x8100200103)
+
+## 1980
+
+- Afterword · [DOI](https://doi.org/10.1177/0192513x8000100407)
+- Remarriage and Well-Being: National Survey Evidence of Social and Psychological Effects · [DOI](https://doi.org/10.1177/0192513x8000100406)

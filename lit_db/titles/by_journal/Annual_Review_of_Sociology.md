@@ -1,9 +1,17 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **534** 篇 | 年份范围：1975–2025
+共 **631** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
+
+## 2026
+
+- Discrimination and Health Inequalities · [DOI](https://doi.org/10.1146/annurev-soc-031324-114207)
+- Sending Money Home: Understanding the Social Dynamics of Migrant Remittances · [DOI](https://doi.org/10.1146/annurev-soc-031324-111448)
+- Luck and Predictability in the Life Course · [DOI](https://doi.org/10.1146/annurev-soc-031324-115112)
+- The Architecture of Global Capital: Elites, States, and the New Geography of Wealth · [DOI](https://doi.org/10.1146/annurev-soc-031524-105759)
+- Qualitative Research in an Era of Artificial Intelligence: A Pragmatic Approach to Data Analysis, Workflow, and Computation · [DOI](https://doi.org/10.1146/annurev-soc-011824-104836)
 
 ## 2025
 
@@ -34,6 +42,13 @@
 - Leveraging Experience Sampling/Ecological Momentary Assessment for Sociological Investigations of Everyday Life · [DOI](https://doi.org/10.1146/annurev-soc-091523-013249)
 - Race and Ethnicity in the Sociology of Cultural Production and Consumption · [DOI](https://doi.org/10.1146/annurev-soc-030222-013351)
 - Still Victimized in a Thousand Ways: Segregation as a Tool for Exploitation in the Twenty-First Century · [DOI](https://doi.org/10.1146/annurev-soc-090523-054711)
+- Thinking Like a Feminist: What Feminist Theory Has to Offer Sociology · [DOI](https://doi.org/10.1146/annurev-soc-031021-040911)
+- The Sociology of Interpretation · [DOI](https://doi.org/10.1146/annurev-soc-020321-030515)
+- How Threat Mobilizes the Resurgence and Persistence of US White Supremacist Activism: The 1980s to the Present · [DOI](https://doi.org/10.1146/annurev-soc-031021-112151)
+- Online Illegal Cryptomarkets · [DOI](https://doi.org/10.1146/annurev-soc-090523-052916)
+- “Which Cases Do I Need?” Constructing Cases and Observations in Qualitative Research · [DOI](https://doi.org/10.1146/annurev-soc-031021-035000)
+- Conservatism, the Far Right, and the Environment · [DOI](https://doi.org/10.1146/annurev-soc-083023-035225)
+- A Sociology of Real Estate: Polanyi, Du Bois, and the Relational Study of Commodified Land in a Climate-Changed Future · [DOI](https://doi.org/10.1146/annurev-soc-033022-035124)
 
 ## 2023
 
@@ -41,6 +56,11 @@
 - Food and Inequality · [DOI](https://doi.org/10.1146/annurev-soc-031021-112747)
 - Policing, Punishment, and Place: Spatial-Contextual Analyses of the Criminal Legal System · [DOI](https://doi.org/10.1146/annurev-soc-031021-035328)
 - Recent Developments in Causal Inference and Machine Learning · [DOI](https://doi.org/10.1146/annurev-soc-030420-015345)
+- What Makes Weak Ties Strong? · [DOI](https://doi.org/10.1146/annurev-soc-030921-034152)
+- The Social Construction of Age: Concepts and Measurement · [DOI](https://doi.org/10.1146/annurev-soc-031021-121020)
+- The Legitimacy of Science · [DOI](https://doi.org/10.1146/annurev-soc-030320-035037)
+- Social Consequences of Forced and Refugee Migration · [DOI](https://doi.org/10.1146/annurev-soc-090221-040023)
+- Critical Race Theory: Confronting, Challenging, and Rethinking White Privilege · [DOI](https://doi.org/10.1146/annurev-soc-031021-123710)
 
 ## 2022
 
@@ -63,6 +83,7 @@
 - The Knowledge-Based Economy and the Global South · [DOI](https://doi.org/10.1146/annurev-soc-080321-071214)
 - The Role of Doubt in Conceiving Research: Reflections from a Career Shaped by a Dissertation · [DOI](https://doi.org/10.1146/annurev-soc-080321-073017)
 - Zoning, Land Use, and the Reproduction of Urban Inequality · [DOI](https://doi.org/10.1146/annurev-soc-030420-122027)
+- Measuring Women's Empowerment in the Global South · [DOI](https://doi.org/10.1146/annurev-soc-030420-015018)
 
 ## 2021
 
@@ -429,6 +450,10 @@
 - Sociology of Sex Work · [DOI](https://doi.org/10.1146/annurev-soc-070308-120025)
 - The Sociology of Emotional Labor · [DOI](https://doi.org/10.1146/annurev-soc-070308-115944)
 - Working in Six Research Areas: A Multi-Field Sociological Career · [DOI](https://doi.org/10.1146/annurev-soc-070308-115936)
+- Is America Fragmenting? · [DOI](https://doi.org/10.1146/annurev-soc-070308-115909)
+- New Directions in Life Course Research · [DOI](https://doi.org/10.1146/annurev.soc.34.040507.134619)
+- Switching Social Contexts: The Effects of Housing Mobility and School Choice Programs on Youth Outcomes · [DOI](https://doi.org/10.1146/annurev-soc-070308-120032)
+- The Sociology of War and the Military · [DOI](https://doi.org/10.1146/annurev-soc-070308-120004)
 
 ## 2008
 
@@ -443,6 +468,7 @@
 - Testing and social stratification in American education · [DOI](https://doi.org/10.1146/annurev.soc.34.040507.134711)
 - The Second Generation in Western Europe: Education, Unemployment, and Occupational Attainment · [DOI](https://doi.org/10.1146/annurev.soc.34.040507.134728)
 - Unconscious racism: A concept in pursuit of a measure · [DOI](https://doi.org/10.1146/annurev.soc.33.040406.131632)
+- Conditional Cash Transfers as Social Policy in Latin America: An Assessment of their Contributions and Limitations · [DOI](https://doi.org/10.1146/annurev.soc.34.040507.134537)
 
 ## 2007
 
@@ -458,6 +484,7 @@
 - The making of the black family: Race and class in qualitative studies in the twentieth century · [DOI](https://doi.org/10.1146/annurev.soc.33.040406.131727)
 - The niche as a theoretical tool · [DOI](https://doi.org/10.1146/annurev.soc.32.061604.123118)
 - Workforce Diversity and Inequality: Power, Status, and Numbers · [DOI](https://doi.org/10.1146/annurev.soc.33.040406.131805)
+- The Sociology of Markets · [DOI](https://doi.org/10.1146/annurev.soc.33.040406.131736)
 
 ## 2006
 
@@ -471,6 +498,8 @@
 - The rise of religious fundamentalism · [DOI](https://doi.org/10.1146/annurev.soc.32.061604.123141)
 - The science of human rights, war crimes, and humanitarian emergencies · [DOI](https://doi.org/10.1146/annurev.soc.32.061604.123125)
 - The social bases of political divisions in post-communist Eastern Europe · [DOI](https://doi.org/10.1146/annurev.soc.32.061604.123144)
+- Estimating the Causal Effect of Social Capital: A Review of Recent Research · [DOI](https://doi.org/10.1146/annurev.soc.32.061604.123150)
+- Law and the American State · [DOI](https://doi.org/10.1146/annurev.soc.32.061604.123113)
 
 ## 2005
 
@@ -481,6 +510,8 @@
 - Macrostructural Analyses of Race, Ethnicity, and Violent Crime: Recent Lessons and New Directions for Research · [DOI](https://doi.org/10.1146/annurev.soc.31.041304.122308)
 - New directions in corporate governance · [DOI](https://doi.org/10.1146/annurev.soc.31.041304.122249)
 - Reading and the reading class in the twenty-first century · [DOI](https://doi.org/10.1146/annurev.soc.31.041304.122312)
+- The Social Consequences of Structural Adjustment: Recent Evidence and Current Debates · [DOI](https://doi.org/10.1146/annurev.soc.31.041304.122258)
+- Multiethnic Cities in North America · [DOI](https://doi.org/10.1146/annurev.soc.31.041304.122246)
 
 ## 2004
 
@@ -497,6 +528,8 @@
 - Sociology of terrorism · [DOI](https://doi.org/10.1146/annurev.soc.30.012703.110510)
 - The Sociology of Property Rights · [DOI](https://doi.org/10.1146/annurev.soc.30.012703.110538)
 - The use of newspaper data in the study of collective action · [DOI](https://doi.org/10.1146/annurev.soc.30.012703.110603)
+- Values: Reviving a Dormant Concept · [DOI](https://doi.org/10.1146/annurev.soc.30.012703.110640)
+- Low-Income Fathers · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.095947)
 
 ## 2003
 
@@ -512,6 +545,9 @@
 - The Science of Asking Questions · [DOI](https://doi.org/10.1146/annurev.soc.29.110702.110112)
 - The Sociology of the Self · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.100057)
 - Welfare-state regress in western Europe: Politics, institutions, globalization, and Europeanization · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.095943)
+- The Urban Street Gang after 1970 · [DOI](https://doi.org/10.1146/annurev.soc.29.101602.130751)
+- The Economic Sociology of Conventions: Habit, Custom, Practice, and Routine in Market Order · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.100051)
+- Skills Mismatch in the Labor Market · [DOI](https://doi.org/10.1146/annurev.soc.29.010202.100030)
 
 ## 2002
 
@@ -524,6 +560,7 @@
 - Race, Gender, and Authority in the Workplace: Theory and Research · [DOI](https://doi.org/10.1146/annurev.soc.28.110601.141048)
 - The Changing Face of Methodological Individualism · [DOI](https://doi.org/10.1146/annurev.soc.28.110601.140938)
 - The Sociology of Intellectuals · [DOI](https://doi.org/10.1146/annurev.soc.28.110601.140745)
+- New Economics of Sociological Criminology · [DOI](https://doi.org/10.1146/annurev.soc.28.110601.140752)
 
 ## 2001
 
@@ -560,10 +597,17 @@
 - Wealth and Stratification Processes · [DOI](https://doi.org/10.1146/annurev.soc.26.1.497)
 - What I don't know about my field but wish I did · [DOI](https://doi.org/10.1146/annurev.soc.26.1.699)
 - Whither the sociological study of crime? · [DOI](https://doi.org/10.1146/annurev.soc.26.1.711)
+- Social Psychology of Identities · [DOI](https://doi.org/10.1146/annurev.soc.26.1.367)
+- Ethnicity and Sexuality · [DOI](https://doi.org/10.1146/annurev.soc.26.1.107)
+- Feminist State Theory: Applications to Jurisprudence, Criminology, and the Welfare State · [DOI](https://doi.org/10.1146/annurev.soc.26.1.641)
+- States and Markets in an Era of Globalization · [DOI](https://doi.org/10.1146/annurev.soc.26.1.187)
 
 ## 1999
 
 - SOCIAL NETWORKS AND STATUS ATTAINMENT · [DOI](https://doi.org/10.1146/annurev.soc.25.1.467)
+- WHAT HAS HAPPENED TO THE US LABOR MOVEMENT? Union Decline and Renewal · [DOI](https://doi.org/10.1146/annurev.soc.25.1.95)
+- A RETROSPECTIVE ON THE CIVIL RIGHTS MOVEMENT: Political and Intellectual Landmarks · [DOI](https://doi.org/10.1146/annurev.soc.25.1.517)
+- WOMEN'S MOVEMENTS IN THE THIRD WORLD: Identity, Mobilization, and Autonomy · [DOI](https://doi.org/10.1146/annurev.soc.25.1.47)
 
 ## 1998
 
@@ -571,6 +615,9 @@
 - Commensuration as a Social Process · [DOI](https://doi.org/10.1146/annurev.soc.24.1.313)
 - Computerization of the Workplace · [DOI](https://doi.org/10.1146/annurev.soc.24.1.141)
 - Diffusion in Organizations and Social Movements: From Hybrid Corn to Poison Pills · [DOI](https://doi.org/10.1146/annurev.soc.24.1.265)
+- Sociological Work in Japan · [DOI](https://doi.org/10.1146/annurev.soc.24.1.499)
+- Using Computers to Analyze Ethnographic Field Data: Theoretical and Practical Considerations · [DOI](https://doi.org/10.1146/annurev.soc.24.1.477)
+- Measuring Meaning Structures · [DOI](https://doi.org/10.1146/annurev.soc.24.1.345)
 
 ## 1997
 
@@ -586,6 +633,8 @@
 ## 1996
 
 - Focus Groups · [DOI](https://doi.org/10.1146/annurev.soc.22.1.129)
+- Adult Child–Parent Relationships · [DOI](https://doi.org/10.1146/annurev.soc.22.1.79)
+- What Do Interlocks Do? An Analysis, Critique, and Assessment of Research on Interlocking Directorates · [DOI](https://doi.org/10.1146/annurev.soc.22.1.271)
 
 ## 1995
 
@@ -600,12 +649,28 @@
 - Coresidence and Leaving Home: Young Adults and Their Parents · [DOI](https://doi.org/10.1146/annurev.so.20.080194.000501)
 - Sociobiology and Sociology · [DOI](https://doi.org/10.1146/annurev.so.20.080194.001411)
 - The Sociology of Ethnic Conflicts: Comparative International Perspectives · [DOI](https://doi.org/10.1146/annurev.so.20.080194.000405)
+- Multilevel Models: Methods and Substance · [DOI](https://doi.org/10.1146/annurev.so.20.080194.001555)
+- Religion and Political Legitimation · [DOI](https://doi.org/10.1146/annurev.so.20.080194.001133)
+- Women, Family and Class · [DOI](https://doi.org/10.1146/annurev.so.20.080194.000331)
+- Stepfamilies in the United States: A Reconsideration · [DOI](https://doi.org/10.1146/annurev.so.20.080194.002043)
 
 ## 1993
 
 - Class Formation in Nineteenth-Century America: The Case of the Middle Class · [DOI](https://doi.org/10.1146/annurev.so.19.080193.000313)
 - The Sociology of Work and Occupations · [DOI](https://doi.org/10.1146/annurev.so.19.080193.001155)
 - Urban Sociology: The Contribution and Limits of Political Economy · [DOI](https://doi.org/10.1146/annurev.so.19.080193.001505)
+- The State and Fiscal Sociology · [DOI](https://doi.org/10.1146/annurev.so.19.080193.001115)
+- Entry Into School: The Beginning School Transition and Educational Stratification in the United States · [DOI](https://doi.org/10.1146/annurev.so.19.080193.002153)
+- Macrocomparative Research Methods · [DOI](https://doi.org/10.1146/annurev.so.19.080193.001541)
+
+## 1992
+
+- Concepts and Measurement of Prestige · [DOI](https://doi.org/10.1146/annurev.so.18.080192.001345)
+- Job Mobility and Career Processes · [DOI](https://doi.org/10.1146/annurev.so.18.080192.000351)
+- Two Approaches to Social Structure: Exchange Theory and Network Analysis · [DOI](https://doi.org/10.1146/annurev.so.18.080192.000545)
+- Social Science Research and Contemporary Studies of Homelessness · [DOI](https://doi.org/10.1146/annurev.so.18.080192.001021)
+- Population Aging and Social Policy · [DOI](https://doi.org/10.1146/annurev.so.18.080192.002313)
+- The Concept of Family Adaptive Strategies · [DOI](https://doi.org/10.1146/annurev.so.18.080192.001313)
 
 ## 1991
 
@@ -614,47 +679,91 @@
 - Some Reflections on the Feminist Scholarship in Sociology · [DOI](https://doi.org/10.1146/annurev.so.17.080191.000245)
 - The Design and Administration of Mail Surveys · [DOI](https://doi.org/10.1146/annurev.so.17.080191.001301)
 - Women and Migration: The Social Consequences of Gender · [DOI](https://doi.org/10.1146/annurev.so.17.080191.001511)
+- Third World Urbanization: Dimensions, Theories, and Determinants · [DOI](https://doi.org/10.1146/annurev.so.17.080191.002343)
+- Work Experiences and Family Interaction Processes: The Long Reach of the Job? · [DOI](https://doi.org/10.1146/annurev.so.17.080191.002223)
+- The US Labor Movement: Its Development and Impact on Social Inequality and Politics · [DOI](https://doi.org/10.1146/annurev.so.17.080191.000331)
 
 ## 1990
 
 - Children's Peer Cultures · [DOI](https://doi.org/10.1146/annurev.so.16.080190.001213)
 - Role Change · [DOI](https://doi.org/10.1146/annurev.so.16.080190.000511)
+- Peasants and Proletarians · [DOI](https://doi.org/10.1146/annurev.so.16.080190.002033)
+- The Risks of Reproductive Impairment in the Later Years of Childbearing · [DOI](https://doi.org/10.1146/annurev.so.16.080190.002423)
+- The Sociology of Nonprofit Organizations and Sectors · [DOI](https://doi.org/10.1146/annurev.so.16.080190.001033)
+- Ethnicity and Entrepreneurship · [DOI](https://doi.org/10.1146/annurev.so.16.080190.000551)
+- Theories and Methods of Telephone Surveys · [DOI](https://doi.org/10.1146/annurev.so.16.080190.001253)
 
 ## 1989
 
 - Gender and Social Reproduction: Historical Perspectives · [DOI](https://doi.org/10.1146/annurev.so.15.080189.002121)
 - The Social Psychology of Self-Efficacy · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001451)
 - The Sociology of Emotions · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001533)
+- Immigration and Urban Change · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001235)
+- Internal Labor Markets · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001043)
 
 ## 1988
 
 - Organizational Learning · [DOI](https://doi.org/10.1146/annurev.soc.14.1.319)
+- Energy and Society · [DOI](https://doi.org/10.1146/annurev.so.14.080188.001053)
+- Soviet Sociology and Sociology in the Soviet Union · [DOI](https://doi.org/10.1146/annurev.so.14.080188.000531)
+- Evaluating Work and Comparable Worth · [DOI](https://doi.org/10.1146/annurev.so.14.080188.001303)
+- National Politics and Collective Action: Recent Theory and Research in Western Europe and the United States · [DOI](https://doi.org/10.1146/annurev.so.14.080188.002225)
+- Equality of Educational Opportunity · [DOI](https://doi.org/10.1146/annurev.so.14.080188.001341)
 
 ## 1987
 
 - Gentrification: Culture and Capital in the Urban Core · [DOI](https://doi.org/10.1146/annurev.so.13.080187.001021)
+- New Directions in Environmental Sociology · [DOI](https://doi.org/10.1146/annurev.so.13.080187.002341)
+- Making Sense of Diversity: Recent Research on Hispanic Minorities in the United States · [DOI](https://doi.org/10.1146/annurev.so.13.080187.002043)
+- On the Degradation of Skills · [DOI](https://doi.org/10.1146/annurev.so.13.080187.000333)
+
+## 1986
+
+- Social Impact Assessment · [DOI](https://doi.org/10.1146/annurev.so.12.080186.002315)
+- The Transition to Adulthood · [DOI](https://doi.org/10.1146/annurev.so.12.080186.000545)
+- Associations and Interest Groups · [DOI](https://doi.org/10.1146/annurev.so.12.080186.000245)
 
 ## 1985
 
 - New Black-White Patterns: How Best to Conceptualize Them? · [DOI](https://doi.org/10.1146/annurev.so.11.080185.001553)
 - Social Control of Occupations and Work · [DOI](https://doi.org/10.1146/annurev.so.11.080185.002215)
 - Sociology of Mass Communication · [DOI](https://doi.org/10.1146/annurev.so.11.080185.000521)
+- Urban Poverty · [DOI](https://doi.org/10.1146/annurev.so.11.080185.001311)
 
 ## 1984
 
 - Negotiated Orders and Organizational Cultures · [DOI](https://doi.org/10.1146/annurev.so.10.080184.001323)
 - The Life Story Approach: A Continental View · [DOI](https://doi.org/10.1146/annurev.so.10.080184.001243)
+- Secular Symbolism: Studies of Ritual, Ceremony, and the Symbolic Order in Modern Life · [DOI](https://doi.org/10.1146/annurev.so.10.080184.002221)
 
 ## 1983
 
 - Individual and Collective Behaviors Within Gatherings, Demonstrations, and Riots · [DOI](https://doi.org/10.1146/annurev.so.09.080183.003051)
 - Resource Mobilization Theory and the Study of Social Movements · [DOI](https://doi.org/10.1146/annurev.so.09.080183.002523)
 - Social Indicators · [DOI](https://doi.org/10.1146/annurev.so.09.080183.000245)
+- Generation as a Sociological Problem · [DOI](https://doi.org/10.1146/annurev.so.09.080183.001013)
+- Models of Neighborhood Change · [DOI](https://doi.org/10.1146/annurev.so.09.080183.000503)
+
+## 1982
+
+- Expectation States and Interracial Interaction in School Settings · [DOI](https://doi.org/10.1146/annurev.so.08.080182.001233)
+
+## 1981
+
+- Organizational Performance: Recent Developments in Measurement · [DOI](https://doi.org/10.1146/annurev.so.07.080181.001541)
+- Self-Help and Mutual Aid: An Emerging Social Movement? · [DOI](https://doi.org/10.1146/annurev.so.07.080181.001021)
+- Dimensions of the New Immigration to the United States and the Prospects for Assimilation · [DOI](https://doi.org/10.1146/annurev.so.07.080181.000421)
+
+## 1980
+
+- The Sociology of Housing · [DOI](https://doi.org/10.1146/annurev.so.06.080180.002325)
 
 ## 1979
 
 - Ascribed and Achieved Bases of Stratification · [DOI](https://doi.org/10.1146/annurev.so.05.080179.001251)
 - The Sociology of Labor Markets · [DOI](https://doi.org/10.1146/annurev.so.05.080179.002031)
+- Environmental Sociology · [DOI](https://doi.org/10.1146/annurev.so.05.080179.001331)
+- The Sociology of American Catholics · [DOI](https://doi.org/10.1146/annurev.so.05.080179.000515)
 
 ## 1978
 
@@ -663,6 +772,9 @@
 - The Sick Role: Assessment and Overview · [DOI](https://doi.org/10.1146/annurev.so.04.080178.001533)
 - Theories of Social Conflict · [DOI](https://doi.org/10.1146/annurev.so.04.080178.001451)
 - Urban Density and Pathology · [DOI](https://doi.org/10.1146/annurev.so.04.080178.000515)
+- The Development of Soviet Sociology, 1956-1976 · [DOI](https://doi.org/10.1146/annurev.so.04.080178.001131)
+- Achievement Ambitions · [DOI](https://doi.org/10.1146/annurev.so.04.080178.002105)
+- Adult Socialization · [DOI](https://doi.org/10.1146/annurev.so.04.080178.002225)
 
 ## 1977
 
@@ -672,7 +784,10 @@
 ## 1976
 
 - Environments of Organizations · [DOI](https://doi.org/10.1146/annurev.so.02.080176.000455)
+- The Military · [DOI](https://doi.org/10.1146/annurev.so.02.080176.000415)
 
 ## 1975
 
 - Age Differentiation and the Life Course · [DOI](https://doi.org/10.1146/annurev.so.01.080175.001121)
+- Community Power · [DOI](https://doi.org/10.1146/annurev.so.01.080175.001415)
+- Organizational Structure · [DOI](https://doi.org/10.1146/annurev.so.01.080175.000245)

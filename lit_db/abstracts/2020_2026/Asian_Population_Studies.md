@@ -1,7 +1,7 @@
 # Asian Population Studies
 ## 2020–2026 年文章（含摘要）
 
-共 **137** 篇
+共 **141** 篇
 
 ---
 
@@ -34,6 +34,26 @@
 **年份**: 2026 | **DOI**: [10.1080/17441730.2026.2630950](https://doi.org/10.1080/17441730.2026.2630950)
 **作者**: Peng, Yinni
 **摘要**: While studies have revealed the importance of parental influence on youth transition and several channels for this influence, they have often analysed parental support as an individual variable unilaterally impacting youth.…
+
+### Parental absence and the development of preschool children in a high migration civil conflict area
+**年份**: 2026 | **DOI**: [10.1080/17441730.2026.2680862](https://doi.org/10.1080/17441730.2026.2680862)
+**作者**: Jampaklay, Aree; Vapattanawong, Patama; Tangchonlatip, Kanchana 等7人
+**摘要**: （暂无）
+
+### Komang and Ketut: an ex-ante analysis of Bali’s pro-natalist policy
+**年份**: 2026 | **DOI**: [10.1080/17441730.2026.2680864](https://doi.org/10.1080/17441730.2026.2680864)
+**作者**: Setiono, Dede
+**摘要**: （暂无）
+
+### The role of social networks on fertility: evidence from high and low fertility states of India
+**年份**: 2026 | **DOI**: [10.1080/17441730.2026.2680865](https://doi.org/10.1080/17441730.2026.2680865)
+**作者**: Bhunia, Priya; Das, Pallabi; Ghosh, Saswata
+**摘要**: （暂无）
+
+### Ethnicity matters: unpacking female labour participation in Lao PDR
+**年份**: 2026 | **DOI**: [10.1080/17441730.2026.2691002](https://doi.org/10.1080/17441730.2026.2691002)
+**作者**: Kim, Najung; Sisouphanthong, Viriyasack; Han, Jung-Sun 等4人
+**摘要**: （暂无）
 
 ### A gender gap in happiness: documenting a puzzle from Indian survey data
 **年份**: 2025 | **DOI**: [10.1080/17441730.2025.2473667](https://doi.org/10.1080/17441730.2025.2473667)
