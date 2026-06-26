@@ -1,6 +1,6 @@
 # 社会学与人口学期刊文献数据库
 
-25本核心期刊、2000年至今、34,000+ 篇文章元数据（标题、摘要、作者、DOI）。
+31本核心期刊、44,614 条清洗后文章元数据（标题、摘要、作者、DOI），覆盖年份 1896–2026。
 
 研究领域：社会分层 · 婚姻与家庭 · 人口学 · 教育社会学 · 性别 · 劳动与就业
 
@@ -11,6 +11,7 @@
 ## 快速导航
 
 - 普通使用者：看 [docs/guides/使用指南.md](/Users/wenbohu/Downloads/文献库/期刊文献/docs/guides/使用指南.md)
+- Agent 文献入口：看 [agent_lit_index/README.md](/Users/wenbohu/Downloads/文献库/期刊文献/agent_lit_index/README.md)
 - 数据与站点入口：`index.html`、`app.js`、`style.css`、`articles.json`、`data.json`、`api/`、`lit_db/`
 - 维护脚本：看 [scripts/README.md](/Users/wenbohu/Downloads/文献库/期刊文献/scripts/README.md)
 - 报告与更新日志：看 [docs/reports/](/Users/wenbohu/Downloads/文献库/期刊文献/docs/reports)
@@ -18,7 +19,7 @@
 
 ---
 
-## 期刊列表（25本）
+## 期刊列表（31本）
 
 | 期刊 | ISSN | 数据起始年 |
 |---|---|---|
@@ -38,14 +39,20 @@
 | Journal of Family Issues | 0192-513X | 2000 |
 | Journal of Family Theory & Review | 1756-2570 | 2009 |
 | Journal of Marriage and Family | 0022-2445 | 2000 |
+| Population Studies | 0032-4728 | 1947 |
 | Population and Development Review | 0098-7921 | 2000 |
 | Research in Social Stratification and Mobility | 0276-5624 | 2000 |
+| Social Indicators Research | 0303-8300 | 1974 |
 | Social Forces | 0037-7732 | 2000 |
+| Social Psychology Quarterly | 0190-2725 | 1979 |
 | Social Science Research | 0049-089X | 2000 |
+| Sociology Compass | 1751-9020 | 2007 |
 | Sociological Science | 2330-6696 | 2014 |
 | Sociology | 0038-0385 | 2000 |
 | Sociology of Education | 0038-0407 | 2000 |
 | Socius | 2378-0231 | 2015 |
+| Advances in Life Course Research | 1569-4909 | 2000 |
+| Work and Occupations | 0730-8884 | 1982 |
 | Work, Employment and Society | 0950-0170 | 2000 |
 
 ---
@@ -62,7 +69,7 @@ publication/
 ├── style.css                  # 前端样式
 ├── .nojekyll                  # GitHub Pages 配置
 │
-├── articles.json              # 主数据文件（34k条，新格式）
+├── articles.json              # 主数据文件（44,614条，新格式）
 ├── data.json                  # 旧格式备用数据（前端回退模式使用）
 ├── data.js                    # JavaScript 版备用数据
 │
@@ -107,6 +114,13 @@ publication/
         └── 10.1086/714825.json
 ```
 
+### 目录管理规则
+
+- 正式数据与发布产物保留在根目录、`api/`、`lit_db/`、`agent_lit_index/`、`docs/` 和 `scripts/`。
+- 本地备份、临时脚本、一次性导出和历史整理材料统一放入 `_local/`，不提交 GitHub。
+- 可从脚本重建的本地数据库 `literature.db` 不纳入 git；如需网页端使用，由部署流程或本地脚本重新生成。
+- 不要把 `venv/`、`.cache/`、`__pycache__/`、`.wrangler/`、日志文件和本地备份推到仓库。
+
 ---
 
 ## 数据字段
@@ -147,7 +161,7 @@ python scripts/build_search_db.py     # 重建全文检索数据库
 
 ## 全文检索
 
-`scripts/build_search_db.py` 基于 SQLite FTS5 构建本地全文检索数据库（`literature.db`，约 64 MB），支持对标题、摘要和作者的关键词搜索，毫秒级返回结果。
+`scripts/build_search_db.py` 基于 SQLite FTS5 构建本地全文检索数据库（`literature.db`，约 85 MB），支持对标题、摘要和作者的关键词搜索，毫秒级返回结果。
 
 ```bash
 # 构建索引（首次使用，或 articles.json 更新后重建）

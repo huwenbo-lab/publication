@@ -5,7 +5,7 @@ enrich_crossref.py — CrossRef API 数据补全脚本
   Phase 1: 有DOI但缺摘要 → 直接用DOI查CrossRef
   Phase 2: 无DOI → 用标题搜索CrossRef获取DOI（并顺便补摘要）
   Phase 3: 已有期刊补历史数据 → 按ISSN+年份范围抓取缺失年份
-  Phase 4: 8本缺失期刊全量抓取 → 按ISSN全量分页抓取
+  Phase 4: 无本地Excel的期刊全量抓取 → 按ISSN全量分页抓取
 
 用法：
   source venv/bin/activate
@@ -36,7 +36,7 @@ MAILTO = "hwbruc@gmail.com"
 SLEEP_SEC = 1.0
 CROSSREF_BASE = "https://api.crossref.org"
 
-# 25本期刊配置：标准名 → {issn, start_year}
+# 31本期刊配置：标准名 → {issn, start_year}
 JOURNALS = {
     "American Journal of Sociology":                {"issn": "0002-9602", "start_year": 2000},
     "American Sociological Review":                  {"issn": "0003-1224", "start_year": 2000},
@@ -54,26 +54,38 @@ JOURNALS = {
     "Journal of Family Issues":                      {"issn": "0192-513X", "start_year": 2000},
     "Journal of Family Theory & Review":             {"issn": "1756-2570", "start_year": 2009},
     "Journal of Marriage and Family":                {"issn": "0022-2445", "start_year": 2000},
+    "Population Studies":                            {"issn": "0032-4728", "start_year": 1947},
     "Population and Development Review":             {"issn": "0098-7921", "start_year": 2000},
     "Research in Social Stratification and Mobility": {"issn": "0276-5624", "start_year": 2000},
+    "Social Indicators Research":                    {"issn": "0303-8300", "start_year": 1974},
     "Social Forces":                                 {"issn": "0037-7732", "start_year": 2000},
+    "Social Psychology Quarterly":                   {"issn": "0190-2725", "start_year": 1979},
     "Social Science Research":                       {"issn": "0049-089X", "start_year": 2000},
+    "Sociology Compass":                             {"issn": "1751-9020", "start_year": 2007},
     "Sociological Science":                          {"issn": "2330-6696", "start_year": 2014},
     "Sociology":                                     {"issn": "0038-0385", "start_year": 2000},
     "Sociology of Education":                        {"issn": "0038-0407", "start_year": 2000},
     "Socius":                                        {"issn": "2378-0231", "start_year": 2015},
+    "Advances in Life Course Research":              {"issn": "1569-4909", "start_year": 2000},
+    "Work and Occupations":                          {"issn": "0730-8884", "start_year": 1982},
     "Work, Employment and Society":                  {"issn": "0950-0170", "start_year": 2000},
 }
 
-# 8本缺失期刊（需全量抓取）
+# 无本地Excel的期刊（需全量抓取）
 MISSING_JOURNALS = {
+    "Advances in Life Course Research",
     "Asian Population Studies",
     "European Journal of Population",
     "Gender & Society",
     "Journal of Family Theory & Review",
+    "Population Studies",
+    "Social Indicators Research",
+    "Social Psychology Quarterly",
     "Sociological Science",
+    "Sociology Compass",
     "Sociology",
     "Socius",
+    "Work and Occupations",
     "Work, Employment and Society",
 }
 
@@ -406,7 +418,7 @@ def phase2_find_dois(articles, dry_run=False):
 # CrossRef按ISSN分页抓取文章
 # ──────────────────────────────────────────────
 
-def fetch_by_issn(issn, from_year, until_year, journal_name, existing_dois):
+def fetch_by_issn(issn, from_year, until_year, journal_name, existing_dois, year_callback=None):
     """
     从CrossRef按ISSN抓取指定年份范围的所有文章。
     策略：按年逐年抓取 + offset分页，避免cursor分页在某些查询下过早停止。
@@ -444,6 +456,7 @@ def fetch_by_issn(issn, from_year, until_year, journal_name, existing_dois):
         )
         offset = 0
         year_fetched = 0
+        year_articles = []
 
         while True:
             url = (
@@ -479,6 +492,7 @@ def fetch_by_issn(issn, from_year, until_year, journal_name, existing_dois):
                 if doi_norm and doi_norm in existing_dois:
                     continue
                 new_articles.append(art)
+                year_articles.append(art)
                 total_new += 1
                 if doi_norm:
                     existing_dois.add(doi_norm)
@@ -491,6 +505,8 @@ def fetch_by_issn(issn, from_year, until_year, journal_name, existing_dois):
 
         if year_fetched > 0 and (year % 5 == 0 or year == until_year):
             print(f"    {year}年: {year_fetched} 条 | 累计新增: {total_new}")
+        if year_callback and year_articles:
+            year_callback(year, year_articles)
 
     return new_articles, had_api_failure
 
@@ -555,10 +571,17 @@ def phase3_fill_gaps(articles, dry_run=False, progress=None, selected_journals=N
 
 
 # ──────────────────────────────────────────────
-# Phase 4: 全量抓取8本缺失期刊
+# Phase 4: 全量抓取无本地Excel的期刊
 # ──────────────────────────────────────────────
 
-def phase4_fetch_missing_journals(articles, dry_run=False, progress=None, selected_journals=None):
+def phase4_fetch_missing_journals(
+    articles,
+    dry_run=False,
+    progress=None,
+    selected_journals=None,
+    year_from=None,
+    year_to=None,
+):
     print("\n=== Phase 4: 全量抓取缺失期刊 ===")
 
     if progress is None:
@@ -578,8 +601,8 @@ def phase4_fetch_missing_journals(articles, dry_run=False, progress=None, select
 
         config = JOURNALS[journal_name]
         issn = config["issn"]
-        start_year = config["start_year"]
-        current_year = datetime.now().year
+        start_year = max(config["start_year"], year_from) if year_from else config["start_year"]
+        current_year = min(datetime.now().year, year_to) if year_to else datetime.now().year
 
         if p4.get(journal_name) == "done":
             print(f"  跳过（已完成）: {journal_name}")
@@ -590,11 +613,19 @@ def phase4_fetch_missing_journals(articles, dry_run=False, progress=None, select
         if dry_run:
             continue
 
+        def save_year_articles(year, year_articles):
+            articles.extend(year_articles)
+            save_articles(articles)
+
         new_arts, had_api_failure = fetch_by_issn(
-            issn, start_year, current_year, journal_name, existing_dois
+            issn,
+            start_year,
+            current_year,
+            journal_name,
+            existing_dois,
+            year_callback=save_year_articles,
         )
         print(f"    → 新增 {len(new_arts)} 篇")
-        articles.extend(new_arts)
         total_new += len(new_arts)
 
         save_articles(articles)
@@ -623,6 +654,10 @@ def main():
                         help="仅处理指定期刊；可多次传入，或在一次参数中用逗号分隔")
     parser.add_argument("--dry-run", action="store_true",
                         help="仅显示计划，不发送API请求，不写入文件")
+    parser.add_argument("--year-from", type=int,
+                        help="Phase 4 使用：覆盖全量抓取的起始年份")
+    parser.add_argument("--year-to", type=int,
+                        help="Phase 4 使用：覆盖全量抓取的结束年份")
     args = parser.parse_args()
 
     phases = [int(p.strip()) for p in args.phase.split(",")]
@@ -660,6 +695,8 @@ def main():
             dry_run=dry_run,
             progress=progress,
             selected_journals=selected_journals,
+            year_from=args.year_from,
+            year_to=args.year_to,
         )
 
     if not dry_run:

@@ -1,0 +1,115 @@
+{
+  "version": "2026-06-26",
+  "strategy": "bounded-core-first",
+  "description": "Agent-facing journal tiers for the local sociology and demography literature database. The full archive remains in articles.json; this file controls default screening and escalation.",
+  "abstract_policy": {
+    "archive": "Keep full abstracts in articles.json.",
+    "default_screening": "Use title plus abstract_preview first. Load full abstracts only for narrowed candidates.",
+    "preview_chars": 800
+  },
+  "tiers": {
+    "core_default": {
+      "include_in_default_screening": true,
+      "year_min": null,
+      "purpose": "Main sociology, demography, family, gender, stratification, education, and China-facing journal pool.",
+      "journals": [
+        "American Journal of Sociology",
+        "American Sociological Review",
+        "Asian Population Studies",
+        "British Journal of Sociology of Education",
+        "Chinese Journal of Sociology",
+        "Chinese Sociological Review",
+        "Demographic Research",
+        "Demography",
+        "European Journal of Population",
+        "European Sociological Review",
+        "Gender & Society",
+        "Journal of Family Issues",
+        "Journal of Family Theory & Review",
+        "Journal of Marriage and Family",
+        "Population and Development Review",
+        "Research in Social Stratification and Mobility",
+        "Social Forces",
+        "Sociological Science",
+        "Sociology of Education",
+        "Socius"
+      ]
+    },
+    "review_anchor": {
+      "include_in_default_screening": true,
+      "year_min": null,
+      "purpose": "Review and map-making sources. Use for conceptual orientation, not as evidence that a specific empirical claim is settled.",
+      "journals": [
+        "Annual Review of Sociology"
+      ]
+    },
+    "adjacent_recent": {
+      "include_in_default_screening": true,
+      "purpose": "Adjacent or broad journals included in default screening only for recent records unless a targeted reason exists.",
+      "rules": [
+        {
+          "journal": "Advances in Life Course Research",
+          "year_min": 2000,
+          "reason": "Life-course mechanism anchor; current local records often lack abstracts, so use mainly as title-level routing."
+        },
+        {
+          "journal": "British Journal of Sociology",
+          "year_min": 2017,
+          "reason": "Broad sociology journal; recent records are useful for positioning, older records should be targeted."
+        },
+        {
+          "journal": "Social Psychology Quarterly",
+          "year_min": 2000,
+          "reason": "Useful for norms, identity, fairness, and interactional mechanisms."
+        },
+        {
+          "journal": "Social Science Research",
+          "year_min": 2017,
+          "reason": "Broad quantitative social science; use recent records by default."
+        },
+        {
+          "journal": "Social Indicators Research",
+          "year_min": 2020,
+          "reason": "Very large and broad quality-of-life/social indicators journal. Recent records are included for construct and background searches; older records are archive-only."
+        },
+        {
+          "journal": "Population Studies",
+          "year_min": 2020,
+          "reason": "Important demographic journal, but broad and currently mostly title-only in this archive. Recent records are included; older records are archive-only."
+        },
+        {
+          "journal": "Sociology",
+          "year_min": 2017,
+          "reason": "Broad sociology journal; use recent records by default."
+        },
+        {
+          "journal": "Sociology Compass",
+          "year_min": 2020,
+          "reason": "Review-style journal with long abstracts. Use recent records by default; older review records are targeted only."
+        },
+        {
+          "journal": "Work and Occupations",
+          "year_min": 2017,
+          "reason": "Work, occupation, and labor-market mechanisms; use when employment or job structure is relevant."
+        },
+        {
+          "journal": "Work, Employment and Society",
+          "year_min": 2017,
+          "reason": "Labor and work-family adjacency; recent records only by default."
+        }
+      ]
+    },
+    "archive_on_demand": {
+      "include_in_default_screening": false,
+      "purpose": "Large, broad, old, or lower-priority material. Search only for targeted gaps, reviewer-risk checks, or explicit user requests.",
+      "rules": []
+    }
+  },
+  "open_search_triggers": [
+    "Making a strong novelty claim.",
+    "A likely reviewer literature family is missing from the local pool.",
+    "The local pool has no direct core conversation for the empirical finding.",
+    "The project requires non-sociology fields such as economics, psychology, public health, policy, or area studies.",
+    "A user explicitly asks for a broader or systematic search."
+  ]
+}

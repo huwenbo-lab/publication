@@ -1,7 +1,7 @@
 """
 update.py — 自动更新脚本
 
-从CrossRef抓取25本期刊的最新文章，去重后追加到数据库。
+从CrossRef抓取31本期刊的最新文章，去重后追加到数据库。
 
 用法：
   source venv/bin/activate
@@ -45,7 +45,7 @@ DERIVED_BUILDERS = [
     ("质量报告", [sys.executable, str(SCRIPTS_DIR / "check_quality.py")]),
 ]
 
-# 25本期刊配置
+# 31本期刊配置
 JOURNALS = {
     "American Journal of Sociology":                {"issn": "0002-9602", "start_year": 2000},
     "American Sociological Review":                  {"issn": "0003-1224", "start_year": 2000},
@@ -63,14 +63,20 @@ JOURNALS = {
     "Journal of Family Issues":                      {"issn": "0192-513X", "start_year": 2000},
     "Journal of Family Theory & Review":             {"issn": "1756-2570", "start_year": 2009},
     "Journal of Marriage and Family":                {"issn": "0022-2445", "start_year": 2000},
+    "Population Studies":                            {"issn": "0032-4728", "start_year": 1947},
     "Population and Development Review":             {"issn": "0098-7921", "start_year": 2000},
     "Research in Social Stratification and Mobility": {"issn": "0276-5624", "start_year": 2000},
+    "Social Indicators Research":                    {"issn": "0303-8300", "start_year": 1974},
     "Social Forces":                                 {"issn": "0037-7732", "start_year": 2000},
+    "Social Psychology Quarterly":                   {"issn": "0190-2725", "start_year": 1979},
     "Social Science Research":                       {"issn": "0049-089X", "start_year": 2000},
+    "Sociology Compass":                             {"issn": "1751-9020", "start_year": 2007},
     "Sociological Science":                          {"issn": "2330-6696", "start_year": 2014},
     "Sociology":                                     {"issn": "0038-0385", "start_year": 2000},
     "Sociology of Education":                        {"issn": "0038-0407", "start_year": 2000},
     "Socius":                                        {"issn": "2378-0231", "start_year": 2015},
+    "Advances in Life Course Research":              {"issn": "1569-4909", "start_year": 2000},
+    "Work and Occupations":                          {"issn": "0730-8884", "start_year": 1982},
     "Work, Employment and Society":                  {"issn": "0950-0170", "start_year": 2000},
 }
 

@@ -34,7 +34,7 @@ FILENAME_TO_JOURNAL = {
     "Sociology of Education.xls": "Sociology of Education",
 }
 
-# 25本目标期刊及其数据起始年
+# 31本目标期刊及其数据起始年
 TARGET_JOURNALS = {
     "American Journal of Sociology": 2000,
     "American Sociological Review": 2000,
@@ -52,14 +52,20 @@ TARGET_JOURNALS = {
     "Journal of Family Issues": 2000,
     "Journal of Family Theory & Review": 2009,
     "Journal of Marriage and Family": 2000,
+    "Population Studies": 1947,
     "Population and Development Review": 2000,
     "Research in Social Stratification and Mobility": 2000,
+    "Social Indicators Research": 1974,
     "Social Forces": 2000,
+    "Social Psychology Quarterly": 1979,
     "Social Science Research": 2000,
+    "Sociology Compass": 2007,
     "Sociological Science": 2014,
     "Sociology": 2000,
     "Sociology of Education": 2000,
     "Socius": 2015,
+    "Advances in Life Course Research": 2000,
+    "Work and Occupations": 1982,
     "Work, Employment and Society": 2000,
 }
 
@@ -207,7 +213,7 @@ def main():
     lines.append(f"\n生成时间：{now_str}\n")
 
     lines.append("## 一、总体概况\n")
-    lines.append(f"- 目标期刊总数：**25本**")
+    lines.append(f"- 目标期刊总数：**{len(TARGET_JOURNALS)}本**")
     lines.append(f"- 已有Excel数据期刊：**{len(results)}本**")
     lines.append(f"- 缺失期刊（需从CrossRef全量抓取）：**{len(missing_journals)}本**")
     lines.append(f"- Excel文件中文章总数：**{all_rows_count:,}条**\n")
@@ -262,12 +268,18 @@ def main():
     lines.append("| 期刊名称 | ISSN | 数据起始年 | 说明 |")
     lines.append("|---|---|---|---|")
     missing_info = {
+        "Advances in Life Course Research": ("1569-4909", 2000, "当前题名CrossRef数据从2000年开始"),
         "Asian Population Studies": ("1744-1730", 2005, "2005年创刊"),
         "European Journal of Population": ("0168-6577", 2000, "正常创刊"),
         "Gender & Society": ("0891-2432", 2000, "正常创刊"),
         "Journal of Family Theory & Review": ("1756-2570", 2009, "2009年创刊"),
+        "Population Studies": ("0032-4728", 1947, "1947年创刊"),
+        "Social Indicators Research": ("0303-8300", 1974, "1974年创刊"),
+        "Social Psychology Quarterly": ("0190-2725", 1979, "当前题名从1979年开始"),
         "Sociology": ("0038-0385", 2000, "正常创刊"),
+        "Sociology Compass": ("1751-9020", 2007, "2007年创刊"),
         "Work, Employment and Society": ("0950-0170", 2000, "正常创刊"),
+        "Work and Occupations": ("0730-8884", 1982, "当前题名从1982年开始"),
         "Sociological Science": ("2330-6696", 2014, "2014年创刊"),
         "Socius": ("2378-0231", 2015, "2015年创刊"),
     }
@@ -307,7 +319,7 @@ def main():
     lines.append("   - 补全缺失摘要（有DOI者直接查CrossRef）")
     lines.append("   - 补全缺失DOI（按标题搜索CrossRef）")
     lines.append("   - 抓取历史缺口年份数据（按ISSN+年份范围查CrossRef）")
-    lines.append("   - 全量抓取8本缺失期刊的数据")
+    lines.append("   - 全量抓取无本地Excel期刊的数据")
     lines.append("3. **Step 4（自动更新）**：运行 `python scripts/update.py` 可定期从CrossRef获取最新文章")
 
     report_path = REPORTS_DIR / "data_quality_report.md"

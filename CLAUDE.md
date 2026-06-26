@@ -2,11 +2,11 @@
 
 ## 项目介绍
 
-本项目是一个社会学与人口学领域的学术文献数据库，收录25本核心期刊2000年至今的文章元数据（标题、摘要、作者、DOI等）。研究方向涵盖社会分层、婚姻与家庭、人口学。
+本项目是一个社会学与人口学领域的学术文献数据库，收录31本核心期刊的文章元数据（标题、摘要、作者、DOI等）。研究方向涵盖社会分层、婚姻与家庭、人口学。
 
 数据来源：Web of Science导出 + CrossRef API补全。前端为静态HTML页面，部署在GitHub Pages。
 
-## 期刊列表（25本）
+## 期刊列表（31本）
 
 | 期刊名称 | ISSN | 数据起始年 |
 |---|---|---|
@@ -26,14 +26,20 @@
 | Journal of Family Issues | 0192-513X | 2000 |
 | Journal of Family Theory & Review | 1756-2570 | 2009 |
 | Journal of Marriage and Family | 0022-2445 | 2000 |
+| Population Studies | 0032-4728 | 1947 |
 | Population and Development Review | 0098-7921 | 2000 |
 | Research in Social Stratification and Mobility | 0276-5624 | 2000 |
+| Social Indicators Research | 0303-8300 | 1974 |
 | Social Forces | 0037-7732 | 2000 |
+| Social Psychology Quarterly | 0190-2725 | 1979 |
 | Social Science Research | 0049-089X | 2000 |
+| Sociology Compass | 1751-9020 | 2007 |
 | Sociological Science | 2330-6696 | 2014 |
 | Sociology | 0038-0385 | 2000 |
 | Sociology of Education | 0038-0407 | 2000 |
 | Socius | 2378-0231 | 2015 |
+| Advances in Life Course Research | 1569-4909 | 2000 |
+| Work and Occupations | 0730-8884 | 1982 |
 | Work, Employment and Society | 0950-0170 | 2000 |
 
 ## 数据字段说明
@@ -86,7 +92,7 @@ python scripts/update.py --dry-run    # 仅检查，不写入
 ```
 
 脚本会自动：
-1. 从CrossRef查询25本期刊的最新文章
+1. 从CrossRef查询31本期刊的最新文章
 2. 按DOI去重，避免重复录入
 3. 新文章追加到 `articles.json`，同步更新 `data.json` 和 `data.js`
 4. 在 `docs/reports/update_log.md` 中记录更新详情

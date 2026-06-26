@@ -52,14 +52,20 @@ JOURNAL_ORDER = [
     "Journal of Family Issues",
     "Journal of Family Theory & Review",
     "Journal of Marriage and Family",
+    "Population Studies",
     "Population and Development Review",
     "Research in Social Stratification and Mobility",
+    "Social Indicators Research",
     "Social Forces",
+    "Social Psychology Quarterly",
     "Social Science Research",
+    "Sociology Compass",
     "Sociological Science",
     "Sociology",
     "Sociology of Education",
     "Socius",
+    "Advances in Life Course Research",
+    "Work and Occupations",
     "Work, Employment and Society",
 ]
 
@@ -133,7 +139,7 @@ def build_overview(arts, by_journal):
     lines = [
         "# 社会学与人口学文献数据库概览",
         "",
-        f"> 生成时间：{now}  ",
+        f"> 生成时间：{now}",
         f"> 总计：**{total:,}** 篇 | **{journals_with_data}** 本期刊 | {year_min}–{year_max}",
         "",
         "## 数据字段",
@@ -288,7 +294,7 @@ def build_all_titles_tsv(arts):
             n_authors = authors_raw.count(";")
             authors = first_author + (f" et al. (+{n_authors})" if n_authors > 0 else "")
         else:
-            authors = ""
+            authors = "[unknown]"
         lines.append(f"{title}\t{journal}\t{year}\t{doi}\t{authors}")
 
     out.write_text("\n".join(lines), encoding="utf-8")
