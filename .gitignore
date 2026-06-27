@@ -25,6 +25,7 @@ workers/**/.wrangler/
 
 # Logs, temporary files, and local archives
 _local/
+outputs/
 backups/
 tmp/
 exports/
