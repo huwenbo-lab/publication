@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2020–2026 年文章（含摘要）
 
-共 **376** 篇
+共 **377** 篇
 
 ---
 
@@ -103,6 +103,11 @@
 ### Can vocational role models change the gendered perception of STEM VET occupations? Results from an intervention study in Germany
 **年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101166](https://doi.org/10.1016/j.rssm.2026.101166)
 **作者**: Beckmann, Janina; Athanasiadi, Ermioni; Granato, Mona
+**摘要**: （暂无）
+
+### Beyond the Degree: Horizontal Stratification in Higher Education and Gendered Family Formation in South Korea
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101168](https://doi.org/10.1016/j.rssm.2026.101168)
+**作者**: Choi, Seongsoo; In, Jung; Yu, Haeseul
 **摘要**: （暂无）
 
 ### Associations of perceived social mobility with health indicators: Findings from the Chinese general social survey from 2017 to 2021

@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **500** 篇
+共 **502** 篇
 
 ---
 
@@ -238,6 +238,11 @@
 ### The paradox of the ‘good teacher’: navigating power relations and subjectivity in China’s recorded courses
 **年份**: 2026 | **DOI**: [10.1080/01425692.2026.2618474](https://doi.org/10.1080/01425692.2026.2618474)
 **作者**: Li, Kaiyi
+**摘要**: （暂无）
+
+### Making sense of school relations: Children’s voices
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2663690](https://doi.org/10.1080/01425692.2026.2663690)
+**作者**: Mayo, Peter
 **摘要**: （暂无）
 
 ### 'Dancing with bonds': embodied transitions of rural students into higher education
@@ -1419,6 +1424,11 @@
 **年份**: 2023 | **DOI**: [10.1080/01425692.2022.2153646](https://doi.org/10.1080/01425692.2022.2153646)
 **作者**: Flavin, Michael
 **摘要**: This article analyses speeches made by UK higher education ministers, from the election of the Conservative government in May 2015 through to September 2020. The article uses disruptive innovation as a theoretical framework through which to analyse ministers' perspectives on innovation.…
+
+### Other sociologies of education: providing critical perspectives from the Global South and North
+**年份**: 2023 | **DOI**: [10.1080/01425692.2023.2296008](https://doi.org/10.1080/01425692.2023.2296008)
+**作者**: Peruzzo, Francesca; Joiko, Sara; Allan, Julie 等4人
+**摘要**: （暂无）
 
 ### 'I am the black duck' affective aspects of working-class mothers' involvement in parental communities
 **年份**: 2022 | **DOI**: [10.1080/01425692.2021.1999791](https://doi.org/10.1080/01425692.2021.1999791)

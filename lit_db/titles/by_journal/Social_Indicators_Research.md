@@ -1,6 +1,6 @@
 # Social Indicators Research — 文章标题索引
 
-共 **5938** 篇 | 年份范围：1974–2026
+共 **5940** 篇 | 年份范围：1974–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -4321,6 +4321,8 @@
 - What Do Happy People Do? · [DOI](https://doi.org/10.1007/s11205-008-9296-6)
 - When Home Becomes Work: Work and Family Time among Workers at Home · [DOI](https://doi.org/10.1007/s11205-008-9377-6)
 - Youth and Well-Being: A South African Case Study · [DOI](https://doi.org/10.1007/s11205-008-9279-7)
+- Synthetic Indicators of Quality of Life in Europe · [DOI](https://doi.org/10.1007/s11205-008-9356-y)
+- Folk Theories of Happiness: A Cross-Cultural Comparison of Conceptions of Happiness in Germany and South Africa · [DOI](https://doi.org/10.1007/s11205-008-9306-8)
 
 ## 2007
 

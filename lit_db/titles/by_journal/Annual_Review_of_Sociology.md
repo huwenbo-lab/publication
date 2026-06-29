@@ -1,6 +1,6 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **631** 篇 | 年份范围：1975–2026
+共 **636** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -572,6 +572,7 @@
 - Sociological miniaturism: Seeing the big through the small in social psychology · [DOI](https://doi.org/10.1146/annurev.soc.27.1.387)
 - The scale of justice: Observations on the transformation of urban law practice · [DOI](https://doi.org/10.1146/annurev.soc.27.1.337)
 - Violence and the Life Course: The Consequences of Victimization for Personal and Social Development · [DOI](https://doi.org/10.1146/annurev.soc.27.1.1)
+- Hate Crime: An Emergent Research Agenda · [DOI](https://doi.org/10.1146/annurev.soc.27.1.479)
 
 ## 2000
 
@@ -618,6 +619,7 @@
 - Sociological Work in Japan · [DOI](https://doi.org/10.1146/annurev.soc.24.1.499)
 - Using Computers to Analyze Ethnographic Field Data: Theoretical and Practical Considerations · [DOI](https://doi.org/10.1146/annurev.soc.24.1.477)
 - Measuring Meaning Structures · [DOI](https://doi.org/10.1146/annurev.soc.24.1.345)
+- Warmer and More Social: Recent Developments in Cognitive Social Psychology · [DOI](https://doi.org/10.1146/annurev.soc.24.1.239)
 
 ## 1997
 
@@ -662,6 +664,7 @@
 - The State and Fiscal Sociology · [DOI](https://doi.org/10.1146/annurev.so.19.080193.001115)
 - Entry Into School: The Beginning School Transition and Educational Stratification in the United States · [DOI](https://doi.org/10.1146/annurev.so.19.080193.002153)
 - Macrocomparative Research Methods · [DOI](https://doi.org/10.1146/annurev.so.19.080193.001541)
+- The Situational Analysis of Crime and Deviance · [DOI](https://doi.org/10.1146/annurev.so.19.080193.000553)
 
 ## 1992
 
@@ -722,6 +725,7 @@
 - Social Impact Assessment · [DOI](https://doi.org/10.1146/annurev.so.12.080186.002315)
 - The Transition to Adulthood · [DOI](https://doi.org/10.1146/annurev.so.12.080186.000545)
 - Associations and Interest Groups · [DOI](https://doi.org/10.1146/annurev.so.12.080186.000245)
+- Fifty Years of Sociology · [DOI](https://doi.org/10.1146/annurev.so.12.080186.005033)
 
 ## 1985
 
@@ -757,6 +761,7 @@
 ## 1980
 
 - The Sociology of Housing · [DOI](https://doi.org/10.1146/annurev.so.06.080180.002325)
+- Continuities in the Study of Total and Nontotal Institutions · [DOI](https://doi.org/10.1146/annurev.so.06.080180.001043)
 
 ## 1979
 

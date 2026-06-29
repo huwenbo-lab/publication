@@ -1,6 +1,6 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **860** 篇 | 年份范围：2001–2026
+共 **861** 篇 | 年份范围：2001–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -27,6 +27,7 @@
 - Is overqualification a stepping stone for career progression among children of immigrants? · [DOI](https://doi.org/10.1016/j.rssm.2026.101164)
 - Aspirations as boundaries. Guidance practices and the reproduction of social inequality in free-choice tracking systems · [DOI](https://doi.org/10.1016/j.rssm.2026.101165)
 - Can vocational role models change the gendered perception of STEM VET occupations? Results from an intervention study in Germany · [DOI](https://doi.org/10.1016/j.rssm.2026.101166)
+- Beyond the Degree: Horizontal Stratification in Higher Education and Gendered Family Formation in South Korea · [DOI](https://doi.org/10.1016/j.rssm.2026.101168)
 
 ## 2025
 

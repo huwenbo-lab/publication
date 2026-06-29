@@ -1,6 +1,6 @@
 # Journal of Family Theory & Review — 文章标题索引
 
-共 **753** 篇 | 年份范围：2009–2026
+共 **754** 篇 | 年份范围：2009–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -335,6 +335,7 @@
 - White Supremacy and the Web of Family Science: Implications of the Missing Spider · [DOI](https://doi.org/10.1111/jftr.12364)
 - Who Counts as Family Later in Life? Following Theoretical Leads · [DOI](https://doi.org/10.1111/jftr.12367)
 - “I'm Black, I'm Strong, and I Need Help”: Toxic Black Femininity and Intimate Partner Violence · [DOI](https://doi.org/10.1111/jftr.12358)
+- Grandparents in Cultural Context. David W.Shwalb &amp; ZiaratHossain (Eds.). 2017. New York, NY: Routledge. ISBN 978‐1‐138‐18850‐1. · [DOI](https://doi.org/10.1111/jftr.12374)
 
 ## 2019
 

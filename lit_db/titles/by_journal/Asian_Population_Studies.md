@@ -1,6 +1,6 @@
 # Asian Population Studies — 文章标题索引
 
-共 **436** 篇 | 年份范围：2005–2026
+共 **437** 篇 | 年份范围：2005–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -17,6 +17,7 @@
 - Komang and Ketut: an ex-ante analysis of Bali’s pro-natalist policy · [DOI](https://doi.org/10.1080/17441730.2026.2680864)
 - The role of social networks on fertility: evidence from high and low fertility states of India · [DOI](https://doi.org/10.1080/17441730.2026.2680865)
 - Ethnicity matters: unpacking female labour participation in Lao PDR · [DOI](https://doi.org/10.1080/17441730.2026.2691002)
+- Child malnutrition and maternal employment: insights from Indonesia · [DOI](https://doi.org/10.1080/17441730.2026.2682061)
 
 ## 2025
 

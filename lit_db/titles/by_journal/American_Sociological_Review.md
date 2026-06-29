@@ -1,6 +1,6 @@
 # American Sociological Review — 文章标题索引
 
-共 **1256** 篇 | 年份范围：1936–2026
+共 **1259** 篇 | 年份范围：1936–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1122,6 +1122,7 @@
 - “Property Values Drop When Blacks Move In, Because…”: Racial and Socioeconomic Determinants of Neighborhood Desirability · [DOI](https://doi.org/10.1177/000312249906400308)
 - Rebel without a Cause or Effect: Birth Order and Social Attitudes · [DOI](https://doi.org/10.2307/2657528)
 - The Effect of Marriage and Divorce on Women's Economic Well-Being · [DOI](https://doi.org/10.2307/2657403)
+- Organizational Mediation of Project-Based Labor Markets: Talent Agencies and the Careers of Screenwriters · [DOI](https://doi.org/10.2307/2657278)
 
 ## 1998
 
@@ -1387,6 +1388,7 @@
 - The Cohort as a Concept in the Study of Social Change · [DOI](https://doi.org/10.2307/2090964)
 - Durkheim's One Cause of Suicide · [DOI](https://doi.org/10.2307/2090966)
 - Max Weber and Empirical Social Research · [DOI](https://doi.org/10.2307/2091563)
+- Academic Ability, Higher Education, and Occupational Mobility · [DOI](https://doi.org/10.2307/2091141)
 
 ## 1964
 
@@ -1427,6 +1429,7 @@
 - Urbanization and Natural Resources: A Study in Organizational Ecology · [DOI](https://doi.org/10.2307/2089240)
 - Voluntary Association Memberships of American Adults: Evidence from National Sample Surveys · [DOI](https://doi.org/10.2307/2089242)
 - The Developmental Cycle in Domestic Groups. · [DOI](https://doi.org/10.2307/2088842)
+- Randomization and Inference in Sociological Research · [DOI](https://doi.org/10.2307/2088804)
 
 ## 1957
 

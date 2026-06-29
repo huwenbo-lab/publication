@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **743** 篇
+共 **745** 篇
 
 ---
 
@@ -184,6 +184,16 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231261452733](https://doi.org/10.1177/23780231261452733)
 **作者**: Wu, Tommy; Zhang, Junyi; Gan, Zachary 等4人
 **摘要**: The authors examine how platform companies structure labor control in the food-delivery sector by comparing two major apps operating in the United States and Canada: Uber Eats and Fantuan.…
+
+### Redefining Roles: Household Migration and Childhood Labor
+**年份**: 2026 | **DOI**: [10.1177/23780231261459562](https://doi.org/10.1177/23780231261459562)
+**作者**: Labovitz, Emma; Hayford, Sarah
+**摘要**: Migration by some household members has significant economic, social, and psychological impacts both on migrants and on members of the household who do not migrate, especially children.…
+
+### Visualizing the Adoption of Large Language Models across Sociology Subfields
+**年份**: 2026 | **DOI**: [10.1177/23780231261460657](https://doi.org/10.1177/23780231261460657)
+**作者**: Cao, Likun
+**摘要**: Generative large language models (LLMs) entered scientific writing at scale after the public release of ChatGPT in November 2022, but their adoption in sociological research remains largely unmapped.…
 
 ### A Convergence of Crises: Sudden Employment Loss and Black Lives Matter Protest Attendance during the COVID-19 Pandemic
 **年份**: 2025 | **DOI**: [10.1177/23780231251328799](https://doi.org/10.1177/23780231251328799)

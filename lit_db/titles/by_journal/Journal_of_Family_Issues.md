@@ -1,6 +1,6 @@
 # Journal of Family Issues — 文章标题索引
 
-共 **2359** 篇 | 年份范围：1980–2026
+共 **2362** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2415,6 +2415,7 @@
 - The Impact of Rational Considerations and Perceived Opinions on Young Adults' Union Formation Intentions · [DOI](https://doi.org/10.1177/019251393014002004)
 - Family Discourse, Organizational Embeddedness, and Local Enactment · [DOI](https://doi.org/10.1177/0192513x93014001006)
 - Responsibilities in Studying Postmodern Families · [DOI](https://doi.org/10.1177/0192513x93014001004)
+- Developing a Middle-Range Theory of Father Involvement Postdivorce · [DOI](https://doi.org/10.1177/019251393014004005)
 
 ## 1992
 
@@ -2447,6 +2448,7 @@
 
 - Economic Distress, Social Integration, and Family Satisfaction · [DOI](https://doi.org/10.1177/019251388009004007)
 - The Gender Division of Labor and the Reproduction of Female Disadvantage · [DOI](https://doi.org/10.1177/019251388009001006)
+- France · [DOI](https://doi.org/10.1177/019251388009003004)
 
 ## 1987
 
@@ -2485,6 +2487,7 @@
 - Family Policy · [DOI](https://doi.org/10.1177/019251383004003001)
 - The Time Crunch · [DOI](https://doi.org/10.1177/019251383004001004)
 - The Television Family and Children's Fright Reactions · [DOI](https://doi.org/10.1177/019251383004002002)
+- Problems of Prisoners' Families · [DOI](https://doi.org/10.1177/019251383004004004)
 
 ## 1982
 

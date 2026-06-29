@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1630** 篇 | 年份范围：1980–2026
+共 **1633** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -54,6 +54,7 @@
 - Toward a sociology of education and artificial intelligence · [DOI](https://doi.org/10.1080/01425692.2026.2686013)
 - The role of parents’ educational background in upper secondary students’ utilization of career guidance resources · [DOI](https://doi.org/10.1080/01425692.2026.2619914)
 - The paradox of the ‘good teacher’: navigating power relations and subjectivity in China’s recorded courses · [DOI](https://doi.org/10.1080/01425692.2026.2618474)
+- Making sense of school relations: Children’s voices · [DOI](https://doi.org/10.1080/01425692.2026.2663690)
 
 ## 2025
 
@@ -299,6 +300,7 @@
 - Upskilling the workforce? A critical analysis of national skills policies in China's Reform Era · [DOI](https://doi.org/10.1080/01425692.2023.2219405)
 - Urban neighbourhoods and guidance counselling in basic education: a spatial justice approach · [DOI](https://doi.org/10.1080/01425692.2023.2238908)
 - What higher education ministers talk about when they talk about innovation · [DOI](https://doi.org/10.1080/01425692.2022.2153646)
+- Other sociologies of education: providing critical perspectives from the Global South and North · [DOI](https://doi.org/10.1080/01425692.2023.2296008)
 
 ## 2022
 
@@ -671,6 +673,7 @@
 - Who likes' public education: social media activism, middle-class parents, and education policy in Israel · [DOI](https://doi.org/10.1080/01425692.2017.1418294)
 - Why study abroad? Sorting of Chinese students across British universities · [DOI](https://doi.org/10.1080/01425692.2017.1349649)
 - ‘Elites’ · [DOI](https://doi.org/10.1080/01425692.2018.1424104)
+- The toxic university: zombie leadership, academic rock stars, and neoliberal ideology · [DOI](https://doi.org/10.1080/01425692.2018.1469259)
 
 ## 2017
 

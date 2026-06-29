@@ -1,7 +1,7 @@
 # Work, Employment and Society
 ## 2000–2009 年文章（含摘要）
 
-共 **438** 篇
+共 **441** 篇
 
 ---
 
@@ -1906,6 +1906,16 @@
 **作者**: Fraser, Janet; Gold, Michael
 **摘要**: Recent literature has begun to disaggregate groups of the `self-employed without employees' to examine in greater detail what determines their working conditions. This article continues this trend ...
 
+### Flexible Work and Flexible Fathers
+**年份**: 2001 | **DOI**: [10.1177/09500170122118940](https://doi.org/10.1177/09500170122118940)
+**作者**: Brandth, Berit; Kvande, Elin
+**摘要**: The expansion of the parental leave scheme in Norway, which now grants extensive rights to employed fathers, has occured in a period of great changes in working life. The equality politics of the welfare state have been explicitly focussed on bringing reproduction more into the open in working life …
+
+### Age and Participation in Vocational Education and Training
+**年份**: 2001 | **DOI**: [10.1177/095001701400438198](https://doi.org/10.1177/095001701400438198)
+**作者**: Taylor, Philip; Urwin, Peter
+**摘要**: In recent years increasing attention has been paid to the problems faced by older workers in the UK labour market. In this paper we examine the issue of older workers' participation in vocational training and education, drawing upon data from the Labour Force Survey.…
+
 ### A Social Movement of the Mature Stage of Post-Industrial Society? The Internal Division of the Finish Trade Union Movement in the 1990s
 **年份**: 2000 | **DOI**: [10.1177/09500170022118301](https://doi.org/10.1177/09500170022118301)
 **作者**: Ilmonen, Kaj; Jokivuori, Pertti
@@ -2185,3 +2195,8 @@
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000155](https://doi.org/10.1017/s0950017000000155)
 **作者**: de P. Abreu, Alice R.; Beynon, Huw; Ramalho, José Ricardo
 **摘要**: This paper draws upon on-going research into the changes taking place in the Brazilian vehicle assembly industry with particular reference to the state of Rio de Janeiro. It focuses upon a case study of Volkswagen's bus and truck assembly plant at Resende.…
+
+### Production Supervisors in Britain, Germany and the United States: Back from the Dead again?
+**年份**: 2000 | **DOI**: [10.1177/09500170022118653](https://doi.org/10.1177/09500170022118653)
+**作者**: Mason, Geoff
+**摘要**: The recent diffusion of'lean production' work practices and various forms of team-working in manufacturing industry has revived old arguments about the likely decline of production supervisors.…

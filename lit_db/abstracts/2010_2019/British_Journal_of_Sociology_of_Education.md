@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **626** 篇
+共 **627** 篇
 
 ---
 
@@ -703,6 +703,11 @@
 ### ‘Elites’
 **年份**: 2018 | **DOI**: [10.1080/01425692.2018.1424104](https://doi.org/10.1080/01425692.2018.1424104)
 **作者**: Waters, Johanna L.
+**摘要**: （暂无）
+
+### The toxic university: zombie leadership, academic rock stars, and neoliberal ideology
+**年份**: 2018 | **DOI**: [10.1080/01425692.2018.1469259](https://doi.org/10.1080/01425692.2018.1469259)
+**作者**: Waters, Johanna
 **摘要**: （暂无）
 
 ### 'A strategy of distinction' unfolds: unsettling the undergraduate outbound mobility experience

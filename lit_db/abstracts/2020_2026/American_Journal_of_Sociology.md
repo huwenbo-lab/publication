@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **197** 篇
+共 **198** 篇
 
 ---
 
@@ -53,6 +53,11 @@
 ### Deportation’s Fallout: Evidence from Denmark
 **年份**: 2026 | **DOI**: [10.1086/742317](https://doi.org/10.1086/742317)
 **作者**: Light, Michael T.; Andersen, Lars H.; Hendel, Noa
+**摘要**: （暂无）
+
+### Kinship in Black and White Families: The Strength of Horizontal Ties
+**年份**: 2026 | **DOI**: [10.1086/742837](https://doi.org/10.1086/742837)
+**作者**: Leopold, Thomas; Kalmijn, Matthijs
 **摘要**: （暂无）
 
 ### Adjudication Under Cover: Compliance and Inequality in the Criminal Courts

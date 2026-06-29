@@ -1,6 +1,6 @@
 # Chinese Sociological Review — 文章标题索引
 
-共 **273** 篇 | 年份范围：2011–2026
+共 **275** 篇 | 年份范围：2011–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -11,6 +11,8 @@
 - Normalization, parent–child relationships and identity: becoming parents with tongxinglian (same-sex loving) sons/daughters in PFLAG China · [DOI](https://doi.org/10.1080/21620555.2026.2656195)
 - Large language models as a conduit for value shifts in contemporary China · [DOI](https://doi.org/10.1080/21620555.2026.2656193)
 - An alternative perspective on the Second Demographic Transition in East Asia: the relationship between pregnancy intentions and trajectories of cohabitation, marriage, and pregnancy in Japan · [DOI](https://doi.org/10.1080/21620555.2026.2663396)
+- School-age children’s development and parent’s well-being in contemporary China · [DOI](https://doi.org/10.1080/21620555.2026.2620670)
+- Multiple jobs, multiple risks? Examining the health consequences of multiple job holding in China · [DOI](https://doi.org/10.1080/21620555.2026.2625098)
 
 ## 2025
 

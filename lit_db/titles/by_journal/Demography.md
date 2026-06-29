@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **1923** 篇 | 年份范围：1964–2026
+共 **1924** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1953,6 +1953,7 @@
 - Why Marry? Race and the Transition to Marriage among Cohabitors · [DOI](https://doi.org/10.2307/2061671)
 - Cohort Trends in the Lifetime Distribution of Female Family Headship in the United States, 1968–1985 · [DOI](https://doi.org/10.2307/2061688)
 - Self-Interest and Altruism in Intergenerational Relations · [DOI](https://doi.org/10.2307/2061685)
+- Immigrant Characteristics and Hispanic-Anglo Housing Inequality · [DOI](https://doi.org/10.2307/2061677)
 
 ## 1994
 

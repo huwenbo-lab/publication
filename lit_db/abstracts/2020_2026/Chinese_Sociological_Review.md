@@ -1,7 +1,7 @@
 # Chinese Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **143** 篇
+共 **145** 篇
 
 ---
 
@@ -23,6 +23,16 @@
 ### An alternative perspective on the Second Demographic Transition in East Asia: the relationship between pregnancy intentions and trajectories of cohabitation, marriage, and pregnancy in Japan
 **年份**: 2026 | **DOI**: [10.1080/21620555.2026.2663396](https://doi.org/10.1080/21620555.2026.2663396)
 **作者**: Mogi, Ryohei; Uchikoshi, Fumiya; Yoda, Shohei
+**摘要**: （暂无）
+
+### School-age children’s development and parent’s well-being in contemporary China
+**年份**: 2026 | **DOI**: [10.1080/21620555.2026.2620670](https://doi.org/10.1080/21620555.2026.2620670)
+**作者**: Tang, Yinfang; Wu, Yuxiao
+**摘要**: （暂无）
+
+### Multiple jobs, multiple risks? Examining the health consequences of multiple job holding in China
+**年份**: 2026 | **DOI**: [10.1080/21620555.2026.2625098](https://doi.org/10.1080/21620555.2026.2625098)
+**作者**: Zhang, Hong; Xia, Boyang; Li, Xiao
 **摘要**: （暂无）
 
 ### Accept it or not?: young people's struggles with parental financing for property-purchase in Hong Kong

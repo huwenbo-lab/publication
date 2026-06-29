@@ -1,6 +1,6 @@
 # Gender & Society — 文章标题索引
 
-共 **1072** 篇 | 年份范围：1987–2026
+共 **1073** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1012,6 +1012,7 @@
 - “DOING” RACIALIZED AND GENDERED AGE TO ORGANIZE PEER RELATIONS · [DOI](https://doi.org/10.1177/089124301015006004)
 - “IF IT'S NOT ON, IT'S NOT ON”—OR IS IT? · [DOI](https://doi.org/10.1177/089124301015006008)
 - “WHY MARCIA YOU'VE CHANGED!” · [DOI](https://doi.org/10.1177/089124301015002004)
+- Book Reviews · [DOI](https://doi.org/10.1177/089124301015002011)
 
 ## 2000
 

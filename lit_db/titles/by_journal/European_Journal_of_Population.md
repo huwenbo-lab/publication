@@ -1,6 +1,6 @@
 # European Journal of Population — 文章标题索引
 
-共 **772** 篇 | 年份范围：1985–2026
+共 **774** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -98,6 +98,7 @@
 - Trapped in Place? Ethnic and Educational Heterogeneity in Residential Mobility and Integration of Young Adults in Brussels · [DOI](https://doi.org/10.1007/s10680-023-09690-3)
 - Uncertainty and Fertility in Ukraine on the Eve of Russia’s Full-Scale Invasion: The Impact of Armed Conflict and Economic Crisis · [DOI](https://doi.org/10.1007/s10680-024-09713-7)
 - Urban–Rural Disparities in the Transition to Parenthood During Times of Uncertainty: A Multilevel Perspective on Finland · [DOI](https://doi.org/10.1007/s10680-024-09725-3)
+- Magda Nico and Gary Pollock (Eds), The Routledge Handbook of Contemporary Inequalities and the Life Course · [DOI](https://doi.org/10.1007/s10680-024-09700-y)
 
 ## 2023
 
@@ -830,6 +831,7 @@
 ## 1998
 
 - Mortality Peaks in Italy in the Late 19th and Early 20th Centuries: Trends by Age and Sex · [DOI](https://doi.org/10.1023/a:1006182029835)
+- Internal Migration and Urban Change in Poland · [DOI](https://doi.org/10.1023/a:1006058712865)
 
 ## 1997
 

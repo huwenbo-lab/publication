@@ -1,7 +1,7 @@
 # Work, Employment and Society
 ## 2020–2026 年文章（含摘要）
 
-共 **439** 篇
+共 **440** 篇
 
 ---
 
@@ -414,6 +414,11 @@
 **年份**: 2025 | **DOI**: [10.1177/09500170251317407](https://doi.org/10.1177/09500170251317407)
 **作者**: Babarinde, Ibukunolu D; Butler, Christina L; Hannon, Enda
 **摘要**: While it is common to regard the traditional actors such as the employers and their representatives, employees and their representatives, and the state as the main actors in industrial relations (IR), this on-the-frontline article shows that host communities (HCs) can be recognised as IR actors in t…
+
+### Nihan Akyelken, Women, Work and Mobilities: The Case of Urban and Regional Contexts in Turkey and Sonia Bertolini, Valentina Goglio and Dirk Hofäcker, Job Insecurity and Life Courses AkyelkenNihanWomen, Work and Mobilities: The Case of Urban and Regional Contexts in TurkeyAbingdon: Routledge, 2024, £39.99 pbk, (ISBN: 9781032562988), 148 pp.BertoliniSoniaGoglioValentinaHofäckerDirkJob Insecurity and Life CoursesBristol: Bristol University Press, 2024, £27.99 ebk, (ISBN: 9781529208733), 208 pp.
+**年份**: 2025 | **DOI**: [10.1177/09500170251375727](https://doi.org/10.1177/09500170251375727)
+**作者**: Bahadur, Devika
+**摘要**: （暂无）
 
 ### (Doing) Time Is Money: Confinement, Prison Work and the Reproduction of Carceral Capitalism
 **年份**: 2024 | **DOI**: [10.1177/09500170241292947](https://doi.org/10.1177/09500170241292947)

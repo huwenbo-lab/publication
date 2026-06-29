@@ -1,6 +1,6 @@
 # American Journal of Sociology — 文章标题索引
 
-共 **1103** 篇 | 年份范围：1896–2026
+共 **1112** 篇 | 年份范围：1896–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -17,6 +17,7 @@
 - From Conflict to Cohesion: Structural Similarity Dampens Uncivil Discourse in Polarized Social Groups · [DOI](https://doi.org/10.1086/740301)
 - Atlantic Reconstruction: Democracy, Abolition, and the Making of Political Personhood · [DOI](https://doi.org/10.1086/741674)
 - Deportation’s Fallout: Evidence from Denmark · [DOI](https://doi.org/10.1086/742317)
+- Kinship in Black and White Families: The Strength of Horizontal Ties · [DOI](https://doi.org/10.1086/742837)
 
 ## 2025
 
@@ -689,6 +690,7 @@
 - What is organizational imprinting? Cultural entrepreneurship in the founding of the Paris Opera · [DOI](https://doi.org/10.1086/517899)
 - Syndication, Institutionalization, and Lottery Play · [DOI](https://doi.org/10.1086/521847)
 - Racial Context and Police Force Size: Evaluating the Empirical Validity of the Minority Threat Perspective · [DOI](https://doi.org/10.1086/518906)
+- The Party of Lincoln and the Politics of State Fair Employment Practices Legislation in the North, 1945–1964 · [DOI](https://doi.org/10.1086/512709)
 
 ## 2006
 
@@ -918,6 +920,7 @@
 - Escape from the GDR, 1961–1989: Hybrid Exit Repertoires in a Disintegrating Leninist Regime · [DOI](https://doi.org/10.1086/210358)
 - Bending with the Wind: Strategic Change and Adaptation by Women's and Racial Minority Organizations · [DOI](https://doi.org/10.1086/210220)
 - Nominal, Ordinal, and Narrative Appraisal in Macrocausal Analysis · [DOI](https://doi.org/10.1086/210139)
+- Market Partitioning and the Geometry of the Resource Space · [DOI](https://doi.org/10.1086/210138)
 
 ## 1998
 
@@ -948,6 +951,7 @@
 - Regional Variation in Earnings Inequality in Reform-Era Urban China · [DOI](https://doi.org/10.1086/230785)
 - Reputational Entrepreneurs and the Memory of Incompetence: Melting Supporters, Partisan Warriors, and Images of President Harding · [DOI](https://doi.org/10.1086/230820)
 - Pictures at an Exhibition: Conflicting Pressures in Museums and the Display of Art · [DOI](https://doi.org/10.1086/230781)
+- We Still Don't Know if Strict Churches are Strong, Much Less Why: Comment on Iannaccone · [DOI](https://doi.org/10.1086/230792)
 
 ## 1995
 
@@ -956,6 +960,7 @@
 - On the Edge or In Between: Niche Position, Niche Overlap, and the Duration of Voluntary Association Memberships · [DOI](https://doi.org/10.1086/230757)
 - Careers in Print: Books, Journals, and Scholarly Reputations · [DOI](https://doi.org/10.1086/230730)
 - Prediction in Macrosociology: The Case of the Soviet Collapse · [DOI](https://doi.org/10.1086/230672)
+- To Explain Political Processes · [DOI](https://doi.org/10.1086/230673)
 
 ## 1994
 
@@ -975,6 +980,7 @@
 - Intraorganizational Power and Internal Secularization in Protestant Denominations · [DOI](https://doi.org/10.1086/230228)
 - The Structure of Intergenerational Exchanges in American Families · [DOI](https://doi.org/10.1086/230194)
 - The Protestant Ethic Revisited: Disciplinary Revolution and State Formation in Holland and Prussia · [DOI](https://doi.org/10.1086/230266)
+- Trade Cohesion, Class Unity, and Urban Insurrection: Artisanal Activism in the Paris Commune · [DOI](https://doi.org/10.1086/230088)
 
 ## 1992
 
@@ -1029,6 +1035,7 @@
 - Sons, Daughters, and the Risk of Marital Disruption · [DOI](https://doi.org/10.1086/228953)
 - She Works Hard for the Money: Household Responsibilities and the Allocation of Work Effort · [DOI](https://doi.org/10.1086/228863)
 - The Other Side of Dialogue: On Making the Other Strange and the Experience of Otherness · [DOI](https://doi.org/10.1086/228868)
+- First World Nationalisms: Class and Ethnic Politics in Northern Ireland and Quebec.Katherine O'Sullivan See · [DOI](https://doi.org/10.1086/229058)
 
 ## 1987
 
@@ -1178,6 +1185,7 @@
 - Making Men Modern: On the Causes and Consequences of Individual Change in Six Developing Countries · [DOI](https://doi.org/10.1086/224767)
 - The Professional Self-Concept of Music Students · [DOI](https://doi.org/10.1086/224791)
 - Racial Change in a Stable Community · [DOI](https://doi.org/10.1086/224768)
+- Marks of Distinction: An Analysis of British Mass and Prestige Newspaper Editorials · [DOI](https://doi.org/10.1086/224661)
 
 ## 1968
 
@@ -1246,6 +1254,7 @@
 
 - The Optimum Size of Institutions a Theory of the Large Group · [DOI](https://doi.org/10.1086/222074)
 - The Natural History of Standard Metropolitan Areas · [DOI](https://doi.org/10.1086/222173)
+- Information Theory in Psychology: Problems and Methods.Henry Quastler · [DOI](https://doi.org/10.1086/222068)
 
 ## 1956
 

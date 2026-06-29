@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1421** 篇 | 年份范围：1986–2026
+共 **1422** 篇 | 年份范围：1986–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1537,6 +1537,7 @@
 - Jobs and classes: structural constraints on career mobility · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036428)
 - Commonality and variation in social fluidity in industrial nations. Part II: the model of core social fluidity applied · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036441)
 - Individuals and parties—changes in processes of political mobilization · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036449)
+- The illusion of distributive justice · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036427)
 
 ## 1986
 

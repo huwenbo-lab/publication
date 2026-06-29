@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **437** 篇
+共 **442** 篇
 
 ---
 
@@ -104,6 +104,21 @@
 **年份**: 2026 | **DOI**: [10.1111/1468-4446.70137](https://doi.org/10.1111/1468-4446.70137)
 **作者**: Irwin, Sarah
 **摘要**: ABSTRACT Despite rising socioeconomic inequalities most people see individualised merit as crucial for social success. Drawing on surveys such as the ISSP a wealth of research examines trends in subjective perceptions, the relative importance accorded to merit and non‐merit factors for getting ahead…
+
+### A Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie. By DanEvans, London: Repeater Books, 2023. 330 pp. £12.99 (paperback). ISBN: 978‐1‐91‐346269‐7
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70144](https://doi.org/10.1111/1468-4446.70144)
+**作者**: Wakefield, Thirza
+**摘要**: （暂无）
+
+### The Normative Turn: Back to Hobhouse?
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70143](https://doi.org/10.1111/1468-4446.70143)
+**作者**: Hammersley, Martyn
+**摘要**: ABSTRACT Supporters of a recently announced normative turn in sociology acknowledge that what they recommend is by no means entirely new. However, they have given little attention to an early precursor: the British sociologist Leonard Hobhouse.…
+
+### Opportunities and Alliances: The Relational Dynamics of Criminal Collusion in Latin America
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70145](https://doi.org/10.1111/1468-4446.70145)
+**作者**: Levy, Eldad J.; Auyero, Javier
+**摘要**: ABSTRACT Based on ethnographic fieldwork in Mexico and judicial wiretap analysis in Argentina, this paper shows that collusion between state actors and violent non‐state actors operates through fluid and competitive relational networks rather than stable hierarchies or fixed institutional arrangemen…
 
 ### 'Cubs of Wall Street': Cocaine Use in Top-Boy Culture
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.13212](https://doi.org/10.1111/1468-4446.13212)
@@ -944,6 +959,11 @@
 **年份**: 2024 | **DOI**: [10.1111/1468-4446.13098](https://doi.org/10.1111/1468-4446.13098)
 **作者**: Tsang, Eileen Y. H.
 **摘要**: Research about the commercial sex industry rarely examines the women who are the clients purchasing sexual services. Examining how this challenges gender stereotypes through the undoing gender framework reveals how gender norms can be reshaped through contextual changes.…
+
+### Asian Americans in an anti‐Black world. By Claire JeanKim, Cambridge: Cambridge University Press. 2023. pp. 1–412. ISBN: 9781009222280
+**年份**: 2024 | **DOI**: [10.1111/1468-4446.13139](https://doi.org/10.1111/1468-4446.13139)
+**作者**: Kim, Sunmin
+**摘要**: （暂无）
 
 ### 'We need to start building up what's called herd immunity': Scientific dissensus and public broadcasting in the Covid-19 pandemic
 **年份**: 2023 | **DOI**: [10.1111/1468-4446.13010](https://doi.org/10.1111/1468-4446.13010)
@@ -2189,3 +2209,8 @@
 **年份**: 2020 | **DOI**: [10.1111/1468-4446.12774](https://doi.org/10.1111/1468-4446.12774)
 **作者**: Zarhin, Dana
 **摘要**: Although the sociology of sleep is a growing subfield, little is known about agency in the context of sleep. This article contributes to the sociological literature by showing how different types of agency emerge as a result of sleep interembodiment (i.e., experiencing sleep partners' bodies as inte…
+
+### “Surveillance capitalism” and the angst of the petit sovereign
+**年份**: 2020 | **DOI**: [10.1111/1468-4446.12784](https://doi.org/10.1111/1468-4446.12784)
+**作者**: Johns, Fleur
+**摘要**: （暂无）

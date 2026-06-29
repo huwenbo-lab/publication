@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2020–2026 年文章（含摘要）
 
-共 **548** 篇
+共 **550** 篇
 
 ---
 
@@ -193,6 +193,11 @@
 ### Workers, jobs, and how they are matched: A decomposition of US labor market trends in educational mismatch
 **年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103311](https://doi.org/10.1016/j.ssresearch.2026.103311)
 **作者**: Tobler, Lina; Leesch, Julia
+**摘要**: （暂无）
+
+### Corrigendum to “Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024” [Soc. Sci. Res. 136C (2026) 103347]
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103373](https://doi.org/10.1016/j.ssresearch.2026.103373)
+**作者**: Lee, Hyo Joo
 **摘要**: （暂无）
 
 ### A real effort vs. standard public goods experiment: Asking for effort does make a difference
@@ -699,6 +704,11 @@
 **年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2025.103180](https://doi.org/10.1016/j.ssresearch.2025.103180)
 **作者**: Lancaster, Caroline; Alibrahim, Mireim; Carter, Chandler C. 等5人
 **摘要**: Pro-gun attitudes among youth and young adults are associated with both current and future gun carrying, as well as future involvement in gun violence. However, there has been limited research into the correlates and predictors of pro-gun attitudes in these age groups, even though youth and young ad…
+
+### Corrigendum to “The uneven effects of gender parity: Trends in gender homophily in scientific publications, 1980–2019” [Soc. Sci. Res. (2025) Volume 132/103228]
+**年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2025.103249](https://doi.org/10.1016/j.ssresearch.2025.103249)
+**作者**: Torre, Margarita; Prieto-Alonso, Jesús A.; Ucar, Iñaki
+**摘要**: （暂无）
 
 ### A new subjective well-being index using anchored best-worst scaling
 **年份**: 2024 | **DOI**: [10.1016/j.ssresearch.2024.103013](https://doi.org/10.1016/j.ssresearch.2024.103013)

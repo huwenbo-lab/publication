@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **135** 篇
+共 **136** 篇
 
 ---
 
@@ -549,6 +549,11 @@
 **年份**: 2001 | **DOI**: [10.1146/annurev.soc.27.1.1](https://doi.org/10.1146/annurev.soc.27.1.1)
 **作者**: Macmillan, Ross
 **摘要**: ▪ Abstract Considerable research documents the consequences of criminal violence for victims. At the same time, a strong relationship exists between age and risk of violent victimization; risk is greatest in childhood and adolescence.…
+
+### Hate Crime: An Emergent Research Agenda
+**年份**: 2001 | **DOI**: [10.1146/annurev.soc.27.1.479](https://doi.org/10.1146/annurev.soc.27.1.479)
+**作者**: Green, Donald P.; McFalls, Laurence H.; Smith, Jennifer K.
+**摘要**: Hate crime is difficult to define, measure, and explain. After summarizing some of the leading conceptual issues and theoretical perspectives, we discuss the practical difficulties associated with data collection.…
 
 ### A sociology for the second great transformation?
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.693](https://doi.org/10.1146/annurev.soc.26.1.693)

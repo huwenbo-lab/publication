@@ -1,7 +1,7 @@
 # Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **475** 篇
+共 **476** 篇
 
 ---
 
@@ -99,6 +99,11 @@
 **年份**: 2026 | **DOI**: [10.1177/00380385261446192](https://doi.org/10.1177/00380385261446192)
 **作者**: Choonara, Joseph; Carter, Bob
 **摘要**: Theories of class within sociology have, over several decades, increasingly marginalised work and employment as generators of social class. In place of this, there has been a growing emphasis on culture determining class, drawing especially on the work of Pierre Bourdieu and exemplified by the work …
+
+### The nexus between enslavement and migration: Changing belongings in Darfur and North Africa
+**年份**: 2026 | **DOI**: [10.1177/00380385261446223](https://doi.org/10.1177/00380385261446223)
+**作者**: Cé Sangalli, Lucas
+**摘要**: How are migration and enslavement sociohistorically intertwined in shaping migration opportunities for people from Africa south of the Sahara? This article addresses this question through an analysis of 65 biographical-narrative interviews with migrants from Sudan, particularly Darfur, who travelled…
 
 ### A Discomforting Pedagogy of Poverty: Discourses, Representations and Vulnerabilities
 **年份**: 2025 | **DOI**: [10.1177/00380385251380772](https://doi.org/10.1177/00380385251380772)

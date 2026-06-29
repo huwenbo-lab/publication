@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2010–2019 年文章（含摘要）
 
-共 **905** 篇
+共 **906** 篇
 
 ---
 
@@ -2548,6 +2548,11 @@
 ### The future size of religiously affiliated and unaffiliated populations
 **年份**: 2015 | **DOI**: [10.4054/demres.2015.32.27](https://doi.org/10.4054/demres.2015.32.27)
 **作者**: Hackett, Conrad; Stonawski, Marcin Jan; Potančoková, Michaela 等5人
+**摘要**: （暂无）
+
+### What is your couple type? Gender ideology, housework sharing, and babies
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.30](https://doi.org/10.4054/demres.2015.32.30)
+**作者**: Aassve, Arnstein; Fuochi, Giulia; Mencarini, Letizia 等4人
 **摘要**: （暂无）
 
 ### A Bayesian analysis of the spatial concentration of individual wealth in the US North during the nineteenth century

@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **1124** 篇 | 年份范围：1976–2026
+共 **1130** 篇 | 年份范围：1976–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -313,6 +313,7 @@
 - The US National Academy of Sciences on the Changing Biothreat Landscape · [DOI](https://doi.org/10.1111/padr.12346)
 - Time Use and Household Division of Labor in India-Within-Gender Dynamics · [DOI](https://doi.org/10.1111/padr.12309)
 - Lessons of Past Coronavirus Pandemics · [DOI](https://doi.org/10.1111/padr.12360)
+- AnneCase and AngusDeaton, Deaths of Despair and the Future of Capitalism, Princeton, NJ: Princeton University Press, 2020. 312 p. $27.95 · [DOI](https://doi.org/10.1111/padr.12345)
 
 ## 2019
 
@@ -518,6 +519,7 @@
 - Two Decades of Negative Educational Selectivity of Mexican Migrants to the United States · [DOI](https://doi.org/10.1111/j.1728-4457.2014.00692.x)
 - Two Is Best? The Persistence of a Two-Child Family Ideal in Europe · [DOI](https://doi.org/10.1111/j.1728-4457.2014.00691.x)
 - Women's and Men's Relative Status and Intimate Partner Violence in India · [DOI](https://doi.org/10.1111/j.1728-4457.2014.00650.x)
+- United Nations, Department of Economic and Social Affairs, Population Division, Sex Differentials in Childhood Mortality · [DOI](https://doi.org/10.1111/j.1728-4457.2014.00686.x)
 
 ## 2013
 
@@ -1087,6 +1089,7 @@
 - International Migration 1965-96: An Overview · [DOI](https://doi.org/10.2307/2808151)
 - Immigration Policy Prior to the 1930s: Labor Markets, Policy Interactions, and Globalization Backlash · [DOI](https://doi.org/10.2307/2808023)
 - Divergence of Marriage Patterns in Quebec and Elsewhere in Canada · [DOI](https://doi.org/10.2307/2807978)
+- World Urbanization Prospects: The 1996 Revision · [DOI](https://doi.org/10.2307/2808041)
 
 ## 1997
 
@@ -1162,6 +1165,7 @@
 - Creating New Traditions in Modern Chinese Populations: Aiming for Birth in the Year of the Dragon · [DOI](https://doi.org/10.2307/1973601)
 - The Ideological Origins of the Population Association of America · [DOI](https://doi.org/10.2307/1972350)
 - The Human Development Index: "Handle with Care" · [DOI](https://doi.org/10.2307/1973733)
+- The KAP-Gap and the Unmet Need for Contraception · [DOI](https://doi.org/10.2307/1973732)
 
 ## 1990
 
@@ -1188,6 +1192,7 @@
 - Population, Economic Growth, and Energy Demand, 1985-2020 · [DOI](https://doi.org/10.2307/1973571)
 - Social Science Approaches to International Migration · [DOI](https://doi.org/10.2307/2808098)
 - Moral Philosophy and Population Questions in Eighteenth Century Europe · [DOI](https://doi.org/10.2307/2808088)
+- Measures Comparing Living Arrangements of the Elderly: An Assessment · [DOI](https://doi.org/10.2307/1973629)
 
 ## 1987
 
@@ -1217,6 +1222,7 @@
 
 - Educational Transition in Rural South India · [DOI](https://doi.org/10.2307/1973377)
 - The Old-Age Security Motive for Fertility · [DOI](https://doi.org/10.2307/1973379)
+- On International Migration and International Relations · [DOI](https://doi.org/10.2307/1973247)
 
 ## 1984
 

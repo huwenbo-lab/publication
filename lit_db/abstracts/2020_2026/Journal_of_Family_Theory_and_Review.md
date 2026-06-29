@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **310** 篇
+共 **311** 篇
 
 ---
 
@@ -1554,3 +1554,8 @@
 **年份**: 2020 | **DOI**: [10.1111/jftr.12358](https://doi.org/10.1111/jftr.12358)
 **作者**: Kelly, Lorin C.; Spencer, Chelsea M.; Stith, Sandra M. 等4人
 **摘要**: Intimate partner violence (IPV) is a serious threat to the lives of Black women in the United States. Research has shown that Black women report more serious injuries and mental health consequences, are less likely to report IPV, and receive fewer services related to IPV victimization than White wom…
+
+### Grandparents in Cultural Context. David W.Shwalb &amp; ZiaratHossain (Eds.). 2017. New York, NY: Routledge. ISBN 978‐1‐138‐18850‐1.
+**年份**: 2020 | **DOI**: [10.1111/jftr.12374](https://doi.org/10.1111/jftr.12374)
+**作者**: Marshall, Mary
+**摘要**: （暂无）

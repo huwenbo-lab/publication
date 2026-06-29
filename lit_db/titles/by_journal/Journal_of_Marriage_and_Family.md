@@ -1,6 +1,6 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2531** 篇 | 年份范围：1965–2026
+共 **2534** 篇 | 年份范围：1965–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2625,6 +2625,7 @@
 - The Social and Demographic Correlates of Divorce and Separation in the United States: An Update and Reconsideration · [DOI](https://doi.org/10.2307/352598)
 - WASP (Wives as Senior Partners) · [DOI](https://doi.org/10.2307/352534)
 - Emotional and Sexual Components of Extramarital Relations · [DOI](https://doi.org/10.2307/351861)
+- Stress among Farm Women: Work and Family as Interacting Systems · [DOI](https://doi.org/10.2307/351874)
 
 ## 1983
 
@@ -2651,6 +2652,7 @@
 ## 1980
 
 - Marital Quality: A Review of the Seventies · [DOI](https://doi.org/10.2307/351827)
+- A Note on Interviewing Spouses Together · [DOI](https://doi.org/10.2307/351948)
 
 ## 1979
 
@@ -2676,6 +2678,7 @@
 ## 1974
 
 - Cross-Sex Friendship · [DOI](https://doi.org/10.2307/350992)
+- The Role of Mothers in the Social Placement of Daughters: Marriage or Work? · [DOI](https://doi.org/10.2307/350720)
 
 ## 1972
 

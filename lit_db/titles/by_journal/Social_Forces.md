@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2019** 篇 | 年份范围：1926–2026
+共 **2021** 篇 | 年份范围：1926–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1742,6 +1742,7 @@
 - What Happens after the High School Years among Young Persons with Disabilities? · [DOI](https://doi.org/10.1353/sof.2004.0029)
 - Women's Political Representation: The Importance of Ideology · [DOI](https://doi.org/10.1353/sof.2003.0105)
 - You Can't Always Get the Hours You Want: Mismatches between Actual and Preferred Work Hours in the U.S. · [DOI](https://doi.org/10.1353/sof.2003.0069)
+- Why Muslims Rebel: Repression and Resistance in the Islamic World. By Mohammed M. Hafez. Lynne Rienner Publishers, 2003. 253 pp. Cloth, $52.00 · [DOI](https://doi.org/10.1353/sof.2004.0014)
 
 ## 2002
 
@@ -2043,6 +2044,7 @@
 - Family Transitions, Housing Market Context, and First Home Purchase by Young Married Households · [DOI](https://doi.org/10.2307/2578753)
 - Religious Involvement and the Health of the Elderly: Some Hypotheses and an Initial Test · [DOI](https://doi.org/10.2307/2578909)
 - Economic Inequality and Discrimination in Sentencing · [DOI](https://doi.org/10.2307/2578526)
+- When Rewards are Scarce: Equal or Equitable Distributions? · [DOI](https://doi.org/10.2307/2578907)
 
 ## 1986
 

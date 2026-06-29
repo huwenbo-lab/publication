@@ -1,7 +1,7 @@
 # Social Indicators Research
 ## 2000–2009 年文章（含摘要）
 
-共 **998** 篇
+共 **1000** 篇
 
 ---
 
@@ -1214,6 +1214,16 @@
 **年份**: 2008 | **DOI**: [10.1007/s11205-008-9279-7](https://doi.org/10.1007/s11205-008-9279-7)
 **作者**: Makiwane, Monde; Kwizera, Stella
 **摘要**: This paper was a result of an analysis from various data sources with a purpose to develop a better understanding of the level of socio-economic well being of young people in South Africa.…
+
+### Synthetic Indicators of Quality of Life in Europe
+**年份**: 2008 | **DOI**: [10.1007/s11205-008-9356-y](https://doi.org/10.1007/s11205-008-9356-y)
+**作者**: Somarriba, Noelia; Pena, Bernardo
+**摘要**: （暂无）
+
+### Folk Theories of Happiness: A Cross-Cultural Comparison of Conceptions of Happiness in Germany and South Africa
+**年份**: 2008 | **DOI**: [10.1007/s11205-008-9306-8](https://doi.org/10.1007/s11205-008-9306-8)
+**作者**: Pflug, Jan
+**摘要**: （暂无）
 
 ### A Composite Indicator for University Quality Assesment: The Case of Spanish Higher Education System
 **年份**: 2007 | **DOI**: [10.1007/s11205-007-9226-z](https://doi.org/10.1007/s11205-007-9226-z)

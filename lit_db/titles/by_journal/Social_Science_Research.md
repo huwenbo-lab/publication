@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2237** 篇 | 年份范围：1972–2026
+共 **2244** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -45,6 +45,7 @@
 - Horizontal stratification and educational homogamy in South Korea: Marriage patterns and preferences across elite- and non-elite university graduates · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103386)
 - Educational attainment, gender, and the change in access to schedule flexibility in Europe and the United States · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103309)
 - Workers, jobs, and how they are matched: A decomposition of US labor market trends in educational mismatch · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103311)
+- Corrigendum to “Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024” [Soc. Sci. Res. 136C (2026) 103347] · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103373)
 
 ## 2025
 
@@ -149,6 +150,7 @@
 - Witch trials and wages in early-modern Europe: A state-space reconstruction study · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103209)
 - Within-country differences in school-work linkages: The case of Israel · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103235)
 - Worldview and gun attitudes among American youth and young adults · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103180)
+- Corrigendum to “The uneven effects of gender parity: Trends in gender homophily in scientific publications, 1980–2019” [Soc. Sci. Res. (2025) Volume 132/103228] · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103249)
 
 ## 2024
 
@@ -2307,6 +2309,7 @@
 
 - The Effect of Military Service on Educational, Occupational, and Income Attainment · [DOI](https://doi.org/10.1006/ssre.1996.0001)
 - Internationally Comparable Measures of Occupational Status for the 1988 International Standard Classification of Occupations · [DOI](https://doi.org/10.1006/ssre.1996.0010)
+- A Longitudinal Analysis of Environmental Equity in Communities with Hazardous Waste Facilities · [DOI](https://doi.org/10.1006/ssre.1996.0006)
 
 ## 1995
 
@@ -2347,11 +2350,16 @@
 ## 1987
 
 - Measuring the process of role change during the transition to adulthood · [DOI](https://doi.org/10.1016/0049-089x(87)90017-2)
+- Occupational prestige and the 1980 U.S. labor force · [DOI](https://doi.org/10.1016/0049-089x(87)90019-6)
 
 ## 1986
 
 - Bilingualism and Hispanic scholastic achievement: Some baseline results · [DOI](https://doi.org/10.1016/0049-089x(86)90003-7)
 - Language skills and school achievement of bilingual Hispanics · [DOI](https://doi.org/10.1016/0049-089x(86)90006-2)
+
+## 1985
+
+- Some considerations concerning the functional form of earnings · [DOI](https://doi.org/10.1016/0049-089x(85)90017-1)
 
 ## 1981
 
@@ -2374,6 +2382,10 @@
 
 - Season's greetings: From my status to yours · [DOI](https://doi.org/10.1016/0049-089x(76)90003-x)
 
+## 1974
+
+- The perception of crime and punishment: A multidimensional scaling analysis · [DOI](https://doi.org/10.1016/0049-089x(74)90007-6)
+
 ## 1973
 
 - On the social structure of an ocean-going research vessel and other important things · [DOI](https://doi.org/10.1016/0049-089x(73)90016-1)
@@ -2382,3 +2394,4 @@
 
 - A lower-bound method for the dimension-free measurement of internal consistency · [DOI](https://doi.org/10.1016/0049-089x(72)90082-8)
 - The size of national assemblies · [DOI](https://doi.org/10.1016/0049-089x(72)90084-1)
+- Regression analysis with dichotomous attributes · [DOI](https://doi.org/10.1016/0049-089x(72)90056-7)

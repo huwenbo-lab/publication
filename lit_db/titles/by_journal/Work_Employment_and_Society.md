@@ -1,6 +1,6 @@
 # Work, Employment and Society — 文章标题索引
 
-共 **1563** 篇 | 年份范围：1987–2026
+共 **1567** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -92,6 +92,7 @@
 - ‘Get on Board or Get Off’: Nosediving Job Quality for Mental Health Providers in the Age of Platform Work · [DOI](https://doi.org/10.1177/09500170251360175)
 - ‘Lived Capitalisation’: How Speculative Finance Shapes the Social and Financial Lives of ‘Gig’ Workers in Bengaluru, India · [DOI](https://doi.org/10.1177/09500170251343277)
 - ‘Your Strike is Affecting Our Children’: Host Community’s Intervention on the Front Line of a University Strike in Southwest Nigeria · [DOI](https://doi.org/10.1177/09500170251317407)
+- Nihan Akyelken, Women, Work and Mobilities: The Case of Urban and Regional Contexts in Turkey and Sonia Bertolini, Valentina Goglio and Dirk Hofäcker, Job Insecurity and Life Courses AkyelkenNihanWomen, Work and Mobilities: The Case of Urban and Regional Contexts in TurkeyAbingdon: Routledge, 2024, £39.99 pbk, (ISBN: 9781032562988), 148 pp.BertoliniSoniaGoglioValentinaHofäckerDirkJob Insecurity and Life CoursesBristol: Bristol University Press, 2024, £27.99 ebk, (ISBN: 9781529208733), 208 pp. · [DOI](https://doi.org/10.1177/09500170251375727)
 
 ## 2024
 
@@ -1538,6 +1539,8 @@
 - `You're only as Good as Your Last Job': The Labour Process and Labour Market in the British Film Industry · [DOI](https://doi.org/10.1177/09500170122118814)
 - ‘Apprentice Entrepreneurs’? Ethnic Minority Workers in the Independent Restaurant Sector · [DOI](https://doi.org/10.1017/s0950017001000198)
 - ‘Portfolio Workers’: Autonomy and Control amongst Freelance Translators · [DOI](https://doi.org/10.1017/s0950017001006791)
+- Flexible Work and Flexible Fathers · [DOI](https://doi.org/10.1177/09500170122118940)
+- Age and Participation in Vocational Education and Training · [DOI](https://doi.org/10.1177/095001701400438198)
 
 ## 2000
 
@@ -1597,6 +1600,7 @@
 - ‘Family Friendly’ Policies and Practices in the Oil and Gas Industry: Employers' Perspectives · [DOI](https://doi.org/10.1017/s0950017000000325)
 - ‘No, We Don't Provide That Service’: The Harassment of Hotel Employees by Customers · [DOI](https://doi.org/10.1017/s0950017000000428)
 - ‘The Dream Factory’: VW's Modular Production System in Resende, Brazil · [DOI](https://doi.org/10.1017/s0950017000000155)
+- Production Supervisors in Britain, Germany and the United States: Back from the Dead again? · [DOI](https://doi.org/10.1177/09500170022118653)
 
 ## 1999
 

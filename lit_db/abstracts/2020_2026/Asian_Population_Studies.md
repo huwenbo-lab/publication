@@ -1,7 +1,7 @@
 # Asian Population Studies
 ## 2020–2026 年文章（含摘要）
 
-共 **141** 篇
+共 **142** 篇
 
 ---
 
@@ -53,6 +53,11 @@
 ### Ethnicity matters: unpacking female labour participation in Lao PDR
 **年份**: 2026 | **DOI**: [10.1080/17441730.2026.2691002](https://doi.org/10.1080/17441730.2026.2691002)
 **作者**: Kim, Najung; Sisouphanthong, Viriyasack; Han, Jung-Sun 等4人
+**摘要**: （暂无）
+
+### Child malnutrition and maternal employment: insights from Indonesia
+**年份**: 2026 | **DOI**: [10.1080/17441730.2026.2682061](https://doi.org/10.1080/17441730.2026.2682061)
+**作者**: Pratiwi, Aprilia Ira; Ananta, Aris
 **摘要**: （暂无）
 
 ### A gender gap in happiness: documenting a puzzle from Indian survey data

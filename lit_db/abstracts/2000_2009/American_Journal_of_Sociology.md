@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **284** 篇
+共 **285** 篇
 
 ---
 
@@ -433,6 +433,11 @@
 ### Racial Context and Police Force Size: Evaluating the Empirical Validity of the Minority Threat Perspective
 **年份**: 2007 | **DOI**: [10.1086/518906](https://doi.org/10.1086/518906)
 **作者**: Stults, Brian J.; Baumer, Eric P.
+**摘要**: （暂无）
+
+### The Party of Lincoln and the Politics of State Fair Employment Practices Legislation in the North, 1945–1964
+**年份**: 2007 | **DOI**: [10.1086/512709](https://doi.org/10.1086/512709)
+**作者**: Chen, Anthony S.
 **摘要**: （暂无）
 
 ### A welfare state paradox: State interventions and women's employment opportunities in 22 countries

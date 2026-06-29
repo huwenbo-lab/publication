@@ -1,7 +1,7 @@
 # Social Forces
 ## 2000–2009 年文章（含摘要）
 
-共 **688** 篇
+共 **689** 篇
 
 ---
 
@@ -2497,6 +2497,11 @@
 **年份**: 2003 | **DOI**: [10.1353/sof.2003.0069](https://doi.org/10.1353/sof.2003.0069)
 **作者**: Reynolds, J.
 **摘要**: Data from the 1997 International Social Survey Programme show that a majority of U.S. employees prefer to work a different number of hours than they actually work. Employees are divided in their preferences: many want to spend less time at work, but there are also many who want to increase their hou…
+
+### Why Muslims Rebel: Repression and Resistance in the Islamic World. By Mohammed M. Hafez. Lynne Rienner Publishers, 2003. 253 pp. Cloth, $52.00
+**年份**: 2003 | **DOI**: [10.1353/sof.2004.0014](https://doi.org/10.1353/sof.2004.0014)
+**作者**: Kurzman, C.
+**摘要**: （暂无）
 
 ### A Longitudinal Analysis of Globalization and Regionalization in International Trade: A Social Network Approach
 **年份**: 2002 | **DOI**: [10.1353/sof.2003.0014](https://doi.org/10.1353/sof.2003.0014)

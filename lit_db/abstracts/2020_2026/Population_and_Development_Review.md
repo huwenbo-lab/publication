@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **288** 篇
+共 **289** 篇
 
 ---
 
@@ -1436,4 +1436,9 @@
 
 ### Lessons of Past Coronavirus Pandemics
 **年份**: 2020 | **DOI**: [10.1111/padr.12360](https://doi.org/10.1111/padr.12360)
+**摘要**: （暂无）
+
+### AnneCase and AngusDeaton, Deaths of Despair and the Future of Capitalism, Princeton, NJ: Princeton University Press, 2020. 312 p. $27.95
+**年份**: 2020 | **DOI**: [10.1111/padr.12345](https://doi.org/10.1111/padr.12345)
+**作者**: Desai, Sonalde
 **摘要**: （暂无）

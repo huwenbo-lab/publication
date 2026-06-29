@@ -1,6 +1,6 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1746** 篇 | 年份范围：1950–2026
+共 **1755** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -27,6 +27,9 @@
 - Screenshots, SIM Cards, and Household Governance: Digital Coercive Control and Evidence Making in Uganda · [DOI](https://doi.org/10.1111/1468-4446.70140)
 - Criminal Records as Classification Situations · [DOI](https://doi.org/10.1111/1468-4446.70142)
 - Subjective Social Inequalities, Lay Perceptions of Merit and Puzzles of Explanation · [DOI](https://doi.org/10.1111/1468-4446.70137)
+- A Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie. By DanEvans, London: Repeater Books, 2023. 330 pp. £12.99 (paperback). ISBN: 978‐1‐91‐346269‐7 · [DOI](https://doi.org/10.1111/1468-4446.70144)
+- The Normative Turn: Back to Hobhouse? · [DOI](https://doi.org/10.1111/1468-4446.70143)
+- Opportunities and Alliances: The Relational Dynamics of Criminal Collusion in Latin America · [DOI](https://doi.org/10.1111/1468-4446.70145)
 
 ## 2025
 
@@ -201,6 +204,7 @@
 - What do stances on immigrants' welfare entitlement mean? Evidence from a correlational class analysis · [DOI](https://doi.org/10.1111/1468-4446.13078)
 - What is social science if not critical? · [DOI](https://doi.org/10.1111/1468-4446.13142)
 - What's good for the gander is even better for the goose: Women buying commercial sex in China · [DOI](https://doi.org/10.1111/1468-4446.13098)
+- Asian Americans in an anti‐Black world. By Claire JeanKim, Cambridge: Cambridge University Press. 2023. pp. 1–412. ISBN: 9781009222280 · [DOI](https://doi.org/10.1111/1468-4446.13139)
 
 ## 2023
 
@@ -462,6 +466,7 @@
 - What's on trial? The making of field experiments in international development · [DOI](https://doi.org/10.1111/1468-4446.12723)
 - Who generates this city? Socialist strategy in contemporary London · [DOI](https://doi.org/10.1111/1468-4446.12751)
 - You have to do something: Snoring, sleep interembodiment and the emergence of agency · [DOI](https://doi.org/10.1111/1468-4446.12774)
+- “Surveillance capitalism” and the angst of the petit sovereign · [DOI](https://doi.org/10.1111/1468-4446.12784)
 
 ## 2019
 
@@ -1707,6 +1712,7 @@
 - Developing a Sociology for the Twenty-First Century: Preference Theory · [DOI](https://doi.org/10.2307/591267)
 - A Telling Tale: A Case of Vigilantism and Its Aftermath in an English Town · [DOI](https://doi.org/10.2307/591394)
 - Stuart Hall's Cultural Studies and the Problem of Hegemony · [DOI](https://doi.org/10.2307/591390)
+- Elias on Germany, Nazism and the Holocaust: On the Balance between 'Civilizing' and 'Decivilizing' Trends in the Social Development of Western Europe · [DOI](https://doi.org/10.2307/591387)
 
 ## 1997
 
@@ -1868,6 +1874,7 @@
 - The Methodological Implications of Symbolic Interactionism for the Study of Deviance · [DOI](https://doi.org/10.2307/589394)
 - Modes and Types of Political Alienation · [DOI](https://doi.org/10.2307/590156)
 - The Manufacture of News: Deviants, Social Problems and the Mass Media · [DOI](https://doi.org/10.2307/589323)
+- Can There Be a Sociology of Literature? · [DOI](https://doi.org/10.2307/589401)
 
 ## 1972
 
@@ -1925,6 +1932,7 @@
 
 - The Teaching of Social Administration · [DOI](https://doi.org/10.2307/587815)
 - 'Working-Class Authoritarianism': A Critique of Lipset · [DOI](https://doi.org/10.2307/587819)
+- Religion and Ritual: The Definitional Problem · [DOI](https://doi.org/10.2307/586928)
 
 ## 1959
 
@@ -1952,6 +1960,7 @@
 
 - Conference of the British Sociological Association, 1953. I Impressions of the Conference · [DOI](https://doi.org/10.2307/587538)
 - Selection for Secondary Education and Achievement in Four Grammar Schools · [DOI](https://doi.org/10.2307/587167)
+- Theoretical Structure of Sociology and Sociological Research · [DOI](https://doi.org/10.2307/587106)
 
 ## 1952
 

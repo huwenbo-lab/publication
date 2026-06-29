@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2010–2019 年文章（含摘要）
 
-共 **340** 篇
+共 **341** 篇
 
 ---
 
@@ -939,6 +939,11 @@
 **年份**: 2014 | **DOI**: [10.1111/j.1728-4457.2014.00650.x](https://doi.org/10.1111/j.1728-4457.2014.00650.x)
 **作者**: Weitzman, Abigail
 **摘要**: In recent years, gender-based violence in South Asia has been of great concern to scholars and policymakers alike. This study explores the effects of women's relative resources on several dimensions of intimate partner violence in India, and tests whether economic resources allow women to bargain fo…
+
+### United Nations, Department of Economic and Social Affairs, Population Division, Sex Differentials in Childhood Mortality
+**年份**: 2014 | **DOI**: [10.1111/j.1728-4457.2014.00686.x](https://doi.org/10.1111/j.1728-4457.2014.00686.x)
+**作者**: Bongaarts, John
+**摘要**: （暂无）
 
 ### A Cognitive-Social Model of Fertility Intentions
 **年份**: 2013 | **DOI**: [10.1111/j.1728-4457.2013.00612.x](https://doi.org/10.1111/j.1728-4457.2013.00612.x)

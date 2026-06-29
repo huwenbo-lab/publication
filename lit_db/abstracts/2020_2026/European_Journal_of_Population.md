@@ -1,7 +1,7 @@
 # European Journal of Population
 ## 2020–2026 年文章（含摘要）
 
-共 **210** 篇
+共 **211** 篇
 
 ---
 
@@ -429,6 +429,11 @@
 **年份**: 2024 | **DOI**: [10.1007/s10680-024-09725-3](https://doi.org/10.1007/s10680-024-09725-3)
 **作者**: Campisi, Nicholas; Kulu, Hill; Mikolai, Júlia 等5人
 **摘要**: Abstract Over the last 15 years, many European countries have experienced fertility declines. Existing research on this shift in fertility behavior points to economic aspects and increased levels of uncertainty as important drivers.…
+
+### Magda Nico and Gary Pollock (Eds), The Routledge Handbook of Contemporary Inequalities and the Life Course
+**年份**: 2024 | **DOI**: [10.1007/s10680-024-09700-y](https://doi.org/10.1007/s10680-024-09700-y)
+**作者**: McMunn, Anne; Harrison, Joseph
+**摘要**: （暂无）
 
 ### Can We Rely on Projections of the Immigrant Population? The Case of Norway
 **年份**: 2023 | **DOI**: [10.1007/s10680-023-09675-2](https://doi.org/10.1007/s10680-023-09675-2)

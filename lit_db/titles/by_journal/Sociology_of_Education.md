@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **638** 篇 | 年份范围：1963–2026
+共 **644** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -589,6 +589,7 @@
 - Toward Explaining Differences in Educational Achievement among Mexican American Language-Minority Students · [DOI](https://doi.org/10.2307/2673222)
 - E Pluribus Unum: Bilingualism and Loss of Language in the Second Generation · [DOI](https://doi.org/10.2307/2673171)
 - School Finance and Opportunities to Learn: Does Money Well Spent Enhance Students' Achievement? · [DOI](https://doi.org/10.2307/2673203)
+- Gender Differences in Parental Involvement and Adolescents' Mathematics Achievement · [DOI](https://doi.org/10.2307/2673174)
 
 ## 1997
 
@@ -596,6 +597,7 @@
 - History and Agency in Men's Lives: Pathways to Achievement in Cohort Perspective · [DOI](https://doi.org/10.2307/2673192)
 - Gender Segregation among College and University Employees · [DOI](https://doi.org/10.2307/2673161)
 - Are Students Being Pulled Out of High School? The Effect of Adolescent Employment on Dropping Out · [DOI](https://doi.org/10.2307/2673209)
+- Do Employers Really Need More Educated Youth? · [DOI](https://doi.org/10.2307/2673193)
 
 ## 1996
 
@@ -625,6 +627,7 @@
 - Sexism in Single-Sex and Coeducational Independent Secondary School Classrooms · [DOI](https://doi.org/10.2307/2112699)
 - Residential Segregation and School Integration · [DOI](https://doi.org/10.2307/2112817)
 - Overeducation and Skill Mismatch · [DOI](https://doi.org/10.2307/2112749)
+- Maternal Employment and Adolescents' Academic Achievement: A Developmental Analysis · [DOI](https://doi.org/10.2307/2112750)
 
 ## 1993
 
@@ -765,6 +768,7 @@
 - Schooling, Ability, and Earnings: Cross-Sectional Findings 8 to 14 Years after High School Graduation · [DOI](https://doi.org/10.2307/2112649)
 - Open Schools and Achievement: Extended Tests of a Finding of No Relationship · [DOI](https://doi.org/10.2307/2112375)
 - The Non-Linear Impact of Schooling: Comparing Different Types and Amounts of Jewish Education · [DOI](https://doi.org/10.2307/2112374)
+- Sources of Peer Group Homogeneity · [DOI](https://doi.org/10.2307/2112497)
 
 ## 1976
 
@@ -781,6 +785,7 @@
 
 - Recruiting Faculty and Students · [DOI](https://doi.org/10.2307/2112168)
 - Research Activity in American Higher Education · [DOI](https://doi.org/10.2307/2112166)
+- Expectations in Mixed Racial Groups · [DOI](https://doi.org/10.2307/2111907)
 
 ## 1973
 
@@ -820,6 +825,7 @@
 ## 1964
 
 - Attitude Change and Education for International Understanding · [DOI](https://doi.org/10.2307/2112115)
+- Student Trade-Unionism in France, Belgium and Holland: Anticipatory Socialization and Role-Seeking · [DOI](https://doi.org/10.2307/2111954)
 
 ## 1963
 

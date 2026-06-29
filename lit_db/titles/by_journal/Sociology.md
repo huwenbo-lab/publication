@@ -1,6 +1,6 @@
 # Sociology — 文章标题索引
 
-共 **1926** 篇 | 年份范围：1968–2026
+共 **1931** 篇 | 年份范围：1968–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -26,6 +26,7 @@
 - To Speak or Stay Silent? Russian Migrants in Norway and the Dilemma of Political Protest during the War in Ukraine · [DOI](https://doi.org/10.1177/00380385261416288)
 - Walking Sociologically, Teaching on the Move: Thinking with London’s Streets · [DOI](https://doi.org/10.1177/00380385251408261)
 - Contested capital: Class and the sociology of work · [DOI](https://doi.org/10.1177/00380385261446192)
+- The nexus between enslavement and migration: Changing belongings in Darfur and North Africa · [DOI](https://doi.org/10.1177/00380385261446223)
 
 ## 2025
 
@@ -1903,6 +1904,7 @@
 - Some Social and Physical Correlates of Intergenerational Social Mobility: Evidence from the West of Scotland Collaborative Study · [DOI](https://doi.org/10.1177/s0038038599000097)
 - CONSUMPTION AND THE PROBLEM OF VARIETY: CULTURAL OMNIVOROUSNESS, SOCIAL DISTINCTION AND DINING OUT · [DOI](https://doi.org/10.1017/s0038038599000061)
 - Refracted Selves? A Study of Changes in Self-Identity in the Transition to Motherhood · [DOI](https://doi.org/10.1177/s0038038599000206)
+- CONSUMER CULTURE AND THE COMMODIFICATION OF POLICING AND SECURITY · [DOI](https://doi.org/10.1017/s003803859900022x)
 
 ## 1998
 
@@ -1914,6 +1916,8 @@
 - International Comparative Analysis and Explanation in Medical Sociology: Demystifying the Halcion Anomaly · [DOI](https://doi.org/10.1177/0038038598032001009)
 - EVALUATING ‘DIASPORA’: BEYOND ETHNICITY? · [DOI](https://doi.org/10.1017/s0038038598000091)
 - `You Lucky Punters!' A Study of Gambling in Betting Shops · [DOI](https://doi.org/10.1177/0038038598032003010)
+- Therapeutic Discourse, Power and Change: Emotion and Negotiation in Marital Conversations · [DOI](https://doi.org/10.1177/0038038598032004008)
+- Hegemony and Political Discourse: The Lasting Impact of Thatcherism · [DOI](https://doi.org/10.1177/0038038598032004011)
 
 ## 1997
 
@@ -1965,6 +1969,7 @@
 
 - Industrial Capitalism and the Welfare of the State: The Role of Employers in the Comparative Development of Welfare States. A Review of Recent Research · [DOI](https://doi.org/10.1177/0038038591025002005)
 - The Concept of Caring in Feminist Research: The Case of Domestic Service · [DOI](https://doi.org/10.1177/0038038591025001004)
+- Strategic Context Analysis: A New Research Strategy for Structuration Theory · [DOI](https://doi.org/10.1177/0038038591025004007)
 
 ## 1990
 
