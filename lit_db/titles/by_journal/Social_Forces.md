@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2021** 篇 | 年份范围：1926–2026
+共 **2032** 篇 | 年份范围：1926–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -23,6 +23,9 @@
 - The code of cohesion: adolescent network centrality, offending, and the downside of school cohesion · [DOI](https://doi.org/10.1093/sf/soag062)
 - Is it good to work with? Workability and the meaning of non-native species in urban policy · [DOI](https://doi.org/10.1093/sf/soag047)
 - Whose merit, which redistribution? Elites, taxes, and transfers in Brazil and South Africa · [DOI](https://doi.org/10.1093/sf/soag064)
+- Dualization of corporate control: lifetimers, external appointees, and CEO succession in Japan · [DOI](https://doi.org/10.1093/sf/soaf226)
+- Environment and the racialization of space in US cities · [DOI](https://doi.org/10.1093/sf/soag001)
+- Filling the collective-practice gap: pedagogies of participation in participatory-democratic organizations · [DOI](https://doi.org/10.1093/sf/soag076)
 
 ## 2025
 
@@ -1967,6 +1970,7 @@
 - The Making of Union Democracy · [DOI](https://doi.org/10.2307/2580721)
 - Violent Crime and the Spatial Dynamics of Neighborhood Transition: Chicago, 1970-1990 · [DOI](https://doi.org/10.2307/2580317)
 - Power and Influence: A Theoretical Bridge · [DOI](https://doi.org/10.2307/2580725)
+- Testing Coercive Explanations for Order: The Determinants of Law Enforcement Strength over Time · [DOI](https://doi.org/10.2307/2580675)
 
 ## 1996
 
@@ -2038,6 +2042,7 @@
 - The Effects of Children on Adults' Psychological Well-Being: 1957-1976 · [DOI](https://doi.org/10.2307/2579223)
 - A Theory of Social Interaction. · [DOI](https://doi.org/10.2307/2579266)
 - Other Than Counting Words: A Linguistic Approach to Content Analysis · [DOI](https://doi.org/10.2307/2579224)
+- Black Lynchings: The Power Threat Hypothesis Revisited · [DOI](https://doi.org/10.2307/2579531)
 
 ## 1987
 
@@ -2070,6 +2075,7 @@
 - Socioeconomic Returns to Migration among Married Women · [DOI](https://doi.org/10.2307/2578318)
 - Theory and Method in Comparative Research: Two Strategies · [DOI](https://doi.org/10.2307/2578132)
 - Industrial Segmentation and Men's Intergenerational Mobility · [DOI](https://doi.org/10.1093/sf/61.4.1119)
+- Black Concentration and Lynchings in the South: Testing Blalock's Power- Threat Hypothesis · [DOI](https://doi.org/10.2307/2578134)
 
 ## 1981
 
@@ -2083,6 +2089,8 @@
 - Civil Religion and the Choice for President: Nixon in '72 · [DOI](https://doi.org/10.2307/2577832)
 - Sex Differences in Patterns of Adult Crime, 1965-77: A Review and Assessment · [DOI](https://doi.org/10.2307/2577314)
 - Relationships among Ratio Variables with Common Components: Fact or Artifact · [DOI](https://doi.org/10.2307/2577315)
+- Variables Affecting Guilty Pleas and Convictions in Rape Cases: Toward a Social Theory of Rape Processing · [DOI](https://doi.org/10.2307/2577187)
+- Type of Homicide and Variation in Regional Rates · [DOI](https://doi.org/10.2307/2577837)
 
 ## 1979
 
@@ -2182,6 +2190,7 @@
 - Administrative Succession in Formal Organizations · [DOI](https://doi.org/10.2307/2574148)
 - The Career Experience of the Symphony Musician · [DOI](https://doi.org/10.2307/2574085)
 - Migration Patterns of Negroes from a Rural Northeastern Mississippi Community · [DOI](https://doi.org/10.2307/2573576)
+- Homogamy in Personal Values and the "Field of Eligibles" · [DOI](https://doi.org/10.2307/2574155)
 
 ## 1959
 
@@ -2237,11 +2246,16 @@
 
 - The Conservation and Synthesis of Values and Ideals by Institutions · [DOI](https://doi.org/10.2307/2571549)
 
+## 1945
+
+- War Anxieties of Soldiers and Their Wives · [DOI](https://doi.org/10.2307/2572537)
+
 ## 1942
 
 - The Modern Caste School of Race Relations · [DOI](https://doi.org/10.2307/2570563)
 - The Process of Urbanization · [DOI](https://doi.org/10.2307/3005615)
 - The Significance of Comte · [DOI](https://doi.org/10.2307/2570423)
+- A Sociological Analysis of Propaganda · [DOI](https://doi.org/10.2307/2570877)
 
 ## 1941
 

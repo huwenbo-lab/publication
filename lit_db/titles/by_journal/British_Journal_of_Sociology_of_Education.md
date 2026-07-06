@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1633** 篇 | 年份范围：1980–2026
+共 **1640** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -597,6 +597,7 @@
 - Understanding educational inequality in Hong Kong: secondary school segregation in changing institutional contexts · [DOI](https://doi.org/10.1080/01425692.2019.1642736)
 - What role do students' enjoyment and perception of ability play in social disparities in subject choices at university? · [DOI](https://doi.org/10.1080/01425692.2018.1541311)
 - Working the Borderlands: working-class students constructing hybrid identities and asserting their place in higher education · [DOI](https://doi.org/10.1080/01425692.2019.1623013)
+- ‘Citizenship’ and ‘Democracy Education’: identity politics or enlightened political participation? · [DOI](https://doi.org/10.1080/01425692.2019.1656910)
 
 ## 2018
 
@@ -1684,6 +1685,7 @@
 - Promotion, Persuasion and Class-taste: Marketing (in) the UK post-compulsory sector · [DOI](https://doi.org/10.1080/01425699995272)
 - Coeducation and Gender Identity Formation: A comparative analysis of secondary schools in Belgium · [DOI](https://doi.org/10.1080/01425699995308)
 - Knowledge and Politics of Social Change: The implication of anti-racism · [DOI](https://doi.org/10.1080/01425699995335)
+- Adolescent CIT Use: Paradigm shifts for educational and cultural practices? · [DOI](https://doi.org/10.1080/01425699995506)
 
 ## 1998
 
@@ -1701,6 +1703,7 @@
 
 - School Organization and Market Ecology: a realist sociological look at the infrastructure of school choice · [DOI](https://doi.org/10.1080/0142569960170403)
 - Power, Meaning and Identity: critical sociology of education in the United States · [DOI](https://doi.org/10.1080/0142569960170201)
+- Social Inequalities in French Secondary Schools: from figures to theories · [DOI](https://doi.org/10.1080/0142569960170307)
 
 ## 1995
 
@@ -1720,6 +1723,7 @@
 - Critical Events in Education · [DOI](https://doi.org/10.1080/0142569930140401)
 - The Sociology of School Effectiveness · [DOI](https://doi.org/10.1080/0142569930140309)
 - The Competitive Structure of School and the Labour Market: Japan and Britain · [DOI](https://doi.org/10.1080/0142569930140306)
+- Education, Class and Culture: the Birmingham ethnographic tradition and the problem of the new middle class · [DOI](https://doi.org/10.1080/0142569930140205)
 
 ## 1992
 
@@ -1743,10 +1747,12 @@
 ## 1989
 
 - Race, Categorisation and Educational Achievement · [DOI](https://doi.org/10.1080/0142569890100205)
+- Healthism and Physical Education · [DOI](https://doi.org/10.1080/0142569890100403)
 
 ## 1988
 
 - Constructing Teacher Culture · [DOI](https://doi.org/10.1080/0142569880090404)
+- Schoolwork: interpreting the labour process of teaching · [DOI](https://doi.org/10.1080/0142569880090305)
 
 ## 1987
 
@@ -1755,6 +1761,10 @@
 ## 1986
 
 - Policies on Inequality in the Third World: dependency or autonomy? · [DOI](https://doi.org/10.1080/0142569860070206)
+
+## 1983
+
+- The Role Pupils Play in the Social Construction of Classroom Order · [DOI](https://doi.org/10.1080/0142569830040104)
 
 ## 1982
 

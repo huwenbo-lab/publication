@@ -1,6 +1,6 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1755** 篇 | 年份范围：1950–2026
+共 **1768** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -30,6 +30,7 @@
 - A Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie. By DanEvans, London: Repeater Books, 2023. 330 pp. £12.99 (paperback). ISBN: 978‐1‐91‐346269‐7 · [DOI](https://doi.org/10.1111/1468-4446.70144)
 - The Normative Turn: Back to Hobhouse? · [DOI](https://doi.org/10.1111/1468-4446.70143)
 - Opportunities and Alliances: The Relational Dynamics of Criminal Collusion in Latin America · [DOI](https://doi.org/10.1111/1468-4446.70145)
+- Family Rituals in the Hungry Ghost Festival: Spirituality and Multiplex Beliefs in China · [DOI](https://doi.org/10.1111/1468-4446.70146)
 
 ## 2025
 
@@ -661,6 +662,7 @@
 - Value orientations and social attitudes in the holistic milieu · [DOI](https://doi.org/10.1111/1468-4446.12255)
 - W. E. B. Du Bois at the center: from science, civil rights movement, to Black Lives Matter · [DOI](https://doi.org/10.1111/1468-4446.12241)
 - Why have relative rates of class mobility become more equal among women in Britain? · [DOI](https://doi.org/10.1111/1468-4446.12274)
+- Academic apartheid and the poverty of theory: the impact of scholarly segregation on the development of sociology in the United States · [DOI](https://doi.org/10.1111/1468-4446.12242_2)
 
 ## 2016
 
@@ -774,6 +776,7 @@
 - Values beyond value? Is anything beyond the logic of capital? · [DOI](https://doi.org/10.1111/1468-4446.12072)
 - Where's the capital? A geographical essay · [DOI](https://doi.org/10.1111/1468-4446.12112)
 - ‘Mafia Baroque’: post‐socialist architecture and urban planning inBulgaria · [DOI](https://doi.org/10.1111/1468-4446.12052)
+- Silva, J. M.Coming Up Short: Working‐Class Adulthood in an Age of UncertaintyOxford University Press2013 192 pp. £19.99 (hardback). · [DOI](https://doi.org/10.1111/1468-4446.12089)
 
 ## 2013
 
@@ -1702,6 +1705,7 @@
 - Towards an embodied understanding of the structure / agency relationship · [DOI](https://doi.org/10.1080/000713199358527)
 - The barbarism of civilization: cultural genocide and the 'stolen generations' · [DOI](https://doi.org/10.1080/000713199358752)
 - Risk and the welfare state* · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00177.x)
+- Risk and the welfare state · [DOI](https://doi.org/10.1080/000713199358707)
 
 ## 1998
 
@@ -1724,6 +1728,9 @@
 - Becoming a Young Parent: A Longitudinal Study of Associated Factors · [DOI](https://doi.org/10.2307/591138)
 - Contingent Ties: Undercover Drug Officers' Use of Informants · [DOI](https://doi.org/10.2307/591909)
 - The Risk Society in an Age of Anxiety: Situating Fear of Crime · [DOI](https://doi.org/10.2307/591751)
+- 'Moral Panic' and Moral Language in the Media · [DOI](https://doi.org/10.2307/591600)
+- Charting Subcultures at a Frontier of Knowledge · [DOI](https://doi.org/10.2307/591911)
+- Globalization, Migration and the Nation-State: The Path to a Post-National Europe? · [DOI](https://doi.org/10.2307/591748)
 
 ## 1996
 
@@ -1757,6 +1764,7 @@
 
 - Political Power beyond the State: Problematics of Government · [DOI](https://doi.org/10.2307/591464)
 - Mega-Events and Micro-Modernization: On the Sociology of the New Urban Tourism · [DOI](https://doi.org/10.2307/591340)
+- Between the State and Solidarity: One Movement, Two Interpretations - The Orange Alternative Movement in Poland · [DOI](https://doi.org/10.2307/591201)
 
 ## 1991
 
@@ -1819,6 +1827,7 @@
 - Explaining Perceptions of Class and Racial Inequality in England and the United States of America · [DOI](https://doi.org/10.2307/590253)
 - The Family · [DOI](https://doi.org/10.2307/590941)
 - The Ethics of Anomie: Jean Marie Guyau and Emile Durkheim · [DOI](https://doi.org/10.2307/590936)
+- Rationality and Relativism · [DOI](https://doi.org/10.2307/590608)
 
 ## 1982
 
@@ -1833,6 +1842,7 @@
 - The Housing Decisions of Young People · [DOI](https://doi.org/10.2307/589449)
 - The Nobel Scientists and the Origins of Scientific Achievement · [DOI](https://doi.org/10.2307/589284)
 - Immanent Critique as the Core of Critical Theory: Its Origins and Developments in Hegel, Marx and Contemporary Thought · [DOI](https://doi.org/10.2307/589281)
+- New Movements in the Sociology of Youth: A Critique · [DOI](https://doi.org/10.2307/589448)
 
 ## 1980
 
@@ -1933,6 +1943,7 @@
 - The Teaching of Social Administration · [DOI](https://doi.org/10.2307/587815)
 - 'Working-Class Authoritarianism': A Critique of Lipset · [DOI](https://doi.org/10.2307/587819)
 - Religion and Ritual: The Definitional Problem · [DOI](https://doi.org/10.2307/586928)
+- Kebbi and Hausa Stratification · [DOI](https://doi.org/10.2307/588016)
 
 ## 1959
 
@@ -1941,6 +1952,7 @@
 ## 1958
 
 - Social Change · [DOI](https://doi.org/10.2307/587016)
+- Karl Pearson: Socialist and Darwinist · [DOI](https://doi.org/10.2307/587909)
 
 ## 1957
 
@@ -1951,6 +1963,7 @@
 
 - Indians in East Africa: A Study in a Plural Society · [DOI](https://doi.org/10.2307/587991)
 - Problems of Involvement and Detachment · [DOI](https://doi.org/10.2307/587994)
+- A Comparative Approach to Incest and Adultery · [DOI](https://doi.org/10.2307/586694)
 
 ## 1955
 

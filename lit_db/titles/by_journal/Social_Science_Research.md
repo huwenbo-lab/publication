@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2244** 篇 | 年份范围：1972–2026
+共 **2247** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2346,6 +2346,7 @@
 
 - Estimation and hypothesis testing for seemingly unrelated regressions: A sociological application · [DOI](https://doi.org/10.1016/0049-089x(88)90010-5)
 - Conjoint scaling of the utility of money using paired comparisons · [DOI](https://doi.org/10.1016/0049-089x(88)90017-8)
+- Effects of a final telephone reminder and questionnaire cover design in mail surveys · [DOI](https://doi.org/10.1016/0049-089x(88)90008-7)
 
 ## 1987
 
@@ -2365,9 +2366,14 @@
 
 - Durkheim and pierce on suicide and economic change · [DOI](https://doi.org/10.1016/0049-089x(81)90001-6)
 
+## 1980
+
+- Separating age, period, and cohort effects in white U.S. fertility, 1920–1970 · [DOI](https://doi.org/10.1016/0049-089x(80)90013-7)
+
 ## 1979
 
 - On forming variable set composites to summarize a block recursive model · [DOI](https://doi.org/10.1016/0049-089x(79)90003-6)
+- The success of protest groups: Multivariate analyses · [DOI](https://doi.org/10.1016/0049-089x(79)90011-5)
 
 ## 1978
 

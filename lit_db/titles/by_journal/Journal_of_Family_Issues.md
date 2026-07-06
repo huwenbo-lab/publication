@@ -1,6 +1,6 @@
 # Journal of Family Issues — 文章标题索引
 
-共 **2362** 篇 | 年份范围：1980–2026
+共 **2370** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -36,6 +36,11 @@
 - Caring Costs: The Impact of Care Burdens on the Composition of Household Expenditure in Chile · [DOI](https://doi.org/10.1177/0192513x261459384)
 - Religion and Women’s Emotional Responses to Abortion · [DOI](https://doi.org/10.1177/0192513x261460819)
 - Marital Satisfaction in Late Life: Sociodemographic and Psychological Correlates Among Iranian Older Adults · [DOI](https://doi.org/10.1177/0192513x261459388)
+- Mexican American Fathers in Research: Understanding Perceptions, Barriers, and Contributors to Participation · [DOI](https://doi.org/10.1177/0192513x261465807)
+- The Divorce Gender Gap: Gender Differences in Economic Conditions and General Well-Being After Divorce · [DOI](https://doi.org/10.1177/0192513x261465797)
+- Who Decides What to Use? Contraceptive Decisions of Muslim Women in Bangladesh · [DOI](https://doi.org/10.1177/0192513x261465798)
+- Islamic Perspectives on Widowhood Rights, Respect, and Representation: An Ethnographic Study of Women’s Experiences · [DOI](https://doi.org/10.1177/0192513x261460829)
+- Time Price of Fertility: The Association Between Fertility Intention and Working Hours in China · [DOI](https://doi.org/10.1177/0192513x261465804)
 
 ## 2025
 
@@ -2368,6 +2373,7 @@
 - Living the Postmodern Dream · [DOI](https://doi.org/10.1177/019251399020002002)
 - Self-Regulation and Self-Worth of Black Children Reared in Economically Stressed, Rural, Single Mother-Headed Families · [DOI](https://doi.org/10.1177/019251399020004003)
 - Getting Help With Housework · [DOI](https://doi.org/10.1177/019251399020006001)
+- The Prayer of a Married Man Is Equal to Seventy Prayers of a Single Man · [DOI](https://doi.org/10.1177/019251399020005003)
 
 ## 1998
 
@@ -2436,6 +2442,7 @@
 
 - Adolescent Sexual Activity and Mildly Deviant Behavior · [DOI](https://doi.org/10.1177/019251390011003003)
 - The Effect of Marriage on the Well-Being of Adults · [DOI](https://doi.org/10.1177/019251390011001002)
+- Flextime · [DOI](https://doi.org/10.1177/019251390011004007)
 
 ## 1989
 
@@ -2494,6 +2501,7 @@
 - Childlessness and Marital Satisfaction · [DOI](https://doi.org/10.1177/019251382003004007)
 - Notes from the Editor's Desk · [DOI](https://doi.org/10.1177/019251382003001001)
 - Legal Change and Child Custody Awards · [DOI](https://doi.org/10.1177/019251382003001002)
+- International Variability in Childlessness · [DOI](https://doi.org/10.1177/019251382003004004)
 
 ## 1981
 

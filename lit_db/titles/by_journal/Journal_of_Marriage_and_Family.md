@@ -1,6 +1,6 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2534** 篇 | 年份范围：1965–2026
+共 **2542** 篇 | 年份范围：1965–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -13,6 +13,7 @@
 - Attractiveness for Status? The Link Between Physical Attractiveness and Male Refugees' Romantic Relationships in Germany · [DOI](https://doi.org/10.1111/jomf.70085)
 - Early Labor Market Outcomes of Young Adults From Same‐Sex Families: Evidence From Population Data · [DOI](https://doi.org/10.1111/jomf.70079)
 - Impact of Sibling Death in Midlife on Tension Among Surviving Siblings · [DOI](https://doi.org/10.1111/jomf.70083)
+- National Estimates of Multisystem Exposure Among Urban Families · [DOI](https://doi.org/10.1111/jomf.70094)
 
 ## 2025
 
@@ -2521,6 +2522,7 @@
 - Stress as a Driver of the Allocation of Housework · [DOI](https://doi.org/10.2307/353509)
 - An Examination of Parent-Child Shared Time · [DOI](https://doi.org/10.2307/353391)
 - Husbands' Participation in Domestic Labor: Interactive Effects of Wives' and Husbands' Gender Ideologies · [DOI](https://doi.org/10.2307/353719)
+- Parental Cohabitation and Children's Economic Well-Being · [DOI](https://doi.org/10.2307/353986)
 
 ## 1995
 
@@ -2543,6 +2545,7 @@
 - Contextual Effects on the Sexual Behavior of Adolescent Women · [DOI](https://doi.org/10.2307/353107)
 - Interwoven Lives: Parents, Marriage, and Guanxi in China · [DOI](https://doi.org/10.2307/353592)
 - Filial Responsibility Expectations and Patterns of Intergenerational Assistance · [DOI](https://doi.org/10.2307/352867)
+- An International Perspective on Parenting: Social Change and Social Constructs · [DOI](https://doi.org/10.2307/352865)
 
 ## 1993
 
@@ -2553,6 +2556,8 @@
 - Grandparents Who Parent Their Grandchildren: Effects on Lifestyle · [DOI](https://doi.org/10.2307/353342)
 - Timing of Fatherhood: Is "On-Time" Optimal? · [DOI](https://doi.org/10.2307/352969)
 - Childrearing Orientations in Mexican American Families: The Influence of Generation and Sociocultural Factors · [DOI](https://doi.org/10.2307/352778)
+- Children's Adjustment to Divorce: Theories, Hypotheses, and Empirical Support · [DOI](https://doi.org/10.2307/352954)
+- Do Children in Single-Parent Households Fare Better Living with Same-Sex Parents? · [DOI](https://doi.org/10.2307/352959)
 
 ## 1992
 
@@ -2635,6 +2640,7 @@
 - Mothers and Mothers-in-Law · [DOI](https://doi.org/10.2307/351307)
 - Social Support and Adaptation to Widowhood · [DOI](https://doi.org/10.2307/351795)
 - Dysfunction and Failure in Open Family Systems, I: Application of a Unified Theory · [DOI](https://doi.org/10.2307/351786)
+- Adult Daughters' Relationships with Their Mothers · [DOI](https://doi.org/10.2307/351664)
 
 ## 1982
 
@@ -2643,6 +2649,7 @@
 - Sampling Issues in Family Research · [DOI](https://doi.org/10.2307/351457)
 - Life Course Analysis and Multistate Demography: An Application to Marriage, Divorce, and Remarriage · [DOI](https://doi.org/10.2307/351461)
 - Transmission of Religious and Social Values from Parents to Teenage Children · [DOI](https://doi.org/10.2307/351580)
+- Sibling Solidarity: Its Origin and Functioning in Italian-American Families · [DOI](https://doi.org/10.2307/351270)
 
 ## 1981
 
@@ -2679,6 +2686,7 @@
 
 - Cross-Sex Friendship · [DOI](https://doi.org/10.2307/350992)
 - The Role of Mothers in the Social Placement of Daughters: Marriage or Work? · [DOI](https://doi.org/10.2307/350720)
+- Birth Order and Marital Bliss in Israel · [DOI](https://doi.org/10.2307/350362)
 
 ## 1972
 

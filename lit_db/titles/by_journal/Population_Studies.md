@@ -1,6 +1,6 @@
 # Population Studies — 文章标题索引
 
-共 **3715** 篇 | 年份范围：1947–2026
+共 **3718** 篇 | 年份范围：1947–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -17,6 +17,8 @@
 - The risk of being Giovanni or Maria: Naming practices and child mortality during the demographic transition · [DOI](https://doi.org/10.1080/00324728.2025.2608593)
 - What is the case fatality rate of smallpox? · [DOI](https://doi.org/10.1080/00324728.2026.2620692)
 - Working longer despite poorer health? Inequalities in healthy and unhealthy working life expectancies in South Korea · [DOI](https://doi.org/10.1080/00324728.2026.2625712)
+- Perceptions of infertility: The roles of age, knowledge, and motivated reasoning · [DOI](https://doi.org/10.1080/00324728.2026.2687514)
+- Reconstructing birth histories using linked household data and the 1911 Census fertility survey · [DOI](https://doi.org/10.1080/00324728.2026.2681475)
 
 ## 2025
 
@@ -59,6 +61,7 @@
 - Unemployment, return migration, and immigrant mortality: The case of the Great Recession in Spain · [DOI](https://doi.org/10.1080/00324728.2025.2573929)
 - Unwanted fertility and impacts on self-rated health of women in India · [DOI](https://doi.org/10.1080/00324728.2025.2502114)
 - Use and Misuse of the United States Census: The Role of Data in the Incarceration of Japanese Americans During World War II · [DOI](https://doi.org/10.1080/00324728.2025.2458953)
+- Women’s education and fertility in select countries of Africa and Asia: Moderation by quality of education · [DOI](https://doi.org/10.1080/00324728.2025.2523761)
 
 ## 2024
 

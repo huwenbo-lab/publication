@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **644** 篇 | 年份范围：1963–2026
+共 **659** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -551,6 +551,7 @@
 - The unfulfilled promise of cultural capital theory · [DOI](https://doi.org/10.2307/2673255)
 - The winner-take-all high school: Organizational adaptations to educational stratification · [DOI](https://doi.org/10.2307/2673136)
 - American Schooling and Educational Inequality: A Forecast for the 21st Century · [DOI](https://doi.org/10.2307/2673258)
+- Sociological Perspectives on Black-White Inequalities in American Schooling · [DOI](https://doi.org/10.2307/2673253)
 
 ## 2000
 
@@ -577,6 +578,8 @@
 - Students on the Move: Residential and Educational Mobility in America's Schools · [DOI](https://doi.org/10.2307/2673186)
 - Pathways into Work: Short- and Long-Term Effects of Personal and Institutional Ties · [DOI](https://doi.org/10.2307/2673228)
 - Race, Class, and Gender in America: Narratives of Opportunity among Low-Income African American Youths · [DOI](https://doi.org/10.2307/2673226)
+- From Moral Duty to Cultural Rights: A Case Study of Political Framing in Education · [DOI](https://doi.org/10.2307/2673183)
+- Changes in the Black-White Gap in Achievement Test Scores · [DOI](https://doi.org/10.2307/2673179)
 
 ## 1998
 
@@ -608,6 +611,7 @@
 - Access to and Opportunity in Postsecondary Education in the United States: A Review · [DOI](https://doi.org/10.2307/3108457)
 - Teachers' Decision-Making Power and School Conflict · [DOI](https://doi.org/10.2307/2112804)
 - Effects of High School Work Experience a Decade Later: Evidence from the National Longitudinal Survey · [DOI](https://doi.org/10.2307/2112724)
+- Forming American Educational Policy with International Data: Lessons from the Sociology of Education · [DOI](https://doi.org/10.2307/3108459)
 
 ## 1995
 
@@ -647,6 +651,8 @@
 - Multinational Corporate Investment and Women's Participation in Higher Education in Noncore Nations · [DOI](https://doi.org/10.2307/2112691)
 - Contextual Effects on the Self-perceived Efficacy of High School Teachers · [DOI](https://doi.org/10.2307/2112680)
 - Socialization to Gender Roles: Popularity among Elementary School Boys and Girls · [DOI](https://doi.org/10.2307/2112807)
+- Educational "Choice": Its Appeal May be Illusory · [DOI](https://doi.org/10.2307/2112768)
+- Research, Teaching, and Publication Productivity: Mutuality Versus Competition in Academia · [DOI](https://doi.org/10.2307/2112772)
 
 ## 1991
 
@@ -702,6 +708,7 @@
 - Performance Standards, Student Effort on Homework, and Academic Achievement · [DOI](https://doi.org/10.2307/2112483)
 - A Hierarchical Model for Studying School Effects · [DOI](https://doi.org/10.2307/2112482)
 - Single Parents, Working Mothers, and the Educational Achievement of School Children · [DOI](https://doi.org/10.2307/2112335)
+- Explaining Differences in Academic Behavior Between Public-School and Catholic-School Students: A Quantitative Case Study · [DOI](https://doi.org/10.2307/2112484)
 
 ## 1985
 
@@ -737,6 +744,7 @@
 - Racial Segregation Among Public and Private Schools · [DOI](https://doi.org/10.2307/2112293)
 - The Effects of Task Structure on Beliefs About Competence and Participation in Small Groups · [DOI](https://doi.org/10.2307/2112673)
 - Public and Catholic Schools: A Reanalysis of "Public and Private Schools" · [DOI](https://doi.org/10.2307/2112292)
+- Achievement and Segregation in Secondary Schools: A Further Look at Public and Private School Differences · [DOI](https://doi.org/10.2307/2112296)
 
 ## 1981
 
@@ -759,6 +767,9 @@
 
 - School Racial Composition and Black College Attendance and Achievement Test Performance · [DOI](https://doi.org/10.2307/2112241)
 - Socialization Via Interscholastic Athletics: Its Effects on Delinquency · [DOI](https://doi.org/10.2307/2112368)
+- Immigrant Aspirations · [DOI](https://doi.org/10.2307/2112363)
+- Classroom Effects on Change in Children's Friendships · [DOI](https://doi.org/10.2307/2112365)
+- Teacher Unionization: A Reassessment of Rank and File Motivations · [DOI](https://doi.org/10.2307/2112281)
 
 ## 1977
 
@@ -780,6 +791,7 @@
 - A Comparative Analysis of Organizational Conflict in Schools · [DOI](https://doi.org/10.2307/2112050)
 - Innovation in Organizations: The Case of Schools · [DOI](https://doi.org/10.2307/2112048)
 - Race and the Social Structure of the Elementary Classroom · [DOI](https://doi.org/10.2307/2112459)
+- The Impact of Sesame Street on Readiness · [DOI](https://doi.org/10.2307/2112472)
 
 ## 1974
 
@@ -802,10 +814,15 @@
 - Voluntary Withdrawal from a Total Adult Socializing Organization: A Model · [DOI](https://doi.org/10.2307/2112147)
 - How Teachers Perceive the Relation Between School and Society · [DOI](https://doi.org/10.2307/2111829)
 
+## 1971
+
+- Using the Work of Others: Some Observations on Reviewing and Integrating · [DOI](https://doi.org/10.2307/2111964)
+
 ## 1970
 
 - Organizational Differentiation Of Students And Educational Opportunity · [DOI](https://doi.org/10.2307/2111838)
 - The Methodology of Research on College Impact, Part One · [DOI](https://doi.org/10.2307/2112065)
+- The Methodology of Research on College Impact, Part Two · [DOI](https://doi.org/10.2307/2111842)
 
 ## 1969
 
@@ -821,6 +838,10 @@
 - Socioeconomic Status, Intelligence, and the Attainment of Higher Education · [DOI](https://doi.org/10.2307/2112184)
 - Sponsored and Contest Mobility of American Academic Scientists · [DOI](https://doi.org/10.2307/2112185)
 - The Differential Political Socialization of English Secondary School Students · [DOI](https://doi.org/10.2307/2112078)
+
+## 1965
+
+- Family and Peer Influences in College Plans of High School Students · [DOI](https://doi.org/10.2307/2112194)
 
 ## 1964
 

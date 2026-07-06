@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2020–2026 年文章（含摘要）
 
-共 **524** 篇
+共 **525** 篇
 
 ---
 
@@ -463,6 +463,11 @@
 ### Family and social resilience: A scoping review of the empirical literature
 **年份**: 2025 | **DOI**: [10.4054/demres.2025.52.27](https://doi.org/10.4054/demres.2025.52.27)
 **作者**: Bawati, Abrar; Nieuwenhuis, Rense; Uzunalioǧlu, Merve 等4人
+**摘要**: （暂无）
+
+### Uncertainty, resilience, and fertility: Perceived capacity to overcome loss of employment and fertility intentions in Sweden, 2021
+**年份**: 2025 | **DOI**: [10.4054/demres.2025.53.31](https://doi.org/10.4054/demres.2025.53.31)
+**作者**: Lindström, Oskar
 **摘要**: （暂无）
 
 ### A Bayesian model for age at death with cohort effects

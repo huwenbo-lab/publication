@@ -1,7 +1,7 @@
 # Social Forces
 ## 2020–2026 年文章（含摘要）
 
-共 **514** 篇
+共 **517** 篇
 
 ---
 
@@ -84,6 +84,21 @@
 **年份**: 2026 | **DOI**: [10.1093/sf/soag064](https://doi.org/10.1093/sf/soag064)
 **作者**: Silva-Muller, Livio; Moraes Silva, Graziella; López, Matias
 **摘要**: Abstract Scholarship often treats two dimensions of meritocracy as interchangeable: if success is due to hard work, poverty must be due to a lack of effort. We contrast elites’ perceptions about their own success with their perceptions about the lack of success of others.…
+
+### Dualization of corporate control: lifetimers, external appointees, and CEO succession in Japan
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf226](https://doi.org/10.1093/sf/soaf226)
+**作者**: Jung, Jiwook; Mun, Eunmi; Ono, Hiroshi
+**摘要**: Abstract We investigate mechanisms of institutional stability under profound environmental change, using corporate control in Japan as a critical case. Building on the concept of dualization in the comparative institutions literature, we theorize how dualized power relations at the top of the firm s…
+
+### Environment and the racialization of space in US cities
+**年份**: 2026 | **DOI**: [10.1093/sf/soag001](https://doi.org/10.1093/sf/soag001)
+**作者**: Tollefson, Jonathan
+**摘要**: Abstract This study presents the first comparative analysis of late nineteenth and early twentieth century racial-environmental inequality formation. Previously, lack of data on early industrial hazards contributed to a structural division between urban and environmental theory, as sociologists have…
+
+### Filling the collective-practice gap: pedagogies of participation in participatory-democratic organizations
+**年份**: 2026 | **DOI**: [10.1093/sf/soag076](https://doi.org/10.1093/sf/soag076)
+**作者**: Cox, Amanda B
+**摘要**: Abstract Participatory-democratic organizations seek to redistribute decision-making authority, but doing so raises a practical question: how do participants learn to exercise that authority in nonhierarchical, collective ways?…
 
 ### A processual framework for understanding the rise of the populist right: the case of Brazil (2013-2018)
 **年份**: 2025 | **DOI**: [10.1093/sf/soae189](https://doi.org/10.1093/sf/soae189)

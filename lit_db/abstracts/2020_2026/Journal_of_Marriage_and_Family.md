@@ -1,7 +1,7 @@
 # Journal of Marriage and Family
 ## 2020–2026 年文章（含摘要）
 
-共 **537** 篇
+共 **538** 篇
 
 ---
 
@@ -34,6 +34,11 @@
 **年份**: 2026 | **DOI**: [10.1111/jomf.70083](https://doi.org/10.1111/jomf.70083)
 **作者**: Suitor, J. Jill; Frase, Robert T.; Gilligan, Megan 等6人
 **摘要**: ABSTRACT Objective This study investigates changes in sibling tension following the deaths of sibship members in midlife, as well as the processes underlying these changes, particularly as they vary by the gender of the deceased sibling.…
+
+### National Estimates of Multisystem Exposure Among Urban Families
+**年份**: 2026 | **DOI**: [10.1111/jomf.70094](https://doi.org/10.1111/jomf.70094)
+**作者**: Dwyer Emory, Allison; Olsinski, Sophia
+**摘要**: ABSTRACT Objective Estimate the patterns and prevalence of multisystem exposure among US families with children. Background Contact with systems authorized to regulate, surveil, and use punitive tools to enforce compliance is pervasive among disadvantaged families.…
 
 ### A Brief Report Comparing Younger and Older Cohabitors
 **年份**: 2025 | **DOI**: [10.1111/jomf.13128](https://doi.org/10.1111/jomf.13128)

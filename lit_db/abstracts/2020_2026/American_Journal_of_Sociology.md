@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **198** 篇
+共 **201** 篇
 
 ---
 
@@ -58,6 +58,21 @@
 ### Kinship in Black and White Families: The Strength of Horizontal Ties
 **年份**: 2026 | **DOI**: [10.1086/742837](https://doi.org/10.1086/742837)
 **作者**: Leopold, Thomas; Kalmijn, Matthijs
+**摘要**: （暂无）
+
+### Authoritarian Absorption: The Transnational Remaking of Epidemic Politics in China
+**年份**: 2026 | **DOI**: [10.1086/741092](https://doi.org/10.1086/741092)
+**作者**: Heimer, Carol A.
+**摘要**: （暂无）
+
+### Global Mega-Science: Universities, Research Collaborations, and Knowledge Production
+**年份**: 2026 | **DOI**: [10.1086/741093](https://doi.org/10.1086/741093)
+**作者**: Pardo-Guerra, Juan Pablo
+**摘要**: （暂无）
+
+### A Good Reputation: How Residents Fight for an American Barrio
+**年份**: 2026 | **DOI**: [10.1086/741090](https://doi.org/10.1086/741090)
+**作者**: Garboden, Philip ME
 **摘要**: （暂无）
 
 ### Adjudication Under Cover: Compliance and Inequality in the Criminal Courts

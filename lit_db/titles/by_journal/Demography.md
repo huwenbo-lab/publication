@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **1924** 篇 | 年份范围：1964–2026
+共 **1929** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1928,6 +1928,7 @@
 - Demography and the environment · [DOI](https://doi.org/10.2307/3004008)
 - Ethnic stratification in Northwest China: Occupational differences between Han Chinese and national minorities in Xinjiang, 1982–1990 · [DOI](https://doi.org/10.2307/3004040)
 - Intergenerational relations in urban China: Proximity, contact, and help to parents · [DOI](https://doi.org/10.2307/3004031)
+- Family size and children’s education in Vietnam · [DOI](https://doi.org/10.2307/3004027)
 
 ## 1997
 
@@ -1973,6 +1974,7 @@
 - Personality traits and developmental experiences as antecedents of childbearing motivation · [DOI](https://doi.org/10.2307/2061731)
 - Religion and fertility in the United States: New patterns · [DOI](https://doi.org/10.2307/2061727)
 - Stemming the tide? Assessing the deterrent effects of the immigration reform and control act · [DOI](https://doi.org/10.2307/2061724)
+- Forgone labor participation and earning due to childbearing among Norwegian women · [DOI](https://doi.org/10.2307/2061851)
 
 ## 1991
 
@@ -1980,6 +1982,7 @@
 - Fertility decline in Taiwan: A study using parity progression ratios · [DOI](https://doi.org/10.2307/2061468)
 - Spanish Surname and Anglo Infant Mortality: Differentials Over a Half-Century · [DOI](https://doi.org/10.2307/2061427)
 - Variations on two themes: Racial and ethnic patterns in the attainment of suburban residence · [DOI](https://doi.org/10.2307/2061466)
+- Wife or frau, women do worse: A comparison of men and women in the United States and Germany after marital dissolution · [DOI](https://doi.org/10.2307/2061461)
 
 ## 1990
 
@@ -2029,6 +2032,7 @@
 - Social and economic change, intergenerational relationships, and family formation in Taiwan · [DOI](https://doi.org/10.2307/2060911)
 - A multilevel model of family planning availability and contraceptive use in rural Thailand · [DOI](https://doi.org/10.2307/2060915)
 - Children and the elderly: Divergent paths for America’s dependents · [DOI](https://doi.org/10.2307/2060909)
+- Census-derived estimates of fertility by duration since first marriage in the Republic of Korea · [DOI](https://doi.org/10.2307/2060914)
 
 ## 1983
 
@@ -2064,6 +2068,10 @@
 - The effects of demographic factors, family background, and early job achievement on age at marriage · [DOI](https://doi.org/10.2307/2060520)
 - What will 1984 be like? Socioeconomic implications of recent twists in age structure · [DOI](https://doi.org/10.2307/2061197)
 - The stable births resulting from a time dependent change between two net maternity functions · [DOI](https://doi.org/10.2307/2060496)
+
+## 1977
+
+- The impact of breast feeding patterns on the biometric analysis of infant mortality · [DOI](https://doi.org/10.2307/2060586)
 
 ## 1975
 

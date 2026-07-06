@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2020–2026 年文章（含摘要）
 
-共 **377** 篇
+共 **381** 篇
 
 ---
 
@@ -108,6 +108,26 @@
 ### Beyond the Degree: Horizontal Stratification in Higher Education and Gendered Family Formation in South Korea
 **年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101168](https://doi.org/10.1016/j.rssm.2026.101168)
 **作者**: Choi, Seongsoo; In, Jung; Yu, Haeseul
+**摘要**: （暂无）
+
+### Sibling correlations and SES overlaps in late-career Swedes
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101169](https://doi.org/10.1016/j.rssm.2026.101169)
+**作者**: Hällsten, Martin
+**摘要**: （暂无）
+
+### The Variation in Liberal and Radical Inequality of Opportunity across Countries
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101171](https://doi.org/10.1016/j.rssm.2026.101171)
+**作者**: Bornet, Guillaume; Grätz, Michael
+**摘要**: （暂无）
+
+### RACIAL INEQUALITIES IN ACCESS TO HIGHER EDUCATION IN BRAZIL BETWEEN 1992 AND 2023
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101167](https://doi.org/10.1016/j.rssm.2026.101167)
+**作者**: Salata, André Ricardo; da Silva Bringhenti, Taiane Fabiele; de Miranda, Ana Carolina Homem
+**摘要**: （暂无）
+
+### A similarity index for all occupations
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2025.101113](https://doi.org/10.1016/j.rssm.2025.101113)
+**作者**: Martin-Caughey, Ananda
 **摘要**: （暂无）
 
 ### Associations of perceived social mobility with health indicators: Findings from the Chinese general social survey from 2017 to 2021

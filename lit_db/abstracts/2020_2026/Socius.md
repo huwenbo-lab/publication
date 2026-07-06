@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **745** 篇
+共 **746** 篇
 
 ---
 
@@ -194,6 +194,11 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231261460657](https://doi.org/10.1177/23780231261460657)
 **作者**: Cao, Likun
 **摘要**: Generative large language models (LLMs) entered scientific writing at scale after the public release of ChatGPT in November 2022, but their adoption in sociological research remains largely unmapped.…
+
+### Studying the West and Ignoring the Rest: Do Stylized Facts Established in the Christian West Generalize?
+**年份**: 2026 | **DOI**: [10.1177/23780231261451682](https://doi.org/10.1177/23780231261451682)
+**作者**: Schnabel, Landon
+**摘要**: Social science seeks to uncover general patterns, yet much research centers on what the author calls WEIRDS (Western, educated, industrialized, rich, democratic, and secular) societies, which are dominated by one religion, Christianity, and shaped by its legacy and continuing influence.…
 
 ### A Convergence of Crises: Sudden Employment Loss and Black Lives Matter Protest Attendance during the COVID-19 Pandemic
 **年份**: 2025 | **DOI**: [10.1177/23780231251328799](https://doi.org/10.1177/23780231251328799)

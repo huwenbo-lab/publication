@@ -1,6 +1,6 @@
 # Sociological Science — 文章标题索引
 
-共 **403** 篇 | 年份范围：2014–2026
+共 **404** 篇 | 年份范围：2014–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -36,6 +36,7 @@
 - Clickbait Crime News? Metrics and Professional Authority in Local Newsrooms · [DOI](https://doi.org/10.15195/v13.a27)
 - Beyond Text: Using AI-Generated Visual Conjoints to Study Gender and Housework Attribution · [DOI](https://doi.org/10.15195/v13.a26)
 - The Exception to Women’s Advantage: How Rurality, Red Counties, and the Local Economy Shape Gender Gaps in Educational Attainment · [DOI](https://doi.org/10.15195/v13.a28)
+- The Double Bind of Precarious Work: Creating Need and Undermining Support · [DOI](https://doi.org/10.15195/v13.a30)
 
 ## 2025
 

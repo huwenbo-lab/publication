@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2020–2026 年文章（含摘要）
 
-共 **756** 篇
+共 **761** 篇
 
 ---
 
@@ -149,6 +149,31 @@
 **年份**: 2026 | **DOI**: [10.1177/0192513x261459388](https://doi.org/10.1177/0192513x261459388)
 **作者**: Ramezani, Tahereh; Rahmanian, Fatemeh; Bayati, Fatemeh 等4人
 **摘要**: Marital satisfaction is essential for older adults’ well-being. This cross-sectional study examined sociodemographic and psychological factors influencing marital satisfaction among 363 older adults in Semnan, Iran (mean age 65.42 ± 5.24 years; 58.1% male; mean marriage duration 42.09 ± 7.13 years).…
+
+### Mexican American Fathers in Research: Understanding Perceptions, Barriers, and Contributors to Participation
+**年份**: 2026 | **DOI**: [10.1177/0192513x261465807](https://doi.org/10.1177/0192513x261465807)
+**作者**: Muñoz-Gauna, Anthony; Gallegos, Maria Flores; Fineman, Melissa S. 等6人
+**摘要**: Fathers, especially Latino fathers, are underrepresented in research focused on parenting and families. This is despite fathers playing an important role in child development. The objective of the study was to explore Mexican American fathers’ perception of research on parenting and families and per…
+
+### The Divorce Gender Gap: Gender Differences in Economic Conditions and General Well-Being After Divorce
+**年份**: 2026 | **DOI**: [10.1177/0192513x261465797](https://doi.org/10.1177/0192513x261465797)
+**作者**: Reingewertz, Yaniv; Zablotsky, Alexander
+**摘要**: Does divorce influence the economic gender gap between men and women? To answer this question, we use two datasets from Israel for the years 2012–2017 which provide information on both objective and subjective measures of economic and general well-being.…
+
+### Who Decides What to Use? Contraceptive Decisions of Muslim Women in Bangladesh
+**年份**: 2026 | **DOI**: [10.1177/0192513x261465798](https://doi.org/10.1177/0192513x261465798)
+**作者**: Prima, Fariha Jahan; Thamminaina, Apparao
+**摘要**: This systematic literature review investigates contraceptive decision-making among Bangladeshi Muslim women while looking at how households discuss reproductive health, especially birth control, and how gender, power, religion, and socio-economic factors can affect these discussions.…
+
+### Islamic Perspectives on Widowhood Rights, Respect, and Representation: An Ethnographic Study of Women’s Experiences
+**年份**: 2026 | **DOI**: [10.1177/0192513x261460829](https://doi.org/10.1177/0192513x261460829)
+**作者**: Sahoo, Sarojinee; Acharya, Arun Kumar; Bhat, Iqbal Ahmad
+**摘要**: Widowhood is a significant social and religious phenomenon that transforms women’s identities and roles within their societies. This study investigates the Islamic perspectives on widowhood rights, dignity, and representation within Muslim communities in Eastern Odisha, India.…
+
+### Time Price of Fertility: The Association Between Fertility Intention and Working Hours in China
+**年份**: 2026 | **DOI**: [10.1177/0192513x261465804](https://doi.org/10.1177/0192513x261465804)
+**作者**: Yan, Shuhan; Jiang, Yao; Guo, Xiuqi 等4人
+**摘要**: Fertility intention is a critical forward-looking decision that profoundly shapes individuals’ time allocation. This study utilized panel data from the China Family Panel Studies 2020 and 2022 to examine the relationship between fertility intention and working hours in China and the moderating roles…
 
 ### 'It's Like a Weight Lifted off Your Shoulders': A Qualitative Study of Adult Carers Taking a Break
 **年份**: 2025 | **DOI**: [10.1177/0192513X251393155](https://doi.org/10.1177/0192513X251393155)

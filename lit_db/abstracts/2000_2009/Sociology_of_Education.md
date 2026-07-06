@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2000–2009 年文章（含摘要）
 
-共 **172** 篇
+共 **173** 篇
 
 ---
 
@@ -793,6 +793,11 @@
 ### American Schooling and Educational Inequality: A Forecast for the 21st Century
 **年份**: 2001 | **DOI**: [10.2307/2673258](https://doi.org/10.2307/2673258)
 **作者**: Gamoran, Adam
+**摘要**: （暂无）
+
+### Sociological Perspectives on Black-White Inequalities in American Schooling
+**年份**: 2001 | **DOI**: [10.2307/2673253](https://doi.org/10.2307/2673253)
+**作者**: Hallinan, Maureen T.
 **摘要**: （暂无）
 
 ### Educational battlefields in America: The tug-of-war over students' engagement with instruction

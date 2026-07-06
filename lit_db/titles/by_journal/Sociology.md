@@ -1,6 +1,6 @@
 # Sociology — 文章标题索引
 
-共 **1931** 篇 | 年份范围：1968–2026
+共 **1937** 篇 | 年份范围：1968–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1918,12 +1918,14 @@
 - `You Lucky Punters!' A Study of Gambling in Betting Shops · [DOI](https://doi.org/10.1177/0038038598032003010)
 - Therapeutic Discourse, Power and Change: Emotion and Negotiation in Marital Conversations · [DOI](https://doi.org/10.1177/0038038598032004008)
 - Hegemony and Political Discourse: The Lasting Impact of Thatcherism · [DOI](https://doi.org/10.1177/0038038598032004011)
+- Marketing the Self, Buying an other: Dating in a Post Modern, Consumer Society · [DOI](https://doi.org/10.1177/0038038598032004009)
 
 ## 1997
 
 - Subjectivity and the Labour Process: Conceptualising `Good Work' · [DOI](https://doi.org/10.1177/0038038597031003004)
 - The Place of Inter-Rater Reliability in Qualitative Research: An Empirical Study · [DOI](https://doi.org/10.1177/0038038597031003015)
 - Manufacturing Control: Supervisory Systems on the `New' Shopfloor · [DOI](https://doi.org/10.1177/0038038597031003003)
+- The Lads: Masculinity and the New Consumption of Football · [DOI](https://doi.org/10.1177/0038038597031002008)
 
 ## 1996
 
@@ -1982,6 +1984,7 @@
 
 - Men: The Forgotten Carers · [DOI](https://doi.org/10.1177/0038038589023001008)
 - The Use of the Concept of `Strategy' in Recent Sociological Literature · [DOI](https://doi.org/10.1177/0038038589023001002)
+- Schooling the Discouraged Worker: Local-Labour-Market Effects on Educational Participation · [DOI](https://doi.org/10.1177/0038038589023004004)
 
 ## 1988
 
@@ -2027,6 +2030,7 @@
 - Objectives in Teaching and Using Research Methodology · [DOI](https://doi.org/10.1177/003803858101500402)
 - The Making of Social Psychology. Discussions with Creative Contributors · [DOI](https://doi.org/10.1177/003803858101500427)
 - The Voice and the Eye: An Analysis of Social Movements · [DOI](https://doi.org/10.1177/003803858101500433)
+- Teacher Careers and Comprehensive Schooling: An Empirical Study · [DOI](https://doi.org/10.1177/003803858101500303)
 
 ## 1980
 
@@ -2060,6 +2064,7 @@
 - A Sociology of Belief · [DOI](https://doi.org/10.1177/003803857601000318)
 - Moral Indignation and the Media: An Analysis of the NVALA · [DOI](https://doi.org/10.1177/003803857601000204)
 - The Disappearance of the Sick-Man from Medical Cosmology, 1770-1870 · [DOI](https://doi.org/10.1177/003803857601000202)
+- A Critique of Steven Lukes' `Power: A Radical View' · [DOI](https://doi.org/10.1177/003803857601000109)
 
 ## 1975
 
@@ -2106,6 +2111,7 @@
 ## 1969
 
 - News and Notes · [DOI](https://doi.org/10.1177/003803856900300141)
+- Social Class Differences in the Relevance of Language to Socialization · [DOI](https://doi.org/10.1177/003803856900300101)
 
 ## 1968
 

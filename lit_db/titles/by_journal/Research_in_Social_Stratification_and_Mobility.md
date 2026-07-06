@@ -1,6 +1,6 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **861** 篇 | 年份范围：2001–2026
+共 **865** 篇 | 年份范围：2001–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -28,6 +28,10 @@
 - Aspirations as boundaries. Guidance practices and the reproduction of social inequality in free-choice tracking systems · [DOI](https://doi.org/10.1016/j.rssm.2026.101165)
 - Can vocational role models change the gendered perception of STEM VET occupations? Results from an intervention study in Germany · [DOI](https://doi.org/10.1016/j.rssm.2026.101166)
 - Beyond the Degree: Horizontal Stratification in Higher Education and Gendered Family Formation in South Korea · [DOI](https://doi.org/10.1016/j.rssm.2026.101168)
+- Sibling correlations and SES overlaps in late-career Swedes · [DOI](https://doi.org/10.1016/j.rssm.2026.101169)
+- The Variation in Liberal and Radical Inequality of Opportunity across Countries · [DOI](https://doi.org/10.1016/j.rssm.2026.101171)
+- RACIAL INEQUALITIES IN ACCESS TO HIGHER EDUCATION IN BRAZIL BETWEEN 1992 AND 2023 · [DOI](https://doi.org/10.1016/j.rssm.2026.101167)
+- A similarity index for all occupations · [DOI](https://doi.org/10.1016/j.rssm.2025.101113)
 
 ## 2025
 

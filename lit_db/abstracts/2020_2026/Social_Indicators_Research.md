@@ -1,7 +1,7 @@
 # Social Indicators Research
 ## 2020–2026 年文章（含摘要）
 
-共 **1410** 篇
+共 **1412** 篇
 
 ---
 
@@ -449,6 +449,16 @@
 **年份**: 2026 | **DOI**: [10.1007/s11205-026-03805-z](https://doi.org/10.1007/s11205-026-03805-z)
 **作者**: Palifka, Bonnie J.; Rodriguez-Garcia, Giovanna; Garcia-Diaz, Rocio
 **摘要**: Corruption thwarts development and human flourishing. For this reason, target 16.5 of the Sustainable Development Goals (SDG 16.5) exhorts nations “to substantially reduce corruption and bribery in all their forms.” The current metrics, however, are ill-defined and limited in scope, neither specifyi…
+
+### Consumption Patterns, Inflation, and Household Welfare: Demand-Based Equivalence Scales in Europe
+**年份**: 2026 | **DOI**: [10.1007/s11205-026-03882-0](https://doi.org/10.1007/s11205-026-03882-0)
+**作者**: Pezer, Martina; Sologon, Denisa M.; Kyzyma, Iryna 等5人
+**摘要**: Abstract Equivalence scales are a central component of distributional analysis. They adjust household incomes for size and composition, shaping poverty and inequality measurement. Most work relies on the modified OECD scale from the mid-1990s, despite substantial changes in consumption patterns sinc…
+
+### Below-Median Development Indicators: Case Study of Human Development Index
+**年份**: 2026 | **DOI**: [10.1007/s11205-025-03758-9](https://doi.org/10.1007/s11205-025-03758-9)
+**作者**: Pourpakdelfekr, Tina; Syrovátka, Miroslav; Schlossarek, Martin
+**摘要**: Abstract Striving for inclusive development requires looking beyond national averages to the outcomes of those who are being left behind. This paper introduces a flexible class of below-median development indicators and demonstrates the idea with the Human Development Index (HDI).…
 
 ### (Un)happy Together—The Interrelated Life Satisfaction of Older Couples
 **年份**: 2025 | **DOI**: [10.1007/s11205-025-03699-3](https://doi.org/10.1007/s11205-025-03699-3)

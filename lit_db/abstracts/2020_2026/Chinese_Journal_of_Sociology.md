@@ -1,7 +1,7 @@
 # Chinese Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **151** 篇
+共 **152** 篇
 
 ---
 
@@ -69,6 +69,11 @@
 **年份**: 2026 | **DOI**: [10.1177/2057150x261454099](https://doi.org/10.1177/2057150x261454099)
 **作者**: Ji, Yingchun; Li, Xuan
 **摘要**: The father–son relationship has traditionally been regarded as the cornerstone of family dynamics and has been the focal point of research in both Western and Chinese contexts. Conversely, the mother–daughter relationship has either been overlooked or portrayed in a negative light.…
+
+### Privatization and patriarchy: How market transitions have shaped inheritance beliefs and son preference in China
+**年份**: 2026 | **DOI**: [10.1177/2057150x261463053](https://doi.org/10.1177/2057150x261463053)
+**作者**: Wen, Fangqi
+**摘要**: This study investigates how work transitions during China's post-1978 market-oriented economic restructuring reshaped gender relations and reinforced patriarchal beliefs—particularly by strengthening patrilineal inheritance and son preference.…
 
 ### A new interpretation of Lenin's What Is to Be Done? A comparative study from a historical-sociological perspective
 **年份**: 2025 | **DOI**: [10.1177/2057150X251357545](https://doi.org/10.1177/2057150X251357545)

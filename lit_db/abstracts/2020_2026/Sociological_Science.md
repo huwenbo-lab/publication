@@ -1,7 +1,7 @@
 # Sociological Science
 ## 2020–2026 年文章（含摘要）
 
-共 **209** 篇
+共 **210** 篇
 
 ---
 
@@ -148,6 +148,11 @@
 ### The Exception to Women’s Advantage: How Rurality, Red Counties, and the Local Economy Shape Gender Gaps in Educational Attainment
 **年份**: 2026 | **DOI**: [10.15195/v13.a28](https://doi.org/10.15195/v13.a28)
 **作者**: Sutton, April; Mackenna, Bernardo; Zhang, Bolun 等4人
+**摘要**: （暂无）
+
+### The Double Bind of Precarious Work: Creating Need and Undermining Support
+**年份**: 2026 | **DOI**: [10.15195/v13.a30](https://doi.org/10.15195/v13.a30)
+**作者**: Woods, Tyler; Harknett, Kristen; Schneider, Daniel
 **摘要**: （暂无）
 
 ### An Unreliable Ladder: Top–Bottom Self-Placement, Subjective Social Status, and Political Preferences

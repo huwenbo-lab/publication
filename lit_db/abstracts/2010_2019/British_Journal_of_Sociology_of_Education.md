@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **627** 篇
+共 **628** 篇
 
 ---
 
@@ -339,6 +339,11 @@
 **年份**: 2019 | **DOI**: [10.1080/01425692.2019.1623013](https://doi.org/10.1080/01425692.2019.1623013)
 **作者**: Crozier, Gill; Reay, Diane; Clayton, John
 **摘要**: Through the case-study experiences of 24 White and Black, Asian and Minority Ethnic (BAME) working-class students from three very different universities, we aim to illuminate the often hidden struggle for recognition and respect for classed, 'raced' and gendered ways of being in the university.…
+
+### ‘Citizenship’ and ‘Democracy Education’: identity politics or enlightened political participation?
+**年份**: 2019 | **DOI**: [10.1080/01425692.2019.1656910](https://doi.org/10.1080/01425692.2019.1656910)
+**作者**: Findlow, Sally
+**摘要**: （暂无）
 
 ### 'Control must be maintained': exploring teachers' pedagogical practice outside the classroom
 **年份**: 2018 | **DOI**: [10.1080/01425692.2017.1304204](https://doi.org/10.1080/01425692.2017.1304204)

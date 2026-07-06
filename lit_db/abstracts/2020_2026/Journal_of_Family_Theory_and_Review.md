@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **311** 篇
+共 **312** 篇
 
 ---
 
@@ -179,6 +179,11 @@
 **年份**: 2026 | **DOI**: [10.1111/jftr.70077](https://doi.org/10.1111/jftr.70077)
 **作者**: Xu, Haoran
 **摘要**: ABSTRACT This article reframes family murder‐suicide as a process of family annihilation rather than an isolated crime. It presents a conceptual framework that links strain, shame, and threatened control with family structures, power relations, and stress.…
+
+### Conversational Artificial Intelligence in Everyday Family Life: Conceptualizing Family‐ AI Interactions From a Systemic Perspective
+**年份**: 2026 | **DOI**: [10.1111/jftr.70080](https://doi.org/10.1111/jftr.70080)
+**作者**: Erdem, Gizem; Guler, Minel; Coskun, Melike 等4人
+**摘要**: ABSTRACT Although conversational artificial intelligence (CAI) has become increasingly integrated into daily life, research examining its role is limited to user engagement and Human‐AI interaction.…
 
 ### A Bioecological Framework for Supporting Mothers From Pregnancy to Workforce Reintegration
 **年份**: 2025 | **DOI**: [10.1111/jftr.70039](https://doi.org/10.1111/jftr.70039)

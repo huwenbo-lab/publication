@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **1130** 篇 | 年份范围：1976–2026
+共 **1142** 篇 | 年份范围：1976–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -788,6 +788,7 @@
 - Yves Guyot on the protection of national labor · [DOI](https://doi.org/10.1111/j.1728-4457.2007.00174.x)
 - Pandemic Influenza: A Review · [DOI](https://doi.org/10.1111/j.1728-4457.2007.00179.x)
 - Longevity Among Hunter‐ Gatherers: A Cross‐Cultural Examination · [DOI](https://doi.org/10.1111/j.1728-4457.2007.00171.x)
+- Sexual Behavior in China: Trends and Comparisons · [DOI](https://doi.org/10.1111/j.1728-4457.2007.00195.x)
 
 ## 2006
 
@@ -889,6 +890,7 @@
 - The trend in international health inequality · [DOI](https://doi.org/10.1111/j.1728-4457.2004.00006.x)
 - Unraveling the SES-health connection
 - When Does Religion Influence Fertility? · [DOI](https://doi.org/10.1111/j.1728-4457.2004.00002.x)
+- The Economic Effects of Immigration into the United Kingdom · [DOI](https://doi.org/10.1111/j.1728-4457.2004.00034.x)
 
 ## 2003
 
@@ -1112,6 +1114,9 @@
 - Post-Cairo Population Policy: Does Promoting Girls' Schooling Miss the Mark? · [DOI](https://doi.org/10.2307/2137805)
 - The Istanbul Declaration on Human Settlements · [DOI](https://doi.org/10.2307/2137742)
 - The Rome Declaration on World Food Security · [DOI](https://doi.org/10.2307/2137827)
+- Childrearing and Fertility · [DOI](https://doi.org/10.2307/2808014)
+- Characteristic Features of Modern American Fertility · [DOI](https://doi.org/10.2307/2808004)
+- East German Fertility After Unification: Crisis or Adaptation? · [DOI](https://doi.org/10.2307/2137438)
 
 ## 1995
 
@@ -1134,6 +1139,7 @@
 - Reductions in Mortality at Advanced Ages: Several Decades of Evidence from 27 Countries · [DOI](https://doi.org/10.2307/2137662)
 - Does the Threat of Border Apprehension Deter Undocumented US Immigration? · [DOI](https://doi.org/10.2307/2137667)
 - Maternal Employment and Changes in Family Dynamics: The Social Context of Women's Work in Rural South India · [DOI](https://doi.org/10.2307/2137632)
+- The Global Distribution of the Overseas Chinese Around 1990 · [DOI](https://doi.org/10.2307/2137606)
 
 ## 1993
 
@@ -1166,6 +1172,8 @@
 - The Ideological Origins of the Population Association of America · [DOI](https://doi.org/10.2307/1972350)
 - The Human Development Index: "Handle with Care" · [DOI](https://doi.org/10.2307/1973733)
 - The KAP-Gap and the Unmet Need for Contraception · [DOI](https://doi.org/10.2307/1973732)
+- Migration and Recession: Arab Labor Mobility in the Middle East, 1982-89 · [DOI](https://doi.org/10.2307/1972356)
+- Effects of Family Composition on Mortality Differentials by Sex Among Children in Matlab, Bangladesh · [DOI](https://doi.org/10.2307/1971948)
 
 ## 1990
 
@@ -1185,6 +1193,7 @@
 - Child Mortality in the Developing World · [DOI](https://doi.org/10.2307/1972594)
 - Depletion of Common Property Resources in India: Micro-Level Evidence · [DOI](https://doi.org/10.2307/2807930)
 - The Varying Connection between Marital Status and Childbearing in the United States · [DOI](https://doi.org/10.2307/1972442)
+- Cooperation, Inequality, and the Family · [DOI](https://doi.org/10.2307/2807922)
 
 ## 1988
 
@@ -1193,6 +1202,8 @@
 - Social Science Approaches to International Migration · [DOI](https://doi.org/10.2307/2808098)
 - Moral Philosophy and Population Questions in Eighteenth Century Europe · [DOI](https://doi.org/10.2307/2808088)
 - Measures Comparing Living Arrangements of the Elderly: An Assessment · [DOI](https://doi.org/10.2307/1973629)
+- Abortion and Eugenics in Nazi Germany · [DOI](https://doi.org/10.2307/1972501)
+- US Population Redistribution: A Perspective on the Nonmetropolitan Turnaround · [DOI](https://doi.org/10.2307/1972197)
 
 ## 1987
 
@@ -1223,6 +1234,7 @@
 - Educational Transition in Rural South India · [DOI](https://doi.org/10.2307/1973377)
 - The Old-Age Security Motive for Fertility · [DOI](https://doi.org/10.2307/1973379)
 - On International Migration and International Relations · [DOI](https://doi.org/10.2307/1973247)
+- An Alternative to the One-Child Policy in China · [DOI](https://doi.org/10.2307/1973456)
 
 ## 1984
 

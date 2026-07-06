@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **442** 篇
+共 **443** 篇
 
 ---
 
@@ -119,6 +119,11 @@
 **年份**: 2026 | **DOI**: [10.1111/1468-4446.70145](https://doi.org/10.1111/1468-4446.70145)
 **作者**: Levy, Eldad J.; Auyero, Javier
 **摘要**: ABSTRACT Based on ethnographic fieldwork in Mexico and judicial wiretap analysis in Argentina, this paper shows that collusion between state actors and violent non‐state actors operates through fluid and competitive relational networks rather than stable hierarchies or fixed institutional arrangemen…
+
+### Family Rituals in the Hungry Ghost Festival: Spirituality and Multiplex Beliefs in China
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70146](https://doi.org/10.1111/1468-4446.70146)
+**作者**: Hsu, Becky Yang; Zhuang, Liu
+**摘要**: ABSTRACT This article explores why individuals in China undertake numerous tasks for souls and spirits whether or not they believe that these beings exist. We shift away from Eurocentric approaches to studying religion which have been centered around conceptualizing belief as cognitive assent to a t…
 
 ### 'Cubs of Wall Street': Cocaine Use in Top-Boy Culture
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.13212](https://doi.org/10.1111/1468-4446.13212)

@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **532** 篇
+共 **534** 篇
 
 ---
 
@@ -930,6 +930,11 @@
 **作者**: Bukodi, Erzsebet; Goldthorpe, John H.; Joshi, Heather 等4人
 **摘要**: In a previous paper it has been shown that across three cohorts of men and women born in Britain in 1946, 1958 and 1970 a gender difference exists in regard to relative rates of class mobility. For men these rates display an essential stability but for women they become more equal.…
 
+### Academic apartheid and the poverty of theory: the impact of scholarly segregation on the development of sociology in the United States
+**年份**: 2017 | **DOI**: [10.1111/1468-4446.12242_2](https://doi.org/10.1111/1468-4446.12242_2)
+**作者**: Schwartz, Michael
+**摘要**: （暂无）
+
 ### A state of limbo: the politics of waiting in neo-liberal Latvia
 **年份**: 2016 | **DOI**: [10.1111/1468-4446.12204](https://doi.org/10.1111/1468-4446.12204)
 **作者**: Ozolina-Fitzgerald, Liene
@@ -1447,6 +1452,11 @@
 **年份**: 2014 | **DOI**: [10.1111/1468-4446.12052](https://doi.org/10.1111/1468-4446.12052)
 **作者**: Holleran, Max
 **摘要**: AbstractThis paper traces the reception of the architectural style known as ‘Mafia Baroque’ within the professions of architecture and urban planning inBulgaria. The debate within these professions was strongly linked to the general decline of power among former intellectual elites and the specific …
+
+### Silva, J. M.Coming Up Short: Working‐Class Adulthood in an Age of UncertaintyOxford University Press2013 192 pp. £19.99 (hardback).
+**年份**: 2014 | **DOI**: [10.1111/1468-4446.12089](https://doi.org/10.1111/1468-4446.12089)
+**作者**: Snee, Helene
+**摘要**: （暂无）
 
 ### A Christian identity for the liberal state?
 **年份**: 2013 | **DOI**: [10.1111/1468-4446.12041](https://doi.org/10.1111/1468-4446.12041)

@@ -1,6 +1,6 @@
 # American Journal of Sociology — 文章标题索引
 
-共 **1112** 篇 | 年份范围：1896–2026
+共 **1128** 篇 | 年份范围：1896–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -18,6 +18,9 @@
 - Atlantic Reconstruction: Democracy, Abolition, and the Making of Political Personhood · [DOI](https://doi.org/10.1086/741674)
 - Deportation’s Fallout: Evidence from Denmark · [DOI](https://doi.org/10.1086/742317)
 - Kinship in Black and White Families: The Strength of Horizontal Ties · [DOI](https://doi.org/10.1086/742837)
+- Authoritarian Absorption: The Transnational Remaking of Epidemic Politics in China · [DOI](https://doi.org/10.1086/741092)
+- Global Mega-Science: Universities, Research Collaborations, and Knowledge Production · [DOI](https://doi.org/10.1086/741093)
+- A Good Reputation: How Residents Fight for an American Barrio · [DOI](https://doi.org/10.1086/741090)
 
 ## 2025
 
@@ -993,6 +996,7 @@
 - Religion, Disability, Depression, and the Timing of Death · [DOI](https://doi.org/10.1086/229861)
 - Reciprocal Effects of Religiosity, Cohabitation, and Marriage · [DOI](https://doi.org/10.1086/230051)
 - Payment Systems and the Structure of Inequality: Conceptual Issues and an Analysis of Salespersons in Department Stores · [DOI](https://doi.org/10.1086/229969)
+- Characteristics of Successful American Protest Groups: Another Look at Gamson's Strategy of Social Protest · [DOI](https://doi.org/10.1086/230012)
 
 ## 1991
 
@@ -1008,6 +1012,7 @@
 - Getting Ahead in Urban China · [DOI](https://doi.org/10.1086/229816)
 - Children and Marital Disruption · [DOI](https://doi.org/10.1086/229613)
 - Learning to Cooperate: Stochastic and Tacit Collusion in Social Exchange · [DOI](https://doi.org/10.1086/229821)
+- The Sutherland-Glueck Debate: On the Sociology of Criminological Knowledge · [DOI](https://doi.org/10.1086/229691)
 
 ## 1990
 
@@ -1036,6 +1041,7 @@
 - She Works Hard for the Money: Household Responsibilities and the Allocation of Work Effort · [DOI](https://doi.org/10.1086/228863)
 - The Other Side of Dialogue: On Making the Other Strange and the Experience of Otherness · [DOI](https://doi.org/10.1086/228868)
 - First World Nationalisms: Class and Ethnic Politics in Northern Ireland and Quebec.Katherine O'Sullivan See · [DOI](https://doi.org/10.1086/229058)
+- White-Collar Crime, Competition, and Capitalism: Comment on Coleman · [DOI](https://doi.org/10.1086/229032)
 
 ## 1987
 
@@ -1071,6 +1077,7 @@
 - Comment on Kemper's "Social Constructionist and Positivist Approaches to the Sociology of Emotions" · [DOI](https://doi.org/10.1086/227874)
 - A Note on Emotionality, Self, and Interaction · [DOI](https://doi.org/10.1086/227871)
 - Neutralizing Sexism in Mixed-Sex Groups: Do Women Have to Be Better Than Men? · [DOI](https://doi.org/10.1086/227731)
+- A Critique of Criminology: Toward an Integrated Structural-Marxist Theory of Delinquency Production · [DOI](https://doi.org/10.1086/227904)
 
 ## 1982
 
@@ -1150,6 +1157,7 @@
 - Relations in Public: Microstudies of the Public Order.Erving Goffman · [DOI](https://doi.org/10.1086/225689)
 - Instrumental and Infra-Resources: The Bases of Power · [DOI](https://doi.org/10.1086/225708)
 - Corporate Ownership and Control: The Large Corporation and the Capitalist Class · [DOI](https://doi.org/10.1086/225672)
+- Causal Models, Unobserved Variables, and Experimental Data · [DOI](https://doi.org/10.1086/225762)
 
 ## 1973
 
@@ -1186,6 +1194,7 @@
 - The Professional Self-Concept of Music Students · [DOI](https://doi.org/10.1086/224791)
 - Racial Change in a Stable Community · [DOI](https://doi.org/10.1086/224768)
 - Marks of Distinction: An Analysis of British Mass and Prestige Newspaper Editorials · [DOI](https://doi.org/10.1086/224661)
+- The Factorial Ecology of Calcutta · [DOI](https://doi.org/10.1086/224681)
 
 ## 1968
 
@@ -1262,6 +1271,7 @@
 - Intermetropolitan Migration: A Correlation Analysis · [DOI](https://doi.org/10.1086/221805)
 - Age and Sex in the Interview · [DOI](https://doi.org/10.1086/221954)
 - Interviewing Frenchmen · [DOI](https://doi.org/10.1086/221961)
+- Measuring Role Conflict · [DOI](https://doi.org/10.1086/221760)
 
 ## 1955
 
@@ -1309,6 +1319,10 @@
 
 - Natural Resources in the Post-War World · [DOI](https://doi.org/10.1086/219458)
 
+## 1943
+
+- Education and the Cultural Crisis · [DOI](https://doi.org/10.1086/219270)
+
 ## 1942
 
 - Operational Definitions in the Social Sciences · [DOI](https://doi.org/10.1086/219004)
@@ -1336,6 +1350,10 @@
 
 - The Voodoo Cult Among Negro Migrants in Detroit · [DOI](https://doi.org/10.1086/217872)
 
+## 1937
+
+- The Lombrosian Myth in Criminology · [DOI](https://doi.org/10.1086/217542)
+
 ## 1932
 
 - The Law of Retail Gravitation.William J. Reilly · [DOI](https://doi.org/10.1086/215884)
@@ -1353,6 +1371,7 @@
 ## 1929
 
 - Population · [DOI](https://doi.org/10.1086/214874)
+- Vagrancy and Begging · [DOI](https://doi.org/10.1086/215056)
 
 ## 1928
 
@@ -1375,6 +1394,7 @@
 ## 1923
 
 - Twenty Years of Sociology by Correspondence · [DOI](https://doi.org/10.1086/213492)
+- What is a Social Problem? · [DOI](https://doi.org/10.1086/213601)
 
 ## 1921
 
@@ -1399,6 +1419,7 @@
 
 - The Influence of Newspaper Presentations Upon the Growth of Crime and Other Anti-Social Activity · [DOI](https://doi.org/10.1086/211912)
 - Moral Instruction Through Social Intelligence · [DOI](https://doi.org/10.1086/211944)
+- The Relation of Social Theory to Public Policy · [DOI](https://doi.org/10.1086/211914)
 
 ## 1910
 
@@ -1412,6 +1433,7 @@
 ## 1907
 
 - Social and Biological Struggles · [DOI](https://doi.org/10.1086/211590)
+- The Establishment of Sociology · [DOI](https://doi.org/10.1086/211538)
 
 ## 1904
 

@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2000–2009 年文章（含摘要）
 
-共 **349** 篇
+共 **351** 篇
 
 ---
 
@@ -474,6 +474,11 @@
 **作者**: Gurven, Michael; Kaplan, Hillard
 **摘要**: Post‐reproductive longevity is a robust feature of human life and not only a recent phenomenon caused by improvements in sanitation, public health, and medical advances. We argue for an adaptive life span of 68‐78 years for modernHomo sapiensbased on our analysis of mortality profiles obtained from …
 
+### Sexual Behavior in China: Trends and Comparisons
+**年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00195.x](https://doi.org/10.1111/j.1728-4457.2007.00195.x)
+**作者**: Parish, William L.; Laumann, Edward O.; Mojola, Sanyu A.
+**摘要**: Dramatic political, economic, and social changes in China over the past several decades have been accompanied by much discussion in popular media and among academics of a fundamental transformation in Chinese sexual behavior.…
+
 ### Black mortality at very old ages in official US life tables: A skeptical appraisal
 **年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00137.x](https://doi.org/10.1111/j.1728-4457.2006.00137.x)
 **作者**: Preston, Samuel H.; Elo, Irma T.
@@ -930,6 +935,11 @@
 **年份**: 2004 | **DOI**: [10.1111/j.1728-4457.2004.00002.x](https://doi.org/10.1111/j.1728-4457.2004.00002.x)
 **作者**: McQuillan, Kevin
 **摘要**: Religious affiliation as a determinant of demographic behavior is receiving renewed attention in demography. Interest in the role of cultural factors in affecting fertility and a specific concern with the role of Islam in many developing countries have helped re‐invigorate research on the role of re…
+
+### The Economic Effects of Immigration into the United Kingdom
+**年份**: 2004 | **DOI**: [10.1111/j.1728-4457.2004.00034.x](https://doi.org/10.1111/j.1728-4457.2004.00034.x)
+**作者**: Coleman, David; Rowthorn, Robert
+**摘要**: This article is concerned with the economic effects of immigration. The emphasis is on Britain, but extensive material is also provided on other countries. Since 1997 a new British immigration policy has displaced previous policy aims, which were focused on minimizing settlement.…
 
 ### A new approach to explaining fertility patterns: Preference theory
 **年份**: 2003 | **DOI**: [10.1111/j.1728-4457.2003.00349.x](https://doi.org/10.1111/j.1728-4457.2003.00349.x)

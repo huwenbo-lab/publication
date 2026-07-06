@@ -1,6 +1,6 @@
 # American Sociological Review — 文章标题索引
 
-共 **1259** 篇 | 年份范围：1936–2026
+共 **1270** 篇 | 年份范围：1936–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1178,6 +1178,7 @@
 - Migration, Segregation, and the Geographic Concentration of Poverty · [DOI](https://doi.org/10.2307/2095942)
 - The Gender Gap in Math: Its Possible Origins in Neighborhood Effects · [DOI](https://doi.org/10.2307/2096370)
 - Why Social Movement Sympathizers Don't Participate: Erosion and Nonconversion of Support · [DOI](https://doi.org/10.2307/2096444)
+- Race Differences in Sexual Activity Among Adolescent Women: The Role of Neighborhood Characteristics · [DOI](https://doi.org/10.2307/2095941)
 
 ## 1993
 
@@ -1225,6 +1226,7 @@
 - Gender Stratification in Contemporary Urban Japan · [DOI](https://doi.org/10.2307/2095878)
 - Returns on Human Capital in Ethic Enclaves: New York City's Chinatown · [DOI](https://doi.org/10.2307/2117755)
 - Self-Esteem and Adolescent Problems: Modeling Reciprocal Effects · [DOI](https://doi.org/10.2307/2095720)
+- Combining Institutional Theory and Population Ecology: No Legitimacy, No History · [DOI](https://doi.org/10.2307/2095876)
 
 ## 1988
 
@@ -1241,6 +1243,7 @@
 - The Formation of Justice Norms · [DOI](https://doi.org/10.2307/2095834)
 - The Political Partisanship of American Business: A Study of Corporate Political Action Committees · [DOI](https://doi.org/10.2307/2095832)
 - Potentials, Networks, Motivations, and Barriers: Steps Towards Participation in Social Movements · [DOI](https://doi.org/10.2307/2095297)
+- Parenthood and the Attitudes of Young Adults · [DOI](https://doi.org/10.2307/2095299)
 
 ## 1986
 
@@ -1295,6 +1298,7 @@
 - Weber's Last Theory of Capitalism: A Systematization · [DOI](https://doi.org/10.2307/2094910)
 - Social Class and Psychological Distress · [DOI](https://doi.org/10.2307/2095178)
 - The Flemish Movement in Belgium After World War II: A Dynamic Analysis · [DOI](https://doi.org/10.2307/2095244)
+- Truth Tests and Utility Tests: Decision-Makers' Frames of Reference for Social Science Research · [DOI](https://doi.org/10.2307/2095127)
 
 ## 1979
 
@@ -1340,6 +1344,7 @@
 - Participation and Leadership in Small Groups · [DOI](https://doi.org/10.2307/2094156)
 - Revival Religion and Antislavery Politics · [DOI](https://doi.org/10.2307/2094230)
 - Bringing Beasts Back In: Toward a Biosocial Theory of Aggression · [DOI](https://doi.org/10.2307/2094152)
+- Race, Socialization and Mobility in Educational and Early Occupational Attainment · [DOI](https://doi.org/10.2307/2094291)
 
 ## 1973
 
@@ -1370,6 +1375,7 @@
 ## 1968
 
 - Visibility and the Structural Bases of Awareness of Scientific Research · [DOI](https://doi.org/10.2307/2091914)
+- Sociological Theory and Modern Society. · [DOI](https://doi.org/10.2307/2091918)
 
 ## 1967
 
@@ -1410,6 +1416,7 @@
 
 - Delinquency and Opportunity: A Theory of Delinquent Gangs. · [DOI](https://doi.org/10.2307/2090685)
 - Cultural Uniformity in Reaction to Physical Disabilities · [DOI](https://doi.org/10.2307/2089861)
+- The Distribution of Juvenile Delinquency in the Social Class Structure · [DOI](https://doi.org/10.2307/2090201)
 
 ## 1960
 
@@ -1422,6 +1429,7 @@
 
 - Sources of Demographic Data on Mainland China · [DOI](https://doi.org/10.2307/2096153)
 - The Myth of Functional Analysis as a Special Method in Sociology and Anthropology · [DOI](https://doi.org/10.2307/2088563)
+- "The Academic Mind": Two Views · [DOI](https://doi.org/10.2307/2089545)
 
 ## 1958
 
@@ -1437,6 +1445,7 @@
 - A Study of Organizational Effectiveness · [DOI](https://doi.org/10.2307/2089477)
 - A Critique of Tests of Significance in Survey Research · [DOI](https://doi.org/10.2307/2089475)
 - Techniques of Neutralization: A Theory of Delinquency · [DOI](https://doi.org/10.2307/2089195)
+- Scaling Delinquent Behavior · [DOI](https://doi.org/10.2307/2088474)
 
 ## 1956
 
@@ -1464,6 +1473,7 @@
 ## 1952
 
 - A Formal Theory of Interaction in Social Groups · [DOI](https://doi.org/10.2307/2087661)
+- The Development and Transformation of Monetary Meanings in the Child · [DOI](https://doi.org/10.2307/2088073)
 
 ## 1951
 
@@ -1524,3 +1534,4 @@
 ## 1936
 
 - The Unanticipated Consequences of Purposive Social Action · [DOI](https://doi.org/10.2307/2084615)
+- Cultural Determinants of Naturalization · [DOI](https://doi.org/10.2307/2084619)

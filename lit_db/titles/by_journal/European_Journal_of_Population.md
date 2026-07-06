@@ -1,6 +1,6 @@
 # European Journal of Population — 文章标题索引
 
-共 **774** 篇 | 年份范围：1985–2026
+共 **776** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -845,6 +845,7 @@
 ## 1996
 
 - Reclassifying causes of death to study the epidemiological transition in The Netherlands, 1875–1992 · [DOI](https://doi.org/10.1007/bf01796912)
+- The dynamic household as a logical concept and its use in demography · [DOI](https://doi.org/10.1007/bf01796913)
 
 ## 1995
 
@@ -890,6 +891,7 @@
 - Kinship patterns and household composition: Older unmarried Hungarian women, 1984 · [DOI](https://doi.org/10.1007/bf01797132)
 - Ageing and social-security costs · [DOI](https://doi.org/10.1007/bf01796907)
 - Recent trends in family and household composition in europe · [DOI](https://doi.org/10.1007/bf01796903)
+- The impact of breastfeeding patterns on regional differences in infant mortality in Germany, 1910 · [DOI](https://doi.org/10.1007/bf01796777)
 
 ## 1987
 

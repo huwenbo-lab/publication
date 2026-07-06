@@ -1,6 +1,6 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **636** 篇 | 年份范围：1975–2026
+共 **641** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -609,6 +609,7 @@
 - WHAT HAS HAPPENED TO THE US LABOR MOVEMENT? Union Decline and Renewal · [DOI](https://doi.org/10.1146/annurev.soc.25.1.95)
 - A RETROSPECTIVE ON THE CIVIL RIGHTS MOVEMENT: Political and Intellectual Landmarks · [DOI](https://doi.org/10.1146/annurev.soc.25.1.517)
 - WOMEN'S MOVEMENTS IN THE THIRD WORLD: Identity, Mobilization, and Autonomy · [DOI](https://doi.org/10.1146/annurev.soc.25.1.47)
+- SOCIOECONOMIC POSITION AND HEALTH: The Independent Contribution of Community Socioeconomic Context · [DOI](https://doi.org/10.1146/annurev.soc.25.1.489)
 
 ## 1998
 
@@ -703,6 +704,7 @@
 - The Sociology of Emotions · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001533)
 - Immigration and Urban Change · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001235)
 - Internal Labor Markets · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001043)
+- Sociological Research on Alcohol Use, Problems, and Policy · [DOI](https://doi.org/10.1146/annurev.so.15.080189.001115)
 
 ## 1988
 
@@ -726,6 +728,8 @@
 - The Transition to Adulthood · [DOI](https://doi.org/10.1146/annurev.so.12.080186.000545)
 - Associations and Interest Groups · [DOI](https://doi.org/10.1146/annurev.so.12.080186.000245)
 - Fifty Years of Sociology · [DOI](https://doi.org/10.1146/annurev.so.12.080186.005033)
+- States and Social Policies · [DOI](https://doi.org/10.1146/annurev.so.12.080186.001023)
+- Popular Culture · [DOI](https://doi.org/10.1146/annurev.so.12.080186.000403)
 
 ## 1985
 
@@ -780,6 +784,7 @@
 - The Development of Soviet Sociology, 1956-1976 · [DOI](https://doi.org/10.1146/annurev.so.04.080178.001131)
 - Achievement Ambitions · [DOI](https://doi.org/10.1146/annurev.so.04.080178.002105)
 - Adult Socialization · [DOI](https://doi.org/10.1146/annurev.so.04.080178.002225)
+- Social Experiments · [DOI](https://doi.org/10.1146/annurev.so.04.080178.002455)
 
 ## 1977
 

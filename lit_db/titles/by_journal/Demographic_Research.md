@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1863** 篇 | 年份范围：1999–2026
+共 **1864** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -102,6 +102,7 @@
 - The changing inter-relationship between partnership dynamics and fertility trends in Europe and the United States: A review · [DOI](https://doi.org/10.4054/demres.2025.52.7)
 - Unrealized fertility in demography · [DOI](https://doi.org/10.4054/demres.2025.53.36)
 - Family and social resilience: A scoping review of the empirical literature · [DOI](https://doi.org/10.4054/demres.2025.52.27)
+- Uncertainty, resilience, and fertility: Perceived capacity to overcome loss of employment and fertility intentions in Sweden, 2021 · [DOI](https://doi.org/10.4054/demres.2025.53.31)
 
 ## 2024
 

@@ -1,6 +1,6 @@
 # Work, Employment and Society — 文章标题索引
 
-共 **1567** 篇 | 年份范围：1987–2026
+共 **1571** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1611,12 +1611,14 @@
 - Danger: Bodies at Work · [DOI](https://doi.org/10.1177/09500179922117737)
 - Myths and Counter-Myths: An Analysis of Part-Time Female Employees and Their Orientations to Work and Working Hours · [DOI](https://doi.org/10.1177/09500179922117908)
 - The Myth of Empowerment: Work Organisation, Hierarchy and Employee Autonomy in Contemporary Australian Workplaces · [DOI](https://doi.org/10.1177/09500179922117782)
+- Life After Mining: Hidden Unemployment and Changing Patterns of Economic Activity amongst Miners in England and Wales, 1981-1991 · [DOI](https://doi.org/10.1177/09500179922118042)
 
 ## 1998
 
 - Gender Relations and Employment: The Impact of Occupation · [DOI](https://doi.org/10.1177/0950017098122005)
 - CLASS AND THE CHANGING NATURE OF WORK: TESTING HYPOTHESES OF DESKILLING AND CONVERGENCE AMONG SWEDISH EMPLOYEES · [DOI](https://doi.org/10.1017/s0950017098000154)
 - Gendered Equity? Comparing Explanations of Women's Satisfaction with the Domestic Division of Labour · [DOI](https://doi.org/10.1177/0950017098123006)
+- Dreams and Designs on Strategy: A Critical Analysis of TQM and Management Control · [DOI](https://doi.org/10.1177/0950017098123002)
 
 ## 1997
 
@@ -1660,6 +1662,7 @@
 - The End of a Way of Life: Coal Communities Since the 1984-85 Miners' Strike · [DOI](https://doi.org/10.1177/095001709371007)
 - Professional Knowledge and Social Mobility: Postwar Changes in the Knowledge-Base of Management Accounting · [DOI](https://doi.org/10.1177/095001709371001)
 - Outsourcing and the Search for `Flexibility' · [DOI](https://doi.org/10.1177/095001709372003)
+- Construction Skill and Skill Construction · [DOI](https://doi.org/10.1177/095001709374002)
 
 ## 1992
 
@@ -1687,6 +1690,7 @@
 ## 1988
 
 - Do Female Representatives make a Difference? Women Full-Time Officials and Trade Union Work · [DOI](https://doi.org/10.1177/0950017088002004004)
+- Industrial Change in Europe: The Pursuit of Flexible Specialisation in Britain and West Germany · [DOI](https://doi.org/10.1177/0950017088002002002)
 
 ## 1987
 

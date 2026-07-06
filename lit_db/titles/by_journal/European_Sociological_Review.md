@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1422** 篇 | 年份范围：1986–2026
+共 **1429** 篇 | 年份范围：1986–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1488,10 +1488,15 @@
 
 - Reforms, Expansion, and Equality of Opportunity · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018226)
 
+## 1997
+
+- Social Movements in Hungary and Russia: The Case of Environmental Movements · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018205)
+
 ## 1996
 
 - 'Losing my religion'1: a dynamic analysis of leaving the church in the Netherlands · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018179)
 - The Salience of the Part-time Divide in the European Union · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018190)
+- Collective Bargaining and Industrial Change: A Case of Disorganization? A Comparative Analysis of Eighteen OECD Countries · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a018192)
 
 ## 1995
 
@@ -1500,6 +1505,7 @@
 ## 1994
 
 - Ideological Basis of the Market Economy: Attitudes Toward Distribution Principles and the Role of Government in Western and Eastern Germany · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036324)
+- Institutions and Occupational Class Mobility: Scaling the Skill Barrier in the Danish Labour Market · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036325)
 
 ## 1993
 
@@ -1512,6 +1518,7 @@
 - Common social fluidity: a comment on recent criticisms · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036639)
 - Explaining Trends in Occupational Segregation: The Measurement, Causes, and Consequences of the Sexual Division of Labour · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036628)
 - Symmetry and hierarchy in social mobility: a methodological analysis of the CASMIN model of class mobility · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036640)
+- Socio-Economic Factors and Family Size as Determinants of Marital Dissolution in Italy1 · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036623)
 
 ## 1991
 
@@ -1523,6 +1530,7 @@
 ## 1990
 
 - Kinship and social networks in modern societies: a cross-cultural comparison among seven nations · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036553)
+- Schooling inequalities in Italy: trends over time · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036562)
 
 ## 1989
 
@@ -1538,6 +1546,7 @@
 - Commonality and variation in social fluidity in industrial nations. Part II: the model of core social fluidity applied · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036441)
 - Individuals and parties—changes in processes of political mobilization · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036449)
 - The illusion of distributive justice · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036427)
+- The collective perception of occupational inequalities in contemporary Italy: multidimensional evaluations and onedimensional scales · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036440)
 
 ## 1986
 
@@ -1546,3 +1555,4 @@
 - Educational systems and labour markets as determinants of worklife mobility in France and West Germany: a comparison of men's career mobility, 1965–1970 · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036414)
 - Career opportunities in the Federal Republic of Germany: a dynamic approach to the study of life-course, cohort, and period effects · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036419)
 - Sources of immigrants' language proficiency: Australian results with comparisons to the Federal Republic of Germany and the United States of America · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036420)
+- Small-firm development and political subcultures in Italy · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036416)

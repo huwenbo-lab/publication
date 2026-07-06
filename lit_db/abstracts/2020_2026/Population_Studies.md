@@ -1,7 +1,7 @@
 # Population Studies
 ## 2020–2026 年文章（含摘要）
 
-共 **216** 篇
+共 **219** 篇
 
 ---
 
@@ -54,6 +54,16 @@
 **年份**: 2026 | **DOI**: [10.1080/00324728.2026.2625712](https://doi.org/10.1080/00324728.2026.2625712)
 **作者**: Lam, Anastasia; Keenan, Katherine; Kulu, Hill 等4人
 **摘要**: Healthy working life expectancy estimates often exclude individuals working beyond retirement age, especially in countries with large informal economies. In South Korea, where old-age employment is highly prevalent, we need to identify who works past retirement, for how long, and in what state of he…
+
+### Perceptions of infertility: The roles of age, knowledge, and motivated reasoning
+**年份**: 2026 | **DOI**: [10.1080/00324728.2026.2687514](https://doi.org/10.1080/00324728.2026.2687514)
+**作者**: Tierney, Katherine I.; Greil, Arthur L.; Bell, Ann V.
+**摘要**: （暂无）
+
+### Reconstructing birth histories using linked household data and the 1911 Census fertility survey
+**年份**: 2026 | **DOI**: [10.1080/00324728.2026.2681475](https://doi.org/10.1080/00324728.2026.2681475)
+**作者**: Diduch, Emma
+**摘要**: （暂无）
 
 ### A new test of an old hypothesis: The link between women’s perceptions of mortality conditions and their perceptions of modern healthcare amid demographic transition
 **年份**: 2025 | **DOI**: [10.1080/00324728.2025.2506464](https://doi.org/10.1080/00324728.2025.2506464)
@@ -249,6 +259,11 @@
 **年份**: 2025 | **DOI**: [10.1080/00324728.2025.2458953](https://doi.org/10.1080/00324728.2025.2458953)
 **作者**: Smallwood, Steve
 **摘要**: Data and their uses are not always as neutral as we think. This well-researched and clearly referenced volume brings together forensic analyses of issues around the use of census data (both populat...
+
+### Women’s education and fertility in select countries of Africa and Asia: Moderation by quality of education
+**年份**: 2025 | **DOI**: [10.1080/00324728.2025.2523761](https://doi.org/10.1080/00324728.2025.2523761)
+**作者**: Chen, Shuang
+**摘要**: （暂无）
 
 ### A modal age at death approach to forecasting adult mortality
 **年份**: 2024 | **DOI**: [10.1080/00324728.2024.2310835](https://doi.org/10.1080/00324728.2024.2310835)
