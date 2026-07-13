@@ -1,7 +1,7 @@
 # Sociology Compass
 ## 2020–2026 年文章（含摘要）
 
-共 **653** 篇
+共 **656** 篇
 
 ---
 
@@ -289,6 +289,21 @@
 **年份**: 2026 | **DOI**: [10.1111/soc4.70170](https://doi.org/10.1111/soc4.70170)
 **作者**: Hellström, Anders
 **摘要**: ABSTRACT Racism is sustained by hierarchical structures that divide people into groups based on perceived phenotypical differences. This review article examines how racism—understood as a political activity—is discursively represented in struggles over meaning through three academic lenses: scientif…
+
+### Universal Basic Income Within a Just Eco‐Social Transition: Institutional Pluralism for Emancipatory Imaginaries and Social Practices
+**年份**: 2026 | **DOI**: [10.1111/soc4.70215](https://doi.org/10.1111/soc4.70215)
+**作者**: Lucena, Julio; Casassas, David; Birnbaum, Simon
+**摘要**: ABSTRACT This article examines the potential of Universal Basic Income (UBI) to support a just eco‐social transition by enabling the emergence of new emancipatory social imaginaries and practices.…
+
+### Who Leaders Are and How They Lead: A Review of Theorizing and Research on Social Movement Leadership
+**年份**: 2026 | **DOI**: [10.1111/soc4.70224](https://doi.org/10.1111/soc4.70224)
+**作者**: Fuist, Todd Nicholas
+**摘要**: ABSTRACT While sociologists typically avoid “great man” theories of social change which emphasize the actions of individuals, social movement leaders are an important area of sociological inquiry if we wish to fully understand movement dynamics.…
+
+### Ghosts on the ‘Frontier’: Interrogating the Possessive Logic of Wolf Killing
+**年份**: 2026 | **DOI**: [10.1111/soc4.70221](https://doi.org/10.1111/soc4.70221)
+**作者**: Sidhu, Tandeep; Duguay, McKenzie; Graham, Amy 等4人
+**摘要**: ABSTRACT Wolf killing is a social problem that animates the link between settler colonialism, masculinity, and animal harms. While the existing literature primarily understands wolf killing through the logic of elimination, based on the historical extirpation of wolves, we contend that its contempor…
 
 ### A Diachronic Comparative Study of Climate Change Discourse in China Daily and the New York Times: Analyzing the Evolution of Discursive Strategies
 **年份**: 2025 | **DOI**: [10.1111/soc4.70140](https://doi.org/10.1111/soc4.70140)

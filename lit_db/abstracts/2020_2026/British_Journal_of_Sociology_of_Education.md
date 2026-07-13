@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **502** 篇
+共 **503** 篇
 
 ---
 
@@ -2073,6 +2073,11 @@
 ### Class, education and parenting: cross-cultural perspectives
 **年份**: 2021 | **DOI**: [10.1080/01425692.2021.1946301](https://doi.org/10.1080/01425692.2021.1946301)
 **作者**: Golden, Deborah; Erdreich, Lauren; Stefansen, Kari 等4人
+**摘要**: （暂无）
+
+### Hannah Arendt on educational thinking and practice in dark times: Education for a world in crisis
+**年份**: 2021 | **DOI**: [10.1080/01425692.2021.1890406](https://doi.org/10.1080/01425692.2021.1890406)
+**作者**: David, Miriam
 **摘要**: （暂无）
 
 ### 'Creating a modern nursing workforce': nursing education reform in the neoliberal social imaginary

@@ -1,6 +1,6 @@
 # Journal of Family Issues — 文章标题索引
 
-共 **2370** 篇 | 年份范围：1980–2026
+共 **2371** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2483,6 +2483,7 @@
 
 - Foster Care and Public Policy · [DOI](https://doi.org/10.1177/019251384005002003)
 - Marriage, Divorce, and Living Arrangements · [DOI](https://doi.org/10.1177/019251384005001002)
+- Family Scholarship · [DOI](https://doi.org/10.1177/019251384005004012)
 
 ## 1983
 

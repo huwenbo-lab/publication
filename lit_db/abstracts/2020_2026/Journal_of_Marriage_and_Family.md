@@ -1,7 +1,7 @@
 # Journal of Marriage and Family
 ## 2020–2026 年文章（含摘要）
 
-共 **538** 篇
+共 **543** 篇
 
 ---
 
@@ -39,6 +39,31 @@
 **年份**: 2026 | **DOI**: [10.1111/jomf.70094](https://doi.org/10.1111/jomf.70094)
 **作者**: Dwyer Emory, Allison; Olsinski, Sophia
 **摘要**: ABSTRACT Objective Estimate the patterns and prevalence of multisystem exposure among US families with children. Background Contact with systems authorized to regulate, surveil, and use punitive tools to enforce compliance is pervasive among disadvantaged families.…
+
+### Intimate Partner Violence, Ambiguous and Non‐Consensual Non‐Monogamy, and Breaking Up During Young Adulthood
+**年份**: 2026 | **DOI**: [10.1111/jomf.70098](https://doi.org/10.1111/jomf.70098)
+**作者**: Barber, Jennifer S.; Kusunoki, Yasamin
+**摘要**: ABSTRACT Objective This study examines how intimate partner violence (IPV) and two types of non‐monogamy—ambiguous‐consent non‐monogamy (ACNM; concurrent sexual partners in relationships without an explicit agreement about monogamy or non‐monogamy) and non‐consensual non‐monogamy (NCNM; cheating in …
+
+### What Happened to the Marriage Alternatives? Same‐Sex Couples in the United States and the Distinctiveness of Marriage
+**年份**: 2026 | **DOI**: [10.1111/jomf.70054](https://doi.org/10.1111/jomf.70054)
+**作者**: Rosenfeld, Michael J.; Feldman, Alisa
+**摘要**: ABSTRACT Objectives Our goal is to understand if US adults with same‐sex partners viewed marriage and domestic partnership differently, and if so why. Background The retreat from marriage in the United States is a fundamental preoccupation of American social science.…
+
+### Parental Time Use and the Gendered Socialization of Adolescents' Housework in China: A Cumulative Perspective
+**年份**: 2026 | **DOI**: [10.1111/jomf.70066](https://doi.org/10.1111/jomf.70066)
+**作者**: Xue, Kefan; Zheng, Boyan
+**摘要**: ABSTRACT Objective This study examines how parental housework time and labor market participation during early childhood are associated with adolescents' housework participation. Background Prior research shows that parental time use is associated with adolescents' housework in gendered ways.…
+
+### Differently Educated US Couples and Their Work‐Family Arrangements, 1968–2023
+**年份**: 2026 | **DOI**: [10.1111/jomf.70057](https://doi.org/10.1111/jomf.70057)
+**作者**: Pessin, Léa; Querin, Federica
+**摘要**: ABSTRACT Objective This brief report examines how couples' education pairings relate to their work‐family arrangements in the United States from 1968 to 2023, focusing on differently educated couples.…
+
+### Redoing Family After Estrangement
+**年份**: 2026 | **DOI**: [10.1111/jomf.70065](https://doi.org/10.1111/jomf.70065)
+**作者**: Reczek, Rin
+**摘要**: ABSTRACT Objective This study theorizes estrangement as a catalyst for redoing family through a dynamic process of rebuilding kinship's meaning, structure, and content. Background Research on family estrangement has overwhelmingly focused on its emotional, social, and financial consequences, overloo…
 
 ### A Brief Report Comparing Younger and Older Cohabitors
 **年份**: 2025 | **DOI**: [10.1111/jomf.13128](https://doi.org/10.1111/jomf.13128)

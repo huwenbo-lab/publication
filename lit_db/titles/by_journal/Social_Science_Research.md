@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2247** 篇 | 年份范围：1972–2026
+共 **2250** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -46,6 +46,7 @@
 - Educational attainment, gender, and the change in access to schedule flexibility in Europe and the United States · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103309)
 - Workers, jobs, and how they are matched: A decomposition of US labor market trends in educational mismatch · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103311)
 - Corrigendum to “Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024” [Soc. Sci. Res. 136C (2026) 103347] · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103373)
+- Intersecting inequalities in retirement trajectories under a privatized pension system: Gender, labor force status, and occupational prestige · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103264)
 
 ## 2025
 
@@ -2299,6 +2300,7 @@
 
 - The Academic Success of East-Asian–American Students—An Investment Model · [DOI](https://doi.org/10.1006/ssre.1998.0629)
 - Windows on Divorce: Before and after · [DOI](https://doi.org/10.1006/ssre.1998.0625)
+- Early-Onset Psychiatric Disorders and Male Socioeconomic Status · [DOI](https://doi.org/10.1006/ssre.1997.0616)
 
 ## 1997
 
@@ -2337,6 +2339,10 @@
 - Leaving the faith: Testing theories of religious switching using survival models · [DOI](https://doi.org/10.1016/0049-089x(91)90015-u)
 - Why do married men earn more than unmarried men? · [DOI](https://doi.org/10.1016/0049-089x(91)90002-k)
 - Density dependence in the organizational evolution of the American brewing industry across different levels of analysis · [DOI](https://doi.org/10.1016/0049-089x(91)90008-q)
+
+## 1990
+
+- A new approach to referees' assessments of manuscripts · [DOI](https://doi.org/10.1016/0049-089x(90)90012-8)
 
 ## 1989
 

@@ -1,6 +1,6 @@
 # Social Indicators Research — 文章标题索引
 
-共 **5942** 篇 | 年份范围：1974–2026
+共 **5943** 篇 | 年份范围：1974–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -98,6 +98,7 @@
 - “To Substantially Reduce Bribery and Corruption in all Their Forms”: A Multidimensional Index of Progress on Sustainable Development Goal 16.5 · [DOI](https://doi.org/10.1007/s11205-026-03805-z)
 - Consumption Patterns, Inflation, and Household Welfare: Demand-Based Equivalence Scales in Europe · [DOI](https://doi.org/10.1007/s11205-026-03882-0)
 - Below-Median Development Indicators: Case Study of Human Development Index · [DOI](https://doi.org/10.1007/s11205-025-03758-9)
+- Measuring Impunity from Administrative Data: Composite Indices of Institutional Enforcement Across Italian Provinces · [DOI](https://doi.org/10.1007/s11205-026-03877-x)
 
 ## 2025
 

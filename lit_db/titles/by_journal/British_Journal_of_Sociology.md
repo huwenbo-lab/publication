@@ -1,6 +1,6 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1768** 篇 | 年份范围：1950–2026
+共 **1775** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1693,6 +1693,7 @@
 - When things strike back: a possible contribution of ‘science studies’ to the social sciences · [DOI](https://doi.org/10.1111/j.1468-4446.2000.00107.x)
 - ‘Bataille's boys’: postmodernity, Fascists and football fans · [DOI](https://doi.org/10.1111/j.1468-4446.2000.00443.x)
 - ‘You'll never walk alone’: CCTV surveillance, order and neo‐liberal rule in Liverpool city centre · [DOI](https://doi.org/10.1080/00071310020015299)
+- When things strike back: a possible contribution of 'science studies' to the social sciences · [DOI](https://doi.org/10.1080/000713100358453)
 
 ## 1999
 
@@ -1791,6 +1792,7 @@
 - The Reproduction of Privilege in Australian Education · [DOI](https://doi.org/10.2307/590483)
 - Sociology after the Holocaust · [DOI](https://doi.org/10.2307/590497)
 - Part II: Weber's Exploration of Calvinism: The Undiscovered Provenance of Capitalism · [DOI](https://doi.org/10.2307/590780)
+- Is Equality of Opportunity a False Ideal for Society? · [DOI](https://doi.org/10.2307/590991)
 
 ## 1987
 
@@ -1835,6 +1837,7 @@
 - Ethnic Jokes, Moral Values and Social Boundaries · [DOI](https://doi.org/10.2307/589483)
 - Social Fluidity in Industrial Nations: England, France and Sweden · [DOI](https://doi.org/10.2307/589335)
 - The Boundary of the Self-Fulfilling Prophecy and the Dilemma of Social Prediction · [DOI](https://doi.org/10.2307/589359)
+- Durkheim and Spencer · [DOI](https://doi.org/10.2307/589482)
 
 ## 1981
 
@@ -1849,6 +1852,7 @@
 - The Problem of Thematic Unity in the Works of Max Weber · [DOI](https://doi.org/10.2307/589370)
 - Immigrants and Society - A Critical View of the Dominant School of Israeli Sociology · [DOI](https://doi.org/10.2307/589690)
 - The Philosophy of the Social Sciences · [DOI](https://doi.org/10.2307/589695)
+- Men and Women of the Corporation · [DOI](https://doi.org/10.2307/590086)
 
 ## 1979
 
@@ -1860,6 +1864,7 @@
 ## 1978
 
 - Forms of Tenure and Social Structure: A Comparison of Owning and Renting in Australia and Sweden · [DOI](https://doi.org/10.2307/589218)
+- The Diffusion of Nationalism: Some Historical and Sociological Perspectives · [DOI](https://doi.org/10.2307/589891)
 
 ## 1977
 
@@ -1891,6 +1896,7 @@
 - Dialectical Sociology: Toward a Resolution of the Current 'Crisis' in Western Sociology · [DOI](https://doi.org/10.2307/589076)
 - Some Anthropological Concepts of 'Crime': The Hobhouse Memorial Lecture · [DOI](https://doi.org/10.2307/588319)
 - Value Theory: Towards Conceptual Clarification · [DOI](https://doi.org/10.2307/589108)
+- Social Control in Organizations · [DOI](https://doi.org/10.2307/588321)
 
 ## 1970
 
@@ -1988,3 +1994,4 @@
 
 - Social Grading of Occupations · [DOI](https://doi.org/10.2307/587306)
 - Social Organization · [DOI](https://doi.org/10.2307/586893)
+- An Historical Study of the Origins and Structure of the Danish Intelligentsia · [DOI](https://doi.org/10.2307/588115)

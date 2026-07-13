@@ -1,6 +1,6 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **865** 篇 | 年份范围：2001–2026
+共 **869** 篇 | 年份范围：2001–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -32,6 +32,10 @@
 - The Variation in Liberal and Radical Inequality of Opportunity across Countries · [DOI](https://doi.org/10.1016/j.rssm.2026.101171)
 - RACIAL INEQUALITIES IN ACCESS TO HIGHER EDUCATION IN BRAZIL BETWEEN 1992 AND 2023 · [DOI](https://doi.org/10.1016/j.rssm.2026.101167)
 - A similarity index for all occupations · [DOI](https://doi.org/10.1016/j.rssm.2025.101113)
+- Upgrading of educational qualifications and the effects of social origin in terms of wages: descriptive insights and a decomposition analysis for Germany · [DOI](https://doi.org/10.1016/j.rssm.2026.101172)
+- The Intergenerational Transmission of Digital Advantage: How Vertical and Horizontal Dimensions of Social Origin Shape Children's Digital Skills · [DOI](https://doi.org/10.1016/j.rssm.2026.101170)
+- After dropout: Social stratification and the dynamics of educational re-entry in Spain · [DOI](https://doi.org/10.1016/j.rssm.2026.101128)
+- Heterogeneous effects of parental death on secondary school track choice · [DOI](https://doi.org/10.1016/j.rssm.2026.101180)
 
 ## 2025
 

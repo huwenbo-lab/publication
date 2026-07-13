@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **1929** 篇 | 年份范围：1964–2026
+共 **1931** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -25,6 +25,7 @@
 - The Effect of the Great Recession on U.S. Fertility: Causal Estimates From a Novel Cohort Discontinuity Design · [DOI](https://doi.org/10.1215/00703370-12664250)
 - Wildfires and Birth Outcomes: Evidence From Spain · [DOI](https://doi.org/10.1215/00703370-12665495)
 - Decomposing Differences in Cohort Health Expectancy by Cause and Age With Longitudinal Data · [DOI](https://doi.org/10.1215/00703370-12654071)
+- Effect of First Births on Women's Employment in a Low-Income Context: Research Note Using Panel Data From Nepal · [DOI](https://doi.org/10.1215/00703370-12675345)
 
 ## 2025
 
@@ -2025,6 +2026,7 @@
 - The effect of piped water on early childhood mortality in Urban Brazil, 1970 to 1976 · [DOI](https://doi.org/10.2307/2060983)
 - The Declining Significance of First-Birth Timing · [DOI](https://doi.org/10.2307/2061177)
 - Entry into marriage and parenthood by young men and women: The influence of family background · [DOI](https://doi.org/10.2307/2061586)
+- Age and fertility: How late can you wait? · [DOI](https://doi.org/10.2307/2061583)
 
 ## 1984
 

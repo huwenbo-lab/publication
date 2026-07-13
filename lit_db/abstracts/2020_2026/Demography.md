@@ -1,7 +1,7 @@
 # Demography
 ## 2020–2026 年文章（含摘要）
 
-共 **550** 篇
+共 **551** 篇
 
 ---
 
@@ -94,6 +94,11 @@
 **年份**: 2026 | **DOI**: [10.1215/00703370-12654071](https://doi.org/10.1215/00703370-12654071)
 **作者**: Sun, Tao; Zheng, Huiping; Wang, Xiaojun
 **摘要**: Highlights We propose a new method to decompose cohort health expectancy by age and cause. We develop a new attribution method for longitudinal data. This method handles interval censoring, semicompeting risks, and time-dependent covariates.…
+
+### Effect of First Births on Women's Employment in a Low-Income Context: Research Note Using Panel Data From Nepal
+**年份**: 2026 | **DOI**: [10.1215/00703370-12675345](https://doi.org/10.1215/00703370-12675345)
+**作者**: Brauner-Otto, Sarah; Stone, Lyman
+**摘要**: Highlights This is the first longitudinal study in an LMIC setting of employment changes following childbirth. A large (40%), short-term decrease in maternal employment (i.e., penalty) was observed after childbirth.…
 
 ### A Deportation Boomerang? Evidence From US Removals to Latin America and the Carib bean
 **年份**: 2025 | **DOI**: [10.1215/00703370-11863789](https://doi.org/10.1215/00703370-11863789)

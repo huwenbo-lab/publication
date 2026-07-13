@@ -1,6 +1,6 @@
 # Gender & Society — 文章标题索引
 
-共 **1076** 篇 | 年份范围：1987–2026
+共 **1077** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1200,3 +1200,4 @@
 - LABOR MARKET GENDER INEQUALITY IN MINORITY GROUPS · [DOI](https://doi.org/10.1177/089124387001004004)
 - Gender, Race, and Crime: · [DOI](https://doi.org/10.1177/0891243287001002003)
 - THE DEVELOPMENT OF FEMINIST CONSCIOUSNESS AMONG ASIAN AMERICAN WOMEN · [DOI](https://doi.org/10.1177/089124387001003004)
+- THE FEMINIST SELF-DEFENSE MOVEMENT: · [DOI](https://doi.org/10.1177/089124387001001004)

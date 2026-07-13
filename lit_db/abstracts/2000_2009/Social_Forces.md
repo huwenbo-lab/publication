@@ -1,7 +1,7 @@
 # Social Forces
 ## 2000–2009 年文章（含摘要）
 
-共 **689** 篇
+共 **691** 篇
 
 ---
 
@@ -708,6 +708,16 @@
 **年份**: 2008 | **DOI**: [10.1353/sof.0.0027](https://doi.org/10.1353/sof.0.0027)
 **作者**: Steensland, B.
 **摘要**: Journal Article Why do Policy Frames Change? Actor-Idea Coevolution in Debates over Welfare Reform Get access Brian Steensland Brian Steensland Indiana University Direct correspondence to Brian Steensland, Department of Sociology, 744 Ballantine Hall, Indiana University, Bloomington, IN 47405.…
+
+### Self-Help, Inc.: Makeover Culture in American Life By Micki McGee Oxford University Press, 2005. $29.96 cloth
+**年份**: 2008 | **DOI**: [10.1353/sof.0.0056](https://doi.org/10.1353/sof.0.0056)
+**作者**: Illouz, E.
+**摘要**: （暂无）
+
+### Latent Curve Models: A Structural Equation Perspective By Kenneth A. Bollen and Patrick J. Curran John Wiley &amp; Sons. 2006. 285 pages. $94.95 cloth
+**年份**: 2008 | **DOI**: [10.1353/sof.0.0084](https://doi.org/10.1353/sof.0.0084)
+**作者**: Farkas, G.
+**摘要**: （暂无）
 
 ### Advancing the Sociology of Ageism
 **年份**: 2007 | **DOI**: [10.1353/sof.2007.0104](https://doi.org/10.1353/sof.2007.0104)

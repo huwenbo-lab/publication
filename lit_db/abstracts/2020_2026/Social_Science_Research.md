@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2020–2026 年文章（含摘要）
 
-共 **550** 篇
+共 **551** 篇
 
 ---
 
@@ -198,6 +198,11 @@
 ### Corrigendum to “Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024” [Soc. Sci. Res. 136C (2026) 103347]
 **年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103373](https://doi.org/10.1016/j.ssresearch.2026.103373)
 **作者**: Lee, Hyo Joo
+**摘要**: （暂无）
+
+### Intersecting inequalities in retirement trajectories under a privatized pension system: Gender, labor force status, and occupational prestige
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2025.103264](https://doi.org/10.1016/j.ssresearch.2025.103264)
+**作者**: Rosemblatt-Meta, Martin; Cabib, Ignacio
 **摘要**: （暂无）
 
 ### A real effort vs. standard public goods experiment: Asking for effort does make a difference

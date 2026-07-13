@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1640** 篇 | 年份范围：1980–2026
+共 **1643** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -436,6 +436,7 @@
 - World, planet, territory: toward a geo-logic in the critical sociology of education · [DOI](https://doi.org/10.1080/01425692.2021.1925086)
 - Young pupils' articulations of time spent in school in the wake of a policy reform · [DOI](https://doi.org/10.1080/01425692.2021.1977611)
 - Class, education and parenting: cross-cultural perspectives · [DOI](https://doi.org/10.1080/01425692.2021.1946301)
+- Hannah Arendt on educational thinking and practice in dark times: Education for a world in crisis · [DOI](https://doi.org/10.1080/01425692.2021.1890406)
 
 ## 2020
 
@@ -1314,6 +1315,7 @@
 - ‘Six packs and big muscles, and stuff like that’. Primary school‐aged South African boys, black1and white, on sport · [DOI](https://doi.org/10.1080/01425690701728654)
 - ‘The degree is not enough’: students’ perceptions of the role of higher education credentials for graduate work and employability · [DOI](https://doi.org/10.1080/01425690701737457)
 - ‘The world must stop when I’m talking’: gender and power relations in primary teachers’ classroom talk · [DOI](https://doi.org/10.1080/01425690802423288)
+- REVIEW SYMPOSIUM · [DOI](https://doi.org/10.1080/01425690701837596)
 
 ## 2007
 
@@ -1686,6 +1688,7 @@
 - Coeducation and Gender Identity Formation: A comparative analysis of secondary schools in Belgium · [DOI](https://doi.org/10.1080/01425699995308)
 - Knowledge and Politics of Social Change: The implication of anti-racism · [DOI](https://doi.org/10.1080/01425699995335)
 - Adolescent CIT Use: Paradigm shifts for educational and cultural practices? · [DOI](https://doi.org/10.1080/01425699995506)
+- The Teacher-Student Relationship in Secondary School: Insights from excluded students · [DOI](https://doi.org/10.1080/01425699995218)
 
 ## 1998
 

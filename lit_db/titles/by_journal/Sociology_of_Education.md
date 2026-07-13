@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **659** 篇 | 年份范围：1963–2026
+共 **663** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -19,6 +19,7 @@
 - “Who Is Anybody to Judge?” Educational Resistance through Recognition · [DOI](https://doi.org/10.1177/00380407261419106)
 - Caught in a Downward Spiral? The Relative Attractiveness Deficit of Vocational Education and Training · [DOI](https://doi.org/10.1177/00380407261440275)
 - From Aspiration to Action: Socioeconomic Disparity in the Translation of Educational Goals into Time Investment · [DOI](https://doi.org/10.1177/00380407261432647)
+- Hidden Advantage along the Pipeline: Family Wealth and Educational Transitions from High School through Graduate School · [DOI](https://doi.org/10.1177/00380407261457391)
 
 ## 2025
 
@@ -653,6 +654,7 @@
 - Socialization to Gender Roles: Popularity among Elementary School Boys and Girls · [DOI](https://doi.org/10.2307/2112807)
 - Educational "Choice": Its Appeal May be Illusory · [DOI](https://doi.org/10.2307/2112768)
 - Research, Teaching, and Publication Productivity: Mutuality Versus Competition in Academia · [DOI](https://doi.org/10.2307/2112772)
+- Middle Schools and Math Groups: Parents' Involvement in Children's Placement · [DOI](https://doi.org/10.2307/2112770)
 
 ## 1991
 
@@ -726,6 +728,8 @@
 - Language and Schooling · [DOI](https://doi.org/10.2307/2112601)
 - The College Channel: Private and Public Schools Reconsidered · [DOI](https://doi.org/10.2307/2112633)
 - Experience Counts, Theory Doesn't: How Teachers Talk About Their Work · [DOI](https://doi.org/10.2307/2112428)
+- The Order of Events in the Transition to Adulthood · [DOI](https://doi.org/10.2307/2112630)
+- Black Females "Place" in Desegregated Classrooms · [DOI](https://doi.org/10.2307/2112632)
 
 ## 1983
 

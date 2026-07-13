@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2032** 篇 | 年份范围：1926–2026
+共 **2042** 篇 | 年份范围：1926–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -26,6 +26,7 @@
 - Dualization of corporate control: lifetimers, external appointees, and CEO succession in Japan · [DOI](https://doi.org/10.1093/sf/soaf226)
 - Environment and the racialization of space in US cities · [DOI](https://doi.org/10.1093/sf/soag001)
 - Filling the collective-practice gap: pedagogies of participation in participatory-democratic organizations · [DOI](https://doi.org/10.1093/sf/soag076)
+- Competing devotions in the postpandemic economy: the effect of remote working on perceptions of employees as “good workers” and “good parents” in Germany, South Korea, and the United States · [DOI](https://doi.org/10.1093/sf/soaf218)
 
 ## 2025
 
@@ -257,6 +258,7 @@
 - Work Experience and Mental Health from Adolescence to Mid-Life · [DOI](https://doi.org/10.1093/sf/soae067)
 - Work Hours Volatility and Child Poverty: The Potential Mitigating Role of Safety Net Programs · [DOI](https://doi.org/10.1093/sf/soad109)
 - Review of “The Making of Lawyers’ Careers: Inequality and Opportunity in the American Legal Profession” · [DOI](https://doi.org/10.1093/sf/soae086)
+- Review of “Connecting After Chaos: Social Media and the Extended Aftermath of Disaster” · [DOI](https://doi.org/10.1093/sf/soae061)
 
 ## 2023
 
@@ -1371,6 +1373,8 @@
 - Who is Headed South? U.S. Migration Trends in Black and White, 1970-2000 · [DOI](https://doi.org/10.1353/sof.0.0099)
 - Why Organizational Ties Matter for Neighborhood Effects: Resource Access through Childcare Centers · [DOI](https://doi.org/10.1353/sof.0.0079)
 - Why do Policy Frames Change? Actor-Idea Coevolution in Debates over Welfare Reform · [DOI](https://doi.org/10.1353/sof.0.0027)
+- Self-Help, Inc.: Makeover Culture in American Life By Micki McGee Oxford University Press, 2005. $29.96 cloth · [DOI](https://doi.org/10.1353/sof.0.0056)
+- Latent Curve Models: A Structural Equation Perspective By Kenneth A. Bollen and Patrick J. Curran John Wiley &amp; Sons. 2006. 285 pages. $94.95 cloth · [DOI](https://doi.org/10.1353/sof.0.0084)
 
 ## 2007
 
@@ -1964,6 +1968,7 @@
 - Do Wives Matter? Class Identities of Wives and Husbands in the United States, 1974-1994 · [DOI](https://doi.org/10.2307/3005703)
 - Children's Residential Mobility and Neighborhood Environment following Parental Divorce and Remarriage · [DOI](https://doi.org/10.2307/3005543)
 - Counterculture or Continuity? Competing Influences on Baby Boomers' Religious Orientations and Participation · [DOI](https://doi.org/10.2307/3005704)
+- Sandwiched Marriages: The Implications of Child and Parent Relations for Marital Quality in Midlife · [DOI](https://doi.org/10.2307/3005542)
 
 ## 1997
 
@@ -1990,6 +1995,7 @@
 - Parental Divorce, Marital Conflict, and Offspring Well-being during Early Adulthood · [DOI](https://doi.org/10.2307/2580551)
 - The More, the Better? A Four-Nation Study of the Inclusion of Women in Symphony Orchestras · [DOI](https://doi.org/10.2307/2580487)
 - Sociology and Economics: Crossing the Boundaries · [DOI](https://doi.org/10.2307/2580442)
+- Insult and Inclusion: The Term Fag Hag and Gay Male "Community" · [DOI](https://doi.org/10.2307/2580489)
 
 ## 1994
 
@@ -1999,6 +2005,7 @@
 - Gender, Labor Allocations, and the Psychology of Entitlement within the Home · [DOI](https://doi.org/10.2307/2579820)
 - Disorganizing and Reorganizing Conflict: Outcomes of the State's Legal Regulation of the Strike Since the Wagner Act · [DOI](https://doi.org/10.2307/2580291)
 - Discreet Indiscretions: The Social Organization of Gossip. · [DOI](https://doi.org/10.2307/2579957)
+- Flexible Work and Housework: Work and Family Constraints on Women's Domestic Labor · [DOI](https://doi.org/10.2307/2580294)
 
 ## 1993
 
@@ -2083,6 +2090,7 @@
 - Durkheim and the Social Anthropology of Culture · [DOI](https://doi.org/10.2307/2577977)
 - Sociology: Parochial or Universal? · [DOI](https://doi.org/10.2307/2578443)
 - A Dynamic Model of Voluntary Affiliation · [DOI](https://doi.org/10.2307/2578190)
+- Community Segregation and the Costs of Ethnic Subordination · [DOI](https://doi.org/10.2307/2578187)
 
 ## 1980
 
@@ -2105,6 +2113,7 @@
 - Work Satisfaction and Age: Some Evidence for the `Job Change' Hypothesis · [DOI](https://doi.org/10.2307/2577515)
 - A Structural Model of the Mobility Table · [DOI](https://doi.org/10.2307/2577226)
 - A Durkheimian Analysis of International Crime Rates · [DOI](https://doi.org/10.2307/2577688)
+- When Can Age, Period, and Cohort be Separated? · [DOI](https://doi.org/10.2307/2577639)
 
 ## 1977
 
@@ -2169,6 +2178,7 @@
 ## 1967
 
 - The Social Psychology of Organizations. · [DOI](https://doi.org/10.2307/2575337)
+- Identities and Interactions: An Examination of Human Associations in Everyday Life. · [DOI](https://doi.org/10.2307/2575214)
 
 ## 1966
 

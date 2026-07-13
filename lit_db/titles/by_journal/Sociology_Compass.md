@@ -1,6 +1,6 @@
 # Sociology Compass — 文章标题索引
 
-共 **1798** 篇 | 年份范围：2007–2026
+共 **1801** 篇 | 年份范围：2007–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -64,6 +64,9 @@
 - “It's Like a Little Piece of Home”: Raciolinguistic Melancolía · [DOI](https://doi.org/10.1111/soc4.70176)
 - “So What Chance, What Opportunities Do We Have?” Homeowners Associations as Racialized Organizations · [DOI](https://doi.org/10.1111/soc4.70165)
 - “You Are Not a Racist, Right?”—Racism as a Political Activity · [DOI](https://doi.org/10.1111/soc4.70170)
+- Universal Basic Income Within a Just Eco‐Social Transition: Institutional Pluralism for Emancipatory Imaginaries and Social Practices · [DOI](https://doi.org/10.1111/soc4.70215)
+- Who Leaders Are and How They Lead: A Review of Theorizing and Research on Social Movement Leadership · [DOI](https://doi.org/10.1111/soc4.70224)
+- Ghosts on the ‘Frontier’: Interrogating the Possessive Logic of Wolf Killing · [DOI](https://doi.org/10.1111/soc4.70221)
 
 ## 2025
 

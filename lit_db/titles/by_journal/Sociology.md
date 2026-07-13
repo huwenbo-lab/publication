@@ -1,6 +1,6 @@
 # Sociology — 文章标题索引
 
-共 **1937** 篇 | 年份范围：1968–2026
+共 **1943** 篇 | 年份范围：1968–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1919,6 +1919,7 @@
 - Therapeutic Discourse, Power and Change: Emotion and Negotiation in Marital Conversations · [DOI](https://doi.org/10.1177/0038038598032004008)
 - Hegemony and Political Discourse: The Lasting Impact of Thatcherism · [DOI](https://doi.org/10.1177/0038038598032004011)
 - Marketing the Self, Buying an other: Dating in a Post Modern, Consumer Society · [DOI](https://doi.org/10.1177/0038038598032004009)
+- The Data are Out there, or are They? Implications for Archiving and Revisiting Qualitative Data · [DOI](https://doi.org/10.1177/0038038598032004006)
 
 ## 1997
 
@@ -1945,11 +1946,13 @@
 - Incorporation without Integration: Palestinian Citizens in Israel's Labour Market · [DOI](https://doi.org/10.1177/0038038595029003004)
 - Young People and their Contribution to Household Work · [DOI](https://doi.org/10.1177/0038038595029002008)
 - Uncovering Gender Differences in the Use of Marital Violence: The Effect of Methodology · [DOI](https://doi.org/10.1177/0038038595029003006)
+- Outline of a Practical Theory of Football Violence · [DOI](https://doi.org/10.1177/0038038595029004005)
 
 ## 1994
 
 - Just-in-Time, `Regimes' and Reductionism · [DOI](https://doi.org/10.1177/0038038594028001003)
 - Gender Inequality and Social Structure in Urban China · [DOI](https://doi.org/10.1177/0038038594028003007)
+- The Three Faces of Privatisation · [DOI](https://doi.org/10.1177/0038038594028001006)
 
 ## 1993
 
@@ -1960,6 +1963,7 @@
 - The Problem of other Lives: Social Perspectives on Written Biography · [DOI](https://doi.org/10.1177/003803859302700103)
 - Relative Merits: Family Culture and Kinship in Small Firms · [DOI](https://doi.org/10.1177/0038038593027004005)
 - Public Health Spaces and the Fabrication of Identity · [DOI](https://doi.org/10.1177/0038038593027003004)
+- Book Reviews · [DOI](https://doi.org/10.1177/0038038593027003036)
 
 ## 1992
 
@@ -2006,6 +2010,7 @@
 ## 1985
 
 - Retrospective Reviews · [DOI](https://doi.org/10.1177/0038038585019004031)
+- Ideology and Elective Affinity · [DOI](https://doi.org/10.1177/0038038585019001005)
 
 ## 1984
 
@@ -2017,6 +2022,7 @@
 - Shorter Notices · [DOI](https://doi.org/10.1177/0038038583017003021)
 - Structural Transformations in the British Class Structure: A Log Linear Analysis of Marital Endogamy in Rochdale 1856-1964 · [DOI](https://doi.org/10.1177/0038038583017004003)
 - Notes for Contributors · [DOI](https://doi.org/10.1177/0038038583017001001)
+- Information in the Labour Market: The Impact of Recession · [DOI](https://doi.org/10.1177/0038038583017002007)
 
 ## 1982
 

@@ -1,6 +1,6 @@
 # American Sociological Review — 文章标题索引
 
-共 **1270** 篇 | 年份范围：1936–2026
+共 **1280** 篇 | 年份范围：1936–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -981,6 +981,7 @@
 - Foreign Capital Dependence and Development: A New Direction · [DOI](https://doi.org/10.1177/000312240306800206)
 - Culture and Competition: Homophily and distancing Explanations for Cultural Niches · [DOI](https://doi.org/10.1177/000312240306800302)
 - Structural Cohesion and Embeddedness: A Hierarchical Concept of Social Groups · [DOI](https://doi.org/10.2307/3088904)
+- Inequality in the World Polity: The Structure of International Organization · [DOI](https://doi.org/10.1177/000312240306800305)
 
 ## 2002
 
@@ -1150,6 +1151,7 @@
 - Rethinking Racism: Toward a Structural Interpretation · [DOI](https://doi.org/10.2307/2657316)
 - Bigger May be Better, But is Older Wiser? Organizational Age and Size in the New York Life Insurance Industry · [DOI](https://doi.org/10.2307/2657346)
 - The Sociological Study of Social Change: 1996 Presidential Address · [DOI](https://doi.org/10.2307/2657449)
+- Risk and Power Use: Constraints on the Use of Coercion in Exchange · [DOI](https://doi.org/10.2307/2657455)
 
 ## 1996
 
@@ -1197,6 +1199,7 @@
 - Summer Setback: Race, Poverty, School Composition, and Mathematics Achievement in the First Two Years of School · [DOI](https://doi.org/10.2307/2096145)
 - A Very Straight Gay: Masculinity, Homosexual Experience, and the Dynamics of Gender · [DOI](https://doi.org/10.2307/2096120)
 - The Social Organization of Sociological Knowledge: Modeling the Intersection of Specialties · [DOI](https://doi.org/10.2307/2096209)
+- Crime, Punishment, and Stake in Conformity: Legal and Informal Control of Domestic Violence · [DOI](https://doi.org/10.2307/2095921)
 
 ## 1991
 
@@ -1244,6 +1247,7 @@
 - The Political Partisanship of American Business: A Study of Corporate Political Action Committees · [DOI](https://doi.org/10.2307/2095832)
 - Potentials, Networks, Motivations, and Barriers: Steps Towards Participation in Social Movements · [DOI](https://doi.org/10.2307/2095297)
 - Parenthood and the Attitudes of Young Adults · [DOI](https://doi.org/10.2307/2095299)
+- Moving Out and Marriage: What Do Young Adults Expect? · [DOI](https://doi.org/10.2307/2095455)
 
 ## 1986
 
@@ -1350,6 +1354,7 @@
 
 - A Theory of Middleman Minorities · [DOI](https://doi.org/10.2307/2094409)
 - Disturbance in the Self-Image at Adolescence · [DOI](https://doi.org/10.2307/2094407)
+- Two Sources of Error in Ecological Correlations · [DOI](https://doi.org/10.2307/2094137)
 
 ## 1972
 
@@ -1406,11 +1411,13 @@
 - Traditions of Research on the Diffusion of Innovation · [DOI](https://doi.org/10.2307/2090611)
 - The Meanings of Occupational Prestige: Reconsideration of the Norc Scale · [DOI](https://doi.org/10.2307/2090613)
 - Functional Analysis in Sociology · [DOI](https://doi.org/10.2307/2090451)
+- Alienation, Race, and Education · [DOI](https://doi.org/10.2307/2090316)
 
 ## 1962
 
 - Toward a Theory of Revolution · [DOI](https://doi.org/10.2307/2089714)
 - The Achievement Motive and Differential Occupational Mobility in the United States · [DOI](https://doi.org/10.2307/2089675)
+- The Humanist Looks at Empirical Social Research · [DOI](https://doi.org/10.2307/2090404)
 
 ## 1961
 
@@ -1438,6 +1445,7 @@
 - Voluntary Association Memberships of American Adults: Evidence from National Sample Surveys · [DOI](https://doi.org/10.2307/2089242)
 - The Developmental Cycle in Domestic Groups. · [DOI](https://doi.org/10.2307/2088842)
 - Randomization and Inference in Sociological Research · [DOI](https://doi.org/10.2307/2088804)
+- Leadership in Administration: A Sociological Interpretation. · [DOI](https://doi.org/10.2307/2088633)
 
 ## 1957
 
@@ -1516,6 +1524,7 @@
 - Structure and Dynamics of Interpersonal Relations · [DOI](https://doi.org/10.2307/2085084)
 - The Negro in Bahia, Brazil: A Problem in Method · [DOI](https://doi.org/10.2307/2085800)
 - Social Organization in the Slums · [DOI](https://doi.org/10.2307/2085446)
+- Acculturation of An Arab-Syrian Community in the Deep South · [DOI](https://doi.org/10.2307/2085079)
 
 ## 1942
 
@@ -1535,3 +1544,4 @@
 
 - The Unanticipated Consequences of Purposive Social Action · [DOI](https://doi.org/10.2307/2084615)
 - Cultural Determinants of Naturalization · [DOI](https://doi.org/10.2307/2084619)
+- The Prediction of Adjustment in Marriage · [DOI](https://doi.org/10.2307/2084133)

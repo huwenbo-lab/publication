@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **746** 篇
+共 **747** 篇
 
 ---
 
@@ -199,6 +199,11 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231261451682](https://doi.org/10.1177/23780231261451682)
 **作者**: Schnabel, Landon
 **摘要**: Social science seeks to uncover general patterns, yet much research centers on what the author calls WEIRDS (Western, educated, industrialized, rich, democratic, and secular) societies, which are dominated by one religion, Christianity, and shaped by its legacy and continuing influence.…
+
+### Visualizing the Prevalence of Couples’ Work-Family Arrangements across Countries
+**年份**: 2026 | **DOI**: [10.1177/23780231261464303](https://doi.org/10.1177/23780231261464303)
+**作者**: Portier, Camille; McErlean, Kimberly; Pessin, Léa
+**摘要**: Cross-national differences in individual patterns of paid and unpaid work are well documented, yet how couples jointly allocate time across both remains comparatively understudied. Where couple-level work-family arrangements have been studied, research has relied on qualitative or single-country des…
 
 ### A Convergence of Crises: Sudden Employment Loss and Black Lives Matter Protest Attendance during the COVID-19 Pandemic
 **年份**: 2025 | **DOI**: [10.1177/23780231251328799](https://doi.org/10.1177/23780231251328799)

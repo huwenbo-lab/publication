@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **631** 篇
+共 **632** 篇
 
 ---
 
@@ -3142,3 +3142,8 @@
 **年份**: 2000 | **DOI**: [10.1080/00071310020015299](https://doi.org/10.1080/00071310020015299)
 **作者**: Coleman, Roy; Sim, Joe
 **摘要**: ABSTRACTThis paper is concerned to chart the establishment and uses of CCTV within the location of Liverpool city centre. In doing this the paper seeks to contextualize CCTV within contemporary ‘partnership’ approaches to regeneration which are reshaping the material and discursive form of the city.…
+
+### When things strike back: a possible contribution of 'science studies' to the social sciences
+**年份**: 2000 | **DOI**: [10.1080/000713100358453](https://doi.org/10.1080/000713100358453)
+**作者**: Latour, Bruno
+**摘要**: （暂无）

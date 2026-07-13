@@ -1,6 +1,6 @@
 # Journal of Family Theory & Review — 文章标题索引
 
-共 **755** 篇 | 年份范围：2009–2026
+共 **757** 篇 | 年份范围：2009–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -43,6 +43,8 @@
 - The Social‐Ecological Model of Military Family Financial Well‐Being · [DOI](https://doi.org/10.1111/jftr.70076)
 - From Family to Death: Murder‐Suicide Incidents in an Interdisciplinary Perspective · [DOI](https://doi.org/10.1111/jftr.70077)
 - Conversational Artificial Intelligence in Everyday Family Life: Conceptualizing Family‐ AI Interactions From a Systemic Perspective · [DOI](https://doi.org/10.1111/jftr.70080)
+- On Both Sides of the Thin Blue Line: Advancing Intersectional Research on Police Families of Color · [DOI](https://doi.org/10.1111/jftr.70082)
+- Reframing Parental Caregiving for Individuals With Developmental Disabilities Through a Life Course Care Stress Model · [DOI](https://doi.org/10.1111/jftr.70079)
 
 ## 2025
 

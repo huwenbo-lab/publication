@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **123** 篇
+共 **124** 篇
 
 ---
 
@@ -64,6 +64,11 @@
 **年份**: 2026 | **DOI**: [10.1177/00380407261432647](https://doi.org/10.1177/00380407261432647)
 **作者**: Yong, Anna
 **摘要**: Although educational aspirations are widely viewed as central to attainment, less is known about how they translate into academic behavior. This study investigates the behavioral consequences of aspirations using nationally representative data from South Korea and dynamic panel models with individua…
+
+### Hidden Advantage along the Pipeline: Family Wealth and Educational Transitions from High School through Graduate School
+**年份**: 2026 | **DOI**: [10.1177/00380407261457391](https://doi.org/10.1177/00380407261457391)
+**作者**: Jeffrey, Wesley; Smith, Christian Michael; Hamilton, Laura T.
+**摘要**: Research shows a link between wealth and educational attainment, but little work has examined wealth relationships from high school degree through graduate degree completion. We use data from the National Longitudinal Survey of Youth 1997 to study when and how wealth may advantage students along the…
 
 ### Complicating the Suburban Advantage: Examining Racial and Gender Inequality in Suburban and Urban School Settings
 **年份**: 2025 | **DOI**: [10.1177/00380407241291997](https://doi.org/10.1177/00380407241291997)

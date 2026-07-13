@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2000–2009 年文章（含摘要）
 
-共 **374** 篇
+共 **375** 篇
 
 ---
 
@@ -1294,6 +1294,11 @@
 **年份**: 2003 | **DOI**: [10.2307/3088904](https://doi.org/10.2307/3088904)
 **作者**: Moody, James; White, Douglas R.
 **摘要**: （暂无）
+
+### Inequality in the World Polity: The Structure of International Organization
+**年份**: 2003 | **DOI**: [10.1177/000312240306800305](https://doi.org/10.1177/000312240306800305)
+**作者**: Beckfield, Jason
+**摘要**: Recent research reveals strong effects of involvement in international organizations on state policies, but much of this research downplays inequality in world political Participation, and there is only a limited understanding of what explains world-Polity ties.…
 
 ### Assessing alternative perspectives on race and sex employment segregation
 **年份**: 2002 | **DOI**: [10.2307/3088945](https://doi.org/10.2307/3088945)

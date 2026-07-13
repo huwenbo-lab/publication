@@ -1,7 +1,7 @@
 # Social Indicators Research
 ## 2020–2026 年文章（含摘要）
 
-共 **1412** 篇
+共 **1413** 篇
 
 ---
 
@@ -459,6 +459,11 @@
 **年份**: 2026 | **DOI**: [10.1007/s11205-025-03758-9](https://doi.org/10.1007/s11205-025-03758-9)
 **作者**: Pourpakdelfekr, Tina; Syrovátka, Miroslav; Schlossarek, Martin
 **摘要**: Abstract Striving for inclusive development requires looking beyond national averages to the outcomes of those who are being left behind. This paper introduces a flexible class of below-median development indicators and demonstrates the idea with the Human Development Index (HDI).…
+
+### Measuring Impunity from Administrative Data: Composite Indices of Institutional Enforcement Across Italian Provinces
+**年份**: 2026 | **DOI**: [10.1007/s11205-026-03877-x](https://doi.org/10.1007/s11205-026-03877-x)
+**作者**: Eboli, Mario; Fabiani, Lorenzo
+**摘要**: Abstract This study develops two composite indices of impunity at the provincial level within a single national legal framework, using Italian data from 106 provinces between 2008 and 2021.…
 
 ### (Un)happy Together—The Interrelated Life Satisfaction of Older Couples
 **年份**: 2025 | **DOI**: [10.1007/s11205-025-03699-3](https://doi.org/10.1007/s11205-025-03699-3)

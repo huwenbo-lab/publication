@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1864** 篇 | 年份范围：1999–2026
+共 **1865** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -26,6 +26,7 @@
 - Educational differences in fertility recuperation: The role of partnership trajectories in Spain · [DOI](https://doi.org/10.4054/demres.2026.54.38)
 - Collecting data on HIV/AIDS mortality during household surveys: A randomized validation study in Malawi · [DOI](https://doi.org/10.4054/demres.2026.54.41)
 - Fertility timing and the birth squeeze · [DOI](https://doi.org/10.4054/demres.2026.54.40)
+- The effect of financial strain and parental depression on child behavioral difficulties during the Great Recession in Ireland: A fixed effects analysis · [DOI](https://doi.org/10.4054/demres.2026.55.3)
 
 ## 2025
 

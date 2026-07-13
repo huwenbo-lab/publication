@@ -1,6 +1,6 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2542** 篇 | 年份范围：1965–2026
+共 **2555** 篇 | 年份范围：1965–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -14,6 +14,11 @@
 - Early Labor Market Outcomes of Young Adults From Same‐Sex Families: Evidence From Population Data · [DOI](https://doi.org/10.1111/jomf.70079)
 - Impact of Sibling Death in Midlife on Tension Among Surviving Siblings · [DOI](https://doi.org/10.1111/jomf.70083)
 - National Estimates of Multisystem Exposure Among Urban Families · [DOI](https://doi.org/10.1111/jomf.70094)
+- Intimate Partner Violence, Ambiguous and Non‐Consensual Non‐Monogamy, and Breaking Up During Young Adulthood · [DOI](https://doi.org/10.1111/jomf.70098)
+- What Happened to the Marriage Alternatives? Same‐Sex Couples in the United States and the Distinctiveness of Marriage · [DOI](https://doi.org/10.1111/jomf.70054)
+- Parental Time Use and the Gendered Socialization of Adolescents' Housework in China: A Cumulative Perspective · [DOI](https://doi.org/10.1111/jomf.70066)
+- Differently Educated US Couples and Their Work‐Family Arrangements, 1968–2023 · [DOI](https://doi.org/10.1111/jomf.70057)
+- Redoing Family After Estrangement · [DOI](https://doi.org/10.1111/jomf.70065)
 
 ## 2025
 
@@ -2503,6 +2508,7 @@
 - Do Safety Nets Work? The Role of Anticipated Help in Times of Need · [DOI](https://doi.org/10.2307/353636)
 - Sibling Resemblance in Behavioral and Cognitive Outcomes: The Role of Father Presence · [DOI](https://doi.org/10.2307/353628)
 - Husbands' and Wives' Resources and Marital Dissolution · [DOI](https://doi.org/10.2307/353537)
+- Trajectories of Grandparents' Perceived Solidarity with Adult Grandchildren: A Growth Curve Analysis over 23 Years · [DOI](https://doi.org/10.2307/353634)
 
 ## 1997
 
@@ -2538,6 +2544,7 @@
 - Detecting and Correcting Attrition Bias in Longitudinal Family Research · [DOI](https://doi.org/10.2307/353412)
 - A Tutorial in Logistic Regression · [DOI](https://doi.org/10.2307/353415)
 - Social Sources of Change in Children's Home Environments: The Effects of Parental Occupational Experiences and Family Conditions · [DOI](https://doi.org/10.2307/353817)
+- Inner-City Parents Under Economic Pressure: Perspectives on the Strategies of Parenting · [DOI](https://doi.org/10.2307/353931)
 
 ## 1994
 
@@ -2586,6 +2593,7 @@
 - Linking Economic Hardship to Marital Quality and Instability · [DOI](https://doi.org/10.2307/352931)
 - Sons, Daughters, and Intergenerational Social Support · [DOI](https://doi.org/10.2307/353036)
 - Changing Patterns of Remarriage · [DOI](https://doi.org/10.2307/352939)
+- The Likelihood of Parent-Adult Child Coresidence: Effects of Family Structure and Parental Characteristics · [DOI](https://doi.org/10.2307/353035)
 
 ## 1989
 
@@ -2595,6 +2603,7 @@
 - The Contagion of Stress across Multiple Roles · [DOI](https://doi.org/10.2307/352378)
 - Some Economic Complexities of Child Care Provided by Grandmothers · [DOI](https://doi.org/10.2307/352158)
 - Marital Status and Career Stage Influences on Social Networks of Young Adults · [DOI](https://doi.org/10.2307/352513)
+- Continuity and Variation in Chinese Patterns of Socialization · [DOI](https://doi.org/10.2307/352376)
 
 ## 1988
 
@@ -2614,6 +2623,7 @@
 - Family Processes in One-Parent, Stepparent, and Intact Families: The Child's Point of View · [DOI](https://doi.org/10.2307/352303)
 - Income Change, Parental Life Outlook, and Adolescent Expectations for Job Success · [DOI](https://doi.org/10.2307/352678)
 - The Effect of Stressful Life Events and Transitions on Family Functioning and Well-Being · [DOI](https://doi.org/10.2307/351979)
+- Family and Friends as Social Environments and Their Relationship to Young Adolescents' Use of Alcohol, Tobacco, and Marijuana · [DOI](https://doi.org/10.2307/352679)
 
 ## 1986
 
@@ -2641,6 +2651,8 @@
 - Social Support and Adaptation to Widowhood · [DOI](https://doi.org/10.2307/351795)
 - Dysfunction and Failure in Open Family Systems, I: Application of a Unified Theory · [DOI](https://doi.org/10.2307/351786)
 - Adult Daughters' Relationships with Their Mothers · [DOI](https://doi.org/10.2307/351664)
+- Intimacy and Intergenerational Aid and Contact among Mothers and Daughters · [DOI](https://doi.org/10.2307/351796)
+- Perceived Marital Quality and Family Life-Cycle Categories: A Further Analysis · [DOI](https://doi.org/10.2307/351301)
 
 ## 1982
 
@@ -2666,6 +2678,10 @@
 - Measuring Intrafamily Conflict and Violence: The Conflict Tactics (CT) Scales · [DOI](https://doi.org/10.2307/351733)
 - Measuring Marital Satisfaction in Three Generations: Positive and Negative Dimensions · [DOI](https://doi.org/10.2307/351705)
 - Implementation of a National Family Policy: The Role of the Social Scientist · [DOI](https://doi.org/10.2307/351618)
+
+## 1978
+
+- The Social Standing of a Housewife · [DOI](https://doi.org/10.2307/350934)
 
 ## 1977
 

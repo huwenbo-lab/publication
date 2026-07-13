@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **285** 篇
+共 **286** 篇
 
 ---
 
@@ -1253,6 +1253,11 @@
 ### Emergence in Sociology: Contemporary Philosophy of Mind and Some Implications for Sociological Theory
 **年份**: 2001 | **DOI**: [10.1086/338780](https://doi.org/10.1086/338780)
 **作者**: Sawyer, R. Keith
+**摘要**: （暂无）
+
+### Making Love out of Nothing at All? Null Findings and the Trivers‐Willard Hypothesis
+**年份**: 2001 | **DOI**: [10.1086/321304](https://doi.org/10.1086/321304)
+**作者**: Freese, Jeremy; Powell, Brian
 **摘要**: （暂无）
 
 ### A neo-utilitarian theory of class?

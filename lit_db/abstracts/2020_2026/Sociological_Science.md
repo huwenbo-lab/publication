@@ -1,7 +1,7 @@
 # Sociological Science
 ## 2020–2026 年文章（含摘要）
 
-共 **210** 篇
+共 **212** 篇
 
 ---
 
@@ -153,6 +153,16 @@
 ### The Double Bind of Precarious Work: Creating Need and Undermining Support
 **年份**: 2026 | **DOI**: [10.15195/v13.a30](https://doi.org/10.15195/v13.a30)
 **作者**: Woods, Tyler; Harknett, Kristen; Schneider, Daniel
+**摘要**: （暂无）
+
+### Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans
+**年份**: 2026 | **DOI**: [10.15195/v13.a31](https://doi.org/10.15195/v13.a31)
+**作者**: Taddess, Beza; Zhang, Luyin; Trejo, Sam
+**摘要**: （暂无）
+
+### A Roadmap for Inequality Research: Transparency, Intersectionality, and Multiple Measures of Race
+**年份**: 2026 | **DOI**: [10.15195/v13.a32](https://doi.org/10.15195/v13.a32)
+**作者**: Williams-Baron, Emma; Saperstein, Aliya
 **摘要**: （暂无）
 
 ### An Unreliable Ladder: Top–Bottom Self-Placement, Subjective Social Status, and Political Preferences

@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **312** 篇
+共 **314** 篇
 
 ---
 
@@ -184,6 +184,16 @@
 **年份**: 2026 | **DOI**: [10.1111/jftr.70080](https://doi.org/10.1111/jftr.70080)
 **作者**: Erdem, Gizem; Guler, Minel; Coskun, Melike 等4人
 **摘要**: ABSTRACT Although conversational artificial intelligence (CAI) has become increasingly integrated into daily life, research examining its role is limited to user engagement and Human‐AI interaction.…
+
+### On Both Sides of the Thin Blue Line: Advancing Intersectional Research on Police Families of Color
+**年份**: 2026 | **DOI**: [10.1111/jftr.70082](https://doi.org/10.1111/jftr.70082)
+**作者**: Vicente, Alidis
+**摘要**: ABSTRACT Police officers of color and their families are an underrepresented demographic in critical scholarly literature. Black and/or Latino/a police officers are uniquely affected by cultural, sociopolitical, and community influences that can create dissonance within their respective contexts.…
+
+### Reframing Parental Caregiving for Individuals With Developmental Disabilities Through a Life Course Care Stress Model
+**年份**: 2026 | **DOI**: [10.1111/jftr.70079](https://doi.org/10.1111/jftr.70079)
+**作者**: Shen, Liangqi; Hu, Rita Xiaochen
+**摘要**: ABSTRACT Although a substantial body of research has acknowledged parent caregivers' lifelong contributions to developmental disability caregiving, most empirical studies have focused on immediate caregiving outcomes or single caregiving episodes, leaving the lifelong impacts of caregiving largely u…
 
 ### A Bioecological Framework for Supporting Mothers From Pregnancy to Workforce Reintegration
 **年份**: 2025 | **DOI**: [10.1111/jftr.70039](https://doi.org/10.1111/jftr.70039)

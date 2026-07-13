@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **342** 篇
+共 **343** 篇
 
 ---
 
@@ -1204,6 +1204,11 @@
 **年份**: 2013 | **DOI**: [10.1086/670268](https://doi.org/10.1086/670268)
 **作者**: Telles, Edward; Bailey, Stanley
 **摘要**: Scholars argue that Latin American ideologies of mestizaje, or racial mixing, mask ethnoracial discrimination. We examine popular explanations for indigenous or Afrodescendant disadvantage in Bolivia, Brazil, Colombia, Dominican Republic, Ecuador, Guatemala, Mexico, and Peru using the 2010 AmericasB…
+
+### Faith and Money: How Religion Contributes to Wealth and Poverty. By Lisa A. Keister. New York: Cambridge University Press, 2011. Pp. xii+248. $99.00 (cloth); $27.99 (paper).
+**年份**: 2013 | **DOI**: [10.1086/669067](https://doi.org/10.1086/669067)
+**作者**: Swedberg, Richard
+**摘要**: （暂无）
 
 ### Are the Economy and the Environment Decoupling? A Comparative International Study, 1960-2005
 **年份**: 2012 | **DOI**: [10.1086/665990](https://doi.org/10.1086/665990)

@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2020–2026 年文章（含摘要）
 
-共 **381** 篇
+共 **385** 篇
 
 ---
 
@@ -128,6 +128,26 @@
 ### A similarity index for all occupations
 **年份**: 2026 | **DOI**: [10.1016/j.rssm.2025.101113](https://doi.org/10.1016/j.rssm.2025.101113)
 **作者**: Martin-Caughey, Ananda
+**摘要**: （暂无）
+
+### Upgrading of educational qualifications and the effects of social origin in terms of wages: descriptive insights and a decomposition analysis for Germany
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101172](https://doi.org/10.1016/j.rssm.2026.101172)
+**作者**: Grauenhorst, Anja; Schindler, Steffen
+**摘要**: （暂无）
+
+### The Intergenerational Transmission of Digital Advantage: How Vertical and Horizontal Dimensions of Social Origin Shape Children's Digital Skills
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101170](https://doi.org/10.1016/j.rssm.2026.101170)
+**作者**: Stelter, Yannick; Lörz, Markus; Maaz, Kai
+**摘要**: （暂无）
+
+### After dropout: Social stratification and the dynamics of educational re-entry in Spain
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101128](https://doi.org/10.1016/j.rssm.2026.101128)
+**作者**: Lopez Blanco, Jose David
+**摘要**: （暂无）
+
+### Heterogeneous effects of parental death on secondary school track choice
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101180](https://doi.org/10.1016/j.rssm.2026.101180)
+**作者**: Jin, Yuxuan; Kalmijn, Matthijs; de Valk, Helga A.G.
 **摘要**: （暂无）
 
 ### Associations of perceived social mobility with health indicators: Findings from the Chinese general social survey from 2017 to 2021

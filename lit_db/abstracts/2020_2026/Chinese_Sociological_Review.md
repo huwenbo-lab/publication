@@ -1,7 +1,7 @@
 # Chinese Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **145** 篇
+共 **146** 篇
 
 ---
 
@@ -33,6 +33,11 @@
 ### Multiple jobs, multiple risks? Examining the health consequences of multiple job holding in China
 **年份**: 2026 | **DOI**: [10.1080/21620555.2026.2625098](https://doi.org/10.1080/21620555.2026.2625098)
 **作者**: Zhang, Hong; Xia, Boyang; Li, Xiao
+**摘要**: （暂无）
+
+### A machine, not an intelligence: how Chinese programmers imagine generative artificial intelligence
+**年份**: 2026 | **DOI**: [10.1080/21620555.2026.2620115](https://doi.org/10.1080/21620555.2026.2620115)
+**作者**: Wu, Yingfa; Sun, Baicheng
 **摘要**: （暂无）
 
 ### Accept it or not?: young people's struggles with parental financing for property-purchase in Hong Kong

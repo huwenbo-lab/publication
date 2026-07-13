@@ -1,6 +1,6 @@
 # Work, Employment and Society — 文章标题索引
 
-共 **1571** 篇 | 年份范围：1987–2026
+共 **1574** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1632,12 +1632,14 @@
 - Dualism, Flexibility and Self-Employment in the UK Construction Industry · [DOI](https://doi.org/10.1177/0950017097113004)
 - In Search of Technik: Will Engineering Outgrow Management? · [DOI](https://doi.org/10.1177/0950017097114009)
 - Stuck in the Middle? Managers in Building Societies · [DOI](https://doi.org/10.1177/0950017097111006)
+- Uncertain Futures: Young People in and Out of Employment Since 1940 · [DOI](https://doi.org/10.1177/0950017097114002)
 
 ## 1996
 
 - The `New Economic Sociology' · [DOI](https://doi.org/10.1177/0950017096103008)
 - Welfare Dependency, the Enterprise Culture and Self-Employed Survival · [DOI](https://doi.org/10.1177/0950017096103002)
 - Paternalism and its Discontents: A Case Study · [DOI](https://doi.org/10.1177/0950017096104005)
+- Management and the Control of Technical Labour · [DOI](https://doi.org/10.1177/0950017096101005)
 
 ## 1995
 
@@ -1695,3 +1697,4 @@
 ## 1987
 
 - Subcontracting in Steel · [DOI](https://doi.org/10.1177/0950017087001004006)
+- Flexible Futures? New Technology and the Contemporary Transformation of Work · [DOI](https://doi.org/10.1177/0950017087001004007)

@@ -1,6 +1,6 @@
 # American Journal of Sociology — 文章标题索引
 
-共 **1128** 篇 | 年份范围：1896–2026
+共 **1137** 篇 | 年份范围：1896–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -487,6 +487,7 @@
 - The Transformation of America's Penal Order: A Historicized Political Sociology of Punishment · [DOI](https://doi.org/10.1086/669506)
 - The Transformation of Prison Regimes in Late Capitalist Societies · [DOI](https://doi.org/10.1086/675300)
 - Understanding Latin American Beliefs about Racial Inequality · [DOI](https://doi.org/10.1086/670268)
+- Faith and Money: How Religion Contributes to Wealth and Poverty. By Lisa A. Keister. New York: Cambridge University Press, 2011. Pp. xii+248. $99.00 (cloth); $27.99 (paper). · [DOI](https://doi.org/10.1086/669067)
 
 ## 2012
 
@@ -875,6 +876,7 @@
 - Welfare regimes, family-supportive policies, and women's employment along the life-course · [DOI](https://doi.org/10.1086/321302)
 - Welfare state and infant mortality · [DOI](https://doi.org/10.1086/338781)
 - Emergence in Sociology: Contemporary Philosophy of Mind and Some Implications for Sociological Theory · [DOI](https://doi.org/10.1086/338780)
+- Making Love out of Nothing at All? Null Findings and the Trivers‐Willard Hypothesis · [DOI](https://doi.org/10.1086/321304)
 
 ## 2000
 
@@ -955,6 +957,7 @@
 - Reputational Entrepreneurs and the Memory of Incompetence: Melting Supporters, Partisan Warriors, and Images of President Harding · [DOI](https://doi.org/10.1086/230820)
 - Pictures at an Exhibition: Conflicting Pressures in Museums and the Display of Art · [DOI](https://doi.org/10.1086/230781)
 - We Still Don't Know if Strict Churches are Strong, Much Less Why: Comment on Iannaccone · [DOI](https://doi.org/10.1086/230792)
+- The Latent Structure of Job Characteristics of Men and Women · [DOI](https://doi.org/10.1086/230909)
 
 ## 1995
 
@@ -1042,6 +1045,7 @@
 - The Other Side of Dialogue: On Making the Other Strange and the Experience of Otherness · [DOI](https://doi.org/10.1086/228868)
 - First World Nationalisms: Class and Ethnic Politics in Northern Ireland and Quebec.Katherine O'Sullivan See · [DOI](https://doi.org/10.1086/229058)
 - White-Collar Crime, Competition, and Capitalism: Comment on Coleman · [DOI](https://doi.org/10.1086/229032)
+- Trends in Antiblack Prejudice, 1972-1984: Region and Cohort Effects · [DOI](https://doi.org/10.1086/228991)
 
 ## 1987
 
@@ -1109,6 +1113,7 @@
 - The Vagaries of the Vignette World: A Comment on Alves and Rossi · [DOI](https://doi.org/10.1086/227096)
 - The Social Context of Women's Labor Force Participation: A Comparative Analysis · [DOI](https://doi.org/10.1086/227280)
 - Public Opinion and Public Ignorance: The Fine Line Between Attitudes and Nonattitudes · [DOI](https://doi.org/10.1086/227131)
+- Social Consensus on Norms of Justice: Should the Punishment Fit the Crime? · [DOI](https://doi.org/10.1086/227127)
 
 ## 1979
 
@@ -1138,6 +1143,8 @@
 - Resource Mobilization and Social Movements: A Partial Theory · [DOI](https://doi.org/10.1086/226464)
 - Habermas's Social and Political TheoryToward a Rational Society: Student Protest, Science, and Politics.Jürgen Habermas , Jeremy J. ShapiroKnowledge and Human Interests.Jürgen Habermas , Jeremy J. ShapiroTheory and Practice.Jürgen Habermas , John ViertelLegitimation Crisis.Jürgen Habermas , Thomas McCarthy · [DOI](https://doi.org/10.1086/226517)
 - Problematics in Stratum Consistency and Stratum Formation: An Australian Example · [DOI](https://doi.org/10.1086/226391)
+- Social Facts and Rules of Practice · [DOI](https://doi.org/10.1086/226594)
+- Inequality and the Relative Size of Minority Populations: A Comparative Analysis · [DOI](https://doi.org/10.1086/226427)
 
 ## 1976
 
@@ -1168,6 +1175,7 @@
 - A Funny Thing Happened on the Way to the Orifice: Women in Gynecology Textbooks · [DOI](https://doi.org/10.1086/225420)
 - Neglected Characteristics of Collective Behavior · [DOI](https://doi.org/10.1086/225589)
 - Functionalism and the Functional Theory of Stratification: An Empirical Assessment · [DOI](https://doi.org/10.1086/225429)
+- The Life Histories of W. I. Thomas and Robert E. Park · [DOI](https://doi.org/10.1086/225545)
 
 ## 1972
 
@@ -1451,6 +1459,10 @@
 ## 1898
 
 - The Instinct of Workmanship and the Irksomeness of Labor · [DOI](https://doi.org/10.1086/210791)
+
+## 1897
+
+- The Hierarchy of European Races · [DOI](https://doi.org/10.1086/210710)
 
 ## 1896
 

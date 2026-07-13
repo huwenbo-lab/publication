@@ -1,7 +1,7 @@
 # Asian Population Studies
 ## 2020–2026 年文章（含摘要）
 
-共 **142** 篇
+共 **145** 篇
 
 ---
 
@@ -58,6 +58,21 @@
 ### Child malnutrition and maternal employment: insights from Indonesia
 **年份**: 2026 | **DOI**: [10.1080/17441730.2026.2682061](https://doi.org/10.1080/17441730.2026.2682061)
 **作者**: Pratiwi, Aprilia Ira; Ananta, Aris
+**摘要**: （暂无）
+
+### Family ideals across religious groups: a factorial survey experiment in Singapore
+**年份**: 2026 | **DOI**: [10.1080/17441730.2026.2680863](https://doi.org/10.1080/17441730.2026.2680863)
+**作者**: Wang, Senhu; Yeung, Wei-Jun Jean
+**摘要**: （暂无）
+
+### The evolution of 4-2-1 family structure in China: a simulation based on multistate family structure tables
+**年份**: 2026 | **DOI**: [10.1080/17441730.2026.2691947](https://doi.org/10.1080/17441730.2026.2691947)
+**作者**: Han, Lu; Han, Qing; Jiang, Quanbao
+**摘要**: （暂无）
+
+### Intergenerational power dynamics of women in extended households in India over two decades
+**年份**: 2026 | **DOI**: [10.1080/17441730.2026.2697775](https://doi.org/10.1080/17441730.2026.2697775)
+**作者**: Yu, Sojin; Chen, Feinian
 **摘要**: （暂无）
 
 ### A gender gap in happiness: documenting a puzzle from Indian survey data

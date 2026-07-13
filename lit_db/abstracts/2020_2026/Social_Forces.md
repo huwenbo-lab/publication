@@ -1,7 +1,7 @@
 # Social Forces
 ## 2020–2026 年文章（含摘要）
 
-共 **517** 篇
+共 **519** 篇
 
 ---
 
@@ -99,6 +99,11 @@
 **年份**: 2026 | **DOI**: [10.1093/sf/soag076](https://doi.org/10.1093/sf/soag076)
 **作者**: Cox, Amanda B
 **摘要**: Abstract Participatory-democratic organizations seek to redistribute decision-making authority, but doing so raises a practical question: how do participants learn to exercise that authority in nonhierarchical, collective ways?…
+
+### Competing devotions in the postpandemic economy: the effect of remote working on perceptions of employees as “good workers” and “good parents” in Germany, South Korea, and the United States
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf218](https://doi.org/10.1093/sf/soaf218)
+**作者**: Cha, Youngjoo; Hipp, Lena; Cho, Soocheol
+**摘要**: Abstract Before the pandemic, remote workers were often perceived as less committed than their in-office counterparts. Have these perceptions persisted in the postpandemic era of global remote work expansion? Does working remotely affect how people are viewed as parents and not just as workers?…
 
 ### A processual framework for understanding the rise of the populist right: the case of Brazil (2013-2018)
 **年份**: 2025 | **DOI**: [10.1093/sf/soae189](https://doi.org/10.1093/sf/soae189)
@@ -1223,6 +1228,11 @@
 ### Review of “The Making of Lawyers’ Careers: Inequality and Opportunity in the American Legal Profession”
 **年份**: 2024 | **DOI**: [10.1093/sf/soae086](https://doi.org/10.1093/sf/soae086)
 **作者**: Liu, Sida
+**摘要**: （暂无）
+
+### Review of “Connecting After Chaos: Social Media and the Extended Aftermath of Disaster”
+**年份**: 2024 | **DOI**: [10.1093/sf/soae061](https://doi.org/10.1093/sf/soae061)
+**作者**: Tierney, Kathleen
 **摘要**: （暂无）
 
 ### A Gendered and Racialized Educational Hierarchy: Disparities in Elementary School Teachers' Perceptions of Student Behavior

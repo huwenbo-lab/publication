@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2010–2019 年文章（含摘要）
 
-共 **341** 篇
+共 **344** 篇
 
 ---
 
@@ -525,6 +525,11 @@
 **作者**: Marteleto, Leticia J.; Weitzman, Abigail; Coutinho, Raquel Zanatta 等4人
 **摘要**: This study uses focus group data from women of reproductive age to investigate whether and how women's fertility intentions and prevention strategies are changing in response to the Zika virus (ZIKV) epidemic in Brazil.…
 
+### Ronald R.Rindfuss and Minja KimChoe (Eds.) Low and Lower Fertility: Variations across Developed CountriesSpringer, 2015. 196 p. $129.00; $122.55 (pbk).Ronald R.Rindfuss and Minja KimChoe (Eds.) Low Fertility, Institutions, and their Policies: Variations across Industrialized CountriesSpringer, 2016. 303 p. $99.99.
+**年份**: 2017 | **DOI**: [10.1111/padr.12059](https://doi.org/10.1111/padr.12059)
+**作者**: Bongaarts, John
+**摘要**: （暂无）
+
 ### A Demographic Rationale for Brexit
 **年份**: 2016 | **DOI**: [10.1111/padr.12014](https://doi.org/10.1111/padr.12014)
 **作者**: Coleman, David
@@ -675,6 +680,11 @@
 **作者**: Cherlin, Andrew J.
 **摘要**: （暂无）
 
+### PhyllisMoenEncore Adulthood: Boomers on the Edge of Risk, Renewal, and PurposeNew York: Oxford University Press, 2016. 328 p. $24.95 (pbk.).
+**年份**: 2016 | **DOI**: [10.1111/padr.12003](https://doi.org/10.1111/padr.12003)
+**作者**: Hodgson, Dennis
+**摘要**: （暂无）
+
 ### Are We Overly Dependent on Conventional Dependency Ratios?
 **年份**: 2015 | **DOI**: [10.1111/j.1728-4457.2015.00091.x](https://doi.org/10.1111/j.1728-4457.2015.00091.x)
 **作者**: Sanderson, Warren C.; Scherbov, Sergei
@@ -794,6 +804,11 @@
 **年份**: 2015 | **DOI**: [10.1111/j.1728-4457.2015.00044.x](https://doi.org/10.1111/j.1728-4457.2015.00044.x)
 **作者**: Dukhovnov, Denys; Zagheni, Emilio
 **摘要**: Non-monetary transfers of time represent a largely unknown, yet pivotal component, of the support system in the United States. We map flows of time transfers, by age and sex, related to informal childcare and adult care in the US.…
+
+### Closing a Sociodemographic Chapter of Chinese History
+**年份**: 2015 | **DOI**: [10.1111/j.1728-4457.2015.00090.x](https://doi.org/10.1111/j.1728-4457.2015.00090.x)
+**作者**: Zhao, Zhongwei
+**摘要**: At its recent Fifth Plenary Session held in Beijing, the Eighteenth Central Committee of the Communist Party of China decided to abolish the one‐child policy and allow all couples to have two children, thus closing an important chapter of China's social and demographic history.…
 
 ### A Population Policy Rationale for the Twenty-First Century
 **年份**: 2014 | **DOI**: [10.1111/j.1728-4457.2014.00696.x](https://doi.org/10.1111/j.1728-4457.2014.00696.x)

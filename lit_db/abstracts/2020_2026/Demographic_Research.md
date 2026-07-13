@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2020–2026 年文章（含摘要）
 
-共 **525** 篇
+共 **526** 篇
 
 ---
 
@@ -98,6 +98,11 @@
 ### Fertility timing and the birth squeeze
 **年份**: 2026 | **DOI**: [10.4054/demres.2026.54.40](https://doi.org/10.4054/demres.2026.54.40)
 **作者**: Schoen, Robert
+**摘要**: （暂无）
+
+### The effect of financial strain and parental depression on child behavioral difficulties during the Great Recession in Ireland: A fixed effects analysis
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.55.3](https://doi.org/10.4054/demres.2026.55.3)
+**作者**: Gibbons, Ryan Alberto; Layte, Richard
 **摘要**: （暂无）
 
 ### A comprehensive database of estimates and forecasts of Spanish sex-age death rates by climate area, income level, and habitat size (2010-2050)

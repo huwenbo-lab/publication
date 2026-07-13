@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2000–2009 年文章（含摘要）
 
-共 **351** 篇
+共 **352** 篇
 
 ---
 
@@ -772,6 +772,11 @@
 ### Environmental Degradation and Human Well-Being: Report of the Millennium Ecosystem Assessment
 **年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00073.x](https://doi.org/10.1111/j.1728-4457.2005.00073.x)
 **摘要**: （暂无）
+
+### Explaining Asia's “Missing Women”: A New Look at the Data
+**年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00082.x](https://doi.org/10.1111/j.1728-4457.2005.00082.x)
+**作者**: Gupta, Monica Das
+**摘要**: The fact that millions of females are “missing” in East Asia and South Asia has been attributed to cultural factors that support strong son preference in these countries. A widely disseminated paper by Emily Oster argues that a large part of this phenomenon can be attributed to excessively masculine…
 
 ### A comparison of US and Canadian mortality in 1998
 **年份**: 2004 | **DOI**: [10.1111/j.1728-4457.2004.00027.x](https://doi.org/10.1111/j.1728-4457.2004.00027.x)

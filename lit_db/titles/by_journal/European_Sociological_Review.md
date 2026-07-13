@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1429** 篇 | 年份范围：1986–2026
+共 **1431** 篇 | 年份范围：1986–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1519,6 +1519,7 @@
 - Explaining Trends in Occupational Segregation: The Measurement, Causes, and Consequences of the Sexual Division of Labour · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036628)
 - Symmetry and hierarchy in social mobility: a methodological analysis of the CASMIN model of class mobility · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036640)
 - Socio-Economic Factors and Family Size as Determinants of Marital Dissolution in Italy1 · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036623)
+- Book reviews · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036646)
 
 ## 1991
 
@@ -1535,6 +1536,7 @@
 ## 1989
 
 - Educational systems and labor market outcomes · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036524)
+- Intergenerational relationships in families from Turkey and Germany · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036525)
 
 ## 1988
 

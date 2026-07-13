@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **1142** 篇 | 年份范围：1976–2026
+共 **1149** 篇 | 年份范围：1976–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -19,6 +19,7 @@
 - School Enrollment and Living Arrangements of Children in Sub‐Saharan Africa · [DOI](https://doi.org/10.1111/padr.70045)
 - Leveraging High‐Frequency Digital Data to Analyze Forced Displacement Dynamics: A Case Study from the Gaza Strip · [DOI](https://doi.org/10.1111/padr.70064)
 - The Covid‐19 Pandemic and the Social Mathematics of Life and Death · [DOI](https://doi.org/10.1111/padr.70072)
+- The Demographic and Social Construction of Super‐Diversity · [DOI](https://doi.org/10.1111/padr.70058)
 
 ## 2025
 
@@ -427,6 +428,7 @@
 - Trading Youth for Citizenship? The Spousal Age Gap in Cross-Border Marriages · [DOI](https://doi.org/10.1111/padr.12072)
 - Trends in Age at Marriage and the Onset of Fertility Transition in sub-Saharan Africa · [DOI](https://doi.org/10.1111/padr.12043)
 - Women's Reproductive Intentions and Behaviors during the Zika Epidemic in Brazil · [DOI](https://doi.org/10.1111/padr.12074)
+- Ronald R.Rindfuss and Minja KimChoe (Eds.) Low and Lower Fertility: Variations across Developed CountriesSpringer, 2015. 196 p. $129.00; $122.55 (pbk).Ronald R.Rindfuss and Minja KimChoe (Eds.) Low Fertility, Institutions, and their Policies: Variations across Industrialized CountriesSpringer, 2016. 303 p. $99.99. · [DOI](https://doi.org/10.1111/padr.12059)
 
 ## 2016
 
@@ -460,6 +462,7 @@
 - Why Brexit? The Toxic Mix of Immigration and Austerity · [DOI](https://doi.org/10.1111/padr.12007)
 - WHO, UNICEF, UNFPA, World Bank Group, and United Nations Population DivisionTrends in Maternal Mortality: 1990 to 2015Geneva: World Health Organization, 2015. · [DOI](https://doi.org/10.1111/padr.12033)
 - A Happy Ending to a Half‐Century of Family Change? · [DOI](https://doi.org/10.1111/j.1728-4457.2016.00111.x)
+- PhyllisMoenEncore Adulthood: Boomers on the Edge of Risk, Renewal, and PurposeNew York: Oxford University Press, 2016. 328 p. $24.95 (pbk.). · [DOI](https://doi.org/10.1111/padr.12003)
 
 ## 2015
 
@@ -487,6 +490,7 @@
 - The World Health Organization and the Globalization of Chronic Noncommunicable Disease · [DOI](https://doi.org/10.1111/j.1728-4457.2015.00070.x)
 - Twinning Rates in Developed Countries: Trends and Explanations · [DOI](https://doi.org/10.1111/j.1728-4457.2015.00088.x)
 - Who Takes Care of Whom in the United States? Time Transfers by Age and Sex · [DOI](https://doi.org/10.1111/j.1728-4457.2015.00044.x)
+- Closing a Sociodemographic Chapter of Chinese History · [DOI](https://doi.org/10.1111/j.1728-4457.2015.00090.x)
 
 ## 2014
 
@@ -854,6 +858,7 @@
 - Tibetan fertility transitions in China and South Asia · [DOI](https://doi.org/10.1111/j.1728-4457.2005.00068.x)
 - Why is fertility lower in wealthier countries? The role of relaxed fertility-selection · [DOI](https://doi.org/10.1111/j.1728-4457.2005.00054.x)
 - Environmental Degradation and Human Well-Being: Report of the Millennium Ecosystem Assessment · [DOI](https://doi.org/10.1111/j.1728-4457.2005.00073.x)
+- Explaining Asia's “Missing Women”: A New Look at the Data · [DOI](https://doi.org/10.1111/j.1728-4457.2005.00082.x)
 
 ## 2004
 
@@ -1194,6 +1199,7 @@
 - Depletion of Common Property Resources in India: Micro-Level Evidence · [DOI](https://doi.org/10.2307/2807930)
 - The Varying Connection between Marital Status and Childbearing in the United States · [DOI](https://doi.org/10.2307/1972442)
 - Cooperation, Inequality, and the Family · [DOI](https://doi.org/10.2307/2807922)
+- The United States, China, and the United Nations Population Fund: Dynamics of US Policymaking · [DOI](https://doi.org/10.2307/1973404)
 
 ## 1988
 
@@ -1257,6 +1263,7 @@
 - Population Studies and Population Policy in China · [DOI](https://doi.org/10.2307/1972987)
 - Mortality Transition in South and East Asia: Technology Confronts Poverty · [DOI](https://doi.org/10.2307/1972380)
 - Can Knowledge Improve Forecasts? · [DOI](https://doi.org/10.2307/1972470)
+- Women in Agriculture: Counting the Labor Force in Developing Countries · [DOI](https://doi.org/10.2307/1972379)
 
 ## 1981
 

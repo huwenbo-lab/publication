@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **289** 篇
+共 **290** 篇
 
 ---
 
@@ -64,6 +64,11 @@
 **年份**: 2026 | **DOI**: [10.1111/padr.70072](https://doi.org/10.1111/padr.70072)
 **作者**: Mojola, Sanyu A.
 **摘要**: （暂无）
+
+### The Demographic and Social Construction of Super‐Diversity
+**年份**: 2026 | **DOI**: [10.1111/padr.70058](https://doi.org/10.1111/padr.70058)
+**作者**: O'Donnell, James; Raymer, James
+**摘要**: Abstract The concept of super‐diversity posits that waves of immigration over several decades expand population heterogeneity on multiple social, demographic, economic, political, and legal dimensions, creating a mosaic of social and cultural life in immigrant‐rich spaces.…
 
 ### A Concentration of Reproduction to Later Ages? A Worldwide Assessment of Trends in Fertility Timing
 **年份**: 2025 | **DOI**: [10.1111/padr.70036](https://doi.org/10.1111/padr.70036)

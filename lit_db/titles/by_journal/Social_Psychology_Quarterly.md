@@ -1,6 +1,6 @@
 # Social Psychology Quarterly — 文章标题索引
 
-共 **1320** 篇 | 年份范围：1979–2026
+共 **1322** 篇 | 年份范围：1979–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1047,6 +1047,8 @@
 - The Gloried Self: The Aggrandizement and the Constriction of Self · [DOI](https://doi.org/10.2307/2786993)
 - Waiting for a Phone: Intrusion on Callers Leads to Territorial Defense · [DOI](https://doi.org/10.2307/2786718)
 - [Anchoring Justice]: Comment · [DOI](https://doi.org/10.2307/2786711)
+- Ethnic Accent as a Status Cue · [DOI](https://doi.org/10.2307/2786714)
+- Effects of Emotion Displays on Social Identification · [DOI](https://doi.org/10.2307/2786900)
 
 ## 1988
 

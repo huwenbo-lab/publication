@@ -1,6 +1,6 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **641** 篇 | 年份范围：1975–2026
+共 **643** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -743,6 +743,7 @@
 - Negotiated Orders and Organizational Cultures · [DOI](https://doi.org/10.1146/annurev.so.10.080184.001323)
 - The Life Story Approach: A Continental View · [DOI](https://doi.org/10.1146/annurev.so.10.080184.001243)
 - Secular Symbolism: Studies of Ritual, Ceremony, and the Symbolic Order in Modern Life · [DOI](https://doi.org/10.1146/annurev.so.10.080184.002221)
+- Evaluation Research: An Assessment · [DOI](https://doi.org/10.1146/annurev.so.10.080184.001555)
 
 ## 1983
 
@@ -761,6 +762,7 @@
 - Organizational Performance: Recent Developments in Measurement · [DOI](https://doi.org/10.1146/annurev.so.07.080181.001541)
 - Self-Help and Mutual Aid: An Emerging Social Movement? · [DOI](https://doi.org/10.1146/annurev.so.07.080181.001021)
 - Dimensions of the New Immigration to the United States and the Prospects for Assimilation · [DOI](https://doi.org/10.1146/annurev.so.07.080181.000421)
+- The Fiscal Crisis of the Capitalist State · [DOI](https://doi.org/10.1146/annurev.so.07.080181.000245)
 
 ## 1980
 
