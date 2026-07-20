@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **230** 篇
+共 **231** 篇
 
 ---
 
@@ -19,6 +19,11 @@
 **年份**: 2026 | **DOI**: [10.1177/00031224261448194](https://doi.org/10.1177/00031224261448194)
 **作者**: Aeppli, Clem
 **摘要**: Many jobs in the twenty-first century have become short-term, precarious, and unstable. To help explain this phenomenon, I consider the fragmentation of economic activity across networks of transacting organizations—a trend known to affect pay, but with unknown implications for the stability of work…
+
+### The Gendered Intergenerational Transmission of Managerial Status
+**年份**: 2026 | **DOI**: [10.1177/00031224261457151](https://doi.org/10.1177/00031224261457151)
+**作者**: Martindale, Nicholas; Lyttelton, Thomas; Henriksen, Lasse Folke
+**摘要**: Prior research on managerial attainment highlights inequalities based on gender and ethnicity, but the role of social origins has been neglected. Moreover, past research on intergenerational social mobility does not focus specifically on how parents’ and children’s occupations may be linked.…
 
 ### (Not) Getting What You Deserve: How Misrecognized Evaluators Reproduce Misrecognition in Peer Evaluations
 **年份**: 2025 | **DOI**: [10.1177/00031224251318051](https://doi.org/10.1177/00031224251318051)

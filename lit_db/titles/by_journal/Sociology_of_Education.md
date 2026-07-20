@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **663** 篇 | 年份范围：1963–2026
+共 **664** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -613,6 +613,7 @@
 - Teachers' Decision-Making Power and School Conflict · [DOI](https://doi.org/10.2307/2112804)
 - Effects of High School Work Experience a Decade Later: Evidence from the National Longitudinal Survey · [DOI](https://doi.org/10.2307/2112724)
 - Forming American Educational Policy with International Data: Lessons from the Sociology of Education · [DOI](https://doi.org/10.2307/3108459)
+- Potential Pitfalls of Systemic Reform: Early Lessons from Research on Detracking · [DOI](https://doi.org/10.2307/3108461)
 
 ## 1995
 

@@ -1,6 +1,6 @@
 # American Journal of Sociology — 文章标题索引
 
-共 **1137** 篇 | 年份范围：1896–2026
+共 **1147** 篇 | 年份范围：1896–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -958,6 +958,7 @@
 - Pictures at an Exhibition: Conflicting Pressures in Museums and the Display of Art · [DOI](https://doi.org/10.1086/230781)
 - We Still Don't Know if Strict Churches are Strong, Much Less Why: Comment on Iannaccone · [DOI](https://doi.org/10.1086/230792)
 - The Latent Structure of Job Characteristics of Men and Women · [DOI](https://doi.org/10.1086/230909)
+- Ordaining Women: The Diffusion of an Organizational Innovation · [DOI](https://doi.org/10.1086/230782)
 
 ## 1995
 
@@ -1025,6 +1026,7 @@
 - What's Class Got to Do with It? A Further Examination of Power-Control Theory · [DOI](https://doi.org/10.1086/229383)
 - Market Networks and Corporate Behavior · [DOI](https://doi.org/10.1086/229573)
 - Religion as Opposition: A Gramscian Analysis · [DOI](https://doi.org/10.1086/229491)
+- Position in the Class Structure and Psychological Functioning in the United States, Japan, and Poland · [DOI](https://doi.org/10.1086/229382)
 
 ## 1989
 
@@ -1153,10 +1155,13 @@
 - Classical Social Theory and the Origins of Modern Sociology · [DOI](https://doi.org/10.1086/226140)
 - Social Integration and the Status-Attainment Process · [DOI](https://doi.org/10.1086/226227)
 - The Real Self: From Institution to Impulse · [DOI](https://doi.org/10.1086/226183)
+- A General Framework for Building Dynamic Macro Social Indicator Models: Including an Analysis of Changes in Crime Rates and Police Expenditures · [DOI](https://doi.org/10.1086/226354)
 
 ## 1975
 
 - Abolition, the Extension of Slavery, and the Position of Free Blacks: A Study of Split Labor Markets in the United States, 1830-1863 · [DOI](https://doi.org/10.1086/226110)
+- Human Activity Patterns in the City: Things People Do in Time and in Space.F. Stuart Chapin, Jr. · [DOI](https://doi.org/10.1086/226085)
+- Sociological Theory and Social Control · [DOI](https://doi.org/10.1086/226035)
 
 ## 1974
 
@@ -1215,6 +1220,7 @@
 ## 1967
 
 - Britain's Married Women Workers.Viola Klein · [DOI](https://doi.org/10.1086/224387)
+- Craps and Magic · [DOI](https://doi.org/10.1086/224479)
 
 ## 1966
 
@@ -1280,6 +1286,7 @@
 - Age and Sex in the Interview · [DOI](https://doi.org/10.1086/221954)
 - Interviewing Frenchmen · [DOI](https://doi.org/10.1086/221961)
 - Measuring Role Conflict · [DOI](https://doi.org/10.1086/221760)
+- Interviewing Homosexuals · [DOI](https://doi.org/10.1086/221965)
 
 ## 1955
 
@@ -1346,6 +1353,7 @@
 ## 1940
 
 - News as a Form of Knowledge: A Chapter in the Sociology of Knowledge · [DOI](https://doi.org/10.1086/218445)
+- German Fertility Trends, 1933-39 · [DOI](https://doi.org/10.1086/218563)
 
 ## 1939
 
@@ -1353,6 +1361,7 @@
 - The Role of the Intellectual in the Modern World · [DOI](https://doi.org/10.1086/218060)
 - Illegitimacy and the Social Structure · [DOI](https://doi.org/10.1086/218266)
 - The Influence of Sigmund Freud Upon Sociology in the United States · [DOI](https://doi.org/10.1086/218308)
+- Racial and National Intermarriage in a Brazilian City · [DOI](https://doi.org/10.1086/218118)
 
 ## 1938
 
@@ -1409,6 +1418,10 @@
 - The Neighborhood: A Study of Local Life in the City of Columbus, Ohio. I. · [DOI](https://doi.org/10.1086/213301)
 - The Neighborhood: A Study of Local Life in the City of Columbus, Ohio. II. · [DOI](https://doi.org/10.1086/213346)
 - Sociology and the Social Sciences: The Social Organism and the Collective Mind · [DOI](https://doi.org/10.1086/213265)
+
+## 1920
+
+- Heredity and Opportunity · [DOI](https://doi.org/10.1086/213124)
 
 ## 1919
 

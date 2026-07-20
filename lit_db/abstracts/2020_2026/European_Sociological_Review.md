@@ -1,7 +1,7 @@
 # European Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **412** 篇
+共 **413** 篇
 
 ---
 
@@ -49,6 +49,11 @@
 **年份**: 2026 | **DOI**: [10.1093/esr/jcag020](https://doi.org/10.1093/esr/jcag020)
 **作者**: Taflinger, Shannon; Hudde, Ansgar
 **摘要**: Abstract US Americans are divided along party lines, both in politics and personal relationships. While prior research shows a preference for dating co-partisans, it remains unclear why people prefer to date co-partisans and for whom the effects are strongest.…
+
+### Positive effects of his and her income on first births: couple-level evidence from longitudinal tax data in Italy
+**年份**: 2026 | **DOI**: [10.1093/esr/jcag021](https://doi.org/10.1093/esr/jcag021)
+**作者**: Gil-Hernández, Carlos J; Vignoli, Daniele; Guetto, Raffaele 等5人
+**摘要**: Abstract This study adopts a couple-level approach to assess whether higher-income women (men) experience lower (higher) fertility due to opportunity costs and conventional gender norms or whether income pooling within couples facilitates parenthood.…
 
 ### A caution on sibling comparisons in studying effects of the rearing environment
 **年份**: 2025 | **DOI**: [10.1093/esr/jcae037](https://doi.org/10.1093/esr/jcae037)

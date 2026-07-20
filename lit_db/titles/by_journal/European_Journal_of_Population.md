@@ -1,6 +1,6 @@
 # European Journal of Population — 文章标题索引
 
-共 **776** 篇 | 年份范围：1985–2026
+共 **777** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -841,6 +841,7 @@
 - The Impact of Children on Divorce Risks of Swedish Women · [DOI](https://doi.org/10.1023/a:1005803001129)
 - Wanting a Child Without a Firm Commitment to the Partner: Interpretations and Implications of a Common Behaviour Pattern among Norwegian Cohabitants · [DOI](https://doi.org/10.1023/a:1005943724645)
 - Exploring Relationships between Social Policy and Changing Family Forms within the European Union · [DOI](https://doi.org/10.1023/a:1005941907983)
+- The Decline of Fertility in Malta: The Role of Family Planning · [DOI](https://doi.org/10.1023/a:1005898318935)
 
 ## 1996
 

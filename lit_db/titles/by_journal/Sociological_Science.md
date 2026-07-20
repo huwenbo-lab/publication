@@ -1,6 +1,6 @@
 # Sociological Science — 文章标题索引
 
-共 **406** 篇 | 年份范围：2014–2026
+共 **411** 篇 | 年份范围：2014–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -39,6 +39,11 @@
 - The Double Bind of Precarious Work: Creating Need and Undermining Support · [DOI](https://doi.org/10.15195/v13.a30)
 - Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans · [DOI](https://doi.org/10.15195/v13.a31)
 - A Roadmap for Inequality Research: Transparency, Intersectionality, and Multiple Measures of Race · [DOI](https://doi.org/10.15195/v13.a32)
+- Decoupling Inequality and Stratification in the American Wealth Distribution, 1989–2022 · [DOI](https://doi.org/10.15195/v13.a37)
+- Quantities of Interest for Interactions and the Pitfalls of Assuming Linear Treatment Effects · [DOI](https://doi.org/10.15195/v13.a36)
+- Categorical Engagement and the Contingent Nature of Typicality Effects · [DOI](https://doi.org/10.15195/v13.a34)
+- Bending the Heckman Curve: Competing Declines in Learning Capacity and Skill Relevance Over the Life Course · [DOI](https://doi.org/10.15195/v13.a35)
+- Information Diets Are More Diverse in Attention Than in Engagement · [DOI](https://doi.org/10.15195/v13.a33)
 
 ## 2025
 

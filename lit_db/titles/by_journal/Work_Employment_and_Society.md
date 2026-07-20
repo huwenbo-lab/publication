@@ -1,6 +1,6 @@
 # Work, Employment and Society — 文章标题索引
 
-共 **1574** 篇 | 年份范围：1987–2026
+共 **1575** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1693,6 +1693,7 @@
 
 - Do Female Representatives make a Difference? Women Full-Time Officials and Trade Union Work · [DOI](https://doi.org/10.1177/0950017088002004004)
 - Industrial Change in Europe: The Pursuit of Flexible Specialisation in Britain and West Germany · [DOI](https://doi.org/10.1177/0950017088002002002)
+- Gender and Recruitment: People and Places in the Labour Market · [DOI](https://doi.org/10.1177/0950017088002003004)
 
 ## 1987
 

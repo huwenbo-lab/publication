@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2042** 篇 | 年份范围：1926–2026
+共 **2054** 篇 | 年份范围：1926–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -27,6 +27,9 @@
 - Environment and the racialization of space in US cities · [DOI](https://doi.org/10.1093/sf/soag001)
 - Filling the collective-practice gap: pedagogies of participation in participatory-democratic organizations · [DOI](https://doi.org/10.1093/sf/soag076)
 - Competing devotions in the postpandemic economy: the effect of remote working on perceptions of employees as “good workers” and “good parents” in Germany, South Korea, and the United States · [DOI](https://doi.org/10.1093/sf/soaf218)
+- Review of “On the Frontlines of Crisis: Intensive Care and the Challenge of COVID-19.” · [DOI](https://doi.org/10.1093/sf/soaf236)
+- Review of “Original Sin?: The Reproduction of Racism in a Multiracial Church” · [DOI](https://doi.org/10.1093/sf/soaf234)
+- Review of “Insurgent Communities: How Protests Create a Filipino Diaspora” · [DOI](https://doi.org/10.1093/sf/soaf239)
 
 ## 2025
 
@@ -163,6 +166,7 @@
 - Review of “Be Water: Collective Improvisation in Hong Kong’s Anti-Extradition Protests” · [DOI](https://doi.org/10.1093/sf/soaf185)
 - Deporting children: case outcomes for unaccompanied minors facing removal proceedings in US immigration court · [DOI](https://doi.org/10.1093/sf/soaf124)
 - Review of “The High School: Sports, Spirit, and Citizens, 1903–2024” · [DOI](https://doi.org/10.1093/sf/soaf179)
+- Respectable racists: fragmented reputations and divided political audiences · [DOI](https://doi.org/10.1093/sf/soaf201)
 
 ## 2024
 
@@ -405,6 +409,7 @@
 - Who Identifies as Latinx? The Generational Politics of Ethnoracial Labels · [DOI](https://doi.org/10.1093/sf/soab011)
 - Yes, You Can! Effects of Transparent Admission Standards on High School Track Choice: A Randomized Field Experiment · [DOI](https://doi.org/10.1093/sf/soab111)
 - 100 Years ofSocial Forces · [DOI](https://doi.org/10.1093/sf/soac050)
+- 100 Years of Social Forces as seen through Bibliometric Publication Patterns · [DOI](https://doi.org/10.1093/sf/soac046)
 
 ## 2021
 
@@ -544,6 +549,7 @@
 - Worker Power and Class Polarization in Intra-Year Work Hour Volatility · [DOI](https://doi.org/10.1093/sf/soz032)
 - Fearing the Black Body: The Racial Origins of Fat Phobia · [DOI](https://doi.org/10.1093/sf/soz161)
 - The Overworked Consumer: Self-Checkouts, Supermarkets, and the Do-it-Yourself Economy · [DOI](https://doi.org/10.1093/sf/soz168)
+- Trans Kids: Being Gendered in the Twenty-First Century · [DOI](https://doi.org/10.1093/sf/soz175)
 
 ## 2019
 
@@ -2057,6 +2063,7 @@
 - Religious Involvement and the Health of the Elderly: Some Hypotheses and an Initial Test · [DOI](https://doi.org/10.2307/2578909)
 - Economic Inequality and Discrimination in Sentencing · [DOI](https://doi.org/10.2307/2578526)
 - When Rewards are Scarce: Equal or Equitable Distributions? · [DOI](https://doi.org/10.2307/2578907)
+- Marital Timing: Race and Sex Comparisons · [DOI](https://doi.org/10.2307/2578910)
 
 ## 1986
 
@@ -2114,6 +2121,7 @@
 - A Structural Model of the Mobility Table · [DOI](https://doi.org/10.2307/2577226)
 - A Durkheimian Analysis of International Crime Rates · [DOI](https://doi.org/10.2307/2577688)
 - When Can Age, Period, and Cohort be Separated? · [DOI](https://doi.org/10.2307/2577639)
+- Occupational Hierarchy in the United States: 1789-1969 · [DOI](https://doi.org/10.2307/2577224)
 
 ## 1977
 
@@ -2123,6 +2131,7 @@
 - The Structure of Adult Friendship Choices · [DOI](https://doi.org/10.2307/2577741)
 - Charge Reduction: An Intermediary Stage in the Process of Labelling Criminal Defendants · [DOI](https://doi.org/10.2307/2577731)
 - Sanction Fear and the Maintenance of Social Order · [DOI](https://doi.org/10.2307/2577457)
+- Conventional Religion and Political Participation in Postwar Rural Japan · [DOI](https://doi.org/10.2307/2577459)
 
 ## 1976
 
@@ -2215,6 +2224,7 @@
 ## 1957
 
 - Some Unapplauded Consequences of Social Mobility in a Mass Society · [DOI](https://doi.org/10.2307/2573743)
+- Group Decision-Making and Disagreement · [DOI](https://doi.org/10.2307/2573319)
 
 ## 1956
 
@@ -2223,6 +2233,7 @@
 ## 1955
 
 - The Military Academy as an Assimilating Institution · [DOI](https://doi.org/10.2307/2573000)
+- Event Analysis as an Approach to Community Study · [DOI](https://doi.org/10.2307/2574261)
 
 ## 1953
 
@@ -2259,6 +2270,10 @@
 ## 1945
 
 - War Anxieties of Soldiers and Their Wives · [DOI](https://doi.org/10.2307/2572537)
+
+## 1944
+
+- Familism the Foundation of Chinese Social Organization · [DOI](https://doi.org/10.2307/2572382)
 
 ## 1942
 

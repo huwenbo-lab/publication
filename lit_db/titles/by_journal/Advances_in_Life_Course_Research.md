@@ -1,6 +1,6 @@
 # Advances in Life Course Research — 文章标题索引
 
-共 **638** 篇 | 年份范围：2000–2026
+共 **639** 篇 | 年份范围：2000–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -24,6 +24,7 @@
 - Work-family trajectories and later-life health in China · [DOI](https://doi.org/10.1016/j.alcr.2026.100740)
 - Young adult life courses in the Global South: A comparative framework and research agenda · [DOI](https://doi.org/10.1016/j.alcr.2025.100723)
 - Young women’s living arrangements in Mexico: Diversity, stability, and social stratification · [DOI](https://doi.org/10.1016/j.alcr.2026.100743)
+- Parental Mental Health and Union Dissolution: The Role of Conflict during Separation · [DOI](https://doi.org/10.1016/j.alcr.2026.100752)
 
 ## 2025
 

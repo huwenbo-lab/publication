@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **126** 篇
+共 **127** 篇
 
 ---
 
@@ -29,6 +29,11 @@
 **年份**: 2026 | **DOI**: [10.1146/annurev-soc-011824-104836](https://doi.org/10.1146/annurev-soc-011824-104836)
 **作者**: Abramson, Corey M.; Prendergast, Tara; Li, Zhuofan 等4人
 **摘要**: Computational developments—particularly artificial intelligence—are reshaping social scientific research and raising new questions for in-depth methods such as ethnography and qualitative interviewing.…
+
+### Gender and the Far-Right
+**年份**: 2026 | **DOI**: [10.1146/annurev-soc-020224-050345](https://doi.org/10.1146/annurev-soc-020224-050345)
+**作者**: Blee, Kathleen M.; Scrinzi, Francesca
+**摘要**: The role of gender in far-right parties and movements received little attention until the twentieth century, when feminist and masculinity studies began to draw attention to women's participation in these politics and the gendered nature of men's far-right activism.…
 
 ### Advancing the Scientific Study of Structural Racism: Concepts, Measures, and Methods
 **年份**: 2025 | **DOI**: [10.1146/annurev-soc-090924-021305](https://doi.org/10.1146/annurev-soc-090924-021305)

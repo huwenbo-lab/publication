@@ -1,6 +1,6 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **643** 篇 | 年份范围：1975–2026
+共 **646** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -12,6 +12,7 @@
 - Luck and Predictability in the Life Course · [DOI](https://doi.org/10.1146/annurev-soc-031324-115112)
 - The Architecture of Global Capital: Elites, States, and the New Geography of Wealth · [DOI](https://doi.org/10.1146/annurev-soc-031524-105759)
 - Qualitative Research in an Era of Artificial Intelligence: A Pragmatic Approach to Data Analysis, Workflow, and Computation · [DOI](https://doi.org/10.1146/annurev-soc-011824-104836)
+- Gender and the Far-Right · [DOI](https://doi.org/10.1146/annurev-soc-020224-050345)
 
 ## 2025
 
@@ -721,6 +722,7 @@
 - New Directions in Environmental Sociology · [DOI](https://doi.org/10.1146/annurev.so.13.080187.002341)
 - Making Sense of Diversity: Recent Research on Hispanic Minorities in the United States · [DOI](https://doi.org/10.1146/annurev.so.13.080187.002043)
 - On the Degradation of Skills · [DOI](https://doi.org/10.1146/annurev.so.13.080187.000333)
+- The Effect of Women's Labor Force Participation on the Distribution of Income in the United States · [DOI](https://doi.org/10.1146/annurev.so.13.080187.001355)
 
 ## 1986
 
@@ -803,3 +805,4 @@
 - Age Differentiation and the Life Course · [DOI](https://doi.org/10.1146/annurev.so.01.080175.001121)
 - Community Power · [DOI](https://doi.org/10.1146/annurev.so.01.080175.001415)
 - Organizational Structure · [DOI](https://doi.org/10.1146/annurev.so.01.080175.000245)
+- Sociology of Science · [DOI](https://doi.org/10.1146/annurev.so.01.080175.001223)

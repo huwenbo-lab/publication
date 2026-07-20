@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1431** 篇 | 年份范围：1986–2026
+共 **1434** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -16,6 +16,7 @@
 - Changing choices? Primary and secondary effects through times of educational contraction · [DOI](https://doi.org/10.1093/esr/jcag019)
 - The long-term effects of childhood residential mobility on social capital · [DOI](https://doi.org/10.1093/esr/jcag001)
 - Why do young US Americans avoid cross-partisan dating? A closer look at mediators and variation by gender and party · [DOI](https://doi.org/10.1093/esr/jcag020)
+- Positive effects of his and her income on first births: couple-level evidence from longitudinal tax data in Italy · [DOI](https://doi.org/10.1093/esr/jcag021)
 
 ## 2025
 
@@ -1549,6 +1550,7 @@
 - Individuals and parties—changes in processes of political mobilization · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036449)
 - The illusion of distributive justice · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036427)
 - The collective perception of occupational inequalities in contemporary Italy: multidimensional evaluations and onedimensional scales · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036440)
+- Class origin, cultural origin, and educational attainment: the case of Sweden · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036451)
 
 ## 1986
 
@@ -1558,3 +1560,7 @@
 - Career opportunities in the Federal Republic of Germany: a dynamic approach to the study of life-course, cohort, and period effects · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036419)
 - Sources of immigrants' language proficiency: Australian results with comparisons to the Federal Republic of Germany and the United States of America · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036420)
 - Small-firm development and political subcultures in Italy · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036416)
+
+## 1985
+
+- Housing tenure and family formation in contemporary Britain · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036390)

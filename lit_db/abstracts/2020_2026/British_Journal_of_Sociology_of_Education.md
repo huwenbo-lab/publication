@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2020–2026 年文章（含摘要）
 
-共 **503** 篇
+共 **504** 篇
 
 ---
 
@@ -243,6 +243,11 @@
 ### Making sense of school relations: Children’s voices
 **年份**: 2026 | **DOI**: [10.1080/01425692.2026.2663690](https://doi.org/10.1080/01425692.2026.2663690)
 **作者**: Mayo, Peter
+**摘要**: （暂无）
+
+### Just tools and stochastic parrots? Exploring metaphors of AI in education in European policy documents
+**年份**: 2026 | **DOI**: [10.1080/01425692.2026.2685039](https://doi.org/10.1080/01425692.2026.2685039)
+**作者**: Rau, Franco; Bellinger, Franziska
 **摘要**: （暂无）
 
 ### 'Dancing with bonds': embodied transitions of rural students into higher education

@@ -1,7 +1,7 @@
 # Social Forces
 ## 2020–2026 年文章（含摘要）
 
-共 **519** 篇
+共 **525** 篇
 
 ---
 
@@ -104,6 +104,21 @@
 **年份**: 2026 | **DOI**: [10.1093/sf/soaf218](https://doi.org/10.1093/sf/soaf218)
 **作者**: Cha, Youngjoo; Hipp, Lena; Cho, Soocheol
 **摘要**: Abstract Before the pandemic, remote workers were often perceived as less committed than their in-office counterparts. Have these perceptions persisted in the postpandemic era of global remote work expansion? Does working remotely affect how people are viewed as parents and not just as workers?…
+
+### Review of “On the Frontlines of Crisis: Intensive Care and the Challenge of COVID-19.”
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf236](https://doi.org/10.1093/sf/soaf236)
+**作者**: Hagen, Ryan
+**摘要**: （暂无）
+
+### Review of “Original Sin?: The Reproduction of Racism in a Multiracial Church”
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf234](https://doi.org/10.1093/sf/soaf234)
+**作者**: Gilliland, Claire
+**摘要**: （暂无）
+
+### Review of “Insurgent Communities: How Protests Create a Filipino Diaspora”
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf239](https://doi.org/10.1093/sf/soaf239)
+**作者**: Garrido, Marco Z
+**摘要**: （暂无）
 
 ### A processual framework for understanding the rise of the populist right: the case of Brazil (2013-2018)
 **年份**: 2025 | **DOI**: [10.1093/sf/soae189](https://doi.org/10.1093/sf/soae189)
@@ -769,6 +784,11 @@
 **年份**: 2025 | **DOI**: [10.1093/sf/soaf179](https://doi.org/10.1093/sf/soaf179)
 **作者**: Oyewole, Kemi A
 **摘要**: （暂无）
+
+### Respectable racists: fragmented reputations and divided political audiences
+**年份**: 2025 | **DOI**: [10.1093/sf/soaf201](https://doi.org/10.1093/sf/soaf201)
+**作者**: Fine, Gary Alan; Whitlinger, Claire
+**摘要**: Abstract When successful, careerist politicians perform to persuade multiple audiences that they embrace shared values and policies, creating identities appealing to each: fragmented performances create valued fragmented reputations.…
 
 ### A Social Movement Model for Judicial Behavior: Evidence from Brazil's Anti-Corruption Movements
 **年份**: 2024 | **DOI**: [10.1093/sf/soae065](https://doi.org/10.1093/sf/soae065)
@@ -1935,6 +1955,11 @@
 **作者**: Kalleberg, Arne L; Newell, Abigail
 **摘要**: （暂无）
 
+### 100 Years of Social Forces as seen through Bibliometric Publication Patterns
+**年份**: 2022 | **DOI**: [10.1093/sf/soac046](https://doi.org/10.1093/sf/soac046)
+**作者**: Moody, James; Edelmann, Achim; Light, Ryan
+**摘要**: Abstract The 100th anniversary of Social Forces provides a rich opportunity to reflect on the history of the journal and changes to sociology as a whole. Using a series of formal text-analytic methods, we describe the shifting intellectual landscape of Social Forces publications.…
+
 ### A House but Not a Home: How Surveillance in Subsidized Housing Exacerbates Poverty and Reinforces Marginalization
 **年份**: 2021 | **DOI**: [10.1093/sf/soaa108](https://doi.org/10.1093/sf/soaa108)
 **作者**: Hughes, Cayce C.
@@ -2598,4 +2623,9 @@
 ### The Overworked Consumer: Self-Checkouts, Supermarkets, and the Do-it-Yourself Economy
 **年份**: 2020 | **DOI**: [10.1093/sf/soz168](https://doi.org/10.1093/sf/soz168)
 **作者**: Andrews, Christopher K
+**摘要**: （暂无）
+
+### Trans Kids: Being Gendered in the Twenty-First Century
+**年份**: 2020 | **DOI**: [10.1093/sf/soz175](https://doi.org/10.1093/sf/soz175)
+**作者**: Meadow, Tey
 **摘要**: （暂无）

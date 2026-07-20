@@ -1,6 +1,6 @@
 # American Sociological Review — 文章标题索引
 
-共 **1280** 篇 | 年份范围：1936–2026
+共 **1290** 篇 | 年份范围：1936–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -10,6 +10,7 @@
 - Pedagogy of Fear: Folklore and the Far-Right in Weimar Germany · [DOI](https://doi.org/10.1177/00031224251409746)
 - The Influence “Paradox”: When More Network Ties Lead to Less Change · [DOI](https://doi.org/10.1177/00031224261438845)
 - Unstable Work in a Fissured Economy: Tracking Employment in Subcontractor Establishments in France · [DOI](https://doi.org/10.1177/00031224261448194)
+- The Gendered Intergenerational Transmission of Managerial Status · [DOI](https://doi.org/10.1177/00031224261457151)
 
 ## 2025
 
@@ -1172,6 +1173,7 @@
 - Income Inequality and Democratization Revisited: Comment on Muller · [DOI](https://doi.org/10.2307/2096436)
 - Prejudice as a Response to Perceived Group Threat: Population Composition and Anti-Immigrant and Racial Prejudice in Europe · [DOI](https://doi.org/10.2307/2096296)
 - When Bigger Is Not Better: Family Size, Parental Resources, and Children's Educational Performance · [DOI](https://doi.org/10.2307/2096320)
+- Interdependence and Reintegrative Social Control: Labeling and Reforming "Inappropriate" Parents in Neonatal Intensive Care Units · [DOI](https://doi.org/10.2307/2096315)
 
 ## 1994
 
@@ -1181,6 +1183,7 @@
 - The Gender Gap in Math: Its Possible Origins in Neighborhood Effects · [DOI](https://doi.org/10.2307/2096370)
 - Why Social Movement Sympathizers Don't Participate: Erosion and Nonconversion of Support · [DOI](https://doi.org/10.2307/2096444)
 - Race Differences in Sexual Activity Among Adolescent Women: The Role of Neighborhood Characteristics · [DOI](https://doi.org/10.2307/2095941)
+- Industrialization and Racial Inequality in Employment: The Brazilian Example · [DOI](https://doi.org/10.2307/2096132)
 
 ## 1993
 
@@ -1207,6 +1210,7 @@
 - Primary, Secondary, and Enclave Labor Markets: A Training Systems Approach · [DOI](https://doi.org/10.2307/2096266)
 - The Structure of Gossip: Opportunities and Constraints on Collective Expression among Adolescents · [DOI](https://doi.org/10.2307/2096270)
 - Social Inequalities in Reforming State Socialism: Between Redistribution and Markets in China · [DOI](https://doi.org/10.2307/2096103)
+- It Happened Here: Political Opportunity, the New Institutionalism, and the Townsend Movement · [DOI](https://doi.org/10.2307/2095783)
 
 ## 1990
 
@@ -1355,6 +1359,7 @@
 - A Theory of Middleman Minorities · [DOI](https://doi.org/10.2307/2094409)
 - Disturbance in the Self-Image at Adolescence · [DOI](https://doi.org/10.2307/2094407)
 - Two Sources of Error in Ecological Correlations · [DOI](https://doi.org/10.2307/2094137)
+- Presidential Address: Some Problems in Role Analysis · [DOI](https://doi.org/10.2307/2094129)
 
 ## 1972
 
@@ -1392,6 +1397,7 @@
 - Social Factors in the Origins of a New Science: The Case of Psychology · [DOI](https://doi.org/10.2307/2090769)
 - Industrialization and the American Family: A Look Backward · [DOI](https://doi.org/10.2307/2090821)
 - The Sociology of Law and Normative Phenomena · [DOI](https://doi.org/10.2307/2090820)
+- Rancorous Conflict in Community Politics · [DOI](https://doi.org/10.2307/2091280)
 
 ## 1965
 
@@ -1460,6 +1466,7 @@
 - Changes in Status and Age Identification · [DOI](https://doi.org/10.2307/2088522)
 - Tape Recorded Interviews in Social Research · [DOI](https://doi.org/10.2307/2089294)
 - A Theory of Coalitions in the Triad · [DOI](https://doi.org/10.2307/2088718)
+- Urban Neighborhood Types and Participation in Formal Associations · [DOI](https://doi.org/10.2307/2089336)
 
 ## 1955
 
@@ -1472,6 +1479,7 @@
 
 - An Experiment on Conformity to Group Norms Where Conformity is Detrimental to Group Achievement · [DOI](https://doi.org/10.2307/2087913)
 - The Cash Posters: A Study of a Group of Working Girls · [DOI](https://doi.org/10.2307/2087919)
+- Heroes, Villains and Fools, as Agents of Social Control · [DOI](https://doi.org/10.2307/2088173)
 
 ## 1953
 
@@ -1534,11 +1542,16 @@
 ## 1941
 
 - The Community as a Social Group · [DOI](https://doi.org/10.2307/2085549)
+- A Social Science Field Laboratory · [DOI](https://doi.org/10.2307/2086341)
 
 ## 1940
 
 - Intervening Opportunities: A Theory Relating Mobility and Distance · [DOI](https://doi.org/10.2307/2084520)
 - The Sociology of Parent-Youth Conflict · [DOI](https://doi.org/10.2307/2084427)
+
+## 1938
+
+- The Role of Ideas in Social Action · [DOI](https://doi.org/10.2307/2084684)
 
 ## 1936
 

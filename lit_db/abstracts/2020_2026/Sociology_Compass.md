@@ -1,7 +1,7 @@
 # Sociology Compass
 ## 2020–2026 年文章（含摘要）
 
-共 **656** 篇
+共 **658** 篇
 
 ---
 
@@ -304,6 +304,16 @@
 **年份**: 2026 | **DOI**: [10.1111/soc4.70221](https://doi.org/10.1111/soc4.70221)
 **作者**: Sidhu, Tandeep; Duguay, McKenzie; Graham, Amy 等4人
 **摘要**: ABSTRACT Wolf killing is a social problem that animates the link between settler colonialism, masculinity, and animal harms. While the existing literature primarily understands wolf killing through the logic of elimination, based on the historical extirpation of wolves, we contend that its contempor…
+
+### Algorithmic Governance and Postcoloniality
+**年份**: 2026 | **DOI**: [10.1111/soc4.70228](https://doi.org/10.1111/soc4.70228)
+**作者**: Varghese, Ashwin
+**摘要**: ABSTRACT The concept of algorithmic governance is increasingly being used to make sense of rapid technological transformations of governance practices globally. This paper outlines three key dynamics that underpin the dominant literature on algorithmic governance, that is social ordering through dig…
+
+### Intersectionality and Intimate Partner Violence: How Research on LGBTQIA+ Couples Has Changed What We Know About IPV
+**年份**: 2026 | **DOI**: [10.1111/soc4.70229](https://doi.org/10.1111/soc4.70229)
+**作者**: Gerstenberger, Caryn Bell
+**摘要**: ABSTRACT Intimate Partner Violence (IPV) has been enveloped in controversy for the last 50 years. Updated research and a focus on intersectionality as an important lens in these analyses has revealed that scholars need to rethink much of what has been held as canon; definition, measurement, and conc…
 
 ### A Diachronic Comparative Study of Climate Change Discourse in China Daily and the New York Times: Analyzing the Evolution of Discursive Strategies
 **年份**: 2025 | **DOI**: [10.1111/soc4.70140](https://doi.org/10.1111/soc4.70140)

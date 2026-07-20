@@ -1,6 +1,6 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **869** 篇 | 年份范围：2001–2026
+共 **870** 篇 | 年份范围：2001–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -248,6 +248,7 @@
 - Using the decomposition of the mutual information index as an alternative approach to the study of educational inequality trends in Spain · [DOI](https://doi.org/10.1016/j.rssm.2023.100827)
 - When lines of class division run through families: Comparing mother's and father's influence on social destiny · [DOI](https://doi.org/10.1016/j.rssm.2023.100815)
 - Why do trends in social fluidity at labour market entry and occupational maturity differ? Evidence from Germany and the UK · [DOI](https://doi.org/10.1016/j.rssm.2022.100746)
+- The legacy of Robert D. Mare · [DOI](https://doi.org/10.1016/j.rssm.2023.100810)
 
 ## 2022
 

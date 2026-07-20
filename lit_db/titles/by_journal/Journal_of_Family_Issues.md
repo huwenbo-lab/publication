@@ -1,6 +1,6 @@
 # Journal of Family Issues — 文章标题索引
 
-共 **2371** 篇 | 年份范围：1980–2026
+共 **2372** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -41,6 +41,7 @@
 - Who Decides What to Use? Contraceptive Decisions of Muslim Women in Bangladesh · [DOI](https://doi.org/10.1177/0192513x261465798)
 - Islamic Perspectives on Widowhood Rights, Respect, and Representation: An Ethnographic Study of Women’s Experiences · [DOI](https://doi.org/10.1177/0192513x261460829)
 - Time Price of Fertility: The Association Between Fertility Intention and Working Hours in China · [DOI](https://doi.org/10.1177/0192513x261465804)
+- Exploring the Promise of a Paid Family Leave Policy: The Maternal Experience in New Zealand · [DOI](https://doi.org/10.1177/0192513x261465805)
 
 ## 2025
 

@@ -1,6 +1,6 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2555** 篇 | 年份范围：1965–2026
+共 **2556** 篇 | 年份范围：1965–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2717,6 +2717,7 @@
 
 - Satisfaction with Various Aspects of Marriage over the Life Cycle: A Random Middle Class Sample · [DOI](https://doi.org/10.2307/349968)
 - Marital Happiness and Stability: A Review of the Research in the Sixties · [DOI](https://doi.org/10.2307/350251)
+- Explorations into the Kin-Networks of the Punjabi Society: A Preliminary Statement · [DOI](https://doi.org/10.2307/350264)
 
 ## 1969
 

@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1865** 篇 | 年份范围：1999–2026
+共 **1868** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -27,6 +27,9 @@
 - Collecting data on HIV/AIDS mortality during household surveys: A randomized validation study in Malawi · [DOI](https://doi.org/10.4054/demres.2026.54.41)
 - Fertility timing and the birth squeeze · [DOI](https://doi.org/10.4054/demres.2026.54.40)
 - The effect of financial strain and parental depression on child behavioral difficulties during the Great Recession in Ireland: A fixed effects analysis · [DOI](https://doi.org/10.4054/demres.2026.55.3)
+- How do family transitions shape residential mobility among Quebec residents? Evidence on lagged, synchronous, and anticipatory effects by immigration status · [DOI](https://doi.org/10.4054/demres.2026.55.4)
+- Changing roles of marriage and family status for labor migration? The case of rural China · [DOI](https://doi.org/10.4054/demres.2026.55.5)
+- Educational competition and reduced family size in China · [DOI](https://doi.org/10.4054/demres.2026.55.2)
 
 ## 2025
 

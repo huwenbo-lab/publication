@@ -1,7 +1,7 @@
 # Demography
 ## 2020–2026 年文章（含摘要）
 
-共 **551** 篇
+共 **552** 篇
 
 ---
 
@@ -99,6 +99,11 @@
 **年份**: 2026 | **DOI**: [10.1215/00703370-12675345](https://doi.org/10.1215/00703370-12675345)
 **作者**: Brauner-Otto, Sarah; Stone, Lyman
 **摘要**: Highlights This is the first longitudinal study in an LMIC setting of employment changes following childbirth. A large (40%), short-term decrease in maternal employment (i.e., penalty) was observed after childbirth.…
+
+### Research Note on the Role of Infertility and Medically Assisted Reproduction on the Realization of Ideal Family Size in Japan
+**年份**: 2026 | **DOI**: [10.1215/00703370-12714998](https://doi.org/10.1215/00703370-12714998)
+**作者**: Lazzari, Ester; Yoda, Shohei; Fukuda, Setsuya 等4人
+**摘要**: Highlights More than one third of married Japanese women report concerns about infertility, and infertility is increasingly cited as a reason for not reaching fertility ideals. Births conceived using medically assisted reproductive treatments have contributed to reducing the ideal–actual fertility g…
 
 ### A Deportation Boomerang? Evidence From US Removals to Latin America and the Carib bean
 **年份**: 2025 | **DOI**: [10.1215/00703370-11863789](https://doi.org/10.1215/00703370-11863789)

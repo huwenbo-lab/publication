@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1643** 篇 | 年份范围：1980–2026
+共 **1646** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -55,6 +55,7 @@
 - The role of parents’ educational background in upper secondary students’ utilization of career guidance resources · [DOI](https://doi.org/10.1080/01425692.2026.2619914)
 - The paradox of the ‘good teacher’: navigating power relations and subjectivity in China’s recorded courses · [DOI](https://doi.org/10.1080/01425692.2026.2618474)
 - Making sense of school relations: Children’s voices · [DOI](https://doi.org/10.1080/01425692.2026.2663690)
+- Just tools and stochastic parrots? Exploring metaphors of AI in education in European policy documents · [DOI](https://doi.org/10.1080/01425692.2026.2685039)
 
 ## 2025
 
@@ -1751,6 +1752,7 @@
 
 - Race, Categorisation and Educational Achievement · [DOI](https://doi.org/10.1080/0142569890100205)
 - Healthism and Physical Education · [DOI](https://doi.org/10.1080/0142569890100403)
+- Visual Displays as Tacit Relays of the Structure of Pedagogic Practice · [DOI](https://doi.org/10.1080/0142569890100201)
 
 ## 1988
 
@@ -1764,6 +1766,10 @@
 ## 1986
 
 - Policies on Inequality in the Third World: dependency or autonomy? · [DOI](https://doi.org/10.1080/0142569860070206)
+
+## 1984
+
+- On Reproduction, Habitus and Education · [DOI](https://doi.org/10.1080/0142569840050202)
 
 ## 1983
 

@@ -1,6 +1,6 @@
 # Socius — 文章标题索引
 
-共 **1036** 篇 | 年份范围：2016–2026
+共 **1037** 篇 | 年份范围：2016–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -47,6 +47,7 @@
 - Visualizing the Adoption of Large Language Models across Sociology Subfields · [DOI](https://doi.org/10.1177/23780231261460657)
 - Studying the West and Ignoring the Rest: Do Stylized Facts Established in the Christian West Generalize? · [DOI](https://doi.org/10.1177/23780231261451682)
 - Visualizing the Prevalence of Couples’ Work-Family Arrangements across Countries · [DOI](https://doi.org/10.1177/23780231261464303)
+- The Regional Coloring of Imagination: How Social Categories Shape Marital Partner Selection · [DOI](https://doi.org/10.1177/23780231261463822)
 
 ## 2025
 

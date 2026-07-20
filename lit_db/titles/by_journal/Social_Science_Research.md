@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2250** 篇 | 年份范围：1972–2026
+共 **2252** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -47,6 +47,8 @@
 - Workers, jobs, and how they are matched: A decomposition of US labor market trends in educational mismatch · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103311)
 - Corrigendum to “Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024” [Soc. Sci. Res. 136C (2026) 103347] · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103373)
 - Intersecting inequalities in retirement trajectories under a privatized pension system: Gender, labor force status, and occupational prestige · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103264)
+- Group threat and power-differential theories as differential predictors of religion-motivated hate crimes and the construction of local hate crime statistics · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103404)
+- Impact of subsidized childcare on maternal employment: A comparative study on native and migrant women in Germany · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103402)
 
 ## 2025
 

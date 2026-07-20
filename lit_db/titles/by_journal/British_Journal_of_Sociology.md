@@ -1,6 +1,6 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1775** 篇 | 年份范围：1950–2026
+共 **1781** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1732,6 +1732,7 @@
 - 'Moral Panic' and Moral Language in the Media · [DOI](https://doi.org/10.2307/591600)
 - Charting Subcultures at a Frontier of Knowledge · [DOI](https://doi.org/10.2307/591911)
 - Globalization, Migration and the Nation-State: The Path to a Post-National Europe? · [DOI](https://doi.org/10.2307/591748)
+- Mann's Theory of Power - A (Sympathetic) Critique · [DOI](https://doi.org/10.2307/591749)
 
 ## 1996
 
@@ -1754,6 +1755,7 @@
 - The Social Meanings behind Male Sex Work: Implications for Sexual Interactions · [DOI](https://doi.org/10.2307/591574)
 - East Germany: Rising Incomes, Unchanged Inequality and the Impact of Redistributive Government 1990-92 · [DOI](https://doi.org/10.2307/591787)
 - Towards a Sociological Model of the Police Informant · [DOI](https://doi.org/10.2307/591854)
+- Genocide, Civilization and Modernity · [DOI](https://doi.org/10.2307/591786)
 
 ## 1994
 
@@ -1890,6 +1892,7 @@
 - Modes and Types of Political Alienation · [DOI](https://doi.org/10.2307/590156)
 - The Manufacture of News: Deviants, Social Problems and the Mass Media · [DOI](https://doi.org/10.2307/589323)
 - Can There Be a Sociology of Literature? · [DOI](https://doi.org/10.2307/589401)
+- Positivism and Sociology · [DOI](https://doi.org/10.2307/590162)
 
 ## 1972
 
@@ -1928,6 +1931,7 @@
 - Integration versus Segregation in the New Zealand Churches · [DOI](https://doi.org/10.2307/588355)
 - White-Collar Unionization: A Conceptual Framework · [DOI](https://doi.org/10.2307/588353)
 - The Suicide Problem in French Sociology · [DOI](https://doi.org/10.2307/588563)
+- Social Structure &amp; Personality · [DOI](https://doi.org/10.2307/588366)
 
 ## 1964
 
@@ -1950,6 +1954,11 @@
 - 'Working-Class Authoritarianism': A Critique of Lipset · [DOI](https://doi.org/10.2307/587819)
 - Religion and Ritual: The Definitional Problem · [DOI](https://doi.org/10.2307/586928)
 - Kebbi and Hausa Stratification · [DOI](https://doi.org/10.2307/588016)
+
+## 1960
+
+- British Town Planning: One Ideology or Three? · [DOI](https://doi.org/10.2307/586747)
+- Methodological Individualism · [DOI](https://doi.org/10.2307/586749)
 
 ## 1959
 

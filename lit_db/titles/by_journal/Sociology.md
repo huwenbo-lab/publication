@@ -1,6 +1,6 @@
 # Sociology — 文章标题索引
 
-共 **1943** 篇 | 年份范围：1968–2026
+共 **1947** 篇 | 年份范围：1968–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2049,6 +2049,7 @@
 - Contemporary Europe: Social Structures and Cultural Patterns · [DOI](https://doi.org/10.1177/003803857901300230)
 - Tragic Realism and Modern Society: Studies in the Sociology of the Novel · [DOI](https://doi.org/10.1177/003803857901300237)
 - Problems with Surveys: Method or Epistemology? · [DOI](https://doi.org/10.1177/003803857901300210)
+- In Pursuit of Pure Mobility · [DOI](https://doi.org/10.1177/003803857901300308)
 
 ## 1978
 
@@ -2071,6 +2072,7 @@
 - Moral Indignation and the Media: An Analysis of the NVALA · [DOI](https://doi.org/10.1177/003803857601000204)
 - The Disappearance of the Sick-Man from Medical Cosmology, 1770-1870 · [DOI](https://doi.org/10.1177/003803857601000202)
 - A Critique of Steven Lukes' `Power: A Radical View' · [DOI](https://doi.org/10.1177/003803857601000109)
+- Sociology of Leisure · [DOI](https://doi.org/10.1177/003803857601000126)
 
 ## 1975
 
@@ -2087,10 +2089,12 @@
 - Hopes and Fears of Israelis · [DOI](https://doi.org/10.1177/003803857400800119)
 - Advances in Social Research: A Reader · [DOI](https://doi.org/10.1177/003803857400800326)
 - The Culture-Free Context of Organization Structure: A Tri-National Comparison · [DOI](https://doi.org/10.1177/003803857400800104)
+- Chance and Skill: A Study of Roulette · [DOI](https://doi.org/10.1177/003803857400800304)
 
 ## 1973
 
 - The Sociology of Planning · [DOI](https://doi.org/10.1177/003803857300700217)
+- Interview Talk: Bringing off a Research Instrument · [DOI](https://doi.org/10.1177/003803857300700103)
 
 ## 1972
 

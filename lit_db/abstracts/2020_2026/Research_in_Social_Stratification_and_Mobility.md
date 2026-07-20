@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2020–2026 年文章（含摘要）
 
-共 **385** 篇
+共 **386** 篇
 
 ---
 
@@ -1164,6 +1164,11 @@
 **年份**: 2023 | **DOI**: [10.1016/j.rssm.2022.100746](https://doi.org/10.1016/j.rssm.2022.100746)
 **作者**: Trinh, Nhat An
 **摘要**: This study examines how intragenerational class mobility can lead to differing over-time trends in intergenera-tional class mobility depending on when class destination is measured in individuals' careers.…
+
+### The legacy of Robert D. Mare
+**年份**: 2023 | **DOI**: [10.1016/j.rssm.2023.100810](https://doi.org/10.1016/j.rssm.2023.100810)
+**作者**: Brand, Jennie E.; Xie, Yu
+**摘要**: （暂无）
 
 ### A tale of two genders: Demystifying girls? concurrence of higher educational achievement and higher depression levels
 **年份**: 2022 | **DOI**: [10.1016/j.rssm.2022.100725](https://doi.org/10.1016/j.rssm.2022.100725)

@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **290** 篇
+共 **291** 篇
 
 ---
 
@@ -69,6 +69,11 @@
 **年份**: 2026 | **DOI**: [10.1111/padr.70058](https://doi.org/10.1111/padr.70058)
 **作者**: O'Donnell, James; Raymer, James
 **摘要**: Abstract The concept of super‐diversity posits that waves of immigration over several decades expand population heterogeneity on multiple social, demographic, economic, political, and legal dimensions, creating a mosaic of social and cultural life in immigrant‐rich spaces.…
+
+### If Not Now, When? Thinking about Childbearing in Ukrainian Cities during Russia's Full‐Scale Invasion
+**年份**: 2026 | **DOI**: [10.1111/padr.70076](https://doi.org/10.1111/padr.70076)
+**作者**: Popovych, Anna; Perelli‐Harris, Brienna; Gerber, Theodore P.
+**摘要**: Abstract Prior literature on fertility during war examines high‐fertility settings using quantitative data on births collected mainly after fighting ends. In contrast, we analyze cognitive processes related to childbearing during wartime in Ukraine, where a full‐scale war erupted in the context of l…
 
 ### A Concentration of Reproduction to Later Ages? A Worldwide Assessment of Trends in Fertility Timing
 **年份**: 2025 | **DOI**: [10.1111/padr.70036](https://doi.org/10.1111/padr.70036)

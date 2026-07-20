@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **1931** 篇 | 年份范围：1964–2026
+共 **1935** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -26,6 +26,7 @@
 - Wildfires and Birth Outcomes: Evidence From Spain · [DOI](https://doi.org/10.1215/00703370-12665495)
 - Decomposing Differences in Cohort Health Expectancy by Cause and Age With Longitudinal Data · [DOI](https://doi.org/10.1215/00703370-12654071)
 - Effect of First Births on Women's Employment in a Low-Income Context: Research Note Using Panel Data From Nepal · [DOI](https://doi.org/10.1215/00703370-12675345)
+- Research Note on the Role of Infertility and Medically Assisted Reproduction on the Realization of Ideal Family Size in Japan · [DOI](https://doi.org/10.1215/00703370-12714998)
 
 ## 2025
 
@@ -1930,6 +1931,7 @@
 - Ethnic stratification in Northwest China: Occupational differences between Han Chinese and national minorities in Xinjiang, 1982–1990 · [DOI](https://doi.org/10.2307/3004040)
 - Intergenerational relations in urban China: Proximity, contact, and help to parents · [DOI](https://doi.org/10.2307/3004031)
 - Family size and children’s education in Vietnam · [DOI](https://doi.org/10.2307/3004027)
+- Revisiting occupational sex segregation in the United States, 1910–1990: Results from a log-linear approach · [DOI](https://doi.org/10.2307/3004015)
 
 ## 1997
 
@@ -1976,6 +1978,7 @@
 - Religion and fertility in the United States: New patterns · [DOI](https://doi.org/10.2307/2061727)
 - Stemming the tide? Assessing the deterrent effects of the immigration reform and control act · [DOI](https://doi.org/10.2307/2061724)
 - Forgone labor participation and earning due to childbearing among Norwegian women · [DOI](https://doi.org/10.2307/2061851)
+- Living and dying in the U.S.A.: Sociodemographic determinants of death among blacks and whites · [DOI](https://doi.org/10.2307/2061732)
 
 ## 1991
 
@@ -1997,6 +2000,7 @@
 - Relative deprivation and international migration oded stark · [DOI](https://doi.org/10.2307/2061490)
 - The Growth of Home Ownership: 1940–1980 · [DOI](https://doi.org/10.2307/2061523)
 - National Estimates of Cohabitation · [DOI](https://doi.org/10.2307/2061261)
+- Fertility, Employment, and Child-Care Costs · [DOI](https://doi.org/10.2307/2061526)
 
 ## 1988
 

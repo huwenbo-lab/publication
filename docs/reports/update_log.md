@@ -1,5 +1,56 @@
 # 更新日志
 
+## 2026-07-20 04:45（最近30天）
+
+- 新增文章总数：**93**
+- 数据库总文章数：**46,605**
+
+- 非文献筛查跳过：**36** 条
+
+| 期刊 | 新增 |
+|---|---|
+| Advances in Life Course Research | 1 |
+| American Journal of Sociology | 10 |
+| American Sociological Review | 10 |
+| Annual Review of Sociology | 3 |
+| British Journal of Sociology | 6 |
+| British Journal of Sociology of Education | 3 |
+| Chinese Journal of Sociology | 2 |
+| Demographic Research | 3 |
+| Demography | 4 |
+| European Journal of Population | 1 |
+| European Sociological Review | 3 |
+| Gender & Society | 3 |
+| Journal of Family Issues | 1 |
+| Journal of Family Theory & Review | 2 |
+| Journal of Marriage and Family | 1 |
+| Population and Development Review | 11 |
+| Research in Social Stratification and Mobility | 1 |
+| Social Forces | 12 |
+| Social Science Research | 2 |
+| Sociological Science | 5 |
+| Sociology | 4 |
+| Sociology Compass | 2 |
+| Sociology of Education | 1 |
+| Socius | 1 |
+| Work, Employment and Society | 1 |
+
+| 期刊 | 非文献筛查跳过 |
+|---|---|
+| American Sociological Review | 4 |
+| Annual Review of Sociology | 1 |
+| British Journal of Sociology | 3 |
+| European Journal of Population | 2 |
+| Gender & Society | 10 |
+| Population and Development Review | 3 |
+| Research in Social Stratification and Mobility | 2 |
+| Social Forces | 2 |
+| Social Indicators Research | 1 |
+| Sociology | 3 |
+| Sociology Compass | 2 |
+| Work and Occupations | 2 |
+| Work, Employment and Society | 1 |
+
 ## 2026-07-13 04:39（最近30天）
 
 - 新增文章总数：**103**

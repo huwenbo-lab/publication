@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **1149** 篇 | 年份范围：1976–2026
+共 **1160** 篇 | 年份范围：1976–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -20,6 +20,7 @@
 - Leveraging High‐Frequency Digital Data to Analyze Forced Displacement Dynamics: A Case Study from the Gaza Strip · [DOI](https://doi.org/10.1111/padr.70064)
 - The Covid‐19 Pandemic and the Social Mathematics of Life and Death · [DOI](https://doi.org/10.1111/padr.70072)
 - The Demographic and Social Construction of Super‐Diversity · [DOI](https://doi.org/10.1111/padr.70058)
+- If Not Now, When? Thinking about Childbearing in Ukrainian Cities during Russia's Full‐Scale Invasion · [DOI](https://doi.org/10.1111/padr.70076)
 
 ## 2025
 
@@ -1105,6 +1106,7 @@
 - Shifting Costs of Caring for the Elderly Back to Families in Japan: Will It Work? · [DOI](https://doi.org/10.2307/2137461)
 - Feminists and Neo-Malthusians: Past and Present Alliances · [DOI](https://doi.org/10.2307/2137570)
 - State Policies and the Birth Rate in Egypt: From Socialism to Liberalism · [DOI](https://doi.org/10.2307/2137463)
+- Modernization and Divorce: Contrasting Trends in Islamic Southeast Asia and the West · [DOI](https://doi.org/10.2307/2137462)
 
 ## 1996
 
@@ -1122,6 +1124,7 @@
 - Childrearing and Fertility · [DOI](https://doi.org/10.2307/2808014)
 - Characteristic Features of Modern American Fertility · [DOI](https://doi.org/10.2307/2808004)
 - East German Fertility After Unification: Crisis or Adaptation? · [DOI](https://doi.org/10.2307/2137438)
+- Fertility, Family, and Social Policy in Contemporary Western Europe · [DOI](https://doi.org/10.2307/2137807)
 
 ## 1995
 
@@ -1156,6 +1159,7 @@
 - The Resumption of Fertility Decline in Japan: 1973-92 · [DOI](https://doi.org/10.2307/2938411)
 - Competing Perspectives on the Latin American Informal Sector · [DOI](https://doi.org/10.2307/2938384)
 - The Divorce of Marriage and Childbearing: Changing Attitudes and Behavior in the United States · [DOI](https://doi.org/10.2307/2938442)
+- The Evolution of US International Population Policy, 1965-92: A Chronological Account · [DOI](https://doi.org/10.2307/2938439)
 
 ## 1992
 
@@ -1210,6 +1214,7 @@
 - Measures Comparing Living Arrangements of the Elderly: An Assessment · [DOI](https://doi.org/10.2307/1973629)
 - Abortion and Eugenics in Nazi Germany · [DOI](https://doi.org/10.2307/1972501)
 - US Population Redistribution: A Perspective on the Nonmetropolitan Turnaround · [DOI](https://doi.org/10.2307/1972197)
+- A Home Divided: Women and Income in the Third World. · [DOI](https://doi.org/10.2307/1973637)
 
 ## 1987
 
@@ -1223,6 +1228,7 @@
 - Population Redistribution in the Socialist Republic of Vietnam · [DOI](https://doi.org/10.2307/1972120)
 - Differences between Women's and Men's Reproductive Goals in Developing Countries · [DOI](https://doi.org/10.2307/1973025)
 - Below-Replacement Fertility in Nineteenth Century America · [DOI](https://doi.org/10.2307/1973195)
+- Limiting Population Growth and the Ford Foundation Contribution. · [DOI](https://doi.org/10.2307/1972130)
 
 ## 1986
 
@@ -1234,6 +1240,7 @@
 - Altruism and the Economic Theory of Fertility · [DOI](https://doi.org/10.2307/2807893)
 - Observations on the History of Cohort Fertility in the United States · [DOI](https://doi.org/10.2307/1973429)
 - The Indonesian Family Planning Program: Government Influence and Client Choice · [DOI](https://doi.org/10.2307/1973219)
+- On Migration Patterns in India during the 1970s · [DOI](https://doi.org/10.2307/1973434)
 
 ## 1985
 
@@ -1241,6 +1248,7 @@
 - The Old-Age Security Motive for Fertility · [DOI](https://doi.org/10.2307/1973379)
 - On International Migration and International Relations · [DOI](https://doi.org/10.2307/1973247)
 - An Alternative to the One-Child Policy in China · [DOI](https://doi.org/10.2307/1973456)
+- An East Javanese Village in 1953 and 1985: Observations on Development · [DOI](https://doi.org/10.2307/1973460)
 
 ## 1984
 
@@ -1250,6 +1258,7 @@
 - Population Growth, Industrial Revolutions, and the Urban Transition · [DOI](https://doi.org/10.2307/1973513)
 - The Proximate Determinants of Fertility in Sub-Saharan Africa · [DOI](https://doi.org/10.2307/1973518)
 - Fertility in Prerevolutionary Rural China: In Defense of a Reassessment · [DOI](https://doi.org/10.2307/1973515)
+- Reasons and Persons. · [DOI](https://doi.org/10.2307/1973520)
 
 ## 1983
 
@@ -1257,6 +1266,7 @@
 - Fertility Decline in the West: Causes and Prospects · [DOI](https://doi.org/10.2307/1972897)
 - A Century of Demographic and Cultural Change in Western Europe: An Exploration of Underlying Dimensions · [DOI](https://doi.org/10.2307/1973316)
 - Infant Mortality Trends in the Soviet Union · [DOI](https://doi.org/10.2307/1973050)
+- How Humans Adapt: A Biocultural Odyssey. · [DOI](https://doi.org/10.2307/1973561)
 
 ## 1982
 
@@ -1282,6 +1292,7 @@
 - W. F. Lloyd on the Checks to Population · [DOI](https://doi.org/10.2307/1972412)
 - On the Social Control of Human Reproduction · [DOI](https://doi.org/10.2307/1972925)
 - Sex Differentials in Mortality in Rural Bangladesh · [DOI](https://doi.org/10.2307/1972730)
+- Population Policy in India: Recent Developments and Current Prospects · [DOI](https://doi.org/10.2307/1972732)
 
 ## 1979
 

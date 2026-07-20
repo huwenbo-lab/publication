@@ -1,7 +1,7 @@
 # Chinese Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **152** 篇
+共 **154** 篇
 
 ---
 
@@ -74,6 +74,16 @@
 **年份**: 2026 | **DOI**: [10.1177/2057150x261463053](https://doi.org/10.1177/2057150x261463053)
 **作者**: Wen, Fangqi
 **摘要**: This study investigates how work transitions during China's post-1978 market-oriented economic restructuring reshaped gender relations and reinforced patriarchal beliefs—particularly by strengthening patrilineal inheritance and son preference.…
+
+### Constructing parenthood online: A large language model approach to topic analysis of short video comments
+**年份**: 2026 | **DOI**: [10.1177/2057150x261457270](https://doi.org/10.1177/2057150x261457270)
+**作者**: Li, Yunqi; Zhou, Muzhi; He, Yang
+**摘要**: Although evidence from many high-income countries indicates a growing intensive parenting norm, our understanding of the discourses of contemporary parenthood in China remains limited.…
+
+### Gender dynamics within and beyond families in China: Marriage, parenthood and economic affairs
+**年份**: 2026 | **DOI**: [10.1177/2057150x261468815](https://doi.org/10.1177/2057150x261468815)
+**作者**: Song, Jing; Chen, Feinian; Qian, Yue
+**摘要**: （暂无）
 
 ### A new interpretation of Lenin's What Is to Be Done? A comparative study from a historical-sociological perspective
 **年份**: 2025 | **DOI**: [10.1177/2057150X251357545](https://doi.org/10.1177/2057150X251357545)

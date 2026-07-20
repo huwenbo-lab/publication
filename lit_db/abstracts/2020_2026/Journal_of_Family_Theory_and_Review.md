@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **314** 篇
+共 **316** 篇
 
 ---
 
@@ -194,6 +194,16 @@
 **年份**: 2026 | **DOI**: [10.1111/jftr.70079](https://doi.org/10.1111/jftr.70079)
 **作者**: Shen, Liangqi; Hu, Rita Xiaochen
 **摘要**: ABSTRACT Although a substantial body of research has acknowledged parent caregivers' lifelong contributions to developmental disability caregiving, most empirical studies have focused on immediate caregiving outcomes or single caregiving episodes, leaving the lifelong impacts of caregiving largely u…
+
+### Intersectional Identities of Men and Their Influence on Children's Gender Socialization in Family Settings: A Systematic Review
+**年份**: 2026 | **DOI**: [10.1111/jftr.70081](https://doi.org/10.1111/jftr.70081)
+**作者**: Wondimu, Habtamu; Martin, Sonia; McLaren, Helen
+**摘要**: ABSTRACT Gender socialization is a lifelong process that guides children in shaping their identities, opportunities, and perspectives during early years. Within the family environment, men hold a pivotal position, influenced by tradition, economic factors, and family structure, which significantly i…
+
+### Toward a Psychological Framework of B lack Matrescence: Centering Mother–Daughter Bonds
+**年份**: 2026 | **DOI**: [10.1111/jftr.70083](https://doi.org/10.1111/jftr.70083)
+**作者**: Baker, Brianna A.; Snow, Olivia R.
+**摘要**: ABSTRACT Matrescence, the developmental transition to motherhood, has gained recognition as a critical life stage, yet existing frameworks remain largely universalist and insufficiently account for the racialized, intergenerational realities of Black women.…
 
 ### A Bioecological Framework for Supporting Mothers From Pregnancy to Workforce Reintegration
 **年份**: 2025 | **DOI**: [10.1111/jftr.70039](https://doi.org/10.1111/jftr.70039)

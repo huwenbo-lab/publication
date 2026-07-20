@@ -1,7 +1,7 @@
 # Advances in Life Course Research
 ## 2020–2026 年文章（含摘要）
 
-共 **240** 篇
+共 **241** 篇
 
 ---
 
@@ -89,6 +89,11 @@
 **年份**: 2026 | **DOI**: [10.1016/j.alcr.2026.100743](https://doi.org/10.1016/j.alcr.2026.100743)
 **作者**: Trias-Prats, Rita; Floridi, Ginevra; Esteve, Albert
 **摘要**: This study examines diversity in the living arrangement trajectories of young Mexican women, focusing on social stratification and its change across cohorts. While previous research has documented isolated events in the transition to adulthood (e.g., union formation, childbearing), less is known abo…
+
+### Parental Mental Health and Union Dissolution: The Role of Conflict during Separation
+**年份**: 2026 | **DOI**: [10.1016/j.alcr.2026.100752](https://doi.org/10.1016/j.alcr.2026.100752)
+**作者**: Kreyenfeld, Michaela; Molina, Stefania; O’Sullivan, Julie Lorraine
+**摘要**: （暂无）
 
 ### Changes in women’s family trajectories in Mexico and Colombia
 **年份**: 2025 | **DOI**: [10.1016/j.alcr.2025.100686](https://doi.org/10.1016/j.alcr.2025.100686)

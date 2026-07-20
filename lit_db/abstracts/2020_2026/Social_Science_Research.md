@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2020–2026 年文章（含摘要）
 
-共 **551** 篇
+共 **553** 篇
 
 ---
 
@@ -203,6 +203,16 @@
 ### Intersecting inequalities in retirement trajectories under a privatized pension system: Gender, labor force status, and occupational prestige
 **年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2025.103264](https://doi.org/10.1016/j.ssresearch.2025.103264)
 **作者**: Rosemblatt-Meta, Martin; Cabib, Ignacio
+**摘要**: （暂无）
+
+### Group threat and power-differential theories as differential predictors of religion-motivated hate crimes and the construction of local hate crime statistics
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103404](https://doi.org/10.1016/j.ssresearch.2026.103404)
+**作者**: Lantz, Brendan; Piatkowska, Sylwia J.; Hoover, Ashton
+**摘要**: （暂无）
+
+### Impact of subsidized childcare on maternal employment: A comparative study on native and migrant women in Germany
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103402](https://doi.org/10.1016/j.ssresearch.2026.103402)
+**作者**: Yurdakul, Aslıhan; Kılıç, İbrahim Engin
 **摘要**: （暂无）
 
 ### A real effort vs. standard public goods experiment: Asking for effort does make a difference

@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2020–2026 年文章（含摘要）
 
-共 **526** 篇
+共 **529** 篇
 
 ---
 
@@ -103,6 +103,21 @@
 ### The effect of financial strain and parental depression on child behavioral difficulties during the Great Recession in Ireland: A fixed effects analysis
 **年份**: 2026 | **DOI**: [10.4054/demres.2026.55.3](https://doi.org/10.4054/demres.2026.55.3)
 **作者**: Gibbons, Ryan Alberto; Layte, Richard
+**摘要**: （暂无）
+
+### How do family transitions shape residential mobility among Quebec residents? Evidence on lagged, synchronous, and anticipatory effects by immigration status
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.55.4](https://doi.org/10.4054/demres.2026.55.4)
+**作者**: Tchango Ngalé, Georges Alain; Lardoux, Solène; Adjiwanou, Vissého
+**摘要**: （暂无）
+
+### Changing roles of marriage and family status for labor migration? The case of rural China
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.55.5](https://doi.org/10.4054/demres.2026.55.5)
+**作者**: Lai, Weiwen; Song, Jing
+**摘要**: （暂无）
+
+### Educational competition and reduced family size in China
+**年份**: 2026 | **DOI**: [10.4054/demres.2026.55.2](https://doi.org/10.4054/demres.2026.55.2)
+**作者**: Lu, Wei; Fan, Yunxia; Wei, Yi
 **摘要**: （暂无）
 
 ### A comprehensive database of estimates and forecasts of Spanish sex-age death rates by climate area, income level, and habitat size (2010-2050)

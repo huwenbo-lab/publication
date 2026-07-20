@@ -1,7 +1,7 @@
 # Sociological Science
 ## 2020–2026 年文章（含摘要）
 
-共 **212** 篇
+共 **217** 篇
 
 ---
 
@@ -163,6 +163,31 @@
 ### A Roadmap for Inequality Research: Transparency, Intersectionality, and Multiple Measures of Race
 **年份**: 2026 | **DOI**: [10.15195/v13.a32](https://doi.org/10.15195/v13.a32)
 **作者**: Williams-Baron, Emma; Saperstein, Aliya
+**摘要**: （暂无）
+
+### Decoupling Inequality and Stratification in the American Wealth Distribution, 1989–2022
+**年份**: 2026 | **DOI**: [10.15195/v13.a37](https://doi.org/10.15195/v13.a37)
+**作者**: Burchard, Jake; Keister, Lisa
+**摘要**: （暂无）
+
+### Quantities of Interest for Interactions and the Pitfalls of Assuming Linear Treatment Effects
+**年份**: 2026 | **DOI**: [10.15195/v13.a36](https://doi.org/10.15195/v13.a36)
+**作者**: Serrano-Serrat, Josep
+**摘要**: （暂无）
+
+### Categorical Engagement and the Contingent Nature of Typicality Effects
+**年份**: 2026 | **DOI**: [10.15195/v13.a34](https://doi.org/10.15195/v13.a34)
+**作者**: Tyulyupo, Alex; Kovács, Balázs
+**摘要**: （暂无）
+
+### Bending the Heckman Curve: Competing Declines in Learning Capacity and Skill Relevance Over the Life Course
+**年份**: 2026 | **DOI**: [10.15195/v13.a35](https://doi.org/10.15195/v13.a35)
+**作者**: Souto-Maior, João; Stevens, Mitchell
+**摘要**: （暂无）
+
+### Information Diets Are More Diverse in Attention Than in Engagement
+**年份**: 2026 | **DOI**: [10.15195/v13.a33](https://doi.org/10.15195/v13.a33)
+**作者**: Barrie, Christopher; Atalay, Aybuke; ElKattan, Alia
 **摘要**: （暂无）
 
 ### An Unreliable Ladder: Top–Bottom Self-Placement, Subjective Social Status, and Political Preferences

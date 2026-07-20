@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2020–2026 年文章（含摘要）
 
-共 **761** 篇
+共 **762** 篇
 
 ---
 
@@ -174,6 +174,11 @@
 **年份**: 2026 | **DOI**: [10.1177/0192513x261465804](https://doi.org/10.1177/0192513x261465804)
 **作者**: Yan, Shuhan; Jiang, Yao; Guo, Xiuqi 等4人
 **摘要**: Fertility intention is a critical forward-looking decision that profoundly shapes individuals’ time allocation. This study utilized panel data from the China Family Panel Studies 2020 and 2022 to examine the relationship between fertility intention and working hours in China and the moderating roles…
+
+### Exploring the Promise of a Paid Family Leave Policy: The Maternal Experience in New Zealand
+**年份**: 2026 | **DOI**: [10.1177/0192513x261465805](https://doi.org/10.1177/0192513x261465805)
+**作者**: Ciccone, Jessica L.
+**摘要**: In 2002, New Zealand became one of the last Organisation for Economic Co-operation (OECD) countries to pass a paid parental leave policy. As of 2025, the United States is the only remaining OECD nation to not offer a federal paid parental leave program.…
 
 ### 'It's Like a Weight Lifted off Your Shoulders': A Qualitative Study of Adult Carers Taking a Break
 **年份**: 2025 | **DOI**: [10.1177/0192513X251393155](https://doi.org/10.1177/0192513X251393155)

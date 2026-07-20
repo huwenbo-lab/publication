@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **747** 篇
+共 **748** 篇
 
 ---
 
@@ -204,6 +204,11 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231261464303](https://doi.org/10.1177/23780231261464303)
 **作者**: Portier, Camille; McErlean, Kimberly; Pessin, Léa
 **摘要**: Cross-national differences in individual patterns of paid and unpaid work are well documented, yet how couples jointly allocate time across both remains comparatively understudied. Where couple-level work-family arrangements have been studied, research has relied on qualitative or single-country des…
+
+### The Regional Coloring of Imagination: How Social Categories Shape Marital Partner Selection
+**年份**: 2026 | **DOI**: [10.1177/23780231261463822](https://doi.org/10.1177/23780231261463822)
+**作者**: Feng, Acton Jiashi
+**摘要**: Despite its omnipresence in daily interaction, the role of regional background in the development of social relations remains marginal in sociological research. This article examines how regional background shapes marital partner selection in urban China through a mental imagery model that draws on …
 
 ### A Convergence of Crises: Sudden Employment Loss and Black Lives Matter Protest Attendance during the COVID-19 Pandemic
 **年份**: 2025 | **DOI**: [10.1177/23780231251328799](https://doi.org/10.1177/23780231251328799)
