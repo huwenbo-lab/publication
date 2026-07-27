@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **201** 篇
+共 **202** 篇
 
 ---
 
@@ -73,6 +73,11 @@
 ### A Good Reputation: How Residents Fight for an American Barrio
 **年份**: 2026 | **DOI**: [10.1086/741090](https://doi.org/10.1086/741090)
 **作者**: Garboden, Philip ME
+**摘要**: （暂无）
+
+### Not in My Gayborhood: Gay Neighborhoods and the Rise of the Vicarious Citizen
+**年份**: 2026 | **DOI**: [10.1086/741599](https://doi.org/10.1086/741599)
+**作者**: Miller, Shae
 **摘要**: （暂无）
 
 ### Adjudication Under Cover: Compliance and Inequality in the Criminal Courts

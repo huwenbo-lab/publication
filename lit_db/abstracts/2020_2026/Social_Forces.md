@@ -1,7 +1,7 @@
 # Social Forces
 ## 2020–2026 年文章（含摘要）
 
-共 **525** 篇
+共 **529** 篇
 
 ---
 
@@ -118,6 +118,21 @@
 ### Review of “Insurgent Communities: How Protests Create a Filipino Diaspora”
 **年份**: 2026 | **DOI**: [10.1093/sf/soaf239](https://doi.org/10.1093/sf/soaf239)
 **作者**: Garrido, Marco Z
+**摘要**: （暂无）
+
+### Review of "Insecurity Politics: How Unstable Lives Lead to Populist Support"
+**年份**: 2026 | **DOI**: [10.1093/sf/soag095](https://doi.org/10.1093/sf/soag095)
+**作者**: Kim, Veda Hyunjin
+**摘要**: （暂无）
+
+### Review of "Governing the Excluded: Rural Livelihoods Beyond Coca in Colombia's Peace Laboratory"
+**年份**: 2026 | **DOI**: [10.1093/sf/soag090](https://doi.org/10.1093/sf/soag090)
+**作者**: Acosta, Laura
+**摘要**: （暂无）
+
+### Review of “Kindergarten Panic: Parental Anxiety and School Choice Inequality”
+**年份**: 2026 | **DOI**: [10.1093/sf/soaf242](https://doi.org/10.1093/sf/soaf242)
+**作者**: Hailey, Chantal A
 **摘要**: （暂无）
 
 ### A processual framework for understanding the rise of the populist right: the case of Brazil (2013-2018)
@@ -2628,4 +2643,9 @@
 ### Trans Kids: Being Gendered in the Twenty-First Century
 **年份**: 2020 | **DOI**: [10.1093/sf/soz175](https://doi.org/10.1093/sf/soz175)
 **作者**: Meadow, Tey
+**摘要**: （暂无）
+
+### Review: Seeking Legitimacy: Why Arab Autocrats adopt Women’s Rights
+**年份**: 2020 | **DOI**: [10.1093/sf/soaa096](https://doi.org/10.1093/sf/soaa096)
+**作者**: Mari Tripp, Aili
 **摘要**: （暂无）

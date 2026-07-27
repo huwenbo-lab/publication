@@ -1,7 +1,7 @@
 # European Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **413** 篇
+共 **414** 篇
 
 ---
 
@@ -54,6 +54,11 @@
 **年份**: 2026 | **DOI**: [10.1093/esr/jcag021](https://doi.org/10.1093/esr/jcag021)
 **作者**: Gil-Hernández, Carlos J; Vignoli, Daniele; Guetto, Raffaele 等5人
 **摘要**: Abstract This study adopts a couple-level approach to assess whether higher-income women (men) experience lower (higher) fertility due to opportunity costs and conventional gender norms or whether income pooling within couples facilitates parenthood.…
+
+### School competition, academic achievement, and stratification in a predominantly non-public education system
+**年份**: 2026 | **DOI**: [10.1093/esr/jcag023](https://doi.org/10.1093/esr/jcag023)
+**作者**: Hossain, Mobarak
+**摘要**: Abstract The relationship between school competition and educational outcomes has been widely studied. Yet evidence from low- and middle-income countries (LMICs) remains scarce, including from contexts where private or non-public schools provide a substantial share of education.…
 
 ### A caution on sibling comparisons in studying effects of the rearing environment
 **年份**: 2025 | **DOI**: [10.1093/esr/jcae037](https://doi.org/10.1093/esr/jcae037)

@@ -1,6 +1,6 @@
 # British Journal of Sociology — 文章标题索引
 
-共 **1781** 篇 | 年份范围：1950–2026
+共 **1791** 篇 | 年份范围：1950–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -31,6 +31,10 @@
 - The Normative Turn: Back to Hobhouse? · [DOI](https://doi.org/10.1111/1468-4446.70143)
 - Opportunities and Alliances: The Relational Dynamics of Criminal Collusion in Latin America · [DOI](https://doi.org/10.1111/1468-4446.70145)
 - Family Rituals in the Hungry Ghost Festival: Spirituality and Multiplex Beliefs in China · [DOI](https://doi.org/10.1111/1468-4446.70146)
+- Only Fools Believe Their Theories Are Finished Products! Thirty Years of Updates to the ‘Racialized Social Systems’ Approach to Race Matters · [DOI](https://doi.org/10.1111/1468-4446.70152)
+- Engineering Apprenticeships: Youth Transitions, Industrial Capital and the Role of Working‐Class Households · [DOI](https://doi.org/10.1111/1468-4446.70155)
+- Comparative Framing From Below: How Young People in Three Cities Interpret Cyber Dating Abuse by Drawing Boundaries Between Love, Harm, and Justice · [DOI](https://doi.org/10.1111/1468-4446.70157)
+- The Silent Standpoint: How Professors Explain Gender Disparities in Academia · [DOI](https://doi.org/10.1111/1468-4446.70095)
 
 ## 2025
 
@@ -663,6 +667,8 @@
 - W. E. B. Du Bois at the center: from science, civil rights movement, to Black Lives Matter · [DOI](https://doi.org/10.1111/1468-4446.12241)
 - Why have relative rates of class mobility become more equal among women in Britain? · [DOI](https://doi.org/10.1111/1468-4446.12274)
 - Academic apartheid and the poverty of theory: the impact of scholarly segregation on the development of sociology in the United States · [DOI](https://doi.org/10.1111/1468-4446.12242_2)
+- “Let the ears of the guilty people tingle with truth”: W. E. B. Du Bois as an original sociologist · [DOI](https://doi.org/10.1111/1468-4446.12242_1)
+- The quest to overcome irrelevance in a troubled world: can Du Boisian analyses rescue sociology? · [DOI](https://doi.org/10.1111/1468-4446.12242_5)
 
 ## 2016
 
@@ -1733,6 +1739,7 @@
 - Charting Subcultures at a Frontier of Knowledge · [DOI](https://doi.org/10.2307/591911)
 - Globalization, Migration and the Nation-State: The Path to a Post-National Europe? · [DOI](https://doi.org/10.2307/591748)
 - Mann's Theory of Power - A (Sympathetic) Critique · [DOI](https://doi.org/10.2307/591749)
+- Football, Nationality and the State · [DOI](https://doi.org/10.2307/591147)
 
 ## 1996
 
@@ -1762,6 +1769,11 @@
 - Mannheim's Sociology of Generations: An Undervalued Legacy · [DOI](https://doi.org/10.2307/591659)
 - John Goldthorpe and the Relics of Sociology · [DOI](https://doi.org/10.2307/591522)
 - New Times for the Military: Some Sociological Remarks on the Changing Role and Structure of the Armed Forces of the Advanced Societies · [DOI](https://doi.org/10.2307/591887)
+
+## 1993
+
+- A Commitment to Campaign. A Sociological Study of CND · [DOI](https://doi.org/10.2307/591230)
+- Civil Society: An Inquiry into the Usefulness of an Historical Term · [DOI](https://doi.org/10.2307/591808)
 
 ## 1992
 
@@ -1808,6 +1820,7 @@
 
 - Appraising Goffman · [DOI](https://doi.org/10.2307/590645)
 - Spectator Violence at Football Matches: Towards a Sociological Explanation · [DOI](https://doi.org/10.2307/590355)
+- Mugging as a Moral Panic: A Question of Proportion · [DOI](https://doi.org/10.2307/590356)
 
 ## 1985
 

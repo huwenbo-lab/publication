@@ -1,6 +1,6 @@
 # Gender & Society — 文章标题索引
 
-共 **1080** 篇 | 年份范围：1987–2026
+共 **1082** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -24,6 +24,8 @@
 - “The Only Way to Survive is by Taking Care of One Another”: Grace Lee Boggs on the Feminist Revolution From Below · [DOI](https://doi.org/10.1177/08912432261431281)
 - The Maya Effect: Theorizing Beyond Matthew and Matilda Effects to an Intersectional Understanding of Collaboration · [DOI](https://doi.org/10.1177/08912432261449277)
 - Women as the First Open Scientists: Five Stories of the Neglected Contributions of Women in (Social) Science Reform History · [DOI](https://doi.org/10.1177/08912432261466293)
+- Sharing Knowledge Openly: Author Gender, Race/Ethnicity, and Feminist Science · [DOI](https://doi.org/10.1177/08912432261453086)
+- What Gets Lost in Translation? Epistemic Tensions between Translation and Diffusion in Practice-Oriented Scholarship · [DOI](https://doi.org/10.1177/08912432261464637)
 
 ## 2025
 

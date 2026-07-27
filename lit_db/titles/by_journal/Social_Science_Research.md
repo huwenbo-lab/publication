@@ -1,6 +1,6 @@
 # Social Science Research — 文章标题索引
 
-共 **2252** 篇 | 年份范围：1972–2026
+共 **2256** 篇 | 年份范围：1972–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -49,6 +49,8 @@
 - Intersecting inequalities in retirement trajectories under a privatized pension system: Gender, labor force status, and occupational prestige · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103264)
 - Group threat and power-differential theories as differential predictors of religion-motivated hate crimes and the construction of local hate crime statistics · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103404)
 - Impact of subsidized childcare on maternal employment: A comparative study on native and migrant women in Germany · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103402)
+- Separated in childhood: The long-term impacts of parental migration on educational attainment in China · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103405)
+- Social origin, the class ceiling in earnings, and job task segregation: Evidence from Germany · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103406)
 
 ## 2025
 
@@ -1070,6 +1072,7 @@
 - Using small data to interpret big data: 311 reports as individual contributions to informal social control in urban neighborhoods · [DOI](https://doi.org/10.1016/j.ssresearch.2016.04.009)
 - Why do Asian Americans academically outperform Whites? - The cultural explanation revisited · [DOI](https://doi.org/10.1016/j.ssresearch.2016.03.004)
 - Women's age at first marriage and postmarital agency in Egypt · [DOI](https://doi.org/10.1016/j.ssresearch.2016.01.005)
+- The relation between societal factors and different forms of prejudice: A cross-national approach on target-specific and generalized prejudice · [DOI](https://doi.org/10.1016/j.ssresearch.2015.09.009)
 
 ## 2015
 
@@ -2308,6 +2311,7 @@
 
 - How Do Americans Want to Die? A Factorial Vignette Survey of Public Attitudes about End-of-Life Medical Decision-Making · [DOI](https://doi.org/10.1006/ssre.1996.0587)
 - Instrumental Variables for Logistic Regression: An Illustration · [DOI](https://doi.org/10.1006/ssre.1997.0606)
+- On the Dimensionality of Two-Question Format Likert Attitude Scales · [DOI](https://doi.org/10.1006/ssre.1997.0594)
 
 ## 1996
 

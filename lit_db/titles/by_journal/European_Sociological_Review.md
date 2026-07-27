@@ -1,6 +1,6 @@
 # European Sociological Review — 文章标题索引
 
-共 **1434** 篇 | 年份范围：1985–2026
+共 **1436** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -17,6 +17,7 @@
 - The long-term effects of childhood residential mobility on social capital · [DOI](https://doi.org/10.1093/esr/jcag001)
 - Why do young US Americans avoid cross-partisan dating? A closer look at mediators and variation by gender and party · [DOI](https://doi.org/10.1093/esr/jcag020)
 - Positive effects of his and her income on first births: couple-level evidence from longitudinal tax data in Italy · [DOI](https://doi.org/10.1093/esr/jcag021)
+- School competition, academic achievement, and stratification in a predominantly non-public education system · [DOI](https://doi.org/10.1093/esr/jcag023)
 
 ## 2025
 
@@ -1538,6 +1539,7 @@
 
 - Educational systems and labor market outcomes · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036524)
 - Intergenerational relationships in families from Turkey and Germany · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036525)
+- Legitimacy and comparative economic success at the core of the world system: an exploratory study · [DOI](https://doi.org/10.1093/oxfordjournals.esr.a036523)
 
 ## 1988
 

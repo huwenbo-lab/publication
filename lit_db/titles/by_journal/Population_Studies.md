@@ -1,6 +1,6 @@
 # Population Studies — 文章标题索引
 
-共 **3718** 篇 | 年份范围：1947–2026
+共 **3722** 篇 | 年份范围：1947–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -19,6 +19,9 @@
 - Working longer despite poorer health? Inequalities in healthy and unhealthy working life expectancies in South Korea · [DOI](https://doi.org/10.1080/00324728.2026.2625712)
 - Perceptions of infertility: The roles of age, knowledge, and motivated reasoning · [DOI](https://doi.org/10.1080/00324728.2026.2687514)
 - Reconstructing birth histories using linked household data and the 1911 Census fertility survey · [DOI](https://doi.org/10.1080/00324728.2026.2681475)
+- The role of living kin in later-life survival: Evidence from Finnish historical data · [DOI](https://doi.org/10.1080/00324728.2026.2699960)
+- Pathways to childlessness in Spain: Exploring the intersection of partnership and employment trajectories · [DOI](https://doi.org/10.1080/00324728.2026.2682465)
+- The effect of political violence on fertility in mid-twentieth-century Estonia · [DOI](https://doi.org/10.1080/00324728.2026.2698945)
 
 ## 2025
 
@@ -1278,6 +1281,7 @@
 - Urbanization in History: A Process of Dynamic Interactions · [DOI](https://doi.org/10.1080/0032472031000146386)
 - Using Retrospective Surveys for Estimating the Effects of Breastfeeding and Childspacing on Infant and Child Mortality · [DOI](https://doi.org/10.1080/0032472031000146046)
 - Women's Health: From Womb to Tomb · [DOI](https://doi.org/10.1080/0032472031000146356)
+- Size of Farm or Size of Family: Which Comes First? · [DOI](https://doi.org/10.1080/0032472031000146476)
 
 ## 1991
 

@@ -1,6 +1,6 @@
 # Journal of Family Theory & Review — 文章标题索引
 
-共 **759** 篇 | 年份范围：2009–2026
+共 **761** 篇 | 年份范围：2009–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -47,6 +47,8 @@
 - Reframing Parental Caregiving for Individuals With Developmental Disabilities Through a Life Course Care Stress Model · [DOI](https://doi.org/10.1111/jftr.70079)
 - Intersectional Identities of Men and Their Influence on Children's Gender Socialization in Family Settings: A Systematic Review · [DOI](https://doi.org/10.1111/jftr.70081)
 - Toward a Psychological Framework of B lack Matrescence: Centering Mother–Daughter Bonds · [DOI](https://doi.org/10.1111/jftr.70083)
+- The Relationship Between Parental Racial Socialization Practices and Racial Identity Development Within Black–White Biracial Families: A Scoping Review of Research · [DOI](https://doi.org/10.1111/jftr.70075)
+- Rethinking Mahr: Gendered Bargaining, Legal Institutions, and Women's Economic Security in Iran's Welfare Regime · [DOI](https://doi.org/10.1111/jftr.70084)
 
 ## 2025
 

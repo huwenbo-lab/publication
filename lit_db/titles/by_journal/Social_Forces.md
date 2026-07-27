@@ -1,6 +1,6 @@
 # Social Forces — 文章标题索引
 
-共 **2054** 篇 | 年份范围：1926–2026
+共 **2060** 篇 | 年份范围：1926–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -30,6 +30,9 @@
 - Review of “On the Frontlines of Crisis: Intensive Care and the Challenge of COVID-19.” · [DOI](https://doi.org/10.1093/sf/soaf236)
 - Review of “Original Sin?: The Reproduction of Racism in a Multiracial Church” · [DOI](https://doi.org/10.1093/sf/soaf234)
 - Review of “Insurgent Communities: How Protests Create a Filipino Diaspora” · [DOI](https://doi.org/10.1093/sf/soaf239)
+- Review of "Insecurity Politics: How Unstable Lives Lead to Populist Support" · [DOI](https://doi.org/10.1093/sf/soag095)
+- Review of "Governing the Excluded: Rural Livelihoods Beyond Coca in Colombia's Peace Laboratory" · [DOI](https://doi.org/10.1093/sf/soag090)
+- Review of “Kindergarten Panic: Parental Anxiety and School Choice Inequality” · [DOI](https://doi.org/10.1093/sf/soaf242)
 
 ## 2025
 
@@ -550,6 +553,7 @@
 - Fearing the Black Body: The Racial Origins of Fat Phobia · [DOI](https://doi.org/10.1093/sf/soz161)
 - The Overworked Consumer: Self-Checkouts, Supermarkets, and the Do-it-Yourself Economy · [DOI](https://doi.org/10.1093/sf/soz168)
 - Trans Kids: Being Gendered in the Twenty-First Century · [DOI](https://doi.org/10.1093/sf/soz175)
+- Review: Seeking Legitimacy: Why Arab Autocrats adopt Women’s Rights · [DOI](https://doi.org/10.1093/sf/soaa096)
 
 ## 2019
 
@@ -2048,6 +2052,7 @@
 - Compensating Differentials and the Male-Female Wage Gap: Evidence from the New York State Comparable Worth Study · [DOI](https://doi.org/10.2307/2579667)
 - Perceived Cohesion: A Conceptual and Empirical Examination · [DOI](https://doi.org/10.2307/2579670)
 - Segregation and Neighborhood Quality: Blacks, Hispanics, and Asians in the San Francisco Metropolitan Area · [DOI](https://doi.org/10.2307/2579605)
+- When Art becomes News: Portrayals of Art and Artists on Network Television News · [DOI](https://doi.org/10.2307/2579358)
 
 ## 1989
 
@@ -2234,6 +2239,7 @@
 
 - The Military Academy as an Assimilating Institution · [DOI](https://doi.org/10.2307/2573000)
 - Event Analysis as an Approach to Community Study · [DOI](https://doi.org/10.2307/2574261)
+- The Ras Tafari Movement in Jamaica: A Study of Race and Class Conflict · [DOI](https://doi.org/10.2307/2572834)
 
 ## 1953
 

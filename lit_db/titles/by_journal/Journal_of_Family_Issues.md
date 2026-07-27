@@ -1,6 +1,6 @@
 # Journal of Family Issues — 文章标题索引
 
-共 **2372** 篇 | 年份范围：1980–2026
+共 **2373** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -688,6 +688,7 @@
 - Why the Son-bias in Caregiving? Testing Sex-differences in the Associations Between Paternal Caregiving and Child Outcomes in England · [DOI](https://doi.org/10.1177/0192513X20941902)
 - Does Family Decision-Making Power Improve Women’s Happiness? · [DOI](https://doi.org/10.1177/0192513x211030025)
 - Gender Role Ideology, Work–Family Conflict, Family–Work Conflict, and Marital Satisfaction Among Korean Dual-Earner Couples · [DOI](https://doi.org/10.1177/0192513x211026966)
+- Grandparent Affection and Emotional Well-being of Adolescents with Different Family Types · [DOI](https://doi.org/10.1177/0192513x21993183)
 
 ## 2020
 

@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2010–2019 年文章（含摘要）
 
-共 **906** 篇
+共 **907** 篇
 
 ---
 
@@ -2553,6 +2553,11 @@
 ### What is your couple type? Gender ideology, housework sharing, and babies
 **年份**: 2015 | **DOI**: [10.4054/demres.2015.32.30](https://doi.org/10.4054/demres.2015.32.30)
 **作者**: Aassve, Arnstein; Fuochi, Giulia; Mencarini, Letizia 等4人
+**摘要**: （暂无）
+
+### The force of mortality by life lived is the force of increment by life left in stationary populations
+**年份**: 2015 | **DOI**: [10.4054/demres.2015.32.29](https://doi.org/10.4054/demres.2015.32.29)
+**作者**: Riffe, Tim
 **摘要**: （暂无）
 
 ### A Bayesian analysis of the spatial concentration of individual wealth in the US North during the nineteenth century

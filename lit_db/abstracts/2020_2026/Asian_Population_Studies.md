@@ -1,7 +1,7 @@
 # Asian Population Studies
 ## 2020–2026 年文章（含摘要）
 
-共 **145** 篇
+共 **146** 篇
 
 ---
 
@@ -73,6 +73,11 @@
 ### Intergenerational power dynamics of women in extended households in India over two decades
 **年份**: 2026 | **DOI**: [10.1080/17441730.2026.2697775](https://doi.org/10.1080/17441730.2026.2697775)
 **作者**: Yu, Sojin; Chen, Feinian
+**摘要**: （暂无）
+
+### The vanishing two-child ideals in Hong Kong over 1997–2022
+**年份**: 2026 | **DOI**: [10.1080/17441730.2026.2701113](https://doi.org/10.1080/17441730.2026.2701113)
+**作者**: Chen, Mengni; Zhou, Muzhi; Yip, Paul
 **摘要**: （暂无）
 
 ### A gender gap in happiness: documenting a puzzle from Indian survey data

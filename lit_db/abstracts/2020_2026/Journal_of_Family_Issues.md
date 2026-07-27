@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2020–2026 年文章（含摘要）
 
-共 **762** 篇
+共 **763** 篇
 
 ---
 
@@ -3334,6 +3334,11 @@
 **年份**: 2021 | **DOI**: [10.1177/0192513x211026966](https://doi.org/10.1177/0192513x211026966)
 **作者**: Yoo, Jieun
 **摘要**: The purpose of this study was to examine the effect of the gender role ideology of Korean dual-earner couples on marital satisfaction through work-to-family conflict and family-to-work conflict.…
+
+### Grandparent Affection and Emotional Well-being of Adolescents with Different Family Types
+**年份**: 2021 | **DOI**: [10.1177/0192513x21993183](https://doi.org/10.1177/0192513x21993183)
+**作者**: Ramos, Pilar; Moreno, Carmen; Luna, Sara 等4人
+**摘要**: Despite the increasing importance of grandparents in raising their grandchildren, few studies analyze the impact that these intergenerational relationships have on the grandchildren, especially during adolescence.…
 
 ### (Re) Honoring the Legacy of Jessie Bernard: An Analysis of Junior Scholars' Outstanding Feminist Family Scholarship
 **年份**: 2020 | **DOI**: [10.1177/0192513X20913065](https://doi.org/10.1177/0192513X20913065)

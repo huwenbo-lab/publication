@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **1935** 篇 | 年份范围：1964–2026
+共 **1937** 篇 | 年份范围：1964–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1964,6 +1964,7 @@
 - Migration and the Latino Family: The Union Formation Behavior of Puerto Rican Women · [DOI](https://doi.org/10.2307/2061912)
 - Environmental Equity: The Demographics of Dumping · [DOI](https://doi.org/10.2307/2061884)
 - The Nature of Gender · [DOI](https://doi.org/10.2307/2061790)
+- Modeling Seasonality in Fecundability, Conceptions, and Births · [DOI](https://doi.org/10.2307/2061888)
 
 ## 1993
 
@@ -2115,6 +2116,10 @@
 ## 1966
 
 - Occupation trends and patterns of net mobility in the United States · [DOI](https://doi.org/10.2307/2060060)
+
+## 1965
+
+- Factorial ecology: Helsinki, 1960 · [DOI](https://doi.org/10.2307/2060125)
 
 ## 1964
 

@@ -1,7 +1,7 @@
 # European Journal of Population
 ## 2020–2026 年文章（含摘要）
 
-共 **211** 篇
+共 **212** 篇
 
 ---
 
@@ -74,6 +74,11 @@
 **年份**: 2026 | **DOI**: [10.1007/s10680-026-09776-8](https://doi.org/10.1007/s10680-026-09776-8)
 **作者**: Zalfou, Rami; Tegunimataka, Anna
 **摘要**: Abstract This study examines home-leaving patterns among Middle Eastern (ME) immigrants and youth with ME backgrounds in Sweden using population register data for individuals aged 17 to 35 between 1998 and 2022.…
+
+### Housing Costs, Tenure, and Fertility in the UK: How Rent and Mortgage Payments Relate to Childbirth
+**年份**: 2026 | **DOI**: [10.1007/s10680-026-09778-6](https://doi.org/10.1007/s10680-026-09778-6)
+**作者**: Buh, Brian
+**摘要**: （暂无）
 
 ### Agree to Disagree? Fertility Intentions Among Mixed Couples in Sweden
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09742-w](https://doi.org/10.1007/s10680-025-09742-w)

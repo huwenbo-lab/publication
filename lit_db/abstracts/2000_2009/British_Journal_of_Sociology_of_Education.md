@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2000–2009 年文章（含摘要）
 
-共 **462** 篇
+共 **463** 篇
 
 ---
 
@@ -2109,6 +2109,11 @@
 **年份**: 2001 | **DOI**: [10.1080/01425690120054894](https://doi.org/10.1080/01425690120054894)
 **作者**: Robertson, Susan
 **摘要**: I began reviewing The Unknown City: lives of poor and working class young adults by Michelle Fine and Lois Weis in the week that Britain declared its outrage at the brutal killing of a young, recently arrived, Nigerian boy-Damalola Taylor-as he walked home from school.…
+
+### Examinations in Physical Education: A sociological perspective on a 'new orthodoxy'
+**年份**: 2001 | **DOI**: [10.1080/01425690020030783](https://doi.org/10.1080/01425690020030783)
+**作者**: Green, Ken
+**摘要**: （暂无）
 
 ### ''The Curriculum of the Future: From 'new sociology of education' to a critical theory of learning'' (Michael F.D. Young)
 **年份**: 2000 | **DOI**: [10.1080/713655355](https://doi.org/10.1080/713655355)

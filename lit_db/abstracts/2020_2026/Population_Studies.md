@@ -1,7 +1,7 @@
 # Population Studies
 ## 2020–2026 年文章（含摘要）
 
-共 **219** 篇
+共 **222** 篇
 
 ---
 
@@ -63,6 +63,21 @@
 ### Reconstructing birth histories using linked household data and the 1911 Census fertility survey
 **年份**: 2026 | **DOI**: [10.1080/00324728.2026.2681475](https://doi.org/10.1080/00324728.2026.2681475)
 **作者**: Diduch, Emma
+**摘要**: （暂无）
+
+### The role of living kin in later-life survival: Evidence from Finnish historical data
+**年份**: 2026 | **DOI**: [10.1080/00324728.2026.2699960](https://doi.org/10.1080/00324728.2026.2699960)
+**作者**: Artamonova, Alyona; Salonen, Milla; Hiraoka, Takayuki 等7人
+**摘要**: （暂无）
+
+### Pathways to childlessness in Spain: Exploring the intersection of partnership and employment trajectories
+**年份**: 2026 | **DOI**: [10.1080/00324728.2026.2682465](https://doi.org/10.1080/00324728.2026.2682465)
+**作者**: Lozano, Mariona; Vidal, Sergi; Adserà, Alícia
+**摘要**: （暂无）
+
+### The effect of political violence on fertility in mid-twentieth-century Estonia
+**年份**: 2026 | **DOI**: [10.1080/00324728.2026.2698945](https://doi.org/10.1080/00324728.2026.2698945)
+**作者**: Gortfelder, Mark; Puur, Allan; Klesment, Martin 等4人
 **摘要**: （暂无）
 
 ### A new test of an old hypothesis: The link between women’s perceptions of mortality conditions and their perceptions of modern healthcare amid demographic transition

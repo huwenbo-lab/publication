@@ -1,7 +1,7 @@
 # Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **476** 篇
+共 **477** 篇
 
 ---
 
@@ -104,6 +104,11 @@
 **年份**: 2026 | **DOI**: [10.1177/00380385261446223](https://doi.org/10.1177/00380385261446223)
 **作者**: Cé Sangalli, Lucas
 **摘要**: How are migration and enslavement sociohistorically intertwined in shaping migration opportunities for people from Africa south of the Sahara? This article addresses this question through an analysis of 65 biographical-narrative interviews with migrants from Sudan, particularly Darfur, who travelled…
+
+### Regulating from below: Direct action, precarious labour, and worker-led regulation in Spain
+**年份**: 2026 | **DOI**: [10.1177/00380385261453298](https://doi.org/10.1177/00380385261453298)
+**作者**: López-Andreu, Martí
+**摘要**: This article examines how precarious workers in Spain engage in direct action to contest and reshape regulatory frameworks in contexts of limited institutional protection. Focusing on two grassroots organisations—Las Kellys and Riders x Derechos—it analyses how workers act as regulatory agents throu…
 
 ### A Discomforting Pedagogy of Poverty: Discourses, Representations and Vulnerabilities
 **年份**: 2025 | **DOI**: [10.1177/00380385251380772](https://doi.org/10.1177/00380385251380772)

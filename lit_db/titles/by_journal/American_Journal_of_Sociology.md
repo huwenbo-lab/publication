@@ -1,6 +1,6 @@
 # American Journal of Sociology — 文章标题索引
 
-共 **1147** 篇 | 年份范围：1896–2026
+共 **1154** 篇 | 年份范围：1896–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -21,6 +21,7 @@
 - Authoritarian Absorption: The Transnational Remaking of Epidemic Politics in China · [DOI](https://doi.org/10.1086/741092)
 - Global Mega-Science: Universities, Research Collaborations, and Knowledge Production · [DOI](https://doi.org/10.1086/741093)
 - A Good Reputation: How Residents Fight for an American Barrio · [DOI](https://doi.org/10.1086/741090)
+- Not in My Gayborhood: Gay Neighborhoods and the Rise of the Vicarious Citizen · [DOI](https://doi.org/10.1086/741599)
 
 ## 2025
 
@@ -943,6 +944,7 @@
 - Political Culture Wars 1960s Style: Equal Employment Opportunity–Affirmative Action Law and the Philadelphia Plan · [DOI](https://doi.org/10.1086/231252)
 - Whose Expectations Matter? The Relative Power of First‐ and Second‐Order Expectations in Determining Social Influence · [DOI](https://doi.org/10.1086/231253)
 - World-Economic Trends in the Distribution of Income, 1965-1992 · [DOI](https://doi.org/10.1086/231038)
+- Information Gaps and Unintended Outcomes of Social Movements: The 1989 Chinese Student Movement · [DOI](https://doi.org/10.1086/231040)
 
 ## 1996
 
@@ -976,6 +978,7 @@
 - Sons, Daughters, and Intergenerational Support in Taiwan · [DOI](https://doi.org/10.1086/230370)
 - Knowledge, Domination, and Criminal Punishment · [DOI](https://doi.org/10.1086/230367)
 - Rules, Resources, and Legitimacy Processes: Some Implications for Social Conflict, Order, and Change · [DOI](https://doi.org/10.1086/230366)
+- Time, Labor, and Social Domination: A Reinterpretation of Marx's Critical Theory.Moishe Postone · [DOI](https://doi.org/10.1086/230379)
 
 ## 1993
 
@@ -1128,6 +1131,7 @@
 - Emotion Work, Feeling Rules, and Social Structure · [DOI](https://doi.org/10.1086/227049)
 - Ethnic Inequality in Israeli Schools and Sports: An Expectation-States Approach · [DOI](https://doi.org/10.1086/227050)
 - Dynamic Analysis of Event Histories · [DOI](https://doi.org/10.1086/226863)
+- Darwinism and the Behavioral Theory of Sociocultural Evolution: An Analysis · [DOI](https://doi.org/10.1086/227011)
 
 ## 1978
 
@@ -1272,6 +1276,7 @@
 
 - The Power Elite-Reconsidered · [DOI](https://doi.org/10.1086/222467)
 - Socioeconomic Status and Delinquent Behavior · [DOI](https://doi.org/10.1086/222261)
+- The Urban-Rural Dichotomy: Concepts and Uses · [DOI](https://doi.org/10.1086/222422)
 
 ## 1957
 
@@ -1343,6 +1348,7 @@
 - Operational Definitions in the Social Sciences · [DOI](https://doi.org/10.1086/219004)
 - Urbanization and Fertility · [DOI](https://doi.org/10.1086/219078)
 - Group Behavior in the Village Community of Lebanon · [DOI](https://doi.org/10.1086/219124)
+- The Process of Urbanization and Criminal Behavior · [DOI](https://doi.org/10.1086/219122)
 
 ## 1941
 
@@ -1455,6 +1461,7 @@
 
 - Social and Biological Struggles · [DOI](https://doi.org/10.1086/211590)
 - The Establishment of Sociology · [DOI](https://doi.org/10.1086/211538)
+- Progress as a Sociological Concept · [DOI](https://doi.org/10.1086/211550)
 
 ## 1904
 

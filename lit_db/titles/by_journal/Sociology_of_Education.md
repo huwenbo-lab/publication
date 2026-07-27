@@ -1,6 +1,6 @@
 # Sociology of Education — 文章标题索引
 
-共 **664** 篇 | 年份范围：1963–2026
+共 **670** 篇 | 年份范围：1963–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -634,6 +634,7 @@
 - Residential Segregation and School Integration · [DOI](https://doi.org/10.2307/2112817)
 - Overeducation and Skill Mismatch · [DOI](https://doi.org/10.2307/2112749)
 - Maternal Employment and Adolescents' Academic Achievement: A Developmental Analysis · [DOI](https://doi.org/10.2307/2112750)
+- The Path to Math: Gender and Racial-Ethnic Differences in Mathematics Participation from Middle School to High School · [DOI](https://doi.org/10.2307/2112791)
 
 ## 1993
 
@@ -656,6 +657,7 @@
 - Educational "Choice": Its Appeal May be Illusory · [DOI](https://doi.org/10.2307/2112768)
 - Research, Teaching, and Publication Productivity: Mutuality Versus Competition in Academia · [DOI](https://doi.org/10.2307/2112772)
 - Middle Schools and Math Groups: Parents' Involvement in Children's Placement · [DOI](https://doi.org/10.2307/2112770)
+- The Organization of Students for Instruction in the Middle School · [DOI](https://doi.org/10.2307/2112678)
 
 ## 1991
 
@@ -757,6 +759,7 @@
 - Research Productivity in Academia: A Comparative Study of the Sciences, Social Sciences and Humanities · [DOI](https://doi.org/10.2307/2112566)
 - Sex-Typing and Change in the Occupational Choices of High School Seniors: 1964-1975 · [DOI](https://doi.org/10.2307/2112509)
 - Ability Grouping as a Self-Fulfilling Prophecy: A Micro-Analysis of Teacher-Student Interaction · [DOI](https://doi.org/10.2307/2112327)
+- Classroom Structure and the Organization of Ability · [DOI](https://doi.org/10.2307/2112356)
 
 ## 1980
 
@@ -790,6 +793,7 @@
 
 - The Institutionalization of Academic Innovations: Two Models · [DOI](https://doi.org/10.2307/2112519)
 - Education as a Dimension of Status Incongruence between Parents and the Self Perceptions of College Students · [DOI](https://doi.org/10.2307/2112233)
+- A Reanalysis of the Effect of Quantity of Schooling on Achievement · [DOI](https://doi.org/10.2307/2112235)
 
 ## 1975
 
@@ -822,6 +826,7 @@
 ## 1971
 
 - Using the Work of Others: Some Observations on Reviewing and Integrating · [DOI](https://doi.org/10.2307/2111964)
+- Inputs, Outputs, and the Prestige of University Science Departments · [DOI](https://doi.org/10.2307/2112029)
 
 ## 1970
 
@@ -852,6 +857,7 @@
 
 - Attitude Change and Education for International Understanding · [DOI](https://doi.org/10.2307/2112115)
 - Student Trade-Unionism in France, Belgium and Holland: Anticipatory Socialization and Role-Seeking · [DOI](https://doi.org/10.2307/2111954)
+- The Vernaculars, 1835-1839: A Third Medium for Indian Education · [DOI](https://doi.org/10.2307/2111957)
 
 ## 1963
 

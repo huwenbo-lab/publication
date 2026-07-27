@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **1160** 篇 | 年份范围：1976–2026
+共 **1167** 篇 | 年份范围：1976–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1072,6 +1072,7 @@
 - The spread of primary schooling in sub-Saharan Africa: Implications for fertility change · [DOI](https://doi.org/10.1111/j.1728-4457.2000.00483.x)
 - Uncertain aims and tacit negotiation: Birth control practices in Britain, 1925-50 · [DOI](https://doi.org/10.1111/j.1728-4457.2000.00295.x)
 - Unmet Need for Family Planning in Developing Countries and Implications for Population Policy · [DOI](https://doi.org/10.1111/j.1728-4457.2000.00691.x)
+- Reproduction, Compositional Demography, and Economic Growth: Family Planning in England Long Before the Fertility Decline · [DOI](https://doi.org/10.1111/j.1728-4457.2000.00045.x)
 
 ## 1999
 
@@ -1107,6 +1108,7 @@
 - Feminists and Neo-Malthusians: Past and Present Alliances · [DOI](https://doi.org/10.2307/2137570)
 - State Policies and the Birth Rate in Egypt: From Socialism to Liberalism · [DOI](https://doi.org/10.2307/2137463)
 - Modernization and Divorce: Contrasting Trends in Islamic Southeast Asia and the West · [DOI](https://doi.org/10.2307/2137462)
+- The Uses of Culture in Demographic Research: A Continuing Place for Community Studies · [DOI](https://doi.org/10.2307/2137383)
 
 ## 1996
 
@@ -1148,6 +1150,8 @@
 - Does the Threat of Border Apprehension Deter Undocumented US Immigration? · [DOI](https://doi.org/10.2307/2137667)
 - Maternal Employment and Changes in Family Dynamics: The Social Context of Women's Work in Rural South India · [DOI](https://doi.org/10.2307/2137632)
 - The Global Distribution of the Overseas Chinese Around 1990 · [DOI](https://doi.org/10.2307/2137606)
+- Does Young Maternal Age Adversely Affect Child Development? Evidence from Cousin Comparisons in the United States · [DOI](https://doi.org/10.2307/2137602)
+- Effects of Institutions and Policies on Rural Population Growth with Application to China · [DOI](https://doi.org/10.2307/2137599)
 
 ## 1993
 
@@ -1172,6 +1176,7 @@
 - The Development Dictionary: A Guide to Knowledge as Power. · [DOI](https://doi.org/10.2307/1971880)
 - Jacques Cousteau on the Demographic Implications of Man's Divorce from Nature · [DOI](https://doi.org/10.2307/1973776)
 - Patterns and Trends of International Migration in Western Europe · [DOI](https://doi.org/10.2307/1973654)
+- Senator Al Gore on Stabilizing World Population · [DOI](https://doi.org/10.2307/1973698)
 
 ## 1991
 
@@ -1191,6 +1196,7 @@
 - Comment: The Second Tragedy of the Commons · [DOI](https://doi.org/10.2307/2808079)
 - Son Preference and Fertility in Bangladesh · [DOI](https://doi.org/10.2307/1972966)
 - The World's Forests and Human Populations: The Environmental Interconnections · [DOI](https://doi.org/10.2307/2808073)
+- Darwinian Transitions?: A Comment · [DOI](https://doi.org/10.2307/1972531)
 
 ## 1989
 
@@ -1317,3 +1323,4 @@
 
 - Environment, Population, and Technology in Primitive Societies · [DOI](https://doi.org/10.2307/1971529)
 - Toward A Restatement of Demographic Transition Theory · [DOI](https://doi.org/10.2307/1971615)
+- Population Dynamics: Causes and Consequences of World Demographic Change. · [DOI](https://doi.org/10.2307/1971643)

@@ -1,6 +1,6 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **870** 篇 | 年份范围：2001–2026
+共 **873** 篇 | 年份范围：2001–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -36,6 +36,9 @@
 - The Intergenerational Transmission of Digital Advantage: How Vertical and Horizontal Dimensions of Social Origin Shape Children's Digital Skills · [DOI](https://doi.org/10.1016/j.rssm.2026.101170)
 - After dropout: Social stratification and the dynamics of educational re-entry in Spain · [DOI](https://doi.org/10.1016/j.rssm.2026.101128)
 - Heterogeneous effects of parental death on secondary school track choice · [DOI](https://doi.org/10.1016/j.rssm.2026.101180)
+- Middle-class economic power and the evolution of educational systems · [DOI](https://doi.org/10.1016/j.rssm.2025.101112)
+- Universal Access, Unequal Start: Early Childhood Development Disparities through Enrichment Markets in China · [DOI](https://doi.org/10.1016/j.rssm.2026.101181)
+- Intergenerational mobility across nine generations: Evidence from Poland, 1800–1984 · [DOI](https://doi.org/10.1016/j.rssm.2026.101182)
 
 ## 2025
 

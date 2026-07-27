@@ -1,6 +1,6 @@
 # Work, Employment and Society — 文章标题索引
 
-共 **1575** 篇 | 年份范围：1987–2026
+共 **1576** 篇 | 年份范围：1987–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1612,6 +1612,7 @@
 - Myths and Counter-Myths: An Analysis of Part-Time Female Employees and Their Orientations to Work and Working Hours · [DOI](https://doi.org/10.1177/09500179922117908)
 - The Myth of Empowerment: Work Organisation, Hierarchy and Employee Autonomy in Contemporary Australian Workplaces · [DOI](https://doi.org/10.1177/09500179922117782)
 - Life After Mining: Hidden Unemployment and Changing Patterns of Economic Activity amongst Miners in England and Wales, 1981-1991 · [DOI](https://doi.org/10.1177/09500179922118042)
+- THE TRANSITION FROM ORGANISATIONAL EMPLOYMENT TO PORTFOLIO WORKING: PERCEPTIONS OF ‘BOUNDARYLESSNESS’ · [DOI](https://doi.org/10.1017/s0950017099000215)
 
 ## 1998
 

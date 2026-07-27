@@ -1,6 +1,6 @@
 # Sociology Compass — 文章标题索引
 
-共 **1803** 篇 | 年份范围：2007–2026
+共 **1804** 篇 | 年份范围：2007–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -69,6 +69,7 @@
 - Ghosts on the ‘Frontier’: Interrogating the Possessive Logic of Wolf Killing · [DOI](https://doi.org/10.1111/soc4.70221)
 - Algorithmic Governance and Postcoloniality · [DOI](https://doi.org/10.1111/soc4.70228)
 - Intersectionality and Intimate Partner Violence: How Research on LGBTQIA+ Couples Has Changed What We Know About IPV · [DOI](https://doi.org/10.1111/soc4.70229)
+- The Societal Consequences of War: Social Science Perspectives and Findings From Ukraine · [DOI](https://doi.org/10.1111/soc4.70231)
 
 ## 2025
 

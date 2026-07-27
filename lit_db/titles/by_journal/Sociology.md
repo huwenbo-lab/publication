@@ -1,6 +1,6 @@
 # Sociology — 文章标题索引
 
-共 **1947** 篇 | 年份范围：1968–2026
+共 **1950** 篇 | 年份范围：1968–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -27,6 +27,7 @@
 - Walking Sociologically, Teaching on the Move: Thinking with London’s Streets · [DOI](https://doi.org/10.1177/00380385251408261)
 - Contested capital: Class and the sociology of work · [DOI](https://doi.org/10.1177/00380385261446192)
 - The nexus between enslavement and migration: Changing belongings in Darfur and North Africa · [DOI](https://doi.org/10.1177/00380385261446223)
+- Regulating from below: Direct action, precarious labour, and worker-led regulation in Spain · [DOI](https://doi.org/10.1177/00380385261453298)
 
 ## 2025
 
@@ -1905,6 +1906,8 @@
 - CONSUMPTION AND THE PROBLEM OF VARIETY: CULTURAL OMNIVOROUSNESS, SOCIAL DISTINCTION AND DINING OUT · [DOI](https://doi.org/10.1017/s0038038599000061)
 - Refracted Selves? A Study of Changes in Self-Identity in the Transition to Motherhood · [DOI](https://doi.org/10.1177/s0038038599000206)
 - CONSUMER CULTURE AND THE COMMODIFICATION OF POLICING AND SECURITY · [DOI](https://doi.org/10.1017/s003803859900022x)
+- Intimacy Transformed? A Critical Look at the `Pure Relationship' · [DOI](https://doi.org/10.1177/s0038038599000310)
+- Working Utopias and Social Movements: An Investigation Using Case Study Materials from Radical Mental Health Movements in Britain · [DOI](https://doi.org/10.1177/s0038038599000516)
 
 ## 1998
 

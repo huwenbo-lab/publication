@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **534** 篇
+共 **536** 篇
 
 ---
 
@@ -933,6 +933,16 @@
 ### Academic apartheid and the poverty of theory: the impact of scholarly segregation on the development of sociology in the United States
 **年份**: 2017 | **DOI**: [10.1111/1468-4446.12242_2](https://doi.org/10.1111/1468-4446.12242_2)
 **作者**: Schwartz, Michael
+**摘要**: （暂无）
+
+### “Let the ears of the guilty people tingle with truth”: W. E. B. Du Bois as an original sociologist
+**年份**: 2017 | **DOI**: [10.1111/1468-4446.12242_1](https://doi.org/10.1111/1468-4446.12242_1)
+**作者**: Back, Les
+**摘要**: （暂无）
+
+### The quest to overcome irrelevance in a troubled world: can Du Boisian analyses rescue sociology?
+**年份**: 2017 | **DOI**: [10.1111/1468-4446.12242_5](https://doi.org/10.1111/1468-4446.12242_5)
+**作者**: Morris, Aldon
 **摘要**: （暂无）
 
 ### A state of limbo: the politics of waiting in neo-liberal Latvia

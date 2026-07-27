@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1646** 篇 | 年份范围：1980–2026
+共 **1652** 篇 | 年份范围：1980–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1637,6 +1637,7 @@
 - Towards a New Academic Professionalism: A manifesto of hope · [DOI](https://doi.org/10.1080/01425690124202)
 - White Fright: The politics of white youth identity in South Africa · [DOI](https://doi.org/10.1080/01425690020030756)
 - Working through the Hyphens · [DOI](https://doi.org/10.1080/01425690120054894)
+- Examinations in Physical Education: A sociological perspective on a 'new orthodoxy' · [DOI](https://doi.org/10.1080/01425690020030783)
 
 ## 2000
 
@@ -1690,6 +1691,7 @@
 - Knowledge and Politics of Social Change: The implication of anti-racism · [DOI](https://doi.org/10.1080/01425699995335)
 - Adolescent CIT Use: Paradigm shifts for educational and cultural practices? · [DOI](https://doi.org/10.1080/01425699995506)
 - The Teacher-Student Relationship in Secondary School: Insights from excluded students · [DOI](https://doi.org/10.1080/01425699995218)
+- The Discourse of 'Voice' and the Problem of Knowledge and Identity in the Sociology of Education · [DOI](https://doi.org/10.1080/01425699995407)
 
 ## 1998
 
@@ -1702,12 +1704,14 @@
 
 - Recognising Difference: the Romani ‘Gypsy’ child socialisation and education process · [DOI](https://doi.org/10.1080/0142569970180207)
 - Disciplining Students: the construction of student subjectivities · [DOI](https://doi.org/10.1080/0142569970180106)
+- Good School/Bad School: paradox and fabrication · [DOI](https://doi.org/10.1080/0142569970180301)
 
 ## 1996
 
 - School Organization and Market Ecology: a realist sociological look at the infrastructure of school choice · [DOI](https://doi.org/10.1080/0142569960170403)
 - Power, Meaning and Identity: critical sociology of education in the United States · [DOI](https://doi.org/10.1080/0142569960170201)
 - Social Inequalities in French Secondary Schools: from figures to theories · [DOI](https://doi.org/10.1080/0142569960170307)
+- Border Territories: a journey through sociology, education and women's studies · [DOI](https://doi.org/10.1080/0142569960170101)
 
 ## 1995
 
@@ -1728,6 +1732,7 @@
 - The Sociology of School Effectiveness · [DOI](https://doi.org/10.1080/0142569930140309)
 - The Competitive Structure of School and the Labour Market: Japan and Britain · [DOI](https://doi.org/10.1080/0142569930140306)
 - Education, Class and Culture: the Birmingham ethnographic tradition and the problem of the new middle class · [DOI](https://doi.org/10.1080/0142569930140205)
+- Racism, Ideology and Education: the last word on the Honeyford affair? · [DOI](https://doi.org/10.1080/0142569930140405)
 
 ## 1992
 
@@ -1766,6 +1771,7 @@
 ## 1986
 
 - Policies on Inequality in the Third World: dependency or autonomy? · [DOI](https://doi.org/10.1080/0142569860070206)
+- Education and Race: the racialisation of class inequalities'? · [DOI](https://doi.org/10.1080/0142569860070203)
 
 ## 1984
 

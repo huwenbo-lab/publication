@@ -1,6 +1,6 @@
 # Asian Population Studies — 文章标题索引
 
-共 **440** 篇 | 年份范围：2005–2026
+共 **441** 篇 | 年份范围：2005–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -21,6 +21,7 @@
 - Family ideals across religious groups: a factorial survey experiment in Singapore · [DOI](https://doi.org/10.1080/17441730.2026.2680863)
 - The evolution of 4-2-1 family structure in China: a simulation based on multistate family structure tables · [DOI](https://doi.org/10.1080/17441730.2026.2691947)
 - Intergenerational power dynamics of women in extended households in India over two decades · [DOI](https://doi.org/10.1080/17441730.2026.2697775)
+- The vanishing two-child ideals in Hong Kong over 1997–2022 · [DOI](https://doi.org/10.1080/17441730.2026.2701113)
 
 ## 2025
 

@@ -1,7 +1,7 @@
 # Sociology Compass
 ## 2020–2026 年文章（含摘要）
 
-共 **658** 篇
+共 **659** 篇
 
 ---
 
@@ -314,6 +314,11 @@
 **年份**: 2026 | **DOI**: [10.1111/soc4.70229](https://doi.org/10.1111/soc4.70229)
 **作者**: Gerstenberger, Caryn Bell
 **摘要**: ABSTRACT Intimate Partner Violence (IPV) has been enveloped in controversy for the last 50 years. Updated research and a focus on intersectionality as an important lens in these analyses has revealed that scholars need to rethink much of what has been held as canon; definition, measurement, and conc…
+
+### The Societal Consequences of War: Social Science Perspectives and Findings From Ukraine
+**年份**: 2026 | **DOI**: [10.1111/soc4.70231](https://doi.org/10.1111/soc4.70231)
+**作者**: Gerber, Theodore P.; Torrisi, Orsola; Brik, Tymofii
+**摘要**: ABSTRACT War is an enduring feature of human society, capable of reshaping demographic patterns, economies, institutions, identities, and everyday life. Yet sociological research has given comparatively limited attention to its consequences, largely ceding this large, complex research territory to n…
 
 ### A Diachronic Comparative Study of Climate Change Discourse in China Daily and the New York Times: Analyzing the Evolution of Discursive Strategies
 **年份**: 2025 | **DOI**: [10.1111/soc4.70140](https://doi.org/10.1111/soc4.70140)

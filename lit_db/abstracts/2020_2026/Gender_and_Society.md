@@ -1,7 +1,7 @@
 # Gender & Society
 ## 2020–2026 年文章（含摘要）
 
-共 **210** 篇
+共 **212** 篇
 
 ---
 
@@ -89,6 +89,16 @@
 **年份**: 2026 | **DOI**: [10.1177/08912432261466293](https://doi.org/10.1177/08912432261466293)
 **作者**: Pownall, Madeleine
 **摘要**: Recent years have seen growing emphasis on “Open Science,” a movement to enhance research transparency, robustness, and accountability. Prompted by concerns over fraud, questionable research practices, and low reproducibility in psychological research that emerged in the 2010s, Open Science has been…
+
+### Sharing Knowledge Openly: Author Gender, Race/Ethnicity, and Feminist Science
+**年份**: 2026 | **DOI**: [10.1177/08912432261453086](https://doi.org/10.1177/08912432261453086)
+**作者**: King, Molly M.; Lockhart, Jeffrey W.
+**摘要**: Open science is an increasingly important movement in contemporary social science. Many funders have begun to mandate open practices, newer journals like Socius are open access, and preprint servers have increased readership of paywalled articles.…
+
+### What Gets Lost in Translation? Epistemic Tensions between Translation and Diffusion in Practice-Oriented Scholarship
+**年份**: 2026 | **DOI**: [10.1177/08912432261464637](https://doi.org/10.1177/08912432261464637)
+**作者**: Lauterwasser, Steven; Nelson, Laura K.; Gold, Jessica R. 等5人
+**摘要**: This paper proposes a feminist-informed metascience theory to explain the interconnected processes of idea creation, translation, and diffusion. Drawing on feminist critiques of science centered on perspective, power, and praxis, we develop a creation–diffusion model that jointly examines how ideas …
 
 ### Abortion Accompaniment and Insurgent Reproductive Citizenship in Mexico
 **年份**: 2025 | **DOI**: [10.1177/08912432251392906](https://doi.org/10.1177/08912432251392906)

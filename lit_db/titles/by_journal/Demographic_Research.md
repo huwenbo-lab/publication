@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1868** 篇 | 年份范围：1999–2026
+共 **1869** 篇 | 年份范围：1999–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1079,6 +1079,7 @@
 - Working with teams of "insiders" · [DOI](https://doi.org/10.4054/demres.2015.32.12)
 - The future size of religiously affiliated and unaffiliated populations · [DOI](https://doi.org/10.4054/demres.2015.32.27)
 - What is your couple type? Gender ideology, housework sharing, and babies · [DOI](https://doi.org/10.4054/demres.2015.32.30)
+- The force of mortality by life lived is the force of increment by life left in stationary populations · [DOI](https://doi.org/10.4054/demres.2015.32.29)
 
 ## 2014
 

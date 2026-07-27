@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2000–2009 年文章（含摘要）
 
-共 **352** 篇
+共 **353** 篇
 
 ---
 
@@ -1760,3 +1760,8 @@
 **年份**: 2000 | **DOI**: [10.1111/j.1728-4457.2000.00691.x](https://doi.org/10.1111/j.1728-4457.2000.00691.x)
 **作者**: Casterline, John B.; Sinding, Steven W.
 **摘要**: Unmet need for family planning has been a core concept in international population discourse for several decades. This article reviews the history of unmet need and the development of increasingly refined methods of its empirical measurement and delineates the main questions that have been raised ab…
+
+### Reproduction, Compositional Demography, and Economic Growth: Family Planning in England Long Before the Fertility Decline
+**年份**: 2000 | **DOI**: [10.1111/j.1728-4457.2000.00045.x](https://doi.org/10.1111/j.1728-4457.2000.00045.x)
+**作者**: Szreter, Simon; Garrett, Eilidh
+**摘要**: This article offers a radical reinterpretation of the chronology of control over reproduction in England's history. It argues that, as a result of post–World War II policy preoccupations, there has been too narrow a focus in the literature on the significance of reductions in marital fertility.…

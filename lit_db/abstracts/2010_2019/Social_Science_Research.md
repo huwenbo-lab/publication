@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2010–2019 年文章（含摘要）
 
-共 **1209** 篇
+共 **1210** 篇
 
 ---
 
@@ -2404,6 +2404,11 @@
 **年份**: 2016 | **DOI**: [10.1016/j.ssresearch.2016.01.005](https://doi.org/10.1016/j.ssresearch.2016.01.005)
 **作者**: Crandall, AliceAnn; VanderEnde, Kristin; Cheong, Yuk Fai 等5人
 **摘要**: Early - or child - marriage (before age 18) may diminish women's ability to exercise agency, or their capacity to act upon their goals. Using a propensity score adjustment approach, we analyzed data from 2394 married women ages 35-49 years who participated in the 2006 Egypt Labor Market Panel Survey…
+
+### The relation between societal factors and different forms of prejudice: A cross-national approach on target-specific and generalized prejudice
+**年份**: 2016 | **DOI**: [10.1016/j.ssresearch.2015.09.009](https://doi.org/10.1016/j.ssresearch.2015.09.009)
+**作者**: Meeusen, Cecil; Kern, Anna
+**摘要**: （暂无）
 
 ### (Dis)placing trust: The long-term effects of job displacement on generalised trust over the adult lifecourse
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.11.006](https://doi.org/10.1016/j.ssresearch.2014.11.006)

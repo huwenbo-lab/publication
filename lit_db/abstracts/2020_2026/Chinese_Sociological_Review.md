@@ -1,7 +1,7 @@
 # Chinese Sociological Review
 ## 2020–2026 年文章（含摘要）
 
-共 **146** 篇
+共 **147** 篇
 
 ---
 
@@ -38,6 +38,11 @@
 ### A machine, not an intelligence: how Chinese programmers imagine generative artificial intelligence
 **年份**: 2026 | **DOI**: [10.1080/21620555.2026.2620115](https://doi.org/10.1080/21620555.2026.2620115)
 **作者**: Wu, Yingfa; Sun, Baicheng
+**摘要**: （暂无）
+
+### A decade of Hong Kong panel data (2011–2021): HKPSSD Phase II within a comparative Chinese Urban Research Program
+**年份**: 2026 | **DOI**: [10.1080/21620555.2026.2704485](https://doi.org/10.1080/21620555.2026.2704485)
+**作者**: Wu, Xiaogang
 **摘要**: （暂无）
 
 ### Accept it or not?: young people's struggles with parental financing for property-purchase in Hong Kong

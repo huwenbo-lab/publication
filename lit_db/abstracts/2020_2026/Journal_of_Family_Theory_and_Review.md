@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **316** 篇
+共 **318** 篇
 
 ---
 
@@ -204,6 +204,16 @@
 **年份**: 2026 | **DOI**: [10.1111/jftr.70083](https://doi.org/10.1111/jftr.70083)
 **作者**: Baker, Brianna A.; Snow, Olivia R.
 **摘要**: ABSTRACT Matrescence, the developmental transition to motherhood, has gained recognition as a critical life stage, yet existing frameworks remain largely universalist and insufficiently account for the racialized, intergenerational realities of Black women.…
+
+### The Relationship Between Parental Racial Socialization Practices and Racial Identity Development Within Black–White Biracial Families: A Scoping Review of Research
+**年份**: 2026 | **DOI**: [10.1111/jftr.70075](https://doi.org/10.1111/jftr.70075)
+**作者**: Callahan, Dominique
+**摘要**: ABSTRACT The purpose of this study was to identify and synthesize the literature on parental racial socialization and racial identity development within Black–White biracial families, or those with one Black parent, one White parent, and at least one biological Black–White biracial child.…
+
+### Rethinking Mahr: Gendered Bargaining, Legal Institutions, and Women's Economic Security in Iran's Welfare Regime
+**年份**: 2026 | **DOI**: [10.1111/jftr.70084](https://doi.org/10.1111/jftr.70084)
+**作者**: Ostadalidehaghi, Rezvan; Roshan, Mohammad; Ghasemi, Mojtaba 等4人
+**摘要**: ABSTRACT This article re‐examines mahr (a groom‐to‐bride transfer stipulated in the marriage contract) as a gendered institution embedded in Iran's welfare and legal regime. Drawing on a theory‐informed thematic analysis of scholarship from Iran and comparative contexts, the study integrates feminis…
 
 ### A Bioecological Framework for Supporting Mothers From Pregnancy to Workforce Reintegration
 **年份**: 2025 | **DOI**: [10.1111/jftr.70039](https://doi.org/10.1111/jftr.70039)

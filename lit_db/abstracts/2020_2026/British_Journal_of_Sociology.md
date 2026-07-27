@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **443** 篇
+共 **447** 篇
 
 ---
 
@@ -124,6 +124,26 @@
 **年份**: 2026 | **DOI**: [10.1111/1468-4446.70146](https://doi.org/10.1111/1468-4446.70146)
 **作者**: Hsu, Becky Yang; Zhuang, Liu
 **摘要**: ABSTRACT This article explores why individuals in China undertake numerous tasks for souls and spirits whether or not they believe that these beings exist. We shift away from Eurocentric approaches to studying religion which have been centered around conceptualizing belief as cognitive assent to a t…
+
+### Only Fools Believe Their Theories Are Finished Products! Thirty Years of Updates to the ‘Racialized Social Systems’ Approach to Race Matters
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70152](https://doi.org/10.1111/1468-4446.70152)
+**作者**: Bonilla‐Silva, Eduardo
+**摘要**: ABSTRACT In this address, I discuss the theoretical work I have developed since the publication of my article “Rethinking Racism: Toward a Structural Interpretation” in 1997. First, I discuss the idea of “racial habituation.” As part of this discussion, I highlight the centrality of “white normativi…
+
+### Engineering Apprenticeships: Youth Transitions, Industrial Capital and the Role of Working‐Class Households
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70155](https://doi.org/10.1111/1468-4446.70155)
+**作者**: Nayak, Anoop; Gaunt, Graham
+**摘要**: ABSTRACT Using biographical methods, the study explores the lives of 34 young people undertaking engineering apprenticeships in Teesside, Northeast England. It examines why working‐class youth in a deindustrialised region might be attracted to engineering, how they might secure apprenticeship, and t…
+
+### Comparative Framing From Below: How Young People in Three Cities Interpret Cyber Dating Abuse by Drawing Boundaries Between Love, Harm, and Justice
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70157](https://doi.org/10.1111/1468-4446.70157)
+**作者**: Choi, Susanne Y. P.; Yip, Tangi P. C.; Shen, Hsiu‐Hua 等5人
+**摘要**: ABSTRACT As digital technologies become embedded in everyday life, interpersonal violence increasingly takes place in cyberspace. Existing studies have focused on how states, experts, and the media define what counts as cyber violence and abuse.…
+
+### The Silent Standpoint: How Professors Explain Gender Disparities in Academia
+**年份**: 2026 | **DOI**: [10.1111/1468-4446.70095](https://doi.org/10.1111/1468-4446.70095)
+**作者**: Järvinen, Margaretha; Mik‐Meyer, Nanna
+**摘要**: ABSTRACT Based on 77 qualitative interviews with professors in higher education, this article explores the interviewees' opinions on how gender disparities in academia should be explained.…
 
 ### 'Cubs of Wall Street': Cocaine Use in Top-Boy Culture
 **年份**: 2025 | **DOI**: [10.1111/1468-4446.13212](https://doi.org/10.1111/1468-4446.13212)

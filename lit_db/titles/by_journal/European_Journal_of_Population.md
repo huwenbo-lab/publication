@@ -1,6 +1,6 @@
 # European Journal of Population — 文章标题索引
 
-共 **777** 篇 | 年份范围：1985–2026
+共 **780** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -21,6 +21,7 @@
 - The Spatial Diffusion of Internal Migration Across the Rural-Urban Continuum in Developing Countries · [DOI](https://doi.org/10.1007/s10680-026-09774-w)
 - Long-Term Recall Error in Retrospective Family Surveys: Cohabitation Histories in Denmark · [DOI](https://doi.org/10.1007/s10680-026-09775-9)
 - Home-Leaving Patterns Among Middle Eastern-Origin Youth in Sweden: The Influence of Origin, Generation, and Neighbourhood · [DOI](https://doi.org/10.1007/s10680-026-09776-8)
+- Housing Costs, Tenure, and Fertility in the UK: How Rent and Mortgage Payments Relate to Childbirth · [DOI](https://doi.org/10.1007/s10680-026-09778-6)
 
 ## 2025
 
@@ -878,6 +879,7 @@
 - Analyse biographique du travail féminin · [DOI](https://doi.org/10.1007/bf01796874)
 - Mariage et mobilité sociale en France · [DOI](https://doi.org/10.1007/bf01797102)
 - Who forgets? An analysis of memory effects in a retrospective survey on migration history · [DOI](https://doi.org/10.1007/bf01796872)
+- The choice between a married or unmarried first union by young adults · [DOI](https://doi.org/10.1007/bf01796842)
 
 ## 1990
 
@@ -893,6 +895,7 @@
 - Ageing and social-security costs · [DOI](https://doi.org/10.1007/bf01796907)
 - Recent trends in family and household composition in europe · [DOI](https://doi.org/10.1007/bf01796903)
 - The impact of breastfeeding patterns on regional differences in infant mortality in Germany, 1910 · [DOI](https://doi.org/10.1007/bf01796777)
+- Population policies in advanced societies: Pronatalist and migration strategies · [DOI](https://doi.org/10.1007/bf01796909)
 
 ## 1987
 

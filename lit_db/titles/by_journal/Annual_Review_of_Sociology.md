@@ -1,6 +1,6 @@
 # Annual Review of Sociology — 文章标题索引
 
-共 **646** 篇 | 年份范围：1975–2026
+共 **647** 篇 | 年份范围：1975–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -799,6 +799,7 @@
 
 - Environments of Organizations · [DOI](https://doi.org/10.1146/annurev.so.02.080176.000455)
 - The Military · [DOI](https://doi.org/10.1146/annurev.so.02.080176.000415)
+- Comparative Cross-National Methodology · [DOI](https://doi.org/10.1146/annurev.so.02.080176.001233)
 
 ## 1975
 

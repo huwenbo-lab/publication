@@ -1,6 +1,6 @@
 # American Sociological Review — 文章标题索引
 
-共 **1290** 篇 | 年份范围：1936–2026
+共 **1299** 篇 | 年份范围：1936–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -983,6 +983,7 @@
 - Culture and Competition: Homophily and distancing Explanations for Cultural Niches · [DOI](https://doi.org/10.1177/000312240306800302)
 - Structural Cohesion and Embeddedness: A Hierarchical Concept of Social Groups · [DOI](https://doi.org/10.2307/3088904)
 - Inequality in the World Polity: The Structure of International Organization · [DOI](https://doi.org/10.1177/000312240306800305)
+- Elite Self-Interest and Economic Decline in Early Modern Europe · [DOI](https://doi.org/10.1177/000312240306800303)
 
 ## 2002
 
@@ -1062,6 +1063,7 @@
 - Work and honor in the law: Prestige and the division of lawyers' labor · [DOI](https://doi.org/10.2307/3088885)
 - Youth violence and the end of adolescence · [DOI](https://doi.org/10.2307/3088877)
 - What is Gender? · [DOI](https://doi.org/10.1177/000312240106600407)
+- Food Security in Less Developed Countries, 1970 to 1990 · [DOI](https://doi.org/10.2307/3088955)
 
 ## 2000
 
@@ -1285,6 +1287,7 @@
 - Gender and Jobs: Prestige Standings of Occupations as Affected by Gender · [DOI](https://doi.org/10.2307/2095225)
 - Between the Labor Process and the State: The Changing Face of Factory Regimes Under Advanced Capitalism · [DOI](https://doi.org/10.2307/2094921)
 - Ordinal Measures in Multiple Indicator Models: A Simulation Study of Categorization Error · [DOI](https://doi.org/10.2307/2095231)
+- Industrialization and the Status Attainment Process: The Thesis of Industrialism Reconsidered · [DOI](https://doi.org/10.2307/2117717)
 
 ## 1982
 
@@ -1321,6 +1324,7 @@
 
 - Race and Involvement in Common Law Personal Crimes · [DOI](https://doi.org/10.2307/2094764)
 - Bringing the Boss Back In: Employer Size, Employee Schooling, and Socioeconomic Achievement · [DOI](https://doi.org/10.2307/2094623)
+- Sex Differences in Children's Friendships · [DOI](https://doi.org/10.2307/2094701)
 
 ## 1977
 
@@ -1353,6 +1357,8 @@
 - Revival Religion and Antislavery Politics · [DOI](https://doi.org/10.2307/2094230)
 - Bringing Beasts Back In: Toward a Biosocial Theory of Aggression · [DOI](https://doi.org/10.2307/2094152)
 - Race, Socialization and Mobility in Educational and Early Occupational Attainment · [DOI](https://doi.org/10.2307/2094291)
+- Political Democracy and Social Equality: A Comparative Analysis · [DOI](https://doi.org/10.2307/2094274)
+- Unionization and Racial Income Inequality in the Metropolis · [DOI](https://doi.org/10.2307/2094418)
 
 ## 1973
 
@@ -1517,6 +1523,7 @@
 - The Family Cycle · [DOI](https://doi.org/10.2307/2086982)
 - Heuristic and Empirical Typologies: A Job for Factor Analysis · [DOI](https://doi.org/10.2307/2086492)
 - Internal Migration in Peace and War · [DOI](https://doi.org/10.2307/2086487)
+- Bureaucracy: The Problem and Its Setting · [DOI](https://doi.org/10.2307/2086730)
 
 ## 1946
 
@@ -1552,6 +1559,11 @@
 ## 1938
 
 - The Role of Ideas in Social Action · [DOI](https://doi.org/10.2307/2084684)
+- The Anglo-Saxon Myth in the United States · [DOI](https://doi.org/10.2307/2084250)
+
+## 1937
+
+- The Sociography of Some Community Relations · [DOI](https://doi.org/10.2307/2084864)
 
 ## 1936
 

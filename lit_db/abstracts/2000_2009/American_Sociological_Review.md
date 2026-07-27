@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2000–2009 年文章（含摘要）
 
-共 **375** 篇
+共 **377** 篇
 
 ---
 
@@ -1300,6 +1300,11 @@
 **作者**: Beckfield, Jason
 **摘要**: Recent research reveals strong effects of involvement in international organizations on state policies, but much of this research downplays inequality in world political Participation, and there is only a limited understanding of what explains world-Polity ties.…
 
+### Elite Self-Interest and Economic Decline in Early Modern Europe
+**年份**: 2003 | **DOI**: [10.1177/000312240306800303](https://doi.org/10.1177/000312240306800303)
+**作者**: Lachmann, Richard
+**摘要**: Why does the leading economic power of its time lose its dominance? Competing theories are tested through a comparison of four historical cases—the Florentine city-state, the Spanish empire, and the Dutch and British nation-states.…
+
 ### Assessing alternative perspectives on race and sex employment segregation
 **年份**: 2002 | **DOI**: [10.2307/3088945](https://doi.org/10.2307/3088945)
 **作者**: Kaufman, RL
@@ -1663,6 +1668,11 @@
 ### What is Gender?
 **年份**: 2001 | **DOI**: [10.1177/000312240106600407](https://doi.org/10.1177/000312240106600407)
 **作者**: Kennelly, Ivy; Merz, Sabine N.; Lorber, Judith
+**摘要**: （暂无）
+
+### Food Security in Less Developed Countries, 1970 to 1990
+**年份**: 2001 | **DOI**: [10.2307/3088955](https://doi.org/10.2307/3088955)
+**作者**: Jenkins, J. Craig; Scanlan, Stephen J.
 **摘要**: （暂无）
 
 ### A new solution to the collective action problem: The paradox of voter turnout

@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **748** 篇
+共 **750** 篇
 
 ---
 
@@ -209,6 +209,16 @@
 **年份**: 2026 | **DOI**: [10.1177/23780231261463822](https://doi.org/10.1177/23780231261463822)
 **作者**: Feng, Acton Jiashi
 **摘要**: Despite its omnipresence in daily interaction, the role of regional background in the development of social relations remains marginal in sociological research. This article examines how regional background shapes marital partner selection in urban China through a mental imagery model that draws on …
+
+### Belonging Tests and Felt Belonging: Black Mixed-Race Students at Differing Institutional Contexts
+**年份**: 2026 | **DOI**: [10.1177/23780231261465499](https://doi.org/10.1177/23780231261465499)
+**作者**: Gagnon, Eliana
+**摘要**: Sociological literature emphasizes the significance of studying themes of belonging across racial groups and contexts; yet scholarship rarely distinguishes between sense of racial belonging and peer-validated belonging.…
+
+### Between Privilege and Paradox: Migration, Motherhood, and Stalled Careers
+**年份**: 2026 | **DOI**: [10.1177/23780231261457977](https://doi.org/10.1177/23780231261457977)
+**作者**: Balogh, Eszter; Szvetelszky, Zsuzsanna; Ábrahám, Jázmin Szonja 等4人
+**摘要**: This study examines the migration and labour market experiences of highly educated Hungarian mothers living in Vienna through qualitative research. We seek to understand how family migration and motherhood shape these women’s integration and labour market participation.…
 
 ### A Convergence of Crises: Sudden Employment Loss and Black Lives Matter Protest Attendance during the COVID-19 Pandemic
 **年份**: 2025 | **DOI**: [10.1177/23780231251328799](https://doi.org/10.1177/23780231251328799)

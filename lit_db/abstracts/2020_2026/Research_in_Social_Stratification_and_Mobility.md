@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2020–2026 年文章（含摘要）
 
-共 **386** 篇
+共 **389** 篇
 
 ---
 
@@ -148,6 +148,21 @@
 ### Heterogeneous effects of parental death on secondary school track choice
 **年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101180](https://doi.org/10.1016/j.rssm.2026.101180)
 **作者**: Jin, Yuxuan; Kalmijn, Matthijs; de Valk, Helga A.G.
+**摘要**: （暂无）
+
+### Middle-class economic power and the evolution of educational systems
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2025.101112](https://doi.org/10.1016/j.rssm.2025.101112)
+**作者**: Young, Natalie A.E.; Hannum, Emily
+**摘要**: （暂无）
+
+### Universal Access, Unequal Start: Early Childhood Development Disparities through Enrichment Markets in China
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101181](https://doi.org/10.1016/j.rssm.2026.101181)
+**作者**: Xu, Can; Ma, Gaoming; Wu, Xiaogang
+**摘要**: （暂无）
+
+### Intergenerational mobility across nine generations: Evidence from Poland, 1800–1984
+**年份**: 2026 | **DOI**: [10.1016/j.rssm.2026.101182](https://doi.org/10.1016/j.rssm.2026.101182)
+**作者**: Wroński, Marcin; Minakowska, Maria Jadwiga
 **摘要**: （暂无）
 
 ### Associations of perceived social mobility with health indicators: Findings from the Chinese general social survey from 2017 to 2021

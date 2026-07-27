@@ -1,6 +1,6 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2556** 篇 | 年份范围：1965–2026
+共 **2563** 篇 | 年份范围：1965–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -2509,6 +2509,8 @@
 - Sibling Resemblance in Behavioral and Cognitive Outcomes: The Role of Father Presence · [DOI](https://doi.org/10.2307/353628)
 - Husbands' and Wives' Resources and Marital Dissolution · [DOI](https://doi.org/10.2307/353537)
 - Trajectories of Grandparents' Perceived Solidarity with Adult Grandchildren: A Growth Curve Analysis over 23 Years · [DOI](https://doi.org/10.2307/353634)
+- Does It Hurt to Care? Caregiving, Work-Family Conflict, and Midlife Well-Being · [DOI](https://doi.org/10.2307/353637)
+- Gender and Fairness: Marital Satisfaction in Two-Earner Couples · [DOI](https://doi.org/10.2307/353530)
 
 ## 1997
 
@@ -2529,6 +2531,7 @@
 - An Examination of Parent-Child Shared Time · [DOI](https://doi.org/10.2307/353391)
 - Husbands' Participation in Domestic Labor: Interactive Effects of Wives' and Husbands' Gender Ideologies · [DOI](https://doi.org/10.2307/353719)
 - Parental Cohabitation and Children's Economic Well-Being · [DOI](https://doi.org/10.2307/353986)
+- Marital Conflict about the Division of Household Labor and Paid Work · [DOI](https://doi.org/10.2307/353983)
 
 ## 1995
 
@@ -2545,6 +2548,8 @@
 - A Tutorial in Logistic Regression · [DOI](https://doi.org/10.2307/353415)
 - Social Sources of Change in Children's Home Environments: The Effects of Parental Occupational Experiences and Family Conditions · [DOI](https://doi.org/10.2307/353817)
 - Inner-City Parents Under Economic Pressure: Perspectives on the Strategies of Parenting · [DOI](https://doi.org/10.2307/353931)
+- Measurement Issues in the Assessment of the Experiences of Parenthood · [DOI](https://doi.org/10.2307/353416)
+- Coparenting during the Child's 2nd Year: A Descriptive Account · [DOI](https://doi.org/10.2307/353916)
 
 ## 1994
 
@@ -2553,6 +2558,7 @@
 - Interwoven Lives: Parents, Marriage, and Guanxi in China · [DOI](https://doi.org/10.2307/353592)
 - Filial Responsibility Expectations and Patterns of Intergenerational Assistance · [DOI](https://doi.org/10.2307/352867)
 - An International Perspective on Parenting: Social Change and Social Constructs · [DOI](https://doi.org/10.2307/352865)
+- Regional Differences in Attitudes toward Corporal Punishment · [DOI](https://doi.org/10.2307/353102)
 
 ## 1993
 
@@ -2604,6 +2610,7 @@
 - Some Economic Complexities of Child Care Provided by Grandmothers · [DOI](https://doi.org/10.2307/352158)
 - Marital Status and Career Stage Influences on Social Networks of Young Adults · [DOI](https://doi.org/10.2307/352513)
 - Continuity and Variation in Chinese Patterns of Socialization · [DOI](https://doi.org/10.2307/352376)
+- Theoretical and Methodological Issues in the Identification of the Social Networks of Spouses · [DOI](https://doi.org/10.2307/352377)
 
 ## 1988
 

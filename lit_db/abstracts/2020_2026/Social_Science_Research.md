@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2020–2026 年文章（含摘要）
 
-共 **553** 篇
+共 **555** 篇
 
 ---
 
@@ -213,6 +213,16 @@
 ### Impact of subsidized childcare on maternal employment: A comparative study on native and migrant women in Germany
 **年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103402](https://doi.org/10.1016/j.ssresearch.2026.103402)
 **作者**: Yurdakul, Aslıhan; Kılıç, İbrahim Engin
+**摘要**: （暂无）
+
+### Separated in childhood: The long-term impacts of parental migration on educational attainment in China
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103405](https://doi.org/10.1016/j.ssresearch.2026.103405)
+**作者**: Lei, Lei; Jin, Yanhong
+**摘要**: （暂无）
+
+### Social origin, the class ceiling in earnings, and job task segregation: Evidence from Germany
+**年份**: 2026 | **DOI**: [10.1016/j.ssresearch.2026.103406](https://doi.org/10.1016/j.ssresearch.2026.103406)
+**作者**: Schulz, Wiebke; Lersch, Philipp M.
 **摘要**: （暂无）
 
 ### A real effort vs. standard public goods experiment: Asking for effort does make a difference
