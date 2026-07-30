@@ -25,14 +25,13 @@ from urllib.parse import quote_plus
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
-from _paths import CACHE_DIR, ROOT
+from _paths import API_USER_AGENT, CACHE_DIR, ROOT, with_contact
+from clean_data import redact_contact_data
 
 ARTICLES_JSON = ROOT / "articles.json"
 DATA_JSON = ROOT / "data.json"
-DATA_JS = ROOT / "data.js"
 PROGRESS_FILE = CACHE_DIR / "enrich_progress.json"
 
-MAILTO = "hwbruc@gmail.com"
 SLEEP_SEC = 1.0
 CROSSREF_BASE = "https://api.crossref.org"
 
@@ -113,7 +112,7 @@ EXISTING_JOURNAL_GAPS = {
 def get_json(url, retries=3, timeout=30):
     """发送GET请求，返回解析后的JSON，失败时重试"""
     headers = {
-        "User-Agent": f"SociologyLitDB/1.0 (mailto:{MAILTO})",
+        "User-Agent": API_USER_AGENT,
         "Accept": "application/json",
     }
     for attempt in range(retries):
@@ -262,13 +261,15 @@ def load_articles():
 
 
 def save_articles(articles):
+    for article in articles:
+        article["abstract"] = redact_contact_data(article.get("abstract", ""))
     # 按期刊+年份排序
     articles.sort(key=lambda x: (x.get("journal", ""), x.get("year") or 0))
 
     with open(ARTICLES_JSON, "w", encoding="utf-8") as f:
         json.dump(articles, f, ensure_ascii=False, indent=2)
 
-    # 同步更新 data.json + data.js
+    # 同步更新前端回退数据 data.json
     legacy = []
     for a in articles:
         legacy.append({
@@ -282,12 +283,6 @@ def save_articles(articles):
 
     with open(DATA_JSON, "w", encoding="utf-8") as f:
         json.dump(legacy, f, ensure_ascii=False, indent=2)
-
-    with open(DATA_JS, "w", encoding="utf-8") as f:
-        f.write("const DATA = ")
-        json.dump(legacy, f, ensure_ascii=False, indent=2)
-        f.write(";\n")
-
 
 def build_doi_index(articles):
     """构建DOI → 文章位置的索引"""
@@ -329,7 +324,7 @@ def phase1_enrich_abstracts(articles, dry_run=False):
     enriched = 0
     for idx, (i, art) in enumerate(targets):
         doi = art["doi"].strip()
-        url = f"{CROSSREF_BASE}/works/{quote_plus(doi)}?mailto={MAILTO}"
+        url = with_contact(f"{CROSSREF_BASE}/works/{quote_plus(doi)}")
         data = get_json(url)
         time.sleep(SLEEP_SEC)
 
@@ -379,7 +374,7 @@ def phase2_find_dois(articles, dry_run=False):
 
         # CrossRef不支持query.title与多个filter同时使用，用query代替
         # ISSN filter单独加，不加日期filter（靠相似度匹配过滤）
-        url = f"{CROSSREF_BASE}/works?query={q}&rows=5&mailto={MAILTO}"
+        url = with_contact(f"{CROSSREF_BASE}/works?query={q}&rows=5")
         if journal:
             issn = JOURNALS.get(journal, {}).get("issn")
             if issn:
@@ -431,11 +426,11 @@ def fetch_by_issn(issn, from_year, until_year, journal_name, existing_dois, year
     had_api_failure = False
 
     # 先查询总数以便显示
-    probe_url = (
+    probe_url = with_contact(
         f"{CROSSREF_BASE}/works"
         f"?filter=issn:{issn},from-pub-date:{from_year}-01-01"
         f",until-pub-date:{until_year}-12-31,type:journal-article"
-        f"&rows=0&mailto={MAILTO}"
+        f"&rows=0"
     )
     probe = get_json(probe_url)
     time.sleep(SLEEP_SEC)
@@ -459,12 +454,11 @@ def fetch_by_issn(issn, from_year, until_year, journal_name, existing_dois, year
         year_articles = []
 
         while True:
-            url = (
+            url = with_contact(
                 f"{CROSSREF_BASE}/works"
                 f"?filter={filter_str}"
                 f"&rows={page_size}"
                 f"&offset={offset}"
-                f"&mailto={MAILTO}"
                 f"&select=DOI,title,abstract,author,published,published-print,published-online"
             )
 

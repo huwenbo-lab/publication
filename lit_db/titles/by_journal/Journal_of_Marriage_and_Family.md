@@ -1,18 +1,51 @@
 # Journal of Marriage and Family — 文章标题索引
 
-共 **2531** 篇 | 年份范围：1965–2026
+共 **2578** 篇 | 年份范围：1965–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
 
 ## 2026
 
-- Couple Mobility and Employment Patterns. A Gender Perspective in Six European Countries · [DOI](https://doi.org/10.1111/jomf.70063)
-- The Socioeconomic Gradient in Joint Physical Custody: A Comparison of 32 Countries · [DOI](https://doi.org/10.1111/jomf.70056)
-- Life Course Changes in the Geographical Distance Between Adult Children of Immigrants and Their Parents: The Role of Partnership Formation and Dissolution · [DOI](https://doi.org/10.1111/jomf.70074)
 - Attractiveness for Status? The Link Between Physical Attractiveness and Male Refugees' Romantic Relationships in Germany · [DOI](https://doi.org/10.1111/jomf.70085)
+- Care Arrangements for Children Exposed to Maternal Incarceration: Evidence From Wisconsin · [DOI](https://doi.org/10.1111/jomf.70086)
+- Couple Mobility and Employment Patterns. A Gender Perspective in Six European Countries · [DOI](https://doi.org/10.1111/jomf.70063)
+- Depressive Symptoms Mediate the Associations of Family Economic Pressure With Social Functioning: A Three‐Wave Longitudinal Study of Chinese Families · [DOI](https://doi.org/10.1111/jomf.70060)
+- Differently Educated US Couples and Their Work‐Family Arrangements, 1968–2023 · [DOI](https://doi.org/10.1111/jomf.70057)
+- Division of Housework, Sexual Intimacy, and Relationship Quality in Different‐Sex and Same‐Sex Couples · [DOI](https://doi.org/10.1111/jomf.70073)
+- Do Environmentalists Forgo Parenthood? A Life Course Perspective on Fertility Expectations and Behaviors in the UK · [DOI](https://doi.org/10.1111/jomf.70095)
+- Do Genetics Shape Mental Health Trajectories Around Partnership Transitions? · [DOI](https://doi.org/10.1111/jomf.70088)
 - Early Labor Market Outcomes of Young Adults From Same‐Sex Families: Evidence From Population Data · [DOI](https://doi.org/10.1111/jomf.70079)
+- Earnings Trajectories Around Parenthood: Male Same‐Sex Couples in Denmark, the Netherlands and Sweden · [DOI](https://doi.org/10.1111/jomf.70077)
+- Exhausted Minds: Maternal Reflective Functioning and Parental Burnout in Mothers of Young Children in A One‐Year Longitudinal Study · [DOI](https://doi.org/10.1111/jomf.70080)
+- Exposure and Emotional Reactivity to Daily Stressors in Same‐Sex and Different‐Sex Marriages · [DOI](https://doi.org/10.1111/jomf.70058)
+- How I Met My Partner: Online Dating and the Homogamy Gap Between Same‐Sex and Different‐Sex Couples · [DOI](https://doi.org/10.1111/jomf.70072)
+- How Immigration Policy Shapes Family and Work Decision‐Making for Immigrant Women in Professional Occupations · [DOI](https://doi.org/10.1111/jomf.70093)
 - Impact of Sibling Death in Midlife on Tension Among Surviving Siblings · [DOI](https://doi.org/10.1111/jomf.70083)
+- Independent or Joint? How Relative Income and Wealth Relate to Couples' Money Management in Eastern and Western Germany · [DOI](https://doi.org/10.1111/jomf.70075)
+- Intergenerational Estrangement in Germany: Same‐Gender Relationships Predict Reduced Closeness to Fathers but Not Mothers · [DOI](https://doi.org/10.1111/jomf.70052)
+- Interreligious Marriage and Psychological Well‐Being: A Qualitative Exploration Through the Lens of Seligman's PERMA Model · [DOI](https://doi.org/10.1111/jomf.70091)
+- Introducing the Future of Families Third Generation (FFG3) Study · [DOI](https://doi.org/10.1111/jomf.70078)
+- Kinship Obligations in Nuclear and Extended Family Networks in Italy: A Vignette Study · [DOI](https://doi.org/10.1111/jomf.70092)
+- Life Course Changes in the Geographical Distance Between Adult Children of Immigrants and Their Parents: The Role of Partnership Formation and Dissolution · [DOI](https://doi.org/10.1111/jomf.70074)
+- Marital Satisfaction and Parental Burnout: Longitudinal Indirect Effects of Family Emotional Expressiveness · [DOI](https://doi.org/10.1111/jomf.70076)
+- Marriage Mandates: Understanding Parental Pressures to Marry Among Taiwanese Young Adults · [DOI](https://doi.org/10.1111/jomf.70067)
+- National Estimates of Multisystem Exposure Among Urban Families · [DOI](https://doi.org/10.1111/jomf.70094)
+- Parental Loss in Early Years and Adult Family Formation: Evidence From U.S. Cohorts Born 1850–1910 · [DOI](https://doi.org/10.1111/jomf.70062)
+- Parental Time Use and the Gendered Socialization of Adolescents' Housework in China: A Cumulative Perspective · [DOI](https://doi.org/10.1111/jomf.70066)
+- Post‐Divorce LGBTQ ‐Parent Families: Navigating Loyalty Conflicts and Stepfamily Closeting · [DOI](https://doi.org/10.1111/jomf.70071)
+- Premarital Cohabitation and Intimate Partner Violence in Urban China: Evidence From Beijing · [DOI](https://doi.org/10.1111/jomf.70061)
+- Reconfiguring Functional Solidarity: Typologies of Intergenerational Support in Contemporary China · [DOI](https://doi.org/10.1111/jomf.70069)
+- Redoing Family After Estrangement · [DOI](https://doi.org/10.1111/jomf.70065)
+- Sexual Flourishing: An Expanded Vision of Sexual Quality · [DOI](https://doi.org/10.1111/jomf.70068)
+- Sibling Complexity Across Childhood: A 16‐Year Follow‐up of the 1988 and 2000 Birth Cohorts in Finland · [DOI](https://doi.org/10.1111/jomf.70087)
+- The Complex Dynamic Between Sexual Concurrency and Pregnancy Desire · [DOI](https://doi.org/10.1111/jomf.70089)
+- The Interplay Between Emotion Regulation, Parental Burnout, and Psychological Distress During War: A Longitudinal Study · [DOI](https://doi.org/10.1111/jomf.70084)
+- The Role of Personality in Dyadic Associations Between Stress and Relationship Satisfaction: Findings From the German Cohort Study DREAM · [DOI](https://doi.org/10.1111/jomf.70064)
+- The Socioeconomic Gradient in Joint Physical Custody: A Comparison of 32 Countries · [DOI](https://doi.org/10.1111/jomf.70056)
+- What Happened to the Marriage Alternatives? Same‐Sex Couples in the United States and the Distinctiveness of Marriage · [DOI](https://doi.org/10.1111/jomf.70054)
+- Why Parenthood Strains Relationships: Investigating the Mechanisms Behind Declining Relationship Satisfaction · [DOI](https://doi.org/10.1111/jomf.70059)
+- Women's Socioeconomic Advantage Over Their Partners and Relationship Dissolution: A 29‐Country Study · [DOI](https://doi.org/10.1111/jomf.70081)
 
 ## 2025
 
@@ -335,6 +368,7 @@
 - Childhood exposure to family violence and adult sibling relationships · [DOI](https://doi.org/10.1111/jomf.12862)
 - Co-residence beliefs 1973-2018: Older adults feel differently than younger adults · [DOI](https://doi.org/10.1111/jomf.12819)
 - Contexts of reproduction: Gender dynamics and unintended birth in sub-Saharan Africa · [DOI](https://doi.org/10.1111/jomf.12807)
+- Converging trends in developmental child care time by fathers' education? Comment on Cha and Park (2021) · [DOI](https://doi.org/10.1111/jomf.12889)
 - Deprivation and intra-family conflict: Children as agents in the Family Stress Model · [DOI](https://doi.org/10.1111/jomf.12791)
 - Desired fertility and educational aspirations: Adolescent goals in rapidly changing social contexts · [DOI](https://doi.org/10.1111/jomf.12815)
 - Did perceptions of supportive work-life culture change during the COVID-19 pandemic? · [DOI](https://doi.org/10.1111/jomf.12826)
@@ -396,7 +430,6 @@
 - Weekend work and work-family conflict: Evidence from Australian panel data · [DOI](https://doi.org/10.1111/jomf.12779)
 - White parents of adopted Black children in an era of racial reckoning: Challenges, tensions, and strategies · [DOI](https://doi.org/10.1111/jomf.12867)
 - You're biracial but horizontal ellipsis : Multiracial socialization discourse among mommy bloggers with Black and non-Black multiracial children · [DOI](https://doi.org/10.1111/jomf.12866)
-- Converging trends in developmental child care time by fathers' education? Comment on Cha and Park (2021) · [DOI](https://doi.org/10.1111/jomf.12889)
 
 ## 2021
 
@@ -469,7 +502,9 @@
 
 ## 2020
 
+- A Decade Review of Sex and Partnering in Adolescence and Young Adulthood · [DOI](https://doi.org/10.1111/jomf.12670)
 - A Decade of Research on Intergenerational Ties: Technological, Economic, Political, and Demographic Changes · [DOI](https://doi.org/10.1111/jomf.12604)
+- A Socioecological Perspective on Intimate Partner Violence Research: A Decade in Review · [DOI](https://doi.org/10.1111/jomf.12652)
 - Adolescent Intergenerational Relationship Dynamics and Leaving and Returning to the Parental Home · [DOI](https://doi.org/10.1111/jomf.12630)
 - An Integrated Relational Framework of Depressed Mood and Anhedonia During Pregnancy · [DOI](https://doi.org/10.1111/jomf.12611)
 - Associations Between Domain Differentiated Sibling Conflict and Adolescent Problem Behavior · [DOI](https://doi.org/10.1111/jomf.12663)
@@ -486,14 +521,18 @@
 - Degrees of Change: An Assessment of the Deinstitutionalization of Marriage Thesis · [DOI](https://doi.org/10.1111/jomf.12605)
 - Divorce and Diverging Poverty Rates: A Risk-and-Vulnerability Approach · [DOI](https://doi.org/10.1111/jomf.12629)
 - Divorce, Economic Resources, and Survival among Older Black and White Women · [DOI](https://doi.org/10.1111/jomf.12702)
+- Divorce, Repartnering, and Stepfamilies: A Decade in Review · [DOI](https://doi.org/10.1111/jomf.12651)
 - Does Time with Dad in Childhood Pay Off in Adolescence? · [DOI](https://doi.org/10.1111/jomf.12676)
 - Does the Marriage Tax Differential Influence Same-Sex Couples' Marriage Decisions? · [DOI](https://doi.org/10.1111/jomf.12735)
 - Ethnic-Racial Socialization in the Family: A Decade's Advance on Precursors and Outcomes · [DOI](https://doi.org/10.1111/jomf.12622)
 - Explaining the Decline in Young Adult Sexual Activity in the United States · [DOI](https://doi.org/10.1111/jomf.12723)
 - Exploring the Mechanisms Through Which Social Ties Affect Fertility Decisions in Turkey · [DOI](https://doi.org/10.1111/jomf.12668)
 - Familial Incarceration, Social Role Combinations, and Mental Health Among African American Women · [DOI](https://doi.org/10.1111/jomf.12699)
+- Families Across the Income Spectrum: A Decade in Review · [DOI](https://doi.org/10.1111/jomf.12623)
+- Families in Later Life: A Decade in Review · [DOI](https://doi.org/10.1111/jomf.12609)
 - Family Forerunners? Parental Separation and Partnership Formation in 16 Countries · [DOI](https://doi.org/10.1111/jomf.12682)
 - Family Matters: Research on Family Ties and Health, 2010 to 2020 · [DOI](https://doi.org/10.1111/jomf.12640)
+- Family Policy and Complex Contemporary Families: A Decade in Review and Implications for the Next Decade of Research and Policy Practice · [DOI](https://doi.org/10.1111/jomf.12650)
 - Family Processes and Children's and Adolescents' Well-Being · [DOI](https://doi.org/10.1111/jomf.12637)
 - Family Relationships During Adolescence and Stepchilden's Educational Attainment in Young Adulthood · [DOI](https://doi.org/10.1111/jomf.12642)
 - Family Structure and Early Life Mortality in the United States · [DOI](https://doi.org/10.1111/jomf.12674)
@@ -501,6 +540,7 @@
 - Father Involvement and Socioeconomic Disparities in Child Academic Outcomes · [DOI](https://doi.org/10.1111/jomf.12666)
 - Fatherhood in Complex Families: Ties between Adult Children, Biological Fathers, and Stepfathers · [DOI](https://doi.org/10.1111/jomf.12679)
 - Gender and Changes in Household Wealth after the Dissolution of Marriage and Cohabitation in Germany · [DOI](https://doi.org/10.1111/jomf.12705)
+- Gender, Feminist, and Intersectional Perspectives on Families: A Decade in Review · [DOI](https://doi.org/10.1111/jomf.12638)
 - Harder Being Without the Baby: Fathers' Coparenting Perspectives in Responsible Fatherhood Programming · [DOI](https://doi.org/10.1111/jomf.12641)
 - I Might Stay to Myself: Activation and Avoidance of Assistance from Kin · [DOI](https://doi.org/10.1111/jomf.12680)
 - In the Hands of Women: Conditional Cash Transfers and Household Dynamics · [DOI](https://doi.org/10.1111/jomf.12684)
@@ -521,6 +561,7 @@
 - ParentWork-to-FamilyConflict and Child Psychological Well-Being: Moderating Role of Grandparent Coresidence · [DOI](https://doi.org/10.1111/jomf.12703)
 - Parental Relationship Churning and Adolescent Well-Being: Examining Instability Within Families · [DOI](https://doi.org/10.1111/jomf.12665)
 - Parenthood Wage Gaps Across the Life Course: A Comparison by Gender and Race · [DOI](https://doi.org/10.1111/jomf.12713)
+- Parenthood and Well‐Being: A Decade in Review · [DOI](https://doi.org/10.1111/jomf.12646)
 - Partner Incarceration and Women's Substance Use · [DOI](https://doi.org/10.1111/jomf.12659)
 - Partner Politics: How Partners Are Relevant to Voting · [DOI](https://doi.org/10.1111/jomf.12619)
 - Paternal Part-Time Employment and Fathers' Long-Term Involvement in Child Care and Housework · [DOI](https://doi.org/10.1111/jomf.12608)
@@ -539,12 +580,14 @@
 - Research on Marital Satisfaction and Stability in the 2010s: Challenging Conventional Wisdom · [DOI](https://doi.org/10.1111/jomf.12635)
 - Revisiting the Educational Gradient in Marriage in Japan · [DOI](https://doi.org/10.1111/jomf.12648)
 - Sexual Orientation, Geographic Proximity, and Contact Frequency Between Adult Siblings · [DOI](https://doi.org/10.1111/jomf.12669)
+- Sexual‐ and Gender‐Minority Families: A 2010 to 2020 Decade in Review · [DOI](https://doi.org/10.1111/jomf.12607)
 - Shared Children in Stepfamilies: Experiences Living in a Hybrid Family Structure · [DOI](https://doi.org/10.1111/jomf.12631)
 - Sibling Warmth Moderates the Intergenerational Transmission of Romantic Relationship Hostility · [DOI](https://doi.org/10.1111/jomf.12654)
 - Social Relationships and Loneliness in Late Adulthood: Disparities by Sexual Orientation · [DOI](https://doi.org/10.1111/jomf.12681)
 - Spanning Borders, Cultures, and Generations: A Decade of Research on Immigrant Families · [DOI](https://doi.org/10.1111/jomf.12621)
 - Spatial Distance Between Parents and Adult Children in the United States · [DOI](https://doi.org/10.1111/jomf.12606)
 - Stepparental Support to Adult Children: The Diverging Roles of Stepmothers and Stepfathers · [DOI](https://doi.org/10.1111/jomf.12599)
+- The Demography of Families: A Review of Patterns and Change · [DOI](https://doi.org/10.1111/jomf.12612)
 - The Effect of Expanded Parental Benefits on Union Dissolution · [DOI](https://doi.org/10.1111/jomf.12718)
 - The Evolution of Fathering Research in the 21st Century: Persistent Challenges, New Directions · [DOI](https://doi.org/10.1111/jomf.12645)
 - The Intergenerational Transmission of Socioeconomic Status in Stepfamilies: What Happens if Two Fathers Are Involved in the Transmission Process? · [DOI](https://doi.org/10.1111/jomf.12610)
@@ -560,6 +603,7 @@
 - When Family Property Becomes Individual Property: Intrahousehold Property Ownership and Women's Well-Being in China · [DOI](https://doi.org/10.1111/jomf.12658)
 - Who to Blame and How to Solve It: Mothers' Perceptions of Work-Family Conflict Across Western Policy Regimes · [DOI](https://doi.org/10.1111/jomf.12643)
 - With Greater Power Comes Greater Stress? Authority, Supervisor Support, and Work-Family Strains · [DOI](https://doi.org/10.1111/jomf.12714)
+- Work Schedule Unpredictability: Daily Occurrence and Effects on Working Parents' Well‐Being · [DOI](https://doi.org/10.1111/jomf.12696)
 - Work and Family in the Second Decade of the 21st Century · [DOI](https://doi.org/10.1111/jomf.12636)
 - Workplace Flexibility and Worker Well-Being by Gender · [DOI](https://doi.org/10.1111/jomf.12633)
 
@@ -951,9 +995,11 @@
 - Looking Forward in Candidate Gene Research: Concerns and Suggestions · [DOI](https://doi.org/10.1111/jomf.12165)
 - Marginal Structural Models: An Application to Incarceration and Marriage During Young Adulthood · [DOI](https://doi.org/10.1111/jomf.12159)
 - Maternal Work Absence: A Longitudinal Study of Language Impairment and Behavior Problems in Preschool Children · [DOI](https://doi.org/10.1111/jomf.12210)
+- Measuring Constructs in Family Science: How Can Item Response Theory Improve Precision and Validity? · [DOI](https://doi.org/10.1111/jomf.12157)
 - Minority Stress and Stress Proliferation Among Same-Sex and Other Marginalized Couples · [DOI](https://doi.org/10.1111/jomf.12160)
 - Multigenerational Punishment: Shared Experiences of Undocumented Immigration Status Within Mixed-Status Families · [DOI](https://doi.org/10.1111/jomf.12196)
 - Nonmarital Relationships and Changing Perceptions of Marriage Among African American Young Adults · [DOI](https://doi.org/10.1111/jomf.12209)
+- Parental Responsibilities: Dilemmas of Measurement and Gender Equality · [DOI](https://doi.org/10.1111/jomf.12148)
 - Parental Work Schedules and Child Overweight or Obesity: Does Family Structure Matter? · [DOI](https://doi.org/10.1111/jomf.12215)
 - Parenting Stress, Parental Reactions, and Externalizing Behavior From Ages 4 to 10 · [DOI](https://doi.org/10.1111/jomf.12163)
 - Parents' Death and Adult Well-being: Gender, Age, and Adaptation to Filial Bereavement · [DOI](https://doi.org/10.1111/jomf.12186)
@@ -1371,6 +1417,7 @@
 - Longitudinal Associations Between Husbands' and Wives' Depressive Symptoms · [DOI](https://doi.org/10.1111/j.1741-3737.2009.00688.x)
 - Marital Conflict Behaviors and Implications for Divorce Over 16 Years · [DOI](https://doi.org/10.1111/j.1741-3737.2010.00758.x)
 - Marriage and Child Well‐Being: Research and Policy Perspectives · [DOI](https://doi.org/10.1111/j.1741-3737.2010.00750.x)
+- Marriage in the New Millennium: A Decade in Review · [DOI](https://doi.org/10.1111/j.1741-3737.2010.00722.x)
 - Men's and Women's Pathways to Adulthood and Their Adolescent Precursors · [DOI](https://doi.org/10.1111/j.1741-3737.2010.00775.x)
 - Micro‐ and Macrolevel Determinants of Women's Employment in Six Arab Countries · [DOI](https://doi.org/10.1111/j.1741-3737.2010.00772.x)
 - Migration Decisions Within Dual‐Earner Partnerships: A Test of Bargaining Theory · [DOI](https://doi.org/10.1111/j.1741-3737.2010.00736.x)
@@ -2483,125 +2530,125 @@
 
 - Do Fertility Intentions Affect Fertility Behavior? · [DOI](https://doi.org/10.2307/353578)
 - Emotional Transmission in Couples Under Stress · [DOI](https://doi.org/10.2307/353881)
+- Emotional Transmission in the Daily Lives of Families: A New Paradigm for Studying Family Process · [DOI](https://doi.org/10.2307/353879)
 - Explaining the Higher Incidence of Adjustment Problems among Children of Divorce Compared with Those in Two-Parent Families · [DOI](https://doi.org/10.2307/354021)
+- Marital Strains and Marital Quality: The Role of High and Low Locus of Control · [DOI](https://doi.org/10.2307/353759)
 - Nonresident Fathers and Children's Well-Being: A Meta-Analysis · [DOI](https://doi.org/10.2307/353560)
+- Perceived Instrumental Support Exchanges in Relationships between Elderly Parents and Their Adult Children: Normative and Structural Explanations · [DOI](https://doi.org/10.2307/354006)
 - Playing All the Roles: Gender and the Work-Family Balancing Act · [DOI](https://doi.org/10.2307/353763)
 - Scaling Back: Dual-Earner Couples' Work-Family Strategies · [DOI](https://doi.org/10.2307/354019)
 - The Economic Risk of Childhood in America: Estimating the Probability of Poverty across the Formative Years · [DOI](https://doi.org/10.2307/354024)
 - The Micropolitics of Care in Relationships between Aging Parents and Adult Children: Individualism, Collectivism, and Power · [DOI](https://doi.org/10.2307/353568)
-- Emotional Transmission in the Daily Lives of Families: A New Paradigm for Studying Family Process · [DOI](https://doi.org/10.2307/353879)
 - The Timing of Childbearing and Women's Wages · [DOI](https://doi.org/10.2307/354020)
-- Marital Strains and Marital Quality: The Role of High and Low Locus of Control · [DOI](https://doi.org/10.2307/353759)
-- Perceived Instrumental Support Exchanges in Relationships between Elderly Parents and Their Adult Children: Normative and Structural Explanations · [DOI](https://doi.org/10.2307/354006)
 
 ## 1998
 
 - "They Think You Ain't Much of Nothing": The Social Construction of the Welfare Mother · [DOI](https://doi.org/10.2307/353629)
-- The Impact of Husbands' and Wives' Relative Earnings on Marital Disruption · [DOI](https://doi.org/10.2307/353538)
-- Interparental Conflict Styles and Youth Problem Behaviors: A Two-Sample Replication Study · [DOI](https://doi.org/10.2307/353446)
 - Do Safety Nets Work? The Role of Anticipated Help in Times of Need · [DOI](https://doi.org/10.2307/353636)
-- Sibling Resemblance in Behavioral and Cognitive Outcomes: The Role of Father Presence · [DOI](https://doi.org/10.2307/353628)
 - Husbands' and Wives' Resources and Marital Dissolution · [DOI](https://doi.org/10.2307/353537)
+- Interparental Conflict Styles and Youth Problem Behaviors: A Two-Sample Replication Study · [DOI](https://doi.org/10.2307/353446)
+- Sibling Resemblance in Behavioral and Cognitive Outcomes: The Role of Father Presence · [DOI](https://doi.org/10.2307/353628)
+- The Impact of Husbands' and Wives' Relative Earnings on Marital Disruption · [DOI](https://doi.org/10.2307/353538)
 
 ## 1997
 
 - Consequences of Young Mothers' Marital Histories for Children's Cognitive Development · [DOI](https://doi.org/10.2307/353468)
-- Gender, Status, and Domestic Violence: An Integration of Feminist and Family Violence Approaches · [DOI](https://doi.org/10.2307/353952)
 - Effectiveness of Prevention Programs for Adolescent Pregnancy: A Meta-Analysis · [DOI](https://doi.org/10.2307/353945)
-- What Did You Do Today? Children's Use of Time, Family Composition, and the Acquisition of Social Capital · [DOI](https://doi.org/10.2307/353474)
+- Gender, Status, and Domestic Violence: An Integration of Feminist and Family Violence Approaches · [DOI](https://doi.org/10.2307/353952)
 - Parents' Socioemotional Investment in Children · [DOI](https://doi.org/10.2307/353663)
 - The Effects of Age at Home Leaving and Pathways from Home on Educational Attainment · [DOI](https://doi.org/10.2307/353797)
+- What Did You Do Today? Children's Use of Time, Family Composition, and the Acquisition of Social Capital · [DOI](https://doi.org/10.2307/353474)
 
 ## 1996
 
+- An Examination of Parent-Child Shared Time · [DOI](https://doi.org/10.2307/353391)
 - Caring More or Less: Individualistic and Collectivist Systems of Family Eldercare · [DOI](https://doi.org/10.2307/353503)
+- Husbands' Participation in Domestic Labor: Interactive Effects of Wives' and Husbands' Gender Ideologies · [DOI](https://doi.org/10.2307/353719)
 - Living Separately as a Child-Care Strategy: Implications for Women's Work and Family in Urban Thailand · [DOI](https://doi.org/10.2307/353499)
+- Stress as a Driver of the Allocation of Housework · [DOI](https://doi.org/10.2307/353509)
 - The Life Course of Children Born to Unmarried Mothers: Childhood Living Arrangements and Young Adult Outcomes · [DOI](https://doi.org/10.2307/353496)
 - Too Much of a Good Thing? Intergenerational Social Support and the Psychological Well-Being of Older Parents · [DOI](https://doi.org/10.2307/353984)
-- Stress as a Driver of the Allocation of Housework · [DOI](https://doi.org/10.2307/353509)
-- An Examination of Parent-Child Shared Time · [DOI](https://doi.org/10.2307/353391)
-- Husbands' Participation in Domestic Labor: Interactive Effects of Wives' and Husbands' Gender Ideologies · [DOI](https://doi.org/10.2307/353719)
 
 ## 1995
 
 - A Controlled Parenting Skills Outcome Study Examining Individual Difference and Attendance Effects · [DOI](https://doi.org/10.2307/353698)
+- A Tutorial in Logistic Regression · [DOI](https://doi.org/10.2307/353415)
 - Belief and Behavior: Does Religion Matter in Today's Marriage? · [DOI](https://doi.org/10.2307/353921)
+- Beyond Drudgery, Power, and Equity: Toward an Expanded Discourse on the Moral Dimensions of Housework in Families · [DOI](https://doi.org/10.2307/353816)
 - Caregiver Burden: Differentiating the Content and Consequences of Family Caregiving · [DOI](https://doi.org/10.2307/353928)
 - Commitment and Dependency in Marriage · [DOI](https://doi.org/10.2307/353702)
 - Coping with the Dual-Income Lifestyle · [DOI](https://doi.org/10.2307/353819)
-- Marriage, Sex, and Mortality · [DOI](https://doi.org/10.2307/353703)
-- Understanding and Evaluating Qualitative Research · [DOI](https://doi.org/10.2307/353409)
-- Family Caregiving Systems: Models, Resources, and Values · [DOI](https://doi.org/10.2307/353826)
-- Beyond Drudgery, Power, and Equity: Toward an Expanded Discourse on the Moral Dimensions of Housework in Families · [DOI](https://doi.org/10.2307/353816)
 - Detecting and Correcting Attrition Bias in Longitudinal Family Research · [DOI](https://doi.org/10.2307/353412)
-- A Tutorial in Logistic Regression · [DOI](https://doi.org/10.2307/353415)
+- Family Caregiving Systems: Models, Resources, and Values · [DOI](https://doi.org/10.2307/353826)
+- Marriage, Sex, and Mortality · [DOI](https://doi.org/10.2307/353703)
 - Social Sources of Change in Children's Home Environments: The Effects of Parental Occupational Experiences and Family Conditions · [DOI](https://doi.org/10.2307/353817)
+- Understanding and Evaluating Qualitative Research · [DOI](https://doi.org/10.2307/353409)
 
 ## 1994
 
-- Physical Wife Abuse in a Non-Western Society: An Integrated Theoretical Approach · [DOI](https://doi.org/10.2307/352709)
 - Contextual Effects on the Sexual Behavior of Adolescent Women · [DOI](https://doi.org/10.2307/353107)
-- Interwoven Lives: Parents, Marriage, and Guanxi in China · [DOI](https://doi.org/10.2307/353592)
 - Filial Responsibility Expectations and Patterns of Intergenerational Assistance · [DOI](https://doi.org/10.2307/352867)
+- Interwoven Lives: Parents, Marriage, and Guanxi in China · [DOI](https://doi.org/10.2307/353592)
+- Physical Wife Abuse in a Non-Western Society: An Integrated Theoretical Approach · [DOI](https://doi.org/10.2307/352709)
 
 ## 1993
 
 - A Comparison of Voluntarily Childfree Adults and Parents · [DOI](https://doi.org/10.2307/353345)
 - American Family Decline, 1960-1990: A Review and Appraisal · [DOI](https://doi.org/10.2307/353333)
 - Care of the Elderly in Japan: Changing Norms and Expectations · [DOI](https://doi.org/10.2307/353340)
+- Childrearing Orientations in Mexican American Families: The Influence of Generation and Sociocultural Factors · [DOI](https://doi.org/10.2307/352778)
 - Family Support to Single and Married African American Mothers: The Provision of Financial, Emotional, and Child Care Assistance · [DOI](https://doi.org/10.2307/352800)
 - Grandparents Who Parent Their Grandchildren: Effects on Lifestyle · [DOI](https://doi.org/10.2307/353342)
 - Timing of Fatherhood: Is "On-Time" Optimal? · [DOI](https://doi.org/10.2307/352969)
-- Childrearing Orientations in Mexican American Families: The Influence of Generation and Sociocultural Factors · [DOI](https://doi.org/10.2307/352778)
 
 ## 1992
 
 - Educational Expansion and Changes in Women's Entry into Marriage and Motherhood in the Federal Republic of Germany · [DOI](https://doi.org/10.2307/353062)
+- International Perspectives on the Residential Mobility of America's Children · [DOI](https://doi.org/10.2307/353167)
+- Marriage Opportunities and Family Formation: Further Implications of Imbalanced Sex Ratios · [DOI](https://doi.org/10.2307/353075)
+- No Large Convergence during Marriage for Health, Lifestyle, and Personality in a Large Sample of Norwegian Spouses · [DOI](https://doi.org/10.2307/353175)
 - Short-Term Consequences of Parenting versus Adoption among Young Unmarried Women · [DOI](https://doi.org/10.2307/353277)
 - The Influence of Parents and Friends on the Quality and Stability of Romantic Relationships: A Three-Wave Longitudinal Investigation · [DOI](https://doi.org/10.2307/353170)
-- International Perspectives on the Residential Mobility of America's Children · [DOI](https://doi.org/10.2307/353167)
-- No Large Convergence during Marriage for Health, Lifestyle, and Personality in a Large Sample of Norwegian Spouses · [DOI](https://doi.org/10.2307/353175)
-- Marriage Opportunities and Family Formation: Further Implications of Imbalanced Sex Ratios · [DOI](https://doi.org/10.2307/353075)
 
 ## 1991
 
+- Determining Children's Home Environments: The Impact of Maternal Characteristics and Current Occupational and Family Conditions · [DOI](https://doi.org/10.2307/352909)
+- Effect of Economic Resources on Marital Quality in Black Married Couples · [DOI](https://doi.org/10.2307/352740)
+- Effects of Corporal Punishment, Perceived Caretaker Warmth, and Cultural Beliefs on the Psychological Adjustment of Children in St. Kitts, West Indies · [DOI](https://doi.org/10.2307/352743)
 - Fathers, Sons, and Daughters: Differential Paternal Involvement in Parenting · [DOI](https://doi.org/10.2307/352730)
 - Parental Divorce and Adult Well-Being: A Meta-Analysis · [DOI](https://doi.org/10.2307/353132)
-- Determining Children's Home Environments: The Impact of Maternal Characteristics and Current Occupational and Family Conditions · [DOI](https://doi.org/10.2307/352909)
-- Effects of Corporal Punishment, Perceived Caretaker Warmth, and Cultural Beliefs on the Psychological Adjustment of Children in St. Kitts, West Indies · [DOI](https://doi.org/10.2307/352743)
-- Effect of Economic Resources on Marital Quality in Black Married Couples · [DOI](https://doi.org/10.2307/352740)
 
 ## 1990
 
 - A Meta-Analytic Review of Family Structure Stereotypes · [DOI](https://doi.org/10.2307/353026)
+- Changing Patterns of Remarriage · [DOI](https://doi.org/10.2307/352939)
+- Family Ties, Friendships, and Subjective Well-Being among Black Americans · [DOI](https://doi.org/10.2307/353027)
+- Linking Economic Hardship to Marital Quality and Instability · [DOI](https://doi.org/10.2307/352931)
+- Marital Communication in the Eighties · [DOI](https://doi.org/10.2307/353305)
 - Parenting Styles, Drug Use, and Children's Adjustment in Families of Young Adults · [DOI](https://doi.org/10.2307/352849)
 - Quantitative Research on Marital Quality in the 1980s: A Critical Review · [DOI](https://doi.org/10.2307/353304)
-- Family Ties, Friendships, and Subjective Well-Being among Black Americans · [DOI](https://doi.org/10.2307/353027)
-- Marital Communication in the Eighties · [DOI](https://doi.org/10.2307/353305)
-- Linking Economic Hardship to Marital Quality and Instability · [DOI](https://doi.org/10.2307/352931)
 - Sons, Daughters, and Intergenerational Social Support · [DOI](https://doi.org/10.2307/353036)
-- Changing Patterns of Remarriage · [DOI](https://doi.org/10.2307/352939)
 
 ## 1989
 
 - Adolescent Violence toward Parents · [DOI](https://doi.org/10.2307/352169)
 - Gender in Families: Women and Men in Marriage, Work, and Parenthood · [DOI](https://doi.org/10.2307/353201)
 - Marital Satisfaction in Remarriage: A Meta-Analysis · [DOI](https://doi.org/10.2307/352170)
-- The Contagion of Stress across Multiple Roles · [DOI](https://doi.org/10.2307/352378)
-- Some Economic Complexities of Child Care Provided by Grandmothers · [DOI](https://doi.org/10.2307/352158)
 - Marital Status and Career Stage Influences on Social Networks of Young Adults · [DOI](https://doi.org/10.2307/352513)
+- Some Economic Complexities of Child Care Provided by Grandmothers · [DOI](https://doi.org/10.2307/352158)
+- The Contagion of Stress across Multiple Roles · [DOI](https://doi.org/10.2307/352378)
 
 ## 1988
 
 - A Generic Measure of Relationship Satisfaction · [DOI](https://doi.org/10.2307/352430)
 - Explaining Intergenerational Conflict When Adult Children and Elderly Parents Live Together · [DOI](https://doi.org/10.2307/352113)
 - Family Migration and Female Employment: The Problem of Underemployment among Migrant Married Women · [DOI](https://doi.org/10.2307/352436)
+- Fifty Years of Family Research, 1937-1987 · [DOI](https://doi.org/10.2307/351998)
 - Marital Strain, Coping, and Depression among Mexican-American Women · [DOI](https://doi.org/10.2307/352005)
 - Parental Self-Esteem and Its Relationship to Childrearing Practices, Parent-Adolescent Interaction, and Adolescent Behavior · [DOI](https://doi.org/10.2307/352115)
+- Quality of Family Life, Social Support, and Stress · [DOI](https://doi.org/10.2307/352427)
 - Sex Ratios, Economic Power, and Women's Roles: A Theoretical Extension and Empirical Test · [DOI](https://doi.org/10.2307/352424)
 - Work Role Characteristics, Family Structure Demands, and Work/Family Conflict · [DOI](https://doi.org/10.2307/352644)
-- Quality of Family Life, Social Support, and Stress · [DOI](https://doi.org/10.2307/352427)
-- Fifty Years of Family Research, 1937-1987 · [DOI](https://doi.org/10.2307/351998)
 
 ## 1987
 
@@ -2620,27 +2667,27 @@
 
 ## 1984
 
-- The Intergenerational Transmission of Marital Aggression · [DOI](https://doi.org/10.2307/351858)
 - Agreement, Understanding, Realization, and Feeling Understood as Predictors of Communicative Satisfaction in Marital Dyads · [DOI](https://doi.org/10.2307/352540)
+- Emotional and Sexual Components of Extramarital Relations · [DOI](https://doi.org/10.2307/351861)
+- The Intergenerational Transmission of Marital Aggression · [DOI](https://doi.org/10.2307/351858)
 - The Social and Demographic Correlates of Divorce and Separation in the United States: An Update and Reconsideration · [DOI](https://doi.org/10.2307/352598)
 - WASP (Wives as Senior Partners) · [DOI](https://doi.org/10.2307/352534)
-- Emotional and Sexual Components of Extramarital Relations · [DOI](https://doi.org/10.2307/351861)
 
 ## 1983
 
-- Age at Marriage, Role Enactment, Role Consensus, and Marital Satisfaction · [DOI](https://doi.org/10.2307/351792)
 - A Family Life-Cycle Approach to the Socioeconomic Attainment of Working Women · [DOI](https://doi.org/10.2307/351511)
+- Age at Marriage, Role Enactment, Role Consensus, and Marital Satisfaction · [DOI](https://doi.org/10.2307/351792)
 - CHIP. Coping Health Inventory for Parents: An Assessment of Parental Coping Patterns in the Care of the Chronically Ill Child · [DOI](https://doi.org/10.2307/351514)
+- Dysfunction and Failure in Open Family Systems, I: Application of a Unified Theory · [DOI](https://doi.org/10.2307/351786)
 - Mothers and Mothers-in-Law · [DOI](https://doi.org/10.2307/351307)
 - Social Support and Adaptation to Widowhood · [DOI](https://doi.org/10.2307/351795)
-- Dysfunction and Failure in Open Family Systems, I: Application of a Unified Theory · [DOI](https://doi.org/10.2307/351786)
 
 ## 1982
 
 - Adult Role Transitions, Parental Influence, and Status Aspirations Early in the Life Course · [DOI](https://doi.org/10.2307/351261)
 - Decision Making in Intergenerational Puerto Rican Families · [DOI](https://doi.org/10.2307/351584)
-- Sampling Issues in Family Research · [DOI](https://doi.org/10.2307/351457)
 - Life Course Analysis and Multistate Demography: An Application to Marriage, Divorce, and Remarriage · [DOI](https://doi.org/10.2307/351461)
+- Sampling Issues in Family Research · [DOI](https://doi.org/10.2307/351457)
 - Transmission of Religious and Social Values from Parents to Teenage Children · [DOI](https://doi.org/10.2307/351580)
 
 ## 1981
@@ -2654,15 +2701,15 @@
 
 ## 1979
 
+- Implementation of a National Family Policy: The Role of the Social Scientist · [DOI](https://doi.org/10.2307/351618)
 - Measuring Intrafamily Conflict and Violence: The Conflict Tactics (CT) Scales · [DOI](https://doi.org/10.2307/351733)
 - Measuring Marital Satisfaction in Three Generations: Positive and Negative Dimensions · [DOI](https://doi.org/10.2307/351705)
-- Implementation of a National Family Policy: The Role of the Social Scientist · [DOI](https://doi.org/10.2307/351618)
 
 ## 1977
 
 - A Clarification of the Concept of Psychological Father Presence in Families Experiencing Ambiguity of Boundary · [DOI](https://doi.org/10.2307/351070)
-- Updating the Life Cycle of the Family · [DOI](https://doi.org/10.2307/351058)
 - Do Family Ties Reduce Mortality? Evidence from the United States, 1966-1968 · [DOI](https://doi.org/10.2307/350478)
+- Updating the Life Cycle of the Family · [DOI](https://doi.org/10.2307/351058)
 - Who Adopts: The Relationship of Adoption and Social-Demographic Characteristics of Women · [DOI](https://doi.org/10.2307/351125)
 
 ## 1976
@@ -2688,14 +2735,14 @@
 
 ## 1970
 
-- Satisfaction with Various Aspects of Marriage over the Life Cycle: A Random Middle Class Sample · [DOI](https://doi.org/10.2307/349968)
 - Marital Happiness and Stability: A Review of the Research in the Sixties · [DOI](https://doi.org/10.2307/350251)
+- Satisfaction with Various Aspects of Marriage over the Life Cycle: A Random Middle Class Sample · [DOI](https://doi.org/10.2307/349968)
 
 ## 1969
 
 - Familial Behavior as Social Exchange · [DOI](https://doi.org/10.2307/349775)
-- Occupational Characteristics and Males' Role Performance in the Family · [DOI](https://doi.org/10.2307/349312)
 - Life Plans and Marriage Age: An Application of Path Analysis · [DOI](https://doi.org/10.2307/349780)
+- Occupational Characteristics and Males' Role Performance in the Family · [DOI](https://doi.org/10.2307/349312)
 
 ## 1968
 
@@ -2709,6 +2756,6 @@
 
 ## 1965
 
+- Intergenerational Relations: Perspectives of the Two Generations on the Older Parent · [DOI](https://doi.org/10.2307/350186)
 - Maternal Deprivation: The Research and Its Implications · [DOI](https://doi.org/10.2307/350276)
 - Writing for Newspapers and Magazines · [DOI](https://doi.org/10.2307/350202)
-- Intergenerational Relations: Perspectives of the Two Generations on the Older Parent · [DOI](https://doi.org/10.2307/350186)

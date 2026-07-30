@@ -1830,7 +1830,7 @@
 ### The Legacy and Future of the European Sociological Review: An Editorial Comment
 **年份**: 2013 | **DOI**: [10.1093/esr/jct032](https://doi.org/10.1093/esr/jct032)
 **作者**: Mills, M.
-**摘要**: Journal Article The Legacy and Future of the European Sociological Review: An Editorial Comment Get access Melinda Mills Melinda Mills University of Groningen Groningen, The NetherlandsEmail: m.c.mills@rug.nl Search for other works by this author on: Oxford Academic Google Scholar European Sociologi…
+**摘要**: Journal Article The Legacy and Future of the European Sociological Review: An Editorial Comment Get access Melinda Mills Melinda Mills University of Groningen Groningen, The NetherlandsEmail: [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar European So…
 
 ### The Origins of Generalized and Political Trust among Immigrant Minorities and the Majority Population in the Netherlands
 **年份**: 2013 | **DOI**: [10.1093/esr/jct018](https://doi.org/10.1093/esr/jct018)

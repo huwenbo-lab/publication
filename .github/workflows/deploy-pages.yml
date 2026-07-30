@@ -32,19 +32,25 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: python -m pip install --upgrade pip xlrd
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
 
       - name: Build derived site data
         run: |
           python scripts/build_article_api.py
           python scripts/build_lit_db.py
           python scripts/build_search_db.py
+          python scripts/check_release.py --with-generated
+
+      - name: Compress browser search database
+        run: gzip -9 -c literature.db > literature.db.gz
 
       - name: Assemble site bundle
         run: |
           mkdir -p site
-          cp index.html app.js style.css opensearch.xml .nojekyll site/
-          cp data.json literature.db site/
+          cp index.html app.js style.css favicon.svg opensearch.xml .nojekyll site/
+          cp data.json literature.db.gz site/
           cp -R api site/
           cp -R lit_db site/
           cp -R vendor site/

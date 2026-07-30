@@ -193,7 +193,7 @@ function safeJournalFilename(name) {
 
 function getPeriodKey(year) {
     const numericYear = Number(year || 0);
-    if (numericYear >= 2020 && numericYear <= 2026) return "2020_2026";
+    if (numericYear >= 2020) return "2020_present";
     if (numericYear >= 2010 && numericYear <= 2019) return "2010_2019";
     if (numericYear >= 2000 && numericYear <= 2009) return "2000_2009";
     return "";
@@ -201,6 +201,16 @@ function getPeriodKey(year) {
 
 function buildRepoRawUrl(relativePath) {
     return `${RAW_BASE}/${relativePath}`;
+}
+
+function encodeArticleApiPathSegment(segment) {
+    // Match urllib.parse.quote(..., safe="._-~") for the physical filename,
+    // then escape the literal percent signs once more for the public URL.
+    const filenameSegment = encodeURIComponent(segment).replace(
+        /[!'()*]/g,
+        (character) => `%${character.charCodeAt(0).toString(16).toUpperCase()}`,
+    );
+    return encodeURIComponent(filenameSegment);
 }
 
 function buildArticleApiPath(doi) {
@@ -211,7 +221,10 @@ function buildArticleApiPath(doi) {
     if (!clean) {
         return "";
     }
-    const segments = clean.split("/").filter(Boolean).map((segment) => encodeURIComponent(segment));
+    const segments = clean
+        .split("/")
+        .filter(Boolean)
+        .map(encodeArticleApiPathSegment);
     if (!segments.length) {
         return "";
     }
@@ -996,6 +1009,21 @@ function loadClientPreferences() {
     loadSyncSettings();
     const storedTheme = readStorage(THEME_STORAGE_KEY);
     applyTheme(storedTheme === "dark" || storedTheme === "light" ? storedTheme : detectPreferredTheme());
+    const initialQuery = new URL(window.location.href).searchParams.get("q");
+    if (initialQuery) {
+        app.state.q = initialQuery.trim();
+    }
+}
+
+function syncSearchUrl() {
+    const url = new URL(window.location.href);
+    const query = app.state.q.trim();
+    if (query) {
+        url.searchParams.set("q", query);
+    } else {
+        url.searchParams.delete("q");
+    }
+    window.history.replaceState({}, "", `${url.pathname}${url.search}${url.hash}`);
 }
 
 async function fetchJsonResource(relativePath) {
@@ -1013,11 +1041,21 @@ async function initSqliteEngine() {
     const SQL = await initSqlJs({
         locateFile: (file) => `${SQL_JS_BASE}/${file}`,
     });
-    const response = await fetch("literature.db");
-    if (!response.ok) {
-        throw new Error(`literature.db unavailable (${response.status})`);
+    let bytes;
+    if (typeof DecompressionStream === "function") {
+        const compressedResponse = await fetch("literature.db.gz");
+        if (compressedResponse.ok && compressedResponse.body) {
+            const stream = compressedResponse.body.pipeThrough(new DecompressionStream("gzip"));
+            bytes = new Uint8Array(await new Response(stream).arrayBuffer());
+        }
     }
-    const bytes = new Uint8Array(await response.arrayBuffer());
+    if (!bytes) {
+        const response = await fetch("literature.db");
+        if (!response.ok) {
+            throw new Error(`browser search database unavailable (${response.status})`);
+        }
+        bytes = new Uint8Array(await response.arrayBuffer());
+    }
     app.db = new SQL.Database(bytes);
     app.dbColumns = new Set(queryDb("PRAGMA table_info(articles)").map((row) => row.name));
     app.meta = loadMetaFromDb();
@@ -1870,6 +1908,7 @@ async function setView(view) {
 
 async function updateSearchFromInput() {
     app.state.q = dom.searchInput.value;
+    syncSearchUrl();
     resetResultWindow();
     await renderAll();
 }
@@ -2189,6 +2228,7 @@ function bindEvents() {
         }
         app.state.q = button.dataset.authorName;
         app.state.searchMode = "author";
+        syncSearchUrl();
         resetResultWindow();
         await setView("main");
         dom.searchInput.focus();

@@ -20,7 +20,6 @@ from _paths import REPORTS_DIR, ROOT
 
 ARTICLES_JSON = ROOT / "articles.json"
 DATA_JSON = ROOT / "data.json"
-DATA_JS = ROOT / "data.js"
 BACKUPS_DIR = ROOT / "backups"
 EXPORTS_DIR = ROOT / "exports"
 
@@ -136,7 +135,6 @@ def write_legacy_files(articles):
         "DOI": article.get("doi", ""),
     } for article in articles]
     DATA_JSON.write_text(json.dumps(legacy, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    DATA_JS.write_text("const DATA = " + json.dumps(legacy, ensure_ascii=False, indent=2) + ";\n", encoding="utf-8")
 
 
 def write_csv(path, rows):

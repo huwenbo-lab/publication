@@ -1,7 +1,7 @@
 # Social Forces
 ## 2010–2019 年文章（含摘要）
 
-共 **652** 篇
+共 **661** 篇
 
 ---
 
@@ -280,6 +280,11 @@
 **作者**: Malin, Stephanie A.; Opsal, Tara; Shelley, Tara O'Connor 等4人
 **摘要**: Recent technological innovations in unconventional oil and gas (UOG) production have transformed the global energy landscape. The combination of hydraulic fracturing-commonly referred to as fracking-with horizontal drilling in shale plays across the United States has made the nation the top producer…
 
+### The Spectre of Race: How Discrimination Haunts Western Democracy
+**年份**: 2019 | **DOI**: [10.1093/sf/soz035](https://doi.org/10.1093/sf/soz035)
+**作者**: Winant, Howard
+**摘要**: Among the social science disciplines, political science has one of the more dismal records when it comes to explaining race and racism. Sociology, anthropology, psychology, and indeed history have all done better.…
+
 ### The Transmission of Multigenerational Educational Inequality
 **年份**: 2019 | **DOI**: [10.1093/sf/soy090](https://doi.org/10.1093/sf/soy090)
 **作者**: Fiel, Jeremy E.
@@ -319,6 +324,11 @@
 **年份**: 2019 | **DOI**: [10.1093/sf/soy076](https://doi.org/10.1093/sf/soy076)
 **作者**: Pandian, Roshan K.
 **摘要**: Scholars of world society theory argue that integration in global society is important for shaping national outcomes related to gender relations, but past research has not examined how global society shapes individual gender attitudes.…
+
+### “Bargaining with Patriarchy” and “Bad Girl Femininity”: Relationship and Behaviors among Chicago Girl Gangs, 1959–62
+**年份**: 2019 | **DOI**: [10.1093/sf/soz002](https://doi.org/10.1093/sf/soz002)
+**作者**: Hughes, Lorine A; Botchkovar, Ekaterina V; Short, James F
+**摘要**: AbstractThis study uses observational, social network, and self-report survey data from a large study of male gangs in Chicago, 1959–62, to examine intragroup relationships and behaviors among their female auxiliaries, particularly the Vice Ladies and Cobraettes.…
 
 ### A Dynamic Model of Self-Employment and Socioeconomic Mobility Among Return Migrants: The Case of Urban Mexico
 **年份**: 2018 | **DOI**: [10.1093/sf/sox095](https://doi.org/10.1093/sf/sox095)
@@ -965,6 +975,11 @@
 **作者**: Zhang, Jiayin; Zuckerman, Ezra W.; Obukhova, Elena
 **摘要**: Past research demonstrates a marked tendency toward acculturative conservatism, whereby immigrants select given names for their children that are established-that is, popular in an earlier generation of the native population.…
 
+### African Immigrant Families in Another France
+**年份**: 2016 | **DOI**: [10.1093/sf/sow037](https://doi.org/10.1093/sf/sow037)
+**作者**: Thomas, Dominic
+**摘要**: The terrorist attacks that occurred in France during 2015 brought additional attention to the major challenges confronting this former colonial power. Indeed, if the 2005 riots and uprisings—which coincide with the beginning of Loretta Bass’s study—revealed profound social inequities in French socie…
+
 ### Alcohol's Collateral Damage: Childhood Exposure to Problem Drinkers and Subsequent Adult Mortality Risk
 **年份**: 2016 | **DOI**: [10.1093/sf/sow074](https://doi.org/10.1093/sf/sow074)
 **作者**: Rogers, Richard G.; Lawrence, Elizabeth M.; Montez, Jennifer Karas
@@ -1014,6 +1029,11 @@
 **年份**: 2016 | **DOI**: [10.1093/sf/sov102](https://doi.org/10.1093/sf/sov102)
 **作者**: Headworth, Spencer; Freese, Jeremy
 **摘要**: Using data on the population of US sociology doctorates over a five-year period, we examine different predictors of placement in research-oriented, tenure-track academic sociology jobs.…
+
+### Dealing in Desire: Asian Ascendancy, Western Decline, and the Hidden Currencies of Global Sex Work
+**年份**: 2016 | **DOI**: [10.1093/sf/sow030](https://doi.org/10.1093/sf/sow030)
+**作者**: Brents, Barbara G.
+**摘要**: Few books weave so many important sociological questions into one compelling and readable narrative. Dealing in Desire: Asian Ascendancy, Western Decline and the Hidden Currencies of Global Sex Work is one of those that successfully pulls together insights on the political economy of globalization, …
 
 ### Delayed Disadvantage: Neighborhood Context and Child Development
 **年份**: 2016 | **DOI**: [10.1093/sf/sow020](https://doi.org/10.1093/sf/sow020)
@@ -1070,6 +1090,11 @@
 **作者**: Browning, Christopher R.; Dirlam, Jonathan; Boettner, Bethany
 **摘要**: Latino immigrant presence in urban neighborhoods has been linked with reduced neighborhood cohesion in social disorganization-based ethnic heterogeneity hypotheses and enhanced cohesion in immigration revitalization approaches.…
 
+### Geisha of a Different Kind: Race and Sexuality in Gaysian America
+**年份**: 2016 | **DOI**: [10.1093/sf/sow007](https://doi.org/10.1093/sf/sow007)
+**作者**: Eguchi, Shinsuke
+**摘要**: CWinter Han examines negotiations of identity and practices of belonging among gay Asian American men in a book titled Geisha of a Different ’.Kind: Race and Sexuality in Gaysian America.…
+
 ### Gender, Rural-Urban Inequality, and Intermarriage in China
 **年份**: 2016 | **DOI**: [10.1093/sf/sow076](https://doi.org/10.1093/sf/sow076)
 **作者**: Lui, Lake
@@ -1100,10 +1125,20 @@
 **作者**: Cole, Wade M.
 **摘要**: This study analyzes patterns of cross-cultural variability and convergence in two categories of human rights: bodily integrity (protection from torture, extrajudicial killing, and other forms of physical repression) and civil liberties (the freedoms of expression, assembly, movement, and religion).…
 
+### Insufficient Funds: The Culture of Money in Low-Wage Transnational Families
+**年份**: 2016 | **DOI**: [10.1093/sf/sow014](https://doi.org/10.1093/sf/sow014)
+**作者**: Le, Andrew N.
+**摘要**: Transnationalism has been a burgeoning topic of inquiry across the social sciences. Scholars use the transnational framework to study a multitude of different migration processes across time and space. The sheer mass of studies gives the impression that there is little if anything original to say.…
+
 ### Life Chances: Labor Rights, International Institutions, and Worker Fatalities in the Global South
 **年份**: 2016 | **DOI**: [10.1093/sf/sow050](https://doi.org/10.1093/sf/sow050)
 **作者**: Kerrissey, Jasmine; Schuhrke, Jeff
 **摘要**: Hundreds of thousands of workers die on the job each year around the world, with disproportionately high fatality rates in the global South. Using fixed effects regression models for 51 countries located in the global South, this research examines how shifts in state context, ties to international o…
+
+### Looking Behind the Label: Global Industries and the Conscientious Consumer
+**年份**: 2016 | **DOI**: [10.1093/sf/sow017](https://doi.org/10.1093/sf/sow017)
+**作者**: Welch, Daniel
+**摘要**: Looking Behind the Label is an important contribution to the literature on ethical consumption or political consumerism, and, more broadly, will be of interest to scholars and students of consumption, social movements, and global value chains.…
 
 ### Lost Letters in Dutch Neighborhoods: A Field Experiment on Collective Efficacy
 **年份**: 2016 | **DOI**: [10.1093/sf/sov106](https://doi.org/10.1093/sf/sov106)
@@ -1175,6 +1210,11 @@
 **作者**: Bloemraad, Irene; Silva, Fabiana; Voss, Kim
 **摘要**: Although social movement scholars in the United States have long ignored activism over immigration, this movement raises important theoretical and empirical questions, especially given many immigrants' lack of citizenship.…
 
+### Robust Null Findings on Offspring Sex and Political Orientation
+**年份**: 2016 | **DOI**: [10.1093/sf/sow068](https://doi.org/10.1093/sf/sow068)
+**作者**: Lee, Byungkyu; Conley, Dalton
+**摘要**: In an earlier paper, we deployed the European Social Survey (ESS) and the General Social Survey (GSS) to conduct the largest analysis to date examining the question of whether child sex affects parent political orientation. We found null effects in contrast to earlier, smaller studies.…
+
 ### Seen Like a State: How Illegitimacy Shapes Terrorism Designation
 **年份**: 2016 | **DOI**: [10.1093/sf/sov083](https://doi.org/10.1093/sf/sov083)
 **作者**: Chou, Winston
@@ -1199,6 +1239,11 @@
 **年份**: 2016 | **DOI**: [10.1093/sf/sow034](https://doi.org/10.1093/sf/sow034)
 **作者**: Glass, Jennifer L.; Noonan, Mary C.
 **摘要**: While flexibility in the location of work hours has shown positive organizational effects on productivity and retention, less is known about the earnings effects of telecommuting. We analyze weekly hours spent working from home using the 1989-2008 panels of the National Longitudinal Study of Youth.…
+
+### The Argentine Silent Majority: Middle Classes, Politics, Violence, and Memory in the Seventies
+**年份**: 2016 | **DOI**: [10.1093/sf/sow028](https://doi.org/10.1093/sf/sow028)
+**作者**: Hau, Matthias vom
+**摘要**: In the 1970s, Argentina witnessed guerrilla movements, military authoritarianism, and state terror. While these years of la violencia have been the subject of a burgeoning scholarship, most works have focused on politicized actors, whether radicalized youths, revolutionaries or intellectual elites, …
 
 ### The Dynamics of Prosocial Leadership: Power and Influence in Collective Action Groups
 **年份**: 2016 | **DOI**: [10.1093/sf/sov110](https://doi.org/10.1093/sf/sov110)
@@ -1264,6 +1309,11 @@
 **年份**: 2016 | **DOI**: [10.1093/sf/sow080](https://doi.org/10.1093/sf/sow080)
 **作者**: Aassve, Arnstein; Billari, Francesco C.; Pessin, Lea
 **摘要**: We argue that the divergence in fertility trends in advanced societies is influenced by the interaction of long-standing differences in generalized trust with the increase in women's educational attainment.…
+
+### Unequal Time: Gender, Class, and Family in Employment Schedules
+**年份**: 2016 | **DOI**: [10.1093/sf/sow019](https://doi.org/10.1093/sf/sow019)
+**作者**: Reynolds, Jeremy
+**摘要**: Journal Article Unequal Time: Gender, Class, and Family in Employment Schedules Get access Unequal Time: Gender, Class, and Family in Employment Schedules By Dan Clawson and Naomi Gerstel Russell Sage Foundation. 2014. 340 pp. $35 paper.…
 
 ### Who in the World Cares? Gender Gaps in Attitudes toward Support for Older Adults in 20 Nations
 **年份**: 2016 | **DOI**: [10.1093/sf/sow049](https://doi.org/10.1093/sf/sow049)
@@ -1631,7 +1681,7 @@
 ### Consumption as a Source of Social Change
 **年份**: 2014 | **DOI**: [10.1093/sf/sou001](https://doi.org/10.1093/sf/sou001)
 **作者**: Hirschle, J.
-**摘要**: Journal Article Consumption as a Source of Social Change Get access Jochen Hirschle Jochen Hirschle University of Innsbruck jochen.hirschle@uibk.ac.at Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 92, Issue 4, June 2014, Pages 1405–1433, https://doi.o…
+**摘要**: Journal Article Consumption as a Source of Social Change Get access Jochen Hirschle Jochen Hirschle University of Innsbruck [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 92, Issue 4, June 2014, Pages 1405–1433, https://doi.org/…
 
 ### Convergence and Divergence in Renewable Energy Policy among US States from 1998 to 2011
 **年份**: 2014 | **DOI**: [10.1093/sf/sou011](https://doi.org/10.1093/sf/sou011)
@@ -1646,7 +1696,7 @@
 ### Diffusing through Disciplines: Insiders, Outsiders, and Socially Influenced Citation Behavior
 **年份**: 2014 | **DOI**: [10.1093/sf/sou069](https://doi.org/10.1093/sf/sou069)
 **作者**: Lynn, Freda B.
-**摘要**: Journal Article Diffusing through Disciplines: Insiders, Outsiders, and Socially Influenced Citation Behavior Get access Freda B. Lynn Freda B. Lynn University of Iowa freda-lynn@uiowa.edu Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 93, Issue 1, Sep…
+**摘要**: Journal Article Diffusing through Disciplines: Insiders, Outsiders, and Socially Influenced Citation Behavior Get access Freda B. Lynn Freda B. Lynn University of Iowa [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 93, Issue 1, …
 
 ### Earnings Equality and Relationship Stability for Same-Sex and Heterosexual Couples
 **年份**: 2014 | **DOI**: [10.1093/sf/sou065](https://doi.org/10.1093/sf/sou065)
@@ -1656,12 +1706,12 @@
 ### Explaining Pay Disparities between Top Executives and Nonexecutive Employees: A Relative Bargaining Power Approach
 **年份**: 2014 | **DOI**: [10.1093/sf/sou004](https://doi.org/10.1093/sf/sou004)
 **作者**: Shin, Taekjin
-**摘要**: Journal Article Explaining Pay Disparities between Top Executives and Nonexecutive Employees: A Relative Bargaining Power Approach Get access Taekjin Shin Taekjin Shin University of Illinois at Urbana-Champaign tshin@illinois.edu Search for other works by this author on: Oxford Academic Google Schol…
+**摘要**: Journal Article Explaining Pay Disparities between Top Executives and Nonexecutive Employees: A Relative Bargaining Power Approach Get access Taekjin Shin Taekjin Shin University of Illinois at Urbana-Champaign [contact email removed] Search for other works by this author on: Oxford Academic Google …
 
 ### Finding Common Ground? Indian Immigrants and Asian American Panethnicity
 **年份**: 2014 | **DOI**: [10.1093/sf/sou019](https://doi.org/10.1093/sf/sou019)
 **作者**: Schachter, A.
-**摘要**: Journal Article Finding Common Ground? Indian Immigrants and Asian American Panethnicity Get access Ariela Schachter Ariela Schachter Stanford University arielas1@stanford.edu Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 92, Issue 4, June 2014, Pages…
+**摘要**: Journal Article Finding Common Ground? Indian Immigrants and Asian American Panethnicity Get access Ariela Schachter Ariela Schachter Stanford University [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 92, Issue 4, June 2014, Pag…
 
 ### Foreign Direct Investment and Economic Growth: New Evidence from Post-Socialist Transition Countries
 **年份**: 2014 | **DOI**: [10.1093/sf/sot128](https://doi.org/10.1093/sf/sot128)
@@ -1715,7 +1765,7 @@
 ### Marriage, Gender, and Class: The Effects of Partner Resources on Unemployment Exit in Germany
 **年份**: 2014 | **DOI**: [10.1093/sf/sot130](https://doi.org/10.1093/sf/sot130)
 **作者**: Jacob, M.; Kleinert, C.
-**摘要**: Journal Article Marriage, Gender, and Class: The Effects of Partner Resources on Unemployment Exit in Germany Get access Marita Jacob, Marita Jacob University of Cologne Email: marita.jacob@uni-koeln.de.…
+**摘要**: Journal Article Marriage, Gender, and Class: The Effects of Partner Resources on Unemployment Exit in Germany Get access Marita Jacob, Marita Jacob University of Cologne Email: [contact email removed].…
 
 ### Maternal Education and the Unequal Significance of Family Structure for Children's Early Achievement
 **年份**: 2014 | **DOI**: [10.1093/sf/sou072](https://doi.org/10.1093/sf/sou072)
@@ -1844,7 +1894,7 @@
 ### The Scarring Effects of Primary-Grade Retention? A Study of Cumulative Advantage in the Educational Career
 **年份**: 2014 | **DOI**: [10.1093/sf/sou074](https://doi.org/10.1093/sf/sou074)
 **作者**: Andrew, M.
-**摘要**: Journal Article The Scarring Effects of Primary-Grade Retention? A Study of Cumulative Advantage in the Educational Career Get access Megan Andrew Megan Andrew University of Notre Dame Email: andrew.8@nd.edu.…
+**摘要**: Journal Article The Scarring Effects of Primary-Grade Retention? A Study of Cumulative Advantage in the Educational Career Get access Megan Andrew Megan Andrew University of Notre Dame Email: [contact email removed].…
 
 ### The Toxicity of Torture: The Cultural Structure of US Political Discourse of Waterboarding
 **年份**: 2014 | **DOI**: [10.1093/sf/sou060](https://doi.org/10.1093/sf/sou060)
@@ -1854,7 +1904,7 @@
 ### Volunteering over the Life Course
 **年份**: 2014 | **DOI**: [10.1093/sf/sou090](https://doi.org/10.1093/sf/sou090)
 **作者**: Lancee, B.; Radl, J.
-**摘要**: Journal Article Volunteering over the Life Course Get access Bram Lancee, Bram Lancee Utrecht University b.lancee@uu.nl Search for other works by this author on: Oxford Academic Google Scholar Jonas Radl Jonas Radl Universidad Nacional de Educación a Distancia Search for other works by this author o…
+**摘要**: Journal Article Volunteering over the Life Course Get access Bram Lancee, Bram Lancee Utrecht University [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Jonas Radl Jonas Radl Universidad Nacional de Educación a Distancia Search for other works by this…
 
 ### What Makes Muslims Feel French?
 **年份**: 2014 | **DOI**: [10.1093/sf/sou064](https://doi.org/10.1093/sf/sou064)
@@ -1951,7 +2001,7 @@
 ### Double Time: Is Health Affected by a Spouse's Time at Work?
 **年份**: 2013 | **DOI**: [10.1093/sf/sot125](https://doi.org/10.1093/sf/sot125)
 **作者**: Kleiner, S.; Pavalko, E. K.
-**摘要**: Journal Article Double Time: Is Health Affected by a Spouse's Time at Work? Get access Sibyl Kleiner, Sibyl Kleiner Department of Public Affairs and Sociology, The University of Texas at Dallas sibyl@utdallas.edu Search for other works by this author on: Oxford Academic Google Scholar Eliza K.…
+**摘要**: Journal Article Double Time: Is Health Affected by a Spouse's Time at Work? Get access Sibyl Kleiner, Sibyl Kleiner Department of Public Affairs and Sociology, The University of Texas at Dallas [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Eliza K.…
 
 ### Economic Elites, Investments, and Income Inequality
 **年份**: 2013 | **DOI**: [10.1093/sf/sot102](https://doi.org/10.1093/sf/sot102)
@@ -1976,7 +2026,7 @@
 ### Evicting Children
 **年份**: 2013 | **DOI**: [10.1093/sf/sot047](https://doi.org/10.1093/sf/sot047)
 **作者**: Desmond, M.; An, W.; Winkler, R. 等4人
-**摘要**: Journal Article Evicting Children Get access Matthew Desmond, Matthew Desmond Harvard University mdesmond@fas.harvard.edu Search for other works by this author on: Oxford Academic Google Scholar Weihua An, Weihua An Indiana University Search for other works by this author on: Oxford Academic Google …
+**摘要**: Journal Article Evicting Children Get access Matthew Desmond, Matthew Desmond Harvard University [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Weihua An, Weihua An Indiana University Search for other works by this author on: Oxford Academic Google S…
 
 ### Friends as a Bridge to Parental Influence: Implications for Adolescent Alcohol Use
 **年份**: 2013 | **DOI**: [10.1093/sf/sot117](https://doi.org/10.1093/sf/sot117)
@@ -2000,12 +2050,12 @@
 ### Hidden Paths from Morality to Cooperation: Moral Judgments Promote Trust and Trustworthiness
 **年份**: 2013 | **DOI**: [10.1093/sf/sot015](https://doi.org/10.1093/sf/sot015)
 **作者**: Simpson, B.; Harrell, A.; Willer, R.
-**摘要**: Journal Article Hidden Paths from Morality to Cooperation: Moral Judgments Promote Trust and Trustworthiness Get access Brent Simpson, Brent Simpson University of South Carolina bts@sc.edu Search for other works by this author on: Oxford Academic Google Scholar Ashley Harrell, Ashley Harrell Univers…
+**摘要**: Journal Article Hidden Paths from Morality to Cooperation: Moral Judgments Promote Trust and Trustworthiness Get access Brent Simpson, Brent Simpson University of South Carolina [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Ashley Harrell, Ashley Ha…
 
 ### Hierarchical Structure and Gender Dissimilarity in American Legal Labor Markets
 **年份**: 2013 | **DOI**: [10.1093/sf/sot110](https://doi.org/10.1093/sf/sot110)
 **作者**: Dinovitzer, R.; Hagan, J.
-**摘要**: Journal Article Hierarchical Structure and Gender Dissimilarity in American Legal Labor Markets Get access Ronit Dinovitzer, Ronit Dinovitzer University of Toronto and American Bar Foundation ronit.dinovitzer@utoronto.ca Search for other works by this author on: Oxford Academic Google Scholar John H…
+**摘要**: Journal Article Hierarchical Structure and Gender Dissimilarity in American Legal Labor Markets Get access Ronit Dinovitzer, Ronit Dinovitzer University of Toronto and American Bar Foundation [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar John Hagan …
 
 ### Ideological Wage Inequalities? The Technical/Social Dualism and the Gender Wage Gap in Engineering
 **年份**: 2013 | **DOI**: [10.1093/sf/sot024](https://doi.org/10.1093/sf/sot024)
@@ -2100,7 +2150,7 @@
 ### Status, Numbers and Influence
 **年份**: 2013 | **DOI**: [10.1093/sf/sos194](https://doi.org/10.1093/sf/sos194)
 **作者**: Melamed, D.; Savage, S. V.
-**摘要**: Journal Article Status, Numbers and Influence Get access David Melamed, David Melamed University of South Carolina melamed@mailbox.sc.edu Search for other works by this author on: Oxford Academic Google Scholar Scott V. Savage Scott V.…
+**摘要**: Journal Article Status, Numbers and Influence Get access David Melamed, David Melamed University of South Carolina [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Scott V. Savage Scott V.…
 
 ### Stay or Leave? Externalization of Job Mobility and the Effect on the U.S. Gender Earnings Gap, 1979-2009
 **年份**: 2013 | **DOI**: [10.1093/sf/sot041](https://doi.org/10.1093/sf/sot041)
@@ -2139,7 +2189,7 @@
 ### The Implications of Family Size for Adolescents' Education and Work in Brazil: Gender and Birth Order Differences
 **年份**: 2013 | **DOI**: [10.1093/sf/sot069](https://doi.org/10.1093/sf/sot069)
 **作者**: Marteleto, L. J.; de Souza, L. R.
-**摘要**: Journal Article The Implications of Family Size for Adolescents' Education and Work in Brazil: Gender and Birth Order Differences Get access Letícia J. Marteleto, Letícia J. Marteleto University of Texas at Austin marteleto@prc.utexas.edu Search for other works by this author on: Oxford Academic Goo…
+**摘要**: Journal Article The Implications of Family Size for Adolescents' Education and Work in Brazil: Gender and Birth Order Differences Get access Letícia J. Marteleto, Letícia J. Marteleto University of Texas at Austin [contact email removed] Search for other works by this author on: Oxford Academic Goog…
 
 ### The Influence of Political Dynamics on Southern Lynch Mob Formation and Lethality
 **年份**: 2013 | **DOI**: [10.1093/sf/sot093](https://doi.org/10.1093/sf/sot093)
@@ -2149,12 +2199,12 @@
 ### The Marginalized "Model" Minority: An Empirical Examination of the Racial Triangulation of Asian Americans
 **年份**: 2013 | **DOI**: [10.1093/sf/sot049](https://doi.org/10.1093/sf/sot049)
 **作者**: Xu, J.; Lee, J. C.
-**摘要**: Journal Article The Marginalized “Model” Minority: An Empirical Examination of the Racial Triangulation of Asian Americans Get access Jun Xu, Jun Xu Ball State University jxu@bsu.edu Search for other works by this author on: Oxford Academic Google Scholar Jennifer C. Lee Jennifer C.…
+**摘要**: Journal Article The Marginalized “Model” Minority: An Empirical Examination of the Racial Triangulation of Asian Americans Get access Jun Xu, Jun Xu Ball State University [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Jennifer C. Lee Jennifer C.…
 
 ### The Sense of Place behind Segregating Practices: An Ethnographic Approach to the Symbolic Partitioning of Metro Manila
 **年份**: 2013 | **DOI**: [10.1093/sf/sot039](https://doi.org/10.1093/sf/sot039)
 **作者**: Garrido, Marco
-**摘要**: Journal Article The Sense of Place behind Segregating Practices: An Ethnographic Approach to the Symbolic Partitioning of Metro Manila Get access Marco Garrido Marco Garrido University of Michigan garrido@umich.edu Search for other works by this author on: Oxford Academic Google Scholar Social Force…
+**摘要**: Journal Article The Sense of Place behind Segregating Practices: An Ethnographic Approach to the Symbolic Partitioning of Metro Manila Get access Marco Garrido Marco Garrido University of Michigan [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Social…
 
 ### To Build an Extended Family: Feminist Organizational Design and Its Dilemmas in Women-Led Non-Governmental Elder Homes in China
 **年份**: 2013 | **DOI**: [10.1093/sf/sot103](https://doi.org/10.1093/sf/sot103)
@@ -2174,17 +2224,17 @@
 ### Up the Down Staircase: Women's Upward Mobility and the Wage Penalty for Occupational Feminization, 1970-2007
 **年份**: 2013 | **DOI**: [10.1093/sf/sot018](https://doi.org/10.1093/sf/sot018)
 **作者**: Mandel, H.
-**摘要**: Journal Article Up the Down Staircase: Women's Upward Mobility and the Wage Penalty for Occupational Feminization, 1970-2007 Get access Hadas Mandel Hadas Mandel Tel-Aviv University hadasm@post.tau.ac.il Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 9…
+**摘要**: Journal Article Up the Down Staircase: Women's Upward Mobility and the Wage Penalty for Occupational Feminization, 1970-2007 Get access Hadas Mandel Hadas Mandel Tel-Aviv University [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume…
 
 ### Variation in the Heritability of Educational Attainment: An International Meta-Analysis
 **年份**: 2013 | **DOI**: [10.1093/sf/sot076](https://doi.org/10.1093/sf/sot076)
 **作者**: Branigan, A. R.; McCallum, K. J.; Freese, J.
-**摘要**: Journal Article Variation in the Heritability of Educational Attainment: An International Meta-Analysis Get access Amelia R. Branigan, Amelia R. Branigan Northwestern University amelia.branigan@northwestern.edu Search for other works by this author on: Oxford Academic Google Scholar Kenneth J.…
+**摘要**: Journal Article Variation in the Heritability of Educational Attainment: An International Meta-Analysis Get access Amelia R. Branigan, Amelia R. Branigan Northwestern University [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Kenneth J.…
 
 ### W. E. B. Du Bois: Reform, Will, and the Veil
 **年份**: 2013 | **DOI**: [10.1093/sf/sos188](https://doi.org/10.1093/sf/sos188)
 **作者**: England, L.; Warner, W. K.
-**摘要**: Journal Article W. E. B. Du Bois: Reform, Will, and the Veil Get access Lynn England, Lynn England Utah Valley University ENGLANLY@uvu.edu Search for other works by this author on: Oxford Academic Google Scholar W. Keith Warner W.…
+**摘要**: Journal Article W. E. B. Du Bois: Reform, Will, and the Veil Get access Lynn England, Lynn England Utah Valley University [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar W. Keith Warner W.…
 
 ### Welfare States and the Redistribution of Happiness
 **年份**: 2013 | **DOI**: [10.1093/sf/sot094](https://doi.org/10.1093/sf/sot094)
@@ -2209,7 +2259,7 @@
 ### World Citizenship and Concern for Global Warming: Building the Case for a Strong International Civil Society
 **年份**: 2013 | **DOI**: [10.1093/sf/sot077](https://doi.org/10.1093/sf/sot077)
 **作者**: Running, K.
-**摘要**: Journal Article World Citizenship and Concern for Global Warming: Building the Case for a Strong International Civil Society Get access Katrina Running Katrina Running Idaho State University email: trina.running@gmail.com.…
+**摘要**: Journal Article World Citizenship and Concern for Global Warming: Building the Case for a Strong International Civil Society Get access Katrina Running Katrina Running Idaho State University email: [contact email removed].…
 
 ### A Late Start: Delayed Entry, Life Course Transitions and Bachelor's Degree Completion
 **年份**: 2012 | **DOI**: [10.1093/sf/sor018](https://doi.org/10.1093/sf/sor018)
@@ -2261,7 +2311,7 @@
 ### Delayed Special Education Placement for Learning Disabilities Among Children of Immigrants
 **年份**: 2012 | **DOI**: [10.1093/sf/sos092](https://doi.org/10.1093/sf/sos092)
 **作者**: Hibel, J.; Jasper, A. D.
-**摘要**: Journal Article Delayed Special Education Placement for Learning Disabilities Among Children of Immigrants Get access Jacob Hibel, Jacob Hibel Purdue University jhibel@purdue.edu Search for other works by this author on: Oxford Academic Google Scholar Andrea D. Jasper Andrea D.…
+**摘要**: Journal Article Delayed Special Education Placement for Learning Disabilities Among Children of Immigrants Get access Jacob Hibel, Jacob Hibel Purdue University [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Andrea D. Jasper Andrea D.…
 
 ### Depleting Capital? Race, Wealth and Informal Financial Assistance
 **年份**: 2012 | **DOI**: [10.1093/sf/sos132](https://doi.org/10.1093/sf/sos132)
@@ -2291,7 +2341,7 @@
 ### Dual Embeddedness: Informal Job Matching and Labor Market Institutions in the United States and Germany
 **年份**: 2012 | **DOI**: [10.1093/sf/sos069](https://doi.org/10.1093/sf/sos069)
 **作者**: McDonald, S.; Benton, R. A.; Warner, D. F.
-**摘要**: Journal Article Dual Embeddedness: Informal Job Matching and Labor Market Institutions in the United States and Germany Get access Steve McDonald, Steve McDonald North Carolina State University E-mail: steve_mcdonald@ncsu.edu.…
+**摘要**: Journal Article Dual Embeddedness: Informal Job Matching and Labor Market Institutions in the United States and Germany Get access Steve McDonald, Steve McDonald North Carolina State University E-mail: [contact email removed].…
 
 ### Eat, Drink, Man, Woman: Gender, Income Share and Household Expenditure in South Africa
 **年份**: 2012 | **DOI**: [10.1093/sf/sos173](https://doi.org/10.1093/sf/sos173)
@@ -2337,10 +2387,6 @@
 **年份**: 2012 | **DOI**: [10.1093/sf/sos071](https://doi.org/10.1093/sf/sos071)
 **作者**: Young, C.
 **摘要**: Drawing on the Panel Study of Income Dynamics, I track the subjective well-being of individuals as they enter and exit unemployment. Job loss is a salient trigger event that sets off large changes in well-being.…
-
-### Masthead
-**年份**: 2012 | **DOI**: [10.1093/sf/sos028](https://doi.org/10.1093/sf/sos028)
-**摘要**: Journal Article Masthead Get access Social Forces, Volume 91, Issue 2, December 2012, Page NP, https://doi.org/10.1093/sf/sos028 Published: 01 December 2012
 
 ### Maternity Leave in Turbulent Times: Effects on Labor Market Transitions and Fertility in Russia, 1985-2000
 **年份**: 2012 | **DOI**: [10.1093/sf/sor043](https://doi.org/10.1093/sf/sor043)
@@ -2390,7 +2436,7 @@
 ### Placing Deviance in a Legal and Local Context: A Multilevel Analysis of Cigarette Use in the European Union
 **年份**: 2012 | **DOI**: [10.1093/sf/sos066](https://doi.org/10.1093/sf/sos066)
 **作者**: Vuolo, M.
-**摘要**: Journal Article Placing Deviance in a Legal and Local Context: A Multilevel Analysis of Cigarette Use in the European Union Get access Mike Vuolo Mike Vuolo Purdue University mvuolo@purdue.edu Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 90, Issue 4,…
+**摘要**: Journal Article Placing Deviance in a Legal and Local Context: A Multilevel Analysis of Cigarette Use in the European Union Get access Mike Vuolo Mike Vuolo Purdue University [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 90, Is…
 
 ### Political Reform and the Historical Trajectories of U.S. Social Movements in the Twentieth Century
 **年份**: 2012 | **DOI**: [10.1093/sf/sos067](https://doi.org/10.1093/sf/sos067)
@@ -2400,7 +2446,7 @@
 ### Public Sector Transformation, Racial Inequality and Downward Occupational Mobility
 **年份**: 2012 | **DOI**: [10.1093/sf/sos178](https://doi.org/10.1093/sf/sos178)
 **作者**: Wilson, G.; Roscigno, V. J.; Huffman, M. L.
-**摘要**: Journal Article Public Sector Transformation, Racial Inequality and Downward Occupational Mobility Get access George Wilson, George Wilson University of Miami gwilson1@miami.edu Search for other works by this author on: Oxford Academic Google Scholar Vincent J. Roscigno, Vincent J.…
+**摘要**: Journal Article Public Sector Transformation, Racial Inequality and Downward Occupational Mobility Get access George Wilson, George Wilson University of Miami [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Vincent J. Roscigno, Vincent J.…
 
 ### Punishment and Welfare: Paternal Incarceration and Families' Receipt of Public Assistance
 **年份**: 2012 | **DOI**: [10.1093/sf/sos055](https://doi.org/10.1093/sf/sos055)
@@ -2450,7 +2496,7 @@
 ### Retirement Patterns and Income Inequality
 **年份**: 2012 | **DOI**: [10.1093/sf/sor015](https://doi.org/10.1093/sf/sor015)
 **作者**: Fasang, Anette Eva
-**摘要**: Journal Article Retirement Patterns and Income Inequality Get access Anette Eva Fasang Anette Eva Fasang Humboldt-University Berlin & Social Science Research Center Berlin E-mail: anette.fasang@hu-berlin.de.…
+**摘要**: Journal Article Retirement Patterns and Income Inequality Get access Anette Eva Fasang Anette Eva Fasang Humboldt-University Berlin & Social Science Research Center Berlin E-mail: [contact email removed].…
 
 ### School Stratification in New and Established Latino Destinations
 **年份**: 2012 | **DOI**: [10.1093/sf/sos127](https://doi.org/10.1093/sf/sos127)
@@ -2480,7 +2526,7 @@
 ### Social Structure and Personality during the Transformation of Urban China: A Comparison to Transitional Poland and Ukraine
 **年份**: 2012 | **DOI**: [10.1093/sf/sos133](https://doi.org/10.1093/sf/sos133)
 **作者**: Kohn, M. L.; Wang, W.; Yue, Y.
-**摘要**: Journal Article Social Structure and Personality during the Transformation of Urban China: A Comparison to Transitional Poland and Ukraine Get access Melvin L. Kohn, Melvin L. Kohn Johns Hopkins University E-mail: mel@jhu.edu.…
+**摘要**: Journal Article Social Structure and Personality during the Transformation of Urban China: A Comparison to Transitional Poland and Ukraine Get access Melvin L. Kohn, Melvin L. Kohn Johns Hopkins University E-mail: [contact email removed].…
 
 ### Status Configurations, Military Service and Higher Education
 **年份**: 2012 | **DOI**: [10.1093/sf/sos174](https://doi.org/10.1093/sf/sos174)
@@ -2499,7 +2545,7 @@
 ### Support for Homosexuals' Civil Liberties: The Influence of Familial Gender Role Attitudes Across Religious Denominations
 **年份**: 2012 | **DOI**: [10.1093/sf/sos064](https://doi.org/10.1093/sf/sos064)
 **作者**: Kenneavy, K.
-**摘要**: Journal Article Support for Homosexuals' Civil Liberties: The Influence of Familial Gender Role Attitudes Across Religious Denominations Get access Kristin Kenneavy Kristin Kenneavy Ramapo College of New Jersey Phone: 201-684-7424, Fax: 201-684-7257. E-mail: kkenneav@ramapo.edu.…
+**摘要**: Journal Article Support for Homosexuals' Civil Liberties: The Influence of Familial Gender Role Attitudes Across Religious Denominations Get access Kristin Kenneavy Kristin Kenneavy Ramapo College of New Jersey Phone: 201-684-7424, Fax: 201-684-7257. E-mail: [contact email removed].…
 
 ### Temporal Dynamics of Social Exchange and the Development of Solidarity: "Testing the Waters" Versus "Taking a Leap of Faith"
 **年份**: 2012 | **DOI**: [10.1093/sf/sos063](https://doi.org/10.1093/sf/sos063)
@@ -2554,7 +2600,7 @@
 ### The Time Divide in Cross-National Perspective: The Work Week, Education and Institutions That Matter
 **年份**: 2012 | **DOI**: [10.1093/sf/sos189](https://doi.org/10.1093/sf/sos189)
 **作者**: Frase, Peter; Gornick, Janet C.
-**摘要**: Journal Article The Time Divide in Cross-National Perspective: The Work Week, Education and Institutions That Matter Get access Peter Frase, Peter Frase Graduate Center, City University of New York pfrase@gc.cuny.edu Search for other works by this author on: Oxford Academic Google Scholar Janet C.…
+**摘要**: Journal Article The Time Divide in Cross-National Perspective: The Work Week, Education and Institutions That Matter Get access Peter Frase, Peter Frase Graduate Center, City University of New York [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Janet…
 
 ### Unhitched: Love, Marriage and Family Values from West Hollywood to Western China By Judith Stacey New York University Press, 2011
 **年份**: 2012 | **DOI**: [10.1093/sf/sos104](https://doi.org/10.1093/sf/sos104)
@@ -2579,7 +2625,7 @@
 ### (Re)Integrating Simmel in Contemporary Social Exchange: The Effect of Nonpartisans on Relational Outcomes
 **年份**: 2011 | **DOI**: [10.1093/sf/sor029](https://doi.org/10.1093/sf/sor029)
 **作者**: Collett, J. L.
-**摘要**: Journal Article (Re)Integrating Simmel in Contemporary Social Exchange: The Effect of Nonpartisans on Relational Outcomes Get access Jessica L. Collett Jessica L. Collett University of Notre Dame E-mail: jlcollett@nd.edu.…
+**摘要**: Journal Article (Re)Integrating Simmel in Contemporary Social Exchange: The Effect of Nonpartisans on Relational Outcomes Get access Jessica L. Collett Jessica L. Collett University of Notre Dame E-mail: [contact email removed].…
 
 ### 2010 SSS Presidential Address: The Devolution of Risk and the Changing Life Course in the United States
 **年份**: 2011 | **DOI**: [10.1093/sf/90.1.1](https://doi.org/10.1093/sf/90.1.1)
@@ -2599,7 +2645,7 @@
 ### Adoption? Adaptation? Evaluating the Formation of Educational Expectations
 **年份**: 2011 | **DOI**: [10.1093/sf/sor005](https://doi.org/10.1093/sf/sor005)
 **作者**: Andrew, M.; Hauser, R. M.
-**摘要**: Journal Article Adoption? Adaptation? Evaluating the Formation of Educational Expectations Get access Megan Andrew, Megan Andrew University of Notre Dame E-mail: andrew.8@nd.edu Search for other works by this author on: Oxford Academic Google Scholar Robert M. Hauser Robert M.…
+**摘要**: Journal Article Adoption? Adaptation? Evaluating the Formation of Educational Expectations Get access Megan Andrew, Megan Andrew University of Notre Dame E-mail: [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Robert M. Hauser Robert M.…
 
 ### Author Guidelines
 **年份**: 2011 | **DOI**: [10.1093/sf/sos004](https://doi.org/10.1093/sf/sos004)
@@ -2613,7 +2659,7 @@
 ### Cohort Change and Racial Differences in Educational and Income Mobility
 **年份**: 2011 | **DOI**: [10.1093/sf/sor002](https://doi.org/10.1093/sf/sor002)
 **作者**: Bloome, D.; Western, B.
-**摘要**: Journal Article Cohort Change and Racial Differences in Educational and Income Mobility Get access Deirdre Bloome, Deirdre Bloome Harvard University E-mail: dbloome@fas.harvard.edu Search for other works by this author on: Oxford Academic Google Scholar Bruce Western Bruce Western Harvard University…
+**摘要**: Journal Article Cohort Change and Racial Differences in Educational and Income Mobility Get access Deirdre Bloome, Deirdre Bloome Harvard University E-mail: [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Bruce Western Bruce Western Harvard University…
 
 ### Cohort Changes in the Socio-demographic Determinants of Gender Egalitarianism
 **年份**: 2011 | **DOI**: [10.1353/sof.2011.0011](https://doi.org/10.1353/sof.2011.0011)
@@ -2694,10 +2740,6 @@
 **作者**: Gebel, M.; Giesecke, J.
 **摘要**: Journal Article Labor Market Flexibility and Inequality: The Changing Skill-Based Temporary Employment and Unemployment Risks in Europe Get access Michael Gebel, Michael Gebel University of Mannheim, Germany Search for other works by this author on: Oxford Academic Google Scholar Johannes Giesecke J…
 
-### Masthead
-**年份**: 2011 | **DOI**: [10.1093/sf/sos008](https://doi.org/10.1093/sf/sos008)
-**摘要**: Journal Article Masthead Get access Social Forces, Volume 90, Issue 2, December 2011, Page NP, https://doi.org/10.1093/sf/sos008 Published: 01 December 2011
-
 ### Migration, Remittances and Educational Stratification among Blacks in Apartheid and Post-Apartheid South Africa
 **年份**: 2011 | **DOI**: [10.1093/sf/89.4.1119](https://doi.org/10.1093/sf/89.4.1119)
 **作者**: Lu, Y.; Treiman, D. J.
@@ -2721,7 +2763,7 @@
 ### Power, Revisited
 **年份**: 2011 | **DOI**: [10.1093/sf/sor034](https://doi.org/10.1093/sf/sor034)
 **作者**: Roscigno, V. J.
-**摘要**: Journal Article Power, Revisited Get access Vincent J. Roscigno Vincent J. Roscigno Ohio State University E-mail: Roscigno.1@osu.edu. Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 90, Issue 2, December 2011, Pages 349–374, https://doi.org/10.1093/sf/s…
+**摘要**: Journal Article Power, Revisited Get access Vincent J. Roscigno Vincent J. Roscigno Ohio State University E-mail: [contact email removed]. Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 90, Issue 2, December 2011, Pages 349–374, https://doi.org/10.1093…
 
 ### Race, Ethnicity and the Quality of Life in America, 1972-2008
 **年份**: 2011 | **DOI**: [10.1353/sof.2011.0002](https://doi.org/10.1353/sof.2011.0002)
@@ -2746,7 +2788,7 @@
 ### Social Forces Tomorrow
 **年份**: 2011 | **DOI**: [10.1093/sf/sor033](https://doi.org/10.1093/sf/sor033)
 **作者**: Kalleberg, A. L.
-**摘要**: Journal Article Social Forces Tomorrow Get access Arne L. Kalleberg Arne L. Kalleberg arnekal@email.unc.edu Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 90, Issue 2, December 2011, Pages 345–347, https://doi.org/10.1093/sf/sor033 Published: 12 Decemb…
+**摘要**: Journal Article Social Forces Tomorrow Get access Arne L. Kalleberg Arne L. Kalleberg [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 90, Issue 2, December 2011, Pages 345–347, https://doi.org/10.1093/sf/sor033 Published: 12 Dece…
 
 ### Social Relations that Generate and Sustain Solidarity after a Mass Tragedy
 **年份**: 2011 | **DOI**: [10.1093/sf/89.4.1363](https://doi.org/10.1093/sf/89.4.1363)
@@ -2771,7 +2813,7 @@
 ### Student-Centeredness in Social Science Textbooks, 1970-2008: A Cross-National Study
 **年份**: 2011 | **DOI**: [10.1093/sf/sor004](https://doi.org/10.1093/sf/sor004)
 **作者**: Bromley, P.; Meyer, J. W.; Ramirez, F. O.
-**摘要**: Journal Article Student-Centeredness in Social Science Textbooks, 1970-2008: A Cross-National Study Get access Patricia Bromley, Patricia Bromley University of Utah E-mail: p.bromley@utah.edu. Search for other works by this author on: Oxford Academic Google Scholar John W. Meyer, John W.…
+**摘要**: Journal Article Student-Centeredness in Social Science Textbooks, 1970-2008: A Cross-National Study Get access Patricia Bromley, Patricia Bromley University of Utah E-mail: [contact email removed]. Search for other works by this author on: Oxford Academic Google Scholar John W. Meyer, John W.…
 
 ### Subscription Page
 **年份**: 2011 | **DOI**: [10.1093/sf/sos009](https://doi.org/10.1093/sf/sos009)
@@ -2955,7 +2997,7 @@
 ### For Export Only: Diffusion Professionals and Population Policy
 **年份**: 2010 | **DOI**: [10.1353/sof.0.0306](https://doi.org/10.1353/sof.0.0306)
 **作者**: Barrett, D.; Kurzman, C.; Shanahan, S.
-**摘要**: Journal Article For Export Only: Diffusion Professionals and Population Policy Get access Deborah Barrett, Deborah Barrett University of North Carolina Direct correspondence to Deborah Barrett, School of Social Work, University of North Carolina, Chapel Hill NC 27599-3550. E-mail: dbarrett@unc.edu.…
+**摘要**: Journal Article For Export Only: Diffusion Professionals and Population Policy Get access Deborah Barrett, Deborah Barrett University of North Carolina Direct correspondence to Deborah Barrett, School of Social Work, University of North Carolina, Chapel Hill NC 27599-3550.…
 
 ### Foreign-born Concentration and Acculturation to Volunteering among Immigrant Youth
 **年份**: 2010 | **DOI**: [10.1353/sof.2010.0048](https://doi.org/10.1353/sof.2010.0048)
@@ -3050,7 +3092,7 @@
 ### Multidimensionality and Gravity in Global Trade, 1950-2000
 **年份**: 2010 | **DOI**: [10.1353/sof.2010.0014](https://doi.org/10.1353/sof.2010.0014)
 **作者**: Zhou, M.
-**摘要**: Journal Article Multidimensionality and Gravity in Global Trade, 1950–2000 Get access Min Zhou Min Zhou Harvard University Direct correspondence to Min Zhou, Department of Sociology, Harvard University, 609 William fames Hall 33 Kirkland St., Cambridge, MA 02138. E-mail: minzhou@fas.harvard.edu.…
+**摘要**: Journal Article Multidimensionality and Gravity in Global Trade, 1950–2000 Get access Min Zhou Min Zhou Harvard University Direct correspondence to Min Zhou, Department of Sociology, Harvard University, 609 William fames Hall 33 Kirkland St., Cambridge, MA 02138. E-mail: [contact email removed].…
 
 ### Neighborhood Social Influence and Welfare Receipt in Sweden: A Panel Data Analysis
 **年份**: 2010 | **DOI**: [10.1353/sof.0.0304](https://doi.org/10.1353/sof.0.0304)
@@ -3105,12 +3147,12 @@
 ### Sex Typing of Jobs in Hiring: Evidence from Japan
 **年份**: 2010 | **DOI**: [10.1353/sof.2010.0046](https://doi.org/10.1353/sof.2010.0046)
 **作者**: Mun, E.
-**摘要**: Journal Article Sex Typing of Jobs in Hiring: Evidence from Japan Get access Eunmi Mun Eunmi Mun Harvard University Direct correspondence to Eunmi Mun, Department of Sociology, 404 William James Hall, 33 Kirkland St., Harvard University, Cambridge, MA 02138. E-mail: emmun@fas.harvard.edu.…
+**摘要**: Journal Article Sex Typing of Jobs in Hiring: Evidence from Japan Get access Eunmi Mun Eunmi Mun Harvard University Direct correspondence to Eunmi Mun, Department of Sociology, 404 William James Hall, 33 Kirkland St., Harvard University, Cambridge, MA 02138. E-mail: [contact email removed].…
 
 ### Sex, Anger and Depression
 **年份**: 2010 | **DOI**: [10.1353/sof.2010.0031](https://doi.org/10.1353/sof.2010.0031)
 **作者**: Simon, R. W.; Lively, K.
-**摘要**: Journal Article Sex, Anger and Depression Get access Robin W. Simon, Robin W. Simon Wake Forest University Direct correspondence to Robin Simon, Department of Sociology, P.O. Box 7808, Wake Forest University, Winston-Salem, NC27106. E-mail: simonr@wfu.edu.…
+**摘要**: Journal Article Sex, Anger and Depression Get access Robin W. Simon, Robin W. Simon Wake Forest University Direct correspondence to Robin Simon, Department of Sociology, P.O. Box 7808, Wake Forest University, Winston-Salem, NC27106. E-mail: [contact email removed].…
 
 ### Shadow Education, American Style: Test Preparation, the SAT and College Enrollment
 **年份**: 2010 | **DOI**: [10.1353/sof.2010.0105](https://doi.org/10.1353/sof.2010.0105)
@@ -3211,6 +3253,11 @@
 **年份**: 2010 | **DOI**: [10.1353/sof.2010.0040](https://doi.org/10.1353/sof.2010.0040)
 **作者**: Dorius, S. F.; Firebaugh, G.
 **摘要**: This study investigates trends in gender inequality for the world as a whole. Using data encompassing a large majority of the world's population, we examine world trends over recent decades for key indicators of gender inequality in education, mortality, political representation, and economic activi…
+
+### Uncertainty in Early Occupational Aspirations: Role Exploration or Aimlessness?
+**年份**: 2010 | **DOI**: [10.1353/sof.2010.0088](https://doi.org/10.1353/sof.2010.0088)
+**作者**: Staff, J.; Harris, A.; Sabates, R. 等4人
+**摘要**: Many youth in the United States lack clear occupational aspirations. This uncertainty in achievement ambitions may benefit socioeconomic attainment if it signifies "role exploration," characterized by career development, continued education, and enduring partnerships.…
 
 ### Understanding Economic Justice Attitudes in Two Countries: Kazakhstan and Kyrgyzstan
 **年份**: 2010 | **DOI**: [10.1353/sof.2010.0024](https://doi.org/10.1353/sof.2010.0024)

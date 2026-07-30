@@ -7,26 +7,26 @@
 
 ## 2026
 
+- Aspirations as boundaries. Guidance practices and the reproduction of social inequality in free-choice tracking systems · [DOI](https://doi.org/10.1016/j.rssm.2026.101165)
+- Can vocational role models change the gendered perception of STEM VET occupations? Results from an intervention study in Germany · [DOI](https://doi.org/10.1016/j.rssm.2026.101166)
 - Cultural stratification in the labor market outcomes of university-educated migrants in Australia: The relevance of cultural and linguistic proximity · [DOI](https://doi.org/10.1016/j.rssm.2026.101148)
 - Early insights into intergenerational education mobility and emotional problems during the transition to secondary school in Germany · [DOI](https://doi.org/10.1016/j.rssm.2026.101149)
 - Educational expansion, occupational upgrading, and the changing structure of education-occupation linkages in Sweden, 1960–2013 · [DOI](https://doi.org/10.1016/j.rssm.2026.101135)
+- Estimating the intersecting labor market disparities for justice-impacted individuals with disabilities: Evidence from two United States national data sets · [DOI](https://doi.org/10.1016/j.rssm.2026.101152)
+- Gender differences in employers’ promotion preferences? The role of working time, care obligations, and work–family policies · [DOI](https://doi.org/10.1016/j.rssm.2026.101154)
+- Is a liberal school-to-work system more ‘meritocratic’? Overeducation, social origin, and early career mobility in Germany and the United Kingdom · [DOI](https://doi.org/10.1016/j.rssm.2026.101146)
+- Is overqualification a stepping stone for career progression among children of immigrants? · [DOI](https://doi.org/10.1016/j.rssm.2026.101164)
 - It takes two to court: Partnership formation in the context of forced migration · [DOI](https://doi.org/10.1016/j.rssm.2026.101134)
+- Occupational Gender Composition is Related to Occupational Wages: Causal Evidence from a Survey Experiment Investigating Occupational Devaluation · [DOI](https://doi.org/10.1016/j.rssm.2026.101161)
 - Personality traits and hiring: Exploring employer preferences through a vignette study in Japan · [DOI](https://doi.org/10.1016/j.rssm.2025.101111)
+- Place of education, revisited: Effects on earnings by nativity, race, and gender · [DOI](https://doi.org/10.1016/j.rssm.2026.101150)
 - Stratification of post-birth labour supply in a high- and low- maternal employment regime · [DOI](https://doi.org/10.1016/j.rssm.2026.101133)
 - Temporary employment and further training. Does training promote the transition from temporary to permanent employment? · [DOI](https://doi.org/10.1016/j.rssm.2026.101130)
 - The Role of Income Stratification in Shaping Class Conflict Perceptions: Evidence from ISSP 1987-2019 · [DOI](https://doi.org/10.1016/j.rssm.2026.101153)
+- The contingency of future vs. present orientation and status attainment · [DOI](https://doi.org/10.1016/j.rssm.2026.101151)
 - The long-term effects of adolescent work on adult socioeconomic attainment · [DOI](https://doi.org/10.1016/j.rssm.2026.101137)
 - The role of graduate education in the intergenerational reproduction of inequality in Chile · [DOI](https://doi.org/10.1016/j.rssm.2026.101147)
-- Estimating the intersecting labor market disparities for justice-impacted individuals with disabilities: Evidence from two United States national data sets · [DOI](https://doi.org/10.1016/j.rssm.2026.101152)
-- The contingency of future vs. present orientation and status attainment · [DOI](https://doi.org/10.1016/j.rssm.2026.101151)
-- Gender differences in employers’ promotion preferences? The role of working time, care obligations, and work–family policies · [DOI](https://doi.org/10.1016/j.rssm.2026.101154)
-- Place of education, revisited: Effects on earnings by nativity, race, and gender · [DOI](https://doi.org/10.1016/j.rssm.2026.101150)
 - The role of network isolation on language proficiency of children of migrants · [DOI](https://doi.org/10.1016/j.rssm.2026.101138)
-- Is a liberal school-to-work system more ‘meritocratic’? Overeducation, social origin, and early career mobility in Germany and the United Kingdom · [DOI](https://doi.org/10.1016/j.rssm.2026.101146)
-- Occupational Gender Composition is Related to Occupational Wages: Causal Evidence from a Survey Experiment Investigating Occupational Devaluation · [DOI](https://doi.org/10.1016/j.rssm.2026.101161)
-- Is overqualification a stepping stone for career progression among children of immigrants? · [DOI](https://doi.org/10.1016/j.rssm.2026.101164)
-- Aspirations as boundaries. Guidance practices and the reproduction of social inequality in free-choice tracking systems · [DOI](https://doi.org/10.1016/j.rssm.2026.101165)
-- Can vocational role models change the gendered perception of STEM VET occupations? Results from an intervention study in Germany · [DOI](https://doi.org/10.1016/j.rssm.2026.101166)
 
 ## 2025
 
@@ -71,6 +71,7 @@
 - Nurturing across generations: Unveiling the dynamics and heterogeneity in grandparental care involvement · [DOI](https://doi.org/10.1016/j.rssm.2024.101009)
 - Occupational class and income stratification in South Korea, 1998-2022 · [DOI](https://doi.org/10.1016/j.rssm.2025.101087)
 - On the wrong track? Perceived track mismatch among ethnic minority and majority students in the German education system · [DOI](https://doi.org/10.1016/j.rssm.2025.101085)
+- Origin, destination, or mobility? A systematic review of studies using diagonal reference models · [DOI](https://doi.org/10.1016/j.rssm.2025.101047)
 - Parental contextual education and educational mobility among the children of Asian American immigrants · [DOI](https://doi.org/10.1016/j.rssm.2025.101059)
 - Parental involvement in elementary schools and children's academic achievement: A longitudinal analysis across educational groups in Finland · [DOI](https://doi.org/10.1016/j.rssm.2024.101007)
 - Perceived gender egalitarian progress in the labor market and overeducation in China, Japan, and Taiwan · [DOI](https://doi.org/10.1016/j.rssm.2025.101108)
@@ -95,7 +96,6 @@
 - When advantages disappear: Long-term trends in gender and social origin inequalities and the rise of horizontal stratification in higher education in South Korea · [DOI](https://doi.org/10.1016/j.rssm.2025.101036)
 - Who opts out of neighborhood schools? Determinants and consequences of school choice strategies in China · [DOI](https://doi.org/10.1016/j.rssm.2025.101065)
 - Work-schedule instability and workers' health and well-being across different socioeconomic strata in China · [DOI](https://doi.org/10.1016/j.rssm.2024.101008)
-- Origin, destination, or mobility? A systematic review of studies using diagonal reference models · [DOI](https://doi.org/10.1016/j.rssm.2025.101047)
 
 ## 2024
 
@@ -389,6 +389,7 @@
 - The Eye of the Hurricane Paradox: An Unexpected and Unequal Rise of Well-Being During the Covid-19 Lockdown in France · [DOI](https://doi.org/10.1016/j.rssm.2020.100508)
 - The declining significance of occupation in research on intergenerational mobility · [DOI](https://doi.org/10.1016/j.rssm.2020.100521)
 - The employment consequences of growing up in a dual-parent jobless household: A comparison of Australia and the United States · [DOI](https://doi.org/10.1016/j.rssm.2020.100519)
+- The institutional and cultural framing of the educational stratification in fertility. A review of the role of labor market institutions and attitudinal orientations · [DOI](https://doi.org/10.1016/j.rssm.2020.100482)
 - The just gender pay gap in Germany revisited: The male breadwinner model and regional differences in gender-specific role ascriptions · [DOI](https://doi.org/10.1016/j.rssm.2020.100473)
 - The motherhood penalty and The fatherhood premium in employment during covid-19: evidence from The united states · [DOI](https://doi.org/10.1016/j.rssm.2020.100542)
 - Understanding why employers discriminate, where and against whom: The potential of cross-national, factorial and multi-group field experiments · [DOI](https://doi.org/10.1016/j.rssm.2019.100463)
@@ -400,7 +401,6 @@
 - When upward social mobility leads to frustration: Boudon's game-theoretic model of relative deprivation and experimental evidence · [DOI](https://doi.org/10.1016/j.rssm.2019.100440)
 - Who loses income during the COVID-19 outbreak? Evidence from China · [DOI](https://doi.org/10.1016/j.rssm.2020.100522)
 - Youth adversity, parental resources and educational attainment: Contrasting a resilience and a reproduction perspective · [DOI](https://doi.org/10.1016/j.rssm.2020.100505)
-- The institutional and cultural framing of the educational stratification in fertility. A review of the role of labor market institutions and attitudinal orientations · [DOI](https://doi.org/10.1016/j.rssm.2020.100482)
 
 ## 2019
 

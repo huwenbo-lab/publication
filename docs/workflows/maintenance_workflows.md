@@ -1,146 +1,144 @@
-# 文献数据库维护与自动更新流程
+# 文献数据库维护与自动更新
 
-本文说明本仓库的日常更新、手动更新、GitHub Actions 自动更新和故障排查方式。
+本页面向维护者。普通使用者请看[使用指南](../guides/使用指南.md)。
 
-## 源文件与生成文件
+## 1. 权威输入与生成物
 
-源文件：
+| 类型 | 路径 | Git |
+|---|---|---|
+| 当前权威快照 | `articles.json` | 跟踪 |
+| 网页兼容数据 | `data.json` | 跟踪 |
+| 对外 Agent 索引 | `lit_db/`、`agent_lit_index/generated/` | 跟踪 |
+| 网页与构建脚本 | `index.html`、`app.js`、`style.css`、`scripts/` | 跟踪 |
+| 部署 API / 搜索库 | `api/`、`literature.db`、`literature.db.gz` | 不跟踪，Actions 构建 |
+| 本地订阅来源 | `raw_data/*.xls` | 不跟踪，不公开 |
+| 审计中间物 | `.cache/`、`exports/`、`backups/` | 不跟踪 |
 
-- `articles.json`：主数据文件。
-- `raw_data/*.xls`：Web of Science 原始导出，归档保留，不要删除。
-- `scripts/*.py`：维护脚本。
-- `index.html`、`app.js`、`style.css`：静态前端。
+本地 17 份 Web of Science XLS 只覆盖部分期刊，不能精确重建当前 31 刊主库。不要用 `build_articles.py` 的输出直接覆盖已发布快照，除非正在执行经过复核的全链重建。
 
-生成文件：
-
-- `data.json`、`data.js`：旧格式前端回退数据，由 `articles.json` 同步生成。
-- `api/`：静态 JSON API，包括 `browse.json`、`authors.json`、单篇文章 JSON。
-- `lit_db/`：供 AI agent 读取的轻量级文献索引。
-- `literature.db`：SQLite FTS5 搜索库，本地和 Pages 部署时生成，不纳入 git。
-- `exports/*.csv`：审计脚本输出的候选清单，默认本地保留，不纳入 git。
-- `backups/*.json`：清理脚本生成的回滚备份，默认本地保留，不纳入 git。
-- `logs/`、`archive/`：本地日志和整理归档，除目录说明外不纳入 git。
-- `docs/reports/*.md`：质量、审计和维护报告。
-
-## 本地手动更新
+## 2. 环境
 
 ```bash
-source venv/bin/activate
-python scripts/update.py --dry-run
-python scripts/update.py
-python scripts/build_article_api.py
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+```
+
+Crossref 联系邮箱是可选的：
+
+```bash
+export LITDB_CONTACT_EMAIL="项目联系邮箱"
+```
+
+OpenAlex 请求必须使用维护者自己的 key：
+
+```bash
+export OPENALEX_API_KEY="你的 OpenAlex API key"
+```
+
+变量只放在 shell 或 GitHub Actions Secrets，不写进脚本、`.env.example` 的真实值或提交历史。
+
+## 3. 日常增量更新
+
+先检查：
+
+```bash
+python scripts/update.py --days 30 --dry-run
+```
+
+确认后写入并重建：
+
+```bash
+python scripts/update.py --days 30
+```
+
+`update.py` 会按 DOI 去重，并在写入前复用非文献分类规则。默认还会依次重建 `lit_db/`、Agent 索引、部署 API、SQLite 搜索库和质量报告，最后运行发布检查。
+
+也可以分步执行：
+
+```bash
+python scripts/update.py --days 30 --skip-derived
+python scripts/audit_non_articles.py --dry-run
 python scripts/build_lit_db.py
-python scripts/build_search_db.py
+python scripts/build_agent_lit_index.py
+python scripts/build_search_db.py --rebuild
+python scripts/build_article_api.py
 python scripts/check_quality.py
+python scripts/check_release.py --with-generated
 ```
 
-`scripts/update.py` 在 CrossRef 新条目入库前会复用 `scripts/audit_non_articles.py` 的分类规则，命中的非文献候选会被跳过，不会写入 `articles.json`；跳过数量会写进 `docs/reports/update_log.md`。
-
-如果只想更新最近 60 天：
-
-```bash
-python scripts/update.py --days 60
-```
-
-## 非文献条目审计
-
-先 dry-run：
+## 4. 非文献条目
 
 ```bash
 python scripts/audit_non_articles.py --dry-run
 ```
 
-输出：
-
-- `exports/non_article_candidates.csv`
-- `exports/non_article_removed.csv`
-- `exports/non_article_needs_review.csv`
-- `docs/reports/non_article_audit_report.md`
-
-只有确认高置信度清单安全后才 apply：
+dry-run 会生成本地 CSV 和 `docs/reports/non_article_audit_report.md`。只在确认高置信度清单安全后执行：
 
 ```bash
 python scripts/audit_non_articles.py --apply
-python scripts/build_article_api.py
-python scripts/build_lit_db.py
-python scripts/build_search_db.py
-python scripts/check_quality.py
 ```
 
-`--apply` 会先备份：
+Editorial、Introduction、Book Review、Correction、Erratum、Commentary、Reply、Response 等边界条目默认只进入人工复核。只有逐条确认后，才可使用 `--apply --include-review`。apply 前脚本会备份 `articles.json`。
 
-```text
-backups/articles_before_non_article_cleaning_YYYYMMDD_HHMMSS.json
-```
+## 5. 历史补档与早期边界
 
-边界条目默认只人工复核，不自动删除。若已经人工确认 `exports/non_article_needs_review.csv` 中的条目都应删除，可以执行：
+历史补档不是每周流程。`backfill_core_journals.py` 默认 dry-run；正式写入前必须复核 `exports/` 清单。
 
-```bash
-python scripts/audit_non_articles.py --apply --include-review
-python scripts/build_article_api.py
-python scripts/build_lit_db.py
-python scripts/build_search_db.py
-python scripts/check_quality.py
-```
+以下裁剪是有意的发布口径：
 
-`--apply --include-review` 仍会先备份 `articles.json`，并额外输出带时间戳的删除清单归档，避免后续 dry-run 覆盖审计证据。
+- American Journal of Sociology：1950+
+- American Sociological Review：1960+
+- Social Forces：1950+
 
-## 卷期字段 dry-run
+`prune_early_core_journals.py` 用于保护和重现该边界。不要把起点前记录当作普通缺口补回。
 
-当前主数据没有 `volume` / `issue`。如需评估补充可能性：
+## 6. 卷期字段
+
+当前主数据没有 `volume` / `issue` / 页码。只可先运行：
 
 ```bash
 python scripts/audit_volume_issue.py --dry-run
 ```
 
-输出：
+该命令不改主库。真正增加字段前，需要先确定 schema、来源和兼容策略，并抽样核对不同出版平台。
 
-- `exports/volume_issue_dry_run.csv`
-- `docs/reports/volume_issue_dry_run_report.md`
+## 7. GitHub Actions
 
-这个脚本不修改主数据。后续真正补字段前，应先确定 schema，再抽样核对不同出版社的卷期、页码和 article number 表示方式。
+### Weekly Update
 
-## GitHub Actions 自动更新
+`.github/workflows/update.yml` 每周一或手动运行：
 
-`.github/workflows/update.yml`：
+1. Crossref 增量更新；
+2. 重建并提交 `data.json`、`lit_db/`、`agent_lit_index/generated/`；
+3. 更新质量、非文献审计和更新日志；
+4. 运行 `check_release.py`；
+5. 只在确有变化时提交到 `main`。
 
-- 每周一运行一次。
-- 支持 `workflow_dispatch` 手动触发。
-- 运行 `scripts/update.py --days 30 --skip-derived`。
-- 重建 `api/`、`lit_db/`、`literature.db`。
-- 运行质量检查和非文献 dry-run。
-- 新增条目入库前已经做一次非文献筛查，dry-run 是更新后的第二道复核。
-- 如有变化，自动 commit 回 `main`。自动提交只包含主数据、派生站点文件和报告，不提交 `exports/` 或 `backups/`。
+它不提交 `api/`、SQLite、XLS、缓存、备份或 CSV。
 
-`.github/workflows/deploy-pages.yml`：
+### Deploy GitHub Pages
 
-- `main` 有 push 时自动部署。
-- 支持 `workflow_dispatch` 手动触发。
-- 部署前重建 `api/`、`lit_db/`、`literature.db`。
-- 上传静态站点 artifact，不需要后端服务器。
+`.github/workflows/deploy-pages.yml` 在 `main` 更新后：
 
-## GitHub 设置检查清单
+1. 临时构建 API、`lit_db/` 和 SQLite；
+2. 运行包含生成物的发布检查；
+3. gzip 压缩浏览器搜索库；
+4. 组装并部署 Pages artifact。
 
-请在 GitHub 仓库设置中确认：
+## 8. GitHub 设置
 
-- **Actions permissions**：允许 GitHub Actions 运行。
-- **Workflow permissions**：选择 `Read and write permissions`，否则 update workflow 无法自动 commit。
-- **Allow GitHub Actions to create and approve pull requests**：本流程不需要，但如果以后改成 PR 流程可再开启。
-- **Pages Source**：设置为 `GitHub Actions`。
-- **Branch protection**：如果 `main` 禁止 GitHub Actions push，需要改为 PR 更新流程，或给 bot 放行。
-- **Secrets**：当前 workflow 不需要额外 secrets；`GITHUB_TOKEN` 由 GitHub 自动提供。
+- Pages Source：`GitHub Actions`
+- Actions：允许运行
+- Workflow permissions：更新工作流需要 `Read and write permissions`
+- 如 `main` 有分支保护，改为 bot 可提交的 PR 流程
+- OpenAlex 只在相应工作流确实调用它时配置 `OPENALEX_API_KEY`
 
-## 失败排查
+## 9. 故障定位
 
-- CrossRef 限速或网络失败：重新手动触发 workflow，或本地运行 `python scripts/update.py --dry-run` 确认。
-- `xlrd` 缺失：确认 workflow 的 Install dependencies 步骤安装了 `xlrd`。
-- Pages 页面能打开但搜索不可用：检查 deploy workflow 是否成功生成并复制 `literature.db`。
-- 浏览页或高产作者为空：运行 `python scripts/build_article_api.py`，确认存在 `api/browse.json` 和 `api/authors.json`。
-- AI 索引链接失效：运行 `python scripts/build_lit_db.py`，确认 `lit_db/` 被部署或提交。
-
-## 建议提交拆分
-
-1. 数据和审计脚本：非文献清理、审计脚本、卷期 dry-run。
-2. API 和搜索构建：浏览索引、作者索引、FTS5 搜索字段。
-3. 前端产品功能：浏览增强、搜索模式、收藏文件夹、高产作者。
-4. Workflow 和文档：GitHub Actions、README、使用指南、维护流程。
+- Crossref 限速：稍后重跑 dry-run，不要绕过间隔或关闭去重。
+- OpenAlex 401/403：检查 `OPENALEX_API_KEY` 是否存在，不要把 key 打进日志。
+- Pages 有概况但不能检索：确认 artifact 中有 `literature.db.gz` 和 `vendor/sqljs/`。
+- 浏览索引或作者页为空：本地运行 `build_article_api.py` 检查生成日志。
+- Agent 链接失效：重建并提交 `lit_db/` 与 `agent_lit_index/generated/`。
+- 发布检查报告旧路径/旧数字：先重建派生物，再运行 `check_release.py --with-generated`。

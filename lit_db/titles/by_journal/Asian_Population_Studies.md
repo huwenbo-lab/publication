@@ -7,16 +7,16 @@
 
 ## 2026
 
+- Ethnicity matters: unpacking female labour participation in Lao PDR · [DOI](https://doi.org/10.1080/17441730.2026.2691002)
 - Health disadvantages of middle-school students with disabilities in China · [DOI](https://doi.org/10.1080/17441730.2026.2621371)
+- Komang and Ketut: an ex-ante analysis of Bali’s pro-natalist policy · [DOI](https://doi.org/10.1080/17441730.2026.2680864)
+- Parental absence and the development of preschool children in a high migration civil conflict area · [DOI](https://doi.org/10.1080/17441730.2026.2680862)
 - Parental education and the height of adult children in China, 1930–99 · [DOI](https://doi.org/10.1080/17441730.2026.2637503)
 - Subtle fertility recovery in cohorts who entered the labour market during the deep recession in Japan · [DOI](https://doi.org/10.1080/17441730.2026.2628719)
 - Superdiversity beyond the West: market-driven symbiosis and migrant adaptation in Yiwu, China · [DOI](https://doi.org/10.1080/17441730.2026.2626294)
+- The role of social networks on fertility: evidence from high and low fertility states of India · [DOI](https://doi.org/10.1080/17441730.2026.2680865)
 - Understanding rural-urban and urban-urban migration waves under the spatial hierarchical system in China · [DOI](https://doi.org/10.1080/17441730.2026.2633438)
 - Youth transition, mobility, and intergenerationality: parental support and the school-to-work transition of Chinese returnees · [DOI](https://doi.org/10.1080/17441730.2026.2630950)
-- Parental absence and the development of preschool children in a high migration civil conflict area · [DOI](https://doi.org/10.1080/17441730.2026.2680862)
-- Komang and Ketut: an ex-ante analysis of Bali’s pro-natalist policy · [DOI](https://doi.org/10.1080/17441730.2026.2680864)
-- The role of social networks on fertility: evidence from high and low fertility states of India · [DOI](https://doi.org/10.1080/17441730.2026.2680865)
-- Ethnicity matters: unpacking female labour participation in Lao PDR · [DOI](https://doi.org/10.1080/17441730.2026.2691002)
 
 ## 2025
 

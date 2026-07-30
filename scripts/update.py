@@ -12,7 +12,7 @@ update.py — 自动更新脚本
 脚本会自动：
   1. 查询CrossRef获取指定天数内各期刊的新文章
   2. 按DOI去重（跳过已存在的文章）
-  3. 新文章追加到 articles.json，同步更新 data.json 和 data.js
+  3. 新文章追加到 articles.json，同步更新网页回退数据 data.json
   4. 在 docs/reports/update_log.md 中追加更新记录
 """
 import argparse
@@ -28,23 +28,27 @@ from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
 from audit_non_articles import classify_article
-from _paths import REPORTS_DIR, ROOT, SCRIPTS_DIR
+from clean_data import redact_contact_data
+from _paths import API_USER_AGENT, REPORTS_DIR, ROOT, SCRIPTS_DIR, with_contact
 
 ARTICLES_JSON = ROOT / "articles.json"
 DATA_JSON = ROOT / "data.json"
-DATA_JS = ROOT / "data.js"
 UPDATE_LOG = REPORTS_DIR / "update_log.md"
 
-MAILTO = "hwbruc@gmail.com"
 SLEEP_SEC = 1.0
 CROSSREF_BASE = "https://api.crossref.org"
 
 DERIVED_BUILDERS = [
     ("AI 索引", [sys.executable, str(SCRIPTS_DIR / "build_lit_db.py")]),
+    ("Agent 路由索引", [sys.executable, str(SCRIPTS_DIR / "build_agent_lit_index.py")]),
     ("文章 API", [sys.executable, str(SCRIPTS_DIR / "build_article_api.py")]),
-    ("全文检索库", [sys.executable, str(SCRIPTS_DIR / "build_search_db.py")]),
+    ("字段检索库", [sys.executable, str(SCRIPTS_DIR / "build_search_db.py")]),
     ("质量报告", [sys.executable, str(SCRIPTS_DIR / "check_quality.py")]),
     ("非文献审计", [sys.executable, str(SCRIPTS_DIR / "audit_non_articles.py"), "--dry-run"]),
+    (
+        "发布一致性检查",
+        [sys.executable, str(SCRIPTS_DIR / "check_release.py"), "--with-generated"],
+    ),
 ]
 
 # 31本期刊配置
@@ -85,7 +89,7 @@ JOURNALS = {
 
 def get_json(url, retries=3, timeout=30):
     headers = {
-        "User-Agent": f"SociologyLitDB/1.0 (mailto:{MAILTO})",
+        "User-Agent": API_USER_AGENT,
         "Accept": "application/json",
     }
     for attempt in range(retries):
@@ -193,12 +197,11 @@ def fetch_recent_articles(journal_name, issn, from_date_str, dry_run=False):
     )
 
     while True:
-        url = (
+        url = with_contact(
             f"{CROSSREF_BASE}/works"
             f"?filter={filter_str}"
             f"&rows={page_size}"
             f"&cursor={quote_plus(cursor)}"
-            f"&mailto={MAILTO}"
             f"&select=DOI,title,abstract,author,published,published-print,published-online"
         )
 
@@ -242,6 +245,8 @@ def load_articles():
 
 
 def save_articles(articles):
+    for article in articles:
+        article["abstract"] = redact_contact_data(article.get("abstract", ""))
     articles.sort(key=lambda x: (x.get("journal", ""), x.get("year") or 0))
 
     with open(ARTICLES_JSON, "w", encoding="utf-8") as f:
@@ -258,12 +263,6 @@ def save_articles(articles):
 
     with open(DATA_JSON, "w", encoding="utf-8") as f:
         json.dump(legacy, f, ensure_ascii=False, indent=2)
-
-    with open(DATA_JS, "w", encoding="utf-8") as f:
-        f.write("const DATA = ")
-        json.dump(legacy, f, ensure_ascii=False, indent=2)
-        f.write(";\n")
-
 
 def append_update_log(run_date, days, journal_results, total_new, total_after, skipped_non_articles=None):
     lines = []

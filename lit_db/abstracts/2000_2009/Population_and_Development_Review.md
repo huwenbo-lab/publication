@@ -114,6 +114,11 @@
 **作者**: Headey, Derek D.; Hodge, Andrew
 **摘要**: Many studies have sought to gauge the impact of population growth on economic growth. A well-known stylized fact of this literature is that the estimated effects of population growth measures on economic growth are not robust, varying between being positive, negative, and insignificantly different f…
 
+### The End of “Lowest‐Low” Fertility?
+**年份**: 2009 | **DOI**: [10.1111/j.1728-4457.2009.00304.x](https://doi.org/10.1111/j.1728-4457.2009.00304.x)
+**作者**: Goldstein, Joshua R.; Sobotka, Tomáš; Jasilioniene, Aiva
+**摘要**: Total fertility rates fell to previously unseen levels in a large number of countries beginning in the early 1990s. The persistence of TFRs below 1.3 raised the possibility of rapid population aging and decline.…
+
 ### The Gendered Double Standard of Aging in US Marriage Markets
 **年份**: 2009 | **DOI**: [10.1111/j.1728-4457.2009.00309.x](https://doi.org/10.1111/j.1728-4457.2009.00309.x)
 **作者**: England, Paula; McClintock, Elizabeth Aura
@@ -148,11 +153,6 @@
 **年份**: 2009 | **DOI**: [10.1111/j.1728-4457.2009.00278.x](https://doi.org/10.1111/j.1728-4457.2009.00278.x)
 **作者**: Haaga, John G.
 **摘要**: This is an expanded version of comments on the future of the demography of aging at an invited session of the 2008 annual meeting of the Population Association of America. In an introduction, John Haaga offers reasons for a revival of interest in population aging, including greater realization of pl…
-
-### The End of “Lowest‐Low” Fertility?
-**年份**: 2009 | **DOI**: [10.1111/j.1728-4457.2009.00304.x](https://doi.org/10.1111/j.1728-4457.2009.00304.x)
-**作者**: Goldstein, Joshua R.; Sobotka, Tomáš; Jasilioniene, Aiva
-**摘要**: Total fertility rates fell to previously unseen levels in a large number of countries beginning in the early 1990s. The persistence of TFRs below 1.3 raised the possibility of rapid population aging and decline.…
 
 ### A comparison of biological risk factors in two populations: The United States and Japan
 **年份**: 2008 | **DOI**: [10.1111/j.1728-4457.2008.00232.x](https://doi.org/10.1111/j.1728-4457.2008.00232.x)
@@ -379,6 +379,11 @@
 **作者**: Preston, Samuel H.; Wang, Haidong
 **摘要**: Conventional measures of long-term population growth such as the intrinsic growth rate and the net reproduction rate assume migration rates to be zero. We develop expressions for analogous measures that register the impact of net migration rates, and we develop a simple method of estimating their va…
 
+### Longevity Among Hunter‐ Gatherers: A Cross‐Cultural Examination
+**年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00171.x](https://doi.org/10.1111/j.1728-4457.2007.00171.x)
+**作者**: Gurven, Michael; Kaplan, Hillard
+**摘要**: Post‐reproductive longevity is a robust feature of human life and not only a recent phenomenon caused by improvements in sanitation, public health, and medical advances. We argue for an adaptive life span of 68‐78 years for modernHomo sapiensbased on our analysis of mortality profiles obtained from …
+
 ### Longing for the good life: Understanding emigration from a high-income country
 **年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00158.x](https://doi.org/10.1111/j.1728-4457.2007.00158.x)
 **作者**: van Dalen, Hendrik P.; Henkens, Kene
@@ -413,6 +418,11 @@
 **年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00168.x](https://doi.org/10.1111/j.1728-4457.2007.00168.x)
 **作者**: Zeng Yi
 **摘要**: This article compares five currently debated scenarios for fertility policy transition in China, in terms of their implications for future population growth and population aging, the proportions of elderly living alone, labor force trends, pension deficits, economic costs, the marriage squeeze, and …
+
+### Pandemic Influenza: A Review
+**年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00179.x](https://doi.org/10.1111/j.1728-4457.2007.00179.x)
+**作者**: MacKellar, Landis
+**摘要**: This essay, written ten years after the first human death from avian influenza, reviews scientific, social, and policy aspects of pandemic influenza, and asks whether the near‐crisis level of concern is justified.…
 
 ### Religiousness and fertility among European Muslims
 **年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00197.x](https://doi.org/10.1111/j.1728-4457.2007.00197.x)
@@ -464,16 +474,6 @@
 **作者**: [Anonymous]
 **摘要**: （暂无）
 
-### Pandemic Influenza: A Review
-**年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00179.x](https://doi.org/10.1111/j.1728-4457.2007.00179.x)
-**作者**: MacKellar, Landis
-**摘要**: This essay, written ten years after the first human death from avian influenza, reviews scientific, social, and policy aspects of pandemic influenza, and asks whether the near‐crisis level of concern is justified.…
-
-### Longevity Among Hunter‐ Gatherers: A Cross‐Cultural Examination
-**年份**: 2007 | **DOI**: [10.1111/j.1728-4457.2007.00171.x](https://doi.org/10.1111/j.1728-4457.2007.00171.x)
-**作者**: Gurven, Michael; Kaplan, Hillard
-**摘要**: Post‐reproductive longevity is a robust feature of human life and not only a recent phenomenon caused by improvements in sanitation, public health, and medical advances. We argue for an adaptive life span of 68‐78 years for modernHomo sapiensbased on our analysis of mortality profiles obtained from …
-
 ### Black mortality at very old ages in official US life tables: A skeptical appraisal
 **年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00137.x](https://doi.org/10.1111/j.1728-4457.2006.00137.x)
 **作者**: Preston, Samuel H.; Elo, Irma T.
@@ -499,6 +499,11 @@
 **作者**: Bhattacharya, Prabir C.
 **摘要**: This article examines the determinants of fertility, child mortality, and female disadvantage in child survival in India, using a district-level panel data set linking 1981 and 1991 censuses.…
 
+### Europe's Demographic Future: Determinants, Dimensions, and Challenges
+**年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.tb00003.x](https://doi.org/10.1111/j.1728-4457.2006.tb00003.x)
+**作者**: Coleman, David
+**摘要**: （暂无）
+
 ### Happily ever after? Cohabitation, marriage, divorce, and happiness in Germany
 **年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00135.x](https://doi.org/10.1111/j.1728-4457.2006.00135.x)
 **作者**: Zimmermann, Anke C.; Easterlin, Richard A.
@@ -508,6 +513,11 @@
 **年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00144.x](https://doi.org/10.1111/j.1728-4457.2006.00144.x)
 **作者**: Bongaarts, John
 **摘要**: Since 1800 life expectancy at birth in high-income countries has doubled from about 40 years to nearly 80 years. Pessimists expect these improvements to end soon because we are approaching biological limits to longevity, whereas optimists predict continued rapid improvements without limits.…
+
+### Immigration and Ethnic Change in Low‐Fertility Countries: A Third Demographic Transition
+**年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00131.x](https://doi.org/10.1111/j.1728-4457.2006.00131.x)
+**作者**: Coleman, David
+**摘要**: （暂无）
 
 ### Income inequality, unequal health care access, and mortality in China
 **年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00133.x](https://doi.org/10.1111/j.1728-4457.2006.00133.x)
@@ -639,16 +649,6 @@
 **作者**: Rosenfeld, MJ
 **摘要**: This essay compares family change during two periods of social and historical upheaval in the United States: the industrial revolution of the late nineteenth century and the more recent family changes of the late twentieth century.…
 
-### Europe's Demographic Future: Determinants, Dimensions, and Challenges
-**年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.tb00003.x](https://doi.org/10.1111/j.1728-4457.2006.tb00003.x)
-**作者**: Coleman, David
-**摘要**: （暂无）
-
-### Immigration and Ethnic Change in Low‐Fertility Countries: A Third Demographic Transition
-**年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00131.x](https://doi.org/10.1111/j.1728-4457.2006.00131.x)
-**作者**: Coleman, David
-**摘要**: （暂无）
-
 ### Actual and de facto childlessness in old age:: Evidence and implications from East Java, Indonesia
 **年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00051.x](https://doi.org/10.1111/j.1728-4457.2005.00051.x)
 **作者**: Schröder-Butrerfill, E; Kreager, P
@@ -678,6 +678,10 @@
 **年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00080.x](https://doi.org/10.1111/j.1728-4457.2005.00080.x)
 **作者**: Langford, C
 **摘要**: This article seeks to establish whether China, like most other countries, experienced an influenza outbreak in 1918-19 and to gauge its extent and severity. It evaluates the suggestion that the 1918-19 influenza virus originated in China and was carried to France by Chinese migrant workers during Wo…
+
+### Environmental Degradation and Human Well-Being: Report of the Millennium Ecosystem Assessment
+**年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00073.x](https://doi.org/10.1111/j.1728-4457.2005.00073.x)
+**摘要**: （暂无）
 
 ### Estimates of regional and global life expectancy, 1800-2001
 **年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00083.x](https://doi.org/10.1111/j.1728-4457.2005.00083.x)
@@ -763,10 +767,6 @@
 **年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00054.x](https://doi.org/10.1111/j.1728-4457.2005.00054.x)
 **作者**: Aarssen, LW
 **摘要**: Lower fertility in wealthier countries can be explained in evolutionary terms by three key factors: (i) higher fertility in poorer countries-an evolutionary consequence of many generations of intense fertility-selection favoring innate behaviors promoting high fertility, especially in males; (ii) th…
-
-### Environmental Degradation and Human Well-Being: Report of the Millennium Ecosystem Assessment
-**年份**: 2005 | **DOI**: [10.1111/j.1728-4457.2005.00073.x](https://doi.org/10.1111/j.1728-4457.2005.00073.x)
-**摘要**: （暂无）
 
 ### A comparison of US and Canadian mortality in 1998
 **年份**: 2004 | **DOI**: [10.1111/j.1728-4457.2004.00027.x](https://doi.org/10.1111/j.1728-4457.2004.00027.x)
@@ -1096,6 +1096,11 @@
 **作者**: Heuveline, P; Timberlake, JM; Furstenberg, FF Jr
 **摘要**: We investigate how recent changes in the Western family have affected childhood living arrangements. For 17 developed countries, we use multistate life table techniques to estimate childhood trajectories of coresidence with biological fathers versus other maternal partners.…
 
+### Social Demography and Eugenics in the Interwar United States
+**年份**: 2003 | **DOI**: [10.1111/j.1728-4457.2003.00547.x](https://doi.org/10.1111/j.1728-4457.2003.00547.x)
+**作者**: Ramsden, Edmund
+**摘要**: This article explores the relationship between eugenics and demography in the United States in the interwar era. In focusing on the founding of the International Union for the Scientific Investigation of Population Problems and the Population Association of America, it shows how early population sci…
+
 ### Some thoughts on causation as it relates to demography and population studies
 **年份**: 2003 | **DOI**: [10.1111/j.1728-4457.2003.00459.x](https://doi.org/10.1111/j.1728-4457.2003.00459.x)
 **作者**: Smith, HL
@@ -1136,11 +1141,6 @@
 **作者**: Woods, R
 **摘要**: THE PRESUMPTION TODAY is that life chances will not show a distinctive pattern of differentiation between urban and rural places or, if there are differentials, that they will favor the urban population, which has superior access to the most modern health care facilities.…
 
-### Social Demography and Eugenics in the Interwar United States
-**年份**: 2003 | **DOI**: [10.1111/j.1728-4457.2003.00547.x](https://doi.org/10.1111/j.1728-4457.2003.00547.x)
-**作者**: Ramsden, Edmund
-**摘要**: This article explores the relationship between eugenics and demography in the United States in the interwar era. In focusing on the founding of the International Union for the Scientific Investigation of Population Problems and the Population Association of America, it shows how early population sci…
-
 ### A biodemographic interpretation of life span
 **年份**: 2002 | **DOI**: [10.1111/j.1728-4457.2002.00501.x](https://doi.org/10.1111/j.1728-4457.2002.00501.x)
 **作者**: Olshansky, SJ; Carnes, BA; Brody, J
@@ -1165,6 +1165,11 @@
 **年份**: 2002 | **DOI**: [10.1111/j.1728-4457.2002.00475.x](https://doi.org/10.1111/j.1728-4457.2002.00475.x)
 **作者**: Lee, RD; Kramer, KL
 **摘要**: This article examines the relationship between household demographic pressure and interage transfers for a group of Maya subsistence agriculturists in Yucatan, Mexico. The authors use data from a field study conducted in 1992-93 on individual time allocation, relative productivity by age and sex, an…
+
+### Chinese Reproductive Policy at the Turn of the Millennium: Dynamic Stability
+**年份**: 2002 | **DOI**: [10.1111/j.1728-4457.2002.00379.x](https://doi.org/10.1111/j.1728-4457.2002.00379.x)
+**作者**: Winckler, Edwin A.
+**摘要**: In the 1990s, as fertility fell below replacement, China's state birth planning program began reforms, first to improve its state‐centric approach to birth limitation and then to incorporate some elements of a more client‐centered approach.…
 
 ### Cigarette use and the narrowing sex differential in mortality
 **年份**: 2002 | **DOI**: [10.1111/j.1728-4457.2002.00077.x](https://doi.org/10.1111/j.1728-4457.2002.00077.x)
@@ -1321,11 +1326,6 @@
 **作者**: Singer, M
 **摘要**: Past interest in long-range global population projections has been almost exclusively centered on future population size and, to some extent, on changes in the age structure. Uncertainties concerning future demographic dynamics are typically dealt with by preparing multiple projections, distinguishe…
 
-### Chinese Reproductive Policy at the Turn of the Millennium: Dynamic Stability
-**年份**: 2002 | **DOI**: [10.1111/j.1728-4457.2002.00379.x](https://doi.org/10.1111/j.1728-4457.2002.00379.x)
-**作者**: Winckler, Edwin A.
-**摘要**: In the 1990s, as fertility fell below replacement, China's state birth planning program began reforms, first to improve its state‐centric approach to birth limitation and then to incorporate some elements of a more client‐centered approach.…
-
 ### Bertil Ohlin on population, trade, and territorial expansion
 **年份**: 2001 | **DOI**: [10.1111/j.1728-4457.2001.00357.x](https://doi.org/10.1111/j.1728-4457.2001.00357.x)
 **作者**: [Anonymous]
@@ -1410,6 +1410,11 @@
 **年份**: 2001 | **DOI**: [10.1111/j.1728-4457.2001.00065.x](https://doi.org/10.1111/j.1728-4457.2001.00065.x)
 **作者**: Retherford, RD; Ogawa, N; Matsukura, R
 **摘要**: Between 1975 and 1995, the singulate mean age at marriage in Japan increased from 24.5 to 27.7 years for women and from 27.6 to 30.7 years for men, making Japan one of the latest-marrying populations in the world.…
+
+### Life Span Extension in Humans Is Self‐Reinforcing: A General Theory of Longevity
+**年份**: 2001 | **DOI**: [10.1111/j.1728-4457.2001.00411.x](https://doi.org/10.1111/j.1728-4457.2001.00411.x)
+**作者**: Carey, James R.; Judge, Debra S.
+**摘要**: This article proposes that longevity is not merely the result of an absence of mortality but a self‐reinforcing and positively selected life‐history trait in social species. It argues that a small increase in longevity is amplified as (1) reductions in mortality at young ages increase natural select…
 
 ### Measurement of biomarkers in surveys in developing countries: Opportunities and problems
 **年份**: 2001 | **DOI**: [10.1111/j.1728-4457.2001.00303.x](https://doi.org/10.1111/j.1728-4457.2001.00303.x)
@@ -1530,11 +1535,6 @@
 **年份**: 2001 | **DOI**: [10.1111/j.1728-4457.2001.00687.x](https://doi.org/10.1111/j.1728-4457.2001.00687.x)
 **作者**: Jejeebhoy, SJ; Sathar, ZA
 **摘要**: This article compares the lives of women and explores dimensions of their autonomy in different regions of South Asia-Punjab in Pakistan, and Uttar Pradesh in north India and Tamil Nadu in south India.…
-
-### Life Span Extension in Humans Is Self‐Reinforcing: A General Theory of Longevity
-**年份**: 2001 | **DOI**: [10.1111/j.1728-4457.2001.00411.x](https://doi.org/10.1111/j.1728-4457.2001.00411.x)
-**作者**: Carey, James R.; Judge, Debra S.
-**摘要**: This article proposes that longevity is not merely the result of an absence of mortality but a self‐reinforcing and positively selected life‐history trait in social species. It argues that a small increase in longevity is amplified as (1) reductions in mortality at young ages increase natural select…
 
 ### Aging, wellbeing, and social security in rural northern China
 **年份**: 2000 | **DOI**: —

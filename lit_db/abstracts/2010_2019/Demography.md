@@ -1,7 +1,7 @@
 # Demography
 ## 2010–2019 年文章（含摘要）
 
-共 **856** 篇
+共 **859** 篇
 
 ---
 
@@ -735,6 +735,11 @@
 **作者**: Levine, Morgan E.; Crimmins, Eileen M.
 **摘要**: Increasing life expectancy has been interpreted as improving health of a population. However, mortality is not always a reliable proxy for the pace of aging and could instead reflect achievement in keeping ailing people alive.…
 
+### Is Demography Just a Numerical Exercise? Numbers, Politics, and Legacies of China’s One-Child Policy
+**年份**: 2018 | **DOI**: [10.1007/s13524-018-0658-7](https://doi.org/10.1007/s13524-018-0658-7)
+**作者**: Wang, Feng; Cai, Yong; Shen, Ke 等4人
+**摘要**: （暂无）
+
 ### Lifespan Dispersion in Times of Life Expectancy Fluctuation: The Case of Central and Eastern Europe
 **年份**: 2018 | **DOI**: [10.1007/s13524-018-0729-9](https://doi.org/10.1007/s13524-018-0729-9)
 **作者**: Aburto, Jose Manuel; van Raalte, Alyson
@@ -754,6 +759,11 @@
 **年份**: 2018 | **DOI**: [10.1007/s13524-018-0714-3](https://doi.org/10.1007/s13524-018-0714-3)
 **作者**: Lagos, Danya
 **摘要**: Looking beyond binary measurements of male or female can illuminate health inequality patterns that correspond to gender identity rather than biological sex. This study examines disparities in overall health among transgender men, transgender women, gender-nonconforming adults, and cisgender (nontra…
+
+### Making Demography Astonishing: Lessons in the Politics of Population Science
+**年份**: 2018 | **DOI**: [10.1007/s13524-018-0660-0](https://doi.org/10.1007/s13524-018-0660-0)
+**作者**: Greenhalgh, Susan
+**摘要**: In recent years, I have set aside the study of China's population politics, which preoccupied me for some three decades, to work on other things.Now, however, I find myself pulled into a rather ugly, yet also revealing, dispute over China unfolding in the pages of this journal.Respectful debate of d…
 
 ### Males' Later-Life Mortality Consequences of Coresidence With Paternal Grandparents: Evidence From Northeast China, 1789-1909
 **年份**: 2018 | **DOI**: [10.1007/s13524-018-0653-z](https://doi.org/10.1007/s13524-018-0653-z)
@@ -884,6 +894,11 @@
 **年份**: 2018 | **DOI**: [10.1007/s13524-017-0636-5](https://doi.org/10.1007/s13524-017-0636-5)
 **作者**: Hicks, Andrew L.; Handcock, Mark S.; Sastry, Narayan 等4人
 **摘要**: Prior research has suggested that children living in a disadvantaged neighborhood have lower achievement test scores, but these studies typically have not estimated causal effects that account for neighborhood choice.…
+
+### Socioeconomic Factors Have Been the Major Driving Force of China’s Fertility Changes Since the Mid-1990s
+**年份**: 2018 | **DOI**: [10.1007/s13524-018-0662-y](https://doi.org/10.1007/s13524-018-0662-y)
+**作者**: Zhao, Zhongwei; Zhang, Guangyu
+**摘要**: Fertility decline had already started in China's urban areas in the 1950s This decline might have followed a route similar to that found in many countries if the famine of 1958-1961 and the nationwide birth control (or birth planning, as it is called in China) program launched in the early 1970s had…
 
 ### Subjective Well-being and Partnership Dynamics: Are Same-Sex Relationships Different?
 **年份**: 2018 | **DOI**: [10.1007/s13524-018-0725-0](https://doi.org/10.1007/s13524-018-0725-0)

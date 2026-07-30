@@ -4283,7 +4283,7 @@
 ### Middle‐class Latin@ Identity: Building a Theoretical and Conceptual Framework
 **年份**: 2010 | **DOI**: [10.1111/j.1751-9020.2010.00327.x](https://doi.org/10.1111/j.1751-9020.2010.00327.x)
 **作者**: Delgado, Daniel J.
-**摘要**: Abstract Middle‐class Latin@ identity is a rare discussion in the racial/ethnic studies and identity literatures. Often the Latin@ middle class is invisible as much of the research focuses on the poor, working class and immigrant populations.…
+**摘要**: Abstract Middle‐class [contact token removed] identity is a rare discussion in the racial/ethnic studies and identity literatures. Often the [contact token removed] middle class is invisible as much of the research focuses on the poor, working class and immigrant populations.…
 
 ### Mobile Cultures: From the Sociology of Transportation to the Study of Mobilities
 **年份**: 2010 | **DOI**: [10.1111/j.1751-9020.2009.00268.x](https://doi.org/10.1111/j.1751-9020.2009.00268.x)

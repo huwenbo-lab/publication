@@ -1,154 +1,63 @@
-# 社会学与人口学期刊文献数据库
+# 项目 Agent 说明
 
-## 项目介绍
+默认用中文解释。先读根目录 `README.md`；用户当前指令和实时文件优先于历史报告。
 
-本项目是一个社会学与人口学领域的学术文献数据库，收录31本核心期刊的文章元数据（标题、摘要、作者、DOI等）。研究方向涵盖社会分层、婚姻与家庭、人口学。
+## 当前事实
 
-数据来源：Web of Science导出 + CrossRef API补全。前端为静态HTML页面，部署在GitHub Pages。
+- 权威主库：`articles.json`
+- 2026-07-30 发布快照：56,019 条、31 本收录期刊、1947–2026 年
+- 有摘要：43,276 条；无摘要：12,743 条
+- 有 DOI / 单篇静态端点：55,946 条
+- `data.json` 是网页兼容数据，必须与主库逐条一致
+- 本库是元数据和摘要索引，不含论文 PDF 或正文
 
-## 期刊列表（31本）
+## 不得破坏的收录边界
 
-| 期刊名称 | ISSN | 数据起始年 |
-|---|---|---|
-| American Journal of Sociology | 0002-9602 | 2000 |
-| American Sociological Review | 0003-1224 | 2000 |
-| Annual Review of Sociology | 0360-0572 | 2000 |
-| Asian Population Studies | 1744-1730 | 2005 |
-| British Journal of Sociology | 0007-1315 | 2000 |
-| British Journal of Sociology of Education | 0142-5692 | 2000 |
-| Chinese Journal of Sociology | 2057-150X | 2015 |
-| Chinese Sociological Review | 2162-0555 | 2000 |
-| Demographic Research | 1435-9871 | 2000 |
-| Demography | 0070-3370 | 2000 |
-| European Journal of Population | 0168-6577 | 2000 |
-| European Sociological Review | 0266-7215 | 2000 |
-| Gender & Society | 0891-2432 | 2000 |
-| Journal of Family Issues | 0192-513X | 2000 |
-| Journal of Family Theory & Review | 1756-2570 | 2009 |
-| Journal of Marriage and Family | 0022-2445 | 2000 |
-| Population Studies | 0032-4728 | 1947 |
-| Population and Development Review | 0098-7921 | 2000 |
-| Research in Social Stratification and Mobility | 0276-5624 | 2000 |
-| Social Indicators Research | 0303-8300 | 1974 |
-| Social Forces | 0037-7732 | 2000 |
-| Social Psychology Quarterly | 0190-2725 | 1979 |
-| Social Science Research | 0049-089X | 2000 |
-| Sociology Compass | 1751-9020 | 2007 |
-| Sociological Science | 2330-6696 | 2014 |
-| Sociology | 0038-0385 | 2000 |
-| Sociology of Education | 0038-0407 | 2000 |
-| Socius | 2378-0231 | 2015 |
-| Advances in Life Course Research | 1569-4909 | 2000 |
-| Work and Occupations | 0730-8884 | 1982 |
-| Work, Employment and Society | 0950-0170 | 2000 |
+早期文献裁剪是已确认口径，不是误删：
 
-## 数据字段说明
+- American Journal of Sociology：1950+
+- American Sociological Review：1960+
+- Social Forces：1950+
 
-`articles.json` 中每条记录包含以下字段：
+不要自动补回这三个起点之前的记录。历史链条和原因见 `README.md` 与 `docs/reports/`。
 
-| 字段 | 类型 | 说明 |
-|---|---|---|
-| `title` | string | 文章标题 |
-| `abstract` | string | 摘要（部分文章可能为空） |
-| `authors` | string | 作者列表，格式：`姓, 名; 姓, 名` |
-| `journal` | string | 期刊名称（Title Case） |
-| `year` | int/null | 发表年份 |
-| `doi` | string | DOI标识符 |
+## 文件角色
 
-`data.json` / `data.js` 使用旧格式字段名（`Source Title`, `Publication Year`, `Article Title`, `Author Full Names`, `Abstract`），供 `index.html` 前端使用。
+- `articles.json`：唯一权威发布快照
+- `data.json`：由主库生成的网页兼容数据
+- `lit_db/`、`agent_lit_index/generated/`：公开、可重建的 Agent 索引
+- `api/`、`literature.db`：部署时生成，不跟踪
+- `raw_data/*.xls`：本地受限来源文件，不公开、不跟踪
+- `.cache/`、`backups/`、`exports/`、`tmp/`、`outputs/`、`venv/`：本地状态，不进入 release
 
-## 文件结构
+不要把 17 份 XLS 当作可精确重建当前 31 刊主库的充分来源。
 
-```
-articles.json          # 主数据文件（新格式，含DOI）
-data.json / data.js    # 旧格式数据（供index.html使用）
-index.html             # 前端展示页面
-scripts/check_quality.py       # 数据质量检查，生成 docs/reports/data_quality_report.md
-scripts/build_articles.py      # 从XLS清洗合并为 articles.json
-scripts/enrich_crossref.py     # CrossRef API补全摘要/DOI/缺失数据
-scripts/enrich_openalex.py     # OpenAlex + Semantic Scholar 补全摘要（CrossRef遗漏的）
-scripts/update.py              # 定期更新脚本
-scripts/build_article_api.py   # 生成 api/ 静态端点、浏览索引和作者索引
-scripts/build_lit_db.py        # 生成 lit_db/ 目录（AI查阅索引）
-scripts/build_search_db.py     # 构建 SQLite FTS5 全文检索数据库 → literature.db
-scripts/audit_non_articles.py  # 审计/清理非文献条目，默认只自动删高置信度条目
-scripts/audit_volume_issue.py  # dry-run 检测 raw_data 可补充的卷期字段
-docs/reports/update_log.md     # 更新日志
-docs/guides/使用指南.md        # 面向普通用户的使用说明
-raw_data/              # Web of Science原始导出文件（归档）
-    *.xls              # 17本期刊的Excel导出文件
-lit_db/                # 轻量级文献索引（供AI查阅）
-    overview.md        # 数据库概况
-    titles/            # 标题索引（按期刊）
-    abstracts/         # 摘要（按期刊×年份段）
-```
+## 修改原则
 
-## 如何更新数据库
+- 优先小而可复核的差异；大规模数据变更必须先 dry-run。
+- 不虚构字段、来源、卷期、许可或 API 行为。
+- 数据变更后同步重建 `data.json`、`lit_db/`、`agent_lit_index/generated/`、`literature.db` 和部署 API。
+- 边界条目默认进入人工复核，不因标题含 Editorial、Review、Reply 等词就直接删除。
+- 不提交密钥、私人邮箱、本机绝对路径、Web of Science XLS 或摘要中的联系邮箱。
+- OpenAlex 密钥只通过环境变量 `OPENALEX_API_KEY` 提供；可选 API 联系邮箱通过 `LITDB_CONTACT_EMAIL` 提供。
+- 代码、文档、数据的项目级许可证尚未选定，不要代替维护者新增开放许可。
 
-### 日常更新（抓取最新文章）
+## 最小验证
 
 ```bash
-source venv/bin/activate
-python scripts/update.py              # 默认抓取最近30天新文章
-python scripts/update.py --days 60    # 抓取最近60天
-python scripts/update.py --dry-run    # 仅检查，不写入
+python -m py_compile scripts/*.py
+python scripts/check_quality.py
+python scripts/build_lit_db.py
+python scripts/build_agent_lit_index.py
+python scripts/build_search_db.py --rebuild
+python scripts/build_article_api.py
+python scripts/check_release.py --with-generated
 ```
 
-脚本会自动：
-1. 从CrossRef查询31本期刊的最新文章
-2. 按DOI去重，避免重复录入
-3. 用 `scripts/audit_non_articles.py` 的同一套规则筛查新增条目，跳过非文献和需复核候选，避免重新混入
-4. 新文章追加到 `articles.json`，同步更新 `data.json` 和 `data.js`
-5. 在 `docs/reports/update_log.md` 中记录更新详情和非文献跳过数量
-
-### 全量重建
+前端变更还需运行：
 
 ```bash
-source venv/bin/activate
-python scripts/build_articles.py      # 从XLS重建（仅已有Excel的17本期刊）
-python scripts/enrich_crossref.py     # CrossRef补全（摘要、DOI、历史数据、缺失期刊）
-python scripts/enrich_openalex.py     # OpenAlex+S2补全（CrossRef遗漏的摘要）
-python scripts/build_lit_db.py        # 重建AI查阅索引
-python scripts/build_article_api.py   # 重建静态API、浏览索引、作者索引
-python scripts/build_search_db.py     # 重建全文检索数据库
+python scripts/check_frontend_ui.py
 ```
 
-### 非文献条目审计
-
-```bash
-python scripts/audit_non_articles.py --dry-run   # 只生成 exports/*.csv 和 docs/reports/non_article_audit_report.md
-python scripts/audit_non_articles.py --apply     # 只删除高置信度行政性/目录性条目，先备份 articles.json
-python scripts/audit_non_articles.py --apply --include-review  # 人工确认后连同复核候选一起删除
-```
-
-边界条目（Editorial、Introduction、Book Review、Correction、Erratum、Commentary、Reply、Response 等）默认只进入人工复核清单，不自动删除。若研究者已经逐批确认这些条目不应保留，可使用 `--apply --include-review`；脚本会先备份 `articles.json`，并输出带时间戳的删除清单归档。
-
-### 卷期字段补充 dry-run
-
-```bash
-python scripts/audit_volume_issue.py --dry-run
-```
-
-当前 `articles.json` 不含 `volume` / `issue` 字段，网页只实现“期刊—年份—文章”层级。卷期补充必须先通过 dry-run 清单和人工抽样确认，不能硬造。
-
-### 全文检索
-
-```bash
-python scripts/build_search_db.py --search "education inequality China"
-python scripts/build_search_db.py --search "marriage fertility" --limit 10
-python scripts/build_search_db.py --search "stratification" --journal "American Journal of Sociology"
-python scripts/build_search_db.py --search "labor market" --year-from 2015 --year-to 2023
-```
-
-`literature.db` 约 53 MB，为生成文件，不纳入 git 管理，可随时从 `articles.json` 重建。
-
-## 注意事项
-
-- **API限速**: CrossRef API使用 `mailto` 参数进入polite pool，请求间隔1秒。全量补全可能需要较长时间。
-- **Sociological Science**: 2014年创刊，数据从2014年开始。
-- **Socius**: 2015年创刊，数据从2015年开始。
-- **Chinese Journal of Sociology**: 2015年创刊（英文版），数据从2015年开始。中文期刊的英文摘要可能不完整。
-- **Journal of Family Theory & Review**: 2009年创刊，数据从2009年开始。
-- **摘要缺失**: 部分早期文章（尤其是书评、编辑说明等）在CrossRef中无摘要，属正常现象。
-- **文件名拼写**: `British of Journal of Sociology of Education.xls` 文件名有拼写错误（多了"of"），已在处理脚本中修正映射。
-- **WoS导出上限**: Web of Science单次导出最多1000条记录，部分期刊的Excel数据可能不完整。
+自动更新和部署流程见 `docs/workflows/maintenance_workflows.md`。

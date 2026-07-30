@@ -165,7 +165,7 @@ def write_report(articles, raw_rows, candidates):
         "",
         "## 后续补充方案",
         "",
-        "1. 新增主数据字段：`volume`、`issue`、`start_page`、`end_page`、`article_number`、`publication_date`、`publication_type`、`document_type`，并更新 `data.json`/`data.js` 兼容字段映射。",
+        "1. 新增主数据字段：`volume`、`issue`、`start_page`、`end_page`、`article_number`、`publication_date`、`publication_type`、`document_type`，并更新 `data.json` 兼容字段映射。",
         "2. 先用本 CSV 中 `match_status=matched` 且 DOI 唯一的记录补充 raw_data 覆盖范围。",
         "3. 对 raw_data 无覆盖或 DOI 不匹配的期刊，新增 CrossRef/OpenAlex dry-run，只输出候选，不直接写入。",
         "4. 抽样人工核对不同出版社的卷期格式，确认空字符串、early access、article number 与页码的表示方式。",

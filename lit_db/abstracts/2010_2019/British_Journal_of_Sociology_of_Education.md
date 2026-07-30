@@ -985,6 +985,11 @@
 **作者**: Jaeger, Elizabeth L.
 **摘要**: The neoliberal agenda promotes education as a route toward success in university and career. However, a neoliberal economy requires large numbers of workers willing to accept low-paying, dead-end jobs.…
 
+### Rethinking education and poverty
+**年份**: 2017 | **DOI**: [10.1080/01425692.2017.1349654](https://doi.org/10.1080/01425692.2017.1349654)
+**作者**: Gewirtz, Sharon
+**摘要**: （暂无）
+
 ### Revisions to rationality: the translation of new knowledges' into policy under the Coalition Government
 **年份**: 2017 | **DOI**: [10.1080/01425692.2016.1202747](https://doi.org/10.1080/01425692.2016.1202747)
 **作者**: McGimpsey, Ian; Bradbury, Alice; Santori, Diego
@@ -1084,11 +1089,6 @@
 **年份**: 2017 | **DOI**: [10.1080/01425692.2016.1234364](https://doi.org/10.1080/01425692.2016.1234364)
 **作者**: Hassan, Robert
 **摘要**: This article considers the effect of information technology upon teaching, learning and research in the digital university'. In less than a generation the university has become a business like any other. It does so in the determining context of neoliberal globalisation and the computer revolution.…
-
-### Rethinking education and poverty
-**年份**: 2017 | **DOI**: [10.1080/01425692.2017.1349654](https://doi.org/10.1080/01425692.2017.1349654)
-**作者**: Gewirtz, Sharon
-**摘要**: （暂无）
 
 ### 'I am not clever, they are cleverer than us': children reading in the primary school
 **年份**: 2016 | **DOI**: [10.1080/01425692.2014.948989](https://doi.org/10.1080/01425692.2014.948989)
@@ -1370,6 +1370,11 @@
 **作者**: Dale, Roger
 **摘要**: Piketty's Capital has created enormous interest around the world, not least in educational circles. One reason for this may be his readiness to refer, in a book largely focused on economic history, to the ways that education has, and might, contribute to better and more equal social outcomes.…
 
+### Thomas Piketty’s relevance for the study of education: reflections on the political economy of education
+**年份**: 2016 | **DOI**: [10.1080/01425692.2016.1200821](https://doi.org/10.1080/01425692.2016.1200821)
+**作者**: Moeller, Kathryn; Tarlau, Rebecca
+**摘要**: （暂无）
+
 ### Transnational academic capitalism in the Arab Gulf: balancing global and local, and public and private, capitals
 **年份**: 2016 | **DOI**: [10.1080/01425692.2015.1100531](https://doi.org/10.1080/01425692.2015.1100531)
 **作者**: Findlow, Sally; Hayes, Aneta L.
@@ -1394,11 +1399,6 @@
 **年份**: 2016 | **DOI**: [10.1080/01425692.2014.935292](https://doi.org/10.1080/01425692.2014.935292)
 **作者**: Gayle, Vernon; Murray, Susan; Connelly, Roxanne
 **摘要**: In Britain, educational qualifications gained at school continue to play an important and central role in young people's educational and employment pathways. Recently there has been growing interest in documenting the lives of ordinary' young people.…
-
-### Thomas Piketty’s relevance for the study of education: reflections on the political economy of education
-**年份**: 2016 | **DOI**: [10.1080/01425692.2016.1200821](https://doi.org/10.1080/01425692.2016.1200821)
-**作者**: Moeller, Kathryn; Tarlau, Rebecca
-**摘要**: （暂无）
 
 ### 'Don't be a smart arse': social enterprise-based transitional labour-market programmes as neo-liberal technologies of the self
 **年份**: 2015 | **DOI**: [10.1080/01425692.2013.829744](https://doi.org/10.1080/01425692.2013.829744)
@@ -1595,6 +1595,11 @@
 **作者**: Hayton, Annette Ruth; Haste, Polly; Jones, Alison
 **摘要**: Students studying art at university in the United Kingdom tend to be female, from higher social classes and from majority ethnic groups. This paper considers some of the complex and deeply-rooted social and economic factors that militate against wider participation in the arts and describes how we s…
 
+### Psychopathology at school: theorizing mental disorders in school
+**年份**: 2015 | **DOI**: [10.1080/01425692.2015.1043185](https://doi.org/10.1080/01425692.2015.1043185)
+**作者**: Daniels, Harry; MacLure, Maggie; Youdell, Deborah
+**摘要**: （暂无）
+
 ### Reconceptualising learning as a form of relational reflexivity
 **年份**: 2015 | **DOI**: [10.1080/01425692.2013.843445](https://doi.org/10.1080/01425692.2013.843445)
 **作者**: Dyke, Martin
@@ -1694,11 +1699,6 @@
 **年份**: 2015 | **DOI**: [10.1080/01425692.2013.829742](https://doi.org/10.1080/01425692.2013.829742)
 **作者**: Wilkins, Andrew; Burke, Penny Jane
 **摘要**: Since the neoliberal reforms to British education in the 1980s, education debates have been saturated with claims to the efficacy of the market as a mechanism for improving the content and delivery of state education.…
-
-### Psychopathology at school: theorizing mental disorders in school
-**年份**: 2015 | **DOI**: [10.1080/01425692.2015.1043185](https://doi.org/10.1080/01425692.2015.1043185)
-**作者**: Daniels, Harry; MacLure, Maggie; Youdell, Deborah
-**摘要**: （暂无）
 
 ### Beyond the education silo? Tackling adolescent secondary education in rural India
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.919843](https://doi.org/10.1080/01425692.2014.919843)

@@ -1,11 +1,11 @@
 # Agent literature index overview
 
-Generated at: 2026-06-27T07:36:17
+Generated at: 2026-07-30T11:35:44
 
-- Full archive records: **46,179**
-- Default screening records: **31,016**
-- Full archive rough title+abstract tokens: **10,767,374**
-- Default screening rough title+preview tokens: **5,821,614**
+- Full archive records: **56,019**
+- Default screening records: **40,856**
+- Full archive rough title+abstract tokens: **12,816,712**
+- Default screening rough title+preview tokens: **7,441,643**
 - Abstract preview length: **800 characters**
 
 ## Tier Counts
@@ -14,8 +14,8 @@ Generated at: 2026-06-27T07:36:17
 |---|---:|---:|
 | adjacent_recent | 6,653 | 6,653 |
 | archive_on_demand | 15,163 | 0 |
-| core_default | 23,732 | 23,732 |
-| review_anchor | 631 | 631 |
+| core_default | 33,025 | 33,025 |
+| review_anchor | 1,178 | 1,178 |
 
 ## Default Use
 

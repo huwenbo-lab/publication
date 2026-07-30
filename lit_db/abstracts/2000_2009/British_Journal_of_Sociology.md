@@ -2501,6 +2501,11 @@
 **作者**: Nichols, Theo; Sugur, Nadir; Tasiran, Ali C.
 **摘要**: ABSTRACTThis paper explores the possible effects of the increasing exposure to modernity on younger workers in some sectors of developing countries with special reference to those employed in advanced manufacturing in Turkey.…
 
+### Social capital and social exclusion in England and Wales (1972-1999)
+**年份**: 2003 | **DOI**: [10.1080/0007131032000143564](https://doi.org/10.1080/0007131032000143564)
+**作者**: Li, Yaojun
+**摘要**: （暂无）
+
 ### Social capital and social exclusion in England and Wales (1972–1999)
 **年份**: 2003 | **DOI**: [10.1111/j.1468-4446.2003.00497.x](https://doi.org/10.1111/j.1468-4446.2003.00497.x)
 **作者**: Li, Yaojun; Savage, Mike; Pickles, Andrew
@@ -2535,11 +2540,6 @@
 **年份**: 2003 | **DOI**: [10.1080/0007131032000045897](https://doi.org/10.1080/0007131032000045897)
 **作者**: Árnason, Arnar; Hafsteinsson, Sigurjón Baldur
 **摘要**: ABSTRACTThis paper discusses Walter's (1994) assertion that death in the West has recently undergone a revival. In particular it focuses on his claim that this revival is composed of two different strands: a late modern strand and a postmodern strand.…
-
-### Social capital and social exclusion in England and Wales (1972-1999)
-**年份**: 2003 | **DOI**: [10.1080/0007131032000143564](https://doi.org/10.1080/0007131032000143564)
-**作者**: Li, Yaojun
-**摘要**: （暂无）
 
 ### Accountability in action?: the case of a database purchasing decision
 **年份**: 2002 | **DOI**: [10.1080/00071310220133331](https://doi.org/10.1080/00071310220133331)

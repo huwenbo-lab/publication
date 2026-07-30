@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2000–2009 年文章（含摘要）
 
-共 **374** 篇
+共 **469** 篇
 
 ---
 
@@ -54,6 +54,11 @@
 **年份**: 2009 | **DOI**: [10.1177/000312240907400203](https://doi.org/10.1177/000312240907400203)
 **作者**: Herring, Cedric
 **摘要**: The value-in-diversity perspective argues that a diverse workforce, relative to a homogeneous one, is generally beneficial for business, including but not limited to corporate profits and earnings.…
+
+### Editorial Transition and Bidding Adieu
+**年份**: 2009 | **DOI**: [10.1177/000312240907400601](https://doi.org/10.1177/000312240907400601)
+**作者**: Roscigno, Vincent J.; Hodson, Randy
+**摘要**: （暂无）
 
 ### Ethnic Politics and Armed Conflict: A Configurational Analysis of a New Global Data Set
 **年份**: 2009 | **DOI**: [10.1177/000312240907400208](https://doi.org/10.1177/000312240907400208)
@@ -125,6 +130,16 @@
 **作者**: Young, Cristobal
 **摘要**: Model uncertainty is pervasive in quantitative research. Classical statistical theory assumes that only one (true) model is applied to a sample of data. In practice, however, researchers do not know which exact model specification is best.…
 
+### Models and Marginals: Using Survey Evidence to Study Social Networks
+**年份**: 2009 | **DOI**: [10.1177/000312240907400409](https://doi.org/10.1177/000312240907400409)
+**作者**: McPherson, Miller; Smith-Lovin, Lynn; Brashears, Matthew E.
+**摘要**: Fischer (2009) argues that our estimates of confidant network size in the 2004 General Social Survey (GSS), and therefore the trend in confidant network size from 1985 to 2004, are implausible because they are (1) inconsistent with other data and (2) contain internal anomalies that call the data int…
+
+### Movements, Aesthetics, and Markets in Literary Change: Making the American Labor Problem Novel
+**年份**: 2009 | **DOI**: [10.1177/000312240907400605](https://doi.org/10.1177/000312240907400605)
+**作者**: Isaac, Larry
+**摘要**: One path to cultural innovation in artistic and literary fields is differentiation of a genre into new subgenres. But what are the dynamics at work in such a process? This article addresses that question by identifying and explaining the emergence and trajectory of a new fiction subgenre—the America…
+
 ### Multiple Category Memberships in Markets: An Integrative Theory and Two Empirical Tests
 **年份**: 2009 | **DOI**: [10.1177/000312240907400108](https://doi.org/10.1177/000312240907400108)
 **作者**: Hsu, Greta; Kocak, Oezgecan; Hannan, Michael T.
@@ -139,6 +154,11 @@
 **年份**: 2009 | **DOI**: [10.1177/000312240907400301](https://doi.org/10.1177/000312240907400301)
 **作者**: Goffman, Alice
 **摘要**: Although recent increases in imprisonment are concentrated in poor Black communities, we know little about how daily life within these neighborhoods is affected. Almost all ethnographic work in poor minority neighborhoods was written before the expansion of the criminal justice system, and the bulk …
+
+### Precarious Work, Insecure Workers: Employment Relations in Transition
+**年份**: 2009 | **DOI**: [10.1177/000312240907400101](https://doi.org/10.1177/000312240907400101)
+**作者**: Kalleberg, Arne L.
+**摘要**: The growth of precarious work since the 1970s has emerged as a core contemporary concern within politics, in the media, and among researchers. Uncertain and unpredictable work contrasts with the relative security that characterized the three decades following World War II.…
 
 ### Privatizing Participation: Civic Change and the Organizational Dynamics of Grassroots Lobbying Firms
 **年份**: 2009 | **DOI**: [10.1177/000312240907400105](https://doi.org/10.1177/000312240907400105)
@@ -160,6 +180,11 @@
 **作者**: Condron, Dennis J.
 **摘要**: As social and economic stratification between black and white Americans persists at the dawn of the twenty-first century, disparities in educational outcomes remain an especially formidable barrier Recent research on the black/white achievement gap points to a perplexing pattern in this regard.…
 
+### The 2004 GSS Finding of Shrunken Social Networks: An Artifact?
+**年份**: 2009 | **DOI**: [10.1177/000312240907400408](https://doi.org/10.1177/000312240907400408)
+**作者**: Fischer, Claude S.
+**摘要**: McPherson, Smith-Lovin, and Brashears (2006, 2008b) reported that Americans' social networks shrank precipitously from 1985 to 2004. When asked to list the people with whom they discussed “important matters,” respondents to the 2004 General Social Survey (GSS) provided about one-third fewer names th…
+
 ### The Discipline of Rankings: Tight Coupling and Organizational Change
 **年份**: 2009 | **DOI**: [10.1177/000312240907400104](https://doi.org/10.1177/000312240907400104)
 **作者**: Sauder, Michael; Espeland, Wendy Nelson
@@ -174,6 +199,16 @@
 **年份**: 2009 | **DOI**: [10.1177/000312240907400206](https://doi.org/10.1177/000312240907400206)
 **作者**: Frank, David John; Hardinge, Tara; Wosick-Correa, Kassia
 **摘要**: Most studies of rape-law reform outcomes focus on single cases. We advance this literature by studying outcomes more systematically-leveraging new cross-national and longitudinal reform data-and showing that reform outcomes have both global and national determinants.…
+
+### The Global Economy as Instituted Process: The Case of Central and Eastern Europe
+**年份**: 2009 | **DOI**: [10.1177/000312240907400107](https://doi.org/10.1177/000312240907400107)
+**作者**: Bandelj, Nina
+**摘要**: I argue that economic globalization, indicated by the tremendous rise in world foreign direct investment (FDI) in recent decades, is not driven simply by investor considerations of economic risk and return, but is significantly shaped by the construction of demand for foreign capital by receiving st…
+
+### The Politics of Union Decline: The Contingent Determinants of Union Recognition Elections and Victories
+**年份**: 2009 | **DOI**: [10.1177/000312240907400508](https://doi.org/10.1177/000312240907400508)
+**作者**: Tope, Daniel; Jacobs, David
+**摘要**: Despite the close political regulation of union recognition disputes, sociologists have paid little attention to recent political determinants of success in these contests. A state-centered political-opportunity approach suggests that if conservative political officials can reduce the number of unio…
 
 ### The Sources and Consequences of National Identification
 **年份**: 2009 | **DOI**: [10.1177/000312240907400404](https://doi.org/10.1177/000312240907400404)
@@ -210,6 +245,11 @@
 **作者**: Martin, Andrew W.; McCarthy, John D.; McPhail, Clark
 **摘要**: Efforts to develop a unified model of collective violence have been limited by the diverse array of events analyzed, from terrorist attacks to riots. This article seeks to develop a more inclusive theoretical and analytic framework by exploring the targets of violence, something that has received li…
 
+### Agricultural Revolution and Elite Reproduction in Qing China: The Transition to Capitalism Debate Revisited
+**年份**: 2008 | **DOI**: [10.1177/000312240807300403](https://doi.org/10.1177/000312240807300403)
+**作者**: Hung, Ho-fung
+**摘要**: Recent actor-centric theory about the historical rise of capitalism emphasizes the role of the autonomous agrarian elite in fostering a sustained agricultural revolution. This revolution generated ample agrarian surplus, in the form of rural elite's elevated income, to fuel a capitalist-industrial t…
+
 ### Beyond the Census Tract: Patterns and Determinants of Racial Segregation at Multiple Geographic Scales
 **年份**: 2008 | **DOI**: [10.1177/000312240807300504](https://doi.org/10.1177/000312240807300504)
 **作者**: Lee, Barrett A.; Reardon, Sean F.; Firebaugh, Glenn 等6人
@@ -220,10 +260,25 @@
 **作者**: Otis, Eileen M.
 **摘要**: Despite the international growth of the service sector an industrial paradigm defines the study of global labor. This is because analyses of service work typically focus on firms in the United States, while studies of global labor concentrate on manufacturing.…
 
+### Can Power from Below Change the World?
+**年份**: 2008 | **DOI**: [10.1177/000312240807300101](https://doi.org/10.1177/000312240807300101)
+**作者**: Piven, Frances Fox
+**摘要**: Prevailing perspectives on power cannot explain why political protests from the bottom of societies sometimes result in reforms that reflect the grievances of the protestors. I propose a new theory of “interdependent power” that provides such an explanation.…
+
 ### Changing Relationships between Education and Fertility: A Study of Women and Men Born 1940 to 1964
 **年份**: 2008 | **DOI**: [10.1177/000312240807300508](https://doi.org/10.1177/000312240807300508)
 **作者**: Kravdal, Oystein; Rindfuss, Ronald R.
 **摘要**: Education and fertility (including childrearing) are foundational processes in societal metabolism, and the relationship between them can have profound, long-term effects on a variety of institutions, including the labor market, the family, (especially care for the elderly), and educational institut…
+
+### Classification as Culture: Types and Trajectories of Music Genres
+**年份**: 2008 | **DOI**: [10.1177/000312240807300501](https://doi.org/10.1177/000312240807300501)
+**作者**: Lena, Jennifer C.; Peterson, Richard A.
+**摘要**: Questions of symbolic classification have been central to sociology since its earliest days, given the relevance of distinctions for both affiliation and conflict. Music and its genres are no exception, organizing people and songs within a system of symbolic classification.…
+
+### Corporate Law and the Sovereignty of States
+**年份**: 2008 | **DOI**: [10.1177/000312240807300303](https://doi.org/10.1177/000312240807300303)
+**作者**: Kaufman, Jason
+**摘要**: This article explores the origins of a social form with lasting and profound sociological implications: the corporation. Though corporations date back as far as the Roman Republic, the early United States fostered a significant transformation in corporate law.…
 
 ### Corporate restructuring and sex differences in managerial promotion
 **年份**: 2008 | **DOI**: [10.1177/000312240807300305](https://doi.org/10.1177/000312240807300305)
@@ -234,6 +289,11 @@
 **年份**: 2008 | **DOI**: [10.1177/000312240807300502](https://doi.org/10.1177/000312240807300502)
 **作者**: Janssen, Susanne; Kuipers, Giselinde; Verboord, Marc
 **摘要**: This article charts key developments and cross-national variations in the coverage of foreign culture (i.e., classical and popular music, dance, film, literature, theater, television, and visual arts) in Dutch, French, German, and US. elite newspapers between 1955 and 2005.…
+
+### Democratization, Women's Movements, and Gender-Equitable States: A Framework for Comparison
+**年份**: 2008 | **DOI**: [10.1177/000312240807300407](https://doi.org/10.1177/000312240807300407)
+**作者**: Viterna, Jocelyn; Fallon, Kathleen M.
+**摘要**: There is a rich collection of case studies examining the relationship between democratization, women's movements, and gendered state outcomes, but the variation across cases is still poorly understood.…
 
 ### Divided we stand, united we fall: Religious pluralism, giving, and volunteering
 **年份**: 2008 | **DOI**: [10.1177/000312240807300106](https://doi.org/10.1177/000312240807300106)
@@ -325,6 +385,11 @@
 **作者**: Walder, Andrew G.; Nguyen, Giang Hoang
 **摘要**: In transitional economies, the scale of economic enterprise and the allocation of property rights shape social structures and influence income distribution. In agrarian economies, where labor-intensive family enterprises dominate, political officials' income advantages decline rapidly relative to th…
 
+### Religion and the Construction of Civic Identity
+**年份**: 2008 | **DOI**: [10.1177/000312240807300105](https://doi.org/10.1177/000312240807300105)
+**作者**: Lichterman, Paul
+**摘要**: Studies of religion's public roles typically concern the ways in which religious frameworks justify opinions and actions. This article draws from participant-observation research to show how people also use religion to define the boundaries of group identities and relationships.…
+
 ### Risk society and contested illness: The case of nuclear weapons workers
 **年份**: 2008 | **DOI**: [10.1177/000312240807300302](https://doi.org/10.1177/000312240807300302)
 **作者**: Cable, Sherry; Shriver, Thomas E.; Mix, Tamara L.
@@ -339,6 +404,11 @@
 **年份**: 2008 | **DOI**: [10.1177/000312240807300603](https://doi.org/10.1177/000312240807300603)
 **作者**: Maimon, David; Kuhl, Danielle C.
 **摘要**: Although the suicide rate among US. Youth between the ages of 10 to 24 dramatically increased during the past 50 years, little research has examined this outcome within larger social contexts of the adolescent environment.…
+
+### Social Exchange and Micro Social Order
+**年份**: 2008 | **DOI**: [10.1177/000312240807300401](https://doi.org/10.1177/000312240807300401)
+**作者**: Lawler, Edward J.; Thye, Shane R.; Yoon, Jeongkoo
+**摘要**: This study uses an affect theory of social exchange (Lawler 2001) to investigate how and when network structures generate “micro social orders.” Micro social order entails recurrent interactions, emotional reactions, perceptions of a group, and affective sentiments.…
 
 ### Social Movements and Organizational Form: Cooperative Alternatives to Corporations in the American Insurance, Dairy, and Grain Industries
 **年份**: 2008 | **DOI**: [10.1177/000312240807300406](https://doi.org/10.1177/000312240807300406)
@@ -360,10 +430,20 @@
 **作者**: Hagan, John; Rymond-Richmond, Wenona
 **摘要**: Sociologists empirically and theoretically neglect genocide. In this article, our critical collective framing perspective begins by focusing on state origins of race-based ideology in the mobilization and dehumanization leading to genocide.…
 
+### The Colonial State as a Social Field: Ethnographic Capital and Native Policy in the German Overseas Empire before 1914
+**年份**: 2008 | **DOI**: [10.1177/000312240807300404](https://doi.org/10.1177/000312240807300404)
+**作者**: Steinmetz, George
+**摘要**: What led modern colonizers to treat their subject populations in radically differing ways, ranging from genocide to efforts to “salvage” precolonial cultures? In Southwest Africa, Germany massacred the Ovaherero and Witbooi; in Samoa, Germany pursued a program of cultural retraditionalization; and i…
+
 ### The Effect of Sibship Size on Educational Attainment in China: Period Variations
 **年份**: 2008 | **DOI**: [10.1177/000312240807300506](https://doi.org/10.1177/000312240807300506)
 **作者**: Lu, Yao; Treiman, Donald J.
 **摘要**: In industrialized nations, sibship size generally depresses educational attainment: the larger the number of siblings, the lower the educational attainment. This association is much less consistent in developing nations, however.…
+
+### The Integration of Genetic Propensities into Social-Control Models of Delinquency and Violence among Male Youths
+**年份**: 2008 | **DOI**: [10.1177/000312240807300402](https://doi.org/10.1177/000312240807300402)
+**作者**: Guo, Guang; Roettger, Michael E.; Cai, Tianji
+**摘要**: This study, drawing on approximately 1,100 males from the National Longitudinal Study of Adolescent Health, demonstrates the importance of genetics, and genetic-environmental interactions, for understanding adolescent delinquency and violence.…
 
 ### The Social Production of Toxic Uncertainty
 **年份**: 2008 | **DOI**: [10.1177/000312240807300301](https://doi.org/10.1177/000312240807300301)
@@ -390,10 +470,10 @@
 **作者**: Gartner, Scott Sigmund
 **摘要**: Although played out on a global stage, 9/11 and the Iraq War represent highly personal events for those connected to the victims. A social tie to a conflict casualty transforms abstract costs into a vivid personal experience that increases the likelihood an individual disapproves of the president.…
 
-### The Integration of Genetic Propensities into Social-Control Models of Delinquency and Violence among Male Youths
-**年份**: 2008 | **DOI**: [10.1177/000312240807300402](https://doi.org/10.1177/000312240807300402)
-**作者**: Guo, Guang; Roettger, Michael E.; Cai, Tianji
-**摘要**: This study, drawing on approximately 1,100 males from the National Longitudinal Study of Adolescent Health, demonstrates the importance of genetics, and genetic-environmental interactions, for understanding adolescent delinquency and violence.…
+### Adoptive Parents, Adaptive Parents: Evaluating the Importance of Biological Ties for Parental Investment
+**年份**: 2007 | **DOI**: [10.1177/000312240707200105](https://doi.org/10.1177/000312240707200105)
+**作者**: Hamilton, Laura; Cheng, Simon; Powell, Brian
+**摘要**: Contemporary legal and scholarly debates emphasize the importance of biological parents for children's well-being. Scholarship in this vein often relies on stepparent families even though adoptive families provide an ideal opportunity to explore the role of biology in family life.…
 
 ### African American, Hispanic, and white beliefs about black/white inequality, 1977-2004
 **年份**: 2007 | **DOI**: [10.1177/000312240707200304](https://doi.org/10.1177/000312240707200304)
@@ -465,10 +545,20 @@
 **作者**: Villarreal, Andres; Yu, Wei-hsin
 **摘要**: Sociological research has been generally critical of the effects of economic globalization on developing countries. However greater worldwide economic integration may have created new employment opportunities for women.…
 
+### Engaging Sociological Audiences
+**年份**: 2007 | **DOI**: [10.1177/000312240707200201](https://doi.org/10.1177/000312240707200201)
+**作者**: Roscigno, Vincent J.; Hodson, Randy
+**摘要**: （暂无）
+
 ### Family instability and child well-being
 **年份**: 2007 | **DOI**: [10.1177/000312240707200203](https://doi.org/10.1177/000312240707200203)
 **作者**: Fomby, Paula; Cherlin, Andrew J.
 **摘要**: Children who experience multiple transitions in family structure may face worse developmental outcomes than children raised in stable, two-parent families, and perhaps even worse than children raised in stable, single-parent families-a point denoted in much prior research.…
+
+### Great Divides: The Cultural, Cognitive, and Social Bases of the Global Subordination of Women
+**年份**: 2007 | **DOI**: [10.1177/000312240707200101](https://doi.org/10.1177/000312240707200101)
+**作者**: Epstein, Cynthia Fuchs
+**摘要**: Categorization based on sex is the most basic social divide. It is the organizational basis of most major institutions, including the division of labor in the home, the workforce, politics, and religion. Globally, women's gendered roles are regarded as subordinate to men's.…
 
 ### How Puerto Rico became white: Boundary dynamics and intercensus racial reclassification
 **年份**: 2007 | **DOI**: [10.1177/000312240707200604](https://doi.org/10.1177/000312240707200604)
@@ -500,6 +590,16 @@
 **作者**: Hawkins, Daniel N.; Amato, Paul R.; King, Valarie
 **摘要**: Is active fathering by nonresident fathers a cause or a consequence of adolescent wellbeing? Past studies of nonresident father involvement assume a father effects model in which active parenting by fathers improves adolescent adjustment.…
 
+### Not by Productivity Alone: How Visibility and Specialization Contribute to Academic Earnings
+**年份**: 2007 | **DOI**: [10.1177/000312240707200403](https://doi.org/10.1177/000312240707200403)
+**作者**: Leahey, Erin
+**摘要**: The popular adage “publish or perish” has long defined individual career strategies as well as scholarly investigations of earnings inequality in academe, as researchers have relied heavily on research productivity to explain earnings inequality among faculty members.…
+
+### On the Relations Between Right-Wing Parties and Anti-foreigner Sentiment
+**年份**: 2007 | **DOI**: [10.1177/000312240707200510](https://doi.org/10.1177/000312240707200510)
+**作者**: Semyonov, Moshe; Raijman, Rebeca; Gorodzeisky, Anastasia
+**摘要**: （暂无）
+
 ### Political action and party formation in the United States Constitutional Convention
 **年份**: 2007 | **DOI**: [10.1177/000312240707200103](https://doi.org/10.1177/000312240707200103)
 **作者**: Slez, Adam; Martin, John Levi
@@ -520,6 +620,11 @@
 **作者**: Mizrachi, Nissim; Drori, Israel; Anspach, Renee R.
 **摘要**: Sociologists and other social scientists have recently renewed their interest in the concept of trust. Multidisciplinary studies have identified social psychological, economic, and structural determinants of trust; traced its development in interpersonal relationships; and explored its transformatio…
 
+### Right-Wing Parties and Anti-foreigner Sentiment in Europe
+**年份**: 2007 | **DOI**: [10.1177/000312240707200509](https://doi.org/10.1177/000312240707200509)
+**作者**: Wilkes, Rima; Guppy, Neil; Farris, Lily
+**摘要**: （暂无）
+
 ### Risky business: Assessing risk preference explanations for gender differences in religiosity
 **年份**: 2007 | **DOI**: [10.1177/000312240707200204](https://doi.org/10.1177/000312240707200204)
 **作者**: Roth, Louise Marie; Kroll, Jeffrey C.
@@ -539,6 +644,11 @@
 **年份**: 2007 | **DOI**: [10.1177/000312240707200601](https://doi.org/10.1177/000312240707200601)
 **作者**: Vaisey, Stephen
 **摘要**: Driven by the popularity of social capital theories, the concept of community is enjoying a renaissance in sociology. Yet much research in this area relies on exclusively structural thinking, attributing group identification to mechanisms such as the arrangement of physical space, power relations, o…
+
+### The Winds of Change: The Progressive Movement and the Bureaucratization of Thrift
+**年份**: 2007 | **DOI**: [10.1177/000312240707200106](https://doi.org/10.1177/000312240707200106)
+**作者**: Haveman, Heather A.; Rao, Hayagreeva; Paruchuri, Srikanth
+**摘要**: This article examines how the values espoused by social movements become entrenched in political culture and spawn many new kinds of institutions, which in turn shape organizations far from movements' original targets.…
 
 ### The decline of intergenerational coresidence in the United States, 1850 to 2000
 **年份**: 2007 | **DOI**: [10.1177/000312240707200606](https://doi.org/10.1177/000312240707200606)
@@ -595,6 +705,11 @@
 **作者**: Edgell, P; Gerteis, J; Hartmann, D
 **摘要**: Despite the declining salience of divisions among religious groups, the boundary between believers and nonbelievers in America remains strong. This article examines the limits of Americans' acceptance of atheists.…
 
+### Best Practices or Best Guesses? Assessing the Efficacy of Corporate Affirmative Action and Diversity Policies
+**年份**: 2006 | **DOI**: [10.1177/000312240607100404](https://doi.org/10.1177/000312240607100404)
+**作者**: Kalev, Alexandra; Dobbin, Frank; Kelly, Erin
+**摘要**: Employers have experimented with three broad approaches to promoting diversity. Some programs are designed to establish organizational responsibility for diversity, others to moderate managerial bias through training and feedback, and still others to reduce the social isolation of women and minority…
+
 ### Black and white control of numbers gambling: A cultural assets-social capital view
 **年份**: 2006 | **DOI**: [10.1177/000312240607100106](https://doi.org/10.1177/000312240607100106)
 **作者**: Steffensmeier, D; Ulmer, JT
@@ -619,6 +734,16 @@
 **年份**: 2006 | **DOI**: [10.1177/000312240607100204](https://doi.org/10.1177/000312240607100204)
 **作者**: Kitts, JA
 **摘要**: Centralized sanctions (selective incentives) and informal norms have been advanced as distinct solutions to collective action problems. This article investigates their interaction, modeling the emergence of norms in the presence of incentives to contribute to collective goods.…
+
+### Comparative Perspectives and Competing Explanations: Taking on the Newly Configured Reductionist Challenge to Sociology
+**年份**: 2006 | **DOI**: [10.1177/000312240607100101](https://doi.org/10.1177/000312240607100101)
+**作者**: Duster, Troy
+**摘要**: Sociology faces three important interrelated challenges in the coming decades. The first will be the increasing authority of reductionist science for which partial evidence is found in the strikingly imbalanced allocation of research funding for “causes” of wide-ranging problems—from disparities in …
+
+### Cultural Assets or Structural Advantages in Numbers Gambling?
+**年份**: 2006 | **DOI**: [10.1177/000312240607100107](https://doi.org/10.1177/000312240607100107)
+**作者**: Lee, Jennifer
+**摘要**: （暂无）
 
 ### Deterring delinquents: A rational choice model of theft and violence
 **年份**: 2006 | **DOI**: [10.1177/000312240607100105](https://doi.org/10.1177/000312240607100105)
@@ -645,6 +770,11 @@
 **作者**: Osberg, Lars; Smeeding, Timothy
 **摘要**: Are American attitudes toward economic inequality different from those in other countries? One tradition in sociology suggests American exceptionalism, while another argues for convergence across nations in social norms, such as attitudes toward inequality.…
 
+### Free-Market and Religious Fundamentalists versus Poor Relief
+**年份**: 2006 | **DOI**: [10.1177/000312240607100309](https://doi.org/10.1177/000312240607100309)
+**作者**: Hicks, Alexander
+**摘要**: In their stimulating Poverty to Perversity, Somers and Block (2005:261) bring from scattered academic and journalistic references (Giddens 1998:15; Soros 2002:4-10, 120-23; Stiglitz 2002:14-16, 230-31) into the pages of the American Sociological Review.…
+
 ### From empire to nation-state: Explaining wars in the modern world, 1816-2001
 **年份**: 2006 | **DOI**: [10.1177/000312240607100601](https://doi.org/10.1177/000312240607100601)
 **作者**: Wimmer, Andreas; Min, Brian
@@ -664,6 +794,16 @@
 **年份**: 2006 | **DOI**: [10.1177/000312240607100206](https://doi.org/10.1177/000312240607100206)
 **作者**: Sandberg, J
 **摘要**: The research presented here addresses a longstanding but previously unsupported theoretical proposition related to social learning in the demographic literature. This is that individuals should respond to lower (higher) infant mortality of socially proximate others with decreased (increased) fertili…
+
+### Is Telling Stories Good for Democracy? Rhetoric in Public Deliberation after 9/11
+**年份**: 2006 | **DOI**: [10.1177/000312240607100501](https://doi.org/10.1177/000312240607100501)
+**作者**: Polletta, Francesca; Lee, John
+**摘要**: This article develops a sociological perspective on the rhetorical conditions for good public deliberation, a topic of longstanding interest to scholars of the public sphere. The authors argue that the capacity of reason-giving, storytelling, and other rhetorical genres to foster deliberation depend…
+
+### Is there No Place for Culture in a Sociology of Legal and Illegal Enterprise?
+**年份**: 2006 | **DOI**: [10.1177/000312240607100108](https://doi.org/10.1177/000312240607100108)
+**作者**: Ulmer, Jeffery T.; Steffensmeier, Darrell
+**摘要**: （暂无）
 
 ### Kinship in the shadow of the corporation: The interbuilder network in Clyde River Shipbuilding, 1711-1990
 **年份**: 2006 | **DOI**: [10.1177/000312240607100208](https://doi.org/10.1177/000312240607100208)
@@ -710,10 +850,25 @@
 **作者**: Gangl, Markus
 **摘要**: This article uses panel data from the Survey of Income and Program Participation (SIPP) and the European Community Household Panel (ECHP) for a comparative analysis of workers'post-unemployment earnings trajectories in the United States and 12 Western European countries.…
 
+### Social Policy Responsiveness in Developed Democracies
+**年份**: 2006 | **DOI**: [10.1177/000312240607100306](https://doi.org/10.1177/000312240607100306)
+**作者**: Brooks, Clem; Manza, Jeff
+**摘要**: Do mass policy preferences influence the policy output of welfare states in developed democracies? This is an important issue for welfare state theory and research, and this article presents an analysis that builds from analytical innovations developed in the emerging literature on linkages between …
+
 ### Social isolation in America: Changes in core discussion networks over two decades
 **年份**: 2006 | **DOI**: [10.1177/000312240607100301](https://doi.org/10.1177/000312240607100301)
 **作者**: McPherson, Miller; Smith-Lovin, Lynn; Brashears, Matthew E.
 **摘要**: Have the core discussion networks of Americans changed in the past two decades? In 1985, the General Social Survey (GSS) collected the first nationally representative data on the confidants. with whom Americans discuss important matters.…
+
+### The Dynamics of Economic Disadvantage and Children's Life Chances
+**年份**: 2006 | **DOI**: [10.1177/000312240607100507](https://doi.org/10.1177/000312240607100507)
+**作者**: Wagmiller, Robert L.; Lennon, Mary Clare; Kuang, Li 等5人
+**摘要**: Recent research suggests that child well-being and subsequent status attainment are influenced not only by the duration of exposure to economic disadvantage during childhood, but also by the timing and sequencing of exposure.…
+
+### The Dynamics of Protest Diffusion: Movement Organizations, Social Networks, and News Media in the 1960 Sit-Ins
+**年份**: 2006 | **DOI**: [10.1177/000312240607100503](https://doi.org/10.1177/000312240607100503)
+**作者**: Andrews, Kenneth T.; Biggs, Michael
+**摘要**: The wave of sit-ins that swept through the American South in the spring of 1960 transformed the struggle for racial equality. This episode is widely cited in the literature on social movements, but the debate over its explanation remains unresolved—partly because previous research has relied on case…
 
 ### The conditional nature of embeddedness: A study of borrowing by large US Firms, 1973-1994
 **年份**: 2006 | **DOI**: [10.1177/000312240607100207](https://doi.org/10.1177/000312240607100207)
@@ -775,20 +930,10 @@
 **作者**: Elwert, F; Christakis, NA
 **摘要**: The health effects of marital status are frequently cited in the current debate on marriage promotion, but little is known about how marital health effects vary across groups. This article assembles the largest properly longitudinal and nationally representative dataset of elderly married couples in…
 
-### Cultural Assets or Structural Advantages in Numbers Gambling?
-**年份**: 2006 | **DOI**: [10.1177/000312240607100107](https://doi.org/10.1177/000312240607100107)
-**作者**: Lee, Jennifer
-**摘要**: （暂无）
-
-### Free-Market and Religious Fundamentalists versus Poor Relief
-**年份**: 2006 | **DOI**: [10.1177/000312240607100309](https://doi.org/10.1177/000312240607100309)
-**作者**: Hicks, Alexander
-**摘要**: （暂无）
-
-### The Dynamics of Economic Disadvantage and Children's Life Chances
-**年份**: 2006 | **DOI**: [10.1177/000312240607100507](https://doi.org/10.1177/000312240607100507)
-**作者**: Wagmiller, Robert L.; Lennon, Mary Clare; Kuang, Li 等5人
-**摘要**: Recent research suggests that child well-being and subsequent status attainment are influenced not only by the duration of exposure to economic disadvantage during childhood, but also by the timing and sequencing of exposure.…
+### A General Theory of Scientific/Intellectual Movements
+**年份**: 2005 | **DOI**: [10.1177/000312240507000202](https://doi.org/10.1177/000312240507000202)
+**作者**: Frickel, Scott; Gross, Neil
+**摘要**: The histories of all modern scientific and intellectual fields are marked by dynamism. Yet, despite a welter of case study data, sociologists of ideas have been slow to develop general theories for explaining why and how disciplines, subfields, theory groups, bandwagons, actor networks, and other ki…
 
 ### A clash of capitalisms: Foreign shareholders and corporate restructuring in 1990s Japan
 **年份**: 2005 | **DOI**: [10.1177/000312240507000305](https://doi.org/10.1177/000312240507000305)
@@ -815,6 +960,36 @@
 **作者**: Rao, H; Monin, P; Durand, R
 **摘要**: Sociological researchers have studied the consequences of strong categorical boundaries, but have devoted little attention to the causes and consequences of boundary erosion. This study analyzes the erosion of categorical boundaries in the case of opposing category pairs.…
 
+### Civic Associations and Authoritarian Regimes in Interwar Europe: Italy and Spain in Comparative Perspective
+**年份**: 2005 | **DOI**: [10.1177/000312240507000205](https://doi.org/10.1177/000312240507000205)
+**作者**: Riley, Dylan
+**摘要**: What is the relationship between civic associations and authoritarian regimes? While Tocquevillian theories have concentrated mostly on the connection between civic associationism and democracy, this article develops a Gramscian approach, suggesting that a strong associational sphere can facilitate …
+
+### Constructing Social Problems in an Age of Globalization: A French-American Comparison
+**年份**: 2005 | **DOI**: [10.1177/000312240507000203](https://doi.org/10.1177/000312240507000203)
+**作者**: Benson, Rodney; Saguy, Abigail C.
+**摘要**: Despite growing academic interest in political and cultural globalization, sociologists have failed to systematically account for the factors that favor cross-national convergence or divergence in the form or content of public political debates in news media.…
+
+### Cooperation in Microcredit Borrowing Groups: Identity, Sanctions, and Reciprocity in the Production of Collective Goods
+**年份**: 2005 | **DOI**: [10.1177/000312240507000307](https://doi.org/10.1177/000312240507000307)
+**作者**: Anthony, Denise
+**摘要**: Cooperation to produce collective goods is widespread in society, and yet so is its failure. Theorists have identified competing mechanisms for facilitating group cooperation, including group identity, sanctions and reciprocity.…
+
+### Cross-National Cultural Diffusion: The Global Spread of Cricket
+**年份**: 2005 | **DOI**: [10.1177/000312240507000105](https://doi.org/10.1177/000312240507000105)
+**作者**: Kaufman, Jason; Patterson, Orlando
+**摘要**: This article explores the dynamics of cross-national cultural diffusion through the study of a case in which a symbolically powerful cultural practice, the traditionally English sport of cricket, successfully diffused to most but not all countries with close cultural ties to England.…
+
+### Cultural Politics and Modernist Architecture: The Tulip Debate in Postwar Hungary
+**年份**: 2005 | **DOI**: [10.1177/000312240507000106](https://doi.org/10.1177/000312240507000106)
+**作者**: Molnár, Virág
+**摘要**: The article focuses on the interpretive struggles and contests surrounding the adoption and legitimation of fully or partly “imported” ideas. It examines the reception of modernist architecture in post-1945 Hungary to improve our understanding of how international cultural paradigms are incorporated…
+
+### Diffusion, Development, and Democracy, 1800-1999
+**年份**: 2005 | **DOI**: [10.1177/000312240507000104](https://doi.org/10.1177/000312240507000104)
+**作者**: Wejnert, Barbara
+**摘要**: While a trend of growth in democratization over the past two centuries has been generally observed, it is the remarkable growth in the democratization of the world over the past 30 years that has truly captured the imagination of social scientists, policymakers, and the general public alike.…
+
 ### Economic globalization and the welfare state in affluent democracies, 1975-2001
 **年份**: 2005 | **DOI**: [10.1177/000312240507000603](https://doi.org/10.1177/000312240507000603)
 **作者**: Brady, D; Beckfield, J; Seeleib-Kaiser, M
@@ -829,6 +1004,16 @@
 **年份**: 2005 | **DOI**: [10.1177/000312240507000501](https://doi.org/10.1177/000312240507000501)
 **作者**: Wrigley, J; Dreby, J
 **摘要**: Nearly 8 million children of employed parents are in nonrelative child care, but little is known about safety risks. Drawing on the literature reporting mistakes in organizations and medical errors, the authors analyze fatalities in US. child care.…
+
+### For Public Sociology
+**年份**: 2005 | **DOI**: [10.1177/000312240507000102](https://doi.org/10.1177/000312240507000102)
+**作者**: Burawoy, Michael
+**摘要**: Responding to the growing gap between the sociological ethos and the world we study, the challenge of public sociology is to engage multiple publics in multiple ways. These public sociologies should not be left out in the cold, but brought into the framework of our discipline.…
+
+### From Poverty to Perversity: Ideas, Markets, and Institutions over 200 Years of Welfare Debate
+**年份**: 2005 | **DOI**: [10.1177/000312240507000204](https://doi.org/10.1177/000312240507000204)
+**作者**: Somers, Margaret R.; Block, Fred
+**摘要**: To understand the rise of market fundamentalism from the margins of influence to mainstream hegemony, we compare the U.S. 1996 Personal Responsibility and Work Opportunities Reconciliation Act and the English 1834 New Poor Law—two episodes in which existing welfare regimes were overturned by market-…
 
 ### Gender stereotypes, same-gender preferences, and organizational variation in the hiring of women: Evidence from law firms
 **年份**: 2005 | **DOI**: [10.1177/000312240507000408](https://doi.org/10.1177/000312240507000408)
@@ -905,6 +1090,11 @@
 **作者**: Timmermans, S
 **摘要**: Since Durkheim pioneering study, official suicide statistics have been suspected of underreporting the true suicide rate. A majority of researchers asserts that mistakes are minimal and not systematic while a minority claims that suicide statistics are systematically biased.…
 
+### The Discourse of Globalization: Framing and Sensemaking of an Emerging Concept
+**年份**: 2005 | **DOI**: [10.1177/000312240507000103](https://doi.org/10.1177/000312240507000103)
+**作者**: Fiss, Peer C.; Hirsch, Paul M.
+**摘要**: While the literature on framing has importantly expanded our understanding of frame creation and contests from an interpretive point of view, previous studies have largely neglected the structural contexts in which framing activities occur.…
+
 ### The independence of young adults and the rise of interracial and same-sex unions
 **年份**: 2005 | **DOI**: [10.1177/000312240507000401](https://doi.org/10.1177/000312240507000401)
 **作者**: Rosenfeld, MJ; Kim, BS
@@ -930,6 +1120,11 @@
 **作者**: Korinek, K; Entwisle, B; Jampaklay, A
 **摘要**: A unique longitudinal and prospective approach is used to analyze the social embeddedness of rural-urban Thai migrants and their subsequent migration. More than any one particular social tie, it is the configuration of social ties at multiple levels that influences whether migrants experience their …
 
+### Unequal But Fluid: Social Mobility in Chile in Comparative Perspective
+**年份**: 2005 | **DOI**: [10.1177/000312240507000304](https://doi.org/10.1177/000312240507000304)
+**作者**: Torche, Florencia
+**摘要**: A major finding in comparative mobility research is the high similarity across countries and the lack of association between mobility and other national attributes, with one exception: higher inequality seems to be associated with lower mobility.…
+
 ### Vigilantism, current racial threat, and death sentences
 **年份**: 2005 | **DOI**: [10.1177/000312240507000406](https://doi.org/10.1177/000312240507000406)
 **作者**: Jacobs, D; Carmichael, JT; Kent, SL
@@ -944,16 +1139,6 @@
 **年份**: 2005 | **DOI**: [10.1177/000312240507000303](https://doi.org/10.1177/000312240507000303)
 **作者**: Yakubovich, V
 **摘要**: In 1973 Granovetter formulated the strength-of-weak-ties hypothesis (SWT), which became the foundation of a vast sociological literature on social networks in labor markets. Until now, SWT has never been directly tested but treated instead as a surrogate for the relationship between an actor's netwo…
-
-### Civic Associations and Authoritarian Regimes in Interwar Europe: Italy and Spain in Comparative Perspective
-**年份**: 2005 | **DOI**: [10.1177/000312240507000205](https://doi.org/10.1177/000312240507000205)
-**作者**: Riley, Dylan
-**摘要**: What is the relationship between civic associations and authoritarian regimes? While Tocquevillian theories have concentrated mostly on the connection between civic associationism and democracy, this article develops a Gramscian approach, suggesting that a strong associational sphere can facilitate …
-
-### Constructing Social Problems in an Age of Globalization: A French-American Comparison
-**年份**: 2005 | **DOI**: [10.1177/000312240507000203](https://doi.org/10.1177/000312240507000203)
-**作者**: Benson, Rodney; Saguy, Abigail C.
-**摘要**: Despite growing academic interest in political and cultural globalization, sociologists have failed to systematically account for the factors that favor cross-national convergence or divergence in the form or content of public political debates in news media.…
 
 ### Abortion, race, and gender in nineteenth-century America
 **年份**: 2004 | **DOI**: [10.1177/000312240406900402](https://doi.org/10.1177/000312240406900402)
@@ -1065,6 +1250,11 @@
 **作者**: Lee, BA; Farrell, CR; Link, BG
 **摘要**: Using data from a national survey of public attitudes toward homeless people, this paper evaluates the applicability of the contact hypothesis to in-group/out-group relations that fail to meet the optimal conditions specified in the contact literature.…
 
+### Rock in a Hard Place: Grassroots Cultural Production in the Post-Elvis Era
+**年份**: 2004 | **DOI**: [10.1177/000312240406900102](https://doi.org/10.1177/000312240406900102)
+**作者**: Bielby, William T.
+**摘要**: The emergence of rock and roll transformed the world of popular music in the mid-1950s. It inspired many teenagers to consider making music themselves, and they invented a new cultural form, the teen rock and roll band.…
+
 ### Sexual harassment as a gendered expression of power
 **年份**: 2004 | **DOI**: [10.1177/000312240406900105](https://doi.org/10.1177/000312240406900105)
 **作者**: Uggen, C; Blackstone, A
@@ -1074,6 +1264,21 @@
 **年份**: 2004 | **DOI**: [10.1177/000312240406900605](https://doi.org/10.1177/000312240406900605)
 **作者**: Rindfuss, RR; Choe, MK; Bumpass, LL 等4人
 **摘要**: Japan, unlike most Western countries, has not experienced several components of the second demographic transition, including cohabitation, widespread use of childcare centers, unmarried childbearing, and nonmarriage. Yet there is evidence that Japan is ripe for change in such family behaviors.…
+
+### Structural Incoherence and Stock Market Activity
+**年份**: 2004 | **DOI**: [10.1177/000312240406900305](https://doi.org/10.1177/000312240406900305)
+**作者**: Zuckerman, Ezra W.
+**摘要**: This paper argues that the efficiency of the price-setting process in the stock market is contingent on the coherence of a stock's position in the industry-based classificatory structure that guides valuation.…
+
+### The Organizational and Social Foundations of Worker Resistance
+**年份**: 2004 | **DOI**: [10.1177/000312240406900103](https://doi.org/10.1177/000312240406900103)
+**作者**: Roscigno, Vincent J.; Hodson, Randy
+**摘要**: The study of worker resistance has tended to focus either on organizational attributes that may alter actors' capacity to respond or on influential shop-floor social relations. This divide, partially driven by analytical and methodological preference, is also a function of different theoretical trad…
+
+### The Political Economy of Imprisonment in Affluent Western Democracies, 1960—1990
+**年份**: 2004 | **DOI**: [10.1177/000312240406900309](https://doi.org/10.1177/000312240406900309)
+**作者**: Sutton, John R.
+**摘要**: （暂无）
 
 ### The academic caste system: Prestige hierarchies in PhD exchange networks
 **年份**: 2004 | **DOI**: [10.1177/000312240406900205](https://doi.org/10.1177/000312240406900205)
@@ -1130,10 +1335,10 @@
 **作者**: Soule, SA; Olzak, S
 **摘要**: Data on the state-level ERA ratification process are used here to address leading theoretical debates about the role of social movements, public opinion, and political climate on policy outcomes, the goal being to test the claim that these factors depend on each other Social movement organizations, …
 
-### The Political Economy of Imprisonment in Affluent Western Democracies, 1960—1990
-**年份**: 2004 | **DOI**: [10.1177/000312240406900309](https://doi.org/10.1177/000312240406900309)
-**作者**: Sutton, John R.
-**摘要**: （暂无）
+### "Secularization" by Any Other Name
+**年份**: 2003 | **DOI**: [10.2307/1519771](https://doi.org/10.2307/1519771)
+**作者**: Marwell, Gerald; III, N. J. Demerath
+**摘要**: Dans ces deux articles, les AA. debattent de l'hypothese de la secularisation de la societe americaine face au nombre croissant de personnes sans religion. Il est question ici des recherches de Hout et Fischer de 2002 concernant les explications du declin des grandes organisations religieuses
 
 ### A formalization and test of the religious economies model
 **年份**: 2003 | **DOI**: [10.2307/1519762](https://doi.org/10.2307/1519762)
@@ -1145,10 +1350,20 @@
 **作者**: Quillian, L; Campbell, ME
 **摘要**: How will racial divisions in student friendship networks change as U.S. schools incorporate a growing Asian and Hispanic population? Drawing on theories of race in assimilation processes and the effects of relative group size on intergroup relations, several hypotheses are developed to address this …
 
+### Biomedicalization: Technoscientific Transformations of Health, Illness, and U.S. Biomedicine
+**年份**: 2003 | **DOI**: [10.2307/1519765](https://doi.org/10.2307/1519765)
+**作者**: Clarke, Adele E.; Mamo, Laura; Fishman, Jennifer R. 等5人
+**摘要**: The first social transformation of American medicine institutionally established medicine by the end of World War II. In the next decades, medicalization—the expansion of medical jurisdiction, authority, and practices into new realms—became widespread.…
+
 ### Certifying knowledge: The sociology of a logical theorem in artificial intelligence
 **年份**: 2003 | **DOI**: [10.2307/1519742](https://doi.org/10.2307/1519742)
 **作者**: Rosental, C
 **摘要**: This study examines the concrete modalities of the production and recognition of a specific logical theorem in the field of artificial intelligence in the 1990s. Ethnographic observations, interviews, and textual analysis, reveal the impact of a heterogeneity of practices of evaluation and other for…
+
+### Culture and Competition: Homophily and distancing Explanations for Cultural Niches
+**年份**: 2003 | **DOI**: [10.1177/000312240306800302](https://doi.org/10.1177/000312240306800302)
+**作者**: Mark, Noah P.
+**摘要**: Why do different kinds of people like different kinds of culture? Two answers to this question are formally analyzed and empirically tested: the homophily model and the distancing model.…
 
 ### Cumulative disadvantage and health: long-term consequences of obesity?
 **年份**: 2003 | **DOI**: [10.2307/1519759](https://doi.org/10.2307/1519759)
@@ -1180,6 +1395,21 @@
 **作者**: Zhou, XG; Zhao, W; Li, Q 等4人
 **摘要**: Interfirm contracts represent common economic relations in the marketplace; they are also deeply embedded in social relations and social institutions. In the context of China's transitional economy, this study examines how three mechanisms-economizing transaction costs, network-based social relation…
 
+### Emergent Public Spheres: Talking Politics in Participatory Governance
+**年份**: 2003 | **DOI**: [10.1177/000312240306800103](https://doi.org/10.1177/000312240306800103)
+**作者**: Baiocchi, Gianpaolo
+**摘要**: This article addresses the question of whether and how participation in government promotes the conditions for participants to engage in the open-ended and public-minded discussion heralded by democratic theorists.…
+
+### Footprints on the Earth: The Environmental Consequences of Modernity
+**年份**: 2003 | **DOI**: [10.2307/1519769](https://doi.org/10.2307/1519769)
+**作者**: York, Richard; Rosa, Eugene A.; Dietz, Thomas
+**摘要**: Growing evidence demonstrating clear threats to the sustainability of the ecosystems supporting human societies has given rise to a variety of sociological theories of human-environment interactions.…
+
+### Foreign Capital Dependence and Development: A New Direction
+**年份**: 2003 | **DOI**: [10.1177/000312240306800206](https://doi.org/10.1177/000312240306800206)
+**作者**: Kentor, Jeffrey; Boswell, Terry
+**摘要**: Scholars have long debated the impact of foreign investment on the economies of less developed countries. Many argue that foreign investment is beneficial for the host economy; others argue, just as forcefully, that dependence on foreign capital is detrimental.…
+
 ### Grammar and social organization: Yes/no interrogatives and the structure of responding
 **年份**: 2003 | **DOI**: [10.2307/1519752](https://doi.org/10.2307/1519752)
 **作者**: Raymond, G
@@ -1195,6 +1425,16 @@
 **作者**: Molm, LD; Takahashi, N; Peterson, G
 **摘要**: This article develops and tests alternative predictions about how the form of social exchange, negotiated or reciprocal, affects perceptions of fairness, independent of the structure and outcomes of exchange.…
 
+### Including Mechanisms in Our Models of Ascriptive Inequality
+**年份**: 2003 | **DOI**: [10.1177/000312240306800101](https://doi.org/10.1177/000312240306800101)
+**作者**: Reskin, Barbara F.
+**摘要**: Sociologists’ principal contribution to our understanding of ascriptive inequality has been to document race and sex disparities. We have made little headway, however, in explaining these disparities because most research has sought to explain variation across ascriptive groups in more or less desir…
+
+### Including Mechanisms in Our Models of Ascriptive Inequality: 2002 Presidential Address
+**年份**: 2003 | **DOI**: [10.2307/3088900](https://doi.org/10.2307/3088900)
+**作者**: Reskin, Barbara F.
+**摘要**: （暂无）
+
 ### Individuals, jobs, and labor markets: The devaluation of women's work
 **年份**: 2003 | **DOI**: [10.2307/1519732](https://doi.org/10.2307/1519732)
 **作者**: Cohen, PN; Huffman, MRL
@@ -1205,6 +1445,26 @@
 **作者**: Beckfield, J
 **摘要**: Recent research reveals strong effects of involvement in international organizations on state policies, but much of this research downplays inequality in world political participation, and there is only a limited understanding of what explains world-polity ties.…
 
+### Interracialism: The Ideological Transformation of Hawaii's Working Class
+**年份**: 2003 | **DOI**: [10.2307/1519729](https://doi.org/10.2307/1519729)
+**作者**: Jung, Moon-Kie
+**摘要**: A normative desire for interracialism undergirds and structures the sociology of race. However, focusing almost exclusively on racial divisions and conflicts, the sociology of race rarely subjects interracialism to explicit analysis.…
+
+### Long-Term Changes in the Character of the Sociological Discipline: A Short Note on the Length of Titles of Articles Submitted to the American Sociological Review during the year 2002
+**年份**: 2003 | **DOI**: [10.1177/000312240306800301](https://doi.org/10.1177/000312240306800301)
+**作者**: Becker, Howard S.
+**摘要**: Having often struggled during our years as ASR Editors to adjust the number of words in article titles to fit the space limitations of ASR's page design, we have been struck by the sheer length of many of the titles that we see. To gain perspective on this matter, we furnished Howard S.…
+
+### No Evidence for Stochastic Learning in Voter Turnout
+**年份**: 2003 | **DOI**: [10.2307/3088906](https://doi.org/10.2307/3088906)
+**作者**: Martin, Steven P.; Shieh, Ching-Yi A.
+**摘要**: Dans cet article, les AA. analysent les travaux de S. Kanazawa concerant le comportement des electeurs suivant la theorie du choix rationnel. Les AA. adressent ici deux critiques methodologiques du modele statistique de Kanazawa
+
+### O Be Some Other Name
+**年份**: 2003 | **DOI**: [10.2307/1519772](https://doi.org/10.2307/1519772)
+**作者**: Hout, Michael; Fischer, Claude S.
+**摘要**: （暂无）
+
 ### Precision and Exaggeration in Interaction
 **年份**: 2003 | **DOI**: [10.1177/000312240306800606](https://doi.org/10.1177/000312240306800606)
 **作者**: Drew, Paul
@@ -1214,6 +1474,11 @@
 **年份**: 2003 | **DOI**: [10.2307/1519740](https://doi.org/10.2307/1519740)
 **作者**: Earl, J; Soule, SA; McCarthy, JD
 **摘要**: Hypotheses about police presence and police action at social movement protest events in New York State between 1968 and 1973 are tested with the aim of understanding the broad mechanisms of social control used by authorities during this cycle of mass protest.…
+
+### Reading Shadows on Plato's Cave Wall
+**年份**: 2003 | **DOI**: [10.2307/3088907](https://doi.org/10.2307/3088907)
+**作者**: Kanazawa, Satoshi
+**摘要**: A response to the commentary that appears in this issue on the writer's "A New Solution to the Collective Action Problem: The Paradox of Voter Turnout," which appeared in American Sociological Review, vol. 65, 2000, pp. 433-442.
 
 ### Religion and economic growth across countries
 **年份**: 2003 | **DOI**: [10.2307/1519761](https://doi.org/10.2307/1519761)
@@ -1245,6 +1510,21 @@
 **作者**: Lucas, JW
 **摘要**: Socially disadvantaged individuals often encounter resistance when they rise to high-status positions. For example, women, according to status characteristics theory, will be disadvantaged relative to men in social interactions, other things being equal.…
 
+### Structural Cohesion and Embeddedness: A Hierarchical Concept of Social Groups
+**年份**: 2003 | **DOI**: [10.2307/3088904](https://doi.org/10.2307/3088904)
+**作者**: Moody, James; White, Douglas R.
+**摘要**: Although questions about social cohesion lie at the core of our discipline, definitions are often vague and difficult to operationalize. Here, research on social cohesion and social embeddedness is linked by developing a concept of structural cohesion based on network node connectivity.…
+
+### The Great Chain of Orientalism: Jewish Identity, Stigma Management, and Ethnic Exclusion in Israel
+**年份**: 2003 | **DOI**: [10.1177/000312240306800401](https://doi.org/10.1177/000312240306800401)
+**作者**: Khazzoom, Aziza
+**摘要**: This paper explores the role that orientalism has played in shaping ethnic inequality among Jews in Israel. Earlier works usually explain ethnic exclusion as a function of Jewish life on Israeli territory.…
+
+### The Structure of Founding Teams: Homophily, Strong Ties, and Isolation among U.S. Entrepreneurs
+**年份**: 2003 | **DOI**: [10.1177/000312240306800202](https://doi.org/10.1177/000312240306800202)
+**作者**: Ruef, Martin; Aldrich, Howard E.; Carter, Nancy M.
+**摘要**: The mechanisms governing the composition of formal social groups (e.g., task groups, organizational founding teams) remain poorly understood, owing to (1) a lack of representative sampling from groups found in the general population, (2) a “success” bias among researchers that leads them to consider…
+
 ### The global institutionalization of geological science, 1800 to 1990
 **年份**: 2003 | **DOI**: [10.2307/1519760](https://doi.org/10.2307/1519760)
 **作者**: Schofer, E
@@ -1254,6 +1534,11 @@
 **年份**: 2003 | **DOI**: [10.2307/1519766](https://doi.org/10.2307/1519766)
 **作者**: Ruef, M; Aldrich, HE; Carter, NM
 **摘要**: The mechanisms governing the composition of formal social groups (e.g., task groups, organizational founding teams) remain poorly understood, owing to (1) a lack of representative sampling from groups found in the general population, (2) a success bias among researchers that leads them to consider o…
+
+### Toward a Theory of Panethnicity: Explaining Asian American Collective Action
+**年份**: 2003 | **DOI**: [10.1177/000312240306800602](https://doi.org/10.1177/000312240306800602)
+**作者**: Okamoto, Dina G.
+**摘要**: This analysis extends theoretical models of ethnic boundary formation to account for the shifting and layered nature of ethnic boundaries. It focuses on the underlying structural conditions that facilitate the expansion ofethnic boundaries or the construction of a pan-national identity, and explores…
 
 ### War and bureaucratization in Qin China: Exploring an anomalous case
 **年份**: 2003 | **DOI**: [10.2307/1519737](https://doi.org/10.2307/1519737)
@@ -1275,30 +1560,25 @@
 **作者**: Vallas, SP
 **摘要**: Using data from a comparative, multisite ethnography, this paper identifies some of the social and organizational conditions that limited the impact of workplace transformation at four manufacturing plants during the 1990s.…
 
-### Emergent Public Spheres: Talking Politics in Participatory Governance
-**年份**: 2003 | **DOI**: [10.1177/000312240306800103](https://doi.org/10.1177/000312240306800103)
-**作者**: Baiocchi, Gianpaolo
-**摘要**: This article addresses the question of whether and how participation in government promotes the conditions for participants to engage in the open-ended and public-minded discussion heralded by democratic theorists.…
+### A Brief History of Human Society: The Origin and Role of Emotion in Social Life
+**年份**: 2002 | **DOI**: [10.1177/000312240206700101](https://doi.org/10.1177/000312240206700101)
+**作者**: Massey, Douglas S.
+**摘要**: Human society emerged over 6 million years of hominid evolution. During this time group size steadily increased, and to maintain group cohesion human beings gradually evolved a well-developed social intelligence based on the differentiation and refinement of emotions.…
 
-### Foreign Capital Dependence and Development: A New Direction
-**年份**: 2003 | **DOI**: [10.1177/000312240306800206](https://doi.org/10.1177/000312240306800206)
-**作者**: Kentor, Jeffrey; Boswell, Terry
-**摘要**: Scholars have long debated the impact of foreign investment on the economies of less developed countries. Many argue that foreign investment is beneficial for the host economy; others argue, just as forcefully, that dependence on foreign capital is detrimental.…
-
-### Culture and Competition: Homophily and distancing Explanations for Cultural Niches
-**年份**: 2003 | **DOI**: [10.1177/000312240306800302](https://doi.org/10.1177/000312240306800302)
-**作者**: Mark, Noah P.
-**摘要**: Why do different kinds of people like different kinds of culture? Two answers to this question are formally analyzed and empirically tested: the homophily model and the distancing model.…
-
-### Structural Cohesion and Embeddedness: A Hierarchical Concept of Social Groups
-**年份**: 2003 | **DOI**: [10.2307/3088904](https://doi.org/10.2307/3088904)
-**作者**: Moody, James; White, Douglas R.
+### A Brief History of Human Society: The Origin and Role of Emotion in Social Life: 2001 Presidential Address
+**年份**: 2002 | **DOI**: [10.2307/3088931](https://doi.org/10.2307/3088931)
+**作者**: Massey, Douglas S.
 **摘要**: （暂无）
 
 ### Assessing alternative perspectives on race and sex employment segregation
 **年份**: 2002 | **DOI**: [10.2307/3088945](https://doi.org/10.2307/3088945)
 **作者**: Kaufman, RL
 **摘要**: Four major explanations for employment segregation-skill deficits, worker preferences, economic and organizational structure, and stereotyping/queuing-are assessed using a diverse and overlapping set of predictors: general skills and training, product market structure, race- and sex-typed tasks and …
+
+### Becoming a Pragmatist Philosopher: Status, Self-Concept, and Intellectual Choice
+**年份**: 2002 | **DOI**: [10.2307/3088933](https://doi.org/10.2307/3088933)
+**作者**: Gross, Neil
+**摘要**: What social factors influence intellectuals’ decisions to affiliate with one intellectual tradition over another? In recent years, many sociologists of ideas have viewed intellectual choice as based on the quest for status within the intellectual field.…
 
 ### Cohort effects on suicide rates: International variations
 **年份**: 2002 | **DOI**: [10.2307/3088973](https://doi.org/10.2307/3088973)
@@ -1315,6 +1595,11 @@
 **作者**: Vinitzky-Seroussi, V
 **摘要**: While the literature on collective memory suggests that a multivocal type of commemoration will be constructed in response to a difficult past, Yitzhak Rabin's commemorations provide a case study of a different type of commemoration of challenging e vents: a fragmented commemoration.…
 
+### Confessional Protest: The Religious Birth of U.S. National Social Movements
+**年份**: 2002 | **DOI**: [10.1177/000312240206700502](https://doi.org/10.1177/000312240206700502)
+**作者**: Young, Michael P.
+**摘要**: Western forms of protest were fundamentally altered in the early nineteenth century. Scholars from a “contentious politics” perspective have identified this rupture in protest forms with the emergence of the “national social movement” and explain the rupture as the result of interactions with nation…
+
 ### Corporatism and unemployment in the 1980s and 1990s
 **年份**: 2002 | **DOI**: [10.2307/3088962](https://doi.org/10.2307/3088962)
 **作者**: Kenworthy, L
@@ -1325,10 +1610,20 @@
 **作者**: Mark, NP
 **摘要**: Why is human cooperation so prevalent? This paper identifies one potential reason for the prevalence of cooperation in human populations. People acquire social behaviors-cooperative or exploitative-from other people through cultural transmission.…
 
+### Data Happen, But How?
+**年份**: 2002 | **DOI**: [10.2307/3088977](https://doi.org/10.2307/3088977)
+**作者**: Paulsen, Krista E.; Molotch, Harvey; Freudenburg, William
+**摘要**: （暂无）
+
 ### Democratic contraction? Political consequences of felon disenfranchisement in the United States
 **年份**: 2002 | **DOI**: [10.2307/3088970](https://doi.org/10.2307/3088970)
 **作者**: Uggen, C; Manza, J
 **摘要**: Universal suffrage is a cornerstone of democratic governance. As levels of criminal punishment have risen in the United States, however an ever-larger number of citizens have lost the right to vote.…
+
+### Does Oppositional Culture Exist in Minority and Poverty Peer Groups?
+**年份**: 2002 | **DOI**: [10.2307/3088938](https://doi.org/10.2307/3088938)
+**作者**: Farkas, George; Lleras, Christy; Maczuga, Steve
+**摘要**: Cette etude teste les travaux exposes en aout 1998 dans la presente revue par Ainsworth-Darnell et Downey et parvient a la conclusion opposee. Contrairement aux auteurs precites, la presente etude montre qu'il est premature de rejeter la culture d'opposition comme un mecanisme pouvant influencer des…
 
 ### Emerging parental gender indifference? Sex composition of children and the third birth
 **年份**: 2002 | **DOI**: [10.2307/3088947](https://doi.org/10.2307/3088947)
@@ -1339,6 +1634,11 @@
 **年份**: 2002 | **DOI**: [10.2307/3088946](https://doi.org/10.2307/3088946)
 **作者**: Charles, M; Bradley, K
 **摘要**: The contours and correlates of sex segregation in higher education are explored using data from twelve advanced industrialized countries. Tertiary sex segregation is examined across two dimensions: field of study (horizontal segregation) and tertiary level (vertical segregation).…
+
+### Forging Social Order and Its Breakdown: Riot and Reform in U.S. Prisons
+**年份**: 2002 | **DOI**: [10.1177/000312240206700402](https://doi.org/10.1177/000312240206700402)
+**作者**: Useem, Bert; Goldstone, Jack a.
+**摘要**: Two cases of prison reform in the 1990s had widely divergent results. New Mexico privatized several prisons and these prisons were quickly beset by multiple riots. New York's publicly run Rikers Island prison, by contrast, adopted reforms that ended many years of riots and violence.…
 
 ### Forging social order and its breakdown: Riot and reform in US prisons
 **年份**: 2002 | **DOI**: [10.2307/3088943](https://doi.org/10.2307/3088943)
@@ -1355,10 +1655,20 @@
 **作者**: Isaac, L; Christiansen, L
 **摘要**: Can newly ascendant social movements revitalize the militant culture of older, institutionalized movements? Recent studies have focused on relations between new ascendant social movements like the civil rights, women's, and peace movements that emerged during the postwar cycle of protest, and theref…
 
+### Identifying the Unprecedented: Hannah Arendt, Totalitarianism, and the Critique of Sociology
+**年份**: 2002 | **DOI**: [10.2307/3088971](https://doi.org/10.2307/3088971)
+**作者**: Baehr, Peter
+**摘要**: How does one identify a phenomenon as radically new or “unprecedented”? Do, in fact, “unprecedented” phenomena exist at all, as presumably some degree of continuity marks every state of affairs?…
+
 ### Immigrant enclaves and ethnic communities in New York and Los Angeles
 **年份**: 2002 | **DOI**: [10.2307/3088897](https://doi.org/10.2307/3088897)
 **作者**: Logan, JR; Alba, RD; Zhang, WQ
 **摘要**: The predominant post-1965 immigrant groups have established distinctive settlement areas in many American cities and suburbs. These areas are generally understood in terms of an immigrant enclave model in which ethnic neighborhoods in central cities serve relatively impoverished new arrivals as a po…
+
+### Interpretive Activism and the Political Uses of Verdi's Operas in the 1840s
+**年份**: 2002 | **DOI**: [10.2307/3088961](https://doi.org/10.2307/3088961)
+**作者**: Stamatov, Peter
+**摘要**: The concept of interpretive activism as a relational position and a practical accomplishment is a useful analytical tool for the study of audiences conceived not as a conglomerate of individuals but as loose networks in which the ability to construct and impose political meanings is unequally distri…
 
 ### Invisible inequality: Social class and childrearing in black families and white families
 **年份**: 2002 | **DOI**: [10.2307/3088916](https://doi.org/10.2307/3088916)
@@ -1374,6 +1684,16 @@
 **年份**: 2002 | **DOI**: [10.2307/3088965](https://doi.org/10.2307/3088965)
 **作者**: Warren, JR; Hauser, RM; Sheridan, JT
 **摘要**: Sociologists frequently study changes across cohorts in the consequences of family background, gender education, and cognitive ability for occupational outcomes. This study focuses, however, on how the consequences of these variables change within the course of individuals' lives.…
+
+### Oil Development and the Accomplishment of Place
+**年份**: 2002 | **DOI**: [10.1177/000312240206700607](https://doi.org/10.1177/000312240206700607)
+**作者**: Adamson, Michael R.
+**摘要**: （暂无）
+
+### Organizational Size and Pollution: The Case of the U.S. Chemical Industry
+**年份**: 2002 | **DOI**: [10.1177/000312240206700304](https://doi.org/10.1177/000312240206700304)
+**作者**: Grant, Don Sherman; Jones, Andrew W.; Bergesen, Albert J.
+**摘要**: In their recent efforts to uncover the social structural causes of pollution, sociologists have explored the environmental effects of such factors as urbanization, modernization, class hierarchies, long economic cycles, and the world-system.…
 
 ### Organizational size and pollution: The case of the US chemical industry
 **年份**: 2002 | **DOI**: [10.2307/3088963](https://doi.org/10.2307/3088963)
@@ -1395,6 +1715,11 @@
 **作者**: Tolnay, SE; Crowder, KD; Adelman, RM
 **摘要**: Southern blacks and whites began moving to northern and western cities in large numbers during the second decade of the twentieth century. City-level and ward-level data for 103 northern and western cities are used, along with the 1920 Public Use Microdata Sample, to investigate variation in neighbo…
 
+### Religious Influence and the Politics of Family Decline Concern: Trends, Sources, and U.S. Political Behavior
+**年份**: 2002 | **DOI**: [10.1177/000312240206700202](https://doi.org/10.1177/000312240206700202)
+**作者**: Brooks, Clem
+**摘要**: One of the most widely debated issues in contemporary sociology has been how to interpret patterns of family change in the United States during the past four decades. Much of these debates focus on a thesis advanced by a number of scholars and political activists—that such features of family structu…
+
 ### Religious influence and the politics of family decline concern: Trends, sources, and US political behavior
 **年份**: 2002 | **DOI**: [10.2307/3088892](https://doi.org/10.2307/3088892)
 **作者**: Brooks, C
@@ -1410,6 +1735,16 @@
 **作者**: Boone, C; Carroll, GR; van Witteloostuijn, A
 **摘要**: Resource-partitioning theory explains how, in heavily concentrated populations, specialist organizations arise and proliferate. The theory also addresses the process of market concentration itself, although far less attention has been devoted to the theoretical claims in this area.…
 
+### Social Capital and Democracy: An Interdependent Relationship
+**年份**: 2002 | **DOI**: [10.2307/3088895](https://doi.org/10.2307/3088895)
+**作者**: Paxton, Pamela
+**摘要**: Current democratic theory and recent international policy initiatives reveal an intense interest in the relationship between social capital and democracy. This interest is the most recent variant of a long theoretical tradition positing that a vigorous associational life is beneficial for the creati…
+
+### Social Integration, Imitation, and the Geographic Patterning of Suicide
+**年份**: 2002 | **DOI**: [10.1177/000312240206700605](https://doi.org/10.1177/000312240206700605)
+**作者**: Baller, Robert D.; Richardson, Kelly K.
+**摘要**: One of sociology's defining debates centers on explanations of the geographic patterning of suicide. This classic debate is revisited using techniques of spatial analysis and data for two geographies: late nineteenth-century French departments, and late twentieth-century U.S. counties.…
+
 ### Structural change and post-socialist stratification: Labor market transitions in contemporary Russia
 **年份**: 2002 | **DOI**: [10.2307/3088910](https://doi.org/10.2307/3088910)
 **作者**: Gerber, TP
@@ -1419,6 +1754,11 @@
 **年份**: 2002 | **DOI**: [10.1177/000312240206700403](https://doi.org/10.1177/000312240206700403)
 **作者**: Western, Bruce
 **摘要**: A life course perspective on crime indicates that incarceration can disrupt key life transitions. Life course analysis of occupations finds that earnings mobility depends on stable employment in career jobs.…
+
+### The Search for Oppositional Culture among Black Students
+**年份**: 2002 | **DOI**: [10.2307/3088939](https://doi.org/10.2307/3088939)
+**作者**: Downey, Douglas B.; Ainsworth-Darnell, James W.
+**摘要**: RESULTS PUBLISHED in our 1998 ASR article (Ainsworth-Darnell and Downey 1998, henceforward A-D&D) presented a serious challenge to the oppositional culture explanation for racial/ethnic differences in school performance.…
 
 ### The hinges of history: State-making and revolt in early modern France
 **年份**: 2002 | **DOI**: [10.2307/3088975](https://doi.org/10.2307/3088975)
@@ -1460,30 +1800,25 @@
 **作者**: Hout, Michael; Fischer, Claude S.
 **摘要**: The proportion of Americans who reported no religious preference doubled from 7 percent to 14 percent in the 1990s. This dramatic change may have resulted from demographic shifts, increasing religious skepticism, or the mix of politics and religion that characterized the 1990s.…
 
-### Social Integration, Imitation, and the Geographic Patterning of Suicide
-**年份**: 2002 | **DOI**: [10.1177/000312240206700605](https://doi.org/10.1177/000312240206700605)
-**作者**: Baller, Robert D.; Richardson, Kelly K.
-**摘要**: One of sociology's defining debates centers on explanations of the geographic patterning of suicide. This classic debate is revisited using techniques of spatial analysis and data for two geographies: late nineteenth-century French departments, and late twentieth-century U.S. counties.…
+### (How) Does the Sexual Orientation of Parents Matter?
+**年份**: 2001 | **DOI**: [10.1177/000312240106600201](https://doi.org/10.1177/000312240106600201)
+**作者**: Stacey, Judith; Biblarz, Timothy J.
+**摘要**: Opponents of lesbian and gay parental rights claim that children with lesbigay parents are at higher risk for a variety of negative outcomes. Yet most research in psychology concludes that there are no differences in developmental outcomes between children raised by lesbigay parents and those raised…
 
-### Does Oppositional Culture Exist in Minority and Poverty Peer Groups?
-**年份**: 2002 | **DOI**: [10.2307/3088938](https://doi.org/10.2307/3088938)
-**作者**: Farkas, George; Lleras, Christy; Maczuga, Steve
-**摘要**: （暂无）
-
-### Social Capital and Democracy: An Interdependent Relationship
-**年份**: 2002 | **DOI**: [10.2307/3088895](https://doi.org/10.2307/3088895)
-**作者**: Paxton, Pamela
-**摘要**: （暂无）
-
-### A Brief History of Human Society: The Origin and Role of Emotion in Social Life: 2001 Presidential Address
-**年份**: 2002 | **DOI**: [10.2307/3088931](https://doi.org/10.2307/3088931)
-**作者**: Massey, Douglas S.
+### A Dialogue about ASR: The Editorial Team Talks
+**年份**: 2001 | **DOI**: [10.1177/000312240106600101](https://doi.org/10.1177/000312240106600101)
+**作者**: Camic, Charles; Wilson, Franklin D.
 **摘要**: （暂无）
 
 ### America's liberalization in attitudes toward homosexuality, 1973 to 1998
 **年份**: 2001 | **DOI**: [10.2307/3088957](https://doi.org/10.2307/3088957)
 **作者**: Loftus, J
 **摘要**: Using General Social Survey data from 1973 to 1998, changing American attitudes toward homosexuality are examined. Two hypotheses are tested: (1) Can changes in attitudes be accounted for by the changing demographics of the population?…
+
+### Calling the Bluff of Value-Free Science
+**年份**: 2001 | **DOI**: [10.1177/000312240106600408](https://doi.org/10.1177/000312240106600408)
+**作者**: Risman, Barbara J.
+**摘要**: （暂无）
 
 ### Calling the bluff of value-free science - Comment
 **年份**: 2001 | **DOI**: [10.2307/3088926](https://doi.org/10.2307/3088926)
@@ -1500,6 +1835,11 @@
 **作者**: Okamoto, DG; Smith-Lovin, L
 **摘要**: Social scientists have devoted a great deal of attention to how much people talk, but have paid little attention to what the they talk about. Research in the tradition of conversation analysis suggests that transitions between topics of conversation are accomplished in a systematic, structured way, …
 
+### Community as Gift-Giving: Collectivistic Roots of Volunteerism
+**年份**: 2001 | **DOI**: [10.1177/000312240106600603](https://doi.org/10.1177/000312240106600603)
+**作者**: Eckstein, Susan
+**摘要**: Who in America volunteers what and why? And what impact does volunteering have? It is widely believed that the typical volunteer is middle-aged and middle-class and that volunteerism is rooted in American cultural individualism.…
+
 ### Community as gift-giving: Collectivisitic roots of volunteerism
 **年份**: 2001 | **DOI**: [10.2307/3088875](https://doi.org/10.2307/3088875)
 **作者**: Eckstein, S
@@ -1510,15 +1850,40 @@
 **作者**: Emerson, MO; Yancey, G; Chai, KJ
 **摘要**: Employing an alternative methodology and new data, the authors address the debate concerning the underlying causes of racial residential segregation. Are white Americans avoiding racially mixed neighborhoods because they do not want to live with nonwhites?…
 
+### Exchange Structures in Transition: Lending and Trade Relations in Chinese Business Groups
+**年份**: 2001 | **DOI**: [10.2307/3088883](https://doi.org/10.2307/3088883)
+**作者**: Keister, Lisa A.
+**摘要**: The networks of interfirm relations that developed in business groups during economic transition are central to China's reform and are becoming an important part of the country's emergent economic structure.…
+
+### Feminist Critics Uncover Determinism, Positivism, and Antiquated Theory
+**年份**: 2001 | **DOI**: [10.1177/000312240106600409](https://doi.org/10.1177/000312240106600409)
+**作者**: Udry, J. Richard
+**摘要**: （暂无）
+
 ### Feminist critics uncover determinism, positivism, and antiquated theory - Reply
 **年份**: 2001 | **DOI**: [10.2307/3088927](https://doi.org/10.2307/3088927)
 **作者**: Udry, JR
 **摘要**: Kanter, Rosabeth. 1977. Men and Women of the Corporation. New York: Harper and Row. Lorber, Judith. 1994. Paradoxes of New Haven, CT: Yale University Press. Maccoby, Eleanor. 1998. Two Sexes. Cambridge, MA: Belknap Press of Harvard University. Meyers, Kristen, Cynthia Anderson, and Barbara Risman.…
 
+### Food Security in Less Developed Countries, 1970 to 1990
+**年份**: 2001 | **DOI**: [10.2307/3088955](https://doi.org/10.2307/3088955)
+**作者**: Jenkins, J. Craig; Scanlan, Stephen J.
+**摘要**: Despite a global food surplus, almost half of the world's less developed countries suffer significant problems concerning food. Most social science and policy discussions of food security make the “food availability” assumption that increased food supply is the key to reducing hunger.…
+
 ### Getting deals done: The use of social networks in bank decision-making
 **年份**: 2001 | **DOI**: [10.2307/3088952](https://doi.org/10.2307/3088952)
 **作者**: Mizruchi, MS; Stearns, LB
 **摘要**: Economic actors confront various forms of uncertainty making decisions, and how they deal with these obstacles may affect their success in accomplishing their goals. This study examines the means by which relationship managers in a major commercial bank attempt to close transactions with their corpo…
+
+### Getting to the Truths That Matter
+**年份**: 2001 | **DOI**: [10.2307/2657398](https://doi.org/10.2307/2657398)
+**作者**: Greeley, Andrew; Hout, Michael
+**摘要**: Ce texte constitue une reponse point par point des A. aux critiques emises par Stolzenberg de leur etude consacree aux religions juive et catholique et aux tendances actuelles des croyances religieuses respectives.…
+
+### How Movements Win: Gendered Opportunity Structures and U.S. Women's Suffrage Movements, 1866 to 1919
+**年份**: 2001 | **DOI**: [10.1177/000312240106600104](https://doi.org/10.1177/000312240106600104)
+**作者**: McCammon, Holly J.; Campbell, Karen E.; Granberg, Ellen M. 等4人
+**摘要**: State women's suffrage movements are investigated to illuminate the circumstances in which social movements bring about political change. In 29 states, suffragists were able to win significant voting rights prior to passage of the Nineteenth Amendment.…
 
 ### Intellectualization and art world development: Film in the United States
 **年份**: 2001 | **DOI**: [10.2307/3088886](https://doi.org/10.2307/3088886)
@@ -1540,6 +1905,11 @@
 **作者**: Owen-Smith, J
 **摘要**: Laboratory ethnographies are the shop-fiber studies of the knowledge economy. Observational data from II months of field work in a multidisciplinary neuroscience lab suggest that scientific skepticism. long understood as an evaluative mechanism, also serves social control and monitoring functions.…
 
+### Marriage Delayed or Marriage Forgone? New Cohort Forecasts of First Marriage for U.S. Women
+**年份**: 2001 | **DOI**: [10.1177/000312240106600402](https://doi.org/10.1177/000312240106600402)
+**作者**: Goldstein, Joshua R.; Kenney, Catherine T.
+**摘要**: Do recent declines in first marriage rates signal that an increasing proportion of women will remain single their entire lives, or merely that they are postponing marriage to older ages?…
+
 ### Marriage delayed or marriage forgone? New cohort forecasts of first marriage for US women
 **年份**: 2001 | **DOI**: [10.2307/3088920](https://doi.org/10.2307/3088920)
 **作者**: Goldstein, JR; Kenney, CT
@@ -1549,6 +1919,11 @@
 **年份**: 2001 | **DOI**: [10.2307/3088919](https://doi.org/10.2307/3088919)
 **作者**: Axinn, WG; Barber, JS
 **摘要**: The relationship between the spread of mass education and fertility-limiting behavior is examined. Existing theories relating education to fertility limitation are integrated, including those relating the presence of educational opportunity to fertility decline, theories relating women's education t…
+
+### Media and Mobilization: The Case of Radio and Southern Textile Worker Insurgency, 1929 to 1934
+**年份**: 2001 | **DOI**: [10.2307/2657392](https://doi.org/10.2307/2657392)
+**作者**: Roscigno, Vincent J.; Danaher, William F.
+**摘要**: Collective action rests, in part, on group identity and political opportunity. Just how group identity is manifested and perceptions of political opportunity are altered, however, remain unclear, particularly in the case of a geographically dispersed population.…
 
 ### Nations of joiners: Explaining voluntary association membership in democratic societies
 **年份**: 2001 | **DOI**: [10.2307/3088873](https://doi.org/10.2307/3088873)
@@ -1570,6 +1945,26 @@
 **作者**: Ross, Catherine E.; Mirowsky, John; Pribesh, Shana
 **摘要**: A theory of trust is developed and tested. The theory posits that mistrust develops in neighborhoods where resources are scarce and threat is common, and among individuals with few resources and who feel powerless to avoid or manage the threat.…
 
+### Social Citizenship and a Reconstructed Tocqueville
+**年份**: 2001 | **DOI**: [10.1177/000312240106600207](https://doi.org/10.1177/000312240106600207)
+**作者**: Goldberg, Chad Alan
+**摘要**: The implications of Alexis de Tocqueville's theory of democracy for current debates about social citizenship and the welfare state are explored. Systematizing accounts of Tocqueville's views on public relief have been one-sided and have facilitated efforts by the New Right to appropriate his legacy …
+
+### Social Justice and Sociology: Agendas for the Twenty-First Century
+**年份**: 2001 | **DOI**: [10.1177/000312240106600102](https://doi.org/10.1177/000312240106600102)
+**作者**: Feagin, Joe R.
+**摘要**: The world's peoples face daunting challenges in the twenty-first century. While apologists herald the globalization of capitalism, many people on our planet experience recurring economic exploitation, immiseration, and environmental crises linked to capitalism's spread.…
+
+### Social Justice and Sociology: Agendas for the Twenty-First Century: Presidential Address
+**年份**: 2001 | **DOI**: [10.2307/2657391](https://doi.org/10.2307/2657391)
+**作者**: Feagin, Joe R.
+**摘要**: （暂无）
+
+### Social Movements and Policy Implementation: The Mississippi Civil Rights Movement and the War on Poverty, 1965 to 1971
+**年份**: 2001 | **DOI**: [10.2307/2657394](https://doi.org/10.2307/2657394)
+**作者**: Andrews, Kenneth T.
+**摘要**: This study of the Mississippi civil rights movement and the War on Poverty examines the relationship between social movements and policy implementation. A “movement infrastructure” model is developed that focuses on organizational structure, resources, and leadership to account for the impact of soc…
+
 ### Sources of racial wage inequality in metropolitan labor markets: Racial, ethnic, and gender differences
 **年份**: 2001 | **DOI**: [10.2307/3088921](https://doi.org/10.2307/3088921)
 **作者**: McCall, L
@@ -1589,6 +1984,11 @@
 **年份**: 2001 | **DOI**: [10.2307/3088928](https://doi.org/10.2307/3088928)
 **作者**: Firebaugh, G
 **摘要**: Because Professors Risman (2001, henceforward Risman) and Udry (2001, henceforward Udry) speculate about the ASR review process in their exchange, the current ASR Editors asked me to write a reply.…
+
+### The Limits of Biological Determinism
+**年份**: 2001 | **DOI**: [10.1177/000312240106600406](https://doi.org/10.1177/000312240106600406)
+**作者**: Miller, Eleanor M.; Costello, Carrie Yang
+**摘要**: U dry (2000, henceforward Udry), claims to have established that sex dimorphic behavior is produced by prenatal exposure to varying levels of testosterone.He concludes that if societies "depart too far from the underlying sex-dimorphism of biological predispositions, they will generate social malais…
 
 ### The ecology of tactical overlap
 **年份**: 2001 | **DOI**: [10.2307/3088954](https://doi.org/10.2307/3088954)
@@ -1635,10 +2035,25 @@
 **作者**: South, SJ
 **摘要**: The specialization and trading model-the dominant theoretical perspective on marital stability-posits a positive effect of wives' economic independence on the risk of divorce. Prior evidence for this association is mixed. however.…
 
+### Transformations in New Immigrant Religions and Their Global Implications
+**年份**: 2001 | **DOI**: [10.1177/000312240106600206](https://doi.org/10.1177/000312240106600206)
+**作者**: Yang, Fenggang; Ebaugh, Helen Rose
+**摘要**: Immigrant religious communities in the United States are undergoing profound transformations. Three processes of change occurring in new immigrant religions are described and analyzed: (I) adopting the congregational form in organizational structure and ritual, (2) returning to theological foundatio…
+
+### True Facts, True Stories, and True Differences
+**年份**: 2001 | **DOI**: [10.2307/2657397](https://doi.org/10.2307/2657397)
+**作者**: Stolzenberg, Ross M.
+**摘要**: Cet article est un commentaire critique d'une etude de Greeley et Hout (1999), qui s'interessant aux religions juive et catholique, presentent des hypotheses relatives aux tendances dans l'evolution des croyances respectives.…
+
 ### Uncertainty, risk, and trust: Russian and American credit card markets compared
 **年份**: 2001 | **DOI**: [10.2307/3088951](https://doi.org/10.2307/3088951)
 **作者**: Guseva, A; Rona-Tas, A
 **摘要**: The strategies that Russian and American banks use to evaluate the creditworthiness of prospective credit card holders are compared. Drawing on Knight's theory of risk and uncertainty, the authors argue that uncertainty, inherent in any credit transaction, can only be reduced to measurable risk if t…
+
+### What is Gender?
+**年份**: 2001 | **DOI**: [10.1177/000312240106600407](https://doi.org/10.1177/000312240106600407)
+**作者**: Kennelly, Ivy; Merz, Sabine N.; Lorber, Judith
+**摘要**: （暂无）
 
 ### What is gender? Comment
 **年份**: 2001 | **DOI**: [10.2307/3088925](https://doi.org/10.2307/3088925)
@@ -1655,10 +2070,10 @@
 **作者**: Hagan, J; Foster, H
 **摘要**: American youth experience high levels of violence, and increasingly the U.S. public policy response is to punish young perpetrators of violence through waivers and transfers from juvenile to adult courts.…
 
-### What is Gender?
-**年份**: 2001 | **DOI**: [10.1177/000312240106600407](https://doi.org/10.1177/000312240106600407)
-**作者**: Kennelly, Ivy; Merz, Sabine N.; Lorber, Judith
-**摘要**: （暂无）
+### A Status Value Theory of Power in Exchange Relations
+**年份**: 2000 | **DOI**: [10.1177/000312240006500305](https://doi.org/10.1177/000312240006500305)
+**作者**: Thye, Shane R.
+**摘要**: A new status value theory of power is proposed that bridges two previously distinct research literatures. The theory asserts that exchangeable objects controlled by high-status actors are perceived to be more valuable when relevant to positive status characteristics.…
 
 ### A new solution to the collective action problem: The paradox of voter turnout
 **年份**: 2000 | **DOI**: [10.2307/2657465](https://doi.org/10.2307/2657465)
@@ -1710,10 +2125,20 @@
 **作者**: Entwisle, DR; Alexander, KL; Olson, LS
 **摘要**: Using a life course framework, we examine Baltimore adolescents' paid work from ages 13 to 18 to describe (I) the start of the transition to adulthood; (2) how work interlaces with schooling; (3) how work is segmented along sociodemographic lines, and (4) how early work (at ages 13 and 14) affects l…
 
+### Environmentalism as A Global Institution
+**年份**: 2000 | **DOI**: [10.1177/000312240006500108](https://doi.org/10.1177/000312240006500108)
+**作者**: Frank, David John; Hironaka, Ann; Schofer, Evan
+**摘要**: （暂无）
+
 ### Environmentalism as a global institution -: Reply to Buttel
 **年份**: 2000 | **DOI**: [10.2307/2657293](https://doi.org/10.2307/2657293)
 **作者**: Frank, DJ; Hironaka, A; Schofer, E
 **摘要**: （暂无）
+
+### Ethnicity and Sentencing Outcomes in U.S. Federal Courts: Who is Punished More Harshly?
+**年份**: 2000 | **DOI**: [10.1177/000312240006500505](https://doi.org/10.1177/000312240006500505)
+**作者**: Steffensmeier, Darrell; Demuth, Stephen
+**摘要**: Using federal court data collected by the U.S. Sentencing Commission for the years 1993–1996, this study examines racial/ethnic differences-white versus black versus white-Hispanic versus black-Hispanic—in sentencing outcomes and criteria under the federal sentencing guidelines.…
 
 ### Ethnicity and sentencing outcomes in US federal courts: Who is punished more harshly?
 **年份**: 2000 | **DOI**: [10.2307/2657543](https://doi.org/10.2307/2657543)
@@ -1725,15 +2150,35 @@
 **作者**: Dykema, J; Schaeffer, NC
 **摘要**: Social scientists frequently lack methods for assessing the accuracy of survey responses about events and behaviors. And often they do not have a genera framework for understanding or systematically analyzing the characteristics of experience, if any, that influence errors in reports about those eve…
 
+### Family Change, Employment Transitions, and the Welfare State: Household Income Dynamics in the United States and Germany
+**年份**: 2000 | **DOI**: [10.1177/000312240006500302](https://doi.org/10.1177/000312240006500302)
+**作者**: DiPrete, Thomas A.; McManus, Patricia A.
+**摘要**: Since the demise of modernization theory, social scientists have sought explanations for persisting differences in the stratification of industrialized societies, primarily by studying how educational and labor market institutions shape the life chances of individuals.…
+
 ### Family chance, employment transitions, and the welfare state: Household income dynamics in the United States and Germany
 **年份**: 2000 | **DOI**: [10.2307/2657461](https://doi.org/10.2307/2657461)
 **作者**: DiPrete, TA; McManus, PA
 **摘要**: Since the demise of modernization theory, social scientists have sought explanations for persisting differences in the stratification of industrialized societies, primarily by studying how educational and labor market institutions shape the life chances of individuals.…
 
+### Gender Stratification and Paradigm Change
+**年份**: 2000 | **DOI**: [10.1177/000312240006500310](https://doi.org/10.1177/000312240006500310)
+**作者**: Ferree, Myra Marx; Hall, Elaine J.
+**摘要**: （暂无）
+
 ### Gender and the new inequality: Explaining the college/non-college wage gap
 **年份**: 2000 | **DOI**: [10.2307/2657439](https://doi.org/10.2307/2657439)
 **作者**: McCall, L
 **摘要**: The new inequality is often characterized by the increasing wage gal, between workers with a college education and those without. Yet, although the gap in hourly wages between college-educated and non-college-educated women is high and rising, the topic has been overshadowed by research on gender in…
+
+### Historicizing the Secularization Debate: Church, State, and Society in Late Medieval and Early Modern Europe, ca. 1300 to 1700
+**年份**: 2000 | **DOI**: [10.2307/2657295](https://doi.org/10.2307/2657295)
+**作者**: Gorski, Philip S.
+**摘要**: In recent years, the sociology of religion has been consumed by a debate over secularization that pits advocates of a new, rational-choice paradigm (the so-called religious economies model) against defenders of classical secularization theory.…
+
+### History Repeats Itself, But How? City Character, Urban Tradition, and the Accomplishment of Place
+**年份**: 2000 | **DOI**: [10.2307/2657514](https://doi.org/10.2307/2657514)
+**作者**: Molotch, Harvey; Freudenburg, William; Paulsen, Krista E.
+**摘要**: This study shows how places, and by implication other societal units as well, achieve and reproduce distinctiveness. It does this by specifying how actors in two California urban areas, over approximately 100 years, responded differently to the same exogenous forces.…
 
 ### Is Engineering Hostile to Women? An Analysis of Data from the 1993 National Survey of College Graduates
 **年份**: 2000 | **DOI**: [10.1177/000312240006500210](https://doi.org/10.1177/000312240006500210)
@@ -1750,6 +2195,11 @@
 **作者**: Mouw, T
 **摘要**: The spatial mismatch hypothesis argues that residential segregation and job decentralization combine to adversely affect the employment opportunities of minorities. While employment is increasingly located outside of central cities, residential segregation prevents minorities from moving closer to s…
 
+### Leveraging the State: Private Money and the Development of Public Education for Blacks
+**年份**: 2000 | **DOI**: [10.1177/000312240006500503](https://doi.org/10.1177/000312240006500503)
+**作者**: Strong, David; Walters, Pamela Barnhouse; Driscoll, Brian 等4人
+**摘要**: This study analyses African Americans’ success in getting the state to improve access to a basic social right—the right to a public education—in the late nineteenth-and early twentieth-century South.…
+
 ### Lost in the storm: The sociology of the black working class, 1850 to 1990
 **年份**: 2000 | **DOI**: [10.2307/2657294](https://doi.org/10.2307/2657294)
 **作者**: Horton, HD; Allen, BL; Herring, C 等4人
@@ -1764,6 +2214,11 @@
 **年份**: 2000 | **DOI**: [10.1177/000312240006500103](https://doi.org/10.1177/000312240006500103)
 **作者**: Inglehart, Ronald; Baker, Wayne E.
 **摘要**: Modernization theorists from Karl Marx to Daniel Bell have argued that economic development brings pervasive cultural changes. But others, from Max Weber to Samuel Huntington, have claimed that cultural values are an enduring and autonomous influence on society.…
+
+### More or Less Educational Homogamy? A Test of Different Versions of Modernization Theory Using Cross-Temporal Evidence for 60 Countries
+**年份**: 2000 | **DOI**: [10.1177/000312240006500509](https://doi.org/10.1177/000312240006500509)
+**作者**: Smits, Jeroen; Ultee, Wout; Lammers, Jan
+**摘要**: （暂无）
 
 ### Partisan governance, women's employment, and the social democratic service state
 **年份**: 2000 | **DOI**: [10.2307/2657460](https://doi.org/10.2307/2657460)
@@ -1785,15 +2240,35 @@
 **作者**: Morrison, DR; Ritualo, A
 **摘要**: Are maternal cohabitation and remarriage equivalent routes to the economic recovery of children and their mothers following parental divorce and separation? Unlike previous studies that have been primarily cross-sectional in design, this study uses panel data from the National Longitudinal Survey of…
 
+### Still the Missing Feminist Revolution? Inequalities of Race, Class, and Gender in Introductory Sociology Textbooks
+**年份**: 2000 | **DOI**: [10.1177/000312240006500309](https://doi.org/10.1177/000312240006500309)
+**作者**: Manza, Jeff; Schyndel, Debbie Van
+**摘要**: （暂无）
+
 ### Surviving closure: Post-rejection adaptation and plurality in science
 **年份**: 2000 | **DOI**: [10.2307/2657515](https://doi.org/10.2307/2657515)
 **作者**: Collins, HM
 **摘要**: Can the procedures and institutions of modern science support more than one version of reality? The early science of gravitational wave detection adapted and survived for a quarter of a century after its findings ceased to be accepted by the majority of the scientific community.…
 
+### Temporal and Regional Variation in the Strength of Educational Homogamy
+**年份**: 2000 | **DOI**: [10.2307/2657546](https://doi.org/10.2307/2657546)
+**作者**: Raymo, James M.; Xie, Yu
+**摘要**: Cet article commente l'etude publiee en 1998 sous le titre Educational homogamy in 65 countries : an explanation of differences in openness using country-level explanatory variables par J. Smits, W. Ultee et J. Lammers. Dans la presente etude, les AA.…
+
 ### The Hidden Abode: Sociology as Analysis of the Unexpected
 **年份**: 2000 | **DOI**: [10.1177/000312240006500102](https://doi.org/10.1177/000312240006500102)
 **作者**: Portes, Alejandro
 **摘要**: Purposive social action has provided the bedrock for theoretical developments and model building in several social sciences. Since its beginnings, however, sociology has harbored, a “contrarian” vocation based on examining the unrecognized, unintended, and emergent consequences of goal-oriented acti…
+
+### The Hidden Abode: Sociology as Analysis of the Unexpected: 1999 Presidential Address
+**年份**: 2000 | **DOI**: [10.2307/2657287](https://doi.org/10.2307/2657287)
+**作者**: Portes, Alejandro
+**摘要**: Alejandro Portes, The Hidden Abode: Sociology as Analysis of the Unexpected: 1999 Presidential Address, American Sociological Review, Vol. 65, No. 1, Looking Forward, Looking Back: Continuity and Change at the Turn of the Millenium (Feb., 2000), pp. 1-18
+
+### The Web of Group Affiliations Revisited: Social Life, Postmodernism, and Sociology
+**年份**: 2000 | **DOI**: [10.2307/2657289](https://doi.org/10.2307/2657289)
+**作者**: Pescosolido, Bernice A.; Rubin, Beth A.
+**摘要**: We address current debates about the future of society and the future of sociology. From Simmel's distinction between social forms in premodern and modern society, we resurrect his original geometric analogy and recast it in current network terms.…
 
 ### The contingent meaning of neighborhood stability for residents' psychological well-being
 **年份**: 2000 | **DOI**: [10.2307/2657384](https://doi.org/10.2307/2657384)
@@ -1835,10 +2310,20 @@
 **作者**: Chase-Dunn, C; Kawano, Y; Brewer, BD
 **摘要**: The term globalization as used by social scientists and in popular discourse has many meanings. We contend that it is important to distinguish between globalization as a contemporary political ideology and what we call structural globalization-the increasing worldwide density of large-scale interact…
 
+### Unveiling the Hidden Glass Ceiling: An Analysis of the Cohort Effect Claim
+**年份**: 2000 | **DOI**: [10.1177/000312240006500209](https://doi.org/10.1177/000312240006500209)
+**作者**: Alessio, John C.; Andrzejewski, Julie
+**摘要**: M O R GA N (1998, henceforward Mor- gan) reports research findings that she claims support the hypothesis that there is no glass ceiling for female engineers.She also suggests that this absence of a glass ceiling among engineers may apply to all professional positions.Glass ceilings, according to Mo…
+
 ### Using the literature: Reference networks, reference contexts, and the social structure of scholarship
 **年份**: 2000 | **DOI**: [10.2307/2657516](https://doi.org/10.2307/2657516)
 **作者**: Hargens, LL
 **摘要**: Networks of citations among the papers on a research topic reflect the structure of scholarship on that topic. Reference-network data for research areas from several disciplines show substantial variation in the structure of scholarship, ranging from the frequent and disproportionate citation of rec…
+
+### Wage Wars: Institutional Politics, WPA Wages, and the Struggle for U.S. Social Policy
+**年份**: 2000 | **DOI**: [10.1177/000312240006500402](https://doi.org/10.1177/000312240006500402)
+**作者**: Amenta, Edwin; Halfmann, Drew
+**摘要**: The WPA was the most expensive and politically prominent U.S. social program of the 1930s, and the generosity and very nature of U.S. social policy in its formative years was contested through the WPA.…
 
 ### Wage wars: Institutional politics, WPA wages, and the struggle for US social policy
 **年份**: 2000 | **DOI**: [10.2307/2657380](https://doi.org/10.2307/2657380)
@@ -1855,22 +2340,12 @@
 **作者**: Uggen, C
 **摘要**: Sociologists have increasingly emphasized turning points in explaining behavioral change over the life course. Is work a turning point in the life course of criminal offenders? If criminals are provided with jobs, are they likely to stop committing crimes?…
 
+### World Society, the Nation-State, and Environmental Protection
+**年份**: 2000 | **DOI**: [10.1177/000312240006500107](https://doi.org/10.1177/000312240006500107)
+**作者**: Buttel, Frederick H.
+**摘要**: （暂无）
+
 ### World society, the nation-state, and environmental protection - Comment on Frank, Hironaka, and Schofer
 **年份**: 2000 | **DOI**: [10.2307/2657292](https://doi.org/10.2307/2657292)
 **作者**: Buttel, FH
 **摘要**: Frederick H. Buttel, World Society, the Nation-State, and Environmental Protection: Comment on Frank, Hironaka, and Schofer, American Sociological Review, Vol. 65, No. 1, Looking Forward, Looking Back: Continuity and Change at the Turn of the Millenium (Feb., 2000), pp. 117-121
-
-### Still the Missing Feminist Revolution? Inequalities of Race, Class, and Gender in Introductory Sociology Textbooks
-**年份**: 2000 | **DOI**: [10.1177/000312240006500309](https://doi.org/10.1177/000312240006500309)
-**作者**: Manza, Jeff; Schyndel, Debbie Van
-**摘要**: （暂无）
-
-### Leveraging the State: Private Money and the Development of Public Education for Blacks
-**年份**: 2000 | **DOI**: [10.1177/000312240006500503](https://doi.org/10.1177/000312240006500503)
-**作者**: Strong, David; Walters, Pamela Barnhouse; Driscoll, Brian 等4人
-**摘要**: This study analyses African Americans’ success in getting the state to improve access to a basic social right—the right to a public education—in the late nineteenth-and early twentieth-century South.…
-
-### More or Less Educational Homogamy? A Test of Different Versions of Modernization Theory Using Cross-Temporal Evidence for 60 Countries
-**年份**: 2000 | **DOI**: [10.1177/000312240006500509](https://doi.org/10.1177/000312240006500509)
-**作者**: Smits, Jeroen; Ultee, Wout; Lammers, Jan
-**摘要**: （暂无）

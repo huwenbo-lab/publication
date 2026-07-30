@@ -48,7 +48,7 @@
 ### Over-demonizing the international population movement
 **年份**: 2009 | **DOI**: [10.1080/00324720902860636](https://doi.org/10.1080/00324720902860636)
 **作者**: Basu, Alaka Malwade
-**摘要**: Click to increase image sizeClick to decrease image size Notes 1. Alaka Malwade Basu is at the Department of Development Sociology, Cornell University, 352 Uris Hall, Ithaca, NY 14853, USA. E-mail: ab54@cornell.edu
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. Alaka Malwade Basu is at the Department of Development Sociology, Cornell University, 352 Uris Hall, Ithaca, NY 14853, USA. E-mail: [contact email removed]
 
 ### Second-trimester abortions and sex-selection of children in Hanoi, Vietnam
 **年份**: 2009 | **DOI**: [10.1080/00324720902859380](https://doi.org/10.1080/00324720902859380)
@@ -143,7 +143,7 @@
 ### New Europe, new diversity
 **年份**: 2008 | **DOI**: [10.1080/00324720701828024](https://doi.org/10.1080/00324720701828024)
 **作者**: Coleman, D. A.
-**摘要**: Click to increase image sizeClick to decrease image size Notes 1. D. A. Coleman, Department of Social Policy and Social Work, Barnett House, Wellington Square, Oxford OX1 2ER, UK. E-mail: david.coleman@socres.ox.ac.uk
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. D. A. Coleman, Department of Social Policy and Social Work, Barnett House, Wellington Square, Oxford OX1 2ER, UK. E-mail: [contact email removed]
 
 ### Reproduction in upheaval: Ethnic-specific fertility responses to societal turbulence in Kazakhstan
 **年份**: 2008 | **DOI**: [10.1080/02615470802045433](https://doi.org/10.1080/02615470802045433)
@@ -228,7 +228,7 @@
 ### Is fertility indeed related to religiosity? A note on: ‘Marital fertility and religion in Spain, 1985 and 1999’,Population Studies60(2): 205–221 by Alicia Adsera
 **年份**: 2007 | **DOI**: [10.1080/00324720701300354](https://doi.org/10.1080/00324720701300354)
 **作者**: Neuman, Shoshana
-**摘要**: Click to increase image sizeClick to decrease image size Notes 1. Shoshana Neuman is at the Department of Economics, Bar-Ilan University, 52900 Ramat Gan, Israel, and is also affiliated with CEPR (London) and IZA (Bonn). E-mail: neumans@mail.biu.ac.il 2.…
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. Shoshana Neuman is at the Department of Economics, Bar-Ilan University, 52900 Ramat Gan, Israel, and is also affiliated with CEPR (London) and IZA (Bonn). E-mail: [contact email removed] 2.…
 
 ### Late marriage and the HIV epidemic in sub-Saharan Africa
 **年份**: 2007 | **DOI**: [10.1080/00324720601048343](https://doi.org/10.1080/00324720601048343)
@@ -403,7 +403,7 @@
 ### A note on the cohort-fertility analysis in the paper ‘Patterns of low and lowest-low fertility in Europe’,Population Studies58(2): 161–176, by Francesco C. Billari and Hans-Peter Kohler
 **年份**: 2005 | **DOI**: [10.1080/00324720500099645](https://doi.org/10.1080/00324720500099645)
 **作者**: Frejka, Tomas; Sardon, Jean-Paul
-**摘要**: Click to increase image sizeClick to decrease image size Notes 1. Tomas Frejka is an independent consultant. E-mail: tfrejka@aol.com. Jean-Paul Sardon is at the Institut National D’Études démographiques. E-mail: sardon@ined.fr
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. Tomas Frejka is an independent consultant. E-mail: [contact email removed]. Jean-Paul Sardon is at the Institut National D’Études démographiques. E-mail: [contact email removed]
 
 ### Can expanding access to basic healthcare improve children's health status? Lessons from Indonesia's ‘midwife in the village’ programme
 **年份**: 2005 | **DOI**: [10.1080/0032472052000332674](https://doi.org/10.1080/0032472052000332674)

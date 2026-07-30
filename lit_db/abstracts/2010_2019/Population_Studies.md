@@ -862,7 +862,7 @@
 ### Global Ageing in the Twentieth-First Century: Challenges, Opportunities and Implications
 **年份**: 2014 | **DOI**: [10.1080/00324728.2014.890344](https://doi.org/10.1080/00324728.2014.890344)
 **作者**: Glaser, Karen
-**摘要**: Click to increase image sizeClick to decrease image size © 2014 KAREN GLASERInstitute of Gerontology, King's College London, London, UKkaren.glaser@kcl.ac.uk
+**摘要**: Click to increase image sizeClick to decrease image size © 2014 KAREN GLASERInstitute of Gerontology, King's College London, London, [contact email removed]
 
 ### Improved measures for the cross-national comparison of age profiles of internal migration
 **年份**: 2014 | **DOI**: [10.1080/00324728.2014.890243](https://doi.org/10.1080/00324728.2014.890243)
@@ -877,17 +877,17 @@
 ### Literacy and Mothering: How Women's Schooling Changes the Lives of the World's Children
 **年份**: 2014 | **DOI**: [10.1080/00324728.2014.889481](https://doi.org/10.1080/00324728.2014.889481)
 **作者**: Basu, Alaka Malwade
-**摘要**: Click to increase image sizeClick to decrease image size © 2014 ALAKA MALWADE BASUCornell University and United Nations Foundation, Washington, DCab54@cornell.edu
+**摘要**: Click to increase image sizeClick to decrease image size © 2014 ALAKA MALWADE BASUCornell University and United Nations Foundation, Washington, [contact email removed]
 
 ### Mabiki: Infanticide and Population Growth in Eastern Japan, 1660–1950
 **年份**: 2014 | **DOI**: [10.1080/00324728.2014.969573](https://doi.org/10.1080/00324728.2014.969573)
 **作者**: Murakoshi, Kazunori
-**摘要**: Click to increase image sizeClick to decrease image size © 2014 KAZUNORI MURAKOSHISurugadai University, Hannō, Saitama, Japanmurakosi@surugadai.ac.jp
+**摘要**: Click to increase image sizeClick to decrease image size © 2014 KAZUNORI MURAKOSHISurugadai University, Hannō, Saitama, [contact email removed]
 
 ### Population 10 Billion: The Coming Demographic Crisis and How to Survive It; 10 Billion
 **年份**: 2014 | **DOI**: [10.1080/00324728.2014.889483](https://doi.org/10.1080/00324728.2014.889483)
 **作者**: Smallwood, Steve
-**摘要**: Click to increase image sizeClick to decrease image size STEVE SMALLWOOD© Crown Copyright 2014. Reproduced with the permission of the Controller of Her Majesty's Stationery Office and the Office for National Statistics.Office for National Statisticssteve.smallwood@ons.gov.uk
+**摘要**: Click to increase image sizeClick to decrease image size STEVE SMALLWOOD© Crown Copyright 2014. Reproduced with the permission of the Controller of Her Majesty's Stationery Office and the Office for National Statistics.Office for National [contact email removed]
 
 ### Reconciling discrepancies between registration-based and survey-based estimates of fertility in Mongolia
 **年份**: 2014 | **DOI**: [10.1080/00324728.2014.935461](https://doi.org/10.1080/00324728.2014.935461)
@@ -922,7 +922,7 @@
 ### Whither the Child? Causes and Consequences of Low Fertility
 **年份**: 2014 | **DOI**: [10.1080/00324728.2014.902186](https://doi.org/10.1080/00324728.2014.902186)
 **作者**: Rotkirch, Anna
-**摘要**: Click to increase image sizeClick to decrease image size © 2014 ANNA ROTKIRCHPopulation Research Institute, Väestöliitto, Helsinki, Finlandanna.rotkirch@vaestoliitto.fi
+**摘要**: Click to increase image sizeClick to decrease image size © 2014 ANNA ROTKIRCHPopulation Research Institute, Väestöliitto, Helsinki, [contact email removed]
 
 ### A re-analysis of the long-term effects on life expectancy of the Great Finnish Famine of 1866–68
 **年份**: 2013 | **DOI**: [10.1080/00324728.2013.809140](https://doi.org/10.1080/00324728.2013.809140)

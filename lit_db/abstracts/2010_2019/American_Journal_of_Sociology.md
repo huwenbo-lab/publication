@@ -1,7 +1,7 @@
 # American Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **342** 篇
+共 **345** 篇
 
 ---
 
@@ -565,6 +565,11 @@
 **作者**: Perry, Brea L.
 **摘要**: Evidence that social and biological processes are intertwined in producing health and human behavior is rapidly accumulating. Using a feminist approach, this research explores how gender moderates the interaction between biological processes and men's and women's behavioral and emotional responses t…
 
+### Is Race Really So Fluid? Revisiting Saperstein and Penner’s Empirical Claims
+**年份**: 2016 | **DOI**: [10.1086/687375](https://doi.org/10.1086/687375)
+**作者**: Alba, Richard D.; Insolera, Noura E.; Lindeman, Scarlett
+**摘要**: Previous articleNext article FreeCommentary and DebateIs Race Really So Fluid? Revisiting Saperstein and Penner's Empirical ClaimsRichard D. Alba, Scarlett Lindeman, and Noura E. InsoleraRichard D.…
+
 ### Is the United States a Counterexample to the Secularization Thesis?
 **年份**: 2016 | **DOI**: [10.1086/684202](https://doi.org/10.1086/684202)
 **作者**: Voas, David; Chaves, Mark
@@ -649,6 +654,11 @@
 **年份**: 2016 | **DOI**: [10.1086/688853](https://doi.org/10.1086/688853)
 **作者**: Liu, Sida; Wu, Hongqi
 **摘要**: In the global legal services market, China has some of the youngest law firms but also some of the largest. In the early 21st century, several Chinese law firms have grown into mega law firms, with thousands of lawyers in a large number of domestic and overseas offices.…
+
+### The Future of Weak Ties
+**年份**: 2016 | **DOI**: [10.1086/686293](https://doi.org/10.1086/686293)
+**作者**: Aral, Sinan
+**摘要**: （暂无）
 
 ### The Payoffs of Organizational Membership for Political Activism in Established Democracies
 **年份**: 2016 | **DOI**: [10.1086/687743](https://doi.org/10.1086/687743)
@@ -1040,6 +1050,11 @@
 **作者**: McDonnell, Erin Metz
 **摘要**: Established consumption theory relies heavily on application of individualistic frames and market models of behavior. A framework built around consumption-oriented groups would facilitate progress toward a more general theory of consumption.…
 
+### Causal Thinking and Ethnographic Research
+**年份**: 2013 | **DOI**: [10.1086/675893](https://doi.org/10.1086/675893)
+**作者**: Small, Mario Luis
+**摘要**: （暂无）
+
 ### Challenger Groups, Commercial Organizations, and Policy Enactment: Local Lesbian/Gay Rights Ordinances in the United States from 1972
 **年份**: 2013 | **DOI**: [10.1086/673970](https://doi.org/10.1086/673970)
 **作者**: Negro, Giacomo; Carroll, Glenn R.; Perretti, Fabrizio
@@ -1260,6 +1275,11 @@
 **作者**: Desmond, Matthew
 **摘要**: Combining statistical and ethnographic analyses, this article explores the prevalence and ramifications of eviction in the lives of the urban poor. A quantitative analysis of administrative and survey data finds that eviction is commonplace in inner-city black neighborhoods and that women from those…
 
+### Exposing the Myth of Sexual Aversion in the Israeli Kibbutzim: A Challenge to the Westermarck Hypothesis
+**年份**: 2012 | **DOI**: [10.1086/665522](https://doi.org/10.1086/665522)
+**作者**: Shor, Eran; Simchai, Dalit
+**摘要**: （暂无）
+
 ### Gender Deviance and Household Work: The Role of Occupation
 **年份**: 2012 | **DOI**: [10.1086/662649](https://doi.org/10.1086/662649)
 **作者**: Schneider, Daniel
@@ -1359,11 +1379,6 @@
 **年份**: 2012 | **DOI**: [10.1086/663327](https://doi.org/10.1086/663327)
 **作者**: Moon, Dawne
 **摘要**: Identity politics arises out of conditions of systematic stigmatization and structural disadvantage, but sharing a social structural position does not guarantee that people will define themselves and their collectivity in the same way.…
-
-### Exposing the Myth of Sexual Aversion in the Israeli Kibbutzim: A Challenge to the Westermarck Hypothesis
-**年份**: 2012 | **DOI**: [10.1086/665522](https://doi.org/10.1086/665522)
-**作者**: Shor, Eran; Simchai, Dalit
-**摘要**: （暂无）
 
 ### 737-Cabriolet: The Limits of Knowledge and the Sociology of Inevitable Failure
 **年份**: 2011 | **DOI**: [10.1086/662383](https://doi.org/10.1086/662383)

@@ -1,5 +1,6 @@
 # Python / local runtime
 venv/
+.venv/
 __pycache__/
 scripts/__pycache__/
 *.py[cod]
@@ -8,6 +9,8 @@ scripts/__pycache__/
 # OS / editor / local assistant state
 .DS_Store
 .claude/
+.trae/
+.playwright-cli/
 .cache/
 workers/**/.wrangler/
 .pytest_cache/
@@ -30,15 +33,20 @@ backups/
 tmp/
 exports/
 archive/
-logs/*
-!logs/README.md
+logs/
 *.log
 *.tmp
 *.bak
 
-# Generated search databases. GitHub Pages builds literature.db during deploy.
+# Generated deployment outputs. GitHub Pages rebuilds these from articles.json.
+/api/
+/data.js
 literature.db
+literature.db.gz
 *.sqlite
 *.sqlite3
 *.db
-!api/**/*.json
+
+# Subscription-source exports stay local; only the handling note is public.
+/raw_data/*
+!/raw_data/README.md

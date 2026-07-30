@@ -1,7 +1,7 @@
 # European Journal of Population
 ## 2000–2009 年文章（含摘要）
 
-共 **227** 篇
+共 **220** 篇
 
 ---
 
@@ -503,11 +503,6 @@
 **作者**: Singh, Kavita; Karunakara, Unni; Burnham, Gilbert 等4人
 **摘要**: （暂无）
 
-### Information for Authors
-**年份**: 2005 | **DOI**: [10.1007/s10680-005-6712-3](https://doi.org/10.1007/s10680-005-6712-3)
-**作者**: Digoix, Marie
-**摘要**: （暂无）
-
 ### International Humanitarian Law and Combat Casualties
 **年份**: 2005 | **DOI**: [10.1007/s10680-005-6421-y](https://doi.org/10.1007/s10680-005-6421-y)
 **作者**: Fenrick, William J.
@@ -702,14 +697,6 @@
 **作者**: McDonald, Peter
 **摘要**: （暂无）
 
-### Information for Authors
-**年份**: 2003 | **DOI**: [10.1023/a:1026307217731](https://doi.org/10.1023/a:1026307217731)
-**摘要**: （暂无）
-
-### Instructions for Authors
-**年份**: 2003 | **DOI**: [10.1023/a:1022101910462](https://doi.org/10.1023/a:1022101910462)
-**摘要**: （暂无）
-
 ### Land Ownership as a Determinant of Temporary Migration in Nang Rong, Thailand
 **年份**: 2003 | **DOI**: [10.1023/a:1023307100719](https://doi.org/10.1023/a:1023307100719)
 **作者**: Vanwey, Leah K.
@@ -807,14 +794,6 @@
 ### From the First to the Second Demographic Transition: An Interpretation of the Spatial Continuity of Demographic Innovation in France, Belgium and Switzerland
 **年份**: 2002 | **DOI**: [10.1023/a:1021125800070](https://doi.org/10.1023/a:1021125800070)
 **作者**: Lesthaeghe, R.; Neels, K.
-**摘要**: （暂无）
-
-### Information for Authors
-**年份**: 2002 | **DOI**: [10.1023/a:1021186621619](https://doi.org/10.1023/a:1021186621619)
-**摘要**: （暂无）
-
-### Instructions for Authors
-**年份**: 2002 | **DOI**: [10.1023/a:1017464530280](https://doi.org/10.1023/a:1017464530280)
 **摘要**: （暂无）
 
 ### Modelling Regional Immigration: Using Stocks to Predict Flows
@@ -928,10 +907,6 @@
 
 ### Informations for Authors
 **年份**: 2001 | **DOI**: [10.1023/a:1017393915143](https://doi.org/10.1023/a:1017393915143)
-**摘要**: （暂无）
-
-### Instructions for Authors
-**年份**: 2001 | **DOI**: [10.1023/a:1017311904665](https://doi.org/10.1023/a:1017311904665)
 **摘要**: （暂无）
 
 ### Introduction
@@ -1061,10 +1036,6 @@
 ### Henk A. De Gans, Population Forecasting 1895–1945, The Transition to Modernity
 **年份**: 2000 | **DOI**: [10.1023/a:1006306705316](https://doi.org/10.1023/a:1006306705316)
 **作者**: Kreager, Philip
-**摘要**: （暂无）
-
-### Information for Authors
-**年份**: 2000 | **DOI**: [10.1023/a:1017202014509](https://doi.org/10.1023/a:1017202014509)
 **摘要**: （暂无）
 
 ### Monitoring Suicide Mortality: A Bayesian Approach

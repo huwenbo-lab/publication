@@ -1,7 +1,7 @@
 # American Sociological Review
 ## 2010–2019 年文章（含摘要）
 
-共 **417** 篇
+共 **456** 篇
 
 ---
 
@@ -50,6 +50,11 @@
 **作者**: Oh, Jeong Hyun; Yeatman, Sara; Trinitapoli, Jenny
 **摘要**: Research disrupts the social world, often by making respondents aware that they are being observed or by instigating reflection upon particular aspects of life via the very act of asking questions.…
 
+### Does Immigration Reduce the Support for Welfare Spending? A Cautionary Tale on Spatial Panel Data Analysis
+**年份**: 2019 | **DOI**: [10.1177/0003122419856347](https://doi.org/10.1177/0003122419856347)
+**作者**: Auspurg, Katrin; Brüderl, Josef; Wöhler, Thomas
+**摘要**: There has been a long-lasting debate over whether increasing ethnic diversity undermines support for social welfare, and whether this conflict thesis applies not only to the United States, but also to European welfare states.…
+
 ### Does Intra-household Contagion Cause an Increase in Prescription Opioid Use?
 **年份**: 2019 | **DOI**: [10.1177/0003122419857797](https://doi.org/10.1177/0003122419857797)
 **作者**: de Vaan, Mathijs; Stuart, Toby
@@ -89,6 +94,11 @@
 **年份**: 2019 | **DOI**: [10.1177/0003122419872504](https://doi.org/10.1177/0003122419872504)
 **作者**: Lagos, Danya
 **摘要**: This study examines the link between self-rated health and two aspects of gender: an individual's gender identity, and whether strangers classify that person's voice as male or female.…
+
+### Immigration and Welfare Support in Germany: Methodological Reevaluations and Substantive Conclusions
+**年份**: 2019 | **DOI**: [10.1177/0003122419858729](https://doi.org/10.1177/0003122419858729)
+**作者**: Schmidt-Catran, Alexander W.; Spies, Dennis C.
+**摘要**: Replications of published studies are of vital importance in any science, and especially in the social sciences, which seem to be particularly vulnerable to issues of reproducibility.…
 
 ### Linked Lives, Linked Trajectories: Intergenerational Association of Intragenerational Income Mobility
 **年份**: 2019 | **DOI**: [10.1177/0003122419884497](https://doi.org/10.1177/0003122419884497)
@@ -260,6 +270,11 @@
 **作者**: Schilke, Oliver; Rossman, Gabriel
 **摘要**: A wide class of economic exchanges, such as bribery and compensated adoption, are considered morally disreputable precisely because they are seen as economic exchanges. However, parties to these exchanges can structurally obfuscate them by arranging the transfers so as to obscure that a disreputable…
 
+### Mass Mobilization and the Durability of New Democracies
+**年份**: 2018 | **DOI**: [10.1177/0003122418759546](https://doi.org/10.1177/0003122418759546)
+**作者**: Kadivar, Mohammad Ali
+**摘要**: The “elitist approach” to democratization contends that “democratic regimes that last have seldom, if ever, been instituted by mass popular actors” (Huntington 1984:212). This article subjects this observation to empirical scrutiny using statistical analyses of new democracies over the past half-cen…
+
 ### No Laughter among Thieves: Authenticity and the Enforcement of Community Norms in Stand-Up Comedy
 **年份**: 2018 | **DOI**: [10.1177/0003122418791174](https://doi.org/10.1177/0003122418791174)
 **作者**: Reilly, Patrick
@@ -269,6 +284,11 @@
 **年份**: 2018 | **DOI**: [10.1177/0003122418781791](https://doi.org/10.1177/0003122418781791)
 **作者**: Font, Sarah A.; Berger, Lawrence M.; Cancian, Maria 等4人
 **摘要**: Foster children are at disproportionate risk of adverse outcomes throughout the life course. Public policy prioritizes permanency (exiting foster care through reunification with birth parents, adoption, or legal guardianship) to promote foster youths' healthy development and well-being, but little e…
+
+### Policy Entrepreneurs and the Origins of the Regulatory Welfare State: Child Labor Reform in Nineteenth-Century Europe
+**年份**: 2018 | **DOI**: [10.1177/0003122417753112](https://doi.org/10.1177/0003122417753112)
+**作者**: Anderson, Elisabeth
+**摘要**: Industrial child labor laws were the earliest manifestation of the modern regulatory welfare state. Why, despite the absence of political pressure from below, did some states (but not others) succeed in legislating working hours, minimum ages, and schooling requirements for working children in the f…
 
 ### Policy Generosity, Employer Heterogeneity, and Women's Employment Opportunities: The Welfare State Paradox Reexamined
 **年份**: 2018 | **DOI**: [10.1177/0003122418772857](https://doi.org/10.1177/0003122418772857)
@@ -294,6 +314,16 @@
 **年份**: 2018 | **DOI**: [10.1177/0003122418782476](https://doi.org/10.1177/0003122418782476)
 **作者**: Hoang, Kimberly Kay
 **摘要**: How do investors enter and navigate markets where there is a general lack of access to information and where the law is open to interpretation? Drawing on interview data with 100 research subjects in Vietnam's real estate market, this article makes contributions to the literatures of economic sociol…
+
+### Scents and Sensibility: Olfaction, Sense-Making, and Meaning Attribution
+**年份**: 2018 | **DOI**: [10.1177/0003122418759679](https://doi.org/10.1177/0003122418759679)
+**作者**: Cerulo, Karen A.
+**摘要**: How are smells invested with meaning and how do those meanings structure interactions and group relations? I use cultural theories of meaning-making to explore these questions, situating my inquiry in the world of commercially marketed perfumes.…
+
+### Sharing the Burden of the Transition to Adulthood: African American Young Adults’ Transition Challenges and Their Mothers’ Health Risk
+**年份**: 2018 | **DOI**: [10.1177/0003122417751442](https://doi.org/10.1177/0003122417751442)
+**作者**: Barr, Ashley B.; Simons, Leslie Gordon; Simons, Ronald L. 等5人
+**摘要**: For many African American youth, the joint influences of economic and racial marginalization render the transition to stable adult roles challenging. We have gained much insight into how these challenges affect future life chances, yet we lack an understanding of what these challenges mean in the co…
 
 ### Social and Genetic Pathways in Multigenerational Transmission of Educational Attainment
 **年份**: 2018 | **DOI**: [10.1177/0003122418759651](https://doi.org/10.1177/0003122418759651)
@@ -385,6 +415,11 @@
 **作者**: Shi, Yongren; Dokshin, Fedor A.; Genkin, Michael 等4人
 **摘要**: A long line of research documents the essential role of social networks in mediating the recruitment and retention of members in organizations. But organizations also comprise a primary context where people form social ties.…
 
+### A New Political Generation: Millennials and the Post-2008 Wave of Protest
+**年份**: 2017 | **DOI**: [10.1177/0003122416681031](https://doi.org/10.1177/0003122416681031)
+**作者**: Milkman, Ruth
+**摘要**: Building on Karl Mannheim’s theory of generations, this address argues that U.S. Millennials comprise a new political generation with lived experiences and worldviews that set them apart from their elders.…
+
 ### A Position with a View: Educational Status and the Construction of the Occupational Hierarchy
 **年份**: 2017 | **DOI**: [10.1177/0003122416671743](https://doi.org/10.1177/0003122416671743)
 **作者**: Lynn, Freda B.; Ellerbach, George
@@ -445,6 +480,16 @@
 **作者**: Frye, Margaret
 **摘要**: How can cultural understandings simultaneously diverge from and contribute to aggregate patterns of action? On one hand, shared cognitive associations guide people's everyday actions, and these actions comprise the behavioral trends that sociologists seek to measure and understand.…
 
+### Culture Remains Elusive
+**年份**: 2017 | **DOI**: [10.1177/0003122417690497](https://doi.org/10.1177/0003122417690497)
+**作者**: Chou, Winston
+**摘要**: I evaluate a method recently proposed in the American Sociological Review for identifying the causal effects of cultural values on individual behavior. I derive the assumptions of the method and explain why they are unlikely to hold, even when ideal data are available.…
+
+### Culture as a Random Treatment
+**年份**: 2017 | **DOI**: [10.1177/0003122417691952](https://doi.org/10.1177/0003122417691952)
+**作者**: Polavieja, Javier G.
+**摘要**: In a 2015 ASR article, I introduced SISTER, a new method to estimate the causal effects of culture using migrant populations. Chou raises significant concerns about SISTER and concludes that the method is flawed.…
+
 ### Cut to the Quick: The Consequences of Youth Violent Victimization for the Timing of Dating Debut and First Union Formation
 **年份**: 2017 | **DOI**: [10.1177/0003122417734353](https://doi.org/10.1177/0003122417734353)
 **作者**: Warner, Tara D.; Warner, David F.; Kuhl, Danielle C.
@@ -470,6 +515,11 @@
 **作者**: Sullivan, Esther
 **摘要**: This article examines housing insecurity within manufactured housing-the single largest source of unsubsidized affordable housing in the United States, home to about 18 million low-income residents.…
 
+### Does Diversity Pay? A Replication of Herring (2009)
+**年份**: 2017 | **DOI**: [10.1177/0003122417714422](https://doi.org/10.1177/0003122417714422)
+**作者**: Stojmenovska, Dragana; Bol, Thijs; Leopold, Thomas
+**摘要**: In an influential article published in the American Sociological Review in 2009, Herring finds that diverse workforces are beneficial for business. His analysis supports seven out of eight hypotheses on the positive effects of gender and racial diversity on sales revenue, number of customers, percei…
+
 ### Grand Advantage: Family Wealth and Grandchildren's Educational Achievement in Sweden
 **年份**: 2017 | **DOI**: [10.1177/0003122417695791](https://doi.org/10.1177/0003122417695791)
 **作者**: Hallsten, Martin; Pfeffer, Fabian T.
@@ -480,15 +530,35 @@
 **作者**: Rosen, Eva
 **摘要**: While poor families experience high residential instability, they also stay put for extended periods of time before moving. When they do move, they are likely to move laterally to a similarly disadvantaged place. These two processes-staying in place and churning-amount to horizontal immobility.…
 
+### Is Diversity Still a Good Thing?
+**年份**: 2017 | **DOI**: [10.1177/0003122417716611](https://doi.org/10.1177/0003122417716611)
+**作者**: Herring, Cedric
+**摘要**: In this reply to Stojmenovska, Bol, and Leopold’s comment on my 2009 ASR article, “Does Diversity Pay?” I offer an updated analysis of the relationship between racial and gender diversity in business organizations and such business outcomes as sales revenue, number of customers, market share, and re…
+
 ### It's the Conventional Thought That Counts: How Third-Order Inference Produces Status Advantage
 **年份**: 2017 | **DOI**: [10.1177/0003122417691503](https://doi.org/10.1177/0003122417691503)
 **作者**: Correll, Shelley J.; Ridgeway, Cecilia L.; Zuckerman, Ezra W. 等6人
 **摘要**: A core claim of sociological theory is that modern institutions fall short of their meritocratic ideals, whereby rewards should be allocated based on achievement-related criteria. Instead, high-status actors often experience a status advantage: they are rewarded disproportionately to the quality of …
 
+### Order in the Court: How Firm Status and Reputation Shape the Outcomes of Employment Discrimination Suits
+**年份**: 2017 | **DOI**: [10.1177/0003122417747289](https://doi.org/10.1177/0003122417747289)
+**作者**: McDonnell, Mary-Hunter; King, Brayden G
+**摘要**: This article explores the mechanisms by which corporate prestige produces distorted legal outcomes. Drawing on social psychological theories of status, we suggest that prestige influences audience evaluations by shaping expectations, and that its effect will differ depending on whether a firm’s blam…
+
 ### Own Gender, Sibling's Gender, Parent's Gender: The Division of Elderly Parent Care among Adult Children
 **年份**: 2017 | **DOI**: [10.1177/0003122416686521](https://doi.org/10.1177/0003122416686521)
 **作者**: Grigoryeva, Angelina
 **摘要**: Research on the gender division of family labor largely focuses on housework and childcare in spousal couples. This article advances scholarship by examining the gender division of elderly parent care in sibling groups.…
+
+### Patchwork Leviathan: How Pockets of Bureaucratic Governance Flourish within Institutionally Diverse Developing States
+**年份**: 2017 | **DOI**: [10.1177/0003122417705874](https://doi.org/10.1177/0003122417705874)
+**作者**: McDonnell, Erin Metz
+**摘要**: Within seemingly weak states, exceptionally effective subunits lie hidden. These high-performing niches exhibit organizational characteristics distinct from poor-performing peer organizations, but also distinct from high-functioning organizations in Western countries.…
+
+### Rising Intragenerational Occupational Mobility in the United States, 1969 to 2011
+**年份**: 2017 | **DOI**: [10.1177/0003122417706391](https://doi.org/10.1177/0003122417706391)
+**作者**: Jarvis, Benjamin F.; Song, Xi
+**摘要**: Despite the theoretical importance of intragenerational mobility and its connection to intergenerational mobility, no study since the 1970s has documented trends in intragenerational occupational mobility.…
 
 ### Schools as Surveilling Institutions? Paternal Incarceration, System Avoidance, and Parental Involvement in Schooling
 **年份**: 2017 | **DOI**: [10.1177/0003122417709294](https://doi.org/10.1177/0003122417709294)
@@ -499,6 +569,11 @@
 **年份**: 2017 | **DOI**: [10.1177/0003122417728240](https://doi.org/10.1177/0003122417728240)
 **作者**: Fligstein, Neil; Brundage, Jonah Stuart; Schultz, Michael
 **摘要**: One of the puzzles about the financial crisis of 2008 is why regulators, particularly the Federal Open Market Committee (FOMC), were so slow to recognize the impending collapse of the financial system and its broader consequences for the economy.…
+
+### Sources of Segregation in Social Networks: A Novel Approach Using Facebook
+**年份**: 2017 | **DOI**: [10.1177/0003122417705656](https://doi.org/10.1177/0003122417705656)
+**作者**: Hofstra, Bas; Corten, Rense; van Tubergen, Frank 等4人
+**摘要**: Most research on segregation in social networks considers small circles of strong ties, and little is known about segregation among the much larger number of weaker ties. This article proposes a novel approach to the study of these more extended networks, through the use of data on personal ties in …
 
 ### Support for Beauty-Status Exchange Remains Illusory
 **年份**: 2017 | **DOI**: [10.1177/0003122417725175](https://doi.org/10.1177/0003122417725175)
@@ -524,6 +599,11 @@
 **年份**: 2017 | **DOI**: [10.1177/0003122417703087](https://doi.org/10.1177/0003122417703087)
 **作者**: Doering, Laura; Thebaud, Sarah
 **摘要**: The gendering of occupational roles affects a variety of outcomes for workers and organizations. We examine how the gender of an initial role occupant influences the authority enjoyed by individuals who subsequently fill that role.…
+
+### The Hazards of Expert Control: Chief Risk Officers and Risky Derivatives
+**年份**: 2017 | **DOI**: [10.1177/0003122417701115](https://doi.org/10.1177/0003122417701115)
+**作者**: Pernell, Kim; Jung, Jiwook; Dobbin, Frank
+**摘要**: At the turn of the century, regulators introduced policies to control bank risk-taking. Many banks appointed chief risk officers (CROs), yet bank holdings of new, complex, and untested financial derivatives subsequently soared.…
 
 ### The Motherhood Wage Penalty by Work Conditions: How Do Occupational Characteristics Hinder or Empower Mothers?
 **年份**: 2017 | **DOI**: [10.1177/0003122417712729](https://doi.org/10.1177/0003122417712729)
@@ -570,10 +650,10 @@
 **作者**: Hahl, Oliver; Zuckerman, Ezra W.; Kim, Minjae
 **摘要**: We develop and test the idea that public appreciation for authentic lowbrow culture affords an effective way for certain elites to address feelings of authenticity-insecurity arising from high status denigration (Hahl and Zuckerman 2014).…
 
-### Patchwork Leviathan: How Pockets of Bureaucratic Governance Flourish within Institutionally Diverse Developing States
-**年份**: 2017 | **DOI**: [10.1177/0003122417705874](https://doi.org/10.1177/0003122417705874)
-**作者**: McDonnell, Erin Metz
-**摘要**: Within seemingly weak states, exceptionally effective subunits lie hidden. These high-performing niches exhibit organizational characteristics distinct from poor-performing peer organizations, but also distinct from high-functioning organizations in Western countries.…
+### Why Should Women Get Less? Evidence on the Gender Pay Gap from Multifactorial Survey Experiments
+**年份**: 2017 | **DOI**: [10.1177/0003122416683393](https://doi.org/10.1177/0003122416683393)
+**作者**: Auspurg, Katrin; Hinz, Thomas; Sauer, Carsten
+**摘要**: Gender pay gaps likely persist in Western societies because both men and women consider somewhat lower earnings for female employees than for otherwise similar male employees to be fair.…
 
 ### Adolescents under Pressure: A New Durkheimian Framework for Understanding Adolescent Suicide in a Cohesive Community
 **年份**: 2016 | **DOI**: [10.1177/0003122416663464](https://doi.org/10.1177/0003122416663464)
@@ -650,6 +730,11 @@
 **作者**: Schmidt-Catran, Alexander W.; Spies, Dennis C.
 **摘要**: In recent years, several international-comparative studies have analyzed the relationship between migration and native populations' decreasing support for redistributive policies. However, these studies use cross-sectional designs and aggregate the number of foreign-born residents at the national le…
 
+### Improving Cultural Analysis
+**年份**: 2016 | **DOI**: [10.1177/0003122416675175](https://doi.org/10.1177/0003122416675175)
+**作者**: Lizardo, Omar
+**摘要**: While influential across a wide variety of subfields, cultural analysis in sociology continues to be hampered by coarse-grained conceptualizations of the different modes in which culture becomes personal, as well as the process via which persons acquire and use different forms of culture.…
+
 ### Inequality in Children's Contexts: Income Segregation of Households with and without Children
 **年份**: 2016 | **DOI**: [10.1177/0003122416642430](https://doi.org/10.1177/0003122416642430)
 **作者**: Owens, Ann
@@ -710,6 +795,11 @@
 **作者**: Desmond, Matthew; Papachristos, Andrew V.; Kirk, David S.
 **摘要**: High-profile cases of police violencedisproportionately experienced by black menmay present a serious threat to public safety if they lower citizen crime reporting. Using an interrupted time series design, this study analyzes how one of Milwaukee's most publicized cases of police violence against an…
 
+### Racial Capitalism and the Crisis of Black Masculinity
+**年份**: 2016 | **DOI**: [10.1177/0003122416658294](https://doi.org/10.1177/0003122416658294)
+**作者**: Matlon, Jordanna
+**摘要**: In this article, I theorize “complicit masculinity” to examine how access to capital, in other words, making or spending money, mediates masculine identity for un- and underemployed black men.…
+
 ### Rent Seeking and the Transformation of Employment Relationships: The Effect of Corporate Restructuring on Wage Patterns, Determinants, and Inequality
 **年份**: 2016 | **DOI**: [10.1177/0003122416642419](https://doi.org/10.1177/0003122416642419)
 **作者**: Dencker, John C.; Fang, Chichun
@@ -740,6 +830,11 @@
 **作者**: England, Paula
 **摘要**: All sociologists recognize that social constraints affect individuals' outcomes. These effects are sometimes relatively direct. Other times constraints affect outcomes indirectly, first influencing individuals' personal characteristics, which then affect their outcomes.…
 
+### Still No Robust Evidence for World Polity Theory
+**年份**: 2016 | **DOI**: [10.1177/0003122416641372](https://doi.org/10.1177/0003122416641372)
+**作者**: Wimmer, Andreas; Feinstein, Yuval
+**摘要**: （暂无）
+
 ### Tactical Innovation in Social Movements: The Effects of Peripheral and Multi-Issue Protest
 **年份**: 2016 | **DOI**: [10.1177/0003122416644414](https://doi.org/10.1177/0003122416644414)
 **作者**: Wang, Dan J.; Soule, Sarah A.
@@ -749,6 +844,11 @@
 **年份**: 2016 | **DOI**: [10.1177/0003122415621263](https://doi.org/10.1177/0003122415621263)
 **作者**: Cheng, Siwei
 **摘要**: A sizable literature examines whether and why marriage affects men's and women's wages. This study advances current research in two ways. First, whereas most prior studies treat the effect of marriage as time-invariant, I examine how the wage effect of marriage unfolds over the life course.…
+
+### The Causes of Fraud in the Financial Crisis of 2007 to 2009
+**年份**: 2016 | **DOI**: [10.1177/0003122416645594](https://doi.org/10.1177/0003122416645594)
+**作者**: Fligstein, Neil; Roehrkasse, Alexander F.
+**摘要**: The financial crisis of 2007 to 2009 was marked by widespread fraud in the mortgage securitization industry. Most of the largest mortgage originators and mortgage-backed securities issuers and underwriters have been implicated in regulatory settlements, and many have paid multibillion-dollar penalti…
 
 ### The Class Pay Gap in Higher Professional and Managerial Occupations
 **年份**: 2016 | **DOI**: [10.1177/0003122416653602](https://doi.org/10.1177/0003122416653602)
@@ -805,6 +905,11 @@
 **作者**: Eidlin, Barry
 **摘要**: Why is there no labor party in the United States? This question has had deep implications for U.S. politics and social policy. Existing explanations use reflection models of parties, whereby parties reflect preexisting cleavages or institutional arrangements.…
 
+### World Polity Matters
+**年份**: 2016 | **DOI**: [10.1177/0003122416641371](https://doi.org/10.1177/0003122416641371)
+**作者**: Li, Xue; Hicks, Alexander
+**摘要**: Did the nation-state spread due to global diffusion? Wimmer and Feinstein’s 2010 ASR article concludes that there are no “world polity” influences on the rise of the nation-state; rather, the spread of the nation-state was driven by proximate and contextual political factors situated at the local an…
+
 ### *Can We Finish the Revolution? Gender, Work-Family Ideals, and Institutional Constraint
 **年份**: 2015 | **DOI**: [10.1177/0003122414564008](https://doi.org/10.1177/0003122414564008)
 **作者**: Pedulla, David S.; Thebaud, Sarah
@@ -840,6 +945,11 @@
 **作者**: Bernstein, Mary; Naples, Nancy A.
 **摘要**: In this article, we use comparative historical analysis to explain agenda-setting and the timing of policy outcomes on same-sex marriage in the United States, Canada, and Australia. Unlike the United States and Canada, Australia does not have a bill of rights, making litigation to obtain rights not …
 
+### Ancestry Matters
+**年份**: 2015 | **DOI**: [10.1177/0003122415576516](https://doi.org/10.1177/0003122415576516)
+**作者**: Song, Xi; Campbell, Cameron D.; Lee, James Z.
+**摘要**: Patrilineality, the organization of kinship, inheritance, and other key social processes based on patrilineal male descent, has been a salient feature of social organization in China and many other societies for centuries.…
+
 ### Both Sides of the Story: History Education in Post-Apartheid South Africa
 **年份**: 2015 | **DOI**: [10.1177/0003122415613078](https://doi.org/10.1177/0003122415613078)
 **作者**: Teeger, Chana
@@ -860,10 +970,20 @@
 **作者**: Polavieja, Javier G.
 **摘要**: We know that culture influences people's behavior. Yet estimating the exact extent of this influence poses a formidable methodological challenge for the social sciences. This is because preferences and beliefs are endogenous, that is, they are shaped by individuals' own experiences and affected by t…
 
+### Category Taken-for-Grantedness as a Strategic Opportunity
+**年份**: 2015 | **DOI**: [10.1177/0003122414565391](https://doi.org/10.1177/0003122414565391)
+**作者**: Hsu, Greta; Grodal, Stine
+**摘要**: Theories within organizational and economic sociology that center on market categories often equate taken-for-grantedness with increased constraint on category members’ features. In contrast, we develop a novel perspective that considers how market participants’ changing category-related attribution…
+
 ### Choice, Information, and Constrained Options: School Transfers in a Stratified Educational System
 **年份**: 2015 | **DOI**: [10.1177/0003122415598764](https://doi.org/10.1177/0003122415598764)
 **作者**: Rich, Peter M.; Jennings, Jennifer L.
 **摘要**: It is well known that family socioeconomic background influences childhood access to opportunities. Educational reforms that introduce new information about school quality may lead to increased inequality if families with more resources are better able to respond.…
+
+### Collective Labor Rights and Income Inequality
+**年份**: 2015 | **DOI**: [10.1177/0003122415583649](https://doi.org/10.1177/0003122415583649)
+**作者**: Kerrissey, Jasmine
+**摘要**: This article examines the relationship between income inequality and collective labor rights, conceptualized as workers’ legal and practical ability to engage in collective activity.…
 
 ### Contact Theory in a Small-Town Settler-Colonial Context: The Reproduction of Laissez-Faire Racism in Indigenous-White Canadian Relations
 **年份**: 2015 | **DOI**: [10.1177/0003122414564998](https://doi.org/10.1177/0003122414564998)
@@ -885,6 +1005,11 @@
 **作者**: Lutter, Mark
 **摘要**: That social capital matters is an established fact in the social sciences. Less clear, however, is how different forms of social capital affect gender disadvantages in career advancement. Focusing on a project-based type of labor market, namely the U.S.…
 
+### Elements of Professional Expertise
+**年份**: 2015 | **DOI**: [10.1177/0003122415601157](https://doi.org/10.1177/0003122415601157)
+**作者**: Sandefur, Rebecca L.
+**摘要**: Lawyers keep the gates of public justice institutions, particularly through their roles in formal procedures like hearings and trials. Yet, it is not clear what lawyers do in such quintessentially legal settings: conclusions from past research are bedeviled by a lack of clear theory and inconsistenc…
+
 ### Ethnic Diversity and Social Trust: Evidence from the Micro-Context
 **年份**: 2015 | **DOI**: [10.1177/0003122415577989](https://doi.org/10.1177/0003122415577989)
 **作者**: Dinesen, Peter Thisted; Sonderskov, Kim Mannemar
@@ -899,6 +1024,16 @@
 **年份**: 2015 | **DOI**: [10.1177/0003122415592129](https://doi.org/10.1177/0003122415592129)
 **作者**: Lee, Dohoon; McLanahan, Sara
 **摘要**: A growing literature documents the importance of family instability for child wellbeing. In this article, we use longitudinal data from the Fragile Families and Child Wellbeing Study to examine the impacts of family instability on children's cognitive and socioemotional development in early and midd…
+
+### Her Support, His Support: Money, Masculinity, and Marital Infidelity
+**年份**: 2015 | **DOI**: [10.1177/0003122415579989](https://doi.org/10.1177/0003122415579989)
+**作者**: Munsch, Christin L.
+**摘要**: Recent years have seen great interest in the relationship between relative earnings and marital outcomes. Using data from the 1997 National Longitudinal Survey of Youth, I examine the effect of relative earnings on infidelity, a marital outcome that has received little attention.…
+
+### Historical Sociology’s Puzzle of the Missing Transitions
+**年份**: 2015 | **DOI**: [10.1177/0003122415583487](https://doi.org/10.1177/0003122415583487)
+**作者**: Cohen, Mark
+**摘要**: Prominent accounts of the transition to capitalism have a far too limited understanding of pre-capitalist agrarian economies’ potential for dynamism. Recent research shows that conditions earlier accounts identify as triggers for a transition to capitalism could be present without a transition occur…
 
 ### How National Institutions Mediate the Global: Screen Translation, Institutional Interdependencies, and the Production of National Difference in Four European Countries
 **年份**: 2015 | **DOI**: [10.1177/0003122415599155](https://doi.org/10.1177/0003122415599155)
@@ -955,6 +1090,11 @@
 **作者**: Liu, Christopher C.; Srivastava, Sameer B.
 **摘要**: This article reconciles two seemingly incompatible expectations about interpersonal interaction and social influence. One theoretical perspective predicts that an increase in interaction between two actors will promote subsequent convergence in their attitudes and behaviors, whereas another view ant…
 
+### Rage against the Iron Cage
+**年份**: 2015 | **DOI**: [10.1177/0003122415596416](https://doi.org/10.1177/0003122415596416)
+**作者**: Dobbin, Frank; Schrage, Daniel; Kalev, Alexandra
+**摘要**: Organization scholars since Max Weber have argued that formal personnel systems can prevent discrimination. We draw on sociological and psychological literatures to develop a theory of the varied effects of bureaucratic reforms on managerial motivation.…
+
 ### The (Re)genesis of Values: Examining the Importance of Values for Action
 **年份**: 2015 | **DOI**: [10.1177/0003122415591800](https://doi.org/10.1177/0003122415591800)
 **作者**: Miles, Andrew
@@ -1005,10 +1145,9 @@
 **作者**: Mears, Ashley
 **摘要**: Why do workers participate in their own exploitation? This article moves beyond the situational production of consent that has dominated studies of the labor process and outlines the relational production of labor's surplus value.…
 
-### Elements of Professional Expertise
-**年份**: 2015 | **DOI**: [10.1177/0003122415601157](https://doi.org/10.1177/0003122415601157)
-**作者**: Sandefur, Rebecca L.
-**摘要**: Lawyers keep the gates of public justice institutions, particularly through their roles in formal procedures like hearings and trials. Yet, it is not clear what lawyers do in such quintessentially legal settings: conclusions from past research are bedeviled by a lack of clear theory and inconsistenc…
+### Acknowledgment of Referees
+**年份**: 2014 | **DOI**: [10.1177/0003122414557779](https://doi.org/10.1177/0003122414557779)
+**摘要**: （暂无）
 
 ### Are Suicidal Behaviors Contagious in Adolescence? Using Longitudinal Data to Examine Suicide Suggestion
 **年份**: 2014 | **DOI**: [10.1177/0003122413519445](https://doi.org/10.1177/0003122413519445)
@@ -1054,6 +1193,11 @@
 **年份**: 2014 | **DOI**: [10.1177/0003122414546931](https://doi.org/10.1177/0003122414546931)
 **作者**: Calarco, Jessica McCrory
 **摘要**: Scholars typically view class socialization as an implicit process. This study instead shows how parents actively transmit class-based cultures to children and how these lessons reproduce inequalities.…
+
+### Continuing to Build a Theory of Inequality in Higher Education
+**年份**: 2014 | **DOI**: [10.1177/0003122414534438](https://doi.org/10.1177/0003122414534438)
+**作者**: Alon, Sigal
+**摘要**: （暂无）
 
 ### Cross-Field Effects and Ethnic Classification The Institutionalization of Hispanic Panethnicity, 1965 to 1990
 **年份**: 2014 | **DOI**: [10.1177/0003122413509813](https://doi.org/10.1177/0003122413509813)
@@ -1225,6 +1369,11 @@
 **作者**: Love, Tony P.; Davis, Jenny L.
 **摘要**: We conducted two experiments to test the effects of status on the relationship between gender and role-taking accuracy. Role-taking accuracy denotes the accuracy with which one can predict another's behavior.…
 
+### The Making of Higher Education Inequality
+**年份**: 2014 | **DOI**: [10.1177/0003122414534437](https://doi.org/10.1177/0003122414534437)
+**作者**: Tam, Tony; Jiang, Jin
+**摘要**: We extend the theoretical contributions of Alon (2009) by proposing and testing two hypotheses about the context dependence of inequality of educational opportunity (IEO). Alon offers a model of IEO that incorporates class adaptation and organizational exclusion as two test-score-based mechanisms th…
+
 ### The Parity Penalty in Life Course Perspective: Motherhood and Occupational Status in 13 European Countries
 **年份**: 2014 | **DOI**: [10.1177/0003122414545986](https://doi.org/10.1177/0003122414545986)
 **作者**: Abendroth, Anja-Kristin; Huffman, Matt L.; Treas, Judith
@@ -1274,10 +1423,6 @@
 **年份**: 2014 | **DOI**: [10.1177/0003122413515997](https://doi.org/10.1177/0003122413515997)
 **作者**: Ridgeway, Cecilia L.
 **摘要**: To understand the mechanisms behind social inequality, this address argues that we need to more thoroughly incorporate the effects of status-inequality based on differences in esteem and respect-alongside those based on resources and power.…
-
-### Acknowledgment of Referees
-**年份**: 2014 | **DOI**: [10.1177/0003122414557779](https://doi.org/10.1177/0003122414557779)
-**摘要**: （暂无）
 
 ### A Broken Public? Americans' Responses to the Great Recession
 **年份**: 2013 | **DOI**: [10.1177/0003122413498255](https://doi.org/10.1177/0003122413498255)
@@ -1348,6 +1493,16 @@
 **年份**: 2013 | **DOI**: [10.1177/0003122413478816](https://doi.org/10.1177/0003122413478816)
 **作者**: Fishman, Robert M.; Lizardo, Omar
 **摘要**: In this article, we show that large-scale macro-political change can powerfully condition how institutional practices shape individual cultural choice. We study the paired comparison of Portugal and Spain, two long-similar societies that moved from authoritarianism to democracy through divergent pat…
+
+### Immigrant Unionization through the Great Recession
+**年份**: 2013 | **DOI**: [10.1177/0003122412473107](https://doi.org/10.1177/0003122412473107)
+**作者**: Catron, Peter
+**摘要**: Previous research has found that in recent years immigrants had a higher propensity to unionize than did native-born workers. However, little research shows that historically marginalized immigrant workers are able to maintain newly acquired union jobs, especially during times unfavorable to unioniz…
+
+### Immigration, Organization, and the Great Recession
+**年份**: 2013 | **DOI**: [10.1177/0003122412473108](https://doi.org/10.1177/0003122412473108)
+**作者**: Rosenfeld, Jake; Kleykamp, Meredith
+**摘要**: Catron’s comment extends our 2009 ASR article, “Hispanics and Organized Labor in the United States, 1973 to 2007,” by analyzing CPS data through the Great Recession. He finds that Hispanic immigrants’ odds of union membership declined relative to nonimmigrant whites between 2007 and 2009, and that c…
 
 ### Increasing Rejection of Intimate Partner Violence: Evidence of Global Cultural Diffusion
 **年份**: 2013 | **DOI**: [10.1177/0003122413480363](https://doi.org/10.1177/0003122413480363)
@@ -1534,6 +1689,11 @@
 **作者**: Wildeman, Christopher; Schnittker, Jason; Turney, Kristin
 **摘要**: A burgeoning literature considers the consequences of mass imprisonment for the well-being of adult men and-albeit to a lesser degree-their children. Yet virtually no quantitative research considers the consequences of mass imprisonment for the well-being of the women who are the link between (forme…
 
+### Detecting Communities through Network Data
+**年份**: 2012 | **DOI**: [10.1177/0003122412463574](https://doi.org/10.1177/0003122412463574)
+**作者**: Bruggeman, Jeroen; Traag, V. A.; Uitermark, Justus
+**摘要**: Social life coalesces into communities through cooperation and conflict. As a case in point, Shwed and Bearman (2010) studied consensus and contention in scientific communities. They used a sophisticated modularity method to detect communities on the basis of scientific citations, which they then in…
+
 ### Disease Politics and Medical Research Funding: Three Ways Advocacy Shapes Policy
 **年份**: 2012 | **DOI**: [10.1177/0003122412458509](https://doi.org/10.1177/0003122412458509)
 **作者**: Best, Rachel Kahn
@@ -1543,6 +1703,11 @@
 **年份**: 2012 | **DOI**: [10.1177/0003122412451019](https://doi.org/10.1177/0003122412451019)
 **作者**: Masters, Ryan K.; Hummer, Robert A.; Powers, Daniel A.
 **摘要**: We use hierarchical cross-classified random-effects models to simultaneously measure age, period, and cohort patterns of mortality risk between 1986 and 2006 for non-Hispanic white and non-Hispanic black men and women with less than a high school education, a high school education, and more than a h…
+
+### Flawed Statistical Reasoning and Misconceptions about Race and Ethnicity
+**年份**: 2012 | **DOI**: [10.1177/0003122412444721](https://doi.org/10.1177/0003122412444721)
+**作者**: Villarreal, Andrés
+**摘要**: （暂无）
 
 ### Forms of Exchange and Integrative Bonds: Effects of History and Embeddedness
 **年份**: 2012 | **DOI**: [10.1177/0003122411434610](https://doi.org/10.1177/0003122411434610)
@@ -1664,10 +1829,20 @@
 **作者**: Vasi, Ion Bogdan; King, Brayden G.
 **摘要**: Although risk assessments are critical inputs to economic and organizational decision-making, we lack a good understanding of the social and political causes of shifts in risk perceptions and the consequences of those changes.…
 
+### Social Stratification in Mexico
+**年份**: 2012 | **DOI**: [10.1177/0003122412444720](https://doi.org/10.1177/0003122412444720)
+**作者**: Flores, René; Telles, Edward
+**摘要**: In a recent ASR article (2010), Andres Villarreal (hereafter AV) presents evidence of dramatic skin color stratification and indigenous disadvantage in contemporary Mexico based on the 2006 MIT Mexico Panel Study.…
+
 ### Structure and Dynamics of Religious Insurgency: Students and the Spread of the Reformation
 **年份**: 2012 | **DOI**: [10.1177/0003122411435905](https://doi.org/10.1177/0003122411435905)
 **作者**: Kim, Hyojoung; Pfaff, Steven
 **摘要**: The Protestant Reformation swept across Central Europe in the early-sixteenth century, leaving cities divided into Evangelical and Catholic camps as some instituted reforms and others remained loyal to the Roman Church.…
+
+### Symmetry Is Beautiful
+**年份**: 2012 | **DOI**: [10.1177/0003122412463018](https://doi.org/10.1177/0003122412463018)
+**作者**: Shwed, Uri; Bearman, Peter S.
+**摘要**: （暂无）
 
 ### The Effect of Parents' Attitudes on Sons' Marriage Timing
 **年份**: 2012 | **DOI**: [10.1177/0003122412464041](https://doi.org/10.1177/0003122412464041)
@@ -1698,6 +1873,10 @@
 **年份**: 2011 | **DOI**: [10.1177/0003122410395369](https://doi.org/10.1177/0003122410395369)
 **作者**: Caren, Neal; Ghoshal, Raj Andrew; Ribas, Vanesa
 **摘要**: This project explores cohort and period trends in political participation in the United States between 1973 and 2008. We examine the extent to which protest attendance and petition signing have diffused to different kinds of actors across multiple generations; we test claims central to understanding…
+
+### Acknowledgment of Referees
+**年份**: 2011 | **DOI**: [10.1177/0003122411431065](https://doi.org/10.1177/0003122411431065)
+**摘要**: （暂无）
 
 ### Bringing Managers Back In: Managerial Influences on Workplace Inequality
 **年份**: 2011 | **DOI**: [10.1177/0003122411420814](https://doi.org/10.1177/0003122411420814)
@@ -1744,6 +1923,11 @@
 **作者**: Kreager, Derek A.; Haynie, Dana L.
 **摘要**: The onset and escalation of alcohol consumption and romantic relationships are hallmarks of adolescence. Yet only recently have these domains jointly been the focus of sociological inquiry.…
 
+### Further Data on Misclassification
+**年份**: 2011 | **DOI**: [10.1177/0003122411401251](https://doi.org/10.1177/0003122411401251)
+**作者**: Campbell, Mary E.; Troyer, Lisa
+**摘要**: （暂无）
+
 ### How General Is Trust in Most People? Solving the Radius of Trust Problem
 **年份**: 2011 | **DOI**: [10.1177/0003122411420817](https://doi.org/10.1177/0003122411420817)
 **作者**: Delhey, Jan; Newton, Kenneth; Welzel, Christian
@@ -1773,6 +1957,11 @@
 **年份**: 2011 | **DOI**: [10.1177/0003122411411901](https://doi.org/10.1177/0003122411411901)
 **作者**: Gonzales, Roberto G.
 **摘要**: This article examines the transition to adulthood among 1.5-generation undocumented Latino young adults. For them, the transition to adulthood involves exiting the legally protected status of K to 12 students and entering into adult roles that require legal status as the basis for participation.…
+
+### Misclassification by Whom?
+**年份**: 2011 | **DOI**: [10.1177/0003122411401249](https://doi.org/10.1177/0003122411401249)
+**作者**: Cheng, Simon; Powell, Brian
+**摘要**: racial identity and perceptions by others. Using a creative research design that relies primarily on the third wave in-home inter views of the National Longitudinal Survey of Adolescent Health (Add Health), CT indeed, the pattern is nonsignificant or only marginally significant among self-reported A…
 
 ### Misery Does Not Love Company: Network Selection Mechanisms and Depression Homophily
 **年份**: 2011 | **DOI**: [10.1177/0003122411420813](https://doi.org/10.1177/0003122411420813)
@@ -1889,10 +2078,6 @@
 **作者**: Dobbin, Frank; Kim, Soohan; Kalev, Alexandra
 **摘要**: While some U.S. corporations have adopted a host of diversity management programs, many have done little or nothing. We explore the forces promoting six diversity programs in a national sample of 816 firms over 23 years.…
 
-### Acknowledgment of Referees
-**年份**: 2011 | **DOI**: [10.1177/0003122411431065](https://doi.org/10.1177/0003122411431065)
-**摘要**: （暂无）
-
 ### Activist Religion, Empire, and the Emergence of Modern Long-Distance Advocacy Networks
 **年份**: 2010 | **DOI**: [10.1177/0003122410374083](https://doi.org/10.1177/0003122410374083)
 **作者**: Stamatov, Peter
@@ -1953,6 +2138,11 @@
 **作者**: Rossman, Gabriel; Esparza, Nicole; Bonacich, Phillip
 **摘要**: This article uses Academy Award nominations for acting to explore how artistic achievement is situated within a collaborative context. Assessment of individual effort is particularly difficult in film because quality is not transparent, but the project-based nature of the field allows us to observe …
 
+### Influential Cases in Multilevel Modeling: A Methodological Comment
+**年份**: 2010 | **DOI**: [10.1177/0003122409359166](https://doi.org/10.1177/0003122409359166)
+**作者**: Van der Meer, Tom; Te Grotenhuis, Manfred; Pelzer, Ben
+**摘要**: A large number of cross-national survey datasets have become available in recent decades. Consequently, scholars frequently apply multilevel models to test hypotheses on both the individual and the country level.…
+
 ### Is There a Downside to Shooting for the Stars? Unrealized Educational Expectations and Symptoms of Depression
 **年份**: 2010 | **DOI**: [10.1177/0003122409357064](https://doi.org/10.1177/0003122409357064)
 **作者**: Reynolds, John R.; Baird, Chardie L.
@@ -1972,6 +2162,11 @@
 **年份**: 2010 | **DOI**: [10.1177/0003122409357047](https://doi.org/10.1177/0003122409357047)
 **作者**: Eichenlaub, Suzanne C.; Tolnay, Stewart E.; Alexander, J. Trent
 **摘要**: The migration of millions of southerners out of the South between 1910 and 1970 is largely attributed to economic and social push factors in the South, combined with pull factors in other regions of the country.…
+
+### National Religious Context and Volunteering: More Rigorous Tests Supporting the Association
+**年份**: 2010 | **DOI**: [10.1177/0003122409359168](https://doi.org/10.1177/0003122409359168)
+**作者**: Ruiter, Stijn; De Graaf, Nan Dirk
+**摘要**: \n Contains fulltext :\n 90022.pdf (Publisher’s version ) (Closed access)\n
 
 ### National and Global Origins of Environmental Association
 **年份**: 2010 | **DOI**: [10.1177/0003122410374084](https://doi.org/10.1177/0003122410374084)

@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **188** 篇
+共 **189** 篇
 
 ---
 
@@ -95,6 +95,10 @@
 **作者**: Schudde, Lauren; Brown, Raymond Stanley
 **摘要**: Decades of research have estimated the effect of entering a community college on bachelor’s degree attainment. In this study, we examined the influence of methodological choices, including sample restrictions and identification strategies, on estimated effects from studies published between 1970 and…
 
+### 2018 Reviewer Thank You
+**年份**: 2018 | **DOI**: [10.1177/0038040718802292](https://doi.org/10.1177/0038040718802292)
+**摘要**: （暂无）
+
 ### A Downward Spiral? Childhood Suspension and the Path to Juvenile Arrest
 **年份**: 2018 | **DOI**: [10.1177/0038040718784603](https://doi.org/10.1177/0038040718784603)
 **作者**: Mittleman, Joel
@@ -175,10 +179,6 @@
 **作者**: Zarifa, David; Kim, Jeannie; Seward, Brad 等4人
 **摘要**: Despite improved access in expanded postsecondary systems, the great majority of bachelor's degree graduates are taking considerably longer than the allotted four years to complete their four-year degrees.…
 
-### 2018 Reviewer Thank You
-**年份**: 2018 | **DOI**: [10.1177/0038040718802292](https://doi.org/10.1177/0038040718802292)
-**摘要**: （暂无）
-
 ### (How) Does Obesity Harm Academic Performance? Stratification at the Intersection of Race, Sex, and Body Size in Elementary and High School
 **年份**: 2017 | **DOI**: [10.1177/0038040716680271](https://doi.org/10.1177/0038040716680271)
 **作者**: Branigan, Amelia R.
@@ -249,6 +249,11 @@
 **作者**: Cipollone, Kristin; Stich, Amy E.
 **摘要**: In this article, we examine the manifestation and consequences of shadow capital within two public, urban, nonselective, college preparatory-designated high schools serving exclusively nondominant students.…
 
+### The Elephant in the Schoolhouse
+**年份**: 2017 | **DOI**: [10.1177/0038040717696151](https://doi.org/10.1177/0038040717696151)
+**作者**: Spillane, James P.; Shirrell, Matthew; Sweet, Tracy M.
+**摘要**: Although the physical arrangement of workspaces can both constrain and enable interactions among organizational members, sociological research in education has not extensively examined the role of physical proximity in determining work-related social ties among school staff.…
+
 ### The Worldwide Growth of Private Higher Education: Cross-national Patterns of Higher Education Institution Foundings by Sector
 **年份**: 2017 | **DOI**: [10.1177/0038040717739613](https://doi.org/10.1177/0038040717739613)
 **作者**: Buckner, Elizabeth
@@ -263,6 +268,10 @@
 **年份**: 2017 | **DOI**: [10.1177/0038040717694877](https://doi.org/10.1177/0038040717694877)
 **作者**: Di Stasio, Valentina
 **摘要**: Using vignettes, this study compares employers' assessments of matched and mismatched job applicants in England and the Netherlands. It contributes to the overeducation literature in several ways.…
+
+### 2016 Reviewer Thank You
+**年份**: 2016 | **DOI**: [10.1177/0038040716670151](https://doi.org/10.1177/0038040716670151)
+**摘要**: （暂无）
 
 ### Ability Grouping's Effects on Grades and the Attainment of Higher Education: A Natural Experiment
 **年份**: 2016 | **DOI**: [10.1177/0038040716642498](https://doi.org/10.1177/0038040716642498)
@@ -334,6 +343,11 @@
 **作者**: Billingham, Chase M.; Hunt, Matthew O.
 **摘要**: Racial segregation remains a persistent problem in U.S. schools. In this article, we examine how social psychological factorsin particular, individuals' perceptions of schools with varying demographic characteristicsmay contribute to the ongoing structural problem of school segregation.…
 
+### Schooling, Skills, and Self-rated Health
+**年份**: 2016 | **DOI**: [10.1177/0038040716653168](https://doi.org/10.1177/0038040716653168)
+**作者**: Duke, Naomi; Macmillan, Ross
+**摘要**: Education is a key sociological variable in the explanation of health and health disparities. Conventional wisdom emphasizes a life course–human capital perspective with expectations of causal effects that are quasi-linear, large in magnitude for high levels of educational attainment, and reasonably…
+
 ### Stratified Failure: Educational Stratification and Students' Attributions of Their Mathematics Performance in 24 Countries
 **年份**: 2016 | **DOI**: [10.1177/0038040716636434](https://doi.org/10.1177/0038040716636434)
 **作者**: Mijs, Jonathan J. B.
@@ -368,15 +382,6 @@
 **年份**: 2016 | **DOI**: [10.1177/0038040716666607](https://doi.org/10.1177/0038040716666607)
 **作者**: Holland, Megan M.; DeLuca, Stefanie
 **摘要**: Increasing numbers of low-income and minority youth are now pursuing shorter-duration sub-baccalaureate credentials at for-profit trade and technical schools. However, many students drop out of these schools, leaving with large debts and few job prospects.…
-
-### 2016 Reviewer Thank You
-**年份**: 2016 | **DOI**: [10.1177/0038040716670151](https://doi.org/10.1177/0038040716670151)
-**摘要**: （暂无）
-
-### Schooling, Skills, and Self-rated Health
-**年份**: 2016 | **DOI**: [10.1177/0038040716653168](https://doi.org/10.1177/0038040716653168)
-**作者**: Duke, Naomi; Macmillan, Ross
-**摘要**: Education is a key sociological variable in the explanation of health and health disparities. Conventional wisdom emphasizes a life course–human capital perspective with expectations of causal effects that are quasi-linear, large in magnitude for high levels of educational attainment, and reasonably…
 
 ### (No) Harm in Asking
 **年份**: 2015 | **DOI**: [10.1177/0038040715614913](https://doi.org/10.1177/0038040715614913)
@@ -468,6 +473,10 @@
 **作者**: Holland, Megan M.
 **摘要**: Many minority, first-generation, and low-income students aspire to college; however, the college application process can present a significant obstacle. These students cannot always rely on their parents for college information and must instead turn to their high schools, where counselors are in a k…
 
+### 2013 Reviewer Thank You
+**年份**: 2014 | **DOI**: [10.1177/0038040714525928](https://doi.org/10.1177/0038040714525928)
+**摘要**: （暂无）
+
 ### Compensatory Advantage as a Mechanism of Educational Inequality: A Regression Discontinuity Based on Month of Birth
 **年份**: 2014 | **DOI**: [10.1177/0038040714524258](https://doi.org/10.1177/0038040714524258)
 **作者**: Bernardi, Fabrizio
@@ -547,10 +556,6 @@
 **年份**: 2014 | **DOI**: [10.1177/0038040714525970](https://doi.org/10.1177/0038040714525970)
 **作者**: Hanselman, Paul; Bruch, Sarah K.; Gamoran, Adam 等4人
 **摘要**: Schools with very few and relatively low-performing marginalized students may be most likely to trigger social identity threats (including stereotype threats) that contribute to racial disparities.…
-
-### 2013 Reviewer Thank You
-**年份**: 2014 | **DOI**: [10.1177/0038040714525928](https://doi.org/10.1177/0038040714525928)
-**摘要**: （暂无）
 
 ### Altered States of the Collective Mind: A Response to Brint
 **年份**: 2013 | **DOI**: [10.1177/0038040713503308](https://doi.org/10.1177/0038040713503308)

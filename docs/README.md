@@ -1,17 +1,18 @@
 # 文档导航
 
-## 面向普通使用者
+这里集中放置社会学与人口学期刊文献数据库的公开说明。第一次使用建议先看使用指南；维护者再按需查看维护流程和报告。
 
-- [使用指南](/Users/wenbohu/Downloads/文献库/期刊文献/docs/guides/使用指南.md)
+## 使用数据库
 
-## 面向维护者
+- [普通用户使用指南](guides/使用指南.md)
+- [在线数据库](https://huwenbo-lab.github.io/publication/)
+- [静态 API 概况](https://huwenbo-lab.github.io/publication/api/overview.json)
+- [AI / Agent 检索入口](../agent_lit_index/README.md)
 
-- [报告目录](/Users/wenbohu/Downloads/文献库/期刊文献/docs/reports)
-- [规划文档](/Users/wenbohu/Downloads/文献库/期刊文献/docs/plans)
-- [交接文档](/Users/wenbohu/Downloads/文献库/期刊文献/docs/handoff)
+## 维护与审计
 
-说明：
-- `docs/guides/` 放面向最终用户的说明
-- `docs/reports/` 放数据质量报告和更新日志
-- `docs/plans/` 放历史方案和设计讨论
-- `docs/handoff/` 放 agent / 开发交接资料
+- [维护与自动更新流程](workflows/maintenance_workflows.md)
+- [数据报告索引](reports/README.md)
+- [数据更新日志](reports/update_log.md)
+
+数据库的当前条数、期刊数、年份范围和缺失情况以 [Pages API 概况](https://huwenbo-lab.github.io/publication/api/overview.json) 为准。带日期的报告记录特定批次的处理过程，不应替代当前数据库概况。

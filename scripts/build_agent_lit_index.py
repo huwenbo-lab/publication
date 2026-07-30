@@ -35,7 +35,7 @@ def year_period(year):
     if not isinstance(year, int):
         return "unknown"
     if year >= 2020:
-        return "2020_2026"
+        return "2020_present"
     if year >= 2010:
         return "2010_2019"
     if year >= 2000:

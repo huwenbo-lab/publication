@@ -6,1404 +6,1404 @@
 ---
 
 ### A Cultural Model of Parenthood as Engineering: How Caregiving Fathers Construct a Gender-Neutral View of the Parent Role
-**年份**: 2019 | **DOI**: [10.1177/0192513X18811387](https://doi.org/10.1177/0192513X18811387)
+**年份**: 2019 | **DOI**: [10.1177/0192513x18811387](https://doi.org/10.1177/0192513x18811387)
 **作者**: Kaplan, Danny; Knoll, Efrat
 **摘要**: Despite the growing impact of the therapeutic discourse on family life, there is limited research on how it affects lay understanding of parenthood, beyond concerns with gender roles.…
 
 ### A Research Note on Income Pooling in Partnerships: Incorporating Nonresident Children
-**年份**: 2019 | **DOI**: [10.1177/0192513X19868270](https://doi.org/10.1177/0192513X19868270)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19868270](https://doi.org/10.1177/0192513x19868270)
 **作者**: Eickmeyer, Kasey J.; Guzzo, Karen Benjamin; Manning, Wendy D. 等4人
 **摘要**: Income pooling is a common behavior among couples. However, cohabiting and married individuals in more complex families, namely those with stepchildren, are less likely to pool incomes.…
 
 ### A Thematic Analysis of Parents' Gendered Beliefs About Emotion in Middle Childhood Boys and Girls
-**年份**: 2019 | **DOI**: [10.1177/0192513X19868261](https://doi.org/10.1177/0192513X19868261)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19868261](https://doi.org/10.1177/0192513x19868261)
 **作者**: Thomassin, Kristel; Bucsea, Oana; Chan, K. Jacky 等4人
 **摘要**: This study examined mothers' and fathers' (N = 102) beliefs about emotion and emotion expression in boys and girls aged 8 to 12 years using a mixed-methods design. Parents attended two focus group sessions 2 weeks apart.…
 
 ### Adolescent Girls' Disclosure About Dating and Sexuality
-**年份**: 2019 | **DOI**: [10.1177/0192513X19829501](https://doi.org/10.1177/0192513X19829501)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19829501](https://doi.org/10.1177/0192513x19829501)
 **作者**: Killoren, Sarah E.; Campione-Barr, Nicole M.; Jones, Samantha K. 等4人
 **摘要**: Adolescents disclose information about romantic relationships and sexuality to family members and friends, but little is known about the correlates of this disclosure. We examined adolescent girls' (N = 68; 34 sister dyads) choice of disclosure partner regarding thoughts/concerns about dating and se…
 
 ### Adoption Status and Disparities in the Familial Configurations of Children
-**年份**: 2019 | **DOI**: [10.1177/0192513X18812147](https://doi.org/10.1177/0192513X18812147)
+**年份**: 2019 | **DOI**: [10.1177/0192513x18812147](https://doi.org/10.1177/0192513x18812147)
 **作者**: Thomas, Kevin J. A.; Gibby, Ashley Larsen
 **摘要**: Few studies have examined the familial configurations of adopted children and how these configurations differ from those of nonadoptees. As a result, this study examines the relationship between adoption status and inequalities in the family structure of children.…
 
 ### Approaches to Marital Conflict Resolution: A Perspective of Democratic Republic of Congo Migrants Living in Durban, South Africa
-**年份**: 2019 | **DOI**: [10.1177/0192513X19833092](https://doi.org/10.1177/0192513X19833092)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19833092](https://doi.org/10.1177/0192513x19833092)
 **作者**: Umubyeyi, Beatrice; Mtapuri, Oliver
 **摘要**: The aim of this article is to expound on existing approaches to marital conflicts resolution among Congolese migrant families, their functioning, and their effectiveness. The theoretical framework within which this study is constructed is conflict transformation theory.…
 
 ### Assets and Livelihoods of Male- and Female-Headed Households in Ghana
-**年份**: 2019 | **DOI**: [10.1177/0192513X19868839](https://doi.org/10.1177/0192513X19868839)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19868839](https://doi.org/10.1177/0192513x19868839)
 **作者**: Kpoor, Albert
 **摘要**: The consumption expenditure approach indicates that female-headed households are better-off than male-headed ones in Ghana. This approach has been criticized by scholars for being one-dimensional.…
 
 ### Balance in Family Triads: How Intergenerational Relationships Affect the Adult Sibling Relationship
-**年份**: 2019 | **DOI**: [10.1177/0192513X19860181](https://doi.org/10.1177/0192513X19860181)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19860181](https://doi.org/10.1177/0192513x19860181)
 **作者**: de Bel, Vera; Kalmijn, Matthijs; van Duijn, Marijtje A. J.
 **摘要**: In order to understand the interdependency between intergenerational and adult sibling relationships, a family systems perspective is applied to identify a smaller-empirically analyzable-relational unit of analysis, that is, the sibling-parent-sibling triad.…
 
 ### But All Kids Yell at Their Parents, Don't They?: Social Norms About Child-to-Parent Abuse in Australia
-**年份**: 2019 | **DOI**: [10.1177/0192513X19842587](https://doi.org/10.1177/0192513X19842587)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19842587](https://doi.org/10.1177/0192513x19842587)
 **作者**: Simmons, Melanie L.; McEwan, Troy E.; Purcell, Rosemary
 **摘要**: Child-to-parent abuse has been hampered by a lack of attention to what behaviors are commonly perceived as abusive and a poor understanding of when children's behavior stops being difficult, but normative, and becomes abusive.…
 
 ### Carrying the Burden of a Culture: Bargaining With Patriarchy and the Gendered Reputation of Arab American Women
-**年份**: 2019 | **DOI**: [10.1177/0192513X18821403](https://doi.org/10.1177/0192513X18821403)
+**年份**: 2019 | **DOI**: [10.1177/0192513x18821403](https://doi.org/10.1177/0192513x18821403)
 **作者**: Aboulhassan, Salam; Brumley, Krista M.
 **摘要**: This article analyzes how Arab American women understand cultural expectations that govern their lives and bodies, as they grapple with tension between U.S. and Arab cultural narratives.…
 
 ### Cementing the Stepfamily? Biological and Stepparents' Relationship Satisfaction After the Birth of a Common Child in Stepfamilies
-**年份**: 2019 | **DOI**: [10.1177/0192513X19836456](https://doi.org/10.1177/0192513X19836456)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19836456](https://doi.org/10.1177/0192513x19836456)
 **作者**: Ivanova, Katya; Balbo, Nicoletta
 **摘要**: This article studies the relationship between having a common child in stepfamilies and partners' relationship satisfaction. Previous works have primarily looked at children's adjustment in stepfamilies and have cautioned against seeing a common offspring as a way to cement the partnership because t…
 
 ### Changes and Trends in Family Structure in Taiwan, 1990 to 2010
-**年份**: 2019 | **DOI**: [10.1177/0192513X19863203](https://doi.org/10.1177/0192513X19863203)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19863203](https://doi.org/10.1177/0192513x19863203)
 **作者**: Wang, Ying-Ting; Yang, Wen-Shan
 **摘要**: Taiwan has experienced significant demographic changes since the late 20th century, including decreasing fertility rate, increasing life expectancy, postponement of marriage and childbearing, reduced marriage rate, and rise in divorce.…
 
 ### Constructions of Masculinity and the Perception of Interracial Relationships Among Young Male Chinese International Students and Scholars in the United States
-**年份**: 2019 | **DOI**: [10.1177/0192513X18809751](https://doi.org/10.1177/0192513X18809751)
+**年份**: 2019 | **DOI**: [10.1177/0192513x18809751](https://doi.org/10.1177/0192513x18809751)
 **作者**: Zhang, Jing; Allen, Katherine R.
 **摘要**: Relocating to the United States influences the perceptions of Chinese men on manhood and their attitudes toward interracial relationships between Chinese women and American men. In this study, we examined how the intersection of gender and race in a cross-cultural context shaped constructions of mas…
 
 ### Cooperative, Compromising, Conflictual, and Uninvolved Coparenting Among Teenaged Parents
-**年份**: 2019 | **DOI**: [10.1177/0192513X19842239](https://doi.org/10.1177/0192513X19842239)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19842239](https://doi.org/10.1177/0192513x19842239)
 **作者**: Mallette, Jacquelyn K.; Futris, Ted G.; Brown, Geoffrey L. 等4人
 **摘要**: Adolescent parents often maintain a coparenting relationship that is characterized by frequent conflict and unhealthy communication. However, in relationships with less conflict and more cooperation, adolescent mothers display well-being and greater self-acceptance, while young fathers are more like…
 
 ### Couples' Communication Behaviors and Diurnal Cortisol Patterns
-**年份**: 2019 | **DOI**: [10.1177/0192513X19868260](https://doi.org/10.1177/0192513X19868260)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19868260](https://doi.org/10.1177/0192513x19868260)
 **作者**: Seiter, Natasha S.; Lucas-Thompson, Rachel G.; Henry, Kim L.
 **摘要**: Previous research suggests that more negative or less positive couple communication can be stressful and that chronic stress can lead to less healthy patterns of physiological stress functioning.…
 
 ### Cultural Preferences or Financial Constraints? Understanding Racial and Ethnic Differences in Family Attitudes and Parental Coresidence in Young Adulthood
-**年份**: 2019 | **DOI**: [10.1177/0192513X19842224](https://doi.org/10.1177/0192513X19842224)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19842224](https://doi.org/10.1177/0192513x19842224)
 **作者**: Cepa, Kennan; Kao, Grace
 **摘要**: Establishing an independent household is a key marker of adulthood. Yet, the proportion of young adults who remain in the natal home has increased, with large variations across racial and ethnic groups.…
 
 ### Current and Expected Economic Hardship and Satisfaction With Family Life in Europe
-**年份**: 2019 | **DOI**: [10.1177/0192513X18802328](https://doi.org/10.1177/0192513X18802328)
+**年份**: 2019 | **DOI**: [10.1177/0192513x18802328](https://doi.org/10.1177/0192513x18802328)
 **作者**: Blom, Niels; Kraaykamp, Gerbert; Verbakel, Ellen
 **摘要**: This study investigated how people's satisfaction with their family life is influenced by economic circumstances. Expectations were formulated that people who experienced or expected economic hardship would be less satisfied with their family life.…
 
 ### Delaying Adoption Disclosure: A Survey of Late Discovery Adoptees
-**年份**: 2019 | **DOI**: [10.1177/0192513X19829503](https://doi.org/10.1177/0192513X19829503)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19829503](https://doi.org/10.1177/0192513x19829503)
 **作者**: Baden, Amanda L.; Shadel, Doug; Morgan, Ron 等7人
 **摘要**: Despite common recommendations from professionals that adoption disclosure should be done at early ages, reports suggest that a sizeable number of adult adoptees do not learn of their adoption status until older ages.…
 
 ### Department Environment and Work-to-Life Conflict Among Faculty in the STEM Fields
-**年份**: 2019 | **DOI**: [10.1177/0192513X19837316](https://doi.org/10.1177/0192513X19837316)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19837316](https://doi.org/10.1177/0192513x19837316)
 **作者**: Minnotte, Krista Lynn; Pedersen, Daphne E.
 **摘要**: Identifying factors contributing to work-to-life conflict among STEM (science, technology, engineering, and mathematics) faculty members is crucial to improving how STEM faculty manage multiple roles.…
 
 ### Depression, Masculine Norm Adherence, and Fathering Behavior
-**年份**: 2019 | **DOI**: [10.1177/0192513X18800782](https://doi.org/10.1177/0192513X18800782)
+**年份**: 2019 | **DOI**: [10.1177/0192513x18800782](https://doi.org/10.1177/0192513x18800782)
 **作者**: Shafer, Kevin; Fielding, Brandon; Holmes, Erin K.
 **摘要**: While, overall, fathers have become more involved as parents, there may be significant variability in how involved fathers are in the lives of their children. This study examines how paternal depression and masculine norm adherence affect father involvement.…
 
 ### Development of Attitudes Toward Voluntary Childlessness Scale and Its Associations With Ambivalent Sexism in Turkey
-**年份**: 2019 | **DOI**: [10.1177/0192513X19860168](https://doi.org/10.1177/0192513X19860168)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19860168](https://doi.org/10.1177/0192513x19860168)
 **作者**: Bahtiyar-Saygan, Bahar; Sakalli-Ugurlu, Nuray
 **摘要**: We aimed to develop a scale about attitudes toward voluntary childlessness and explore the predictive powers of hostile/benevolent sexism, and demographic factors (age, gender, education, income, and already having a child) on the scale.…
 
 ### Dilemmas of an Aging Society: Family and State Responsibilities for Intergenerational Care in Taiwan
-**年份**: 2019 | **DOI**: [10.1177/0192513X19863204](https://doi.org/10.1177/0192513X19863204)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19863204](https://doi.org/10.1177/0192513x19863204)
 **作者**: Lin, Ju-Ping; Yi, Chin-Chun
 **摘要**: In an aging society with a declining birthrate, there are more and more elderly to care for and fewer adult children to provide them care; these adult children, and the state, are forced to weigh the costs of eldercare against the cost of child care.…
 
 ### Divorce Attitudes Among Older Adults: Two Decades of Change
-**年份**: 2019 | **DOI**: [10.1177/0192513X19832936](https://doi.org/10.1177/0192513X19832936)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19832936](https://doi.org/10.1177/0192513x19832936)
 **作者**: Brown, Susan L.; Wright, Matthew R.
 **摘要**: The authors used data from the 1994, 2002, and 2012 General Social Survey (N = 1,450) to examine whether support for divorce has increased among adults aged 50 years and older. Consistent with the rise in the gray divorce rate, today's older adults were more accepting of divorce than their predecess…
 
 ### Does Everything Fall Apart? Life Assessments Following a Gray Divorce
-**年份**: 2019 | **DOI**: [10.1177/0192513X19839735](https://doi.org/10.1177/0192513X19839735)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19839735](https://doi.org/10.1177/0192513x19839735)
 **作者**: Crowley, Jocelyn Elise
 **摘要**: The divorce-stress-adjustment theoretical framework emphasizes not only the negative consequences associated with marital dissolution but also the positive outcomes that can eventually emerge after former spouses part ways.…
 
 ### Dyadic Examination of Parental Support, Basic Needs Satisfaction, and Student-Athlete Development During Emerging Adulthood
-**年份**: 2019 | **DOI**: [10.1177/0192513X18806557](https://doi.org/10.1177/0192513X18806557)
+**年份**: 2019 | **DOI**: [10.1177/0192513x18806557](https://doi.org/10.1177/0192513x18806557)
 **作者**: Kaye, Miranda P.; Lowe, Katie; Dorsch, Travis E.
 **摘要**: Using self-determination theory and the theory of emerging adulthood as frameworks, the present study investigated dyadic associations for the effect of parental support on college student-athletes' need satisfaction, and the effect of need satisfaction on student-athletes' adjustment.…
 
 ### Early Marriage in Taiwan: Evidence From Panel Data
-**年份**: 2019 | **DOI**: [10.1177/0192513X19863211](https://doi.org/10.1177/0192513X19863211)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19863211](https://doi.org/10.1177/0192513x19863211)
 **作者**: Tai, Tsui-o; Yi, Chin-Chun; Liu, Chia-Hua
 **摘要**: Using data from the TYP (Taiwan Youth Project) panel survey, we examine factors associated with early marriages in Taiwan and the subsequent risks for negative outcomes in family life and career trajectories. About 7% of Taiwanese people marry early, that is, before the age of 28 years.…
 
 ### Embracing Urbanity: Child Care Arrangements and Motherhood Anxiety in China's Urban Transition
-**年份**: 2019 | **DOI**: [10.1177/0192513X19856659](https://doi.org/10.1177/0192513X19856659)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19856659](https://doi.org/10.1177/0192513x19856659)
 **作者**: Dai, Haijing
 **摘要**: Urbanization of places in China has produced a large group of landless farmers, who have never left their home villages but are compelled to adjust to an urban way of life. Using ethnographic data collected in three transitional communities, this study examines the transformation of child care arran…
 
 ### Entry and Stability of Cross-National Marriages in the United States
-**年份**: 2019 | **DOI**: [10.1177/0192513X19860186](https://doi.org/10.1177/0192513X19860186)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19860186](https://doi.org/10.1177/0192513x19860186)
 **作者**: Ryabov, Igor; Zhang, Yuanting
 **摘要**: As more and more people move across borders, marriage is becoming an increasingly global affair. Yet cross-national marriage (CNM) migration has not received the scholarly attention it deserves. The present study examines the characteristics and marital stability of unions between U.S.…
 
 ### Everybody Takes Care of Everybody: Care Circulation and Care Relations in Three-Generation Cohabitation
-**年份**: 2019 | **DOI**: [10.1177/0192513X19860177](https://doi.org/10.1177/0192513X19860177)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19860177](https://doi.org/10.1177/0192513x19860177)
 **作者**: Souralova, Adela; Zakova, Michaela
 **摘要**: Demographic changes in Western societies have enabled long-term relationships between more generations and have significantly affected the structure and dynamic of family lives and contemporary families.…
 
 ### Evidence for Life Satisfaction Among Dual-Career Couples: The Interplay of Job, Career, and Family Satisfaction in Relation to Workplace Support
-**年份**: 2019 | **DOI**: [10.1177/0192513X19868267](https://doi.org/10.1177/0192513X19868267)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19868267](https://doi.org/10.1177/0192513x19868267)
 **作者**: Gahlawat, Neha; Phogat, Rina S.; Kundu, Subhash C.
 **摘要**: Using data from 406 dual-career couple employees in the Indian context, the current study has indicated that favorable perceptions of workplace support variables like work-family balance actions, supervisor support, coworker support, work autonomy, and role clarity lead toward heightened life satisf…
 
 ### Examining Turkish Adults' Recalled Experiences of Their Father's Presence
-**年份**: 2019 | **DOI**: [10.1177/0192513X19835879](https://doi.org/10.1177/0192513X19835879)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19835879](https://doi.org/10.1177/0192513x19835879)
 **作者**: Celik, Hilal; Bulut, Okan
 **摘要**: The father plays an important role in child development, including during adolescence, in many cultures. To date, research on the impact of father presence (in a household/family) on father-child relationships has been limited, especially in Eastern cultures due to the overwhelming influence of trad…
 
 ### Experiences of Gender Minority Stress in Cisgender Parents of Transgender/Gender-Expansive Prepubertal Children: A Qualitative Study
-**年份**: 2019 | **DOI**: [10.1177/0192513X19829502](https://doi.org/10.1177/0192513X19829502)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19829502](https://doi.org/10.1177/0192513x19829502)
 **作者**: Hidalgo, Marco A.; Chen, Diane
 **摘要**: Per minority stress theory, sexual and gender minorities are susceptible to bias-related social stressors that can internalize and increase their susceptibility to poor physical and mental health.…
-
-### Family Troubles, Troubling Families, and Family Practices
-**年份**: 2019 | **DOI**: [10.1177/0192513X19848799](https://doi.org/10.1177/0192513X19848799)
-**作者**: Morgan, David H. J.
-**摘要**: What does it mean to talk of family problems as opposed to individual problems? The use of the word clearly reminds the reader of the relational character of everyday troubles and, more than this, raises particular issues of dependency, mutuality, and obligations.…
-
-### Fatherhood of a Premature Infant: A Rough Roller-Coaster Ride
-**年份**: 2019 | **DOI**: [10.1177/0192513X19832939](https://doi.org/10.1177/0192513X19832939)
-**作者**: Strauss, Zipora; Bar, Michal Avrech; Stanger, Varda
-**摘要**: A man's transition to fatherhood is one of the most significant changes in his life. The birth of the baby prematurely makes this transition a difficult experience. Study objectives included a better understanding of the range of experiences of fathers of premature infants and building new work proc…
-
-### Fathers as Solo Caregivers in Spain: A Choice or a Need?
-**年份**: 2019 | **DOI**: [10.1177/0192513X19842214](https://doi.org/10.1177/0192513X19842214)
-**作者**: Fernandez-Lozano, Irina
-**摘要**: The increase in fathers' involvement in childcare in Western societies has not translated into an equal distribution of childcare between mothers and fathers. While some couples actually succeed in undoing gender when the first child arrives, their characteristics that define them are not yet clear.…
-
-### Female-Breadwinner Families in Germany: New Gender Roles?
-**年份**: 2019 | **DOI**: [10.1177/0192513X19843149](https://doi.org/10.1177/0192513X19843149)
-**作者**: Jurczyk, Karin; Jentsch, Birgit; Sailer, Julia 等4人
-**摘要**: Female breadwinning has recently gained in significance in Germany. This article examines the extent to which female breadwinning is linked to new gender roles, and the impacts the role reversal may have on families' everyday lives.…
-
-### Fertility Intentions and Their Realization in Couples: How the Division of Household Chores Matters
-**年份**: 2019 | **DOI**: [10.1177/0192513X19848794](https://doi.org/10.1177/0192513X19848794)
-**作者**: Riederer, Bernhard; Buber-Ennser, Isabella; Brzozowska, Zuzanna
-**摘要**: Most research on Europe indicates that a gender-balanced division of family work tends to increase childbearing probabilities, but empirical results vary substantially. The present article proposes explanations for this observed discrepancy.…
-
-### Finding the Golden Moments: Strategies of Perseverance Among Parents and Siblings of Persons With Severe Mental Illness and Violent Tendencies
-**年份**: 2019 | **DOI**: [10.1177/0192513X19860170](https://doi.org/10.1177/0192513X19860170)
-**作者**: Sporer, Karyn; Speropolous, Lisa; Monahan, Katarina E.
-**摘要**: This article examines strategies family members identify as being helpful when challenged by stressors related to living with an aggressive child or sibling with severe mental illness.…
-
-### Forgotten Fathers: Postpartum Depression in Men
-**年份**: 2019 | **DOI**: [10.1177/0192513X19833111](https://doi.org/10.1177/0192513X19833111)
-**作者**: Eddy, Brandon; Poll, Von; Whiting, Jason 等4人
-**摘要**: Although postpartum depression is common and well-studied in mothers, many fathers also experience symptoms. This qualitative study investigated fathers' experiences of postpartum depression.…
-
-### Gender Matters: Racial Variation and Marital Stability Among Intraracial Couples
-**年份**: 2019 | **DOI**: [10.1177/0192513X19849631](https://doi.org/10.1177/0192513X19849631)
-**作者**: Petts, Amy L.; Petts, Richard J.
-**摘要**: Studies assessing differences between intraracial and interracial marriages typically use race data from one time point. Yet because racial identification can vary across time, context, or perspective, whether a relationship is defined as intraracial or interracial can also differ.…
-
-### Grandmothers and Non-grandmothers in the Polish Labor Market: The Role of Family Issues
-**年份**: 2019 | **DOI**: [10.1177/0192513X19842243](https://doi.org/10.1177/0192513X19842243)
-**作者**: Wilinska, Monika; Grzenda, Wioletta; Perek-Bialas, Jolanta
-**摘要**: Drawing on the debates regarding work-family reconciliation in later life, we examine the extent to which the labor market position of grandmothers and nongrandmothers can be explained by their varied family situations.…
-
-### Happy Moms, Happier Dads: Gendered Caregiving and Parents' Affect
-**年份**: 2019 | **DOI**: [10.1177/0192513X19860179](https://doi.org/10.1177/0192513X19860179)
-**作者**: McDonnell, Cadhla; Luke, Nancy; Short, Susan E.
-**摘要**: Parenting is emotionally demanding and highly gendered. We use data from the American Time Use Survey to examine mothers' and fathers' momentary affect during childcare activities. We observe a gender imbalance in the emotional rewards of childcare: Fathers report more happiness, less stress, and le…
-
-### Hazy Transition to Fatherhood: The Experiences of Czech Fathers
-**年份**: 2019 | **DOI**: [10.1177/0192513X18806028](https://doi.org/10.1177/0192513X18806028)
-**作者**: Nesporova, Olga
-**摘要**: Using longitudinal qualitative research, the study focuses on the transition to fatherhood and the life changes which fatherhood effects in men's everyday lives. Comparative thematic analysis was used in the study of data provided by two waves of research focusing on 16 dual-earner Czech parental co…
-
-### His Career, Her Job, Their Future: Cohabitors' Orientations Toward Paid Work
-**年份**: 2019 | **DOI**: [10.1177/0192513X19841090](https://doi.org/10.1177/0192513X19841090)
-**作者**: Miller, Amanda J.; Carlson, Daniel L.; Sassler, Sharon
-**摘要**: In this article, we examine the work orientations of service- and middle-class cohabiting couples. Through our in-depth interviews with both partners in 61 couples, we find that middle-class cohabitors often report polarized work orientations-they are generally either the most conventional (privileg…
-
-### Histories of Couple Formation and Migration: The Case of Foreigners in Lombardy, Italy
-**年份**: 2019 | **DOI**: [10.1177/0192513X19833115](https://doi.org/10.1177/0192513X19833115)
-**作者**: Gabrielli, Giuseppe; Terzera, Laura; Paterno, Anna 等4人
-**摘要**: Migrant families have become relevant in Italy during the past decade and Lombardy is one of the Italian regions with the largest foreign presence. The aim of the article is to contribute to the international debate on the relationship between couple formation and migration event.…
-
-### Household Extension and Earnings Among Foreign-Born Asian and Non-Hispanic White Households
-**年份**: 2019 | **DOI**: [10.1177/0192513X19848819](https://doi.org/10.1177/0192513X19848819)
-**作者**: Kulkarni, Veena S.
-**摘要**: Previous research to understand socioeconomic well-being of immigrants finds the type of living arrangement is significantly correlated with household-level earnings. Present study employing 2009-2011 American Community Survey data explores the above relationship for the six major foreign-born Asian…
-
-### How Does Mothering Look Like: A Multidimensional Approach to Maternal Cognitive Representations
-**年份**: 2019 | **DOI**: [10.1177/0192513X19860171](https://doi.org/10.1177/0192513X19860171)
-**作者**: Camilo, Claudia; Garrido, Margarida Vaz; Ferreira, Mario B. 等4人
-**摘要**: From a cognitive information processing perspective, parents' cognitive schemas strongly influence the way they perceive and act toward their children. In order to explore how maternal cognitive representations about parenting are organized in a multidimensional space, mothers referred to child prot…
-
-### Husband-Wife Religious Discordance, Marital Satisfaction, and Risk of Marital Dissolution in Two Generations
-**年份**: 2019 | **DOI**: [10.1177/0192513X19835871](https://doi.org/10.1177/0192513X19835871)
-**作者**: Hwang, Woosang; Yoon, Joonsik; Silverstein, Merril 等4人
-**摘要**: We examined whether three types of husband-wife religious discordance (denomination, intensity, and attendance) were associated with the risk of marital dissolution over three decades.…
-
-### Impulse Control Moderates the Link Between Parent-Child Cultural Orientation Gaps and Externalizing Problems in Chinese Immigrant Early Adolescents
-**年份**: 2019 | **DOI**: [10.1177/0192513X19859611](https://doi.org/10.1177/0192513X19859611)
-**作者**: Miconi, Diana; Moscardino, Ughetta; Altoe, Gianmarco
-**摘要**: The current study aimed to investigate whether the expected association between parent-child cultural orientation gaps and externalizing problems was moderated by impulse control (IC) among Chinese early adolescents in immigrant families.…
-
-### Indirect Effects of Social Support on Psychological Health Through Self-Esteem in Emerging Adulthood
-**年份**: 2019 | **DOI**: [10.1177/0192513X19859612](https://doi.org/10.1177/0192513X19859612)
-**作者**: Szkody, Erica; McKinney, Cliff
-**摘要**: Social constructivist theory suggests that social support affects internalizing and externalizing problems by improving self-esteem. The differential impact of these variables has not been fully explored between male and female genders.…
-
-### Interactional Synchrony and Child Gender Differences in Dyadic and Triadic Family Interactions
-**年份**: 2019 | **DOI**: [10.1177/0192513X19832938](https://doi.org/10.1177/0192513X19832938)
-**作者**: de Mendonca, Julia Scarano; Raad Bussab, Vera Silvia; Kaertner, Joscha
-**摘要**: Based on family systems theory, our objectives were to examine the association between dyadic parent-child interactional synchrony (mother-child and father-child) and triadic mother-father-child interactional synchrony and the effect of the child's gender on the family interactional synchrony at the…
-
-### Interactive Processes in Grief and Couples' Adjustment After the Death of a Child
-**年份**: 2019 | **DOI**: [10.1177/0192513X18820385](https://doi.org/10.1177/0192513X18820385)
-**作者**: Albuquerque, Sara; Ferreira, Luana Cunha; Narciso, Isabel 等4人
-**摘要**: The death of a child is an individual process of grief but also a context of significant relational processes, which have been only rarely considered in research. The aim of this study was to examine the interactive processes within bereaved parents.…
-
-### Intergenerational Factors, Fatherhood Beliefs, and African American Fathers' Involvement: Building the Case for a Mediated Pathway
-**年份**: 2019 | **DOI**: [10.1177/0192513X19849629](https://doi.org/10.1177/0192513X19849629)
-**作者**: Cooper, Shauna M.; Ross, Latisha; Dues, Adrianne 等5人
-**摘要**: Intergenerational factors have been suggested as a critical interactional context shaping African American fathers' beliefs and parenting practices. However, relatively little attention has been given to the identification of underlying processes guiding the association between intergenerational fac…
-
-### Is Involved Fatherhood Possible? Structural Elements Influencing the Exercise of Paternity in Spain and Norway
-**年份**: 2019 | **DOI**: [10.1177/0192513X19839753](https://doi.org/10.1177/0192513X19839753)
-**作者**: Elizalde-San Miguel, Begona; Diaz Gandasegui, Vicente; Diaz Gorfinkiel, Magdalena
-**摘要**: This article analyses the different ways in which fatherhood is exercised in Spain and Norway. Family transformations and the redefinition of social roles assigned to men and women have brought changes in the meanings ascribed to paternity by Western societies.…
-
-### Is Maternal Income in Childhood Associated With Adolescent Health and Behavioral Outcomes?
-**年份**: 2019 | **DOI**: [10.1177/0192513X19829506](https://doi.org/10.1177/0192513X19829506)
-**作者**: Shepherd-Banigan, Megan; Basu, Anirban; Bell, Janice F. 等5人
-**摘要**: Maternal income increases immediate investment in children for food, child care, and health care, but whether maternal income influences longer term health and behavioral outcomes is unknown.…
-
-### Is Variation in Biological and Residential Ties to Children Linked to Mothers' Parental Stress and Perceptions of Coparenting?
-**年份**: 2019 | **DOI**: [10.1177/0192513X18812172](https://doi.org/10.1177/0192513X18812172)
-**作者**: Guzzo, Karen Benjamin; Hemez, Paul; Anderson, Lydia 等5人
-**摘要**: Mothers with children from prior relationships or with stepchildren may perceive greater challenges in parenting than their counterparts in less complex families. We use the Families and Relationships Study to analyze parental stress and perceptions of coparenting among cohabiting and married mother…
-
-### Latino Immigrant Parents' Experiences With Discrimination: Implications for Parenting in a Hostile Immigration Policy Context
-**年份**: 2019 | **DOI**: [10.1177/0192513X19827988](https://doi.org/10.1177/0192513X19827988)
-**作者**: Ayon, Cecilia; Garcia, San Juanita
-**摘要**: A growing anti-immigrant context has increased the discrimination Latino immigrant families confront in the United States. This study examines the relationship between discrimination and Latinos' parenting practices.…
-
-### Lone Mothers' Repartnering Trajectories and Health: Does the Welfare Context Matter?
-**年份**: 2019 | **DOI**: [10.1177/0192513X19860175](https://doi.org/10.1177/0192513X19860175)
-**作者**: Recksiedler, Claudia; Bernardi, Laura
-**摘要**: We examined the relationship between lone mothers' repartnering and health in three welfare contexts: the dual-earner, market-oriented, and general family policy model. Drawing on the resources and crisis models, we applied mixture modelling for spell data of the Harmonized Histories data set.…
-
-### Losing a Little Part of Yourself: Families' Experiences With Foreclosure
-**年份**: 2019 | **DOI**: [10.1177/0192513X19848795](https://doi.org/10.1177/0192513X19848795)
-**作者**: Collins, Cyleste C.; Berg, Kristen A.
-**摘要**: While quantitative studies have described foreclosure's correlates, and qualitative work has shed light on homeowners' experiences in general, research has not focused specifically on how families with children younger than 18 years experience foreclosure.…
-
-### Marital Satisfaction Among Taiwanese Young Married Couples: The Effects of Resources and Traditional Norms
-**年份**: 2019 | **DOI**: [10.1177/0192513X19863212](https://doi.org/10.1177/0192513X19863212)
-**作者**: Yi, Chin-Chun; Lin, Wen-Hsu; Ma, Josef Kuo-Hsun
-**摘要**: This study aims to illustrate the importance of cultural norms for marital satisfaction among young married Taiwanese couples. Data are taken from the Taiwan Youth Project, a longitudinal panel since the year of 2000, with 401 married couple data completed in 2015.…
-
-### Maternal Resilience as a Protective Factor Between Financial Stress and Child Outcomes
-**年份**: 2019 | **DOI**: [10.1177/0192513X19842609](https://doi.org/10.1177/0192513X19842609)
-**作者**: Seely, Hayley D.; Mickelson, Kristin D.
-**摘要**: The physical, mental, and behavioral impact of living in poverty is significant; research shows that individuals who experience financial stress in childhood are more likely to suffer from impaired mental health and continue experiencing similar stressors in adulthood.…
-
-### Men as Carers in Long-Term Caring: Doing Gender and Doing Kinship
-**年份**: 2019 | **DOI**: [10.1177/0192513X18813185](https://doi.org/10.1177/0192513X18813185)
-**作者**: Comas-d'Argemir, Dolors; Soronellas, Montserrat
-**摘要**: In this article, we examine men's involvement in long-term care for the elderly or sick relatives to locate changes in gender and kinship relations. Research on care has highlighted the role of gender, but has been blind as regards the link between care and kinship, which is taken as a given.…
-
-### More Money, Less Housework? Relative Resources and Housework in the Czech Republic
-**年份**: 2019 | **DOI**: [10.1177/0192513X19864988](https://doi.org/10.1177/0192513X19864988)
-**作者**: Hamplova, Dana; Chaloupkova, Jana Klimova; Topinkova, Renata
-**摘要**: The article explores the association between housework, earnings, and education. In contrast to the majority of existing studies from Western countries, this article tests the bargaining theory in the Czech Republic.…
-
-### Motivation to Become a Parent and Parental Satisfaction: The Mediating Effect of Psychological Needs Satisfaction
-**年份**: 2019 | **DOI**: [10.1177/0192513X19836458](https://doi.org/10.1177/0192513X19836458)
-**作者**: Ross-Plourde, Mylene; Basque, Dominique
-**摘要**: The multifactorial decision to become a parent has mostly been investigated in mothers. It would seem that those who decide to have children in response to internal or external pressure, as compared with by pleasure or choice, have a less adaptive parenting experience.…
-
-### My Brother Was His Little Angel; I Was the Problem Child: Perceived Sibling Favoritism in the Narratives of Youth Who Become Homeless
-**年份**: 2019 | **DOI**: [10.1177/0192513X19839748](https://doi.org/10.1177/0192513X19839748)
-**作者**: Buccieri, Kristy
-**摘要**: Youth who become homeless often report having difficult home lives, but very little is known about their experiences with siblings and parents. This article reports on a qualitative study of eight youth, aged 17 to 23 years, experiencing homelessness in Toronto.…
-
-### Neighborhood Qualities and Parenting Among Mothers With Young Children: Variation by Relationship Status
-**年份**: 2019 | **DOI**: [10.1177/0192513X19849635](https://doi.org/10.1177/0192513X19849635)
-**作者**: Riina, Elizabeth M.
-**摘要**: This study investigates associations between neighborhood social processes and parenting qualities among mothers of young children and tests variation according to relationship status. Data come from Year 3 of the Fragile Families and Child Wellbeing Study (n = 3,535).…
-
-### Parent and Child Depression: Moderated Mediation by Gender and Harsh Parenting in Emerging Adults
-**年份**: 2019 | **DOI**: [10.1177/0192513X18817578](https://doi.org/10.1177/0192513X18817578)
-**作者**: McKinney, Cliff; Szkody, Erica
-**摘要**: Parental depression has been associated with psychological problems in offspring. It was hypothesized that harsh parenting would mediate this relationship and that gender differences would suggest moderated mediation.…
-
-### Parent-Child Relationship Quality and Internalizing Problems as Predictors of Risky Sexual Behavior
-**年份**: 2019 | **DOI**: [10.1177/0192513X19843156](https://doi.org/10.1177/0192513X19843156)
-**作者**: Rogers, Mary Moussa; McKinney, Cliff
-**摘要**: Risky sexual behavior is more prevalent in emerging adult populations and emerging adults engaging in risky sexual behavior also may be experiencing higher levels of internalizing problems.…
-
-### Parent-Child Time Together: The Role of Interactive Technology With Adolescent and Young Adult Children
-**年份**: 2019 | **DOI**: [10.1177/0192513X19856644](https://doi.org/10.1177/0192513X19856644)
-**作者**: Vaterlaus, J. Mitchell; Beckert, Troy E.; Schmitt-Wilson, Sarah
-**摘要**: Presently, there is a lack of consensus about whether interactive technology enhances or restricts the quality and quantity of shared time between parents and their children. The purposes of this exploratory study were to identify parent and adolescent/young adult perceptions of time spent together …
-
-### Parental Attachment Styles and Religious and Spiritual Struggle: A Mediating Effect of God Image
-**年份**: 2019 | **DOI**: [10.1177/0192513X18813186](https://doi.org/10.1177/0192513X18813186)
-**作者**: Zarzycka, Beata
-**摘要**: The ideas that religion capitalizes on the operation of the attachment system and that believers' perceived relationships with God can be characterized as symbolic attachment relationships have been well established in the psychology of religion.…
-
-### Parental Dissatisfaction, Health, and Well-Being Among Older Chinese Adults: The Mediating Role of Self-Esteem and Feeling Useless
-**年份**: 2019 | **DOI**: [10.1177/0192513X19860182](https://doi.org/10.1177/0192513X19860182)
-**作者**: Yang, Yiqing; Wen, Ming
-**摘要**: Little work has considered the relationship between parental dissatisfaction and health and well-being among older adults. This study investigates whether parental dissatisfaction is linked to four health and well-being outcomes and whether the proposed associations are partly mediated by self-estee…
-
-### Parenting Across Two Worlds: Low-Income Latina Immigrants' Adaptation to Motherhood in the United States
-**年份**: 2019 | **DOI**: [10.1177/0192513X18821398](https://doi.org/10.1177/0192513X18821398)
-**作者**: Vesely, Colleen K.; Letiecq, Bethany L.; Goodman, Rachael D.
-**摘要**: This study explored how low-income documented and undocumented Latina immigrant mothers negotiate motherhood and adapt to life in new cultural and structural contexts. Grounded in ecocultural theory, we analyzed data from 21 in-depth interviews with Latina immigrant mothers to surface how their expe…
-
-### Parenting Satisfaction Among Homeless Caregivers
-**年份**: 2019 | **DOI**: [10.1177/0192513X18806331](https://doi.org/10.1177/0192513X18806331)
-**作者**: Alleyne-Green, Binta; Kulick, Alex; McCutcheon, Kendra P. DeLoach
-**摘要**: This study explored the impact of parenting satisfaction and shelter comfort on depression and parenting stress among an urban sample of homeless caregivers residing in New York City.…
-
-### Parenting While Food Insecure: Links Between Adult Food Insecurity, Parenting Aggravation, and Children's Behaviors
-**年份**: 2019 | **DOI**: [10.1177/0192513X19842902](https://doi.org/10.1177/0192513X19842902)
-**作者**: Gee, Kevin A.; Asim, Minahil
-**摘要**: Parents who experience food insecurity face not only uncertainty in obtaining food, but an invisible emotional burden, one that can potentially influence both their parenting behaviors and ultimately, their children.…
-
-### Parents' Valuation of Approving a Child's Spouse in a Context of Marital Change
-**年份**: 2019 | **DOI**: [10.1177/0192513X19849634](https://doi.org/10.1177/0192513X19849634)
-**作者**: Allendorf, Keera
-**摘要**: Previous research on arranged marriage focuses on young people getting married. In this article, the author turns the focus toward parents, examining whether Nepali parents value approving their child's future spouse. A fifth of parents did not value approving their child's spouse.…
-
-### Partner Support as a Protection Against Distress During the Transition to Parenthood
-**年份**: 2019 | **DOI**: [10.1177/0192513X19832933](https://doi.org/10.1177/0192513X19832933)
-**作者**: Gillis, Aurelie; Gabriel, Barbara; Galdiolo, Sarah 等4人
-**摘要**: The majority of previous studies focused on mothers' distress and considered partner support from the father to the mother. The current research studies the level and the course of distress and partner support in new mothers and fathers during the transition to parenthood and tests the protective ro…
-
-### Perceptions of Strengths-Based Child Welfare Practices Among Mothers With Drug Use Histories
-**年份**: 2019 | **DOI**: [10.1177/0192513X19859392](https://doi.org/10.1177/0192513X19859392)
-**作者**: Fusco, Rachel A.
-**摘要**: Families in the child welfare system show especially poor outcomes when a parent has a drug use history. These parents may be difficult to engage, which may contribute to their failure to follow through with service planning and receipt.…
-
-### Persistence and Change in the Comparative Status of Mothers-in-Law and Daughters-in-Law in Taiwanese Families: 1979 to 2016
-**年份**: 2019 | **DOI**: [10.1177/0192513X19863205](https://doi.org/10.1177/0192513X19863205)
-**作者**: Kung, Hsiang-Ming
-**摘要**: Traditionally in Taiwan, daughters-in-law lived with their husbands' parents and, following principles of filial piety, were subordinate to their mothers-in-law. The author proposes that, as daughters-in-law acquire resources such as education and income, their status within their families will incr…
-
-### Postdivorce Coparenting Relationships and Parent-Youth Relationships: Are Repartnership and Parent-Youth Contact Moderators?
-**年份**: 2019 | **DOI**: [10.1177/0192513X18821395](https://doi.org/10.1177/0192513X18821395)
-**作者**: Beckmeyer, Jonathon J.; Markham, Melinda Stafford; Troilo, Jessica
-**摘要**: Using data from 392 divorced mothers and fathers, living in the United States, with a child between 10 and 18 years old, we first identified three types of postdivorce coparenting relationships (cooperative, moderately engaged, and conflictual and disengaged) based on coparenting communication, coop…
-
-### Postpartum Role Satisfaction in Couples: Associations With Individual and Relationship Well-Being
-**年份**: 2019 | **DOI**: [10.1177/0192513X19835866](https://doi.org/10.1177/0192513X19835866)
-**作者**: Cohen, Matthew J.; Pentel, Kimberly Z.; Boeding, Sara E. 等4人
-**摘要**: Although the postpartum period is typically considered a joyful time for new parents, this period calls for a reprioritization of daily responsibilities and tasks which may not necessarily align with the egalitarian split many couples envision.…
-
-### Poverty and Family Troubles: Mothers, Children, and Neoliberal Antipoverty Initiatives
-**年份**: 2019 | **DOI**: [10.1177/0192513X18809745](https://doi.org/10.1177/0192513X18809745)
-**作者**: Rosen, Rachel
-**摘要**: Conditions of impoverishment underlie many family troubles and the family is often a site of antipoverty interventions. Feminist scholars have provided a series of trenchant critiques of neoliberal initiatives which purport to tackle familial poverty but have the effect of retraditionalizing gendere…
-
-### Practice Makes Perfect: Experiential Learning as a Method for Financial Socialization
-**年份**: 2019 | **DOI**: [10.1177/0192513X18812917](https://doi.org/10.1177/0192513X18812917)
-**作者**: LeBaron, Ashley B.; Runyan, Samuel D.; Jorgensen, Bryce L. 等6人
-**摘要**: Most financial socialization research focuses on two methods of learning: modeling and discussion. The purpose of this study is to qualitatively explore experiential learning as a third potential method of financial socialization used by parents.…
-
-### Predicting Young Adults' Romantic Relationship Quality: Sibling Ties and Adult Attachment Styles
-**年份**: 2019 | **DOI**: [10.1177/0192513X18820381](https://doi.org/10.1177/0192513X18820381)
-**作者**: Sommantico, Massimiliano; Donizzetti, Anna Rosa; Parrello, Santa 等4人
-**摘要**: Young adults' romantic relationships have continually emerged as a significant area of study in psychological research. The authors examine possible associations between a measure of attitudes toward sibling relationships, a measure of adult attachment styles, and a measure of romantic relationship …
-
-### Predictors of Emirati Marital Satisfaction: Contributions of Psychological Health and Family Functioning
-**年份**: 2019 | **DOI**: [10.1177/0192513X19827994](https://doi.org/10.1177/0192513X19827994)
-**作者**: Al-Darmaki, Fatima; Dodeen, Hamzeh; Yaaqeib, Saad 等5人
-**摘要**: Based on previous work on factors predicting marital satisfaction in Emirati society, this study aimed at examining whether anxiety and depression as well as perceived family functioning would predict marital satisfaction among a sample of 1,041 Emirati married individuals.…
-
-### Psychological Distress Among Resident and Nonresident Fathers: Findings From New Zealand's Who Are Today's Dads? Project
-**年份**: 2019 | **DOI**: [10.1177/0192513X18808827](https://doi.org/10.1177/0192513X18808827)
-**作者**: Rusten, Nikolas F.; Peterson, Elizabeth R.; Underwood, Lisa 等11人
-**摘要**: When fathers live away from their children, taking an active paternal role may become challenging and can add to paternal psychological distress. In a large (N = 3,980) diverse cohort, we found that nonresident fathers are more likely to be psychologically distressed than resident fathers (27.4% vs.…
-
-### Psychological Well-Being of Coresiding Elderly Parents and Adult Children in China: Do Father-Child and Mother-Child Relationships Make a Difference?
-**年份**: 2019 | **DOI**: [10.1177/0192513X19862845](https://doi.org/10.1177/0192513X19862845)
-**作者**: Chen, Jia; Jordan, Lucy P.
-**摘要**: Using the baseline wave (2010) of the China Family Panel Studies, this study conducted an investigation of the associations between intergenerational relationships and the psychological well-being of elderly parents and adult children based on 2,401 coresiding parent-child dyads.…
-
-### Racial Differences in Parental Involvement and Physical and Psychological Maltreatment: Processes Related to Regard for Parents
-**年份**: 2019 | **DOI**: [10.1177/0192513X18819218](https://doi.org/10.1177/0192513X18819218)
-**作者**: Malkin, Mallory L.; McKinney, Cliff
-**摘要**: Research indicates that perceptions of and regard for parents are important in the parent-child relationship of emerging adults and associated with both emotional and social adjustment and development.…
-
-### Receiving Support and Care in Older Age: Comparing LAT Relationships With First Marriages, Remarriages, and Cohabitation
-**年份**: 2019 | **DOI**: [10.1177/0192513X19846179](https://doi.org/10.1177/0192513X19846179)
-**作者**: van Groenou, Marjolein Broese; te Riele, Saskia; Gierveld, Jenny de Jong
-**摘要**: Living apart together (LAT) combines intimacy with autonomy and flexibility but, possibly, with lower commitment to exchanging support and care compared with first marriages, remarriages, and cohabitation of older adults.…
-
-### Reconstruction of Masculine Identities Through Caring Practices: The Experiences of Male Caregivers in Hong Kong
-**年份**: 2019 | **DOI**: [10.1177/0192513X18823820](https://doi.org/10.1177/0192513X18823820)
-**作者**: Leung, Lai Ching; Chan, Kam Wah; Tam, Kin Yuen
-**摘要**: The purpose of this study was to explore from a gender perspective how masculinities might be reworked into identities of care through men taking on the role of family caregiver. A qualitative method was adopted for this research.…
-
-### Role Ambiguity and Role Conflict Among Partners of Trans People
-**年份**: 2019 | **DOI**: [10.1177/0192513X18800362](https://doi.org/10.1177/0192513X18800362)
-**作者**: Dierckx, Myrte; Mortelmans, Dimitri; Motmans, Joz
-**摘要**: Experiences of family members are often overlooked in social research on gender transitions. The current article aims to address this gap by considering the experiences of partners during a gender transition, approaching this topic through role theory and the concepts of role ambiguity and role conf…
-
-### Sex, Gender Dynamics, Differential Exposure, and Work-Family Conflict
-**年份**: 2019 | **DOI**: [10.1177/0192513X18806945](https://doi.org/10.1177/0192513X18806945)
-**作者**: Haines, Victor Y., III; Bilodeau, Jaunathan; Demers, Andree 等7人
-**摘要**: This study tested a differential exposure explanation of the association between sex categories and work-family conflict. It addresses the question of why men and women may experience similar or dissimilar levels of work-family conflict and tests whether differences are due to their different gender…
-
-### Shifting Influences of Pregnancy on Union Formation Across Age and Union Stability Across Cohabitation Duration
-**年份**: 2019 | **DOI**: [10.1177/0192513X18806554](https://doi.org/10.1177/0192513X18806554)
-**作者**: Thorsen, Maggie L.
-**摘要**: Nonmarital pregnancy increases the likelihood of entering a marital or cohabiting union. The timing of a pregnancy within the life course of an individual or relationship duration may also affect the likelihood of forming coresidential unions and their stability.…
-
-### Situating Children's Family Troubles: Poverty and Serial Migration
-**年份**: 2019 | **DOI**: [10.1177/0192513X19846180](https://doi.org/10.1177/0192513X19846180)
-**作者**: Phoenix, Ann
-**摘要**: This article aims to contribute to understandings of how children experience family troubles. It considers how children's family troubles are socially situated and interlinked with the resources children and other family members have available and the societal contexts in which they live.…
-
-### Social Class and Cosmopolitan Parenting in Taiwanese Families
-**年份**: 2019 | **DOI**: [10.1177/0192513X19863210](https://doi.org/10.1177/0192513X19863210)
-**作者**: Shih, Yi-Ping
-**摘要**: Cosmopolitanism, or being international, has become an ideal to which parents aspire for their children in East Asia. The objective of this article is to investigate the meaning of cosmopolitanism among Taiwanese middle- and working-class parents, and to examine how they incorporate cosmopolitanism …
-
-### Spousal Relationship (E) Quality and Adjustment to Motherhood in Israel
-**年份**: 2019 | **DOI**: [10.1177/0192513X19842590](https://doi.org/10.1177/0192513X19842590)
-**作者**: Kestler-Peleg, Miri; Lavenda, Osnat; Keren-Leneman, Shelli 等4人
-**摘要**: Contemporary families experience the paradox of traditionalism/postmodernism especially in the postnatal period which presents many challenges to couples subsystem. One of them is the change in roles, which often leads to decreased relationships' equality.…
-
-### Stepfamily Closeness and Depression Among American Indian Emerging Adults: A Structural Equation Modeling Approach
-**年份**: 2019 | **DOI**: [10.1177/0192513X18808574](https://doi.org/10.1177/0192513X18808574)
-**作者**: Ward, Kaitlin P.; Limb, Gordon E.; Higbee, Sarah 等4人
-**摘要**: Stepfamilies are one of the fastest growing family structures among all racial groups in the United States. Stepfamily research among many racial groups, specifically American Indians, is virtually nonexistent.…
-
-### Stress Proliferation? Precarity and Work-Family Conflict at the Intersection of Gender and Household Income
-**年份**: 2019 | **DOI**: [10.1177/0192513X19862847](https://doi.org/10.1177/0192513X19862847)
-**作者**: Fan, Wen; Lam, Jack; Moen, Phyllis
-**摘要**: We theorize a stress proliferation process whereby the stress of job precarity translates into the stress of work-to-family conflict (WFC). We test whether this process differs by gender and household income.…
-
-### The Development of Health Lifestyles in Families Experiencing Disability
-**年份**: 2019 | **DOI**: [10.1177/0192513X19831410](https://doi.org/10.1177/0192513X19831410)
-**作者**: Rigles, Bethany
-**摘要**: The family system is an important contributor to one's development of health lifestyles or the patterns of health behaviors one engages in. Research has yet to explore how health lifestyles develop within families or how disability may affect this process.…
-
-### The Gendered Division of Sterilization Fertility Work: The Role of Educational and Racial/Ethnic Heterogamy
-**年份**: 2019 | **DOI**: [10.1177/0192513X18806035](https://doi.org/10.1177/0192513X18806035)
-**作者**: Eeckhaut, Mieke C. W.
-**摘要**: Drawing on data from the 2006 to 2010 and 2011 to 2013 rounds of the National Survey of Family Growth, this study examines the division of sterilization fertility work among couples who have completed intended childbearing.…
-
-### The Good Parent: Southern Italian Mothers' Conceptualization of Good Parenting and Parent-Child Relationships
-**年份**: 2019 | **DOI**: [10.1177/0192513X19842598](https://doi.org/10.1177/0192513X19842598)
-**作者**: Lo Cricchio, Maria Grazia; Lo Coco, Alida; Cheah, Charissa S. L. 等4人
-**摘要**: Thirty mothers, ranging in age between 30 and 46 years, participated in seven focus groups aimed at analyzing perceptions and ideas of the characteristics of a good parent and parent-child relationship in southern Italy (Sicily).…
-
-### The Influence of Developmental Idealism on Marital Attitudes, Expectations, and Timing
-**年份**: 2019 | **DOI**: [10.1177/0192513X19856642](https://doi.org/10.1177/0192513X19856642)
-**作者**: Allendorf, Keera; Thornton, Arland; Mitchell, Colter 等4人
-**摘要**: Recent theory suggests that developmental idealism (DI) is an important source of variation and change in family behavior, yet this suggestion is largely untested at the individual level. This study examines the influence of DI beliefs and values on individuals' entrance into marriage.…
-
-### The Japanese Corporate Family: The Marital Gender Contract Facing New Challenges
-**年份**: 2019 | **DOI**: [10.1177/0192513X19830147](https://doi.org/10.1177/0192513X19830147)
-**作者**: Goldstein-Gidoni, Ofra
-**摘要**: The analytical prism of gender contract is used in this article as a means to conceptualize the cultural construction of the idea of the heteronormative ordinary Japanese family, a construct that gained hegemonic dominance over the course of Japan's stable prosperous postwar period (1960s-1980s); an…
-
-### The Role of Neighborhood Disadvantage and Family Structure During Adolescence in Young Adults' Experiences of Multiple Partner Fertility (MPF)
-**年份**: 2019 | **DOI**: [10.1177/0192513X19843151](https://doi.org/10.1177/0192513X19843151)
-**作者**: Monahan, Emma Kahle; Guarin, Angela
-**摘要**: Families in the United States have become more complex, with an increasing number of individuals having children with multiple partners, called multiple partner fertility (MPF). MPF has significant negative consequences for the well-being of adults and children.…
-
-### The Social Image of Families of Children and Youth in Residential Care: A Characterization and Comparison With Mainstream Families With Different Socioeconomic Status
-**年份**: 2019 | **DOI**: [10.1177/0192513X19855413](https://doi.org/10.1177/0192513X19855413)
-**作者**: Patricio, Joana Nunes; Lopes, Diniz; Garrido, Margarida Vaz 等4人
-**摘要**: The literature suggests that families of children and youths in residential care are often associated with negative social images. These images may shape prejudiced attitudes and behavior toward them and, when shared by care professionals, compromise the effectiveness of family intervention and rein…
-
-### The Trouble With Fathers: The Impact of Time and Gendered-Thinking on Working Relationships Between Fathers and Social Workers in Child Protection Practice in England
-**年份**: 2019 | **DOI**: [10.1177/0192513X18792682](https://doi.org/10.1177/0192513X18792682)
-**作者**: Philip, Georgia; Clifton, John; Brandon, Marian
-**摘要**: The lives of families entering the child protection arena may be shaped by a range of troubles, including material deprivation, physical and mental health problems, and substance misuse or domestic abuse.…
-
-### The Ups and Downs of Down Syndrome: A Qualitative Study of Positive and Negative Parenting Experiences
-**年份**: 2019 | **DOI**: [10.1177/0192513X18812192](https://doi.org/10.1177/0192513X18812192)
-**作者**: Farkas, Laura; Cless, Jessica D.; Cless, Adam W. 等6人
-**摘要**: The current study sought to expand current literature by providing a comparison of the positive and negative experiences reported by parents of children with a Down syndrome (DS) diagnosis.…
-
-### They're Always Complicated but That's the Meaning of Family in My Eyes: Homeless Youth Making Sense of Family and Family Relationships
-**年份**: 2019 | **DOI**: [10.1177/0192513X18812512](https://doi.org/10.1177/0192513X18812512)
-**作者**: Parker, Sarah; Mayock, Paula
-**摘要**: Analyses of the relevance of family for young people are more visible than previously within youth research. Nonetheless, understanding of the nature and meaning of family relationships for those who experience separation from their family, including homeless youth, is relatively weak.…
-
-### Vulnerability of Latin American Migrant Families Headed by Women in Spain During the Great Recession: A Couple-Level Analysis
-**年份**: 2019 | **DOI**: [10.1177/0192513X18804584](https://doi.org/10.1177/0192513X18804584)
-**作者**: Bueno, Xiana; Vidal-Coso, Elena
-**摘要**: One of the outcomes of the Great Recession has been the emerging pattern of households maintained exclusively by women. The analysis of intracouple characteristics is crucial in the context of job segregation by gender and by immigrant origin, such as in Spain.…
-
-### What Do Parents Regret About Having Children? Communicating Regrets Online
-**年份**: 2019 | **DOI**: [10.1177/0192513X18811388](https://doi.org/10.1177/0192513X18811388)
-**作者**: Moore, Julia; Abetz, Jenna S.
-**摘要**: Drawing on user-generated threads from Reddit as a data source, symbolic interactionism and qualitative thematic analysis were used to investigate how, specifically, parents communicate regret in relation to having children. Two fundamental categories of regret were identified.…
-
-### What Is the Impact of Choosing One's Spouse on Marital Satisfaction of Wives and Husbands? The Case of Arranged and Self-Choice Turkish Marriages
-**年份**: 2019 | **DOI**: [10.1177/0192513X19835874](https://doi.org/10.1177/0192513X19835874)
-**作者**: Imamoglu, E. Olcay; Ads, Menatalla; Weisfeld, Carol C.
-**摘要**: The present study explored how Turkish husbands and wives in arranged or self-selected marriages differ in terms of the love, partnership, and problems components of marital satisfaction. Four hundred and fifty-six heterosexual couples participated in the study.…
-
-### Women (Not) Troubling the Family: Exploring Women's Narratives of Gendered Family Practices
-**年份**: 2019 | **DOI**: [10.1177/0192513X18809752](https://doi.org/10.1177/0192513X18809752)
-**作者**: Carter, Julia
-**摘要**: This article is concerned with examining the ways in which young women make choices about their family lives and in so doing reproduce traditional unequal gender norms and family practices.…
-
-### Would I Want to Reach Age 100? Perspectives of Centenarians' Family Members on Reaching Exceptional Longevity
-**年份**: 2019 | **DOI**: [10.1177/0192513X19833094](https://doi.org/10.1177/0192513X19833094)
-**作者**: Brandao, Daniela; Ribeiro, Oscar; Jopp, Daniela
-**摘要**: This study aims to analyze the wish to reach 100 years old in a sample of centenarians' family members and explore the main reasons for supporting or refuting such a desire. Answers to an open question on the wish to reach 100 years old were analyzed via thematic coding and further explored in relat…
 
 ### Family Structure Change Among Latinos: Variation by Ecologic Risk
 **年份**: 2019 | **DOI**: [10.1177/0192513x19849636](https://doi.org/10.1177/0192513x19849636)
 **作者**: Cabrera, Natasha J.; Karberg, Elizabeth; Fagan, Jay
 **摘要**: We examined differences in family structure change in an urban sample of mothers ( N = 1,314) from their child’s birth to age 5 and whether ecological risk moderated this association.…
 
-### “Honey, I Want to Be a Surrogate”: How Military Spouses Negotiate and Navigate Surrogacy With Their Service Member Husbands
-**年份**: 2019 | **DOI**: [10.1177/0192513x19862843](https://doi.org/10.1177/0192513x19862843)
-**作者**: Ziff, Elizabeth
-**摘要**: This article examines how military spouses negotiate the decision to become a surrogate with their service member husband and how the two navigate surrogacy together. It is speculated that military spouses are ideal candidates for surrogacy due to their particular status as a military spouse; howeve…
+### Family Troubles, Troubling Families, and Family Practices
+**年份**: 2019 | **DOI**: [10.1177/0192513x19848799](https://doi.org/10.1177/0192513x19848799)
+**作者**: Morgan, David H. J.
+**摘要**: What does it mean to talk of family problems as opposed to individual problems? The use of the word clearly reminds the reader of the relational character of everyday troubles and, more than this, raises particular issues of dependency, mutuality, and obligations.…
 
-### The Relationship Between Religion and Intergenerational Solidarity in Eastern and Western Germany
-**年份**: 2019 | **DOI**: [10.1177/0192513x19868750](https://doi.org/10.1177/0192513x19868750)
-**作者**: Steinbach, Anja; Silverstein, Merril
-**摘要**: This article investigated the relationship between religiosity and intergenerational solidarity in Germany, with a focus on differences between eastern and western regions that have maintained unique religious profiles that trace back to before unification.…
+### Fatherhood of a Premature Infant: A Rough Roller-Coaster Ride
+**年份**: 2019 | **DOI**: [10.1177/0192513x19832939](https://doi.org/10.1177/0192513x19832939)
+**作者**: Strauss, Zipora; Bar, Michal Avrech; Stanger, Varda
+**摘要**: A man's transition to fatherhood is one of the most significant changes in his life. The birth of the baby prematurely makes this transition a difficult experience. Study objectives included a better understanding of the range of experiences of fathers of premature infants and building new work proc…
+
+### Fathers as Solo Caregivers in Spain: A Choice or a Need?
+**年份**: 2019 | **DOI**: [10.1177/0192513x19842214](https://doi.org/10.1177/0192513x19842214)
+**作者**: Fernandez-Lozano, Irina
+**摘要**: The increase in fathers' involvement in childcare in Western societies has not translated into an equal distribution of childcare between mothers and fathers. While some couples actually succeed in undoing gender when the first child arrives, their characteristics that define them are not yet clear.…
+
+### Female-Breadwinner Families in Germany: New Gender Roles?
+**年份**: 2019 | **DOI**: [10.1177/0192513x19843149](https://doi.org/10.1177/0192513x19843149)
+**作者**: Jurczyk, Karin; Jentsch, Birgit; Sailer, Julia 等4人
+**摘要**: Female breadwinning has recently gained in significance in Germany. This article examines the extent to which female breadwinning is linked to new gender roles, and the impacts the role reversal may have on families' everyday lives.…
+
+### Fertility Intentions and Their Realization in Couples: How the Division of Household Chores Matters
+**年份**: 2019 | **DOI**: [10.1177/0192513x19848794](https://doi.org/10.1177/0192513x19848794)
+**作者**: Riederer, Bernhard; Buber-Ennser, Isabella; Brzozowska, Zuzanna
+**摘要**: Most research on Europe indicates that a gender-balanced division of family work tends to increase childbearing probabilities, but empirical results vary substantially. The present article proposes explanations for this observed discrepancy.…
+
+### Finding the Golden Moments: Strategies of Perseverance Among Parents and Siblings of Persons With Severe Mental Illness and Violent Tendencies
+**年份**: 2019 | **DOI**: [10.1177/0192513x19860170](https://doi.org/10.1177/0192513x19860170)
+**作者**: Sporer, Karyn; Speropolous, Lisa; Monahan, Katarina E.
+**摘要**: This article examines strategies family members identify as being helpful when challenged by stressors related to living with an aggressive child or sibling with severe mental illness.…
+
+### Forgotten Fathers: Postpartum Depression in Men
+**年份**: 2019 | **DOI**: [10.1177/0192513x19833111](https://doi.org/10.1177/0192513x19833111)
+**作者**: Eddy, Brandon; Poll, Von; Whiting, Jason 等4人
+**摘要**: Although postpartum depression is common and well-studied in mothers, many fathers also experience symptoms. This qualitative study investigated fathers' experiences of postpartum depression.…
+
+### Gender Matters: Racial Variation and Marital Stability Among Intraracial Couples
+**年份**: 2019 | **DOI**: [10.1177/0192513x19849631](https://doi.org/10.1177/0192513x19849631)
+**作者**: Petts, Amy L.; Petts, Richard J.
+**摘要**: Studies assessing differences between intraracial and interracial marriages typically use race data from one time point. Yet because racial identification can vary across time, context, or perspective, whether a relationship is defined as intraracial or interracial can also differ.…
+
+### Grandmothers and Non-grandmothers in the Polish Labor Market: The Role of Family Issues
+**年份**: 2019 | **DOI**: [10.1177/0192513x19842243](https://doi.org/10.1177/0192513x19842243)
+**作者**: Wilinska, Monika; Grzenda, Wioletta; Perek-Bialas, Jolanta
+**摘要**: Drawing on the debates regarding work-family reconciliation in later life, we examine the extent to which the labor market position of grandmothers and nongrandmothers can be explained by their varied family situations.…
+
+### Happy Moms, Happier Dads: Gendered Caregiving and Parents' Affect
+**年份**: 2019 | **DOI**: [10.1177/0192513x19860179](https://doi.org/10.1177/0192513x19860179)
+**作者**: McDonnell, Cadhla; Luke, Nancy; Short, Susan E.
+**摘要**: Parenting is emotionally demanding and highly gendered. We use data from the American Time Use Survey to examine mothers' and fathers' momentary affect during childcare activities. We observe a gender imbalance in the emotional rewards of childcare: Fathers report more happiness, less stress, and le…
+
+### Hazy Transition to Fatherhood: The Experiences of Czech Fathers
+**年份**: 2019 | **DOI**: [10.1177/0192513x18806028](https://doi.org/10.1177/0192513x18806028)
+**作者**: Nesporova, Olga
+**摘要**: Using longitudinal qualitative research, the study focuses on the transition to fatherhood and the life changes which fatherhood effects in men's everyday lives. Comparative thematic analysis was used in the study of data provided by two waves of research focusing on 16 dual-earner Czech parental co…
+
+### His Career, Her Job, Their Future: Cohabitors' Orientations Toward Paid Work
+**年份**: 2019 | **DOI**: [10.1177/0192513x19841090](https://doi.org/10.1177/0192513x19841090)
+**作者**: Miller, Amanda J.; Carlson, Daniel L.; Sassler, Sharon
+**摘要**: In this article, we examine the work orientations of service- and middle-class cohabiting couples. Through our in-depth interviews with both partners in 61 couples, we find that middle-class cohabitors often report polarized work orientations-they are generally either the most conventional (privileg…
+
+### Histories of Couple Formation and Migration: The Case of Foreigners in Lombardy, Italy
+**年份**: 2019 | **DOI**: [10.1177/0192513x19833115](https://doi.org/10.1177/0192513x19833115)
+**作者**: Gabrielli, Giuseppe; Terzera, Laura; Paterno, Anna 等4人
+**摘要**: Migrant families have become relevant in Italy during the past decade and Lombardy is one of the Italian regions with the largest foreign presence. The aim of the article is to contribute to the international debate on the relationship between couple formation and migration event.…
+
+### Household Extension and Earnings Among Foreign-Born Asian and Non-Hispanic White Households
+**年份**: 2019 | **DOI**: [10.1177/0192513x19848819](https://doi.org/10.1177/0192513x19848819)
+**作者**: Kulkarni, Veena S.
+**摘要**: Previous research to understand socioeconomic well-being of immigrants finds the type of living arrangement is significantly correlated with household-level earnings. Present study employing 2009-2011 American Community Survey data explores the above relationship for the six major foreign-born Asian…
+
+### How Does Mothering Look Like: A Multidimensional Approach to Maternal Cognitive Representations
+**年份**: 2019 | **DOI**: [10.1177/0192513x19860171](https://doi.org/10.1177/0192513x19860171)
+**作者**: Camilo, Claudia; Garrido, Margarida Vaz; Ferreira, Mario B. 等4人
+**摘要**: From a cognitive information processing perspective, parents' cognitive schemas strongly influence the way they perceive and act toward their children. In order to explore how maternal cognitive representations about parenting are organized in a multidimensional space, mothers referred to child prot…
+
+### Husband-Wife Religious Discordance, Marital Satisfaction, and Risk of Marital Dissolution in Two Generations
+**年份**: 2019 | **DOI**: [10.1177/0192513x19835871](https://doi.org/10.1177/0192513x19835871)
+**作者**: Hwang, Woosang; Yoon, Joonsik; Silverstein, Merril 等4人
+**摘要**: We examined whether three types of husband-wife religious discordance (denomination, intensity, and attendance) were associated with the risk of marital dissolution over three decades.…
+
+### Impulse Control Moderates the Link Between Parent-Child Cultural Orientation Gaps and Externalizing Problems in Chinese Immigrant Early Adolescents
+**年份**: 2019 | **DOI**: [10.1177/0192513x19859611](https://doi.org/10.1177/0192513x19859611)
+**作者**: Miconi, Diana; Moscardino, Ughetta; Altoe, Gianmarco
+**摘要**: The current study aimed to investigate whether the expected association between parent-child cultural orientation gaps and externalizing problems was moderated by impulse control (IC) among Chinese early adolescents in immigrant families.…
+
+### Indirect Effects of Social Support on Psychological Health Through Self-Esteem in Emerging Adulthood
+**年份**: 2019 | **DOI**: [10.1177/0192513x19859612](https://doi.org/10.1177/0192513x19859612)
+**作者**: Szkody, Erica; McKinney, Cliff
+**摘要**: Social constructivist theory suggests that social support affects internalizing and externalizing problems by improving self-esteem. The differential impact of these variables has not been fully explored between male and female genders.…
+
+### Interactional Synchrony and Child Gender Differences in Dyadic and Triadic Family Interactions
+**年份**: 2019 | **DOI**: [10.1177/0192513x19832938](https://doi.org/10.1177/0192513x19832938)
+**作者**: de Mendonca, Julia Scarano; Raad Bussab, Vera Silvia; Kaertner, Joscha
+**摘要**: Based on family systems theory, our objectives were to examine the association between dyadic parent-child interactional synchrony (mother-child and father-child) and triadic mother-father-child interactional synchrony and the effect of the child's gender on the family interactional synchrony at the…
+
+### Interactive Processes in Grief and Couples' Adjustment After the Death of a Child
+**年份**: 2019 | **DOI**: [10.1177/0192513x18820385](https://doi.org/10.1177/0192513x18820385)
+**作者**: Albuquerque, Sara; Ferreira, Luana Cunha; Narciso, Isabel 等4人
+**摘要**: The death of a child is an individual process of grief but also a context of significant relational processes, which have been only rarely considered in research. The aim of this study was to examine the interactive processes within bereaved parents.…
+
+### Intergenerational Factors, Fatherhood Beliefs, and African American Fathers' Involvement: Building the Case for a Mediated Pathway
+**年份**: 2019 | **DOI**: [10.1177/0192513x19849629](https://doi.org/10.1177/0192513x19849629)
+**作者**: Cooper, Shauna M.; Ross, Latisha; Dues, Adrianne 等5人
+**摘要**: Intergenerational factors have been suggested as a critical interactional context shaping African American fathers' beliefs and parenting practices. However, relatively little attention has been given to the identification of underlying processes guiding the association between intergenerational fac…
+
+### Is Involved Fatherhood Possible? Structural Elements Influencing the Exercise of Paternity in Spain and Norway
+**年份**: 2019 | **DOI**: [10.1177/0192513x19839753](https://doi.org/10.1177/0192513x19839753)
+**作者**: Elizalde-San Miguel, Begona; Diaz Gandasegui, Vicente; Diaz Gorfinkiel, Magdalena
+**摘要**: This article analyses the different ways in which fatherhood is exercised in Spain and Norway. Family transformations and the redefinition of social roles assigned to men and women have brought changes in the meanings ascribed to paternity by Western societies.…
+
+### Is Maternal Income in Childhood Associated With Adolescent Health and Behavioral Outcomes?
+**年份**: 2019 | **DOI**: [10.1177/0192513x19829506](https://doi.org/10.1177/0192513x19829506)
+**作者**: Shepherd-Banigan, Megan; Basu, Anirban; Bell, Janice F. 等5人
+**摘要**: Maternal income increases immediate investment in children for food, child care, and health care, but whether maternal income influences longer term health and behavioral outcomes is unknown.…
+
+### Is Variation in Biological and Residential Ties to Children Linked to Mothers' Parental Stress and Perceptions of Coparenting?
+**年份**: 2019 | **DOI**: [10.1177/0192513x18812172](https://doi.org/10.1177/0192513x18812172)
+**作者**: Guzzo, Karen Benjamin; Hemez, Paul; Anderson, Lydia 等5人
+**摘要**: Mothers with children from prior relationships or with stepchildren may perceive greater challenges in parenting than their counterparts in less complex families. We use the Families and Relationships Study to analyze parental stress and perceptions of coparenting among cohabiting and married mother…
+
+### Latino Immigrant Parents' Experiences With Discrimination: Implications for Parenting in a Hostile Immigration Policy Context
+**年份**: 2019 | **DOI**: [10.1177/0192513x19827988](https://doi.org/10.1177/0192513x19827988)
+**作者**: Ayon, Cecilia; Garcia, San Juanita
+**摘要**: A growing anti-immigrant context has increased the discrimination Latino immigrant families confront in the United States. This study examines the relationship between discrimination and Latinos' parenting practices.…
+
+### Lone Mothers' Repartnering Trajectories and Health: Does the Welfare Context Matter?
+**年份**: 2019 | **DOI**: [10.1177/0192513x19860175](https://doi.org/10.1177/0192513x19860175)
+**作者**: Recksiedler, Claudia; Bernardi, Laura
+**摘要**: We examined the relationship between lone mothers' repartnering and health in three welfare contexts: the dual-earner, market-oriented, and general family policy model. Drawing on the resources and crisis models, we applied mixture modelling for spell data of the Harmonized Histories data set.…
+
+### Losing a Little Part of Yourself: Families' Experiences With Foreclosure
+**年份**: 2019 | **DOI**: [10.1177/0192513x19848795](https://doi.org/10.1177/0192513x19848795)
+**作者**: Collins, Cyleste C.; Berg, Kristen A.
+**摘要**: While quantitative studies have described foreclosure's correlates, and qualitative work has shed light on homeowners' experiences in general, research has not focused specifically on how families with children younger than 18 years experience foreclosure.…
+
+### Marital Satisfaction Among Taiwanese Young Married Couples: The Effects of Resources and Traditional Norms
+**年份**: 2019 | **DOI**: [10.1177/0192513x19863212](https://doi.org/10.1177/0192513x19863212)
+**作者**: Yi, Chin-Chun; Lin, Wen-Hsu; Ma, Josef Kuo-Hsun
+**摘要**: This study aims to illustrate the importance of cultural norms for marital satisfaction among young married Taiwanese couples. Data are taken from the Taiwan Youth Project, a longitudinal panel since the year of 2000, with 401 married couple data completed in 2015.…
+
+### Maternal Resilience as a Protective Factor Between Financial Stress and Child Outcomes
+**年份**: 2019 | **DOI**: [10.1177/0192513x19842609](https://doi.org/10.1177/0192513x19842609)
+**作者**: Seely, Hayley D.; Mickelson, Kristin D.
+**摘要**: The physical, mental, and behavioral impact of living in poverty is significant; research shows that individuals who experience financial stress in childhood are more likely to suffer from impaired mental health and continue experiencing similar stressors in adulthood.…
+
+### Men as Carers in Long-Term Caring: Doing Gender and Doing Kinship
+**年份**: 2019 | **DOI**: [10.1177/0192513x18813185](https://doi.org/10.1177/0192513x18813185)
+**作者**: Comas-d'Argemir, Dolors; Soronellas, Montserrat
+**摘要**: In this article, we examine men's involvement in long-term care for the elderly or sick relatives to locate changes in gender and kinship relations. Research on care has highlighted the role of gender, but has been blind as regards the link between care and kinship, which is taken as a given.…
+
+### More Money, Less Housework? Relative Resources and Housework in the Czech Republic
+**年份**: 2019 | **DOI**: [10.1177/0192513x19864988](https://doi.org/10.1177/0192513x19864988)
+**作者**: Hamplova, Dana; Chaloupkova, Jana Klimova; Topinkova, Renata
+**摘要**: The article explores the association between housework, earnings, and education. In contrast to the majority of existing studies from Western countries, this article tests the bargaining theory in the Czech Republic.…
+
+### Motivation to Become a Parent and Parental Satisfaction: The Mediating Effect of Psychological Needs Satisfaction
+**年份**: 2019 | **DOI**: [10.1177/0192513x19836458](https://doi.org/10.1177/0192513x19836458)
+**作者**: Ross-Plourde, Mylene; Basque, Dominique
+**摘要**: The multifactorial decision to become a parent has mostly been investigated in mothers. It would seem that those who decide to have children in response to internal or external pressure, as compared with by pleasure or choice, have a less adaptive parenting experience.…
+
+### My Brother Was His Little Angel; I Was the Problem Child: Perceived Sibling Favoritism in the Narratives of Youth Who Become Homeless
+**年份**: 2019 | **DOI**: [10.1177/0192513x19839748](https://doi.org/10.1177/0192513x19839748)
+**作者**: Buccieri, Kristy
+**摘要**: Youth who become homeless often report having difficult home lives, but very little is known about their experiences with siblings and parents. This article reports on a qualitative study of eight youth, aged 17 to 23 years, experiencing homelessness in Toronto.…
+
+### Neighborhood Qualities and Parenting Among Mothers With Young Children: Variation by Relationship Status
+**年份**: 2019 | **DOI**: [10.1177/0192513x19849635](https://doi.org/10.1177/0192513x19849635)
+**作者**: Riina, Elizabeth M.
+**摘要**: This study investigates associations between neighborhood social processes and parenting qualities among mothers of young children and tests variation according to relationship status. Data come from Year 3 of the Fragile Families and Child Wellbeing Study (n = 3,535).…
+
+### Parent and Child Depression: Moderated Mediation by Gender and Harsh Parenting in Emerging Adults
+**年份**: 2019 | **DOI**: [10.1177/0192513x18817578](https://doi.org/10.1177/0192513x18817578)
+**作者**: McKinney, Cliff; Szkody, Erica
+**摘要**: Parental depression has been associated with psychological problems in offspring. It was hypothesized that harsh parenting would mediate this relationship and that gender differences would suggest moderated mediation.…
+
+### Parent-Child Relationship Quality and Internalizing Problems as Predictors of Risky Sexual Behavior
+**年份**: 2019 | **DOI**: [10.1177/0192513x19843156](https://doi.org/10.1177/0192513x19843156)
+**作者**: Rogers, Mary Moussa; McKinney, Cliff
+**摘要**: Risky sexual behavior is more prevalent in emerging adult populations and emerging adults engaging in risky sexual behavior also may be experiencing higher levels of internalizing problems.…
+
+### Parent-Child Time Together: The Role of Interactive Technology With Adolescent and Young Adult Children
+**年份**: 2019 | **DOI**: [10.1177/0192513x19856644](https://doi.org/10.1177/0192513x19856644)
+**作者**: Vaterlaus, J. Mitchell; Beckert, Troy E.; Schmitt-Wilson, Sarah
+**摘要**: Presently, there is a lack of consensus about whether interactive technology enhances or restricts the quality and quantity of shared time between parents and their children. The purposes of this exploratory study were to identify parent and adolescent/young adult perceptions of time spent together …
+
+### Parental Attachment Styles and Religious and Spiritual Struggle: A Mediating Effect of God Image
+**年份**: 2019 | **DOI**: [10.1177/0192513x18813186](https://doi.org/10.1177/0192513x18813186)
+**作者**: Zarzycka, Beata
+**摘要**: The ideas that religion capitalizes on the operation of the attachment system and that believers' perceived relationships with God can be characterized as symbolic attachment relationships have been well established in the psychology of religion.…
+
+### Parental Dissatisfaction, Health, and Well-Being Among Older Chinese Adults: The Mediating Role of Self-Esteem and Feeling Useless
+**年份**: 2019 | **DOI**: [10.1177/0192513x19860182](https://doi.org/10.1177/0192513x19860182)
+**作者**: Yang, Yiqing; Wen, Ming
+**摘要**: Little work has considered the relationship between parental dissatisfaction and health and well-being among older adults. This study investigates whether parental dissatisfaction is linked to four health and well-being outcomes and whether the proposed associations are partly mediated by self-estee…
+
+### Parenting Across Two Worlds: Low-Income Latina Immigrants' Adaptation to Motherhood in the United States
+**年份**: 2019 | **DOI**: [10.1177/0192513x18821398](https://doi.org/10.1177/0192513x18821398)
+**作者**: Vesely, Colleen K.; Letiecq, Bethany L.; Goodman, Rachael D.
+**摘要**: This study explored how low-income documented and undocumented Latina immigrant mothers negotiate motherhood and adapt to life in new cultural and structural contexts. Grounded in ecocultural theory, we analyzed data from 21 in-depth interviews with Latina immigrant mothers to surface how their expe…
+
+### Parenting Satisfaction Among Homeless Caregivers
+**年份**: 2019 | **DOI**: [10.1177/0192513x18806331](https://doi.org/10.1177/0192513x18806331)
+**作者**: Alleyne-Green, Binta; Kulick, Alex; McCutcheon, Kendra P. DeLoach
+**摘要**: This study explored the impact of parenting satisfaction and shelter comfort on depression and parenting stress among an urban sample of homeless caregivers residing in New York City.…
+
+### Parenting While Food Insecure: Links Between Adult Food Insecurity, Parenting Aggravation, and Children's Behaviors
+**年份**: 2019 | **DOI**: [10.1177/0192513x19842902](https://doi.org/10.1177/0192513x19842902)
+**作者**: Gee, Kevin A.; Asim, Minahil
+**摘要**: Parents who experience food insecurity face not only uncertainty in obtaining food, but an invisible emotional burden, one that can potentially influence both their parenting behaviors and ultimately, their children.…
+
+### Parents' Valuation of Approving a Child's Spouse in a Context of Marital Change
+**年份**: 2019 | **DOI**: [10.1177/0192513x19849634](https://doi.org/10.1177/0192513x19849634)
+**作者**: Allendorf, Keera
+**摘要**: Previous research on arranged marriage focuses on young people getting married. In this article, the author turns the focus toward parents, examining whether Nepali parents value approving their child's future spouse. A fifth of parents did not value approving their child's spouse.…
+
+### Partner Support as a Protection Against Distress During the Transition to Parenthood
+**年份**: 2019 | **DOI**: [10.1177/0192513x19832933](https://doi.org/10.1177/0192513x19832933)
+**作者**: Gillis, Aurelie; Gabriel, Barbara; Galdiolo, Sarah 等4人
+**摘要**: The majority of previous studies focused on mothers' distress and considered partner support from the father to the mother. The current research studies the level and the course of distress and partner support in new mothers and fathers during the transition to parenthood and tests the protective ro…
+
+### Perceptions of Strengths-Based Child Welfare Practices Among Mothers With Drug Use Histories
+**年份**: 2019 | **DOI**: [10.1177/0192513x19859392](https://doi.org/10.1177/0192513x19859392)
+**作者**: Fusco, Rachel A.
+**摘要**: Families in the child welfare system show especially poor outcomes when a parent has a drug use history. These parents may be difficult to engage, which may contribute to their failure to follow through with service planning and receipt.…
+
+### Persistence and Change in the Comparative Status of Mothers-in-Law and Daughters-in-Law in Taiwanese Families: 1979 to 2016
+**年份**: 2019 | **DOI**: [10.1177/0192513x19863205](https://doi.org/10.1177/0192513x19863205)
+**作者**: Kung, Hsiang-Ming
+**摘要**: Traditionally in Taiwan, daughters-in-law lived with their husbands' parents and, following principles of filial piety, were subordinate to their mothers-in-law. The author proposes that, as daughters-in-law acquire resources such as education and income, their status within their families will incr…
+
+### Postdivorce Coparenting Relationships and Parent-Youth Relationships: Are Repartnership and Parent-Youth Contact Moderators?
+**年份**: 2019 | **DOI**: [10.1177/0192513x18821395](https://doi.org/10.1177/0192513x18821395)
+**作者**: Beckmeyer, Jonathon J.; Markham, Melinda Stafford; Troilo, Jessica
+**摘要**: Using data from 392 divorced mothers and fathers, living in the United States, with a child between 10 and 18 years old, we first identified three types of postdivorce coparenting relationships (cooperative, moderately engaged, and conflictual and disengaged) based on coparenting communication, coop…
+
+### Postpartum Role Satisfaction in Couples: Associations With Individual and Relationship Well-Being
+**年份**: 2019 | **DOI**: [10.1177/0192513x19835866](https://doi.org/10.1177/0192513x19835866)
+**作者**: Cohen, Matthew J.; Pentel, Kimberly Z.; Boeding, Sara E. 等4人
+**摘要**: Although the postpartum period is typically considered a joyful time for new parents, this period calls for a reprioritization of daily responsibilities and tasks which may not necessarily align with the egalitarian split many couples envision.…
+
+### Poverty and Family Troubles: Mothers, Children, and Neoliberal Antipoverty Initiatives
+**年份**: 2019 | **DOI**: [10.1177/0192513x18809745](https://doi.org/10.1177/0192513x18809745)
+**作者**: Rosen, Rachel
+**摘要**: Conditions of impoverishment underlie many family troubles and the family is often a site of antipoverty interventions. Feminist scholars have provided a series of trenchant critiques of neoliberal initiatives which purport to tackle familial poverty but have the effect of retraditionalizing gendere…
+
+### Practice Makes Perfect: Experiential Learning as a Method for Financial Socialization
+**年份**: 2019 | **DOI**: [10.1177/0192513x18812917](https://doi.org/10.1177/0192513x18812917)
+**作者**: LeBaron, Ashley B.; Runyan, Samuel D.; Jorgensen, Bryce L. 等6人
+**摘要**: Most financial socialization research focuses on two methods of learning: modeling and discussion. The purpose of this study is to qualitatively explore experiential learning as a third potential method of financial socialization used by parents.…
+
+### Predicting Young Adults' Romantic Relationship Quality: Sibling Ties and Adult Attachment Styles
+**年份**: 2019 | **DOI**: [10.1177/0192513x18820381](https://doi.org/10.1177/0192513x18820381)
+**作者**: Sommantico, Massimiliano; Donizzetti, Anna Rosa; Parrello, Santa 等4人
+**摘要**: Young adults' romantic relationships have continually emerged as a significant area of study in psychological research. The authors examine possible associations between a measure of attitudes toward sibling relationships, a measure of adult attachment styles, and a measure of romantic relationship …
+
+### Predictors of Emirati Marital Satisfaction: Contributions of Psychological Health and Family Functioning
+**年份**: 2019 | **DOI**: [10.1177/0192513x19827994](https://doi.org/10.1177/0192513x19827994)
+**作者**: Al-Darmaki, Fatima; Dodeen, Hamzeh; Yaaqeib, Saad 等5人
+**摘要**: Based on previous work on factors predicting marital satisfaction in Emirati society, this study aimed at examining whether anxiety and depression as well as perceived family functioning would predict marital satisfaction among a sample of 1,041 Emirati married individuals.…
+
+### Psychological Distress Among Resident and Nonresident Fathers: Findings From New Zealand's Who Are Today's Dads? Project
+**年份**: 2019 | **DOI**: [10.1177/0192513x18808827](https://doi.org/10.1177/0192513x18808827)
+**作者**: Rusten, Nikolas F.; Peterson, Elizabeth R.; Underwood, Lisa 等11人
+**摘要**: When fathers live away from their children, taking an active paternal role may become challenging and can add to paternal psychological distress. In a large (N = 3,980) diverse cohort, we found that nonresident fathers are more likely to be psychologically distressed than resident fathers (27.4% vs.…
+
+### Psychological Well-Being of Coresiding Elderly Parents and Adult Children in China: Do Father-Child and Mother-Child Relationships Make a Difference?
+**年份**: 2019 | **DOI**: [10.1177/0192513x19862845](https://doi.org/10.1177/0192513x19862845)
+**作者**: Chen, Jia; Jordan, Lucy P.
+**摘要**: Using the baseline wave (2010) of the China Family Panel Studies, this study conducted an investigation of the associations between intergenerational relationships and the psychological well-being of elderly parents and adult children based on 2,401 coresiding parent-child dyads.…
+
+### Racial Differences in Parental Involvement and Physical and Psychological Maltreatment: Processes Related to Regard for Parents
+**年份**: 2019 | **DOI**: [10.1177/0192513x18819218](https://doi.org/10.1177/0192513x18819218)
+**作者**: Malkin, Mallory L.; McKinney, Cliff
+**摘要**: Research indicates that perceptions of and regard for parents are important in the parent-child relationship of emerging adults and associated with both emotional and social adjustment and development.…
+
+### Receiving Support and Care in Older Age: Comparing LAT Relationships With First Marriages, Remarriages, and Cohabitation
+**年份**: 2019 | **DOI**: [10.1177/0192513x19846179](https://doi.org/10.1177/0192513x19846179)
+**作者**: van Groenou, Marjolein Broese; te Riele, Saskia; Gierveld, Jenny de Jong
+**摘要**: Living apart together (LAT) combines intimacy with autonomy and flexibility but, possibly, with lower commitment to exchanging support and care compared with first marriages, remarriages, and cohabitation of older adults.…
+
+### Reconstruction of Masculine Identities Through Caring Practices: The Experiences of Male Caregivers in Hong Kong
+**年份**: 2019 | **DOI**: [10.1177/0192513x18823820](https://doi.org/10.1177/0192513x18823820)
+**作者**: Leung, Lai Ching; Chan, Kam Wah; Tam, Kin Yuen
+**摘要**: The purpose of this study was to explore from a gender perspective how masculinities might be reworked into identities of care through men taking on the role of family caregiver. A qualitative method was adopted for this research.…
 
 ### Resources, Time and Gender: Determinants of Women’s Housework in Bahir Dar and Nearby Rural Villages, Northwest Ethiopia
 **年份**: 2019 | **DOI**: [10.1177/0192513x19878862](https://doi.org/10.1177/0192513x19878862)
 **作者**: Desta, Chalachew Getahun
 **摘要**: Women’s disproportionate engagement in housework and its determinants has been relatively well studied for developed countries, but such research is absent for less developed countries.…
 
+### Role Ambiguity and Role Conflict Among Partners of Trans People
+**年份**: 2019 | **DOI**: [10.1177/0192513x18800362](https://doi.org/10.1177/0192513x18800362)
+**作者**: Dierckx, Myrte; Mortelmans, Dimitri; Motmans, Joz
+**摘要**: Experiences of family members are often overlooked in social research on gender transitions. The current article aims to address this gap by considering the experiences of partners during a gender transition, approaching this topic through role theory and the concepts of role ambiguity and role conf…
+
+### Sex, Gender Dynamics, Differential Exposure, and Work-Family Conflict
+**年份**: 2019 | **DOI**: [10.1177/0192513x18806945](https://doi.org/10.1177/0192513x18806945)
+**作者**: Haines, Victor Y., III; Bilodeau, Jaunathan; Demers, Andree 等7人
+**摘要**: This study tested a differential exposure explanation of the association between sex categories and work-family conflict. It addresses the question of why men and women may experience similar or dissimilar levels of work-family conflict and tests whether differences are due to their different gender…
+
+### Shifting Influences of Pregnancy on Union Formation Across Age and Union Stability Across Cohabitation Duration
+**年份**: 2019 | **DOI**: [10.1177/0192513x18806554](https://doi.org/10.1177/0192513x18806554)
+**作者**: Thorsen, Maggie L.
+**摘要**: Nonmarital pregnancy increases the likelihood of entering a marital or cohabiting union. The timing of a pregnancy within the life course of an individual or relationship duration may also affect the likelihood of forming coresidential unions and their stability.…
+
+### Situating Children's Family Troubles: Poverty and Serial Migration
+**年份**: 2019 | **DOI**: [10.1177/0192513x19846180](https://doi.org/10.1177/0192513x19846180)
+**作者**: Phoenix, Ann
+**摘要**: This article aims to contribute to understandings of how children experience family troubles. It considers how children's family troubles are socially situated and interlinked with the resources children and other family members have available and the societal contexts in which they live.…
+
+### Social Class and Cosmopolitan Parenting in Taiwanese Families
+**年份**: 2019 | **DOI**: [10.1177/0192513x19863210](https://doi.org/10.1177/0192513x19863210)
+**作者**: Shih, Yi-Ping
+**摘要**: Cosmopolitanism, or being international, has become an ideal to which parents aspire for their children in East Asia. The objective of this article is to investigate the meaning of cosmopolitanism among Taiwanese middle- and working-class parents, and to examine how they incorporate cosmopolitanism …
+
+### Spousal Relationship (E) Quality and Adjustment to Motherhood in Israel
+**年份**: 2019 | **DOI**: [10.1177/0192513x19842590](https://doi.org/10.1177/0192513x19842590)
+**作者**: Kestler-Peleg, Miri; Lavenda, Osnat; Keren-Leneman, Shelli 等4人
+**摘要**: Contemporary families experience the paradox of traditionalism/postmodernism especially in the postnatal period which presents many challenges to couples subsystem. One of them is the change in roles, which often leads to decreased relationships' equality.…
+
+### Stepfamily Closeness and Depression Among American Indian Emerging Adults: A Structural Equation Modeling Approach
+**年份**: 2019 | **DOI**: [10.1177/0192513x18808574](https://doi.org/10.1177/0192513x18808574)
+**作者**: Ward, Kaitlin P.; Limb, Gordon E.; Higbee, Sarah 等4人
+**摘要**: Stepfamilies are one of the fastest growing family structures among all racial groups in the United States. Stepfamily research among many racial groups, specifically American Indians, is virtually nonexistent.…
+
+### Stress Proliferation? Precarity and Work-Family Conflict at the Intersection of Gender and Household Income
+**年份**: 2019 | **DOI**: [10.1177/0192513x19862847](https://doi.org/10.1177/0192513x19862847)
+**作者**: Fan, Wen; Lam, Jack; Moen, Phyllis
+**摘要**: We theorize a stress proliferation process whereby the stress of job precarity translates into the stress of work-to-family conflict (WFC). We test whether this process differs by gender and household income.…
+
+### The Development of Health Lifestyles in Families Experiencing Disability
+**年份**: 2019 | **DOI**: [10.1177/0192513x19831410](https://doi.org/10.1177/0192513x19831410)
+**作者**: Rigles, Bethany
+**摘要**: The family system is an important contributor to one's development of health lifestyles or the patterns of health behaviors one engages in. Research has yet to explore how health lifestyles develop within families or how disability may affect this process.…
+
+### The Gendered Division of Sterilization Fertility Work: The Role of Educational and Racial/Ethnic Heterogamy
+**年份**: 2019 | **DOI**: [10.1177/0192513x18806035](https://doi.org/10.1177/0192513x18806035)
+**作者**: Eeckhaut, Mieke C. W.
+**摘要**: Drawing on data from the 2006 to 2010 and 2011 to 2013 rounds of the National Survey of Family Growth, this study examines the division of sterilization fertility work among couples who have completed intended childbearing.…
+
+### The Good Parent: Southern Italian Mothers' Conceptualization of Good Parenting and Parent-Child Relationships
+**年份**: 2019 | **DOI**: [10.1177/0192513x19842598](https://doi.org/10.1177/0192513x19842598)
+**作者**: Lo Cricchio, Maria Grazia; Lo Coco, Alida; Cheah, Charissa S. L. 等4人
+**摘要**: Thirty mothers, ranging in age between 30 and 46 years, participated in seven focus groups aimed at analyzing perceptions and ideas of the characteristics of a good parent and parent-child relationship in southern Italy (Sicily).…
+
+### The Influence of Developmental Idealism on Marital Attitudes, Expectations, and Timing
+**年份**: 2019 | **DOI**: [10.1177/0192513x19856642](https://doi.org/10.1177/0192513x19856642)
+**作者**: Allendorf, Keera; Thornton, Arland; Mitchell, Colter 等4人
+**摘要**: Recent theory suggests that developmental idealism (DI) is an important source of variation and change in family behavior, yet this suggestion is largely untested at the individual level. This study examines the influence of DI beliefs and values on individuals' entrance into marriage.…
+
+### The Japanese Corporate Family: The Marital Gender Contract Facing New Challenges
+**年份**: 2019 | **DOI**: [10.1177/0192513x19830147](https://doi.org/10.1177/0192513x19830147)
+**作者**: Goldstein-Gidoni, Ofra
+**摘要**: The analytical prism of gender contract is used in this article as a means to conceptualize the cultural construction of the idea of the heteronormative ordinary Japanese family, a construct that gained hegemonic dominance over the course of Japan's stable prosperous postwar period (1960s-1980s); an…
+
+### The Relationship Between Religion and Intergenerational Solidarity in Eastern and Western Germany
+**年份**: 2019 | **DOI**: [10.1177/0192513x19868750](https://doi.org/10.1177/0192513x19868750)
+**作者**: Steinbach, Anja; Silverstein, Merril
+**摘要**: This article investigated the relationship between religiosity and intergenerational solidarity in Germany, with a focus on differences between eastern and western regions that have maintained unique religious profiles that trace back to before unification.…
+
+### The Role of Neighborhood Disadvantage and Family Structure During Adolescence in Young Adults' Experiences of Multiple Partner Fertility (MPF)
+**年份**: 2019 | **DOI**: [10.1177/0192513x19843151](https://doi.org/10.1177/0192513x19843151)
+**作者**: Monahan, Emma Kahle; Guarin, Angela
+**摘要**: Families in the United States have become more complex, with an increasing number of individuals having children with multiple partners, called multiple partner fertility (MPF). MPF has significant negative consequences for the well-being of adults and children.…
+
+### The Social Image of Families of Children and Youth in Residential Care: A Characterization and Comparison With Mainstream Families With Different Socioeconomic Status
+**年份**: 2019 | **DOI**: [10.1177/0192513x19855413](https://doi.org/10.1177/0192513x19855413)
+**作者**: Patricio, Joana Nunes; Lopes, Diniz; Garrido, Margarida Vaz 等4人
+**摘要**: The literature suggests that families of children and youths in residential care are often associated with negative social images. These images may shape prejudiced attitudes and behavior toward them and, when shared by care professionals, compromise the effectiveness of family intervention and rein…
+
+### The Trouble With Fathers: The Impact of Time and Gendered-Thinking on Working Relationships Between Fathers and Social Workers in Child Protection Practice in England
+**年份**: 2019 | **DOI**: [10.1177/0192513x18792682](https://doi.org/10.1177/0192513x18792682)
+**作者**: Philip, Georgia; Clifton, John; Brandon, Marian
+**摘要**: The lives of families entering the child protection arena may be shaped by a range of troubles, including material deprivation, physical and mental health problems, and substance misuse or domestic abuse.…
+
+### The Ups and Downs of Down Syndrome: A Qualitative Study of Positive and Negative Parenting Experiences
+**年份**: 2019 | **DOI**: [10.1177/0192513x18812192](https://doi.org/10.1177/0192513x18812192)
+**作者**: Farkas, Laura; Cless, Jessica D.; Cless, Adam W. 等6人
+**摘要**: The current study sought to expand current literature by providing a comparison of the positive and negative experiences reported by parents of children with a Down syndrome (DS) diagnosis.…
+
+### They're Always Complicated but That's the Meaning of Family in My Eyes: Homeless Youth Making Sense of Family and Family Relationships
+**年份**: 2019 | **DOI**: [10.1177/0192513x18812512](https://doi.org/10.1177/0192513x18812512)
+**作者**: Parker, Sarah; Mayock, Paula
+**摘要**: Analyses of the relevance of family for young people are more visible than previously within youth research. Nonetheless, understanding of the nature and meaning of family relationships for those who experience separation from their family, including homeless youth, is relatively weak.…
+
+### Vulnerability of Latin American Migrant Families Headed by Women in Spain During the Great Recession: A Couple-Level Analysis
+**年份**: 2019 | **DOI**: [10.1177/0192513x18804584](https://doi.org/10.1177/0192513x18804584)
+**作者**: Bueno, Xiana; Vidal-Coso, Elena
+**摘要**: One of the outcomes of the Great Recession has been the emerging pattern of households maintained exclusively by women. The analysis of intracouple characteristics is crucial in the context of job segregation by gender and by immigrant origin, such as in Spain.…
+
+### What Do Parents Regret About Having Children? Communicating Regrets Online
+**年份**: 2019 | **DOI**: [10.1177/0192513x18811388](https://doi.org/10.1177/0192513x18811388)
+**作者**: Moore, Julia; Abetz, Jenna S.
+**摘要**: Drawing on user-generated threads from Reddit as a data source, symbolic interactionism and qualitative thematic analysis were used to investigate how, specifically, parents communicate regret in relation to having children. Two fundamental categories of regret were identified.…
+
+### What Is the Impact of Choosing One's Spouse on Marital Satisfaction of Wives and Husbands? The Case of Arranged and Self-Choice Turkish Marriages
+**年份**: 2019 | **DOI**: [10.1177/0192513x19835874](https://doi.org/10.1177/0192513x19835874)
+**作者**: Imamoglu, E. Olcay; Ads, Menatalla; Weisfeld, Carol C.
+**摘要**: The present study explored how Turkish husbands and wives in arranged or self-selected marriages differ in terms of the love, partnership, and problems components of marital satisfaction. Four hundred and fifty-six heterosexual couples participated in the study.…
+
+### Women (Not) Troubling the Family: Exploring Women's Narratives of Gendered Family Practices
+**年份**: 2019 | **DOI**: [10.1177/0192513x18809752](https://doi.org/10.1177/0192513x18809752)
+**作者**: Carter, Julia
+**摘要**: This article is concerned with examining the ways in which young women make choices about their family lives and in so doing reproduce traditional unequal gender norms and family practices.…
+
+### Would I Want to Reach Age 100? Perspectives of Centenarians' Family Members on Reaching Exceptional Longevity
+**年份**: 2019 | **DOI**: [10.1177/0192513x19833094](https://doi.org/10.1177/0192513x19833094)
+**作者**: Brandao, Daniela; Ribeiro, Oscar; Jopp, Daniela
+**摘要**: This study aims to analyze the wish to reach 100 years old in a sample of centenarians' family members and explore the main reasons for supporting or refuting such a desire. Answers to an open question on the wish to reach 100 years old were analyzed via thematic coding and further explored in relat…
+
+### “Honey, I Want to Be a Surrogate”: How Military Spouses Negotiate and Navigate Surrogacy With Their Service Member Husbands
+**年份**: 2019 | **DOI**: [10.1177/0192513x19862843](https://doi.org/10.1177/0192513x19862843)
+**作者**: Ziff, Elizabeth
+**摘要**: This article examines how military spouses negotiate the decision to become a surrogate with their service member husband and how the two navigate surrogacy together. It is speculated that military spouses are ideal candidates for surrogacy due to their particular status as a military spouse; howeve…
+
 ### A Balance That We Walk: Characteristics, Attributes, and Behaviors That Promote Healthy American Indian Heterosexual Couple Relationships
-**年份**: 2018 | **DOI**: [10.1177/0192513X16680091](https://doi.org/10.1177/0192513X16680091)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16680091](https://doi.org/10.1177/0192513x16680091)
 **作者**: Rink, Elizabeth; Ricker, Adriann; FourStar, Kristofer 等4人
 **摘要**: The purpose of this study was to investigate the characteristics, attributes, and behaviors that promote healthy American Indian (AI) heterosexual couple relationships. Specific attention was given to the role AI men have in developing and maintaining healthy heterosexual couple relationships.…
 
 ### A Content Analysis of LGBT Research in Top Family Journals 2000-2015
-**年份**: 2018 | **DOI**: [10.1177/0192513X17710284](https://doi.org/10.1177/0192513X17710284)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17710284](https://doi.org/10.1177/0192513x17710284)
 **作者**: van Eeden-Moorefield, Brad; Few-Demo, April L.; Benson, Kristen 等5人
 **摘要**: The past decades have witnessed some of the most prolific changes in rights and experiences for LGBT (lesbian, gay, bisexual, transgender) individuals and their families. Research during this period also witnessed a significant increase in the study of these changes.…
 
 ### A Decade of Analysis: Household Food Insecurity Among Low-Income Immigrant Children
-**年份**: 2018 | **DOI**: [10.1177/0192513X16661216](https://doi.org/10.1177/0192513X16661216)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16661216](https://doi.org/10.1177/0192513x16661216)
 **作者**: Potochnick, Stephanie; Arteaga, Irma
 **摘要**: Our study advances literature on immigrant food insecurity by examining whether national-level differences in immigrant and nonimmigrant families' risk of food insecurity persist across time and for different ethnic/racial groups.…
 
 ### A Qualitative Study of the Pathways Into and Impacts of Family Homelessness
-**年份**: 2018 | **DOI**: [10.1177/0192513X17746709](https://doi.org/10.1177/0192513X17746709)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17746709](https://doi.org/10.1177/0192513x17746709)
 **作者**: Sylvestre, John; Kerman, Nick; Polillo, Alexia 等6人
 **摘要**: Homelessness has consequences for families, including risk of deterioration in the health of their members, disruption of family dynamics, and separation of parents and children. This study used qualitative interviews to explore pathways into and perceived consequences of homelessness among 18 famil…
 
 ### Actions Speak Louder Than Words: Korean American Emerging Adults' Perceptions and Meaning Making of Their Parents' Instrumental Aspects of Parenting
-**年份**: 2018 | **DOI**: [10.1177/0192513X16676856](https://doi.org/10.1177/0192513X16676856)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16676856](https://doi.org/10.1177/0192513x16676856)
 **作者**: Kang, Hyeyoung; Shih, Kristy
 **摘要**: Drawing on semistructured interviews, this study explored 25 Korean American emerging adults' experience of their parents' parenting, focusing on the aspects of parenting they perceive as salient as well as their perceptions and interpretations of such experiences.…
 
 ### Adolescents' Expectations About the Timing of Family Life Events: Unraveling the Role of Value Transmission and Modeling
-**年份**: 2018 | **DOI**: [10.1177/0192513X18792654](https://doi.org/10.1177/0192513X18792654)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18792654](https://doi.org/10.1177/0192513x18792654)
 **作者**: Keijer, Micha G.; Liefbroer, Aart C.; Nagel, Ineke
 **摘要**: Intergenerational continuity in family behaviors partly results from socialization processes in the parental home. However, socialization is a multidimensional process. This article tests hypotheses about the relative importance of value transmission and modeling in explaining expectations of adoles…
 
 ### Adoption Context, Parental Investment, and Children's Educational Outcomes
-**年份**: 2018 | **DOI**: [10.1177/0192513X16680010](https://doi.org/10.1177/0192513X16680010)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16680010](https://doi.org/10.1177/0192513x16680010)
 **作者**: Werum, Regina; Davis, Tomeka; Cheng, Simon 等4人
 **摘要**: Adoptive parents invest more resources into their children than comparable nonadoptive and biological parents, a pattern strongly linked to parental socioeconomic status. But important differences among families related to adoption context (international, private, foster) could affect parental inves…
 
 ### Against the Odds? Keeping a Nontraditional Division of Domestic Work After First Parenthood in Spain
-**年份**: 2018 | **DOI**: [10.1177/0192513X17729399](https://doi.org/10.1177/0192513X17729399)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17729399](https://doi.org/10.1177/0192513x17729399)
 **作者**: Dominguez-Folgueras, Marta; Jurado-Guerrero, Teresa; Botia-Morillas, Carmen
 **摘要**: This article analyzes changes in the division of routine domestic work after first parenthood. We wanted to know whether and how it was possible for couples to resist the trend toward traditionalization that has been shown in the literature.…
 
 ### Are Religious Parents More Satisfied Parents? Individual- and Couple-Level Religious Correlates of Parenting Satisfaction
-**年份**: 2018 | **DOI**: [10.1177/0192513X17728983](https://doi.org/10.1177/0192513X17728983)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17728983](https://doi.org/10.1177/0192513x17728983)
 **作者**: Nelson, Justin J.; Uecker, Jeremy E.
 **摘要**: Using data from the 2014 Baylor Religion Survey, we examine the relationship between various aspects of religion and parenting satisfaction. Results confirm prior research findings that personal religiosity is positively associated with parenting satisfaction.…
 
 ### Associations Among Adolescents' Cyber-Specific Beliefs and Information Management Strategies
-**年份**: 2018 | **DOI**: [10.1177/0192513X16664181](https://doi.org/10.1177/0192513X16664181)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16664181](https://doi.org/10.1177/0192513x16664181)
 **作者**: Babskie, Elizabeth; Metzger, Aaron
 **摘要**: The current study investigated associations among adolescents' reports of harmfulness and family decision-making beliefs regarding potentially problematic cyber behaviors (e.g., talking to strangers online), cyber-specific information management strategies (disclosure, secrecy, concealment), and fam…
 
 ### Becoming Gay Fathers Through Transnational Commercial Surrogacy
-**年份**: 2018 | **DOI**: [10.1177/0192513X16676859](https://doi.org/10.1177/0192513X16676859)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16676859](https://doi.org/10.1177/0192513x16676859)
 **作者**: Petersen, Michael Nebeling
 **摘要**: Based on eight interviews with Danish gay male couples and one gay man, who had or were planning to become fathers through transnational commercial surrogacy, I examine the ways the men form family subjectivities between traditional kinship patterns and fundamentally new forms of kinship and family.…
 
 ### Being a Parent to an Adult Child With Drug Problems: Negative Impacts on Life Situation, Health, and Emotions
-**年份**: 2018 | **DOI**: [10.1177/0192513X17748695](https://doi.org/10.1177/0192513X17748695)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17748695](https://doi.org/10.1177/0192513x17748695)
 **作者**: Richert, Torkel; Johnson, Bjorn; Svensson, Bengt
 **摘要**: This study is about the vulnerability of parents to adult children with drug problems. The study is based on a self-reporting questionnaire (n = 687) distributed to parents in Sweden via family member organizations, treatment centers, and online communities.…
 
 ### Betty Crocker Versus Betty Friedan: Meanings of Wifehood Within a Postfeminist Era
-**年份**: 2018 | **DOI**: [10.1177/0192513X16680092](https://doi.org/10.1177/0192513X16680092)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16680092](https://doi.org/10.1177/0192513x16680092)
 **作者**: Sharp, Elizabeth A.
 **摘要**: In this article, deploying Betty Friedan's The Feminine Mystique and the fictional American icon Betty Crocker within a poststructural feminist analysis, the author analyzes a social science data set investigating how 18 contemporary wives think about wifehood.…
 
 ### Beyond Cultural Explanations: Understanding the Gendered Division of Household Labor in Mexican American Families
-**年份**: 2018 | **DOI**: [10.1177/0192513X18800125](https://doi.org/10.1177/0192513X18800125)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18800125](https://doi.org/10.1177/0192513x18800125)
 **作者**: Pinto, Katy M.; Ortiz, Vilma
 **摘要**: While the vast literature on gendered divisions of household labor has rarely examined the experiences of Latino families, the limited research in this area has failed to account for structural contexts, even while pointing to cultural explanations for inequalities.…
 
 ### Challenges and Determination: The Case of Palestinian Parents of Children With Disabilities
-**年份**: 2018 | **DOI**: [10.1177/0192513X18757830](https://doi.org/10.1177/0192513X18757830)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18757830](https://doi.org/10.1177/0192513x18757830)
 **作者**: Abu-Ras, Wahiba; Saleh, Mahasin; Birani, Amir
 **摘要**: This article explores, describes, and compares how Palestinian parents of children with disabilities articulate their major challenges and coping strategies and ways in which they adapt to daily routines to care for, support, and address the needs of their children.…
 
 ### Changes in Individual Sibling Relationships in Response to Life Events
-**年份**: 2018 | **DOI**: [10.1177/0192513X16653431](https://doi.org/10.1177/0192513X16653431)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16653431](https://doi.org/10.1177/0192513x16653431)
 **作者**: Spitze, Glenna D.; Trent, Katherine
 **摘要**: Data from the first two waves of the National Survey of Families and Households are used to examine how individual sibling relationships change in response to life events in a gendered context.…
 
 ### Childhood Adversity, Daily Stress, and Marital Strain in Same-Sex and Different-Sex Marriages
-**年份**: 2018 | **DOI**: [10.1177/0192513X17741177](https://doi.org/10.1177/0192513X17741177)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17741177](https://doi.org/10.1177/0192513x17741177)
 **作者**: Donnelly, Rachel; Umberson, Debra; Kroeger, Rhiannon A.
 **摘要**: Childhood adversity has enduring consequences for individuals throughout life, including increased reactivity to stress that may contribute to marital strain in adulthood. Past research on gendered experiences of heterosexual spouses raises questions about how the influence of childhood adversity mi…
 
 ### Cohabitation and Intimate Partner Violence During Emerging Adulthood: High Constraints and Low Commitment
-**年份**: 2018 | **DOI**: [10.1177/0192513X16686132](https://doi.org/10.1177/0192513X16686132)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16686132](https://doi.org/10.1177/0192513x16686132)
 **作者**: Manning, Wendy D.; Longmore, Monica A.; Giordano, Peggy C.
 **摘要**: In recent years, a majority of young adults experience cohabitation. Nevertheless, cohabitation is a risk factor for intimate partner violence (IPV). Drawing on social exchange and commitment theory, we analyzed young adults' IPV experiences using the recently collected (2011-2012) Toledo Adolescent…
 
 ### Color Blind or Color Conscious? White American Mothers' Approaches to Racial Socialization
-**年份**: 2018 | **DOI**: [10.1177/0192513X16676858](https://doi.org/10.1177/0192513X16676858)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16676858](https://doi.org/10.1177/0192513x16676858)
 **作者**: Vittrup, Brigitte
 **摘要**: This study investigated the extent to which White American mothers discuss race with their children, which topics they are willing to discuss, and why some choose not to discuss it. Data were gathered from 107 mothers of children aged 4 to 7 years.…
 
 ### Commitment in Interracial Relationships: Dyadic and Longitudinal Tests of the Investment Model
-**年份**: 2018 | **DOI**: [10.1177/0192513X18758343](https://doi.org/10.1177/0192513X18758343)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18758343](https://doi.org/10.1177/0192513x18758343)
 **作者**: Brooks, James E.; Ogolsky, Brian G.; Monk, J. Kale
 **摘要**: Empirical research to explain why partners in interracial relationships appear to be less committed than partners in intraracial relationships is scarce. The Investment Model has been shown to be a robust predictor of relationship commitment, but has only been applied to interracial relationships on…
 
 ### Conflict Structures in Family Networks of Older Adults and Their Relationship With Health-Related Quality of Life
-**年份**: 2018 | **DOI**: [10.1177/0192513X17714507](https://doi.org/10.1177/0192513X17714507)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17714507](https://doi.org/10.1177/0192513x17714507)
 **作者**: Widmer, Eric D.; Girardin, Myriam; Ludwig, Catherine
 **摘要**: This study explores the interrelationships between health-related quality of life and conflict structures in family networks of older adults. Data were derived from a sample of 2,858 elders (aged 65 years and older) from the Vivre/Leben/Vivere study, a large survey addressing family life and health …
 
 ### Constructing Shared Space: Meaningfulness in Long-Distance Romantic Relationship Communication Formats
-**年份**: 2018 | **DOI**: [10.1177/0192513X17698726](https://doi.org/10.1177/0192513X17698726)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17698726](https://doi.org/10.1177/0192513x17698726)
 **作者**: Janning, Michelle; Gao, Wenjun; Snyder, Emma
 **摘要**: Via analysis of online survey data of 262 people aged 18 to 70 in the United States who have been involved in a long-distance romantic relationship (LDR) since 2005, we investigate how paper, audio, visual, and digital communication formats may be used and viewed as differentially meaningful.…
 
 ### Construction of Single Mothers' Roles as Gatekeepers Between Children and Nonresident Fathers
-**年份**: 2018 | **DOI**: [10.1177/0192513X18796051](https://doi.org/10.1177/0192513X18796051)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18796051](https://doi.org/10.1177/0192513x18796051)
 **作者**: Nixon, Elizabeth; Hadfield, Kristin
 **摘要**: This study explores single mothers' roles as gatekeepers in the relationship between children and nonresident fathers in families, where fathers do not have a history of shared residence with their children.…
 
 ### Coresidential Union Entry and Changes in Commuting Times of Women and Men
-**年份**: 2018 | **DOI**: [10.1177/0192513X16646146](https://doi.org/10.1177/0192513X16646146)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16646146](https://doi.org/10.1177/0192513x16646146)
 **作者**: Lersch, Philipp M.; Kleiner, Sibyl
 **摘要**: Women, particularly those in coresidential unions, have previously been found to spend less time commuting to work than men. This gender gap among couples' commuting has been linked to inferior labor market opportunities for women.…
 
 ### Correlates of Child Marriage in Zimbabwe
-**年份**: 2018 | **DOI**: [10.1177/0192513X18755198](https://doi.org/10.1177/0192513X18755198)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18755198](https://doi.org/10.1177/0192513x18755198)
 **作者**: Sayi, Takudzwa S.; Sibanda, Amson
 **摘要**: In countries where child marriage remains widespread, concerted efforts are underway to eliminate it, but overall progress remains uneven and slow. One in three Zimbabwean girls marries by age 18.…
 
 ### Couple-Level Predictors of Perceived Fairness During Pregnancy in First-Time Parents
-**年份**: 2018 | **DOI**: [10.1177/0192513X15594206](https://doi.org/10.1177/0192513X15594206)
+**年份**: 2018 | **DOI**: [10.1177/0192513x15594206](https://doi.org/10.1177/0192513x15594206)
 **作者**: Gordon, Alynn E.; Mickelson, Kristin D.
 **摘要**: Researchers have suggested that apart from the actual division of household labor, housework ideology and spousal support also influence perceptions of fairness regarding the division of household labor.…
 
 ### Daughters' and Sons' Remittances in Rural China: Findings From a National Survey
-**年份**: 2018 | **DOI**: [10.1177/0192513X18755196](https://doi.org/10.1177/0192513X18755196)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18755196](https://doi.org/10.1177/0192513x18755196)
 **作者**: Gruijters, Rob J.
 **摘要**: In China, it has historically been the responsibility of sons rather than daughters to provide economic support to older parents. This study used a sample of 12,389 non-coresident children to analyze whether such gender differences persist in contemporary rural China and how they can be explained.…
 
 ### Determinants of Support Exchange Between Grandparents and Grandchildren in Rural China: The Roles of Grandparent Caregiving, Patrilineal Heritage, and Emotional Bonds
-**年份**: 2018 | **DOI**: [10.1177/0192513X16662102](https://doi.org/10.1177/0192513X16662102)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16662102](https://doi.org/10.1177/0192513x16662102)
 **作者**: Xu, Ling; Chi, Iris
 **摘要**: Mutuality of support provision is a necessary precondition of family solidarity. However, the exchange of care between grandparents and grandchildren has largely been neglected. Using data from the fourth wave of the Anhui Study in China, this study investigated determinants of support exchange betw…
 
 ### Disagreement in Parental Reports of Father Involvement
-**年份**: 2018 | **DOI**: [10.1177/0192513X16644639](https://doi.org/10.1177/0192513X16644639)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16644639](https://doi.org/10.1177/0192513x16644639)
 **作者**: Charles, Pajarita; Spielfogel, Jill; Gorman-Smith, Deborah 等6人
 **摘要**: Despite agreement on the value of father involvement in children's lives, research has been limited due to the exclusion of fathers in studies, questionable validity of mothers' reports on father involvement, and simple measures of fathering behavior.…
 
 ### Division of Labor and Multiple Domains of Sexual Satisfaction Among First-Time Parents
-**年份**: 2018 | **DOI**: [10.1177/0192513X15604343](https://doi.org/10.1177/0192513X15604343)
+**年份**: 2018 | **DOI**: [10.1177/0192513x15604343](https://doi.org/10.1177/0192513x15604343)
 **作者**: Maas, Megan K.; McDaniel, Brandon T.; Feinberg, Mark E. 等4人
 **摘要**: Sexual satisfaction is an important contributor to relationship functioning that is not well understood among first-time parents, at a time when relationship functioning is important for the well-being of parents as well as the child.…
 
 ### Do Transnational Child-Raising Arrangements Affect Job Outcomes of Migrant Parents? Comparing Angolan Parents in Transnational and NonTransnational Families in the Netherlands
-**年份**: 2018 | **DOI**: [10.1177/0192513X17710773](https://doi.org/10.1177/0192513X17710773)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17710773](https://doi.org/10.1177/0192513x17710773)
 **作者**: Haagsman, Karlijn
 **摘要**: Transnational family literature has established that parent-child separations affect negatively on the emotional well-being of migrant parents. Less attention has been paid to other effects separation can have on these parents' lives.…
 
 ### Domestic Labor, Attitudes, and Women's Marital Satisfaction: A Longitudinal Study in Korea
-**年份**: 2018 | **DOI**: [10.1177/0192513X18800813](https://doi.org/10.1177/0192513X18800813)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18800813](https://doi.org/10.1177/0192513x18800813)
 **作者**: Cheung, Adam Ka-Lok; Kim, Erin Hye-Won
 **摘要**: This study examines how gender and family attitudes moderate the relationship between domestic labor and marital satisfaction in Korea, where the heavy and unequal burden of domestic labor on women intersects with traditional familism and gender ideology.…
 
 ### Dyadic Relations Between Interparental Conflict and Parental Emotion Socialization
-**年份**: 2018 | **DOI**: [10.1177/0192513X18783803](https://doi.org/10.1177/0192513X18783803)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18783803](https://doi.org/10.1177/0192513x18783803)
 **作者**: Lee, Young-Eun; Brophy-Herb, Holly E.
 **摘要**: This study examined the effects of destructive and constructive interparental conflict on unsupportive parental emotion socialization behaviors (N = 166 parents of toddlers). Both mothers and fathers completed measures of destructive and constructive interparental conflict and emotion dismissing bel…
 
 ### Ecological Influences on Chinese Adolescents' Problem Behaviors: A Multilevel Analysis
-**年份**: 2018 | **DOI**: [10.1177/0192513X18757828](https://doi.org/10.1177/0192513X18757828)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18757828](https://doi.org/10.1177/0192513x18757828)
 **作者**: Wang, Cixin; Kieu Anh Do; Bao, Leiping 等6人
 **摘要**: This study investigated the effects of individuals, school, and familial protective and risk factors and their interactions on adolescent problem behaviors using a stratified random sample of 2,864 (51.5% female) students from 55 classrooms in 13 schools in Shanghai, China (M-age = 15.52 years, SD =…
 
 ### Emerging Adult Perceptions of and Preferences for Parenting Styles and Associated Psychological Outcomes
-**年份**: 2018 | **DOI**: [10.1177/0192513X18756928](https://doi.org/10.1177/0192513X18756928)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18756928](https://doi.org/10.1177/0192513x18756928)
 **作者**: McKinney, Cliff; Kwan, Janet W.
 **摘要**: Research suggests that child perception of parenting styles may strongly influence child outcomes and parents must balance support and structure based on their emerging adult children's changing needs.…
 
 ### Employed Women and Marital Union Stability: It Helps When Men Help
-**年份**: 2018 | **DOI**: [10.1177/0192513X17710283](https://doi.org/10.1177/0192513X17710283)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17710283](https://doi.org/10.1177/0192513x17710283)
 **作者**: Mencarini, Letizia; Vignoli, Daniele
 **摘要**: A new strand of studies has called into question standard microeconomic predictions of a positive association between women's economic independence and marital union dissolution. We investigate whether and how the gender division of labor channels the impact of women's employment on marital union di…
 
 ### Engaging Men as Fathers: How Gender Influences Men's Involvement in Australian Family Health Services
-**年份**: 2018 | **DOI**: [10.1177/0192513X18802329](https://doi.org/10.1177/0192513X18802329)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18802329](https://doi.org/10.1177/0192513x18802329)
 **作者**: Pfitzner, Naomi; Humphreys, Cathy; Hegarty, Kelsey
 **摘要**: Despite claims of new and involved fathers, research shows men's actual fathering practices remain relatively unchanged. Increasing attention is being paid to the influence of child and family services on father engagement with calls from researchers and practitioners for a game change in parenting …
 
 ### Establishing Specific Links Between Parenting Styles and the S-Anxieties in Children: Separation, Social, and School
-**年份**: 2018 | **DOI**: [10.1177/0192513X17710286](https://doi.org/10.1177/0192513X17710286)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17710286](https://doi.org/10.1177/0192513x17710286)
 **作者**: Yaffe, Yosi
 **摘要**: This study investigates the relationship between parenting styles and three specific types of anxiety among children, with an attempt to monitor the distinctive role that each parental dimension plays with regard to elevated anxiety.…
 
 ### Ethnicity and Intimate Partner Violence in Kenya
-**年份**: 2018 | **DOI**: [10.1177/0192513X18766192](https://doi.org/10.1177/0192513X18766192)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18766192](https://doi.org/10.1177/0192513x18766192)
 **作者**: Kimuna, Sitawa; Tenkorang, Eric Y.; Djamba, Yanyi
 **摘要**: Anecdotal evidence in several sub-Saharan African countries, including Kenya, suggests a complex relationship between ethnicity and intimate partner violence (IPV). Yet very few studies examine the relationship between these two important variables.…
 
 ### Experiential Avoidance, Dyadic Interaction and Relationship Quality in the Lives of Veterans and Their Partners
-**年份**: 2018 | **DOI**: [10.1177/0192513X17698182](https://doi.org/10.1177/0192513X17698182)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17698182](https://doi.org/10.1177/0192513x17698182)
 **作者**: Zamir, Osnat; Gewirtz, Abigail H.; Labella, Madelyn 等5人
 **摘要**: This study assessed the mediating pathways of observed couple communication on the dyadic associations between experiential avoidance (EA) and relationship quality. A sample of 228 military couples following combat deployment participated in a conflict discussion and completed self-report measures t…
 
 ### Factor Structure and Validation of the Controlling Behaviors Scale-Revised and Revised Conflict Tactics Scale
-**年份**: 2018 | **DOI**: [10.1177/0192513X17729721](https://doi.org/10.1177/0192513X17729721)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17729721](https://doi.org/10.1177/0192513x17729721)
 **作者**: Sleath, Emma; Walker, Kate; Tramontano, Carlo
 **摘要**: Recently, more attention is being paid to controlling behaviors within a continuum of intimate partner violence and abuse. However, it is unclear whether current scales are sufficiently valid to measure such behaviors.…
 
 ### Familial Effects on Intimate Partner Violence Perpetration Across Adolescence and Young Adulthood
-**年份**: 2018 | **DOI**: [10.1177/0192513X17734586](https://doi.org/10.1177/0192513X17734586)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17734586](https://doi.org/10.1177/0192513x17734586)
 **作者**: Kaufman-Parks, Angela M.; DeMaris, Alfred; Giordano, Peggy C. 等5人
 **摘要**: Research suggests violence in the family-of-origin is a consistent predictor of later intimate partner violence (IPV). However, prior empirical studies have also demonstrated that exposure to violence does not lead deterministically to violent behaviors in young adulthood.…
 
 ### Family Members' Relationship Qualities and Prosocial Behaviors in US Mexican Young Adults: The Roles of Familism and Ethnic Identity Resolution
-**年份**: 2018 | **DOI**: [10.1177/0192513X16686134](https://doi.org/10.1177/0192513X16686134)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16686134](https://doi.org/10.1177/0192513x16686134)
 **作者**: Streit, Cara; Carlo, Gustavo; Killoren, Sarah E. 等4人
 **摘要**: Scholars have asserted that family relationships may have a prominent role in fostering prosocial behaviors. However, there is limited research on the quality of relationships with fathers and siblings in predicting prosocial behaviors, particularly in U.S. Mexican samples.…
 
 ### Family Predictors of Child Mental Health Conditions
-**年份**: 2018 | **DOI**: [10.1177/0192513X16684891](https://doi.org/10.1177/0192513X16684891)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16684891](https://doi.org/10.1177/0192513x16684891)
 **作者**: Nguyen, Jenny; Hinojosa, Melanie Sberna; Vega, Sara Strickhouser 等6人
 **摘要**: Research suggests that minority children with one mental health condition are more likely than White children to have a secondary mental health condition. However, there are no current studies that test the interaction between race and family resources to examine this apparent racial difference in m…
 
 ### Family Processes and Adolescent Achievement Motivation in Poor Chinese Single-Mother Families
-**年份**: 2018 | **DOI**: [10.1177/0192513X18757827](https://doi.org/10.1177/0192513X18757827)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18757827](https://doi.org/10.1177/0192513x18757827)
 **作者**: Leung, Janet T. Y.; Shek, Daniel T. L.
 **摘要**: This study examined the moderation effect of family functioning on the relationship between maternal expectations of the children's future and adolescent achievement motivation in a sample of 432 Chinese single-mother families experiencing economic disadvantage in Hong Kong.…
 
 ### Family Relations and Remarriage Postdivorce and Postwidowhood in China
-**年份**: 2018 | **DOI**: [10.1177/0192513X17748694](https://doi.org/10.1177/0192513X17748694)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17748694](https://doi.org/10.1177/0192513x17748694)
 **作者**: Hu, Yang; To, Sandy
 **摘要**: Analyzing event history data from the 2010 China Family Panel Studies and 13 qualitative interviews, we examine the complex and gendered relationship between family relations and remarriage in China.…
 
 ### Family Socialization for Racism and Heterosexism: Experiences of Latinx Sexual Minority Adolescents and Young Adults
-**年份**: 2018 | **DOI**: [10.1177/0192513X18783807](https://doi.org/10.1177/0192513X18783807)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18783807](https://doi.org/10.1177/0192513x18783807)
 **作者**: Toomey, Russell B.; Shramko, Maura; Flores, Melissa 等4人
 **摘要**: Experiences of racism and heterosexism are common among marginalized adolescents and young adults. Family socialization processes that aim to prepare young people for bias have been studied among racial-ethnic minority populations; however, they have not been investigated among sexual minority popul…
 
 ### Family Structure and Family Management Practices: Associations With Positive Aspects of Youth Well-Being
-**年份**: 2018 | **DOI**: [10.1177/0192513X17741921](https://doi.org/10.1177/0192513X17741921)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17741921](https://doi.org/10.1177/0192513x17741921)
 **作者**: Beckmeyer, Jonathon J.; Russell, Luke T.
 **摘要**: Using data from a national sample of 15-year-olds (N = 681), we tested if four family management practices (parental knowledge, behavioral control, parental academic involvement, and unsupervised time with peers) differed between family structures (i.e., biological-parent, stepfather, or single-moth…
 
 ### Family, Academic, and Peer Group Predictors of Adolescent Pregnancy Expectations and Young Adult Childbearing
-**年份**: 2018 | **DOI**: [10.1177/0192513X16684894](https://doi.org/10.1177/0192513X16684894)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16684894](https://doi.org/10.1177/0192513x16684894)
 **作者**: Smith, Chelsea
 **摘要**: Compared with previous generations, today's young people increasingly delay parenthood. Having children in the late teens and early 20s is thus a rarer experience rooted in and potentially leading to the stratification of American families.…
 
 ### Father Absence and the Reverse Gender Gap in Latin American Education
-**年份**: 2018 | **DOI**: [10.1177/0192513X18783802](https://doi.org/10.1177/0192513X18783802)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18783802](https://doi.org/10.1177/0192513x18783802)
 **作者**: DeRose, Laurie F.; Huarcaya, Gloria; Salazar-Arango, Andres
 **摘要**: Recent work on gender differences in academic performance in wealthy countries highlights the importance of family structure: Boys' education suffers more than girls' education does when biological fathers are absent.…
 
 ### Fathering From Beyond the Border . . .: Exploring the Experiences of Deported Fathers in Trinidad and Tobago
-**年份**: 2018 | **DOI**: [10.1177/0192513X18770219](https://doi.org/10.1177/0192513X18770219)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18770219](https://doi.org/10.1177/0192513x18770219)
 **作者**: Boodram, Cheryl-Ann Sarita
 **摘要**: Changes in immigration and border control legislations in metropolitan countries have led to an increase in the number of fathers deported to the Caribbean. By way of qualitative research, the author examined the experiences of 18 deported fathers whose children remained in the deporting country.…
 
 ### Fathers' Perspectives on Their Relationship With Their Infant in the Context of Breastfeeding
-**年份**: 2018 | **DOI**: [10.1177/0192513X16650922](https://doi.org/10.1177/0192513X16650922)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16650922](https://doi.org/10.1177/0192513x16650922)
 **作者**: de Montigny, Francine; Lariviere-Bastien, Danae; Gervais, Christine 等6人
 **摘要**: Research has demonstrated beneficial effects on children's development of both breastfeeding and fathers' involvement. Evidence has also shown that breastfeeding could influence paternal behaviors.…
 
 ### Feeling Less Than a Second Class Citizen: Examining the Emotional Consequences of Poverty in New York City
-**年份**: 2018 | **DOI**: [10.1177/0192513X18760348](https://doi.org/10.1177/0192513X18760348)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18760348](https://doi.org/10.1177/0192513x18760348)
 **作者**: Ali, Samira; Bahar, Ozge Sensoy; Gopalan, Priya 等7人
 **摘要**: It has been argued that individuals living in poverty are shamed, and thus, experience it in various social and institutional spaces. However, little is known about this dynamic in the United States. This study examined the relationship between poverty and shame among individuals living in poverty.…
 
 ### First-Time Motherhood Experiences and the Decision to Have a Second Child
-**年份**: 2018 | **DOI**: [10.1177/0192513X16662100](https://doi.org/10.1177/0192513X16662100)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16662100](https://doi.org/10.1177/0192513x16662100)
 **作者**: Casse, Julie F. H.; Oosterman, Mirjam; Volling, Brenda L. 等4人
 **摘要**: Mothers' experiences with their firstborn child may be relevant for understanding the further growth of families. Dutch women (N = 795) reported on motherhood experiences during pregnancy and the first year.…
 
 ### Flexibility or Constraint? The Implications of Mothers' and Fathers' Nonstandard Schedules for Children's Behavioral Outcomes
-**年份**: 2018 | **DOI**: [10.1177/0192513X17748693](https://doi.org/10.1177/0192513X17748693)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17748693](https://doi.org/10.1177/0192513x17748693)
 **作者**: Leibbrand, Christine
 **摘要**: Approximately 17.7% of the U.S. workforce is employed in a nonstandard schedule. Research thus far indicates that these schedules negatively influence children's behavioral development. However, few studies examine the roles of the child's gender and age.…
 
 ### Flipping the (Surname) Script: Men's Nontraditional Surname Choice at Marriage
-**年份**: 2018 | **DOI**: [10.1177/0192513X18770218](https://doi.org/10.1177/0192513X18770218)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18770218](https://doi.org/10.1177/0192513x18770218)
 **作者**: Shafer, Emily Fitzgibbons; Christensen, MacKenzie A.
 **摘要**: Using unique, nationally representative data that asks individuals about their surname choice in marriage, we explore heterosexual men's nontraditional surname choice. We focus on how educationboth absolute and relative to wives'correlates with nontraditional surname choice.…
 
 ### Framing the Family Meal: A Comparison of Social Marketing Campaigns and Parents' Views
-**年份**: 2018 | **DOI**: [10.1177/0192513X15596196](https://doi.org/10.1177/0192513X15596196)
+**年份**: 2018 | **DOI**: [10.1177/0192513x15596196](https://doi.org/10.1177/0192513x15596196)
 **作者**: Bacon, Tracy
 **摘要**: Research suggests family meals are associated with positive outcomes for children, leading scholars to recommend their public promotion. Several organizations have created campaigns promoting family meals, but little research has been done on their efficacy.…
 
 ### Full-, Half-, and Step-Sibling Relations in Young and Middle Adulthood
-**年份**: 2018 | **DOI**: [10.1177/0192513X18757829](https://doi.org/10.1177/0192513X18757829)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18757829](https://doi.org/10.1177/0192513x18757829)
 **作者**: Steinbach, Anja; Hank, Karsten
 **摘要**: This study investigated relationships of full-, half-, and step-siblings in young and middle adulthood with a focus on frequency of contact, emotional closeness, and conflict. We distinguish full-siblings whose parents still live together as a couple (Type 1) from those whose parents separated or di…
 
 ### Gender Disparities in Parenting Time Across Activities, Child Ages, and Educational Groups
-**年份**: 2018 | **DOI**: [10.1177/0192513X18770232](https://doi.org/10.1177/0192513X18770232)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18770232](https://doi.org/10.1177/0192513x18770232)
 **作者**: Negraia, Daniela Veronica; Augustine, Jennifer March; Prickett, Kate Chambers
 **摘要**: Although gender gaps in parenting time endure for parents of young children, and in physical and developmental care, men's changing attitudes toward egalitarian gender roles suggest that gender disparities in parenting time may have closed in some contexts: particularly, in other shared activities w…
 
 ### Gender Division of Household Labor in China: Cohort Analysis in Life Course Patterns
-**年份**: 2018 | **DOI**: [10.1177/0192513X18776457](https://doi.org/10.1177/0192513X18776457)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18776457](https://doi.org/10.1177/0192513x18776457)
 **作者**: Luo, Meng Sha; Chui, Ernest Wing Tak
 **摘要**: Using hierarchical age-period-cohort growth curve models, this study assesses changes in gender disparities in housework time across Chinese adults' life course and across different birth cohorts. The results revealed three key findings.…
 
 ### Gender, Family Norms, and Male-Factor Infertility in Japan: An Analysis of Internet Blogs
-**年份**: 2018 | **DOI**: [10.1177/0192513X18796874](https://doi.org/10.1177/0192513X18796874)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18796874](https://doi.org/10.1177/0192513x18796874)
 **作者**: Tanaka, Kimiko; Johnson, Nan E.; Lowry, Deborah
 **摘要**: This study analyzes blogs about male-factor infertility posted on a Japanese blogsite on a certain day in April 2014. It focuses on an understudied topic and is the first study of Japanese male infertility based on blogs.…
 
 ### Grandparents' Parenting on Children's Internalizing Symptoms: The Serial Mediation of Parents' Psychological Control and Children's Emotion Regulation
-**年份**: 2018 | **DOI**: [10.1177/0192513X18804284](https://doi.org/10.1177/0192513X18804284)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18804284](https://doi.org/10.1177/0192513x18804284)
 **作者**: Li, Jia; Ahemaitijiang, Nigela; Han, Zhuo Rachel 等4人
 **摘要**: The current study aimed to investigate the intergenerational transmission of parenting and internalizing problems in children. Serial mediation models were used to assess parental psychological control and child emotion regulation as mediators in linking grandparents' parenting (care or overprotecti…
 
 ### Growing Up With A Food Insecure Adult: The Cognitive Consequences of Recurrent Versus Transitory Food Insecurity Across the Early Elementary Years
-**年份**: 2018 | **DOI**: [10.1177/0192513X18755199](https://doi.org/10.1177/0192513X18755199)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18755199](https://doi.org/10.1177/0192513x18755199)
 **作者**: Gee, Kevin A.
 **摘要**: To investigate how kindergarteners cognitively developed in a family with an adult who experienced recurrent versus transitory food insecurity, a sample of 1,040 kindergarteners (mean age = 5.6 years) from the Early Childhood Longitudinal Study, Kindergarten Class of 2010-2011 was analyzed using mul…
 
 ### He's Had Enough Fathers: Mothers' and Children's Approaches to Mothers' Romantic Relationships Following the Dissolution of Previous Partnerships
-**年份**: 2018 | **DOI**: [10.1177/0192513X16638385](https://doi.org/10.1177/0192513X16638385)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16638385](https://doi.org/10.1177/0192513x16638385)
 **作者**: Hadfield, Kristin; Nixon, Elizabeth
 **摘要**: Although research has documented the negative effects of family transitions generally on child and maternal outcomes, transitions into and out of mothers' relationships with partners who are not the father(s) of their child(ren) are less well understood.…
 
 ### Household Extension and Employment Among Asian Immigrant Women in the United States
-**年份**: 2018 | **DOI**: [10.1177/0192513X15606489](https://doi.org/10.1177/0192513X15606489)
+**年份**: 2018 | **DOI**: [10.1177/0192513x15606489](https://doi.org/10.1177/0192513x15606489)
 **作者**: Kang, Jeehye; Cohen, Philip N.
 **摘要**: To help explain variation in Asian immigrant women's employment, we examine the association between women's employment and the presence and characteristics of adult extended household members for seven Asian immigrant groups: Chinese, Korean, Asian Indian, Pakistani, Filipina, Vietnamese, and Japane…
 
 ### Household Food Insecurity and Early Childhood Health and Cognitive Development Among Children of Immigrants
-**年份**: 2018 | **DOI**: [10.1177/0192513X17710772](https://doi.org/10.1177/0192513X17710772)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17710772](https://doi.org/10.1177/0192513x17710772)
 **作者**: Huang, Ying; Potochnick, Stephanie; Heflin, Colleen M.
 **摘要**: Food insecurity is negatively related to child development and health. In this study, we use Early Childhood Longitudinal Study-Birth Cohort data to assess the cognitive and health consequences of household food insecurity for children of immigrants compared with children of native-born parents.…
 
 ### How Do Emotional Closeness and Support From Parents Relate to Israeli and German Students' Life Satisfaction?
-**年份**: 2018 | **DOI**: [10.1177/0192513X18770213](https://doi.org/10.1177/0192513X18770213)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18770213](https://doi.org/10.1177/0192513x18770213)
 **作者**: Bar-Tur, Liora; Ifrah, Kfir; Moore, Dahlia 等5人
 **摘要**: This study explores the relationships of adult children with their parents, and their impact on the child's life satisfaction, in Israel and in Germany. Structural equation models tested three types of parental support (practical, emotional, and advice) and emotional closeness as predictors of the c…
 
 ### How Does Sibling Relationship Affect Children's Prosocial Behaviors and Best Friend Relationship Quality?
-**年份**: 2018 | **DOI**: [10.1177/0192513X18755195](https://doi.org/10.1177/0192513X18755195)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18755195](https://doi.org/10.1177/0192513x18755195)
 **作者**: Smorti, Martina; Ponti, Lucia
 **摘要**: The aim of this study was to explore whether the sibling condition (having a sibling) and sibling relationship quality affect prosocial behaviors and best friend relationship quality, deepening the mediating role of prosocial behaviors on the relationship between sibling relationship quality and bes…
 
 ### I Walked in on Them: Young Adults' Childhood Perceptions of Sex and Nudity in Family and Public Contexts
-**年份**: 2018 | **DOI**: [10.1177/0192513X18793923](https://doi.org/10.1177/0192513X18793923)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18793923](https://doi.org/10.1177/0192513x18793923)
 **作者**: Allen, Katherine R.; Gary, Emily A.; Lavender-Stott, Erin S. 等4人
 **摘要**: Children's observation of sex and nudity among parents, peers, or strangers has received limited scholarly attention, mostly because research on sexuality in childhood is difficult or prohibitive to conduct.…
 
 ### Incapacitated Involvement: Incarceration and Fatherhood in Fragile Families at Age
-**年份**: 2018 | **DOI**: [10.1177/0192513X18783225](https://doi.org/10.1177/0192513X18783225)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18783225](https://doi.org/10.1177/0192513x18783225)
 **作者**: Washington, Heather M.; Juan, Shao-Chiu; Haskins, Anna R.
 **摘要**: We use data from the Fragile Families and Child Wellbeing Study to expand knowledge about the impact of paternal incarceration on fathering in three specific ways: (a) we explore fathers' involvement with children in middle childhood, (b) we examine the extent to which we observe similar reports of …
 
 ### Increasing Maternal Employment Influences Child Overweight/Obesity Among Ethnically Diverse Families
-**年份**: 2018 | **DOI**: [10.1177/0192513X18760968](https://doi.org/10.1177/0192513X18760968)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18760968](https://doi.org/10.1177/0192513x18760968)
 **作者**: Ettinger, Anna K.; Riley, Anne W.; Price, Carmel E.
 **摘要**: Maternal employment is associated with child overweight/obesity, but the mechanisms influencing this relationship are not clear among diverse populations. We examined the effects of employment and parenting variables on child overweight/obesity among low-income Black and Latino families.…
 
 ### Inequity Leads to Distress and a Reduction in Satisfaction: Evidence From a Priming Experiment
-**年份**: 2018 | **DOI**: [10.1177/0192513X16637098](https://doi.org/10.1177/0192513X16637098)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16637098](https://doi.org/10.1177/0192513x16637098)
 **作者**: Sprecher, Susan
 **摘要**: Considerable research has shown that perceptions of inequity in relationships are associated with distress and relationship dissatisfaction, thus providing support for equity theory's predictions.…
 
 ### Instrumental Social Support Exchanges in African American Extended Families
-**年份**: 2018 | **DOI**: [10.1177/0192513X18783805](https://doi.org/10.1177/0192513X18783805)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18783805](https://doi.org/10.1177/0192513x18783805)
 **作者**: Cross, Christina J.; Nguyen, Ann W.; Chatters, Linda M. 等4人
 **摘要**: This study uses data from the National Survey of American Life Re-Interview to examine the types and frequency of instrumental support that African Americans exchange with extended family members as well as the demographic and family correlates of these exchanges.…
 
 ### Intergenerational Family Solidarity as a Migration Compass
-**年份**: 2018 | **DOI**: [10.1177/0192513X18806026](https://doi.org/10.1177/0192513X18806026)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18806026](https://doi.org/10.1177/0192513x18806026)
 **作者**: Dryjanska, Laura; Zlotnick, Cheryl
 **摘要**: Incorporating contemporary theories of Aliyah (Jewish migration to Israel) by English speakers and family intergenerational solidarity, this article compares the perspective of older women who immigrated to Israel accompanied by their families with representatives of organizational stakeholders: pai…
 
 ### Intergenerational Relationships and Psychological Well-Being of Chinese Older Adults With Migrant Children: Does Internal or International Migration Make a Difference?
-**年份**: 2018 | **DOI**: [10.1177/0192513X16676855](https://doi.org/10.1177/0192513X16676855)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16676855](https://doi.org/10.1177/0192513x16676855)
 **作者**: Guo, Man; Liu, Jinyu; Xu, Ling 等5人
 **摘要**: Relying on a purposive sample of 550 Chinese older adults in Beijing, China, this study examined the potential influence of children's out-migration, internally or internationally, on intergenerational relationships and parental well-being.…
 
 ### Is There the Sweet Spot for Age at Marriage and Positive Marital Outcomes?
-**年份**: 2018 | **DOI**: [10.1177/0192513X16686135](https://doi.org/10.1177/0192513X16686135)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16686135](https://doi.org/10.1177/0192513x16686135)
 **作者**: Bartle-Haring, Suzanne; Shannon, Samuel; Holowacz, Eugene 等5人
 **摘要**: Using three nationally representative data sets, researchers analyzed the trends in age at marriage, marital stability, and marital satisfaction across the 20th century. Although there is a well-established link between age at marriage and marital stability, less is understood about the link between…
 
 ### It's My Language, My Culture, and it's Personal! Migrant Mothers' Experience of Language Use and Identity Change in Their Relationship With Their Children: An Interpretative Phenomenological Analysis
-**年份**: 2018 | **DOI**: [10.1177/0192513X18764542](https://doi.org/10.1177/0192513X18764542)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18764542](https://doi.org/10.1177/0192513x18764542)
 **作者**: Farr, Joanna; Blenkiron, Laura; Harris, Richard 等4人
 **摘要**: The question of how migrants' language use affects their ethnic identity has received considerable attention in the literature. There is, however, little understanding of how this relationship manifests or is negotiated in interethnic families.…
 
 ### Kirogi Women's Psychological Well-Being: The Relative Contributions of Marital Quality, Mother-Child Relationship Quality, and Youth's Educational Adjustment
-**年份**: 2018 | **DOI**: [10.1177/0192513X16632265](https://doi.org/10.1177/0192513X16632265)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16632265](https://doi.org/10.1177/0192513x16632265)
 **作者**: Chang, Esther S.
 **摘要**: The current study is based on the responses of 153 married Korean mothers accompanying their youth in the United States or in New Zealand while their spouses remained in Korea. Kirogi means wild geese in Korean and has come to refer to split-family transnational living for the sake of children's edu…
 
 ### Latent Class Analysis Approach for the Family Adaptability and Cohesion Evaluation Scale IV Among Young People From Romania: The First Step for Validation
-**年份**: 2018 | **DOI**: [10.1177/0192513X17714508](https://doi.org/10.1177/0192513X17714508)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17714508](https://doi.org/10.1177/0192513x17714508)
 **作者**: Rada, Cornelia
 **摘要**: The objectives of this study were the following: (a) to examine the psychometric quality of the Romanian version of the Family Adaptability and Cohesion Evaluation Scale IV and (b) to assess the cohesion and flexibility of the Family Adaptability and Cohesion Evaluation Scale IV according to gender,…
 
 ### Latent Growth Curve Model of Perceived Family Relationship Quality and Depressive Symptoms During Middle Adolescence in Spain
-**年份**: 2018 | **DOI**: [10.1177/0192513X17741174](https://doi.org/10.1177/0192513X17741174)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17741174](https://doi.org/10.1177/0192513x17741174)
 **作者**: Gomez-Baya, Diego; Mendoza, Ramon; Camacho, Ines 等4人
 **摘要**: This study aimed to examine longitudinal associations between the perceived quality of family relationships and self-reported depressive symptoms during middle adolescence. A 2-year follow-up study, with three assessments at 1-year intervals, was conducted.…
 
 ### Life Problems and Perceptions of Giving Support: Implications for Aging Mothers and Middle-Aged Children
-**年份**: 2018 | **DOI**: [10.1177/0192513X16683987](https://doi.org/10.1177/0192513X16683987)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16683987](https://doi.org/10.1177/0192513x16683987)
 **作者**: Bangerter, Lauren R.; Polenick, Courtney A.; Zarit, Steven H. 等4人
 **摘要**: Giving support may be a stressful or rewarding experience, and little is known about how family members perceive giving support amid problems or crises. Using a sample of 226 mother-child dyads (mother mean age = 75.04 years; child mean age = 49.57 years), we examine how mothers and their middle-age…
 
 ### Lived Experiences of Childfree Lesbians in the United Kingdom: A Qualitative Exploration
-**年份**: 2018 | **DOI**: [10.1177/0192513X18810931](https://doi.org/10.1177/0192513X18810931)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18810931](https://doi.org/10.1177/0192513x18810931)
 **作者**: Clarke, Victoria; Hayfield, Nikki; Ellis, Sonja J. 等4人
 **摘要**: Evidence suggests that most lesbians remain childless, but little is known about the childfree lesbian experience. The current study qualitatively explores the experiences of five childfree lesbians.…
 
 ### Low-Income Black Men's Kin Work: Social Fatherhood in Cohabiting Stepfamilies
-**年份**: 2018 | **DOI**: [10.1177/0192513X16684892](https://doi.org/10.1177/0192513X16684892)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16684892](https://doi.org/10.1177/0192513x16684892)
 **作者**: Reid, Megan; Golub, Andrew
 **摘要**: We apply family systems theory and the kinscripts framework to advance understanding of cohabiting stepfather involvement and kin work in low-income Black families raising children, from men's own perspectives.…
 
 ### Managing Without Moms: Gay Fathers, Incidental Activism, and the Politics of Parental Gender
-**年份**: 2018 | **DOI**: [10.1177/0192513X18783229](https://doi.org/10.1177/0192513X18783229)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18783229](https://doi.org/10.1177/0192513x18783229)
 **作者**: Carroll, Megan
 **摘要**: Cultural norms surrounding gender and family have failed to keep pace with demographic trends of family change, resulting in a wide range of family forms that are excluded from family normativity.…
 
 ### Maps of Family Relationships Drawn by Women Engaged in Bisexual Motherhood: Defining Family Membership
-**年份**: 2018 | **DOI**: [10.1177/0192513X18810958](https://doi.org/10.1177/0192513X18810958)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18810958](https://doi.org/10.1177/0192513x18810958)
 **作者**: Tasker, Fiona; Delvoye, Marie
 **摘要**: Family building by bisexual mothers is a neglected area of research, yet this is an important aspect of life course development that may reciprocally influence the sexual identity development of bisexual women and family processes around parenting.…
 
 ### Marital Beliefs Among African American Emerging Adults: The Roles of Community Context, Family Background, and Relationship Experiences
-**年份**: 2018 | **DOI**: [10.1177/0192513X16644640](https://doi.org/10.1177/0192513X16644640)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16644640](https://doi.org/10.1177/0192513x16644640)
 **作者**: Barr, Ashley Brooke; Simons, Ronald L.
 **摘要**: The current study explores multiple contexts of developmentcommunity, family, and relationshipthat predict African American emerging adults' marital beliefs. Findings suggest that nonmarital relationship experiences and childhood community contexts are robust and independent predictors of marital be…
 
 ### Marital Power in Inter-Hukou Families in China: An Intersectionality Approach
-**年份**: 2018 | **DOI**: [10.1177/0192513X17692378](https://doi.org/10.1177/0192513X17692378)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17692378](https://doi.org/10.1177/0192513x17692378)
 **作者**: Lui, Lake
 **摘要**: China's household registration system (hukou) that assigns citizens into rural or urban status is a stratifying tool that shapes people's social rights based on parents' place of origin.…
 
 ### Marriage and Dissolution Among Women's Cohabitations: Variations by Stepfamily Status and Shared Childbearing
-**年份**: 2018 | **DOI**: [10.1177/0192513X16686136](https://doi.org/10.1177/0192513X16686136)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16686136](https://doi.org/10.1177/0192513x16686136)
 **作者**: Guzzo, Karen Benjamin
 **摘要**: Cohabiting unions increasingly involve children, either born during the union and/or from prior relationships (i.e., stepchildren). Drawing from arguments about the institutionalization of cohabitation and stepfamilies as well as the family systems perspective, this article examines dissolution and …
 
 ### Matrimonial Expenditures and Egyptian Women's Power Within Marriage
-**年份**: 2018 | **DOI**: [10.1177/0192513X18755197](https://doi.org/10.1177/0192513X18755197)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18755197](https://doi.org/10.1177/0192513x18755197)
 **作者**: Salem, Rania
 **摘要**: Married women's material resources are widely regarded as determinants of gendered power relations between husbands and wives. Although a growing literature describes the material transactions that accompany marriage, few empirical studies investigate their association with women's postmarital outco…
 
 ### Meaning in Life Among Middle-Aged and Older Gay and Heterosexual Fathers
-**年份**: 2018 | **DOI**: [10.1177/0192513X17741922](https://doi.org/10.1177/0192513X17741922)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17741922](https://doi.org/10.1177/0192513x17741922)
 **作者**: Shenkman, Geva; Ifrah, Kfir; Shmotkin, Dov
 **摘要**: This study explored differences in meaning-in-life indicators, namely purpose in life and personal growth, among 76 community-dwelling middle-aged and older Israeli gay men, who had become fathers through a heterosexual relationship (mean age = 59.42, SD = 6.15, range: 50-78), 110 gay men that were …
 
 ### Men's Migration, Women's Autonomy, and Union Dissolution in Rural Mozambique
-**年份**: 2018 | **DOI**: [10.1177/0192513X17698184](https://doi.org/10.1177/0192513X17698184)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17698184](https://doi.org/10.1177/0192513x17698184)
 **作者**: Agadjanian, Victor; Hayford, Sarah R.
 **摘要**: Men's labor migration has been shown to affect marital stability in various contexts, but heterogeneity in the relationship between migration and marital outcomes is not well understood.…
 
 ### Mental Health Symptoms and Parenting Among Father-Only and Dual Substance Use Disorder Couples
-**年份**: 2018 | **DOI**: [10.1177/0192513X16680014](https://doi.org/10.1177/0192513X16680014)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16680014](https://doi.org/10.1177/0192513x16680014)
 **作者**: Kelley, Michelle L.; Bravo, Adrian J.; Braitman, Abby L. 等5人
 **摘要**: In the present study, we examined associations between fathers' and mothers' mental health symptoms as related to their own and their partner's parenting in couples in which fathers (n = 38 families) or both partners (n = 30 families) had substance use disorder.…
 
 ### Money, Time, or Something Else? Measuring Nonresident Fathers' Informal and In-Kind Contributions
-**年份**: 2018 | **DOI**: [10.1177/0192513X18783801](https://doi.org/10.1177/0192513X18783801)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18783801](https://doi.org/10.1177/0192513x18783801)
 **作者**: Waller, Maureen R.; Emory, Allison Dwyer; Paul, Elise
 **摘要**: Despite efforts to improve the measurement of low-income, nonresident fathers' economic contributions to children in large-scale surveys, limited research has examined how survey measures of informal and in-kind support relate to other standard indicators of fathering.…
 
 ### More Natural Does Not Equal More Normal: Lesbian, Gay, and Bisexual People's Views About Different Pathways to Parenthood
-**年份**: 2018 | **DOI**: [10.1177/0192513X18810951](https://doi.org/10.1177/0192513X18810951)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18810951](https://doi.org/10.1177/0192513x18810951)
 **作者**: Pralat, Robert
 **摘要**: Heterosexual reproduction is often seen as normal and natural, with the two descriptors commonly understood as mutually reinforcing. I argue that, despite their apparent similarity, the meanings of normal and natural are distinct in important ways-a distinction that questions the positioning of lesb…
 
 ### Mother-Ready Jobs: Employment That Works for Mothers of Children With Disabilities
-**年份**: 2018 | **DOI**: [10.1177/0192513X18756927](https://doi.org/10.1177/0192513X18756927)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18756927](https://doi.org/10.1177/0192513x18756927)
 **作者**: Scott, Ellen K.
 **摘要**: Feminist researchers focus on work-family conflict and the impact on maternal employment. They find jobs are not structured to allow for work-family fit. Using qualitative data, I examine those unusual circumstances in which work does work in the challenging case of mothers of children with disabili…
 
 ### Motherhood in Complex Families
-**年份**: 2018 | **DOI**: [10.1177/0192513X16637099](https://doi.org/10.1177/0192513X16637099)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16637099](https://doi.org/10.1177/0192513x16637099)
 **作者**: Fomby, Paula
 **摘要**: Families formed through multipartner fertility, where children with a common biological mother were conceived by different biological fathers, represent a growing share of all families in the United States.…
 
 ### Mothers and Fathers Matter: The Influence of Parental Support, Hostility, and Problem Solving on Adolescent Friendships
-**年份**: 2018 | **DOI**: [10.1177/0192513X18755423](https://doi.org/10.1177/0192513X18755423)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18755423](https://doi.org/10.1177/0192513x18755423)
 **作者**: Flynn, Heather Kohler; Felmlee, Diane H.; Shu, Xiaoling 等4人
 **摘要**: We examine the pathways by which parents influence adolescents' close friendships, focusing on three types of behavioral styles: hostile, warm, and problem solving. Structural equation models are estimated using data at two time points from the Iowa Youth and Families Project (N = 227 friendship pai…
 
 ### Mothers' Time and Relationship With Their Adolescent Children: The Intersecting Influence of Family Structure and Maternal Labor Force Participation
-**年份**: 2018 | **DOI**: [10.1177/0192513X18756929](https://doi.org/10.1177/0192513X18756929)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18756929](https://doi.org/10.1177/0192513x18756929)
 **作者**: Lemmon, Megan; Patterson, Sarah E.; Martin, Molly A.
 **摘要**: We investigate whether the anticipated risks of increasing maternal work hours for mother-adolescent relationships differ across family structures: Do intensive mothering norms exacerbate these risks particularly for mothers in two-parent biological families or does their partners' greater involveme…
 
 ### Mutual Exchange: Caregiving and Life Enhancement in Siblings of Individuals With Developmental Disabilities
-**年份**: 2018 | **DOI**: [10.1177/0192513X17746452](https://doi.org/10.1177/0192513X17746452)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17746452](https://doi.org/10.1177/0192513x17746452)
 **作者**: Mauldin, Laura; Saxena, Mamta
 **摘要**: Individuals with disabilities increasingly live at home. This study focuses on experiences of adult siblings (aged 18 years and older) in the United States who have a brother or sister with an intellectual/developmental disability. It is based on qualitative survey data (n = 224).…
 
 ### Narrative Identities and the Egalitarian Norm Among Hungarian Elite Couples
-**年份**: 2018 | **DOI**: [10.1177/0192513X17741175](https://doi.org/10.1177/0192513X17741175)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17741175](https://doi.org/10.1177/0192513x17741175)
 **作者**: Csurgo, Bernadett; Kristof, Luca
 **摘要**: Our article aims to study the attitudes of the elite to family life and gender equality. This is a social group who still experiences significant gender imbalances. We focus on attitudes to family life, which has thus far been underresearched in elite literature.…
 
 ### Narratives on the Autism Journey: Doing Family and Redefining the Caregiver Self
-**年份**: 2018 | **DOI**: [10.1177/0192513X18765048](https://doi.org/10.1177/0192513X18765048)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18765048](https://doi.org/10.1177/0192513x18765048)
 **作者**: Chiaraluce, Cara A.
 **摘要**: Drawing on 50 in-depth semistructured interviews with primary caregivers of at least one child diagnosed with autism, this study demonstrates how the current social experience of caring for a child with an ambiguous and invisible disorder upsets the identities of primary caregivers and challenges th…
 
 ### Neutralizing the Maternal Breast: Accounts of Public Breastfeeding by African American Mothers
-**年份**: 2018 | **DOI**: [10.1177/0192513X16650229](https://doi.org/10.1177/0192513X16650229)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16650229](https://doi.org/10.1177/0192513x16650229)
 **作者**: Owens, Nicole; Carter, Shannon K.; Nordham, Chelsea J. 等4人
 **摘要**: U.S. mothers receive messages that they should breastfeed their babies, yet there is little cultural support for public breastfeeding and evidence of heightened opposition in African American communities.…
 
 ### Nonstandard Work Schedules, Family Dynamics, and Mother-Child Interactions During Early Childhood
-**年份**: 2018 | **DOI**: [10.1177/0192513X16684893](https://doi.org/10.1177/0192513X16684893)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16684893](https://doi.org/10.1177/0192513x16684893)
 **作者**: Prickett, Kate C.
 **摘要**: The rising number of parents who work nonstandard schedules has led to a growing body of research concerned with what this trend means for children. The negative outcomes for children of parents who work nonstandard schedules are thought to arise from the disruptions these schedules place on family …
 
 ### Parent-Adolescent Closeness, Family Belonging, and Adolescent Well-Being Across Family Structures
-**年份**: 2018 | **DOI**: [10.1177/0192513X17739048](https://doi.org/10.1177/0192513X17739048)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17739048](https://doi.org/10.1177/0192513x17739048)
 **作者**: King, Valarie; Boyd, Lisa M.; Pragg, Brianne
 **摘要**: Adolescents in stepfamilies and single-parent families tend to report lower levels of well-being than adolescents who live with two biological parents. Using data from Add Health (n = 16,684), the present study builds on this literature by examining family-level predictors of adolescent depressive s…
 
 ### Parent-Adolescent Communication and Problematic Internet Use: The Mediating Role of Fear of Missing Out (FoMO)
-**年份**: 2018 | **DOI**: [10.1177/0192513X18783493](https://doi.org/10.1177/0192513X18783493)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18783493](https://doi.org/10.1177/0192513x18783493)
 **作者**: Alt, Dorit; Boniel-Nissim, Meyran
 **摘要**: With the growing attention paid to the role of Fear of Missing Out (FoMO) as a mediator, linking deficits in psychological needs to Problematic Internet Use (PIU), this study explored the role of FoMO in partially explaining the connection between parent-child communication and the child's PIU.…
 
 ### Parent-Adult Child Religious Discordance: Consequences for Intergenerational Solidarity Across Several Decades
-**年份**: 2018 | **DOI**: [10.1177/0192513X17710775](https://doi.org/10.1177/0192513X17710775)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17710775](https://doi.org/10.1177/0192513x17710775)
 **作者**: Hwang, Woosang; Silverstein, Merril; Brown, Maria T.
 **摘要**: This article focused on the relationship between parent-child religious discordance (affiliation, intensity, and attendance) in early adulthood and children's perceived affectual and associational solidarity with their parents across 20 years.…
 
 ### Parental Control and Conflicts in Adolescence: A Cross-National Comparison of the United States, Canada, Mexico, France, and Italy
-**年份**: 2018 | **DOI**: [10.1177/0192513X18800123](https://doi.org/10.1177/0192513X18800123)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18800123](https://doi.org/10.1177/0192513x18800123)
 **作者**: Claes, Michel; Lacourse, Eric; Page, Marc 等10人
 **摘要**: This study investigated parental behavioral control, disciplinary style, and parent-youth conflicts in five countries: The United States, Canada, Mexico, France, and Italy. A self-report questionnaire was applied to 1,751 adolescents and their parents.…
 
 ### Parental Divorce, Social Capital, and Postbaccalaurate Educational Attainment Among Young Adults
-**年份**: 2018 | **DOI**: [10.1177/0192513X18760349](https://doi.org/10.1177/0192513X18760349)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18760349](https://doi.org/10.1177/0192513x18760349)
 **作者**: Devor, Camron S.; Stewart, Susan D.; Dorius, Cassandra
 **摘要**: Educational attainment is lower among children with divorced parents than those with continuously married parents. Most research has focused on the educational outcomes of children and little research has examined the effect of parental divorce on educational attainment beyond a bachelor's degree.…
 
 ### Parenting Practices and Attitudes and the Role of Belief in Supernatural Evil: Results From a National US Survey
-**年份**: 2018 | **DOI**: [10.1177/0192513X17720757](https://doi.org/10.1177/0192513X17720757)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17720757](https://doi.org/10.1177/0192513x17720757)
 **作者**: Martinez, Brandon C.; Tom, Joshua C.; Ferguson, Todd W. 等5人
 **摘要**: Research on parenting has explored a variety of religious factors affecting child-rearing outcomes but has devoted limited attention to supernatural evil. We extend this work by examining the relationship between parents' belief in supernatural evil and their child-rearing outcomes.…
 
 ### Parenting Stress and the Use of Formal and Informal Child Care: Associations for Fathers and Mothers
-**年份**: 2018 | **DOI**: [10.1177/0192513X18776419](https://doi.org/10.1177/0192513X18776419)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18776419](https://doi.org/10.1177/0192513x18776419)
 **作者**: Craig, Lyn; Churchill, Brendan
 **摘要**: We investigated relationships between nonparental care and psychological strains of parenthood. Using data from employed parents of children below 5 years of age (n = 6,886 fathers and mothers) from Waves 4 to 11 of the household panel survey Household, Income and Labour Dynamics in Australia (HILDA…
 
 ### Parents' Interpretations of Screen Time Recommendations for Children Younger Than 2 Years
-**年份**: 2018 | **DOI**: [10.1177/0192513X16646595](https://doi.org/10.1177/0192513X16646595)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16646595](https://doi.org/10.1177/0192513x16646595)
 **作者**: Brown, Alice; Smolenaers, Emma
 **摘要**: Move and Play Every Day: National Physical Activity Recommendations for Children 0-5 Years was part of a suite of physical activity guidelines issued by the Australian Government Department of Health and Ageing in 2010.…
 
 ### Parents' Migration and Adolescents' Transition to High School in Rural China: The Role of Parental Divorce
-**年份**: 2018 | **DOI**: [10.1177/0192513X18778083](https://doi.org/10.1177/0192513X18778083)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18778083](https://doi.org/10.1177/0192513x18778083)
 **作者**: Hu, Shu
 **摘要**: Using both quantitative and qualitative data collected in a migrant-sending county from 2012 to 2013, this article examines the mechanisms through which parental migration could shape adolescents' transition to high school in rural China.…
 
 ### Partnership Formation in Young and Older Age
-**年份**: 2018 | **DOI**: [10.1177/0192513X18783469](https://doi.org/10.1177/0192513X18783469)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18783469](https://doi.org/10.1177/0192513x18783469)
 **作者**: Rapp, Ingmar
 **摘要**: This article examines the prevalence of partnership formation at different life stages and analyses whether the determinants of partnership formation change over the life course. Data were obtained from the German Socio-Economic Panel for the years 1992 to 2014.…
 
 ### Paying for Their Stay: Race, Coresiding Arrangements, and Rent Payments Among Fragile Families
-**年份**: 2018 | **DOI**: [10.1177/0192513X18804287](https://doi.org/10.1177/0192513X18804287)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18804287](https://doi.org/10.1177/0192513x18804287)
 **作者**: Whitehead, Ellen
 **摘要**: Coresiding with extended relatives represents a beneficial form of resource sharing for disadvantaged individuals that is particularly common among Black, Hispanic, and low-socioeconomic status communities, yet we know little about financial arrangements within coresidential families.…
 
 ### People of Diverse Genders and/or Sexualities and Their Animal Companions: Experiences of Family Violence in a Binational Sample
-**年份**: 2018 | **DOI**: [10.1177/0192513X18811164](https://doi.org/10.1177/0192513X18811164)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18811164](https://doi.org/10.1177/0192513x18811164)
 **作者**: Riggs, Damien W.; Taylor, Nik; Signal, Tania 等5人
 **摘要**: A significant body of research in the field of human-animal studies has focused on animals who live alongside humans within the home, with such animals often considered family members.…
 
 ### Perception of Sibling Relationships and Birth Order Among Asian American and European American Emerging Adults
-**年份**: 2018 | **DOI**: [10.1177/0192513X18783465](https://doi.org/10.1177/0192513X18783465)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18783465](https://doi.org/10.1177/0192513x18783465)
 **作者**: Wu, Kaidi; Kim, Jacqueline H. J.; Nagata, Donna K. 等4人
 **摘要**: Drawing from an ecological systems framework, we qualitatively explored how Confucian-heritage Asian American emerging adults compared with non-Hispanic European American emerging adults on views of sibling relationships and birth order.…
 
 ### Perceptions of Collective Efficacy Among Single Mothers: Insights for Conceptualization and Measurement
-**年份**: 2018 | **DOI**: [10.1177/0192513X18804285](https://doi.org/10.1177/0192513X18804285)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18804285](https://doi.org/10.1177/0192513x18804285)
 **作者**: Barnhart, Sheila; Gearhart, Michael C.; Maguire-Jack, Kathryn
 **摘要**: Neighborhoods with higher levels of collective efficacy are associated with more favorable family outcomes such as lower teen pregnancy rates and less antisocial behavior among children.…
 
 ### Perceptions of Fairness and Housework Disagreement: A Comparative Analysis
-**年份**: 2018 | **DOI**: [10.1177/0192513X18758346](https://doi.org/10.1177/0192513X18758346)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18758346](https://doi.org/10.1177/0192513x18758346)
 **作者**: Tai, Tsui-o; Baxter, Janeen
 **摘要**: This article uses data from couples in 29 nations to investigate the associations between household divisions of labor, perceptions of housework fairness, and frequency of housework disagreement.…
 
 ### Predicting Caregiver Strain to Improve Supports for the Caregivers of Children With Emotional and Behavioral Disorders
-**年份**: 2018 | **DOI**: [10.1177/0192513X16683986](https://doi.org/10.1177/0192513X16683986)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16683986](https://doi.org/10.1177/0192513x16683986)
 **作者**: Wang, Tianqian; Anderson, Jeffrey Alvin
 **摘要**: Caregivers of children/youth with emotional and behavioral disorders often can experience significant strain associated with the day-to-day care of their children, and reducing strain can bring tremendous advantages to children, caregivers, and families.…
 
 ### Predicting Mother-Adolescent Sexual Communication Using the Integrative Model of Behavioral Prediction
-**年份**: 2018 | **DOI**: [10.1177/0192513X17698183](https://doi.org/10.1177/0192513X17698183)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17698183](https://doi.org/10.1177/0192513x17698183)
 **作者**: Byers, E. Sandra; Sears, Heather A.; Hughes, Kathleen
 **摘要**: Guided by the integrative model of behavioral prediction, we examined factors associated with more extensive mother-adolescent sexual communication. Participants were 303 mothers of young adolescents who completed a survey assessing their skills, attitudes about the outcomes of sexual health discuss…
 
 ### Predictors of Caregiver Communication About Reproductive and Sexual Health and Sensitive Sex Topics
-**年份**: 2018 | **DOI**: [10.1177/0192513X17741920](https://doi.org/10.1177/0192513X17741920)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17741920](https://doi.org/10.1177/0192513x17741920)
 **作者**: Ritchwood, Tiarney D.; Peasant, Courtney; Powell, Terrinieka W. 等6人
 **摘要**: Numerous studies examining parent-teen communication about sex (PTCS) have focused on reproductive and sexual health information (i.e., pregnancy, physical development, contraception), with significantly fewer addressing communication about sensitive sex topics (i.e., sexual pleasure, masturbation).…
 
 ### Psychological Acculturation and Parenting Behaviors in Mexican-Immigrant Families
-**年份**: 2018 | **DOI**: [10.1177/0192513X16687001](https://doi.org/10.1177/0192513X16687001)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16687001](https://doi.org/10.1177/0192513x16687001)
 **作者**: Gassman-Pines, Anna; Skinner, Ann T.
 **摘要**: This study examined the relation between mothers' and fathers' psychological acculturation and parenting behaviors in two samples of Mexican-immigrant families. The middle childhood sample included 47 mothers, 38 fathers, and 46 children in families with children aged 9 to 12 years, and the early ch…
 
 ### Qualitative Descriptions of Middle-Class, African American Mothers' Child-Rearing Practices and Values
-**年份**: 2018 | **DOI**: [10.1177/0192513X16683984](https://doi.org/10.1177/0192513X16683984)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16683984](https://doi.org/10.1177/0192513x16683984)
 **作者**: Curenton, Stephanie M.; Crowley, Jocelyn Elise; Mouzon, Dawne M.
 **摘要**: During qualitative phone interviews, middle-class, mostly married African American mothers (N = 25) describe their child-rearing responsibilities, practices, and values. They explain (a) why they decided to stay home or take work leave to attend to child rearing, (b) how they divided child-rearing r…
 
 ### Race, Generational Status, and the Dynamics of First-Marriage Transitions Among Black Immigrants in the United States
-**年份**: 2018 | **DOI**: [10.1177/0192513X17698185](https://doi.org/10.1177/0192513X17698185)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17698185](https://doi.org/10.1177/0192513x17698185)
 **作者**: Thomas, Kevin
 **摘要**: Previous studies give limited attention to the marital outcomes of Black immigrants in the United States. In this study, therefore, the main objective of the analysis is to examine the relationship between race-ethnicity, generational status, and first marriage among Black immigrants.…
 
 ### Racial Socialization Practices Among White American Parents: Relations to Racial Attitudes, Racial Identity, and School Diversity
-**年份**: 2018 | **DOI**: [10.1177/0192513X18800766](https://doi.org/10.1177/0192513X18800766)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18800766](https://doi.org/10.1177/0192513x18800766)
 **作者**: Zucker, Jenna Kelley; Patterson, Meagan M.
 **摘要**: This study examines racial socialization practices among White American parents (N = 154) of children aged 8 to 12 years, using both quantitative and qualitative measures, as well as the relations of racial attitudes, racial identity, and racial diversity of the schools that children attend to socia…
 
 ### Relationship Conflict, Work Conditions, and the Health of Mothers With Young Children
-**年份**: 2018 | **DOI**: [10.1177/0192513X18776415](https://doi.org/10.1177/0192513X18776415)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18776415](https://doi.org/10.1177/0192513x18776415)
 **作者**: Cozzolino, Elizabeth; Prickett, Kate C.; Crosnoe, Robert
 **摘要**: Past research has shown that marital conflict is associated with poorer health among women and that new children come with declines in relationship quality and increased stress. The primary aim of this study was to explore how these two patterns convergeand what might buffer the risks of both to wom…
 
 ### Relationship Satisfaction Among Infertile Couples: Implications of Gender and Self-Identification
-**年份**: 2018 | **DOI**: [10.1177/0192513X17699027](https://doi.org/10.1177/0192513X17699027)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17699027](https://doi.org/10.1177/0192513x17699027)
 **作者**: Greil, Arthur L.; Slauson-Blevins, Kathleen; McQuillan, Julia 等6人
 **摘要**: We use path analysis to analyze heterosexual couples from the U.S. National Survey of Fertility Barriers, a probability-based sample of women and their male partners. We restrict the sample to couples in which the women are infertile.…
 
 ### Religion and Relationship Quality Among Cohabiting and Dating Couples
-**年份**: 2018 | **DOI**: [10.1177/0192513X17728982](https://doi.org/10.1177/0192513X17728982)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17728982](https://doi.org/10.1177/0192513x17728982)
 **作者**: Henderson, Andrea K.; Ellison, Christopher G.; Glenn, Norval D.
 **摘要**: Despite research on religion and marriage, little is known about the role of religion in the relationships of nonmarried couples. This study addresses two questions: (a) Do various dimensions of religious involvementshared religious beliefs, affiliation and attendance, and theistic sanctificationinf…
 
 ### Religious Affiliation and Work-Family Conflict Among Women and Men
-**年份**: 2018 | **DOI**: [10.1177/0192513X17728985](https://doi.org/10.1177/0192513X17728985)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17728985](https://doi.org/10.1177/0192513x17728985)
 **作者**: May, Matthew; Reynolds, Jeremy
 **摘要**: Religion is an important part of life for many women and men. Research on religion and work-family issues, however, remains limited. To better understand how religion influences work-family experiences, we use data from the General Social Survey to examine subjective experiences of work-family confl…
 
 ### Reproductive Decision Making in Spain: Heterosexual Couples' Narratives About How They Chose to Have Children
-**年份**: 2018 | **DOI**: [10.1177/0192513X18783494](https://doi.org/10.1177/0192513X18783494)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18783494](https://doi.org/10.1177/0192513x18783494)
 **作者**: Alvarez, Bruna
 **摘要**: This article seeks to expand researchers' understanding of choice in the reproductive decision-making narratives of heterosexual couples to help explain fertility rates in Spain. The data comprise 32 interviews and two focus groups with heterosexual mothers and fathers.…
 
 ### Romantic Forecasts in Later Life: Older Single Women's Perspectives on Family and Kin Relationships
-**年份**: 2018 | **DOI**: [10.1177/0192513X16680011](https://doi.org/10.1177/0192513X16680011)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16680011](https://doi.org/10.1177/0192513x16680011)
 **作者**: McCann, Brandy Renee; Allen, Katherine R.
 **摘要**: This study examines the ways in which family and cultural context influence the romantic prospects of rural women in later life. Using a feminist life course perspective, we interviewed 14 single women over the age of 50 years who lived in rural Appalachia.…
 
 ### Same-Sex and Mixed-Sex Couples in the Netherlands: The Association Between Life Satisfaction and Relationship Dynamics
-**年份**: 2018 | **DOI**: [10.1177/0192513X17710771](https://doi.org/10.1177/0192513X17710771)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17710771](https://doi.org/10.1177/0192513x17710771)
 **作者**: Tornello, Samantha L.; Ivanova, Katya; Bos, H. M. W.
 **摘要**: Using a national sample of Dutch (N = 5,854) individuals in same-sex and mixed-sex relationships we explored the associations between relationship dynamics, both positive (partner support) and negative (conflict), and life satisfaction.…
 
 ### Sharing the Caring: Attitude-Behavior Discrepancies and Partnership Dynamics
-**年份**: 2018 | **DOI**: [10.1177/0192513X16680013](https://doi.org/10.1177/0192513X16680013)
+**年份**: 2018 | **DOI**: [10.1177/0192513x16680013](https://doi.org/10.1177/0192513x16680013)
 **作者**: Branden, Maria; Duvander, Ann-Zofie; Ohlsson-Wijk, Sofi
 **摘要**: Even though ideals in favor of gender equality in the private sphere are wide spread, discrepancies between ideals and actual behavior are common. Such discrepancies and potential dissatisfaction with gender unequal behavior within a couple are expected to influence partnership dynamics negatively.…
 
 ### Sibling Relationship in Foster Care: Foster Parent Perspective
-**年份**: 2018 | **DOI**: [10.1177/0192513X18758345](https://doi.org/10.1177/0192513X18758345)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18758345](https://doi.org/10.1177/0192513x18758345)
 **作者**: Wojciak, Armeda Stevenson; Range, Bryan P.; Gutierrez, Dumayi M. 等5人
 **摘要**: The sibling relationships of youth in foster care has garnered increased attention over the past few years indicating the potential protective role these relationships can have. Despite this growth, very little is known about how foster parents perceive the sibling relationships of youth in foster c…
 
 ### Silence and Censure: A Qualitative Analysis of Young Adults' Reflections on Communication With Parents Prior to First Sex
-**年份**: 2018 | **DOI**: [10.1177/0192513X15593576](https://doi.org/10.1177/0192513X15593576)
+**年份**: 2018 | **DOI**: [10.1177/0192513x15593576](https://doi.org/10.1177/0192513x15593576)
 **作者**: Goldfarb, Eva; Lieberman, Lisa; Kwiatkowski, Samantha 等4人
 **摘要**: Seventy-four first- and second-year students, participating in focus groups at a northeastern U.S. university, discussed recollections of messages received at home, prior to sexual debut, about sex and sexuality.…
 
 ### Single Motherhood and Life Satisfaction in Comparative Perspective: Do Institutional and Cultural Contexts Explain the Life Satisfaction Penalty for Single Mothers?
-**年份**: 2018 | **DOI**: [10.1177/0192513X17741178](https://doi.org/10.1177/0192513X17741178)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17741178](https://doi.org/10.1177/0192513x17741178)
 **作者**: Pollmann-Schult, Matthias
 **摘要**: Life satisfaction research regularly identifies single mothers as relatively unhappy. This comparative study refines this view by assessing how broader institutional and cultural contexts shape the life satisfaction of single mothers.…
 
 ### Stepchildren Claiming Stepparents
-**年份**: 2018 | **DOI**: [10.1177/0192513X17725878](https://doi.org/10.1177/0192513X17725878)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17725878](https://doi.org/10.1177/0192513x17725878)
 **作者**: Ganong, Lawrence; Coleman, Marilyn; Chapman, Ashton 等4人
 **摘要**: The purpose of this study was to examine the concept of stepchild claiming stepparents as parental figures or as kin. By examining the process of stepchildren claiming stepparents' as kin, we sought to explore the properties of the concept of stepchild claiming.…
 
 ### Stepmothers' Perceptions and Experiences of the Wicked Stepmother Stereotype
-**年份**: 2018 | **DOI**: [10.1177/0192513X17739049](https://doi.org/10.1177/0192513X17739049)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17739049](https://doi.org/10.1177/0192513x17739049)
 **作者**: Miller, Anna; Cartwright, Claire; Gibson, Kerry
 **摘要**: Stepfamilies are a common family form. Despite this, negative stereotypes of stepfamilies, and in particular, stepmothers still exist. This study used qualitative methods to examine stepmothers' experiences of the wicked stepmother stereotype.…
 
 ### Stop Yelling: Interparental Conflict and Adolescents' Self-Representations as Mediated by Their Perceived Relationships With Parents
-**年份**: 2018 | **DOI**: [10.1177/0192513X17741176](https://doi.org/10.1177/0192513X17741176)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17741176](https://doi.org/10.1177/0192513x17741176)
 **作者**: Silva, Carla Sofia; Calheiros, Maria Manuela
 **摘要**: Adolescents' perceptions of their relationship with both parents were examined as mediators linking interparental conflict to their self-representations (SR). Portuguese adolescents (N = 214; 58.4% girls), aged 10-16 years old (M = 13.39), attending public elementary and secondary schools, filled ou…
 
 ### Substance Use Behaviors and the Timing of Family Formation During Young Adulthood
-**年份**: 2018 | **DOI**: [10.1177/0192513X17710285](https://doi.org/10.1177/0192513X17710285)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17710285](https://doi.org/10.1177/0192513x17710285)
 **作者**: Jang, Bohyun Joy; Patrick, Megan E.; Schuler, Megan S.
 **摘要**: The impact of substance use on the life course of young adults can be substantial, yet few studies have examined to what extent early adult substance use behaviors are related to the timing of family formation, independent of confounding factors from adolescence.…
 
 ### The Asian Single Profiles: Discovering Many Faces of Never Married Adults in Asia
-**年份**: 2018 | **DOI**: [10.1177/0192513X18789205](https://doi.org/10.1177/0192513X18789205)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18789205](https://doi.org/10.1177/0192513x18789205)
 **作者**: Himawan, Karel Karsten; Bambling, Matthew; Edirippulige, Sisira
 **摘要**: There is a growing number of single people in the population in Asia, with a higher tendency for single people to be found in the East and Southeast Asia regions. Nevertheless, limited studies are available on the sociopsychological aspects of Asian singles.…
 
 ### The Chinese Postreform Generation as Caregivers: The Caregiving Intentions Toward Parents and Parents-in-Law of the One-Child Generation
-**年份**: 2018 | **DOI**: [10.1177/0192513X18789208](https://doi.org/10.1177/0192513X18789208)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18789208](https://doi.org/10.1177/0192513x18789208)
 **作者**: Warmenhoven, Helmut; Hoebink, Paul R. J.; Janssens, Jan M. A. M.
 **摘要**: The problem of population aging in China has been widely documented. As a result of decreasing birth rates due to the Chinese one-child policy, birth rates have decreased dramatically, while life expectancy has increased.…
 
 ### The Complexities of Family Health: Predicting Women's Employment
-**年份**: 2018 | **DOI**: [10.1177/0192513X17710281](https://doi.org/10.1177/0192513X17710281)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17710281](https://doi.org/10.1177/0192513x17710281)
 **作者**: Carson, Jessica A.
 **摘要**: There is a well-documented relationship between health and employment, and among women in particular, research ties health of the workers themselves and their family members to employment outcomes. However, little research considers the health of multiple family members simultaneously.…
 
 ### The Dynamics of Eudaimonic Well-Being in the Transition to Parenthood: Differences Between Fathers and Mothers
-**年份**: 2018 | **DOI**: [10.1177/0192513X18758344](https://doi.org/10.1177/0192513X18758344)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18758344](https://doi.org/10.1177/0192513x18758344)
 **作者**: Brandel, Martina; Melchiorri, Erika; Ruini, Chiara
 **摘要**: Little is known about changes in existential dimensions of well-being (i.e., eudaimonic well-being) when becoming a parent, particularly in men. This study examined eudaimonic well-being during the transition to parenthood, considering depressive symptoms and gender differences.…
 
 ### The Forgotten Parent: The Targeted Parent Perspective of Parental Alienation
-**年份**: 2018 | **DOI**: [10.1177/0192513X18777867](https://doi.org/10.1177/0192513X18777867)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18777867](https://doi.org/10.1177/0192513x18777867)
 **作者**: Poustie, Clare; Matthewson, Mandy; Balmer, Sian
 **摘要**: This study investigated the targeted parent experience of parental alienation and alienating behaviors. One hundred and twenty-six targeted parents provided narratives in response to an open-ended question at the end of an online survey.…
 
 ### The Good Enough Parent: Perfectionism and Relationship Satisfaction Among Parents and Nonparents
-**年份**: 2018 | **DOI**: [10.1177/0192513X18763226](https://doi.org/10.1177/0192513X18763226)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18763226](https://doi.org/10.1177/0192513x18763226)
 **作者**: Trub, Leora; Powell, Jessica; Biscardi, Krystin 等4人
 **摘要**: Relationship satisfaction has profound implications for psychological and physical well-being, yet it significantly decreases while couples are raising children. Perfectionismthe tendency to expect perfection from oneself, others, and/or to perceive expectations of perfection as coming from othersha…
 
 ### The Heterogeneity of Family: Responses to Representational Invisibility by LGBTQ Parents
-**年份**: 2018 | **DOI**: [10.1177/0192513X18810952](https://doi.org/10.1177/0192513X18810952)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18810952](https://doi.org/10.1177/0192513x18810952)
 **作者**: Reed, Elizabeth
 **摘要**: This article draws on qualitative research data collected in semistructured interviews conducted during 2013 and 2014 with 30 lesbian, gay, bisexual, trans, and queer (LGBTQ) parents living in England and Scotland.…
 
 ### The Impact of Shelter Environment, Parental Communication, and Supervision on Depression Outcomes Among an Urban Sample of Adolescent First-Time Shelter Users in New York City
-**年份**: 2018 | **DOI**: [10.1177/0192513X18770224](https://doi.org/10.1177/0192513X18770224)
+**年份**: 2018 | **DOI**: [10.1177/0192513x18770224](https://doi.org/10.1177/0192513x18770224)
 **作者**: Alleyne-Green, Binta; Kulick, Alex; Osuji, Hadiza L. 等5人
 **摘要**: Using data from the cross-sectional HIV prevention Outreach for Parents and Early Adolescents (HOPE) study, we explored the impact of shelter environment, quality parenting, as well as the effects of gender and first-time shelter use on depression outcomes among 243 adolescent shelter users in New Y…
 
 ### The Impact of Ultrasound on Prenatal Attachment Among Disembodied and Embodied Knowers
-**年份**: 2018 | **DOI**: [10.1177/0192513X17710774](https://doi.org/10.1177/0192513X17710774)
+**年份**: 2018 | **DOI**: [10.1177/0192513x17710774](https://doi.org/10.1177/0192513x17710774)
 **作者**: Harpel, Tammy S.; Barras, Kari Gentry
 **摘要**: Utilizing data from three studies that each focused on a different population (expectant mothers, expectant grandmothers, expectant fathers), this study sought to explore the perceived impact of ultrasound technology on feelings of prenatal attachment, hypothesizing significant differences in percei…
 
 ### The Return of Superman? Individual and Organizational Predictors of Men's Housework in South Korea
-**年份**: 2018 | **DOI**: [10.1177/0192513X15621345](https://doi.org/10.1177/0192513X15621345)
+**年份**: 2018 | **DOI**: [10.1177/0192513x15621345](https://doi.org/10.1177/0192513x15621345)
 **作者**: Moon, Sue H.; Shin, Jongtae
 **摘要**: In this survey study, we investigate factors that predict the extent of men's engagement in housework in South Korea. Using data collected from 466 working fathers during the period from March 2013 to August 2013, it was found that a more egalitarian gender ideology and supervisor support for work-f…
-
-### The Role of High Parental Expectations in Adolescents' Academic Performance and Depression in Hong Kong
-**年份**: 2018 | **DOI**: [10.1177/0192513X18755194](https://doi.org/10.1177/0192513X18755194)
-**作者**: Ma, Ying; Siu, Angela; Tse, Wai Shing
-**摘要**: Extensive research has demonstrated the positive relationship between parental expectations and adolescents' academic performance. However, little attention has been paid to the negative influence of parental expectations on adolescents' emotion well-being.…
-
-### The Role of Partners' Support for Women's Reentry Into Employment After a Child-Related Career Break in Germany
-**年份**: 2018 | **DOI**: [10.1177/0192513X16653435](https://doi.org/10.1177/0192513X16653435)
-**作者**: Broeckel, Miriam
-**摘要**: In the present study, the effect of partners' social support on women's reentry into the labor market is examined by means of discrete-time event history analysis using the German Socio-Economic Panel (1984-2013). In doing so, we take into account partners' instrumental and emotional support.…
-
-### There Is Nobody to Rely on: Cracks in the Intergenerational Contract Among the Elders in Arab Society in Israel
-**年份**: 2018 | **DOI**: [10.1177/0192513X18770234](https://doi.org/10.1177/0192513X18770234)
-**作者**: Manor, Shlomit
-**摘要**: This study aims to examine the ways that old Palestinian Arabs in Israel experience and talk about ageing. Semistructured in-depth interviews were conducted among 25 Arab men and women, Muslims and Christians, aged 65 to 85 years.…
-
-### Time Off After Childbirth and Mothers' Risk of Depression, Parenting Stress, and Parenting Practices
-**年份**: 2018 | **DOI**: [10.1177/0192513X17728984](https://doi.org/10.1177/0192513X17728984)
-**作者**: Petts, Richard J.
-**摘要**: There has been increased interest in U.S. parental leave policies, but relatively few studies have focused on how such policies may influence mothers' well-being and parenting. This study addresses this gap by using data from the Fragile Families and Child Wellbeing Study to examine factors that pre…
-
-### Transmission of Religiosity From Parent to Child: Moderation by Perceived Parental Depression and Anxiety
-**年份**: 2018 | **DOI**: [10.1177/0192513X18776355](https://doi.org/10.1177/0192513X18776355)
-**作者**: Stearns, Melanie; McKinney, Cliff
-**摘要**: Although parents have a strong influence on their children's religiosity, little research has been conducted on how different parental anxiety and depressive problems affect the transmission of religiosity.…
-
-### Ultraorthodox Jewish Fathers in Israel: Predictors of Involvement and Acceptance
-**年份**: 2018 | **DOI**: [10.1177/0192513X18761118](https://doi.org/10.1177/0192513X18761118)
-**作者**: Finzi-Dottan, Ricky; Gilerenter, Nehama
-**摘要**: Based on Belsky's model of parenting determinants, paternal involvement and acceptance were compared among 134 ultraorthodox Jewish fathers and 144 secular Jewish fathers. The predictors examined were experiences of care and control from own fathers, perceived parental competence, and social support…
-
-### University Students' Perceptions of Parents and Childless or Childfree Couples
-**年份**: 2018 | **DOI**: [10.1177/0192513X15618993](https://doi.org/10.1177/0192513X15618993)
-**作者**: Koropeckyj-Cox, Tanya; Copur, Zeynep; Romano, Victor 等4人
-**摘要**: Earlier studies have documented persistent negative stereotypes of childless or childfree adults, though acceptance has increased in recent decades. Recent studies have also shown negative biases against parents, especially mothers, in work-related contexts.…
-
-### We Wanted a Forever Family: Altruistic, Individualistic, and Motivated Reasoning Motivations for Adoption Among LGBTQ Individuals
-**年份**: 2018 | **DOI**: [10.1177/0192513X18810948](https://doi.org/10.1177/0192513X18810948)
-**作者**: Costa, Pedro Alexandre; Tasker, Fiona
-**摘要**: The purpose of this study was to explore motivations for adoption among a diverse sample of LGBTQ adoptive parents and prospective adopters (n = 366) who were recruited through a U.K. network of LGBTQ adoptive and foster families to complete an online survey.…
-
-### What's in a Word? Naming Obligations
-**年份**: 2018 | **DOI**: [10.1177/0192513X18777843](https://doi.org/10.1177/0192513X18777843)
-**作者**: Chapman, Ashton; Ganong, Lawrence; Coleman, Marilyn 等5人
-**摘要**: Although obligation is believed to be a central component of family relationships, empirical investigation of if, how, and to what extent connotations associated with terms commonly used to denote family obligation affect exchanges of family support remains limited.…
-
-### When Late-Life Repartnering and Parental Death Intertwine: Adult Children's Perspectives
-**年份**: 2018 | **DOI**: [10.1177/0192513X17720758](https://doi.org/10.1177/0192513X17720758)
-**作者**: Simhi-Meidani, Shiran; Koren, Chaya
-**摘要**: Late-life repartnering is a phenomenon developing as life-expectancy increases, creating complex stepfamilies constructed in old age. Adult children and parents' well-being could be influenced by adult children's experiences of one parent's late-life repartnering after the death of the other parent.…
-
-### Who Cares? Motivations for Unregulated Child Care Use
-**年份**: 2018 | **DOI**: [10.1177/0192513X18806025](https://doi.org/10.1177/0192513X18806025)
-**作者**: Breitkreuz, Rhonda; Colen, Kerryn
-**摘要**: This article explores the motivations for unregulated child care use within Canada. Using focus group data from 109 mothers, we analyze unregulated child care use within a policy context in which regulated child care is only available for 20% of preschool children.…
-
-### Working While Caring for Mom, Dad, and Junior Too: Exploring the Impact of Employees' Caregiving Situation on Demands, Control, and Perceived Stress
-**年份**: 2018 | **DOI**: [10.1177/0192513X18777839](https://doi.org/10.1177/0192513X18777839)
-**作者**: Halinski, Michael; Duxbury, Linda; Higgins, Chris
-**摘要**: Although demographic evidence suggests that, in the developed world, the number of employees who provide both childcare and eldercare is substantial, we know very little about how these sandwiched employees differ from those who provide only one form of caregiving (i.e., childcare, eldercare).…
-
-### You Know What You Gotta Do: African American Fathers and Sons Perspectives' on Parent-Child Sexual Risk Communication and HIV Intervention Development Needs
-**年份**: 2018 | **DOI**: [10.1177/0192513X17720960](https://doi.org/10.1177/0192513X17720960)
-**作者**: Baker, Jillian Lucas; Lanier, Yzette; James, George 等9人
-**摘要**: Context: Although parents can be influential toward the sexual attitudes and behaviors of adolescents, fathers are significantly underrepresented in studies of parental influences on adolescent sexual practices and behaviors.…
 
 ### The Role of Attachment of Each Partner on Marital Adjustment
 **年份**: 2018 | **DOI**: [10.1177/0192513x18812005](https://doi.org/10.1177/0192513x18812005)
 **作者**: Siegel, Alana; Levin, Yafit; Solomon, Zahava
 **摘要**: This study conducted a latent profile analysis on quantitative data gathered from 156 married couples, so to learn more about the role of attachment and gender in marital adjustment.…
+
+### The Role of High Parental Expectations in Adolescents' Academic Performance and Depression in Hong Kong
+**年份**: 2018 | **DOI**: [10.1177/0192513x18755194](https://doi.org/10.1177/0192513x18755194)
+**作者**: Ma, Ying; Siu, Angela; Tse, Wai Shing
+**摘要**: Extensive research has demonstrated the positive relationship between parental expectations and adolescents' academic performance. However, little attention has been paid to the negative influence of parental expectations on adolescents' emotion well-being.…
+
+### The Role of Partners' Support for Women's Reentry Into Employment After a Child-Related Career Break in Germany
+**年份**: 2018 | **DOI**: [10.1177/0192513x16653435](https://doi.org/10.1177/0192513x16653435)
+**作者**: Broeckel, Miriam
+**摘要**: In the present study, the effect of partners' social support on women's reentry into the labor market is examined by means of discrete-time event history analysis using the German Socio-Economic Panel (1984-2013). In doing so, we take into account partners' instrumental and emotional support.…
+
+### There Is Nobody to Rely on: Cracks in the Intergenerational Contract Among the Elders in Arab Society in Israel
+**年份**: 2018 | **DOI**: [10.1177/0192513x18770234](https://doi.org/10.1177/0192513x18770234)
+**作者**: Manor, Shlomit
+**摘要**: This study aims to examine the ways that old Palestinian Arabs in Israel experience and talk about ageing. Semistructured in-depth interviews were conducted among 25 Arab men and women, Muslims and Christians, aged 65 to 85 years.…
+
+### Time Off After Childbirth and Mothers' Risk of Depression, Parenting Stress, and Parenting Practices
+**年份**: 2018 | **DOI**: [10.1177/0192513x17728984](https://doi.org/10.1177/0192513x17728984)
+**作者**: Petts, Richard J.
+**摘要**: There has been increased interest in U.S. parental leave policies, but relatively few studies have focused on how such policies may influence mothers' well-being and parenting. This study addresses this gap by using data from the Fragile Families and Child Wellbeing Study to examine factors that pre…
+
+### Transmission of Religiosity From Parent to Child: Moderation by Perceived Parental Depression and Anxiety
+**年份**: 2018 | **DOI**: [10.1177/0192513x18776355](https://doi.org/10.1177/0192513x18776355)
+**作者**: Stearns, Melanie; McKinney, Cliff
+**摘要**: Although parents have a strong influence on their children's religiosity, little research has been conducted on how different parental anxiety and depressive problems affect the transmission of religiosity.…
+
+### Ultraorthodox Jewish Fathers in Israel: Predictors of Involvement and Acceptance
+**年份**: 2018 | **DOI**: [10.1177/0192513x18761118](https://doi.org/10.1177/0192513x18761118)
+**作者**: Finzi-Dottan, Ricky; Gilerenter, Nehama
+**摘要**: Based on Belsky's model of parenting determinants, paternal involvement and acceptance were compared among 134 ultraorthodox Jewish fathers and 144 secular Jewish fathers. The predictors examined were experiences of care and control from own fathers, perceived parental competence, and social support…
+
+### University Students' Perceptions of Parents and Childless or Childfree Couples
+**年份**: 2018 | **DOI**: [10.1177/0192513x15618993](https://doi.org/10.1177/0192513x15618993)
+**作者**: Koropeckyj-Cox, Tanya; Copur, Zeynep; Romano, Victor 等4人
+**摘要**: Earlier studies have documented persistent negative stereotypes of childless or childfree adults, though acceptance has increased in recent decades. Recent studies have also shown negative biases against parents, especially mothers, in work-related contexts.…
+
+### We Wanted a Forever Family: Altruistic, Individualistic, and Motivated Reasoning Motivations for Adoption Among LGBTQ Individuals
+**年份**: 2018 | **DOI**: [10.1177/0192513x18810948](https://doi.org/10.1177/0192513x18810948)
+**作者**: Costa, Pedro Alexandre; Tasker, Fiona
+**摘要**: The purpose of this study was to explore motivations for adoption among a diverse sample of LGBTQ adoptive parents and prospective adopters (n = 366) who were recruited through a U.K. network of LGBTQ adoptive and foster families to complete an online survey.…
+
+### What's in a Word? Naming Obligations
+**年份**: 2018 | **DOI**: [10.1177/0192513x18777843](https://doi.org/10.1177/0192513x18777843)
+**作者**: Chapman, Ashton; Ganong, Lawrence; Coleman, Marilyn 等5人
+**摘要**: Although obligation is believed to be a central component of family relationships, empirical investigation of if, how, and to what extent connotations associated with terms commonly used to denote family obligation affect exchanges of family support remains limited.…
+
+### When Late-Life Repartnering and Parental Death Intertwine: Adult Children's Perspectives
+**年份**: 2018 | **DOI**: [10.1177/0192513x17720758](https://doi.org/10.1177/0192513x17720758)
+**作者**: Simhi-Meidani, Shiran; Koren, Chaya
+**摘要**: Late-life repartnering is a phenomenon developing as life-expectancy increases, creating complex stepfamilies constructed in old age. Adult children and parents' well-being could be influenced by adult children's experiences of one parent's late-life repartnering after the death of the other parent.…
+
+### Who Cares? Motivations for Unregulated Child Care Use
+**年份**: 2018 | **DOI**: [10.1177/0192513x18806025](https://doi.org/10.1177/0192513x18806025)
+**作者**: Breitkreuz, Rhonda; Colen, Kerryn
+**摘要**: This article explores the motivations for unregulated child care use within Canada. Using focus group data from 109 mothers, we analyze unregulated child care use within a policy context in which regulated child care is only available for 20% of preschool children.…
+
+### Working While Caring for Mom, Dad, and Junior Too: Exploring the Impact of Employees' Caregiving Situation on Demands, Control, and Perceived Stress
+**年份**: 2018 | **DOI**: [10.1177/0192513x18777839](https://doi.org/10.1177/0192513x18777839)
+**作者**: Halinski, Michael; Duxbury, Linda; Higgins, Chris
+**摘要**: Although demographic evidence suggests that, in the developed world, the number of employees who provide both childcare and eldercare is substantial, we know very little about how these sandwiched employees differ from those who provide only one form of caregiving (i.e., childcare, eldercare).…
+
+### You Know What You Gotta Do: African American Fathers and Sons Perspectives' on Parent-Child Sexual Risk Communication and HIV Intervention Development Needs
+**年份**: 2018 | **DOI**: [10.1177/0192513x17720960](https://doi.org/10.1177/0192513x17720960)
+**作者**: Baker, Jillian Lucas; Lanier, Yzette; James, George 等9人
+**摘要**: Context: Although parents can be influential toward the sexual attitudes and behaviors of adolescents, fathers are significantly underrepresented in studies of parental influences on adolescent sexual practices and behaviors.…
 
 ### A Brief Tribute to Murray A. Straus
 **年份**: 2017 | **DOI**: [10.1177/0192513x17728192](https://doi.org/10.1177/0192513x17728192)

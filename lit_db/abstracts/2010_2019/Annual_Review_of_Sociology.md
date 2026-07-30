@@ -1,7 +1,7 @@
 # Annual Review of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **255** 篇
+共 **261** 篇
 
 ---
 
@@ -9,6 +9,11 @@
 **年份**: 2019 | **DOI**: [10.1146/annurev-soc-073117-041351](https://doi.org/10.1146/annurev-soc-073117-041351)
 **作者**: Crimmins, Eileen M.; Zhang, Yuan S.
 **摘要**: Life expectancy has long been seen as an indicator of the quality of life as well as the health of a population. Recent trends in US life expectancy show growing inequality in life expectancy for some socioeconomic and geographic groupings but diminishing inequality by race and gender.…
+
+### Analyzing Age-Period-Cohort Data: A Review and Critique
+**年份**: 2019 | **DOI**: [10.1146/annurev-soc-073018-022616](https://doi.org/10.1146/annurev-soc-073018-022616)
+**作者**: Fosse, Ethan; Winship, Christopher
+**摘要**: Age-period-cohort (APC) analysis has a long, controversial history in sociology and related fields. Despite the existence of hundreds, if not thousands, of articles and dozens of books, there is little agreement on how to adequately analyze APC data.…
 
 ### Assimilation and the Second Generation in Europe and America: Blending and Segregating Social Dynamics Between Immigrants and Natives
 **年份**: 2019 | **DOI**: [10.1146/annurev-soc-073117-041335](https://doi.org/10.1146/annurev-soc-073117-041335)
@@ -214,6 +219,11 @@
 **年份**: 2018 | **DOI**: [10.1146/annurev-soc-073117-041429](https://doi.org/10.1146/annurev-soc-073117-041429)
 **作者**: Breen, Richard; Karlson, Kristian Bernt; Holm, Anders
 **摘要**: Methods textbooks in sociology and other social sciences routinely recommend the use of the logit or probit model when an outcome variable is binary, an ordered logit or ordered probit when it is ordinal, and a multinomial logit when it has more than two categories.…
+
+### Latin America, a Continent in Movement but Where To? A Review of Social Movements' Studies in the Region
+**年份**: 2018 | **DOI**: [10.1146/annurev-soc-073117-041043](https://doi.org/10.1146/annurev-soc-073117-041043)
+**作者**: Inclán, María
+**摘要**: This article offers a review of the most salient studies on Latin American social movements published in the last 25 years. It not only assesses the questions and empirical implications that these studies have uncovered, but it also points out theoretical and empirical puzzles that are currently inv…
 
 ### Modern Trafficking, Slavery, and Other Forms of Servitude
 **年份**: 2018 | **DOI**: [10.1146/annurev-soc-073117-041147](https://doi.org/10.1146/annurev-soc-073117-041147)
@@ -429,6 +439,11 @@
 **年份**: 2016 | **DOI**: [10.1146/annurev-soc-073014-112149](https://doi.org/10.1146/annurev-soc-073014-112149)
 **作者**: Redbird, Beth; Grusky, David B.
 **摘要**: We review the main distributional effects of the Great Recession and the ways in which those effects have been organized into narratives. The Great Recession may affect poverty, inequality, and other economic and noneconomic outcomes by changing individual- level behavior, encouraging the rise of ne…
+
+### Estudios Sobre Religión en America Latina
+**年份**: 2016 | **DOI**: [10.1146/annurev-soc-011618-115530](https://doi.org/10.1146/annurev-soc-011618-115530)
+**作者**: de la Torre, Renée; Martín, Eloisa
+**摘要**: Este artículo presenta una revisión crítica de las contribuciones recientes de la investigación sobre religión en América Latina. Por mucho tiempo, los cientistas sociales han considerado que la religión católica es un rasgo característico de la cultura y las sociedades de esta región, motivo por el…
 
 ### Explaining Corruption in the Developed World: The Potential of Sociological Approaches
 **年份**: 2016 | **DOI**: [10.1146/annurev-soc-081715-074213](https://doi.org/10.1146/annurev-soc-081715-074213)
@@ -700,6 +715,11 @@
 **作者**: Davidov, Eldad; Meuleman, Bart; Cieciuch, Jan 等5人
 **摘要**: Determining whether people in certain countries score differently in measurements of interest or whether concepts relate differently to each other across nations can indisputably assist in testing theories and advancing our sociological knowledge.…
 
+### Movilidad Intergeneracional y Desigualdad: El Caso Latinoamericano
+**年份**: 2014 | **DOI**: [10.1146/annurev-soc-062215-092006](https://doi.org/10.1146/annurev-soc-062215-092006)
+**作者**: Torche, Florencia
+**摘要**: El estudio de la movilidad ha cobrado importancia en la última década en Latinoamérica, empujado por la reciente disponibilidad de datos y por una renovada preocupación por la igualdad de oportunidades.…
+
 ### Panethnicity
 **年份**: 2014 | **DOI**: [10.1146/annurev-soc-071913-043201](https://doi.org/10.1146/annurev-soc-071913-043201)
 **作者**: Okamoto, Dina; Mora, G. Cristina
@@ -744,6 +764,11 @@
 **年份**: 2014 | **DOI**: [10.1146/annurev-soc-071913-043131](https://doi.org/10.1146/annurev-soc-071913-043131)
 **作者**: Steinmetz, George
 **摘要**: Sociologists are adding specific disciplinary accents to the burgeoning literature in colonial, imperial, and postcolonial studies. They have been especially keen to add explanatory accounts to the historical literature on empires.…
+
+### Transiciones a la Vida Adulta en Países en Desarrollo
+**年份**: 2014 | **DOI**: [10.1146/annurev-soc-071312-145709](https://doi.org/10.1146/annurev-soc-071312-145709)
+**作者**: Juárez, Fatima; Gayet, Cecilia
+**摘要**: El estudio sobre las transiciones a la vida adulta que realizan los jóvenes en países en desarrollo amerita una revisión por los nuevos acontecimientos que afectan los distintos ámbitos de la vida.…
 
 ### Transitions to Adulthood in Developing Countries
 **年份**: 2014 | **DOI**: [10.1146/annurev-soc-052914-085540](https://doi.org/10.1146/annurev-soc-052914-085540)
@@ -829,6 +854,11 @@
 **年份**: 2013 | **DOI**: [10.1146/annurev-soc-071312-145643](https://doi.org/10.1146/annurev-soc-071312-145643)
 **作者**: Moore, Mignon R.; Stambolis-Ruhstorfer, Michael
 **摘要**: Since the start of the twenty-first century, the literature on same-sex couple relationships and families headed by single parents who identify as lesbian or gay has grown exponentially, and research published in the past 10 to 15 years tackles many new questions about sexual minority families.…
+
+### Migración Internacional y Cambios Familiares en las Comunidades de Origen. Transformaciones y Resistencias
+**年份**: 2013 | **DOI**: [10.1146/annurev-soc-071312-145624](https://doi.org/10.1146/annurev-soc-071312-145624)
+**作者**: Arias, Patricia
+**摘要**: Este artículo revisa los hallazgos y discusiones antropológicas y sociológicas de investigaciones recientes en torno a los impactos que puede haber acarreado la migración internacional en las dinámicas familiares de los hogares—campesinos e indígenas—en las comunidades de origen en México.…
 
 ### Multiculturalism and Immigration: A Contested Field in Cross-National Comparison
 **年份**: 2013 | **DOI**: [10.1146/annurev-soc-071312-145630](https://doi.org/10.1146/annurev-soc-071312-145630)

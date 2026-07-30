@@ -2,7 +2,7 @@
 build_articles.py — 数据清洗与合并脚本
 读取所有 .xls 文件，统一字段名，去重后输出：
   - articles.json（新格式：title/abstract/authors/journal/year/doi）
-  - data.json + data.js（旧格式，保持 index.html 兼容性）
+  - data.json（旧格式，供网页回退模式使用）
 """
 import json
 import re
@@ -11,6 +11,7 @@ from pathlib import Path
 import xlrd
 
 from _paths import ROOT
+from clean_data import redact_contact_data
 
 RAW_DATA = ROOT / "raw_data"   # XLS 原始文件目录
 
@@ -203,6 +204,8 @@ def main():
 
     print(f"\n合并后共 {len(all_articles):,} 条，开始去重...")
     deduped = deduplicate(all_articles)
+    for article in deduped:
+        article["abstract"] = redact_contact_data(article.get("abstract", ""))
     print(f"去重后共 {len(deduped):,} 条")
 
     # 按期刊+年份排序
@@ -220,14 +223,6 @@ def main():
     with open(out_data_json, "w", encoding="utf-8") as f:
         json.dump(legacy, f, ensure_ascii=False, indent=2)
     print(f"已写入: {out_data_json} ({len(legacy):,} 条)")
-
-    # 写 data.js
-    out_data_js = ROOT / "data.js"
-    with open(out_data_js, "w", encoding="utf-8") as f:
-        f.write("const DATA = ")
-        json.dump(legacy, f, ensure_ascii=False, indent=2)
-        f.write(";\n")
-    print(f"已写入: {out_data_js}")
 
     # 统计
     from collections import Counter

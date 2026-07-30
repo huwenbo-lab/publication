@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>文献库</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="style.css">
     <link rel="search" type="application/opensearchdescription+xml" href="opensearch.xml" title="期刊文献数据库搜索">
 </head>
@@ -122,7 +123,7 @@
             </div>
         </div>
 
-        <section class="sync-panel" aria-label="Favorite sync">
+        <form class="sync-panel" aria-label="Favorite sync">
             <div class="sync-grid">
                 <label class="field-label" for="sync-endpoint">
                     <span>Sync endpoint</span>
@@ -139,7 +140,7 @@
                 </div>
             </div>
             <p id="sync-status" class="sync-status" role="status" aria-live="polite"></p>
-        </section>
+        </form>
 
         <div class="favorites-workspace">
             <aside class="favorites-tree-panel" aria-label="Favorite folders">

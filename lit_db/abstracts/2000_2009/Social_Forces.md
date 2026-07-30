@@ -343,7 +343,7 @@
 ### Why We Need To Learn More About Youth Civic Engagement
 **年份**: 2009 | **DOI**: [10.1353/sof.0.0253](https://doi.org/10.1353/sof.0.0253)
 **作者**: Youniss, J.
-**摘要**: Why We Need To Learn More About Youth Civic Engagement James Youniss James Youniss Catholic University of America Direct correspondence to James Youniss, Department of Psychology, Catholic University of America, Washington, DC 20064. Phone: 202-319-5958. E-mail: youniss@cua.edu.…
+**摘要**: Why We Need To Learn More About Youth Civic Engagement James Youniss James Youniss Catholic University of America Direct correspondence to James Youniss, Department of Psychology, Catholic University of America, Washington, DC 20064. Phone: 202-319-5958. E-mail: [contact email removed].…
 
 ### A New Generation of Women? How Female ROTC Cadets Negotiate the Tension between Masculine Military Culture and Traditional Femininity
 **年份**: 2008 | **DOI**: [10.1353/sof.0.0138](https://doi.org/10.1353/sof.0.0138)
@@ -567,7 +567,7 @@
 ### Poor People, Poor Places and Access to Health Care in the United States
 **年份**: 2008 | **DOI**: [10.1353/sof.0.0062](https://doi.org/10.1353/sof.0.0062)
 **作者**: Kirby, J. B.
-**摘要**: Journal Article Poor People, Poor Places and Access to Health Care in the United States Get access James B. Kirby James B. Kirby Agency for Healthcare Research and Quality Direct correspondence to James Kirby, AHRQ-CFACT, 540 Gaither Road, Rockville, MD 20850. E-mail: jkirby@ahrq.gov.…
+**摘要**: Journal Article Poor People, Poor Places and Access to Health Care in the United States Get access James B. Kirby James B. Kirby Agency for Healthcare Research and Quality Direct correspondence to James Kirby, AHRQ-CFACT, 540 Gaither Road, Rockville, MD 20850. E-mail: [contact email removed].…
 
 ### Population Composition, Migration and Inequality: The Influence of Demographic Changes on Disaster Risk and Vulnerability
 **年份**: 2008 | **DOI**: [10.1353/sof.0.0141](https://doi.org/10.1353/sof.0.0141)
@@ -856,7 +856,7 @@
 ### Measuring Religion in Global Civil Society
 **年份**: 2007 | **DOI**: [10.1353/sof.2007.0063](https://doi.org/10.1353/sof.2007.0063)
 **作者**: Bush, E. L.
-**摘要**: Journal Article Measuring Religion in Global Civil Society Get access Evelyn L. Bush Evelyn L. Bush Fordham University Direct correspondence to Evelyn L. Bush, Department of Sociology and Anthropology, Fordham University, 441 East Fordham Road, Bronx, NY 10458-9993. Email: ebush@fordham.edu.…
+**摘要**: Journal Article Measuring Religion in Global Civil Society Get access Evelyn L. Bush Evelyn L. Bush Fordham University Direct correspondence to Evelyn L. Bush, Department of Sociology and Anthropology, Fordham University, 441 East Fordham Road, Bronx, NY 10458-9993. Email: [contact email removed].…
 
 ### Mixed Race: Understanding Difference in the Genome Era
 **年份**: 2007 | **DOI**: [10.1093/sf/86.2.795](https://doi.org/10.1093/sf/86.2.795)
@@ -1005,7 +1005,7 @@
 ### Upward Wealth Mobility: Exploring the Roman Catholic Advantage
 **年份**: 2007 | **DOI**: [10.1353/sof.2007.0044](https://doi.org/10.1353/sof.2007.0044)
 **作者**: Keister, L. A.
-**摘要**: Journal Article Upward Wealth Mobility: Exploring the Roman Catholic Advantage Get access Lisa A. Keister Lisa A. Keister Duke University Direct correspondence to Lisa A. Keister, Duke University, P.O. Box 90088, 268 Sociology/ Psychology Building Durham, NC 27708. E-mail: Lkeister@soc.duke.edu.…
+**摘要**: Journal Article Upward Wealth Mobility: Exploring the Roman Catholic Advantage Get access Lisa A. Keister Lisa A. Keister Duke University Direct correspondence to Lisa A. Keister, Duke University, P.O. Box 90088, 268 Sociology/ Psychology Building Durham, NC 27708. E-mail: [contact email removed].…
 
 ### Urbanization and Spatial Organization: Hospital and Orphanage Location in Chicago, 1848-1916
 **年份**: 2007 | **DOI**: [10.1353/sof.2007.0033](https://doi.org/10.1353/sof.2007.0033)
@@ -1055,7 +1055,7 @@
 ### Affect Control in International Interactions
 **年份**: 2006 | **DOI**: [10.1353/sof.2007.0007](https://doi.org/10.1353/sof.2007.0007)
 **作者**: Heise, D. R.; Lerner, S. J.
-**摘要**: Journal Article Affect Control in International Interactions Get access David R. Heise, David R. Heise Indiana University Direct correspondence to David R. Heise, Department of Sociology, Indiana University, Bloomington, IN 47405. E-mail: heise@indiana.edu.…
+**摘要**: Journal Article Affect Control in International Interactions Get access David R. Heise, David R. Heise Indiana University Direct correspondence to David R. Heise, Department of Sociology, Indiana University, Bloomington, IN 47405. E-mail: [contact email removed].…
 
 ### Affect, Meaning and Quality of Life
 **年份**: 2006 | **DOI**: [10.1353/sof.2007.0009](https://doi.org/10.1353/sof.2007.0009)
@@ -1095,7 +1095,7 @@
 ### Conflict and Fairness in Social Exchange
 **年份**: 2006 | **DOI**: [10.1353/sof.2006.0100](https://doi.org/10.1353/sof.2006.0100)
 **作者**: Molm, L. D.; Collett, J. L.; Schaefer, D. R.
-**摘要**: Journal Article Conflict and Fairness in Social Exchange Get access Linda D. Molm, Linda D. Molm University of Arizona Direct correspondence to Linda D. Molm, Department of Sociology, University of Arizona, Tucson, AZ 85721. E-mail: molml@u.arizona.edu.…
+**摘要**: Journal Article Conflict and Fairness in Social Exchange Get access Linda D. Molm, Linda D. Molm University of Arizona Direct correspondence to Linda D. Molm, Department of Sociology, University of Arizona, Tucson, AZ 85721. E-mail: [contact email removed].…
 
 ### Consensus and the Creation of Status Beliefs
 **年份**: 2006 | **DOI**: [10.1353/sof.2006.0139](https://doi.org/10.1353/sof.2006.0139)
@@ -1105,7 +1105,7 @@
 ### Coping with Rural Poverty: Economic Survival and Moral Capital in Rural America
 **年份**: 2006 | **DOI**: [10.1353/sof.2007.0026](https://doi.org/10.1353/sof.2007.0026)
 **作者**: Sherman, J.
-**摘要**: Journal Article Coping with Rural Poverty: Economic Survival and Moral Capital in Rural America Get access Jennifer Sherman Jennifer Sherman University of California, Berkeley Direct correspondence to Jennifer Sherman, 410 Barrows Hall, Berkeley, CA 94720. E-mail: jsherman@berkeley.edu.…
+**摘要**: Journal Article Coping with Rural Poverty: Economic Survival and Moral Capital in Rural America Get access Jennifer Sherman Jennifer Sherman University of California, Berkeley Direct correspondence to Jennifer Sherman, 410 Barrows Hall, Berkeley, CA 94720. E-mail: [contact email removed].…
 
 ### Cross-National Differences in the Skills-Earnings Relationship: The Role of Labor Market Institutions
 **年份**: 2006 | **DOI**: [10.1353/sof.2006.0046](https://doi.org/10.1353/sof.2006.0046)
@@ -1170,7 +1170,7 @@
 ### Economic Globalization, Industrialization and Deindustrialization in Affluent Democracies
 **年份**: 2006 | **DOI**: [10.1353/sof.2006.0117](https://doi.org/10.1353/sof.2006.0117)
 **作者**: Brady, D.; Denniston, R.
-**摘要**: Journal Article Economic Globalization, Industrialization and Deindustrialization in Affluent Democracies Get access David Brady, David Brady Duke University Direct correspondence to David Brady, Department of Sociology, Duke University, Box 90088, Durham, NC, 27708. E-mail: brady@soc.duke.edu.…
+**摘要**: Journal Article Economic Globalization, Industrialization and Deindustrialization in Affluent Democracies Get access David Brady, David Brady Duke University Direct correspondence to David Brady, Department of Sociology, Duke University, Box 90088, Durham, NC, 27708.…
 
 ### Education and its Discontents: Overqualification in America, 1972-2002
 **年份**: 2006 | **DOI**: [10.1353/sof.2007.0028](https://doi.org/10.1353/sof.2007.0028)
@@ -1444,7 +1444,7 @@
 ### When All Else Fails: International Adjudication of Human Rights Abuse Claims, 1976-1999
 **年份**: 2006 | **DOI**: [10.1353/sof.2006.0084](https://doi.org/10.1353/sof.2006.0084)
 **作者**: Cole, W. M.
-**摘要**: Journal Article When All Else Fails: International Adjudication of Human Rights Abuse Claims, 1976–1999 Get access Wade M. Cole Wade M. Cole Stanford University Direct correspondence to Wade M. Cole, Department of Sociology, Stanford University, Stanford, CA 94305-2047. E-mail: wcole@stanford.edu.…
+**摘要**: Journal Article When All Else Fails: International Adjudication of Human Rights Abuse Claims, 1976–1999 Get access Wade M. Cole Wade M. Cole Stanford University Direct correspondence to Wade M. Cole, Department of Sociology, Stanford University, Stanford, CA 94305-2047.…
 
 ### When Does Social Capital Matter? Non-Searching For Jobs Across the Life Course
 **年份**: 2006 | **DOI**: [10.1353/sof.2006.0133](https://doi.org/10.1353/sof.2006.0133)
@@ -1599,7 +1599,7 @@
 ### Did the Israeli State Engineer Segregation? On the Placement of Jewish Immigrants in Development Towns in the 1950s
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0106](https://doi.org/10.1353/sof.2005.0106)
 **作者**: Khazzoom, A.
-**摘要**: Journal Article Did the Israeli State Engineer Segregation? On the Placement of Jewish Immigrants in Development Towns in the 1950s Get access Aziza Khazzoom Aziza Khazzoom UCLA Correspondence should be directed to Aziza Khazzoom, khazzoom@soc.ucla.edu.…
+**摘要**: Journal Article Did the Israeli State Engineer Segregation? On the Placement of Jewish Immigrants in Development Towns in the 1950s Get access Aziza Khazzoom Aziza Khazzoom UCLA Correspondence should be directed to Aziza Khazzoom, [contact email removed].…
 
 ### Economic Development Policymaking Down the Global Commodity Chain: Attracting an Auto Industry to Silao, Mexico
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0123](https://doi.org/10.1353/sof.2005.0123)
@@ -1609,7 +1609,7 @@
 ### Economic Restructuring and Intra-generational Class Mobility in Mexico
 **年份**: 2005 | **DOI**: [10.1353/sof.2006.0026](https://doi.org/10.1353/sof.2006.0026)
 **作者**: Parrado, E. A.
-**摘要**: Journal Article Economic Restructuring and Intra-generational Class Mobility in Mexico Get access Emilio A. Parrado Emilio A. Parrado Duke University Direct correspondence to Emilio A. Parrado Department of Sociology, Duke University, Box 90088, Durham, NC 27708. E-mail: eparrado@soc.duke.edu.…
+**摘要**: Journal Article Economic Restructuring and Intra-generational Class Mobility in Mexico Get access Emilio A. Parrado Emilio A. Parrado Duke University Direct correspondence to Emilio A. Parrado Department of Sociology, Duke University, Box 90088, Durham, NC 27708. E-mail: [contact email removed].…
 
 ### Employment Transitions and the Household Division of Labor in China
 **年份**: 2005 | **DOI**: [10.1353/sof.2006.0010](https://doi.org/10.1353/sof.2006.0010)
@@ -1639,7 +1639,7 @@
 ### Finding a Job in the Internet Age
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0030](https://doi.org/10.1353/sof.2005.0030)
 **作者**: Fountain, C.
-**摘要**: Journal Article Finding a Job in the Internet Age Get access Christine Fountain Christine Fountain University of Washington Direct correspondence to Christine Fountain, Department of Sociology, University of Washington, Box 353340, Seattle WA 98195. E-mail: cmf@u.washington.edu.…
+**摘要**: Journal Article Finding a Job in the Internet Age Get access Christine Fountain Christine Fountain University of Washington Direct correspondence to Christine Fountain, Department of Sociology, University of Washington, Box 353340, Seattle WA 98195. E-mail: [contact email removed].…
 
 ### Gender Differences in the Prevalence of Same-Sex Sexual Partnering: 1988-2002
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0092](https://doi.org/10.1353/sof.2005.0092)
@@ -1659,7 +1659,7 @@
 ### Going Too Far? Sex, Sin and Social Policy
 **年份**: 2005 | **DOI**: [10.1353/sof.2006.0032](https://doi.org/10.1353/sof.2006.0032)
 **作者**: Rose, S.
-**摘要**: Journal Article Going Too Far? Sex, Sin and Social Policy Get access Susan Rose Susan Rose Dickinson College Direct correspondence to Susan Rose, Department of Sociology, Dickinson College, Carlisle, PA 17013. E-mail: rose@dickinson.edu.…
+**摘要**: Journal Article Going Too Far? Sex, Sin and Social Policy Get access Susan Rose Susan Rose Dickinson College Direct correspondence to Susan Rose, Department of Sociology, Dickinson College, Carlisle, PA 17013. E-mail: [contact email removed].…
 
 ### Identifying the Precipitants of Homeless Protest Across 17 U.S. Cities, 1980 to 1990
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0048](https://doi.org/10.1353/sof.2005.0048)
@@ -1734,7 +1734,7 @@
 ### Parental Status and Differential Investment in Sons and Daughters: Trivers-Willard Revisited
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0035](https://doi.org/10.1353/sof.2005.0035)
 **作者**: Hopcroft, R. L.
-**摘要**: Journal Article Parental Status and Differential Investment in Sons and Daughters: Trivers-Willard Revisited Get access Rosemary L. Hopcroft Rosemary L. Hopcroft University of North Carolina at Charlotte Direct correspondence to the author at RLHOPCRO@EMAIL.UNCC.EDU.…
+**摘要**: Journal Article Parental Status and Differential Investment in Sons and Daughters: Trivers-Willard Revisited Get access Rosemary L. Hopcroft Rosemary L. Hopcroft University of North Carolina at Charlotte Direct correspondence to the author at [contact email removed].…
 
 ### Patterns in Contingencies: The Interlocking of Formal and Informal Political Institutions in Contemporary Argentina
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0072](https://doi.org/10.1353/sof.2005.0072)
@@ -1754,7 +1754,7 @@
 ### Politics and Society in Latin America at the Start of the New Millennium
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0051](https://doi.org/10.1353/sof.2005.0051)
 **作者**: Alcantara, M.
-**摘要**: Journal Article Politics and Society in Latin America at the Start of the New Millennium Get access Manual Alcantara Manual Alcantara Universidad de Salamanca Direct correspondence to Manuel Alcántara Sáez, Universidad de Salamanca. E-mail: malcanta@usal.es.…
+**摘要**: Journal Article Politics and Society in Latin America at the Start of the New Millennium Get access Manual Alcantara Manual Alcantara Universidad de Salamanca Direct correspondence to Manuel Alcántara Sáez, Universidad de Salamanca. E-mail: [contact email removed].…
 
 ### Privileged Access, Privileged Accounts: Toward a Socially Structured Theory of Resources and Discourses
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0096](https://doi.org/10.1353/sof.2005.0096)
@@ -1779,7 +1779,7 @@
 ### Racially Biased Policing: Determinants of Citizen Perceptions
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0050](https://doi.org/10.1353/sof.2005.0050)
 **作者**: Weitzer, R.; Tuch, S. A.
-**摘要**: Journal Article Racially Biased Policing: Determinants of Citizen Perceptions Get access Ronald Weitzer, Ronald Weitzer George Washington University Direct correspondence to Ronald Weitzer, Department of Sociology, George Washington University, Washington, DC 20052. E-mail: weitzer@gwu.edu.…
+**摘要**: Journal Article Racially Biased Policing: Determinants of Citizen Perceptions Get access Ronald Weitzer, Ronald Weitzer George Washington University Direct correspondence to Ronald Weitzer, Department of Sociology, George Washington University, Washington, DC 20052. E-mail: [contact email removed].…
 
 ### Reconsidering Peers and Delinquency: How do Peers Matter?
 **年份**: 2005 | **DOI**: [10.1353/sof.2006.0018](https://doi.org/10.1353/sof.2006.0018)
@@ -1843,7 +1843,7 @@
 ### The Effects of World Society on Environmental Protection Outcomes
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0127](https://doi.org/10.1353/sof.2005.0127)
 **作者**: Schofer, E.; Hironaka, A.
-**摘要**: Journal Article The Effects of World Society on Environmental Protection Outcomes Get access Evan Schofer, Evan Schofer University of Minnesota Direct correspondence to Evan Schofer, Department of Sociology, University of Minnesota, 909 Social Sciences, 267 19th Ave South, Minneapolis, MN 55455 (sch…
+**摘要**: Journal Article The Effects of World Society on Environmental Protection Outcomes Get access Evan Schofer, Evan Schofer University of Minnesota Direct correspondence to Evan Schofer, Department of Sociology, University of Minnesota, 909 Social Sciences, 267 19th Ave South, Minneapolis, MN 55455 ([co…
 
 ### The Grass Widows of Mexico: Migration and Union Dissolution in a Binational Context
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0031](https://doi.org/10.1353/sof.2005.0031)
@@ -1883,7 +1883,7 @@
 ### The Welfare State and Relative Poverty in Rich Western Democracies, 1967-1997
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0056](https://doi.org/10.1353/sof.2005.0056)
 **作者**: Brady, D.
-**摘要**: Journal Article The Welfare State and Relative Poverty in Rich Western Democracies, 1967–1997 Get access David Brady David Brady Duke University Direct correspondence to David Brady, Department of Sociology, Duke University, Box 90088, Durham, NC, 27708. E-mail: brady@soc.duke.edu.…
+**摘要**: Journal Article The Welfare State and Relative Poverty in Rich Western Democracies, 1967–1997 Get access David Brady David Brady Duke University Direct correspondence to David Brady, Department of Sociology, Duke University, Box 90088, Durham, NC, 27708. E-mail: [contact email removed].…
 
 ### Toward Understanding How Social Capital Mediates the Impact of Mobility on Mexican American Achievement
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0121](https://doi.org/10.1353/sof.2005.0121)
@@ -1903,7 +1903,7 @@
 ### What Does Love Mean? Exploring Network Culture in Two Network Settings
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0132](https://doi.org/10.1353/sof.2005.0132)
 **作者**: Yeung, K.-T.
-**摘要**: Journal Article What Does Love Mean? Exploring Network Culture in Two Network Settings Get access King-To Yeung King-To Yeung Rutgers University Direct correspondence to: King-To Yeung, Sociology, Rutgers University, 54 Joyce Kilmer Avenue, Piscataway NJ 08854-8045. E-mail: kingto@rci.rutgers.edu.…
+**摘要**: Journal Article What Does Love Mean? Exploring Network Culture in Two Network Settings Get access King-To Yeung King-To Yeung Rutgers University Direct correspondence to: King-To Yeung, Sociology, Rutgers University, 54 Joyce Kilmer Avenue, Piscataway NJ 08854-8045. E-mail: [contact email removed].…
 
 ### White Supremacists, Oppositional Culture and the World Wide Web
 **年份**: 2005 | **DOI**: [10.1353/sof.2006.0001](https://doi.org/10.1353/sof.2006.0001)
@@ -2053,7 +2053,7 @@
 ### If a Tree Falls in the Wilderness: Reparations, Academic Silences, and Social Justice
 **年份**: 2004 | **DOI**: [10.1353/sof.2005.0008](https://doi.org/10.1353/sof.2005.0008)
 **作者**: Coates, R. D.
-**摘要**: Journal Article If a Tree Falls in the Wilderness: Reparations, Academic Silences, and Social Justice Get access Rodney D. Coates Rodney D. Coates Miami University Direct correspondence to Rodney Coates, Department of Sociology, Miami University, Oxford, OH 45056. E-mail: coatesrd@muohio.edu.…
+**摘要**: Journal Article If a Tree Falls in the Wilderness: Reparations, Academic Silences, and Social Justice Get access Rodney D. Coates Rodney D. Coates Miami University Direct correspondence to Rodney Coates, Department of Sociology, Miami University, Oxford, OH 45056. E-mail: [contact email removed].…
 
 ### Institutional Dynamics and Dangerous Classes: Reading, Writing, and Arrest in Nineteenth-Century France
 **年份**: 2004 | **DOI**: [10.1353/sof.2004.0070](https://doi.org/10.1353/sof.2004.0070)
@@ -2108,7 +2108,7 @@
 ### Power, Identity, and Collective Action in Social Exchange
 **年份**: 2004 | **DOI**: [10.1353/sof.2004.0096](https://doi.org/10.1353/sof.2004.0096)
 **作者**: Simpson, B.; Macy, M. W.
-**摘要**: Journal Article Power, Identity, and Collective Action in Social Exchange Get access Brent Simpson, Brent Simpson University of South Carolina Direct correspondence to Brent Simpson, Department of Sociology, University of South Carolina, Columbia, SC 29208. E-mail bts@sc.edu.…
+**摘要**: Journal Article Power, Identity, and Collective Action in Social Exchange Get access Brent Simpson, Brent Simpson University of South Carolina Direct correspondence to Brent Simpson, Department of Sociology, University of South Carolina, Columbia, SC 29208. E-mail [contact email removed].…
 
 ### Public Sociologies: Contradictions, Dilemmas, and Possibilities
 **年份**: 2004 | **DOI**: [10.1353/sof.2004.0064](https://doi.org/10.1353/sof.2004.0064)
@@ -2132,7 +2132,7 @@
 ### Revisiting General Theory in Historical Sociology
 **年份**: 2004 | **DOI**: [10.1353/sof.2005.0018](https://doi.org/10.1353/sof.2005.0018)
 **作者**: Mahoney, J.
-**摘要**: Journal Article Revisiting General Theory in Historical Sociology Get access James Mahoney James Mahoney Brown University Direct correspondence to James Mahoney, Department of Sociology, Box 1916, Brown University, Providence, RI 02912. E-mail: James_Mahoney@brown.edu.…
+**摘要**: Journal Article Revisiting General Theory in Historical Sociology Get access James Mahoney James Mahoney Brown University Direct correspondence to James Mahoney, Department of Sociology, Box 1916, Brown University, Providence, RI 02912. E-mail: [contact email removed].…
 
 ### Sources of Durability and Change in Market Classifications: A Study of the Reconstitution of Product Categories in the American Mutual Fund Industry, 1944-1985
 **年份**: 2004 | **DOI**: [10.1353/sof.2004.0046](https://doi.org/10.1353/sof.2004.0046)
@@ -2227,7 +2227,7 @@
 ### Why Public Sociology May Fail
 **年份**: 2004 | **DOI**: [10.1353/sof.2004.0063](https://doi.org/10.1353/sof.2004.0063)
 **作者**: Brady, D.
-**摘要**: Journal Article Why Public Sociology May Fail Get access David Brady David Brady Duke University Direct correspondence to David Brady, Department of Sociology, Box 90088, Duke University, Durham, NC, 27708. E-mail: brady@soc.duke.edu.…
+**摘要**: Journal Article Why Public Sociology May Fail Get access David Brady David Brady Duke University Direct correspondence to David Brady, Department of Sociology, Box 90088, Duke University, Durham, NC, 27708. E-mail: [contact email removed].…
 
 ### "Out of the Parlors and into the Streets": The Changing Tactical Repertoire of the U.S. Women' Suffrage Movements
 **年份**: 2003 | **DOI**: [10.1353/sof.2003.0037](https://doi.org/10.1353/sof.2003.0037)
@@ -2327,7 +2327,7 @@
 ### Job Search with Organizational Size As a Signal
 **年份**: 2003 | **DOI**: [10.1353/sof.2004.0009](https://doi.org/10.1353/sof.2004.0009)
 **作者**: Greve, H. R.; Fujiwara-Greve, T.
-**摘要**: Journal Article Job Search with Organizational Size As a Signal Get access Henrich R. Greve, Henrich R. Greve Norwegian School of Management BI Direct correspondence to Henrich R. Greve, Norwegian School of Management BI, Box 580, 1302 Sandvika Norway. E-mail: henrich.greve@bi.no.…
+**摘要**: Journal Article Job Search with Organizational Size As a Signal Get access Henrich R. Greve, Henrich R. Greve Norwegian School of Management BI Direct correspondence to Henrich R. Greve, Norwegian School of Management BI, Box 580, 1302 Sandvika Norway. E-mail: [contact email removed].…
 
 ### Legacies of American Slavery: Status Attainment among Southern Blacks after Emancipation
 **年份**: 2003 | **DOI**: [10.1353/sof.2004.0024](https://doi.org/10.1353/sof.2004.0024)
@@ -2372,7 +2372,7 @@
 ### Power-at-a-Distance
 **年份**: 2003 | **DOI**: [10.1353/sof.2003.0074](https://doi.org/10.1353/sof.2003.0074)
 **作者**: Willer, D.
-**摘要**: Journal Article Power-at-a-Distance Get access David Willer David Willer University of South Carolina Direct all correspondence to David Willer, Department of Sociology, University of South Carolina, Columbia, SC 29208. E-mail: dwiller@sc.edu.…
+**摘要**: Journal Article Power-at-a-Distance Get access David Willer David Willer University of South Carolina Direct all correspondence to David Willer, Department of Sociology, University of South Carolina, Columbia, SC 29208. E-mail: [contact email removed].…
 
 ### Public Employment, Welfare Transfers, and Economic Well-Being across Local Populations: Does a Lean and Mean Government Benefit the Masses?
 **年份**: 2003 | **DOI**: [10.1353/sof.2004.0016](https://doi.org/10.1353/sof.2004.0016)
@@ -2466,7 +2466,7 @@
 ### The Politics of Poverty: Left Political Institutions, the Welfare State, and Poverty
 **年份**: 2003 | **DOI**: [10.1353/sof.2004.0004](https://doi.org/10.1353/sof.2004.0004)
 **作者**: Brady, D.
-**摘要**: Journal Article The Politics of Poverty: Left Political Institutions, the Welfare State, and Poverty Get access David Brady David Brady Duke University Please direct correspondence to David Brady, Department of Sociology, Duke University, Box 90088, Durham, NC, 27708. E-mail: brady@soc.duke.edu.…
+**摘要**: Journal Article The Politics of Poverty: Left Political Institutions, the Welfare State, and Poverty Get access David Brady David Brady Duke University Please direct correspondence to David Brady, Department of Sociology, Duke University, Box 90088, Durham, NC, 27708.…
 
 ### The Protestant Ethic and the Spirit of Capitalism. By Max Weber and The Protestant Ethic and the Spirit of Capitalism and Other Writings. By Max Weber
 **年份**: 2003 | **DOI**: [10.1353/sof.2004.0008](https://doi.org/10.1353/sof.2004.0008)
@@ -2481,7 +2481,7 @@
 ### Web Use and Net Nerds: A Neofunctionalist Analysis of the Impact of Information Technology in the Home
 **年份**: 2003 | **DOI**: [10.1353/sof.2003.0086](https://doi.org/10.1353/sof.2003.0086)
 **作者**: Gershuny, J.
-**摘要**: Journal Article Web Use and Net Nerds: A Neofunctionalist Analysis of the Impact of Information Technology in the Home Get access Jonathan Gershuny Jonathan Gershuny University of Essex Direct correspondence to Jonathan Gershuny, University of Essex. E-mail: gershuny@essex.ac.uk.…
+**摘要**: Journal Article Web Use and Net Nerds: A Neofunctionalist Analysis of the Impact of Information Technology in the Home Get access Jonathan Gershuny Jonathan Gershuny University of Essex Direct correspondence to Jonathan Gershuny, University of Essex. E-mail: [contact email removed].…
 
 ### What Happens after the High School Years among Young Persons with Disabilities?
 **年份**: 2003 | **DOI**: [10.1353/sof.2004.0029](https://doi.org/10.1353/sof.2004.0029)
@@ -2760,7 +2760,7 @@
 ### De Gustibus Est Disputandum
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0013](https://doi.org/10.1353/sof.2001.0013)
 **作者**: Kanazawa, S.
-**摘要**: Journal Article De Gustibus Est Disputandum Get access Satoshi Kanazawa Satoshi Kanazawa Indiana University of Pennsylvania Direct all correspondence to: Satoshi Kanazawa, Department of Sociology, Indiana University of Pennsylvania, Indiana, PA 15705-1087. Email: Kanazawa@grove.iup.edu.…
+**摘要**: Journal Article De Gustibus Est Disputandum Get access Satoshi Kanazawa Satoshi Kanazawa Indiana University of Pennsylvania Direct all correspondence to: Satoshi Kanazawa, Department of Sociology, Indiana University of Pennsylvania, Indiana, PA 15705-1087. Email: [contact email removed].…
 
 ### Declining Government Confidence and Policy Preferences in the U.S.: Devolution, Regime Effects, or Symbolic Change?
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0032](https://doi.org/10.1353/sof.2001.0032)
@@ -2835,7 +2835,7 @@
 ### Models and Indicators
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0101](https://doi.org/10.1353/sof.2001.0101)
 **作者**: Land, K. C.
-**摘要**: Journal Article Models and Indicators Get access Kenneth C. Land Kenneth C. Land Duke University Direct correspondence to Kenneth C. Land, Department of Sociology, Duke University, Durham, NC 27708-0088. E-mail: kland@soc.duke.edu.…
+**摘要**: Journal Article Models and Indicators Get access Kenneth C. Land Kenneth C. Land Duke University Direct correspondence to Kenneth C. Land, Department of Sociology, Duke University, Durham, NC 27708-0088. E-mail: [contact email removed].…
 
 ### No Couple Is an Island: A Social Network Perspective on Dyadic Stability
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0039](https://doi.org/10.1353/sof.2001.0039)
@@ -2904,7 +2904,7 @@
 ### Social Change and The Persistence of Sex Typing: 1974-1997
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0077](https://doi.org/10.1353/sof.2001.0077)
 **作者**: Lueptow, L. B.; Garovich-Szabo, L.; Lueptow, M. B.
-**摘要**: Journal Article Social Change and The Persistence of Sex Typing: 1974–1997 Get access Lloyd B. Lueptow, Lloyd B. Lueptow University of Akron Direct correspondence to Lloyd B. Lueptow, 2308 Deborah Drive, Punta Gorda, FL 33950. E-mail: llueptow@sunline.net.…
+**摘要**: Journal Article Social Change and The Persistence of Sex Typing: 1974–1997 Get access Lloyd B. Lueptow, Lloyd B. Lueptow University of Akron Direct correspondence to Lloyd B. Lueptow, 2308 Deborah Drive, Punta Gorda, FL 33950. E-mail: [contact email removed].…
 
 ### Social Differentiation in Musical Taste Patterns
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0017](https://doi.org/10.1353/sof.2001.0017)
@@ -3373,7 +3373,7 @@
 ### The Influence of Parenthood on the Work Effort of Married Men and Women
 **年份**: 2000 | **DOI**: [10.2307/3005936](https://doi.org/10.2307/3005936)
 **作者**: Kaufman, Gayle; Uhlenberg, Peter
-**摘要**: Journal Article The Influence of Parenthood on the Work Effort of Married Men and Women Get access Gayle Kaufman, Gayle Kaufman Davidson College Direct correspondence to Gayle Kaufman, Department of Sociology, Davidson College, Davidson, NC 28036. E-mail: gakaufman@davidson.edu.…
+**摘要**: Journal Article The Influence of Parenthood on the Work Effort of Married Men and Women Get access Gayle Kaufman, Gayle Kaufman Davidson College Direct correspondence to Gayle Kaufman, Department of Sociology, Davidson College, Davidson, NC 28036. E-mail: [contact email removed].…
 
 ### The Interstate Migration of U.S. Immigrants: Individual and Contextual Determinants
 **年份**: 2000 | **DOI**: [10.2307/3005940](https://doi.org/10.2307/3005940)

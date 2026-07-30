@@ -1,7 +1,7 @@
 # Sociology of Education
 ## 2000–2009 年文章（含摘要）
 
-共 **172** 篇
+共 **179** 篇
 
 ---
 
@@ -140,6 +140,11 @@
 **作者**: Warren, John Robert; Grodsky, Eric; Lee, Jennifer C.
 **摘要**: Since the late 1970s, an increasing number of states have required students to pass statewide high school exit examinations (HSEEs) in order to graduate. States have usually adopted HSEEs in response to the perception that a substantial number of graduates lack skills that are required for success i…
 
+### Student Engagement, Peer Social Capital, and School Dropout Among Mexican American and Non-Latino White Students
+**年份**: 2008 | **DOI**: [10.1177/003804070808100201](https://doi.org/10.1177/003804070808100201)
+**作者**: Ream, Robert K.; Rumberger, Russell W.
+**摘要**: Policy makers are especially concerned about persistently high dropout rates among U.S. Latinos, the largest minority population in the United States. This study used a national longitudinal database to show that the behavioral and social aspects of schooling are dynamically linked in the process of…
+
 ### Teacher influences on students' attachment to school
 **年份**: 2008 | **DOI**: [10.1177/003804070808100303](https://doi.org/10.1177/003804070808100303)
 **作者**: Hallinan, Maureen T.
@@ -159,11 +164,6 @@
 **年份**: 2008 | **DOI**: [10.1177/003804070808100102](https://doi.org/10.1177/003804070808100102)
 **作者**: Kelly, Sean
 **摘要**: This analysis of data from the Partnership for Literacy Study investigates the relationship among achievement, effort, and grades. Certainly, grades reward achievement, the mastery of material by students.…
-
-### Student Engagement, Peer Social Capital, and School Dropout Among Mexican American and Non-Latino White Students
-**年份**: 2008 | **DOI**: [10.1177/003804070808100201](https://doi.org/10.1177/003804070808100201)
-**作者**: Ream, Robert K.; Rumberger, Russell W.
-**摘要**: Policy makers are especially concerned about persistently high dropout rates among U.S. Latinos, the largest minority population in the United States. This study used a national longitudinal database to show that the behavioral and social aspects of schooling are dynamically linked in the process of…
 
 ### Contextual explanations of school choice
 **年份**: 2007 | **DOI**: [10.1177/003804070708000301](https://doi.org/10.1177/003804070708000301)
@@ -244,6 +244,11 @@
 **年份**: 2007 | **DOI**: [10.1177/003804070708000102](https://doi.org/10.1177/003804070708000102)
 **作者**: England, Paula; Allison, Paul; Li, Su 等7人
 **摘要**: Using data on the number of men and women who received doctorates in all academic fields from 1971 to 2002, the authors examine changes in the sex composition of fields. During this period, the proportion of women who received doctorates increased dramatically from 14 percent to 46 percent.…
+
+### Accrediting Culture: An Analysis of Tribal and Historically Black College Curricula
+**年份**: 2006 | **DOI**: [10.1177/003804070607900404](https://doi.org/10.1177/003804070607900404)
+**作者**: Cole, Wade M.
+**摘要**: Using data gleaned from catalogs and bulletins for a sample of 28 tribal, 33 historically black, and 30 “mainstream” colleges, the author analyzes the number of courses that focus explicitly and exclusively on African American or American Indian cultural perspectives—“ethnocen-tric” content—in 1992 …
 
 ### Beyond the family: The influence of premigration group status on the educational expectations of immigrants' children
 **年份**: 2006 | **DOI**: [10.1177/003804070607900401](https://doi.org/10.1177/003804070607900401)
@@ -370,15 +375,35 @@
 **作者**: Teachman, J
 **摘要**: Using longitudinal data from the National Longitudinal Study of Young Men for 1966-81, this study examined the effect of military service on the highest grade of schooling completed.…
 
+### No Child Left Behind? Sociology Ignored!
+**年份**: 2005 | **DOI**: [10.1177/003804070507800204](https://doi.org/10.1177/003804070507800204)
+**作者**: Karen, David
+**摘要**: Too many American children are segregated into schools without standards, shuffled from grade-to-grade because of their age, regardless of their knowledge. This is discrimination, pure and simple—the soft bigotry of low expectations.…
+
 ### Organizational environments and the emergence of charter schools in the United States
 **年份**: 2005 | **DOI**: [10.1177/003804070507800101](https://doi.org/10.1177/003804070507800101)
 **作者**: Renzulli, LA
 **摘要**: There is a growing abundance of research on outcomes of charter schools for children, teachers, and communities, yet a paucity of research on why and how charter schools form in the first place.…
 
+### Privatization Reform and Inequality of Educational Opportunity: The Case of Chile
+**年份**: 2005 | **DOI**: [10.1177/003804070507800403](https://doi.org/10.1177/003804070507800403)
+**作者**: Torche, Florencia
+**摘要**: Chile has experienced considerable educational expansion over the past few decades, as well as a privatization reform in 1981 that introduced full parental choice through a voucher system, in the context of a market-oriented transformation of the country.…
+
 ### School shootings as organizational deviance
 **年份**: 2005 | **DOI**: [10.1177/003804070507800104](https://doi.org/10.1177/003804070507800104)
 **作者**: Fox, C; Harding, DJ
 **摘要**: This article argues that rampage school shootings in American public schools can be understood as instances of organizational deviance, which occurs when events created by or in organizations do not conform to an organization's goals or expectations and produce unanticipated and harmful outcomes.…
+
+### The No Child Left Behind Act: Accountability, High-Stakes Testing, and Roles for Sociologists
+**年份**: 2005 | **DOI**: [10.1177/003804070507800205](https://doi.org/10.1177/003804070507800205)
+**作者**: Dworkin, A. Gary
+**摘要**: Central to sociology is the assumption that virtually all forms of social action and public policies have unanticipated consequences for their actors and social systems. As sociologists, we seek to explore these unanticipated consequences and delineate how they will affect people, policies, and prac…
+
+### The Problem of Underqualified Teachers: A Sociological Perspective
+**年份**: 2005 | **DOI**: [10.1177/003804070507800206](https://doi.org/10.1177/003804070507800206)
+**作者**: Ingersoll, Richard M.
+**摘要**: Despite research that has established that high-quality elementary and secondary teaching is highly complex work, K-12 teaching lacks commensurate stature and standing. Underlying out-of-field teaching, it appears, is the assumption that female dominated school teaching requires far less skill, trai…
 
 ### The frog pond revisited: High school academic context, class rank, and elite college admission
 **年份**: 2005 | **DOI**: [10.1177/003804070507800401](https://doi.org/10.1177/003804070507800401)
@@ -394,16 +419,6 @@
 **年份**: 2005 | **DOI**: [10.1177/003804070507800102](https://doi.org/10.1177/003804070507800102)
 **作者**: Carbonaro, W
 **摘要**: This study examined the links among students' effort, tracking, and students' achievement. It found that students in higher tracks exert substantially more effort than do students in lower tracks.…
-
-### The Problem of Underqualified Teachers: A Sociological Perspective
-**年份**: 2005 | **DOI**: [10.1177/003804070507800206](https://doi.org/10.1177/003804070507800206)
-**作者**: Ingersoll, Richard M.
-**摘要**: （暂无）
-
-### No Child Left Behind? Sociology Ignored!
-**年份**: 2005 | **DOI**: [10.1177/003804070507800204](https://doi.org/10.1177/003804070507800204)
-**作者**: Karen, David
-**摘要**: Too many American children are segregated into schools without standards, shuffled from grade-to-grade because of their age, regardless of their knowledge. This is discrimination, pure and simple—the soft bigotry of low expectations.…
 
 ### Beyond decoupling: Rethinking the relationship between the institutional environment and the classroom
 **年份**: 2004 | **DOI**: [10.1177/003804070407700302](https://doi.org/10.1177/003804070407700302)
@@ -454,6 +469,11 @@
 **年份**: 2004 | **DOI**: [10.1177/003804070407700204](https://doi.org/10.1177/003804070407700204)
 **作者**: Kao, Grace
 **摘要**: The concept of social capital is one of the few that has successfully migrated from sociological journals to the mainstream media. Since Coleman's (1988) formulation (which may not be the first, but is certainly the most influential), the concept has become increasingly murky and is used to include …
+
+### Social Capital and the Diffusion of Innovations Within Organizations: The Case of Computer Technology in Schools
+**年份**: 2004 | **DOI**: [10.1177/003804070407700203](https://doi.org/10.1177/003804070407700203)
+**作者**: Frank, Kenneth A.; Zhao, Yong; Borman, Kathryn
+**摘要**: Although the educational community has learned much about better educational practices, less is known about processes for implementing new practices. The standard model of diffusion suggests that people change perceptions about the value of an innovation through communication, and these perceptions …
 
 ### Social Capital, Cultural Values, Immigration, and Academic Achievement: The Host Country Context and Contradictory Consequences
 **年份**: 2004 | **DOI**: [10.1177/003804070407700205](https://doi.org/10.1177/003804070407700205)
@@ -680,10 +700,20 @@
 **作者**: Crosnoe, R
 **摘要**: This study applied a life course perspective to the phenomena of adolescent academic orientation and parental involvement in education. Applying latent growth modeling to transcript and survey data from a sample of California high school students revealed that while college-preparatory track student…
 
+### American Schooling and Educational Inequality: A Forecast for the 21st Century
+**年份**: 2001 | **DOI**: [10.2307/2673258](https://doi.org/10.2307/2673258)
+**作者**: Gamoran, Adam
+**摘要**: Adam Gamoran, American Schooling and Educational Inequality: A Forecast for the 21st Century, Sociology of Education, Vol. 74, Extra Issue: Current of Thought: Sociology of Education at the Dawn of the 21st Century (2001), pp. 135-153
+
 ### Analyzing schools as organizations: Long-term permanence and short-term change
 **年份**: 2001 | **DOI**: [10.2307/2673256](https://doi.org/10.2307/2673256)
 **作者**: Bidwell, CE
 **摘要**: In this article, principal theoretical developments in the study of schools as organizations are reviewed, particularly, neo-institutional theory and the analysis of the faculty workplace. On the basis of this review, a theoretical approach that integrates the two is proposed.…
+
+### Bridges to the Future: The Contributions of Qualitative Research to the Sociology of Education
+**年份**: 2001 | **DOI**: [10.2307/2673257](https://doi.org/10.2307/2673257)
+**作者**: Riehl, Carolyn
+**摘要**: Carolyn Riehl, Bridges to the Future: The Contributions of Qualitative Research to the Sociology of Education, Sociology of Education, Vol. 74, Extra Issue: Current of Thought: Sociology of Education at the Dawn of the 21st Century (2001), pp. 115-134
 
 ### Capital for college: Parental assets and postsecondary schooling
 **年份**: 2001 | **DOI**: [10.2307/2673145](https://doi.org/10.2307/2673145)
@@ -740,6 +770,11 @@
 **作者**: Lucas, SR; Good, AD
 **摘要**: Early research on track mobility suggested that students follow a tournament mobility process, but more recent research has failed to support the tournament mobility metaphor. These analyses attempted to discern the overall pattern of mobility.…
 
+### Response: To Replicate or Not to Replicate: Is That Schuman's Question?
+**年份**: 2001 | **DOI**: [10.2307/2673147](https://doi.org/10.2307/2673147)
+**作者**: Rau, William
+**摘要**: U chuman raises a series of particulars concerning our investigation of students' study hours and grades, particulars that boil down to one central issue: Who has a better framework for examining this issue-Schuman, Walsh, Olson, and Etheridge (1 985) or Rau and Durand (2000)?…
+
 ### School restructuring as a policy agenda: Why one size may not fit all
 **年份**: 2001 | **DOI**: [10.2307/2673144](https://doi.org/10.2307/2673144)
 **作者**: Mussoline, LJ; Shouse, RC
@@ -759,6 +794,11 @@
 **年份**: 2001 | **DOI**: [10.2307/2673165](https://doi.org/10.2307/2673165)
 **作者**: Miech, R; Essex, MJ; Goldsmith, HH
 **摘要**: Competing theoretical interpretations posit children's capacity for self-regulation as playing a spurious role, a mediating role, and a moderating role in the relationship between children's socioeconomic status (SES) and the adjustment to school.…
+
+### Sociological Perspectives on Black-White Inequalities in American Schooling
+**年份**: 2001 | **DOI**: [10.2307/2673253](https://doi.org/10.2307/2673253)
+**作者**: Hallinan, Maureen T.
+**摘要**: Maureen T. Hallinan, Sociological Perspectives on Black-White Inequalities in American Schooling, Sociology of Education, Vol. 74, Extra Issue: Current of Thought: Sociology of Education at the Dawn of the 21st Century (2001), pp. 50-70
 
 ### Students' attachment and academic engagement: The role of race and ethnicity
 **年份**: 2001 | **DOI**: [10.2307/2673138](https://doi.org/10.2307/2673138)
@@ -789,11 +829,6 @@
 **年份**: 2001 | **DOI**: [10.2307/2673136](https://doi.org/10.2307/2673136)
 **作者**: Attewell, P
 **摘要**: Across the United States, families seek schools with reputations for academic excellence for their children, assuming that such schools improve a talented child's prospects for college admission.…
-
-### American Schooling and Educational Inequality: A Forecast for the 21st Century
-**年份**: 2001 | **DOI**: [10.2307/2673258](https://doi.org/10.2307/2673258)
-**作者**: Gamoran, Adam
-**摘要**: （暂无）
 
 ### Educational battlefields in America: The tug-of-war over students' engagement with instruction
 **年份**: 2000 | **DOI**: [10.2307/2673233](https://doi.org/10.2307/2673233)

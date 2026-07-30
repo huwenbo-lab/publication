@@ -1248,7 +1248,7 @@
 ### The Persistence of the Gendered Division of Domestic Labour
 **年份**: 2005 | **DOI**: [10.1093/esr/jci003](https://doi.org/10.1093/esr/jci003)
 **作者**: Breen, R.
-**摘要**: Journal Article The Persistence of the Gendered Division of Domestic Labour Get access Richard Breen, Richard Breen Nuffield College, Oxford OX1 1NF, UK. Tel: +44-1865-278538; fax: +44-1865-278676; email: richard.breen@nuffield.oxford.ac.uk Search for other works by this author on: Oxford Academic G…
+**摘要**: Journal Article The Persistence of the Gendered Division of Domestic Labour Get access Richard Breen, Richard Breen Nuffield College, Oxford OX1 1NF, UK. Tel: +44-1865-278538; fax: +44-1865-278676; email: [contact email removed] Search for other works by this author on: Oxford Academic Google Schola…
 
 ### The Welfare State and the Home: Regime Differences in the Domestic Division of Labour
 **年份**: 2005 | **DOI**: [10.1093/esr/jci002](https://doi.org/10.1093/esr/jci002)
@@ -1273,7 +1273,7 @@
 ### Welfare Problems and Social Exclusion Among Immigrants in Sweden
 **年份**: 2005 | **DOI**: [10.1093/esr/jci005](https://doi.org/10.1093/esr/jci005)
 **作者**: Bask, M.
-**摘要**: Journal Article Welfare Problems and Social Exclusion Among Immigrants in Sweden Get access Miia Bask Miia Bask Department of Sociology, Umeå University, SE-901 87 Umeå, Sweden. Email: miia.bask@soc.umu.se Search for other works by this author on: Oxford Academic Google Scholar European Sociological…
+**摘要**: Journal Article Welfare Problems and Social Exclusion Among Immigrants in Sweden Get access Miia Bask Miia Bask Department of Sociology, Umeå University, SE-901 87 Umeå, Sweden. Email: [contact email removed] Search for other works by this author on: Oxford Academic Google Scholar European Sociologi…
 
 ### Who Cares for the Poor in Europe?: Micro and Macro Determinants for Alleviating Poverty in 15 European Countries
 **年份**: 2005 | **DOI**: [10.1093/esr/jci032](https://doi.org/10.1093/esr/jci032)
@@ -1528,7 +1528,7 @@
 ### Mechanisms of Inequality. Unequal Access to Organizational Power and the Gender Wage Gap
 **年份**: 2003 | **DOI**: [10.1093/esr/19.2.143](https://doi.org/10.1093/esr/19.2.143)
 **作者**: Hultin, M.
-**摘要**: Journal Article Mechanisms of Inequality. Unequal Access to Organizational Power and the Gender Wage Gap Get access Mia Hultin, Mia Hultin Ryszard Szulkin, Department of Sociology, Stockholm University, S‐10691, Stockholm, Sweden. email: ryszard.szulkin@sociology.su.se.…
+**摘要**: Journal Article Mechanisms of Inequality. Unequal Access to Organizational Power and the Gender Wage Gap Get access Mia Hultin, Mia Hultin Ryszard Szulkin, Department of Sociology, Stockholm University, S‐10691, Stockholm, Sweden. email: [contact email removed].…
 
 ### Public Attitudes toward Welfare State Policies: A Comparative Analysis of 24 Nations
 **年份**: 2003 | **DOI**: [10.1093/esr/19.5.415](https://doi.org/10.1093/esr/19.5.415)
@@ -1578,7 +1578,7 @@
 ### The Internal Enforcement of Norms
 **年份**: 2003 | **DOI**: [10.1093/esr/19.4.335](https://doi.org/10.1093/esr/19.4.335)
 **作者**: Horne, C.
-**摘要**: Journal Article The Internal Enforcement of Norms Get access Christine Horne Christine Horne Department of Sociology, 800 SWKT, Brigham Young University, Provo, UT 84602. email: christine_horne@byu.edu.…
+**摘要**: Journal Article The Internal Enforcement of Norms Get access Christine Horne Christine Horne Department of Sociology, 800 SWKT, Brigham Young University, Provo, UT 84602. email: [contact email removed].…
 
 ### The Only Way is Up?: Employment Protection and Job Mobility among Recent Entrants to European Labour Markets
 **年份**: 2003 | **DOI**: [10.1093/esr/19.5.429](https://doi.org/10.1093/esr/19.5.429)
@@ -1653,7 +1653,7 @@
 ### Exploring the Sense of Justice about Grades
 **年份**: 2002 | **DOI**: [10.1093/esr/18.3.333](https://doi.org/10.1093/esr/18.3.333)
 **作者**: Jasso, G.
-**摘要**: Journal Article Exploring the Sense of Justice about Grades Get access Guillermina Jasso, Guillermina Jasso Guillermina Jasso, Department of Sociology, New York University, 269 Mercer Street, 4th Floor, New York, NY 10003–0831. email: gj1@nyu.edu.…
+**摘要**: Journal Article Exploring the Sense of Justice about Grades Get access Guillermina Jasso, Guillermina Jasso Guillermina Jasso, Department of Sociology, New York University, 269 Mercer Street, 4th Floor, New York, NY 10003–0831. email: [contact email removed].…
 
 ### Falling off the Ladder? Professional and Managerial Career Trajectories and Unemployment Experiences
 **年份**: 2002 | **DOI**: [10.1093/esr/18.3.253](https://doi.org/10.1093/esr/18.3.253)
@@ -1678,7 +1678,7 @@
 ### Job Mobility and Earnings Growth
 **年份**: 2002 | **DOI**: [10.1093/esr/18.4.381](https://doi.org/10.1093/esr/18.4.381)
 **作者**: le Grand, C.
-**摘要**: Journal Article Job Mobility and Earnings Growth Get access Carl le Grand, Carl le Grand Swedish Institute for Social Research, Stockholm University, SE‐106 91 Stockholm, Sweden. E‐mail: carl.le.grand@sofi.su.se; michael.tahlin@sofi.su.se Search for other works by this author on: Oxford Academic Goo…
+**摘要**: Journal Article Job Mobility and Earnings Growth Get access Carl le Grand, Carl le Grand Swedish Institute for Social Research, Stockholm University, SE‐106 91 Stockholm, Sweden. E‐mail: [contact email removed]; [contact email removed] Search for other works by this author on: Oxford Academic Google…
 
 ### Late Industrialization and the Increased Merit Selection Hypothesis. Ireland as a Test Case
 **年份**: 2002 | **DOI**: [10.1093/esr/18.1.35](https://doi.org/10.1093/esr/18.1.35)

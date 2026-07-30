@@ -381,7 +381,7 @@
 **摘要**: Using a series of survey and census/mini-census data, this paper explores the trends of women's labor force participation (WLFP) and estimates the key factors affecting women's labor supply in urban China between 1990 and 2010.…
 
 ### Chinese Adulthood Higher Education Life-Course Dynamics Under State Socialism
-**年份**: 2014 | **DOI**: [10.2753/CSA2162-0555460303](https://doi.org/10.2753/CSA2162-0555460303)
+**年份**: 2014 | **DOI**: [10.2753/csa2162-0555460303](https://doi.org/10.2753/csa2162-0555460303)
 **作者**: Lai, Qing
 **摘要**: While direct progression from secondary to tertiary education was never universally successful, many who missed their first opportunities managed to resume higher education at older ages.…
 
@@ -391,22 +391,22 @@
 **摘要**: Commercialization and corporatization (C&C) arguably contribute to the strain in the academic roles of professors in research, teaching, and service, and in their political roles as organic, professional, and critical intellectuals, both in the United States and greater China.…
 
 ### Contingent Transition to Triumph Socioeconomic Attainments of Chinese Immigrants' Children in Hong Kong
-**年份**: 2014 | **DOI**: [10.2753/CSA2162-0555460404](https://doi.org/10.2753/CSA2162-0555460404)
+**年份**: 2014 | **DOI**: [10.2753/csa2162-0555460404](https://doi.org/10.2753/csa2162-0555460404)
 **作者**: Zhang, Zhuoni
 **摘要**: This article examines socioeconomic attainments of Chinese immigrants' children in Hong Kong. Analyses of a subsample ages twenty-three to twenty-seven from the 2006 by-census data show that, children of immigrant parents enjoy advantages in education, occupational, and earnings attainments, compare…
 
 ### Continuity and Change in Chinese Marriage and the Family Evidence from the CFPS
-**年份**: 2014 | **DOI**: [10.2753/CSA2162-0555470102](https://doi.org/10.2753/CSA2162-0555470102)
+**年份**: 2014 | **DOI**: [10.2753/csa2162-0555470102](https://doi.org/10.2753/csa2162-0555470102)
 **作者**: Xu, Qi; Li, Jianxin; Yu, Xuejun
 **摘要**: Based on the first and second waves of the Chinese Family Panel Studies (CFPS) in 2010 and 2012, this article describes five aspects of Chinese marriage and the family and discusses their continuity and change against the background of rapid social changes.…
 
 ### Cross-City Variations in Housing Outcomes in Postreform China An Analysis of 2005 Microcensus Data
-**年份**: 2014 | **DOI**: [10.2753/CSA2162-0555460302](https://doi.org/10.2753/CSA2162-0555460302)
+**年份**: 2014 | **DOI**: [10.2753/csa2162-0555460302](https://doi.org/10.2753/csa2162-0555460302)
 **作者**: Zhu, Yushu; Fu, Qiang; Ren, Qiang
 **摘要**: Using the 2005 microcensus data set, this research adopts a multilevel approach to examine housing outcomes in relation to city-level contexts. We find that housing stratification in contemporary China is not homogeneous across cities but rather is spatially dynamic and conditioned by local contexts…
 
 ### Fertility Decline and Women's Status Improvement in China
-**年份**: 2014 | **DOI**: [10.2753/CSA2162-0555460301](https://doi.org/10.2753/CSA2162-0555460301)
+**年份**: 2014 | **DOI**: [10.2753/csa2162-0555460301](https://doi.org/10.2753/csa2162-0555460301)
 **作者**: Wu, Xiaogang; Ye, Hua; He, Gloria Guangye
 **摘要**: The literature typically treats fertility reduction in developing countries as a result of women's status improvement, based on the assumption that women have greater decision-making power on childbearing as their status improves.…
 
@@ -416,7 +416,7 @@
 **摘要**: Previous research on hukou-based stratification in China's urban labor market has either exclusively focused on inequalities between urban residents and rural migrants or neglected the segmented structure of urban economy.…
 
 ### Independent Freshman Admission and Educational Inequality in the Access to Elite Higher Education Evidence from Peking University
-**年份**: 2014 | **DOI**: [10.2753/CSA2162-0555460403](https://doi.org/10.2753/CSA2162-0555460403)
+**年份**: 2014 | **DOI**: [10.2753/csa2162-0555460403](https://doi.org/10.2753/csa2162-0555460403)
 **作者**: Liu, Limin; Wagner, Wolfgang; Sonnenberg, Bettina 等5人
 **摘要**: Over the past decade, China has undertaken a significant institutional reform of its admission system in elite higher education (namely, Independent Freshman Admission, IFA), adopting a multistage selection strategy characterized by recommendation and interviews as an alternative channel of admissio…
 
@@ -431,226 +431,226 @@
 **摘要**: The tracking process at the secondary level has important consequences for students' educational advancement. In China, a number of schools are designated as key-point schools with better teachers and facilities.…
 
 ### The Decline of the Chauvinistic Model of Chinese Masculinity A Research Report
-**年份**: 2014 | **DOI**: [10.2753/CSA2162-0555460401](https://doi.org/10.2753/CSA2162-0555460401)
+**年份**: 2014 | **DOI**: [10.2753/csa2162-0555460401](https://doi.org/10.2753/csa2162-0555460401)
 **作者**: Jankowiak, William; Li, Xuan
 **摘要**: Our study is the first study to explore the transformation of Chinese gender stereotypes over a thirty-year period. Based on the field research conducted in Hohhot, Inner Mongolia, People's Republic of China, and supplemental data in Shanghai, Beijing, and Nanjing, we examine the way men and women's…
 
 ### The Effects of Contextual and Individual-Level Factors on Chinese Adults' Attitudes Toward Social Environments
-**年份**: 2014 | **DOI**: [10.2753/CSA2162-0555470104](https://doi.org/10.2753/CSA2162-0555470104)
+**年份**: 2014 | **DOI**: [10.2753/csa2162-0555470104](https://doi.org/10.2753/csa2162-0555470104)
 **作者**: Wu, Qiong; Xie, Yu
 **摘要**: Using data from the nationally representative China Family Panel Studies (CFPS), we describe Chinese adults' attitudes toward three specific aspects of social environments: local government performance, severity of major social issues, and social trust.…
 
 ### The Relationship Between Parenting Styles and Academic and Behavioral Adjustment Among Urban Chinese Adolescents
-**年份**: 2014 | **DOI**: [10.2753/CSA2162-0555460402](https://doi.org/10.2753/CSA2162-0555460402)
+**年份**: 2014 | **DOI**: [10.2753/csa2162-0555460402](https://doi.org/10.2753/csa2162-0555460402)
 **作者**: Wang, Hongyu
 **摘要**: This article examines the relationship between parenting styles and adolescents' academic and behavioral outcomes. Based on data collected from eighth-graders in two cities in China, we find that the majority of Chinese parents adopt optimal parenting styles, such as democratic or authoritative pare…
 
 ### Trajectories of Folk Religion in Deregulated Taiwan An Age, Period, Cohort Analysis
-**年份**: 2014 | **DOI**: [10.2753/CSA2162-0555460304](https://doi.org/10.2753/CSA2162-0555460304)
+**年份**: 2014 | **DOI**: [10.2753/csa2162-0555460304](https://doi.org/10.2753/csa2162-0555460304)
 **作者**: Hu, Anning; Yang, Fenggang
 **摘要**: Drawing on pooled cross-sectional data collected in Taiwan, this research examines the age, period, and cohort effects on the trajectories of folk religions. We detect a temporal growth in Taiwanese folk religion from the early 1990s to the mid-1990s, followed by a downward trend in the 2000s.…
 
 ### Youth Education and Learning in Twenty-First Century China Disentangling the Impacts of Migration, Residence, and Hukou
-**年份**: 2014 | **DOI**: [10.2753/CSA2162-0555470103](https://doi.org/10.2753/CSA2162-0555470103)
+**年份**: 2014 | **DOI**: [10.2753/csa2162-0555470103](https://doi.org/10.2753/csa2162-0555470103)
 **作者**: Jordan, Lucy P.; Ren, Qiang; Falkingham, Jane
 **摘要**: Rural-to-urban migration within China is one of the important drivers of transformation in economic and social conditions in the twetny-first century. This study uses data from a new nationally based sample, the China Family Panel Studies (CFPS), to capture the multidimensionality of migration, hous…
 
 ### Bare Branches and the Marriage Market in Rural China Preliminary Evidence from a Village-Level Survey
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555460104](https://doi.org/10.2753/CSA2162-0555460104)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555460104](https://doi.org/10.2753/csa2162-0555460104)
 **作者**: Jin, Xiaoyi; Liu, Lige; Li, Yan 等5人
 **摘要**: Using data from a village survey in rural China, this study explores the relationships between current prevalence of involuntary bachelorhood and its causes and social consequences at the village level.…
 
 ### Comparing, Confounding, or Clarifying? Alternative Measures of Statistical Group Comparisons in Binary Regression Models
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555460204](https://doi.org/10.2753/CSA2162-0555460204)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555460204](https://doi.org/10.2753/csa2162-0555460204)
 **作者**: Xu, Jun; Fullerton, Andrew S.
 **摘要**: Interpreting results from nonlinear models can be complex and cumbersome, especially when it comes to group comparisons. Focusing on predicted probabilities and marginal effects, this study proposes a three-dimensional systemic approach (i.e., prediction vs. effect, difference vs.…
 
 ### Higher Education Expansion and Social Stratification in China
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555450403](https://doi.org/10.2753/CSA2162-0555450403)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555450403](https://doi.org/10.2753/csa2162-0555450403)
 **作者**: Yeung, Wei-Jun Jean
 **摘要**: This article explores the extent to which the impact of family background and gender on one's access to college education changed after the 1999 college expansion policy in China. The analysis is based on data from the Chinese General Social Survey (CGSS) collected between 2005 and 2008.…
 
 ### In Search of a Better Life The Occupational Attainment of Rural and Urban Migrants in China
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555460102](https://doi.org/10.2753/CSA2162-0555460102)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555460102](https://doi.org/10.2753/csa2162-0555460102)
 **作者**: Ou, Dongshu; Kondo, Ayako
 **摘要**: This article investigates the occupational attainment and job mobility of permanent rural-to-urban migrants and compares them with migrants who were born with an urban hukou. We examine how much of the gap in occupational-prestige scores between rural-to-urban and urban-to-urban migrants can be expl…
 
 ### Intergenerational Mobility in Contemporary China
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555450402](https://doi.org/10.2753/CSA2162-0555450402)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555450402](https://doi.org/10.2753/csa2162-0555450402)
 **作者**: Chen, Meng
 **摘要**: Using the 2005 and 2006 data of the Chinese General Social Survey (CGSS), this paper contributes new empirical evidence on the issue of intergenerational mobility in contemporary China. The analysis shows a generally rising trend of total and upward mobility in the changing structural context.…
 
 ### Job Mobility and Extramarital Sex in Reform-Era Urban China Evidence from Shanghai
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555460103](https://doi.org/10.2753/CSA2162-0555460103)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555460103](https://doi.org/10.2753/csa2162-0555460103)
 **作者**: Tian, Felicia Feng; Merli, M. Giovanna; Qian, Zhenchao
 **摘要**: The rise of extramarital sex in China is often portrayed as a consequence of a normative shift, that is, the diversification of family and related values that has accompanied the country's move toward a less ideologically controlled society.…
 
 ### Job Mobility in Postreform Urban China
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555450404](https://doi.org/10.2753/CSA2162-0555450404)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555450404](https://doi.org/10.2753/csa2162-0555450404)
 **作者**: Li, Jun
 **摘要**: This paper examines the changing patterns of job mobility in postreform urban China. An integrated framework is adopted to analyze multiple types of mobility in the context of institutional changes.…
 
 ### Local State Marketism An Institutional Analysis of China's Urban Housing and Land Market
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555460101](https://doi.org/10.2753/CSA2162-0555460101)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555460101](https://doi.org/10.2753/csa2162-0555460101)
 **作者**: Fu, Qiang; Lin, Nan
 **摘要**: Drawing on an institutional analysis of China's urban housing and land market, this research demonstrates how the triangular relations among the central government, local governments, and the market evolved in response to new opportunities continuously created by market transformation and policies s…
 
 ### Maximum Likelihood Estimator The Untold Stories, Caveats, and Tips for Application
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555450304](https://doi.org/10.2753/CSA2162-0555450304)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555450304](https://doi.org/10.2753/csa2162-0555450304)
 **作者**: Guo, Shenyang
 **摘要**: Advanced statistical models rely on maximum likelihood (ML) estimators to estimate unknown parameters. Given the complexity and highly technical nature of the numerical approaches embedded in ML, textbooks typically offer oversimplified descriptions of ML, omitting important details from the discuss…
 
 ### Noncognitive Traits as Fundamental Causes of Health Inequality Baseline Findings from Urban China
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555460202](https://doi.org/10.2753/CSA2162-0555460202)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555460202](https://doi.org/10.2753/csa2162-0555460202)
 **作者**: Tam, Tony; Wu, Hania Fei
 **摘要**: This article evaluates the Heckman hypothesis on the health effects of noncognitive traits in China. The authors also use the robustness of health effects in different contexts to compare the degrees to which socioeconomic status (SES) and adolescent conscientiousness, a major dimension of noncognit…
 
 ### Redrawing the Boundaries Work Units and Social Stratification in Urban China
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555450401](https://doi.org/10.2753/CSA2162-0555450401)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555450401](https://doi.org/10.2753/csa2162-0555450401)
 **作者**: Wu, Xiaogang
 **摘要**: While work units continue to play an important role in shaping employees' economic rewards in urban China, the way organizational affiliations affect social stratification has undergone a subtle transformation and the distinctive boundaries among work units have been redrawn.…
 
 ### Sons, Daughters, and Intergenerational Support in China
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555450302](https://doi.org/10.2753/CSA2162-0555450302)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555450302](https://doi.org/10.2753/csa2162-0555450302)
 **作者**: Lei, Lei
 **摘要**: Traditionally, in the patriarchal Chinese family system, sons, rather than daughters, are expected to take the major responsibility for taking care of parents. However, demographic changes, economic development, and cultural transitions may have altered the traditional gender patterns of providing s…
 
 ### The Radius of Generalized Trust in Contemporary China
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555460203](https://doi.org/10.2753/CSA2162-0555460203)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555460203](https://doi.org/10.2753/csa2162-0555460203)
 **作者**: Zhou, Yi; Hu, Anning
 **摘要**: Drawing on survey data collected in 2011, this study investigates the radius of generalized trust in contemporary China. Based on the results of the ordinary least squares and finite mixture models, we find the average radius of generalized trust in the urban population is wider than that of the rur…
 
 ### Trends in Educational Attainment in China
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555450301](https://doi.org/10.2753/CSA2162-0555450301)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555450301](https://doi.org/10.2753/csa2162-0555450301)
 **作者**: Treiman, Donald J.
 **摘要**: Trends in educational attainment in China over the twentieth century are studied using data from all the Chinese censuses conducted since 1982. There was a marked increase in educational attainment over time, with deviations from a smooth upward trend only among those who came of age during the Grea…
 
 ### Urban Mongols The Flourishing of Multiple Identities in a Vibrant Ethnic Community
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555450303](https://doi.org/10.2753/CSA2162-0555450303)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555450303](https://doi.org/10.2753/csa2162-0555450303)
 **作者**: Jankowiak, William
 **摘要**: China's ethnopolitics are grounded in two contradictory philosophies that often give rise to competing policies: the upholding of the ethnic group as well as the individual's right to achieve prominence within the established social order.…
 
 ### Varieties of Social Structure During and After Socialism Russia, East Europe, and China
-**年份**: 2013 | **DOI**: [10.2753/CSA2162-0555460201](https://doi.org/10.2753/CSA2162-0555460201)
+**年份**: 2013 | **DOI**: [10.2753/csa2162-0555460201](https://doi.org/10.2753/csa2162-0555460201)
 **作者**: Szelenyi, Ivan
 **摘要**: By attempting to synthesize the theories of Karl Marx, Max Weber, and Pierre Bourdieu, the purpose of this article is to propose a theory that captures the diversity of socialism (from the Soviet type to its Chinese version) and post-socialist systems (capturing the diverse pathways from socialist r…
 
 ### Between Nation and Religion The Sino-Tibetan Buddhist Network in Post-Reform China
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555450103](https://doi.org/10.2753/CSA2162-0555450103)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555450103](https://doi.org/10.2753/csa2162-0555450103)
 **作者**: Zhang, Yinong
 **摘要**: This paper takes a close and critical look at the contemporary resurgence of the Sino-Tibetan Buddhist network that has taken place in the general context of the ethnic and religious revival in China since the 1980s and particularly after the Chinese economic boom in the 1990s.…
 
 ### Changing Church-State Relations in Contemporary China The Case of the Fengxiang Diocese
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555450204](https://doi.org/10.2753/CSA2162-0555450204)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555450204](https://doi.org/10.2753/csa2162-0555450204)
 **作者**: Chan, Shun-hing
 **摘要**: This study examines the dynamics of church-state relations in contemporary China by analyzing the case of the Catholic Diocese of Fengxiang in Shaanxi province. The article seeks to identify the salient patterns of church-state relations in the Fengxiang diocese and the social factors that contribut…
 
 ### Chinese Buddhism as a Social Force Reality and Potential of Thirty Years of Revival
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555450201](https://doi.org/10.2753/CSA2162-0555450201)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555450201](https://doi.org/10.2753/csa2162-0555450201)
 **作者**: Ji, Zhe
 **摘要**: This article examines the level of religious mobilization of Buddhism in post-Mao China and explores the potential of Buddhism for reconfiguring the relationships between religion, state, and society.…
 
 ### Cumulative Causation of Rural Migration and Initial Peri-Urbanization in China
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555440301](https://doi.org/10.2753/CSA2162-0555440301)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555440301](https://doi.org/10.2753/csa2162-0555440301)
 **作者**: Hao, Lingxin
 **摘要**: This article posits that rural migration feeds the high demand for cheap labor in peri-urbanization, which is driven by globalization, flows of foreign capital, and entrepreneurial local governments.…
 
 ### Do Networks Pay Off Among Internal Migrants in China? An Instrumental Variable Analysis
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555450102](https://doi.org/10.2753/CSA2162-0555450102)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555450102](https://doi.org/10.2753/csa2162-0555450102)
 **作者**: Chen, Yunsong
 **摘要**: Rural-to-urban migrants in China return home frequently within a year. This pattern of return implies the pivotal role of the village-level outflow of migrants in determining their job outcomes at the destination.…
 
 ### Elite Christianity and Spiritual Nationalism
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555450202](https://doi.org/10.2753/CSA2162-0555450202)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555450202](https://doi.org/10.2753/csa2162-0555450202)
 **作者**: Cao, Nanlai
 **摘要**: This paper explores the intersection of spiritual renewal and grassroots nationalism within contemporary Chinese Christianity through the case of an emerging group of Christian businessmen who have spearheaded the growth of independent churches in the coastal Wenzhou area, called boss Christians.…
 
 ### From Congregations to Small Group Community Building
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555450205](https://doi.org/10.2753/CSA2162-0555450205)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555450205](https://doi.org/10.2753/csa2162-0555450205)
 **作者**: Palmer, David A.
 **摘要**: In the second half of the twentieth century, the Baha'i faith experienced rapid growth in Asia, Africa, and Latin America. Consolidating large numbers of new believers into viable communities has presented great challenges to Baha'i institutions, including in Chinese communities.…
 
 ### Home Ownership and Political Participation in Urban China
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555440403](https://doi.org/10.2753/CSA2162-0555440403)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555440403](https://doi.org/10.2753/csa2162-0555440403)
 **作者**: Li, Jun; Wang, Hongbo
 **摘要**: This paper examines the impact of private home ownership on the tendency to engage in neighborhood-level politics among urban Chinese citizens. We focus on voting in neighborhood Residents' Committee elections as well as local legislative elections, highlighting the role of the neighborhood type on …
 
 ### Income Inequality in Urban China, 1978-2005
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555450101](https://doi.org/10.2753/CSA2162-0555450101)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555450101](https://doi.org/10.2753/csa2162-0555450101)
 **作者**: Jansen, Wim; Wu, Xiaogang
 **摘要**: The aims of this paper are twofold: (1) identifying the winners and losers with respect to income in China's economic transition using repeated cross-sectional data at the individual level over the entire period of economic reform, and (2) linking these winners and losers categories to income inequa…
 
 ### Migration, Family Structure, and High School Enrollment An Analysis of China's 2000 Census
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555440402](https://doi.org/10.2753/CSA2162-0555440402)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555440402](https://doi.org/10.2753/csa2162-0555440402)
 **作者**: Yang, Juhua; Fan, Ni
 **摘要**: This paper investigates the relationship between family structure and high school enrollment among adolescents ages 17-18 in the context of large-scale labor migration. Analysis of China's 2000 Census data reveals a significant educational gap across (1) family types and (2) living arrangements with…
 
 ### New Agents and New Ethos of Daoism in China Today
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555450203](https://doi.org/10.2753/CSA2162-0555450203)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555450203](https://doi.org/10.2753/csa2162-0555450203)
 **作者**: Der-Ruey, Yang
 **摘要**: This paper aims to challenge the old perceptions about the structure and dynamics of Daoism in Chinese society informed by a legal/institutional perspective. Based on three case-studies that were conducted recently, the hierarchical, cybernetic scheme-like mapping of Daoism is not valid anymore sinc…
 
 ### Prenatal Sex-Selective Abortion and High Sex Ratio at Birth in the Rural Henan Province
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555440302](https://doi.org/10.2753/CSA2162-0555440302)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555440302](https://doi.org/10.2753/csa2162-0555440302)
 **作者**: Qi, Yaqiang; Mason, William M.
 **摘要**: Based on data from a snowball sampling survey conducted in rural Henan in 2001, we analyze the prevalence, patterns, and risk factors of prenatal sex selection and estimate its impact on sex ratio at birth.…
 
 ### The Chinese General Social Survey (2003-8) Sample Designs and Data Evaluation
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555450104](https://doi.org/10.2753/CSA2162-0555450104)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555450104](https://doi.org/10.2753/csa2162-0555450104)
 **作者**: Bian, Yanjie; Li, Lulu
 **摘要**: The Chinese General Social Survey (CGSS), launched jointly since 2003 by Hong Kong University of Science and Technology and Renmin University, continued to be jointly organized by the two institutions in the 2004, 2005, 2006, and 2008 surveys.…
 
 ### Trends in the Employment of Married Mothers of Preschool-Aged Children in Taiwan
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555440401](https://doi.org/10.2753/CSA2162-0555440401)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555440401](https://doi.org/10.2753/csa2162-0555440401)
 **作者**: Jao, Yu-Han; Li, Jui-Chung Allen
 **摘要**: Using data from eleven waves of Women's Marriage, Fertility, and Employment Survey, we document and seek to explain trends in labor force participation among married mothers of preschool-aged children in Taiwan.…
 
 ### Understanding the Rise of Religion in China
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555450200](https://doi.org/10.2753/CSA2162-0555450200)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555450200](https://doi.org/10.2753/csa2162-0555450200)
 **作者**: Lu, Yunfeng
 **摘要**: （暂无）
 
 ### Uyghur Islamic Piety in Urumchi, Xinjiang
-**年份**: 2012 | **DOI**: [10.2753/CSA2162-0555440404](https://doi.org/10.2753/CSA2162-0555440404)
+**年份**: 2012 | **DOI**: [10.2753/csa2162-0555440404](https://doi.org/10.2753/csa2162-0555440404)
 **作者**: Zang, Xiaowei
 **摘要**: Using survey data gathered in 2005, this paper examines Uyghur religiosity in Urumchi, Xinjiang. Religiosity is defined in terms of religious self-identification and the frequency of prayers.…
 
 ### Evidence-Based Research on China A Historical Imperative
-**年份**: 2011 | **DOI**: [10.2753/CSA2162-0555440103](https://doi.org/10.2753/CSA2162-0555440103)
+**年份**: 2011 | **DOI**: [10.2753/csa2162-0555440103](https://doi.org/10.2753/csa2162-0555440103)
 **作者**: Xie, Yu
 **摘要**: China has been undergoing a social transformation whose scope, rapidity, and significance in impact are unprecedented in human history. I present evidence pertaining to three most important social changes in China over the last 30-40 years: economic growth, increased educational attainment, and comp…
 
 ### Kinship and the Long-Term Persistence of Inequality in Liaoning, China, 1749-2005
-**年份**: 2011 | **DOI**: [10.2753/CSA2162-0555440105](https://doi.org/10.2753/CSA2162-0555440105)
+**年份**: 2011 | **DOI**: [10.2753/csa2162-0555440105](https://doi.org/10.2753/csa2162-0555440105)
 **作者**: Campbell, Cameron; Lee, James Z.
 **摘要**: We demonstrate that in northeast China before the twentieth century, kin groups played an important role in structuring patterns of inequality. There were substantial differences in the demographic behavior and social attainment of individuals according to kin-group membership even after differences…
 
 ### New Bottle, Still Old Wine? China, Social Change, and Sociology
-**年份**: 2011 | **DOI**: [10.2753/CSA2162-0555440101](https://doi.org/10.2753/CSA2162-0555440101)
+**年份**: 2011 | **DOI**: [10.2753/csa2162-0555440101](https://doi.org/10.2753/csa2162-0555440101)
 **作者**: Wu, Xiaogang
 **摘要**: In this article I describe the recent trends in sociological research in China and the sociological study of China in the West. I discuss how sociologists can learn from each other in the study of economic and social changes taking place in China and contribute to general knowledge in the discipline…
 
 ### Rethinking Property Rights as a Relational Concept Access to Financial Resources Among Small and Mid-Sized Firms
-**年份**: 2011 | **DOI**: [10.2753/CSA2162-0555440104](https://doi.org/10.2753/CSA2162-0555440104)
+**年份**: 2011 | **DOI**: [10.2753/csa2162-0555440104](https://doi.org/10.2753/csa2162-0555440104)
 **作者**: Zhou, Xueguang; Li, Lulu
 **摘要**: The prevailing image in the economic and legal literature portrays property rights as a bundle of rights and emphasizes their exclusivity, autonomy, and stability. Building on Zhou (2005), we elaborate and illustrate an alternative theoretical model to conceptualize property rights as a relational c…
 
 ### The Effects of Cultural Capital on Educational Aspirations among Adolescents in Macau
-**年份**: 2011 | **DOI**: [10.2753/CSA2162-0555440203](https://doi.org/10.2753/CSA2162-0555440203)
+**年份**: 2011 | **DOI**: [10.2753/csa2162-0555440203](https://doi.org/10.2753/csa2162-0555440203)
 **作者**: Wang, Hongyu
 **摘要**: Using a random-stratified sample of 1,030 students collected from fourteen middle schools in Macau in 2009, we examine the effect of cultural capital on students' educational aspirations in Macau, whose economy is dominated by the gambling industry.…
 
 ### The Household Registration System and Rural-Urban Educational Inequality in Contemporary China
-**年份**: 2011 | **DOI**: [10.2753/CSA2162-0555440202](https://doi.org/10.2753/CSA2162-0555440202)
+**年份**: 2011 | **DOI**: [10.2753/csa2162-0555440202](https://doi.org/10.2753/csa2162-0555440202)
 **作者**: Wu, Xiaogang
 **摘要**: This article examines the effect on educational inequality in contemporary China of the household registration (hukou) system, based on which Chinese citizens were designated as having either rural or urban status and entitled to different life chances.…
 
 ### The Relevance of China's Transformation for Contemporary Sociology
-**年份**: 2011 | **DOI**: [10.2753/CSA2162-0555440102](https://doi.org/10.2753/CSA2162-0555440102)
+**年份**: 2011 | **DOI**: [10.2753/csa2162-0555440102](https://doi.org/10.2753/csa2162-0555440102)
 **作者**: Walder, Andrew G.
 **摘要**: China's rapid social transformation recapitulates processes that occurred in an earlier era in Europe and North America, and which gave birth to the discipline of sociology. Research on contemporary China therefore provides a rare opportunity to revisit and rethink the founding ideas of the discipli…
 
 ### The Varying Display of Gender Display A Comparative Study of Mainland China and Taiwan
-**年份**: 2011 | **DOI**: [10.2753/CSA2162-0555440201](https://doi.org/10.2753/CSA2162-0555440201)
+**年份**: 2011 | **DOI**: [10.2753/csa2162-0555440201](https://doi.org/10.2753/csa2162-0555440201)
 **作者**: Yu, Jia; Xie, Yu
 **摘要**: In the literature on household work, gender display refers to the hypothesis that in order to compensate for their deviation from gender norms women who outearn their husbands tend to do more household work than women whose earnings are similar to those of their husbands.…

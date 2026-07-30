@@ -1,5 +1,5 @@
 """
-build_search_db.py — 构建 SQLite FTS5 全文检索数据库
+build_search_db.py — 构建 SQLite FTS5 元数据字段检索数据库
 读取 articles.json，建立可搜索的 literature.db
 
 使用方法：
@@ -72,7 +72,7 @@ def build_author_search_text(authors_text):
 # ─────────────────────────────────────────────
 
 def build(verbose=True):
-    """从 articles.json 构建 SQLite FTS5 全文检索数据库"""
+    """从 articles.json 构建 SQLite FTS5 元数据字段检索数据库"""
     if not ARTICLES_PATH.exists():
         print(f"错误：找不到 {ARTICLES_PATH}")
         return
@@ -169,7 +169,7 @@ def build(verbose=True):
 
 def search(query, limit=20, journal=None, year_from=None, year_to=None):
     """
-    全文检索，返回 (title, journal, year, doi, abstract_snippet) 列表
+    元数据字段检索，返回 (title, journal, year, doi, abstract_snippet) 列表
 
     query    — 搜索词，支持 AND/OR/NOT/短语（同 SQLite FTS5 语法）
     limit    — 最多返回条数
@@ -241,7 +241,7 @@ def print_results(results, query):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="构建或查询文献全文检索数据库",
+        description="构建或查询文献元数据字段检索数据库",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 示例：

@@ -7,26 +7,26 @@
 
 ## 2026
 
-- Description, Articulation and Limitations in the Social Theory of Insurance · [DOI](https://doi.org/10.1111/1468-4446.70110)
-- Ficto‐Primitive Capital: What Wellness Seekers Gain From Practicing Shamanism and Other Healing Traditions · [DOI](https://doi.org/10.1111/1468-4446.70119)
-- From Boardrooms to Platforms: Elite Brokerage and Digital Influence in Chilean Pro‐Market Think Tanks · [DOI](https://doi.org/10.1111/1468-4446.70117)
-- Taking Stock: Elite Studies and Social Change · [DOI](https://doi.org/10.1111/1468-4446.70093)
-- The Politics of Knowledge: Race, Decolonial Knowledge, and Activist Research in Belgium and the UK · [DOI](https://doi.org/10.1111/1468-4446.70116)
-- Entrepreneuring Legitimacy: A Case Study of the Cultural Codes and Boundary‐Makings of the Tech Elite · [DOI](https://doi.org/10.1111/1468-4446.70046)
-- Privileged Precarity: How the Mobile Middle Class Leverage Housing Insecurity as Labour Market Strategy · [DOI](https://doi.org/10.1111/1468-4446.70118)
-- Laying Grounds for Dialogue: Exploring Anti‐Racist Activists' Negotiations of Emotions When Challenging Colour‐Blindness in Norway · [DOI](https://doi.org/10.1111/1468-4446.70121)
-- The Worldviews of Elites: Differences Between Inheritors and Newcomers · [DOI](https://doi.org/10.1111/1468-4446.70122)
+- Class Ruptures and Openings: The Role of Social and Family History in Narratives on Class Mobility and Reproduction · [DOI](https://doi.org/10.1111/1468-4446.70135)
+- Criminal Records as Classification Situations · [DOI](https://doi.org/10.1111/1468-4446.70142)
 - Cruel and Usual: Recursive Racial Cruelty at the US Immigration Courts · [DOI](https://doi.org/10.1111/1468-4446.70120)
-- More Productive Bodies Faster! Human Capital and Anti‐Intellectualism in Danish University Reform · [DOI](https://doi.org/10.1111/1468-4446.70129)
 - Cultural and Human Capital Signals in Hiring—A Factorial Survey Experiment Across Contexts · [DOI](https://doi.org/10.1111/1468-4446.70125)
 - De(‐)Meaning Anti‐Racism · [DOI](https://doi.org/10.1111/1468-4446.70130)
-- The Negotiation of Intergenerational Support for Housing: Diverging Patterns Among Renters and Homeowners · [DOI](https://doi.org/10.1111/1468-4446.70131)
-- Unequal Family Ties, Wealth Transmission and Social Mobility Among Congolese Traders in Kinshasa · [DOI](https://doi.org/10.1111/1468-4446.70132)
+- Description, Articulation and Limitations in the Social Theory of Insurance · [DOI](https://doi.org/10.1111/1468-4446.70110)
+- Entrepreneuring Legitimacy: A Case Study of the Cultural Codes and Boundary‐Makings of the Tech Elite · [DOI](https://doi.org/10.1111/1468-4446.70046)
+- Ficto‐Primitive Capital: What Wellness Seekers Gain From Practicing Shamanism and Other Healing Traditions · [DOI](https://doi.org/10.1111/1468-4446.70119)
+- From Boardrooms to Platforms: Elite Brokerage and Digital Influence in Chilean Pro‐Market Think Tanks · [DOI](https://doi.org/10.1111/1468-4446.70117)
+- Laying Grounds for Dialogue: Exploring Anti‐Racist Activists' Negotiations of Emotions When Challenging Colour‐Blindness in Norway · [DOI](https://doi.org/10.1111/1468-4446.70121)
+- More Productive Bodies Faster! Human Capital and Anti‐Intellectualism in Danish University Reform · [DOI](https://doi.org/10.1111/1468-4446.70129)
+- Privileged Precarity: How the Mobile Middle Class Leverage Housing Insecurity as Labour Market Strategy · [DOI](https://doi.org/10.1111/1468-4446.70118)
 - Reading Margaret Kennedy’s The Feast (1950) at the Same Time as Dan Evan’s A Nation of Shopkeepers: The Unstoppable Rise of the Petty Bourgeoisie (2023) · [DOI](https://doi.org/10.1111/1468-4446.70123)
-- Class Ruptures and Openings: The Role of Social and Family History in Narratives on Class Mobility and Reproduction · [DOI](https://doi.org/10.1111/1468-4446.70135)
 - Screenshots, SIM Cards, and Household Governance: Digital Coercive Control and Evidence Making in Uganda · [DOI](https://doi.org/10.1111/1468-4446.70140)
-- Criminal Records as Classification Situations · [DOI](https://doi.org/10.1111/1468-4446.70142)
 - Subjective Social Inequalities, Lay Perceptions of Merit and Puzzles of Explanation · [DOI](https://doi.org/10.1111/1468-4446.70137)
+- Taking Stock: Elite Studies and Social Change · [DOI](https://doi.org/10.1111/1468-4446.70093)
+- The Negotiation of Intergenerational Support for Housing: Diverging Patterns Among Renters and Homeowners · [DOI](https://doi.org/10.1111/1468-4446.70131)
+- The Politics of Knowledge: Race, Decolonial Knowledge, and Activist Research in Belgium and the UK · [DOI](https://doi.org/10.1111/1468-4446.70116)
+- The Worldviews of Elites: Differences Between Inheritors and Newcomers · [DOI](https://doi.org/10.1111/1468-4446.70122)
+- Unequal Family Ties, Wealth Transmission and Social Mobility Among Congolese Traders in Kinshasa · [DOI](https://doi.org/10.1111/1468-4446.70132)
 
 ## 2025
 
@@ -53,6 +53,7 @@
 - Class, gender and the work of working-class women amid turbulent times · [DOI](https://doi.org/10.1111/1468-4446.13147)
 - Climate Moralities Offset: A Case of Formative Voluntary Carbon Markets · [DOI](https://doi.org/10.1111/1468-4446.70000)
 - Commercial Surrogacy Is not a Secret Handshake: It Is a High-Five: Gay Fathers in China's Changing Landscape · [DOI](https://doi.org/10.1111/1468-4446.13214)
+- Comparing Transgender Identities in the Census of Scotland and the Census of England and Wales · [DOI](https://doi.org/10.1111/1468-4446.70030)
 - Conspiratorial narratives as cultural repertoires and methodological tools · [DOI](https://doi.org/10.1111/1468-4446.13143)
 - Contesting individualization and individualism in marriage in East Asia: Dual-income couples' monetary practices · [DOI](https://doi.org/10.1111/1468-4446.13170)
 - Convivial Chance Encounters: 'Contact-Supporting Circumstances' in Urban Public Space · [DOI](https://doi.org/10.1111/1468-4446.70059)
@@ -146,7 +147,6 @@
 - When the 'Old' Attend to the 'Old': Female Direct Care Workers Doing Gendered and Classed Age in the Chinese Elder Care Industry · [DOI](https://doi.org/10.1111/1468-4446.13211)
 - Why Do High-Income Democrats Support Redistribution? The Roles of Partisanship, Racial Attitudes and Fiscal Populism · [DOI](https://doi.org/10.1111/1468-4446.70032)
 - Why Neoliberalism Doesn't Spell the Death of Society: Commonality, Regulation, and the Politics of Social Cohesion · [DOI](https://doi.org/10.1111/1468-4446.70031)
-- Comparing Transgender Identities in the Census of Scotland and the Census of England and Wales · [DOI](https://doi.org/10.1111/1468-4446.70030)
 
 ## 2024
 
@@ -483,6 +483,7 @@
 - Class and status: on the misconstrual of the conceptual distinction and a neo-Bourdieusian alternative · [DOI](https://doi.org/10.1111/1468-4446.12508)
 - Conjugal intimacy, gender and modernity in contemporary China · [DOI](https://doi.org/10.1111/1468-4446.12338)
 - Cross-domain comparison and the politics of difference · [DOI](https://doi.org/10.1111/1468-4446.12490)
+- Cultural narratives and their social supports, or: sociology as a team sport · [DOI](https://doi.org/10.1111/1468-4446.12666)
 - Cultures of care? Animals and science in Britain · [DOI](https://doi.org/10.1111/1468-4446.12706)
 - Curriculum requirements and subsequent civic engagement: is there a difference between 'forced' and 'free' community service? · [DOI](https://doi.org/10.1111/1468-4446.12627)
 - Deserving citizenship? Exploring migrants' experiences of the 'citizenship test' process in the United Kingdom · [DOI](https://doi.org/10.1111/1468-4446.12351)
@@ -513,6 +514,7 @@
 - Money as a social relation beyond the state: a contribution to the institutionalist approach based on the Argentinian trueque · [DOI](https://doi.org/10.1111/1468-4446.12610)
 - Normalizing covert surveillance: the subterranean world of policing · [DOI](https://doi.org/10.1111/1468-4446.12651)
 - Omnivorousness and openness: comments to Tak Wing Chan · [DOI](https://doi.org/10.1111/1468-4446.12653)
+- On culture and inequality: distinction, omnivorousness, status and class · [DOI](https://doi.org/10.1111/1468-4446.12678)
 - One world is not enough: the structured phenomenology of lifestyle migrants in East Asia · [DOI](https://doi.org/10.1111/1468-4446.12357)
 - Parental values in the UK · [DOI](https://doi.org/10.1111/1468-4446.12658)
 - Pathological integration, or, how East Europeans use racism to become British · [DOI](https://doi.org/10.1111/1468-4446.12337)
@@ -551,8 +553,6 @@
 - What makes for a successful sociology? A response to “Against a descriptive turn” · [DOI](https://doi.org/10.1111/1468-4446.12713)
 - Wrangling with the Black monster: young Black mixed-race men and masculinities · [DOI](https://doi.org/10.1111/1468-4446.12670)
 - Youth participation in 'post-secular' times: young Muslim and Buddhist practitioners as religious citizens · [DOI](https://doi.org/10.1111/1468-4446.12368)
-- On culture and inequality: distinction, omnivorousness, status and class · [DOI](https://doi.org/10.1111/1468-4446.12678)
-- Cultural narratives and their social supports, or: sociology as a team sport · [DOI](https://doi.org/10.1111/1468-4446.12666)
 
 ## 2018
 
@@ -1547,6 +1547,7 @@
 - Segregation, ethnic labour market and the occupational expectations of Palestinian students in Israel · [DOI](https://doi.org/10.1080/0007131032000080230)
 - Signs of change in Turkey's working class: workers' age-related perceptions in the modern manufacturing sector* · [DOI](https://doi.org/10.1080/0007131032000143573)
 - Signs of change in Turkey's working class: workers' age‐related perceptions in the modern manufacturing sector* · [DOI](https://doi.org/10.1111/j.1468-4446.2003.00527.x)
+- Social capital and social exclusion in England and Wales (1972-1999) · [DOI](https://doi.org/10.1080/0007131032000143564)
 - Social capital and social exclusion in England and Wales (1972–1999) · [DOI](https://doi.org/10.1111/j.1468-4446.2003.00497.x)
 - Social interaction distance and stratification · [DOI](https://doi.org/10.1080/0007131032000080195)
 - Social networks, travel and talk · [DOI](https://doi.org/10.1080/0007131032000080186)
@@ -1554,7 +1555,6 @@
 - The Impure Strikes Back · [DOI](https://doi.org/10.1111/j.1468-4446.2003.00407.x)
 - The reflexive self and culture: a critique · [DOI](https://doi.org/10.1080/0007131032000080212)
 - The revival of death: expression, expertise and governmentality · [DOI](https://doi.org/10.1080/0007131032000045897)
-- Social capital and social exclusion in England and Wales (1972-1999) · [DOI](https://doi.org/10.1080/0007131032000143564)
 
 ## 2002
 
@@ -1689,102 +1689,102 @@
 ## 1999
 
 - Boredom and social meaning · [DOI](https://doi.org/10.1080/000713199358572)
-- Routes of success: influences on the occupational attainment of young British males · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00217.x)
-- Who killed whom?: victimization and culpability in the social construction of murder · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00489.x)
 - Class voting, social change, and the left in Australia, 1943–961 · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00609.x)
+- Risk and the welfare state* · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00177.x)
+- Routes of success: influences on the occupational attainment of young British males · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00217.x)
 - Social mobility and personal satisfaction: evidence from ten countries* · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00028.x)
+- The barbarism of civilization: cultural genocide and the 'stolen generations' · [DOI](https://doi.org/10.1080/000713199358752)
 - The barbarism of civilization: cultural genocide and the ‘stolen generations’1 · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00297.x)
 - Towards an embodied understanding of the structure / agency relationship · [DOI](https://doi.org/10.1080/000713199358527)
-- The barbarism of civilization: cultural genocide and the 'stolen generations' · [DOI](https://doi.org/10.1080/000713199358752)
-- Risk and the welfare state* · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00177.x)
+- Who killed whom?: victimization and culpability in the social construction of murder · [DOI](https://doi.org/10.1111/j.1468-4446.1999.00489.x)
 
 ## 1998
 
+- A Special Case of Voluntary Associations? Towards a Theory of Congregational Organization · [DOI](https://doi.org/10.2307/591291)
+- A Telling Tale: A Case of Vigilantism and Its Aftermath in an English Town · [DOI](https://doi.org/10.2307/591394)
+- Developing a Sociology for the Twenty-First Century: Preference Theory · [DOI](https://doi.org/10.2307/591267)
 - Habermas and Foucault: Thinkers for Civil Society? · [DOI](https://doi.org/10.2307/591310)
 - Rational Action Theory for Sociology · [DOI](https://doi.org/10.2307/591308)
-- The Religiosity of Women in the Modern West · [DOI](https://doi.org/10.2307/591293)
-- A Special Case of Voluntary Associations? Towards a Theory of Congregational Organization · [DOI](https://doi.org/10.2307/591291)
-- Developing a Sociology for the Twenty-First Century: Preference Theory · [DOI](https://doi.org/10.2307/591267)
-- A Telling Tale: A Case of Vigilantism and Its Aftermath in an English Town · [DOI](https://doi.org/10.2307/591394)
 - Stuart Hall's Cultural Studies and the Problem of Hegemony · [DOI](https://doi.org/10.2307/591390)
+- The Religiosity of Women in the Modern West · [DOI](https://doi.org/10.2307/591293)
 
 ## 1997
 
+- Becoming a Young Parent: A Longitudinal Study of Associated Factors · [DOI](https://doi.org/10.2307/591138)
+- Contingent Ties: Undercover Drug Officers' Use of Informants · [DOI](https://doi.org/10.2307/591909)
 - Narrow Roads of Gene Land: The Collected Papers of W. D. Hamilton, Volume 1: The Evolution of Social Behaviour · [DOI](https://doi.org/10.2307/591766)
+- Politics and the Struggle to Define: A Discourse Analysis of the Framing Strategies of Competing Actors in a 'New' Participatory Forum · [DOI](https://doi.org/10.2307/591142)
 - Seasonal Sub-Communities: The Impact of Student Households on Residential Communities · [DOI](https://doi.org/10.2307/591753)
 - Television and the Reflexive Project of the Self: Soaps, Teenage Talk and Hybrid Identities · [DOI](https://doi.org/10.2307/591599)
 - The Late-Modern City as a Bazaar: Drug Markets, Illegal Enterprise and the 'Barricades' · [DOI](https://doi.org/10.2307/591910)
-- Politics and the Struggle to Define: A Discourse Analysis of the Framing Strategies of Competing Actors in a 'New' Participatory Forum · [DOI](https://doi.org/10.2307/591142)
-- Becoming a Young Parent: A Longitudinal Study of Associated Factors · [DOI](https://doi.org/10.2307/591138)
-- Contingent Ties: Undercover Drug Officers' Use of Informants · [DOI](https://doi.org/10.2307/591909)
 - The Risk Society in an Age of Anxiety: Situating Fear of Crime · [DOI](https://doi.org/10.2307/591751)
 
 ## 1996
 
-- Measuring Left-Right and Libertarian-Authoritarian Values in the British Electorate · [DOI](https://doi.org/10.2307/591118)
-- Theorizing the Interview · [DOI](https://doi.org/10.2307/591728)
-- Public Religions in the Modern World · [DOI](https://doi.org/10.2307/591125)
-- The Sexual Division of Labour and Women's Heterogeneity · [DOI](https://doi.org/10.2307/591124)
 - Agrarian Relations and Class Hegemony: A Comparative Analysis of Landlord, Social and Political Power - Italy 1861-1920 · [DOI](https://doi.org/10.2307/591725)
-- Was Communism Good for Social Justice?: A Comparative Analysis of the Two Germanies · [DOI](https://doi.org/10.2307/591359)
+- Measuring Left-Right and Libertarian-Authoritarian Values in the British Electorate · [DOI](https://doi.org/10.2307/591118)
+- Public Religions in the Modern World · [DOI](https://doi.org/10.2307/591125)
 - Social Class and Underclass in Britain and the USA · [DOI](https://doi.org/10.2307/591114)
 - The Fragmentation of Class Analysis · [DOI](https://doi.org/10.2307/591116)
+- The Sexual Division of Labour and Women's Heterogeneity · [DOI](https://doi.org/10.2307/591124)
+- Theorizing the Interview · [DOI](https://doi.org/10.2307/591728)
+- Was Communism Good for Social Justice?: A Comparative Analysis of the Two Germanies · [DOI](https://doi.org/10.2307/591359)
 
 ## 1995
 
 - Amateurs, Professionals and the Knowledge of Archaeology · [DOI](https://doi.org/10.2307/591853)
-- Legitimacy and Order in Prisons · [DOI](https://doi.org/10.2307/591622)
-- The Persistent Glass Ceiling: Gendered Inequalities in the Earnings of Lawyers · [DOI](https://doi.org/10.2307/591789)
-- Five Feminist Myths about Women's Employment · [DOI](https://doi.org/10.2307/591850)
-- Rethinking 'Moral Panic' for Multi-Mediated Social Worlds · [DOI](https://doi.org/10.2307/591571)
-- The Social Meanings behind Male Sex Work: Implications for Sexual Interactions · [DOI](https://doi.org/10.2307/591574)
 - East Germany: Rising Incomes, Unchanged Inequality and the Impact of Redistributive Government 1990-92 · [DOI](https://doi.org/10.2307/591787)
+- Five Feminist Myths about Women's Employment · [DOI](https://doi.org/10.2307/591850)
+- Legitimacy and Order in Prisons · [DOI](https://doi.org/10.2307/591622)
+- Rethinking 'Moral Panic' for Multi-Mediated Social Worlds · [DOI](https://doi.org/10.2307/591571)
+- The Persistent Glass Ceiling: Gendered Inequalities in the Earnings of Lawyers · [DOI](https://doi.org/10.2307/591789)
+- The Social Meanings behind Male Sex Work: Implications for Sexual Interactions · [DOI](https://doi.org/10.2307/591574)
 - Towards a Sociological Model of the Police Informant · [DOI](https://doi.org/10.2307/591854)
 
 ## 1994
 
-- Mannheim's Sociology of Generations: An Undervalued Legacy · [DOI](https://doi.org/10.2307/591659)
 - John Goldthorpe and the Relics of Sociology · [DOI](https://doi.org/10.2307/591522)
+- Mannheim's Sociology of Generations: An Undervalued Legacy · [DOI](https://doi.org/10.2307/591659)
 - New Times for the Military: Some Sociological Remarks on the Changing Role and Structure of the Armed Forces of the Advanced Societies · [DOI](https://doi.org/10.2307/591887)
 
 ## 1992
 
-- Political Power beyond the State: Problematics of Government · [DOI](https://doi.org/10.2307/591464)
 - Mega-Events and Micro-Modernization: On the Sociology of the New Urban Tourism · [DOI](https://doi.org/10.2307/591340)
+- Political Power beyond the State: Problematics of Government · [DOI](https://doi.org/10.2307/591464)
 
 ## 1991
 
 - Disability and Social Stratification · [DOI](https://doi.org/10.2307/591447)
-- The Race Relations Problematic · [DOI](https://doi.org/10.2307/590837)
-- Spotting the Invisible Man: The Influence of Male Gender on Fieldwork Relations · [DOI](https://doi.org/10.2307/590367)
 - Eugenics, Social Medicine and the Career of Richard Titmuss in Britain 1935-50 · [DOI](https://doi.org/10.2307/590366)
 - Obligations of Kinship in Contemporary Britain: Is There Normative Agreement? · [DOI](https://doi.org/10.2307/591185)
 - Social Movements during Cycles of Issue Attention: The Decline of the Anti-Nuclear Energy Movements in West Germany and the USA · [DOI](https://doi.org/10.2307/590834)
+- Spotting the Invisible Man: The Influence of Male Gender on Fieldwork Relations · [DOI](https://doi.org/10.2307/590367)
+- The Race Relations Problematic · [DOI](https://doi.org/10.2307/590837)
 
 ## 1990
 
-- Patriarchy, Patrimonialism, and Filial Piety: A Comparison of China and Western Europe · [DOI](https://doi.org/10.2307/591019)
 - Joining a Political Party: A Reassessment of the Economic Approach to Membership · [DOI](https://doi.org/10.2307/590664)
+- Patriarchy, Patrimonialism, and Filial Piety: A Comparison of China and Western Europe · [DOI](https://doi.org/10.2307/591019)
 - Socialisation and Social Change: A Critique of Three Positions · [DOI](https://doi.org/10.2307/590665)
 
 ## 1989
 
-- The Homosexual Escort Agency: Deviance Disavowal · [DOI](https://doi.org/10.2307/590288)
 - Social Mobility · [DOI](https://doi.org/10.2307/591043)
+- The Homosexual Escort Agency: Deviance Disavowal · [DOI](https://doi.org/10.2307/590288)
 
 ## 1988
 
-- The Reproduction of Privilege in Australian Education · [DOI](https://doi.org/10.2307/590483)
-- Sociology after the Holocaust · [DOI](https://doi.org/10.2307/590497)
 - Part II: Weber's Exploration of Calvinism: The Undiscovered Provenance of Capitalism · [DOI](https://doi.org/10.2307/590780)
+- Sociology after the Holocaust · [DOI](https://doi.org/10.2307/590497)
+- The Reproduction of Privilege in Australian Education · [DOI](https://doi.org/10.2307/590483)
 
 ## 1987
 
+- Acts of Union: Youth Sub-Culture and Ethnic Identity amongst Protestants in Northern Ireland · [DOI](https://doi.org/10.2307/590530)
+- Moral Protest, Status Defence and the Anti-Abortion Campaign · [DOI](https://doi.org/10.2307/590534)
 - Recent Marxist Theories of Nationalism and the Issue of Racism · [DOI](https://doi.org/10.2307/590577)
 - The Idea of Crisis in Modern Society · [DOI](https://doi.org/10.2307/590914)
 - Weber and the Classification of Forms of Legitimacy · [DOI](https://doi.org/10.2307/590532)
-- Acts of Union: Youth Sub-Culture and Ethnic Identity amongst Protestants in Northern Ireland · [DOI](https://doi.org/10.2307/590530)
-- Moral Protest, Status Defence and the Anti-Abortion Campaign · [DOI](https://doi.org/10.2307/590534)
 
 ## 1986
 
@@ -1793,26 +1793,26 @@
 
 ## 1985
 
-- Weber's Verstehen and the History of Qualitative Research: The Missing Link · [DOI](https://doi.org/10.2307/590460)
 - On Economic Development and Social Mobility · [DOI](https://doi.org/10.2307/590331)
 - Power and Resistance · [DOI](https://doi.org/10.2307/590330)
+- Weber's Verstehen and the History of Qualitative Research: The Missing Link · [DOI](https://doi.org/10.2307/590460)
 
 ## 1984
 
 - Beyond Functionalism: Towards a Nonequilibrium Analysis of Complex Social Systems · [DOI](https://doi.org/10.2307/590548)
+- Beyond the Market: The Survival of Family Capitalism in the English Merchant Banks · [DOI](https://doi.org/10.2307/590234)
 - Immigrants, Socio-Economic Attainment, and Politics in Australia · [DOI](https://doi.org/10.2307/590972)
 - The Genesis of the Registrar-General's Social Classification of Occupations · [DOI](https://doi.org/10.2307/590433)
 - The Structure of Closure: A Critique and Development of the Theories of Weber, Collins, and Parkin · [DOI](https://doi.org/10.2307/590434)
-- Beyond the Market: The Survival of Family Capitalism in the English Merchant Banks · [DOI](https://doi.org/10.2307/590234)
 
 ## 1983
 
-- Goodwill and the Spirit of Market Capitalism · [DOI](https://doi.org/10.2307/590932)
-- The 'Old' and the 'New' Hermeneutic in Sociological Theory · [DOI](https://doi.org/10.2307/590937)
-- Nationalism and Classical Social Theory · [DOI](https://doi.org/10.2307/590606)
 - Explaining Perceptions of Class and Racial Inequality in England and the United States of America · [DOI](https://doi.org/10.2307/590253)
-- The Family · [DOI](https://doi.org/10.2307/590941)
+- Goodwill and the Spirit of Market Capitalism · [DOI](https://doi.org/10.2307/590932)
+- Nationalism and Classical Social Theory · [DOI](https://doi.org/10.2307/590606)
+- The 'Old' and the 'New' Hermeneutic in Sociological Theory · [DOI](https://doi.org/10.2307/590937)
 - The Ethics of Anomie: Jean Marie Guyau and Emile Durkheim · [DOI](https://doi.org/10.2307/590936)
+- The Family · [DOI](https://doi.org/10.2307/590941)
 
 ## 1982
 
@@ -1823,16 +1823,16 @@
 
 ## 1981
 
+- Immanent Critique as the Core of Critical Theory: Its Origins and Developments in Hegel, Marx and Contemporary Thought · [DOI](https://doi.org/10.2307/589281)
 - Sociological Paradigms and Organizational Analysis: Elements of the Sociology of Corporate Life · [DOI](https://doi.org/10.2307/589304)
 - The Housing Decisions of Young People · [DOI](https://doi.org/10.2307/589449)
 - The Nobel Scientists and the Origins of Scientific Achievement · [DOI](https://doi.org/10.2307/589284)
-- Immanent Critique as the Core of Critical Theory: Its Origins and Developments in Hegel, Marx and Contemporary Thought · [DOI](https://doi.org/10.2307/589281)
 
 ## 1980
 
-- The Problem of Thematic Unity in the Works of Max Weber · [DOI](https://doi.org/10.2307/589370)
 - Immigrants and Society - A Critical View of the Dominant School of Israeli Sociology · [DOI](https://doi.org/10.2307/589690)
 - The Philosophy of the Social Sciences · [DOI](https://doi.org/10.2307/589695)
+- The Problem of Thematic Unity in the Works of Max Weber · [DOI](https://doi.org/10.2307/589370)
 
 ## 1979
 
@@ -1853,11 +1853,11 @@
 ## 1976
 
 - A World-System Perspective on the Social Sciences · [DOI](https://doi.org/10.2307/589620)
+- Alienation: Trying to Bridge the Chasm · [DOI](https://doi.org/10.2307/589559)
 - Anti-War Demonstrations and American Public Opinion on the War in Vietnam · [DOI](https://doi.org/10.2307/590029)
-- Woman Culture and Society · [DOI](https://doi.org/10.2307/590199)
 - Consciousness and Contradiction: A Study of Student Protest in Zambia · [DOI](https://doi.org/10.2307/589562)
 - H. T. Buckle: The Liberal Faith and the Science of History · [DOI](https://doi.org/10.2307/589622)
-- Alienation: Trying to Bridge the Chasm · [DOI](https://doi.org/10.2307/589559)
+- Woman Culture and Society · [DOI](https://doi.org/10.2307/590199)
 
 ## 1975
 
@@ -1865,9 +1865,9 @@
 
 ## 1974
 
-- The Methodological Implications of Symbolic Interactionism for the Study of Deviance · [DOI](https://doi.org/10.2307/589394)
 - Modes and Types of Political Alienation · [DOI](https://doi.org/10.2307/590156)
 - The Manufacture of News: Deviants, Social Problems and the Mass Media · [DOI](https://doi.org/10.2307/589323)
+- The Methodological Implications of Symbolic Interactionism for the Study of Deviance · [DOI](https://doi.org/10.2307/589394)
 
 ## 1972
 
@@ -1882,14 +1882,14 @@
 
 ## 1969
 
-- The Theme of Contemporary Social Movements · [DOI](https://doi.org/10.2307/588924)
-- The Myth of Community Studies · [DOI](https://doi.org/10.2307/588525)
 - A Weberian Outline of a Theory of Community: Its Application to the 'Dark Ghetto' · [DOI](https://doi.org/10.2307/588526)
+- The Myth of Community Studies · [DOI](https://doi.org/10.2307/588525)
+- The Theme of Contemporary Social Movements · [DOI](https://doi.org/10.2307/588924)
 
 ## 1968
 
-- The Sociology of the Betting Shop · [DOI](https://doi.org/10.2307/588541)
 - Methodological Individualism Reconsidered · [DOI](https://doi.org/10.2307/588689)
+- The Sociology of the Betting Shop · [DOI](https://doi.org/10.2307/588541)
 
 ## 1967
 
@@ -1903,8 +1903,8 @@
 ## 1965
 
 - Integration versus Segregation in the New Zealand Churches · [DOI](https://doi.org/10.2307/588355)
-- White-Collar Unionization: A Conceptual Framework · [DOI](https://doi.org/10.2307/588353)
 - The Suicide Problem in French Sociology · [DOI](https://doi.org/10.2307/588563)
+- White-Collar Unionization: A Conceptual Framework · [DOI](https://doi.org/10.2307/588353)
 
 ## 1964
 
@@ -1916,15 +1916,15 @@
 
 ## 1962
 
-- The Denomination · [DOI](https://doi.org/10.2307/587942)
-- The Meaning of Poverty · [DOI](https://doi.org/10.2307/587266)
 - Aspects of Westernization: A Study of Adult-Class Students in Ghana: II · [DOI](https://doi.org/10.2307/587945)
+- The Denomination · [DOI](https://doi.org/10.2307/587942)
 - The Evolution of the American City and the Emergence of Anomie: A Culture Case Study of Buffalo, New York: 1810-1910 · [DOI](https://doi.org/10.2307/587892)
+- The Meaning of Poverty · [DOI](https://doi.org/10.2307/587266)
 
 ## 1961
 
-- The Teaching of Social Administration · [DOI](https://doi.org/10.2307/587815)
 - 'Working-Class Authoritarianism': A Critique of Lipset · [DOI](https://doi.org/10.2307/587819)
+- The Teaching of Social Administration · [DOI](https://doi.org/10.2307/587815)
 
 ## 1959
 
@@ -1936,8 +1936,8 @@
 
 ## 1957
 
-- Sociology and Social Policy · [DOI](https://doi.org/10.2307/587367)
 - Social Conflict and the Theory of Social Change · [DOI](https://doi.org/10.2307/586859)
+- Sociology and Social Policy · [DOI](https://doi.org/10.2307/587367)
 
 ## 1956
 

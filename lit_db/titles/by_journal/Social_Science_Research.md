@@ -7,43 +7,43 @@
 
 ## 2026
 
+- A Schumpeter hotel? Surname status inequality and persistence in Sweden, 1880–2015 · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103367)
+- Americans' views of religion in public life: The effect of three cultural models on attitudes toward religious and nonreligious groups · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103393)
 - Between autonomy and interdependence: The changing parental role in adult children's family formation in China · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103279)
 - Buying out in same-sex and different-sex couples in the United States: Outsourcing of routine and non-routine housework tasks · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103297)
+- Catalysts and buffers: How diversity and status in social networks shape attitudes towards inequality in contemporary societies · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103389)
+- Childhood exposure to local wealth inequality, economic isolation in schools, and inter-class social ties in adulthood · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103355)
 - Compensation or concordance between warmth and competence: Examining social class stereotypes in English and Chinese languages using natural language · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103284)
+- Criminal legal contact, labor market insecurity and labor market participation · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103321)
 - Cross-cohort employment differences among US mothers of young children: The role of nonparental childcare · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103261)
+- Do geopolitical tensions increase negative attitudes toward minorities? Evidence from a natural experiment in India · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103323)
 - Do state-funded Alternatives to Abortion programs reduce abortion rates? A longitudinal analysis · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103259)
 - Does parental involvement in school affect children's school performance? · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103275)
 - Doing diversity? Analyzing support for diversity policies with a conjoint experiment · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103262)
 - Dual language immersion programs and their neighborhoods: Issues of program access and representation within Los Angeles Unified School District · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103255)
+- Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024 · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103347)
+- Educational attainment, gender, and the change in access to schedule flexibility in Europe and the United States · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103309)
+- Employment stability and social origin: Cumulative advantages in young adults’ homeownership and financial asset accumulation · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103369)
+- Gendered work and family trajectories: How do STEM graduates fare in the labor market? · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103345)
+- Horizontal stratification and educational homogamy in South Korea: Marriage patterns and preferences across elite- and non-elite university graduates · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103386)
 - Is my manager feeling threatened by me? Racial differences in content and activation of threat metastereotypes · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103306)
 - Mob mentality: Social norms affect the approval and perceived morality of unjustified police violence · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103253)
 - Moving homes, changing perspectives: How residential and social mobility in childhood shape locus of control and adult mental health · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103272)
 - Online social class cues and employability: Experimental evidence from Germany · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103258)
 - Polluting student test performance: School-based evidence on the adverse effects of air pollution · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103343)
 - Public housing and neighborhood composition in Hong Kong, 1981-2016 · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103276)
+- Regrets, she's had a few: Gender and regret of computer science and engineering degrees · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103298)
+- Socioeconomic divides in curricular pathways: Unpacking decision-making mechanisms and peer effects · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103359)
+- State-level gender inequality and couples’ relative earnings following parenthood over four decades · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103302)
 - The gender system: A cross-national perspective · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103344)
+- The good, the bad, and the healthy: A factorial survey analysis of situational morality in consumption and healthcare · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103378)
+- The intergenerational mobility advantage of educators’ children: Capital embedded in occupations · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103388)
 - The relevance of meritocratic beliefs for redistributive preferences increases with income · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103294)
 - The structural fit of personal gender beliefs: A cross-national analysis of its implications for life satisfaction · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103308)
-- What drives educational segregation and which communities are affected? Findings from a decomposition approach☆ · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103263)
-- Why social norms matter in science: Determinants of misconduct in German-speaking Europe · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103292)
-- State-level gender inequality and couples’ relative earnings following parenthood over four decades · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103302)
-- Childhood exposure to local wealth inequality, economic isolation in schools, and inter-class social ties in adulthood · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103355)
-- Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024 · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103347)
-- Socioeconomic divides in curricular pathways: Unpacking decision-making mechanisms and peer effects · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103359)
-- Gendered work and family trajectories: How do STEM graduates fare in the labor market? · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103345)
-- Employment stability and social origin: Cumulative advantages in young adults’ homeownership and financial asset accumulation · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103369)
-- A Schumpeter hotel? Surname status inequality and persistence in Sweden, 1880–2015 · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103367)
-- The good, the bad, and the healthy: A factorial survey analysis of situational morality in consumption and healthcare · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103378)
 - Toward a formal sociological model of partner search · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103356)
-- Regrets, she's had a few: Gender and regret of computer science and engineering degrees · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103298)
+- What drives educational segregation and which communities are affected? Findings from a decomposition approach☆ · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103263)
 - When categories change value: How new educational resources reshape patterns of inequality · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103310)
-- Do geopolitical tensions increase negative attitudes toward minorities? Evidence from a natural experiment in India · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103323)
-- The intergenerational mobility advantage of educators’ children: Capital embedded in occupations · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103388)
-- Criminal legal contact, labor market insecurity and labor market participation · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103321)
-- Catalysts and buffers: How diversity and status in social networks shape attitudes towards inequality in contemporary societies · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103389)
-- Americans' views of religion in public life: The effect of three cultural models on attitudes toward religious and nonreligious groups · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103393)
-- Horizontal stratification and educational homogamy in South Korea: Marriage patterns and preferences across elite- and non-elite university graduates · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103386)
-- Educational attainment, gender, and the change in access to schedule flexibility in Europe and the United States · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103309)
+- Why social norms matter in science: Determinants of misconduct in German-speaking Europe · [DOI](https://doi.org/10.1016/j.ssresearch.2025.103292)
 - Workers, jobs, and how they are matched: A decomposition of US labor market trends in educational mismatch · [DOI](https://doi.org/10.1016/j.ssresearch.2026.103311)
 
 ## 2025
@@ -367,6 +367,7 @@
 - Gender inequality in relational position-taking: An analysis of intra-organizational job mobility networks · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102622)
 - Gender overeducation gap in the digital age: Can spatial flexibility through working from home close the gap? · [DOI](https://doi.org/10.1016/j.ssresearch.2022.102727)
 - Gender, union formation, and assortative mating among older women · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102656|)
+- Higher education non-completion, employers, and labor market integration: Experimental evidence · [DOI](https://doi.org/10.1016/j.ssresearch.2022.102696)
 - How indiscriminate violence fuels conflicts between groups: Evidence from Kenya · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102653)
 - How should the government treat asylum seekers? The role of labour market vulnerability and migration in Europe · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102666)
 - Ideology shapes how workers perceive and react to workplace discrimination: An experimental study on parenthood discrimination · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102642)
@@ -418,7 +419,6 @@
 - Women's employment and Children's education: Longitudinal evidence from Nepal · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102669)
 - Work-family conflict and depressive symptoms among dual-earner couples in Germany: A dyadic and longitudinal analysis · [DOI](https://doi.org/10.1016/j.ssresearch.2021.102684)
 - Worlds of distributive justice preferences: Individual- and country-level profiles of support for equality, equity and need · [DOI](https://doi.org/10.1016/j.ssresearch.2022.102721)
-- Higher education non-completion, employers, and labor market integration: Experimental evidence · [DOI](https://doi.org/10.1016/j.ssresearch.2022.102696)
 
 ## 2021
 
@@ -2305,8 +2305,8 @@
 
 ## 1996
 
-- The Effect of Military Service on Educational, Occupational, and Income Attainment · [DOI](https://doi.org/10.1006/ssre.1996.0001)
 - Internationally Comparable Measures of Occupational Status for the 1988 International Standard Classification of Occupations · [DOI](https://doi.org/10.1006/ssre.1996.0010)
+- The Effect of Military Service on Educational, Occupational, and Income Attainment · [DOI](https://doi.org/10.1006/ssre.1996.0001)
 
 ## 1995
 
@@ -2330,10 +2330,10 @@
 
 ## 1991
 
+- Density dependence in the organizational evolution of the American brewing industry across different levels of analysis · [DOI](https://doi.org/10.1016/0049-089x(91)90008-q)
 - Estimating the size of an average personal network and of an event subpopulation: Some empirical results · [DOI](https://doi.org/10.1016/0049-089x(91)90012-r)
 - Leaving the faith: Testing theories of religious switching using survival models · [DOI](https://doi.org/10.1016/0049-089x(91)90015-u)
 - Why do married men earn more than unmarried men? · [DOI](https://doi.org/10.1016/0049-089x(91)90002-k)
-- Density dependence in the organizational evolution of the American brewing industry across different levels of analysis · [DOI](https://doi.org/10.1016/0049-089x(91)90008-q)
 
 ## 1989
 
@@ -2341,8 +2341,8 @@
 
 ## 1988
 
-- Estimation and hypothesis testing for seemingly unrelated regressions: A sociological application · [DOI](https://doi.org/10.1016/0049-089x(88)90010-5)
 - Conjoint scaling of the utility of money using paired comparisons · [DOI](https://doi.org/10.1016/0049-089x(88)90017-8)
+- Estimation and hypothesis testing for seemingly unrelated regressions: A sociological application · [DOI](https://doi.org/10.1016/0049-089x(88)90010-5)
 
 ## 1987
 
@@ -2363,8 +2363,8 @@
 
 ## 1978
 
-- Sex similarities in occupational status attainment: Are the results due to the restriction of the sample to employed women? · [DOI](https://doi.org/10.1016/0049-089x(78)90011-x)
 - Interorganizational resource networks: Formal patterns of overlap · [DOI](https://doi.org/10.1016/0049-089x(78)90006-6)
+- Sex similarities in occupational status attainment: Are the results due to the restriction of the sample to employed women? · [DOI](https://doi.org/10.1016/0049-089x(78)90011-x)
 
 ## 1977
 

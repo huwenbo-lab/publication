@@ -9,6 +9,7 @@ clean_data.py — 数据清洗脚本
 5. 删除无效摘要（reviewer list、editorial board list 等）
 """
 
+import argparse
 import json
 import re
 from collections import Counter, defaultdict
@@ -19,8 +20,13 @@ from _paths import REPORTS_DIR, ROOT
 
 ARTICLES_JSON = ROOT / "articles.json"
 DATA_JSON = ROOT / "data.json"
-DATA_JS = ROOT / "data.js"
 CLEANUP_REPORT = REPORTS_DIR / "non_article_cleanup_report.md"
+
+EMAIL_PATTERN = re.compile(
+    r"(?<![\w.+-])[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}(?![\w-])",
+    re.IGNORECASE,
+)
+AT_TOKEN_PATTERN = re.compile(r"(?<!\S)\S*@\S*(?!\S)")
 
 
 # ──────────────────────────────────────────────
@@ -85,7 +91,17 @@ def clean_abstract(abstract):
     abstract = clean_html_entities(abstract)
     # 3. 清理多余空白
     abstract = re.sub(r'\s+', ' ', abstract).strip()
+    # 4. 公开元数据不保留摘要内的联系邮箱
+    abstract = redact_contact_data(abstract)
     return abstract
+
+
+def redact_contact_data(text):
+    """Remove contact email addresses from public metadata text."""
+    if not text:
+        return text
+    text = EMAIL_PATTERN.sub("[contact email removed]", text)
+    return AT_TOKEN_PATTERN.sub("[contact token removed]", text)
 
 
 # ──────────────────────────────────────────────
@@ -343,21 +359,36 @@ def save_articles(articles):
     with open(DATA_JSON, "w", encoding="utf-8") as f:
         json.dump(legacy, f, ensure_ascii=False, indent=2)
 
-    with open(DATA_JS, "w", encoding="utf-8") as f:
-        f.write("const DATA = ")
-        json.dump(legacy, f, ensure_ascii=False, indent=2)
-        f.write(";\n")
-
-
 # ──────────────────────────────────────────────
 # 主流程
 # ──────────────────────────────────────────────
 
 def main():
+    parser = argparse.ArgumentParser(description="清洗主库文本和非文献条目")
+    parser.add_argument(
+        "--redact-contact-data-only",
+        action="store_true",
+        help="只脱敏摘要中的联系邮箱，不执行删除、去重或其他清洗",
+    )
+    args = parser.parse_args()
+
     with open(ARTICLES_JSON, encoding="utf-8") as f:
         articles = json.load(f)
 
     print(f"原始文章数: {len(articles):,}")
+
+    if args.redact_contact_data_only:
+        changed = 0
+        for article in articles:
+            original = article.get("abstract") or ""
+            redacted = redact_contact_data(original)
+            if redacted != original:
+                article["abstract"] = redacted
+                changed += 1
+        save_articles(articles)
+        print(f"已脱敏摘要: {changed:,} 篇")
+        print("✓ 已保存至 articles.json / data.json")
+        return
 
     deleted = []
     cleaned = []
@@ -452,7 +483,7 @@ def main():
     print(f"  清理报告: {CLEANUP_REPORT}")
 
     save_articles(deduped)
-    print(f"\n✓ 已保存至 articles.json / data.json / data.js")
+    print(f"\n✓ 已保存至 articles.json / data.json")
 
 
 if __name__ == "__main__":

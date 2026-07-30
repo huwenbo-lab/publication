@@ -167,14 +167,21 @@ def doi_to_relative_path(doi):
 
 
 def build_site_url(relative_path):
-    return f"{SITE_BASE}/{relative_path.as_posix()}"
+    # Physical API filenames already contain percent escapes (for example
+    # ":" -> "%3A"). Public URLs must escape that literal percent once more
+    # so the HTTP server decodes the request to the actual filename.
+    encoded_path = "/".join(
+        quote(segment, safe="._-~")
+        for segment in relative_path.parts
+    )
+    return f"{SITE_BASE}/{encoded_path}"
 
 
 def period_key(year):
     if not year:
         return ""
-    if 2020 <= year <= 2026:
-        return "2020_2026"
+    if year >= 2020:
+        return "2020_present"
     if 2010 <= year <= 2019:
         return "2010_2019"
     if 2000 <= year <= 2009:

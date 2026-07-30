@@ -27,14 +27,18 @@ from urllib.parse import quote
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
-from _paths import CACHE_DIR, ROOT
+from _paths import (
+    API_USER_AGENT,
+    CACHE_DIR,
+    OPENALEX_API_KEY,
+    ROOT,
+    with_openalex_auth,
+)
+from clean_data import redact_contact_data
 
 ARTICLES_JSON = ROOT / "articles.json"
 DATA_JSON = ROOT / "data.json"
-DATA_JS = ROOT / "data.js"
 PROGRESS_FILE = CACHE_DIR / "openalex_progress.json"
-
-MAILTO = "hwbruc@gmail.com"
 
 # 书评/编辑类文章标题关键词（这些文章通常没有摘要）
 REVIEW_KEYWORDS = [
@@ -73,7 +77,7 @@ def clean_abstract(text):
 def get_json(url, retries=3, timeout=15):
     """发送 GET 请求，返回 JSON，失败时重试"""
     headers = {
-        "User-Agent": f"SociologyLitDB/1.0 (mailto:{MAILTO})",
+        "User-Agent": API_USER_AGENT,
         "Accept": "application/json",
     }
     for attempt in range(retries):
@@ -111,6 +115,8 @@ def load_articles():
 
 
 def save_articles(articles):
+    for article in articles:
+        article["abstract"] = redact_contact_data(article.get("abstract", ""))
     articles.sort(key=lambda x: (x.get("journal", ""), x.get("year") or 0))
 
     with open(ARTICLES_JSON, "w", encoding="utf-8") as f:
@@ -129,12 +135,6 @@ def save_articles(articles):
 
     with open(DATA_JSON, "w", encoding="utf-8") as f:
         json.dump(legacy, f, ensure_ascii=False, indent=2)
-
-    with open(DATA_JS, "w", encoding="utf-8") as f:
-        f.write("const DATA = ")
-        json.dump(legacy, f, ensure_ascii=False, indent=2)
-        f.write(";\n")
-
 
 def load_progress():
     if PROGRESS_FILE.exists():
@@ -224,12 +224,11 @@ def round1_openalex(articles, targets, dry_run=False, progress=None):
 
         # 用 filter 批量查询
         doi_filter = "|".join(f"https://doi.org/{d}" for d in dois_in_batch)
-        url = (
+        url = with_openalex_auth(
             f"https://api.openalex.org/works"
             f"?filter=doi:{quote(doi_filter, safe='')}"
             f"&per_page={batch_size}"
             f"&select=doi,abstract_inverted_index"
-            f"&mailto={MAILTO}"
         )
 
         data = get_json(url, timeout=30)
@@ -239,9 +238,9 @@ def round1_openalex(articles, targets, dry_run=False, progress=None):
             # 批量失败，逐个重试
             for idx, art in batch:
                 doi = art["doi"].strip()
-                single_url = (
+                single_url = with_openalex_auth(
                     f"https://api.openalex.org/works/https://doi.org/{doi}"
-                    f"?select=doi,abstract_inverted_index&mailto={MAILTO}"
+                    f"?select=doi,abstract_inverted_index"
                 )
                 single_data = get_json(single_url)
                 time.sleep(0.2)
@@ -328,7 +327,7 @@ def round2_semantic_scholar(articles, targets, dry_run=False, progress=None):
         payload = json.dumps({"ids": ids}).encode("utf-8")
 
         headers = {
-            "User-Agent": f"SociologyLitDB/1.0 (mailto:{MAILTO})",
+            "User-Agent": API_USER_AGENT,
             "Content-Type": "application/json",
         }
 
@@ -396,6 +395,8 @@ def main():
     rounds = [int(r.strip()) for r in args.round.split(",")]
     dry_run = args.dry_run
     skip_reviews = args.skip_reviews
+    if 1 in rounds and not dry_run and not OPENALEX_API_KEY:
+        parser.error("OpenAlex 请求需要环境变量 OPENALEX_API_KEY")
 
     if args.reset and PROGRESS_FILE.exists():
         PROGRESS_FILE.unlink()

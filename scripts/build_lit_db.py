@@ -10,7 +10,7 @@ build_lit_db.py — 生成轻量级文献库供AI查阅
   │       ├── Sociology.md           # 某期刊全部标题+年份 (~50-300KB)
   │       └── ...（24个文件）
   └── abstracts/
-      ├── 2020_2026/                 # 近6年，每期刊一个文件，含摘要截断到300字
+      ├── 2020_present/              # 2020年至今，每期刊一个文件，含摘要截断到300字
       │   ├── Sociology.md
       │   └── ...（24个文件）
       ├── 2010_2019/
@@ -25,6 +25,7 @@ build_lit_db.py — 生成轻量级文献库供AI查阅
 import json
 import re
 import os
+import shutil
 from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
@@ -70,7 +71,7 @@ JOURNAL_ORDER = [
 ]
 
 PERIOD_LABELS = {
-    "2020_2026": (2020, 2026),
+    "2020_present": (2020, None),
     "2010_2019": (2010, 2019),
     "2000_2009": (2000, 2009),
 }
@@ -164,7 +165,7 @@ def build_overview(arts, by_journal):
         "",
         "## 各期刊文章统计",
         "",
-        "| 期刊 | 文章数 | 年份范围 | 近6年(2020+) |",
+        "| 期刊 | 文章数 | 年份范围 | 2020年至今 |",
         "|---|---|---|---|",
     ]
 
@@ -190,7 +191,7 @@ def build_overview(arts, by_journal):
         "",
         "**第二步：摘要精读**",
         "根据标题所在年份，加载对应的摘要文件：",
-        "- 2020年至今 → `abstracts/2020_2026/[期刊名].md`",
+        "- 2020年至今 → `abstracts/2020_present/[期刊名].md`",
         "- 2010–2019年 → `abstracts/2010_2019/[期刊名].md`",
         "- 2000–2009年 → `abstracts/2000_2009/[期刊名].md`",
         "",
@@ -201,7 +202,7 @@ def build_overview(arts, by_journal):
         "| `overview.md` | 数据库概况（本文件） | ~30KB | 了解全局 |",
         "| `titles/all_titles.tsv` | 全量标题索引，可grep | ~5MB | 本地关键词搜索 |",
         "| `titles/by_journal/*.md` | 按期刊分的标题列表 | 50–300KB/文件 | 标题初筛 |",
-        "| `abstracts/2020_2026/*.md` | 近6年摘要，按期刊 | 50–250KB/文件 | 摘要精读 |",
+        "| `abstracts/2020_present/*.md` | 2020年至今的摘要，按期刊 | 50–250KB/文件 | 摘要精读 |",
         "| `abstracts/2010_2019/*.md` | 2010–2019年摘要 | 50–400KB/文件 | 摘要精读 |",
         "| `abstracts/2000_2009/*.md` | 2000–2009年摘要 | 50–300KB/文件 | 摘要精读 |",
         "",
@@ -210,12 +211,12 @@ def build_overview(arts, by_journal):
         f"```",
         f"{GITHUB_BASE}/overview.md",
         f"{GITHUB_BASE}/titles/by_journal/Sociology.md",
-        f"{GITHUB_BASE}/abstracts/2020_2026/Sociology.md",
+        f"{GITHUB_BASE}/abstracts/2020_present/Sociology.md",
         f"```",
         "",
-        "### 完整数据（含全文摘要）",
+        "### 完整数据（含未截断摘要字段）",
         "",
-        "完整的 `articles.json`（34k条，32MB）：",
+        f"完整的 `articles.json`（{total:,} 条）：",
         "```",
         "https://raw.githubusercontent.com/huwenbo-lab/publication/main/articles.json",
         "```",
@@ -229,6 +230,8 @@ def build_overview(arts, by_journal):
 def build_titles_by_journal(by_journal):
     """生成 titles/by_journal/[journal].md"""
     out_dir = LIT_DB / "titles" / "by_journal"
+    if out_dir.exists():
+        shutil.rmtree(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
     for j in JOURNAL_ORDER:
@@ -303,8 +306,16 @@ def build_all_titles_tsv(arts):
 
 def build_abstracts_by_period(by_journal):
     """生成 abstracts/[period]/[journal].md（含截断摘要）"""
+    abstracts_root = LIT_DB / "abstracts"
+    abstracts_root.mkdir(parents=True, exist_ok=True)
+    for path in abstracts_root.iterdir():
+        if path.is_dir() and path.name not in PERIOD_LABELS:
+            shutil.rmtree(path)
+
     for period_key, (yr_from, yr_to) in PERIOD_LABELS.items():
-        out_dir = LIT_DB / "abstracts" / period_key
+        out_dir = abstracts_root / period_key
+        if out_dir.exists():
+            shutil.rmtree(out_dir)
         out_dir.mkdir(parents=True, exist_ok=True)
 
         period_total = 0
@@ -313,15 +324,18 @@ def build_abstracts_by_period(by_journal):
             # 筛选该时间段的文章
             period_arts = [
                 a for a in articles
-                if a.get("year") and yr_from <= a["year"] <= yr_to
+                if a.get("year")
+                and a["year"] >= yr_from
+                and (yr_to is None or a["year"] <= yr_to)
             ]
             if not period_arts:
                 continue
 
+            period_label = f"{yr_from} 年至今" if yr_to is None else f"{yr_from}–{yr_to} 年"
             fname = safe_filename(j) + ".md"
             lines = [
                 f"# {j}",
-                f"## {yr_from}–{yr_to} 年文章（含摘要）",
+                f"## {period_label}文章（含摘要）",
                 "",
                 f"共 **{len(period_arts)}** 篇",
                 "",
@@ -367,7 +381,7 @@ def build_abstracts_by_period(by_journal):
 
 def build_readme(total_articles):
     """生成 lit_db/README.md"""
-    total_label = f"{total_articles // 1000}k+" if total_articles >= 1000 else str(total_articles)
+    total_label = f"{total_articles:,}"
     lines = [
         "# lit_db — AI可查阅的文献库",
         "",
@@ -388,12 +402,12 @@ def build_readme(total_articles):
         "lit_db/",
         "├── overview.md                    # 数据库概况、期刊列表、使用说明",
         "├── titles/",
-        "│   ├── all_titles.tsv             # 全量34k标题，可grep搜索（~5MB）",
+        "│   ├── all_titles.tsv             # 全量标题，可grep搜索",
         "│   └── by_journal/                # 按期刊：每个文件含该刊所有标题",
         "│       ├── Sociology.md",
         "│       └── ...",
         "└── abstracts/",
-        "    ├── 2020_2026/                 # 近6年，每期刊一个文件，含摘要片段",
+        "    ├── 2020_present/              # 2020年至今，每期刊一个文件，含摘要片段",
         "    │   ├── Sociology.md",
         "    │   └── ...",
         "    ├── 2010_2019/",
@@ -403,12 +417,12 @@ def build_readme(total_articles):
         "## 摘要说明",
         "",
         f"摘要截断至前 {ABSTRACT_TRUNCATE} 字符（约2–3句话），保留核心信息。",
-        "完整摘要可通过 DOI 在 CrossRef 查询：`https://api.crossref.org/works/[DOI]`",
+        "若 Crossref 提供完整摘要，可通过 DOI 查询：`https://api.crossref.org/works/[DOI]`。",
         "",
         "## 重新生成",
         "",
         "```bash",
-        "source venv/bin/activate",
+        "source .venv/bin/activate",
         "python scripts/build_lit_db.py",
         "```",
     ]

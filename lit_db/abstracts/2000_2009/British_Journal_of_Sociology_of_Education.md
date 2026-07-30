@@ -630,7 +630,7 @@
 ### An exploration of young children’s ethnic identities as communities of practice
 **年份**: 2007 | **DOI**: [10.1080/01425690701610001](https://doi.org/10.1080/01425690701610001)
 **作者**: Barron, Ian
-**摘要**: * Institute of Education, Manchester Metropolitan University, 799 Wilmslow Road, Didsbury , Manchester , M20 2RR , UK E-mail: i.barron@mmu.ac.uk
+**摘要**: * Institute of Education, Manchester Metropolitan University, 799 Wilmslow Road, Didsbury , Manchester , M20 2RR , UK E-mail: [contact email removed]
 
 ### Brushed behind the bike shed: working‐class lesbians’ experiences of school
 **年份**: 2007 | **DOI**: [10.1080/01425690701252630](https://doi.org/10.1080/01425690701252630)
@@ -1280,7 +1280,7 @@
 ### The faith schools debate
 **年份**: 2005 | **DOI**: [10.1080/01425690500128957](https://doi.org/10.1080/01425690500128957)
 **作者**: Cush*, Denise
-**摘要**: Click to increase image sizeClick to decrease image size Notes * Department for Study of Religions, Bath Spa University College, Newton Park, Bath BA2 9BN, UK. Email d.cush@bathspa.ac.uk Additional informationNotes on contributorsDenise CushFootnote* * Department for Study of Religions, Bath Spa Uni…
+**摘要**: Click to increase image sizeClick to decrease image size Notes * Department for Study of Religions, Bath Spa University College, Newton Park, Bath BA2 9BN, UK. Email [contact email removed] Additional informationNotes on contributorsDenise CushFootnote* * Department for Study of Religions, Bath Spa …
 
 ### The learning democracy? Adult learning and the condition of democratic citizenship
 **年份**: 2005 | **DOI**: [10.1080/01425690500293751](https://doi.org/10.1080/01425690500293751)
@@ -1350,7 +1350,7 @@
 ### Conflict, violence and militarization in education
 **年份**: 2004 | **DOI**: [10.1080/0142569042000277191](https://doi.org/10.1080/0142569042000277191)
 **作者**: Pinson *, Halleli
-**摘要**: Click to increase image sizeClick to decrease image size Notes Faculty of Education, University of Cambridge, 17 Trumpington Street, Cambridge CB2 1QA, UK. Email: hp225@cam.ac.uk
+**摘要**: Click to increase image sizeClick to decrease image size Notes Faculty of Education, University of Cambridge, 17 Trumpington Street, Cambridge CB2 1QA, UK. Email: [contact email removed]
 
 ### Cultural capital: objective probability and the cultural arbitrary
 **年份**: 2004 | **DOI**: [10.1080/0142569042000236943](https://doi.org/10.1080/0142569042000236943)
@@ -1415,7 +1415,7 @@
 ### Personal and political: feminisms, sociology and family lives
 **年份**: 2004 | **DOI**: [10.1080/0142569042000277209](https://doi.org/10.1080/0142569042000277209)
 **作者**: Francis*, Becky
-**摘要**: Click to increase image sizeClick to decrease image size Notes Institute for Policy Studies, London Metropolitan University, UK. Email: b.francis@londonmet.ac.uk
+**摘要**: Click to increase image sizeClick to decrease image size Notes Institute for Policy Studies, London Metropolitan University, UK. Email: [contact email removed]
 
 ### Physical capital and situated action:a new direction for corporeal sociology
 **年份**: 2004 | **DOI**: [10.1080/0142569042000236961](https://doi.org/10.1080/0142569042000236961)

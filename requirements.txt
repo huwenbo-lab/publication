@@ -1,0 +1,2 @@
+# Only the private Web of Science import/audit path needs a third-party package.
+xlrd>=2.0,<3

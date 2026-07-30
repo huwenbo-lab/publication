@@ -1,6 +1,6 @@
 # European Journal of Population — 文章标题索引
 
-共 **772** 篇 | 年份范围：1985–2026
+共 **765** 篇 | 年份范围：1985–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -12,15 +12,15 @@
 - Abortion Ban and the Next Generation’s Family Formation Decisions: Evidence from Romania · [DOI](https://doi.org/10.1007/s10680-026-09768-8)
 - Getting In and Staying In? The Relative Contributions of Entering and Exiting Employment to Early Labour Market Trajectories of Migrants’ Daughters Versus Native Women · [DOI](https://doi.org/10.1007/s10680-026-09771-z)
 - Harvesting Effect and Extreme Temperature-Related Mortality in Italy · [DOI](https://doi.org/10.1007/s10680-025-09764-4)
+- Home-Leaving Patterns Among Middle Eastern-Origin Youth in Sweden: The Influence of Origin, Generation, and Neighbourhood · [DOI](https://doi.org/10.1007/s10680-026-09776-8)
 - Leaving Again? Job Quality and Repeat Internal Migration in China · [DOI](https://doi.org/10.1007/s10680-026-09769-7)
+- Long-Term Recall Error in Retrospective Family Surveys: Cohabitation Histories in Denmark · [DOI](https://doi.org/10.1007/s10680-026-09775-9)
 - No Partner, No Children? Union Formation, Assortative Mating, and Educational Inequalities in Fertility in Germany · [DOI](https://doi.org/10.1007/s10680-026-09766-w)
+- Perceptions of Medically Assisted Reproduction and Fertility Postponement: Limited Evidence, Critical Questions · [DOI](https://doi.org/10.1007/s10680-025-09765-3)
 - Poverty Dynamics in Early Childhood among the Native-Born Children of Immigrants in Sweden and Finland · [DOI](https://doi.org/10.1007/s10680-026-09772-y)
 - The Double Challenges of Single Parents Raising Children with Disabilities · [DOI](https://doi.org/10.1007/s10680-026-09767-9)
-- Trends in Working Life Expectancy and Untapped Employment Potential in an Ageing Population: The Case of Germany · [DOI](https://doi.org/10.1007/s10680-026-09773-x)
-- Perceptions of Medically Assisted Reproduction and Fertility Postponement: Limited Evidence, Critical Questions · [DOI](https://doi.org/10.1007/s10680-025-09765-3)
 - The Spatial Diffusion of Internal Migration Across the Rural-Urban Continuum in Developing Countries · [DOI](https://doi.org/10.1007/s10680-026-09774-w)
-- Long-Term Recall Error in Retrospective Family Surveys: Cohabitation Histories in Denmark · [DOI](https://doi.org/10.1007/s10680-026-09775-9)
-- Home-Leaving Patterns Among Middle Eastern-Origin Youth in Sweden: The Influence of Origin, Generation, and Neighbourhood · [DOI](https://doi.org/10.1007/s10680-026-09776-8)
+- Trends in Working Life Expectancy and Untapped Employment Potential in an Ageing Population: The Case of Germany · [DOI](https://doi.org/10.1007/s10680-026-09773-x)
 
 ## 2025
 
@@ -676,7 +676,6 @@
 - Demography of Conflict and Violence: An Emerging Field · [DOI](https://doi.org/10.1007/s10680-005-6850-7)
 - European Journal of Population Revue Européenne de Démographie · [DOI](https://doi.org/10.1007/s10680-005-5118-6)
 - Forced Migration and Under-five Mortality: A Comparison of Refugees and Hosts in North-western Uganda and Southern Sudan · [DOI](https://doi.org/10.1007/s10680-005-6855-2)
-- Information for Authors · [DOI](https://doi.org/10.1007/s10680-005-6712-3)
 - International Humanitarian Law and Combat Casualties · [DOI](https://doi.org/10.1007/s10680-005-6421-y)
 - Migration and Fertility: Competing Hypotheses Re-examined · [DOI](https://doi.org/10.1007/s10680-005-3581-8)
 - Monitoring Trends in Global Combat: A New Dataset of Battle Deaths · [DOI](https://doi.org/10.1007/s10680-005-6851-6)
@@ -722,8 +721,6 @@
 - Eilidh Garrett, Alice Reid, Kevin Schürer and Simon Szreter, Changing Family Size in England and Wales: Place, Class and Demography, 1891–1911 · [DOI](https://doi.org/10.1023/a:1022163504456)
 - Estimating the Reciprocal Effect of Gender Role Attitudes and Family Formation: A Log-linear Path Model with Latent Variables · [DOI](https://doi.org/10.1023/a:1023347023126)
 - Hans-Peter Kohler, Fertility and Social Interaction: An Economic Perspective · [DOI](https://doi.org/10.1023/a:1022111420386)
-- Information for Authors · [DOI](https://doi.org/10.1023/a:1026307217731)
-- Instructions for Authors · [DOI](https://doi.org/10.1023/a:1022101910462)
 - Land Ownership as a Determinant of Temporary Migration in Nang Rong, Thailand · [DOI](https://doi.org/10.1023/a:1023307100719)
 - Referees/Examinateurs · [DOI](https://doi.org/10.1023/a:1026309500595)
 - Sex Differences in Mortality at the Local Level: An Analysis of Belgian Municipalities · [DOI](https://doi.org/10.1023/a:1022179727211)
@@ -747,8 +744,6 @@
 - Fertility Decline in Russia in the Early and Mid 1990s: The Role of Economic Uncertainty and Labour Market Crises · [DOI](https://doi.org/10.1023/a:1019701812709)
 - First Housing Moves in Spain: An Analysis of Leaving Home and First Housing Acquisition · [DOI](https://doi.org/10.1023/a:1013831818482)
 - From the First to the Second Demographic Transition: An Interpretation of the Spatial Continuity of Demographic Innovation in France, Belgium and Switzerland · [DOI](https://doi.org/10.1023/a:1021125800070)
-- Information for Authors · [DOI](https://doi.org/10.1023/a:1021186621619)
-- Instructions for Authors · [DOI](https://doi.org/10.1023/a:1017464530280)
 - Modelling Regional Immigration: Using Stocks to Predict Flows · [DOI](https://doi.org/10.1023/a:1021113025801)
 - Population Policy in Early Victorian England · [DOI](https://doi.org/10.1023/a:1015511805628)
 - Referees/Examinateurs · [DOI](https://doi.org/10.1023/a:1021138705689)
@@ -775,7 +770,6 @@
 - Gail Wilson, Understanding Old Age: Critical and Global Perspectives · [DOI](https://doi.org/10.1023/a:1011863212641)
 - Inequalities in Infant Survival: An Analysis of Czech Linked Records · [DOI](https://doi.org/10.1023/a:1012559028756)
 - Informations for Authors · [DOI](https://doi.org/10.1023/a:1017393915143)
-- Instructions for Authors · [DOI](https://doi.org/10.1023/a:1017311904665)
 - Introduction · [DOI](https://doi.org/10.1023/a:1010745511636)
 - James P. Smith and Barry Edmonston (eds.) The Immigration Debate: Studies on the Economic, Demographic and Fiscal Effects of Immigration · [DOI](https://doi.org/10.1023/a:1010675015726)
 - Jerusalem's Population, 1995–2020: Demography, Multiculturalism and Urban Policies · [DOI](https://doi.org/10.1023/a:1010742116255)
@@ -805,7 +799,6 @@
 - Expected and Actual Family Size in Greece: 1983–1997 · [DOI](https://doi.org/10.1023/a:1006441411252)
 - Gérard Calot, Two centuries of Swiss demographic history. Graphic album of the 1860–2050 period · [DOI](https://doi.org/10.1023/a:1006497514676)
 - Henk A. De Gans, Population Forecasting 1895–1945, The Transition to Modernity · [DOI](https://doi.org/10.1023/a:1006306705316)
-- Information for Authors · [DOI](https://doi.org/10.1023/a:1017202014509)
 - Monitoring Suicide Mortality: A Bayesian Approach · [DOI](https://doi.org/10.1023/a:1026587810551)
 - Multilevel Models in the Study of Dynamic Household Structures · [DOI](https://doi.org/10.1023/a:1006493723125)
 - Predictive Intervals for Age-Specific Fertility · [DOI](https://doi.org/10.1023/a:1006385413134)
@@ -821,10 +814,10 @@
 
 ## 1999
 
+- A Demographic Model of Measles Epidemics · [DOI](https://doi.org/10.1023/a:1006224902376)
+- Childbearing Trends in Sweden 1961--1997 · [DOI](https://doi.org/10.1023/a:1006145610780)
 - Fertility Behaviour under Income Uncertainty · [DOI](https://doi.org/10.1023/a:1006106527618)
 - Mortality Differences Related to Socioeconomic Status and the Progressivity of Old-Age Pensions and Health Insurance: The Netherlands · [DOI](https://doi.org/10.1023/a:1006188911462)
-- Childbearing Trends in Sweden 1961--1997 · [DOI](https://doi.org/10.1023/a:1006145610780)
-- A Demographic Model of Measles Epidemics · [DOI](https://doi.org/10.1023/a:1006224902376)
 - Who, What, Where, and When? Specifying the Impact of Educational Attainment and Labour Force Participation on Family Formation · [DOI](https://doi.org/10.1023/a:1006137104191)
 
 ## 1998
@@ -834,11 +827,11 @@
 ## 1997
 
 - An Estimate of Neonatal Tetanus Mortality in Iceland, 1790-1839 · [DOI](https://doi.org/10.1023/a:1005778332341)
+- Exploring Relationships between Social Policy and Changing Family Forms within the European Union · [DOI](https://doi.org/10.1023/a:1005941907983)
 - Mortalité par âge et cause de décès en Suisse: Une analyse des disparités cantonales durant la période 1978/83 à 1988/93 · [DOI](https://doi.org/10.1023/a:1005993113820)
 - Survival Trees: An Alternative Non-Parametric Multivariate Technique for Life History Analysis · [DOI](https://doi.org/10.1023/a:1005844818027)
 - The Impact of Children on Divorce Risks of Swedish Women · [DOI](https://doi.org/10.1023/a:1005803001129)
 - Wanting a Child Without a Firm Commitment to the Partner: Interpretations and Implications of a Common Behaviour Pattern among Norwegian Cohabitants · [DOI](https://doi.org/10.1023/a:1005943724645)
-- Exploring Relationships between Social Policy and Changing Family Forms within the European Union · [DOI](https://doi.org/10.1023/a:1005941907983)
 
 ## 1996
 
@@ -852,9 +845,9 @@
 ## 1994
 
 - A reconstruction of the population of North Italy from 1650 to 1881 using annual inverse projection with comparisons to England, France, and Sweden · [DOI](https://doi.org/10.1007/bf01265303)
+- Does it matter where I live in Western Europe? · [DOI](https://doi.org/10.1007/bf01266567)
 - Innovation and tradition: Reproductive and marital behaviour in Italy in the 1970s and 1980s · [DOI](https://doi.org/10.1007/bf01264895)
 - Monitoring international migration flows in Europe · [DOI](https://doi.org/10.1007/bf01268210)
-- Does it matter where I live in Western Europe? · [DOI](https://doi.org/10.1007/bf01266567)
 
 ## 1993
 
@@ -866,8 +859,8 @@
 
 - Female labour force participation, fertility and public policy in Sweden · [DOI](https://doi.org/10.1007/bf01797210)
 - Population growth, internal migration, and environmental degradation in rural areas of developing countries · [DOI](https://doi.org/10.1007/bf01797549)
-- Système de soins et mortalité régionale: une analyse causale · [DOI](https://doi.org/10.1007/bf01796627)
 - Seven ways of causing the less developed countries' population problem to disappear—in theory · [DOI](https://doi.org/10.1007/bf01797550)
+- Système de soins et mortalité régionale: une analyse causale · [DOI](https://doi.org/10.1007/bf01796627)
 
 ## 1991
 
@@ -885,8 +878,8 @@
 
 ## 1988
 
-- Kinship patterns and household composition: Older unmarried Hungarian women, 1984 · [DOI](https://doi.org/10.1007/bf01797132)
 - Ageing and social-security costs · [DOI](https://doi.org/10.1007/bf01796907)
+- Kinship patterns and household composition: Older unmarried Hungarian women, 1984 · [DOI](https://doi.org/10.1007/bf01797132)
 - Recent trends in family and household composition in europe · [DOI](https://doi.org/10.1007/bf01796903)
 
 ## 1987

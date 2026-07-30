@@ -1,7 +1,7 @@
 # Journal of Marriage and Family
 ## 2010–2019 年文章（含摘要）
 
-共 **834** 篇
+共 **837** 篇
 
 ---
 
@@ -1875,6 +1875,11 @@
 **作者**: Nes, Ragnhild B.; Hauge, Lars J.; Kornstad, Tom 等8人
 **摘要**: Combining work and family responsibilities is challenging when children have special needs, and mothers commonly make employment-related adjustments. In this study, the authors examined associations between maternal work absence and child language impairment and behavior problems in preschool childr…
 
+### Measuring Constructs in Family Science: How Can Item Response Theory Improve Precision and Validity?
+**年份**: 2015 | **DOI**: [10.1111/jomf.12157](https://doi.org/10.1111/jomf.12157)
+**作者**: Gordon, Rachel A.
+**摘要**: This article provides family scientists with an understanding of contemporary measurement perspectives and the ways in which item response theory (IRT) can be used to develop measures with desired evidence of precision and validity for research uses.…
+
 ### Minority Stress and Stress Proliferation Among Same-Sex and Other Marginalized Couples
 **年份**: 2015 | **DOI**: [10.1111/jomf.12160](https://doi.org/10.1111/jomf.12160)
 **作者**: LeBlanc, Allen J.; Frost, David M.; Wight, Richard G.
@@ -1889,6 +1894,11 @@
 **年份**: 2015 | **DOI**: [10.1111/jomf.12209](https://doi.org/10.1111/jomf.12209)
 **作者**: Barr, Ashley B.; Simons, Ronald L.; Simons, Leslie Gordon
 **摘要**: Cohabitation has become increasingly widespread over the past decade. Such trends have given rise to debates about the relation between cohabitation and marriage in terms of what cohabitation means for individual relationship trajectories and for the institution of marriage more generally.…
+
+### Parental Responsibilities: Dilemmas of Measurement and Gender Equality
+**年份**: 2015 | **DOI**: [10.1111/jomf.12148](https://doi.org/10.1111/jomf.12148)
+**作者**: Doucet, Andrea
+**摘要**: Over the past half‐century, enormous changes have occurred in gendered divisions of housework and child care across many countries, with a growing consensus that there is a slow but steady pace of change in gendered divisions of time and tasks but one that is combined with a puzzling persistence of …
 
 ### Parental Work Schedules and Child Overweight or Obesity: Does Family Structure Matter?
 **年份**: 2015 | **DOI**: [10.1111/jomf.12215](https://doi.org/10.1111/jomf.12215)
@@ -3893,6 +3903,11 @@
 **年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2010.00750.x](https://doi.org/10.1111/j.1741-3737.2010.00750.x)
 **作者**: Brown, Susan L.
 **摘要**: Over the past decade, the linkages between marriage and child well‐being have attracted the attention of researchers and policy makers alike. Children's living arrangements have become increasingly diverse and unstable, which raises important questions about how and why family structure and stabilit…
+
+### Marriage in the New Millennium: A Decade in Review
+**年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2010.00722.x](https://doi.org/10.1111/j.1741-3737.2010.00722.x)
+**作者**: Fincham, Frank D.; Beach, Steven R. H.
+**摘要**: This review focuses on broad themes characterizing marital research in the past decade. In addition to continuing themes, such as a focus on conflict, violence, and impact on physical and mental health outcomes, we also address the impact of the Healthy Marriage Initiative on marital research and re…
 
 ### Men's and Women's Pathways to Adulthood and Their Adolescent Precursors
 **年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2010.00775.x](https://doi.org/10.1111/j.1741-3737.2010.00775.x)

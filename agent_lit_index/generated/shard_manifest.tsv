@@ -1,28 +1,28 @@
 tier	journal	period	records	default_records	with_abstract	rough_title_abstract_tokens
 adjacent_recent	Advances in Life Course Research	2000_2009	134	134	1	3164
 adjacent_recent	Advances in Life Course Research	2010_2019	264	264	88	34701
-adjacent_recent	Advances in Life Course Research	2020_2026	240	240	123	54186
+adjacent_recent	Advances in Life Course Research	2020_present	240	240	123	54186
 adjacent_recent	British Journal of Sociology	2010_2019	185	185	176	62224
-adjacent_recent	British Journal of Sociology	2020_2026	437	437	434	161696
-adjacent_recent	Population Studies	2020_2026	216	216	206	57578
-adjacent_recent	Social Indicators Research	2020_2026	1410	1410	637	250152
-adjacent_recent	Social Psychology Quarterly	2000_2009	276	276	244	64027
+adjacent_recent	British Journal of Sociology	2020_present	437	437	434	161696
+adjacent_recent	Population Studies	2020_present	216	216	206	57578
+adjacent_recent	Social Indicators Research	2020_present	1410	1410	637	250152
+adjacent_recent	Social Psychology Quarterly	2000_2009	276	276	244	64028
 adjacent_recent	Social Psychology Quarterly	2010_2019	215	215	193	54074
-adjacent_recent	Social Psychology Quarterly	2020_2026	162	162	158	48445
+adjacent_recent	Social Psychology Quarterly	2020_present	162	162	158	48445
 adjacent_recent	Social Science Research	2010_2019	398	398	383	120174
-adjacent_recent	Social Science Research	2020_2026	548	548	525	169918
+adjacent_recent	Social Science Research	2020_present	548	548	525	169918
 adjacent_recent	Sociology	2010_2019	179	179	175	47478
-adjacent_recent	Sociology	2020_2026	475	475	473	128275
-adjacent_recent	Sociology Compass	2020_2026	653	653	642	226991
+adjacent_recent	Sociology	2020_present	475	475	473	128275
+adjacent_recent	Sociology Compass	2020_present	653	653	642	226991
 adjacent_recent	Work and Occupations	2010_2019	66	66	48	14227
-adjacent_recent	Work and Occupations	2020_2026	171	171	147	44978
+adjacent_recent	Work and Occupations	2020_present	171	171	147	44978
 adjacent_recent	Work, Employment and Society	2010_2019	185	185	180	46254
-adjacent_recent	Work, Employment and Society	2020_2026	439	439	436	119371
+adjacent_recent	Work, Employment and Society	2020_present	439	439	436	119371
 archive_on_demand	British Journal of Sociology	2000_2009	631	0	324	190451
 archive_on_demand	British Journal of Sociology	2010_2019	347	0	271	199833
 archive_on_demand	British Journal of Sociology	pre_2000	146	0	40	13941
-archive_on_demand	Population Studies	2000_2009	216	0	205	52159
-archive_on_demand	Population Studies	2010_2019	296	0	278	66170
+archive_on_demand	Population Studies	2000_2009	216	0	205	52164
+archive_on_demand	Population Studies	2010_2019	296	0	278	66163
 archive_on_demand	Population Studies	pre_2000	2987	0	1370	396458
 archive_on_demand	Social Indicators Research	2000_2009	998	0	29	29058
 archive_on_demand	Social Indicators Research	2010_2019	2608	0	274	147430
@@ -34,84 +34,84 @@ archive_on_demand	Social Science Research	pre_2000	35	0	1	876
 archive_on_demand	Sociology	2000_2009	577	0	497	131818
 archive_on_demand	Sociology	2010_2019	576	0	522	133556
 archive_on_demand	Sociology	pre_2000	119	0	77	21377
-archive_on_demand	Sociology Compass	2000_2009	252	0	252	202533
-archive_on_demand	Sociology Compass	2010_2019	893	0	867	304869
+archive_on_demand	Sociology Compass	2000_2009	252	0	252	202541
+archive_on_demand	Sociology Compass	2010_2019	893	0	867	304890
 archive_on_demand	Work and Occupations	2000_2009	182	0	178	39000
 archive_on_demand	Work and Occupations	2010_2019	159	0	124	27888
 archive_on_demand	Work and Occupations	pre_2000	357	0	349	78706
 archive_on_demand	Work, Employment and Society	2000_2009	438	0	364	100296
 archive_on_demand	Work, Employment and Society	2010_2019	450	0	420	103912
 archive_on_demand	Work, Employment and Society	pre_2000	51	0	37	10013
-core_default	American Journal of Sociology	2000_2009	284	284	271	68310
-core_default	American Journal of Sociology	2010_2019	342	342	340	90119
-core_default	American Journal of Sociology	2020_2026	197	197	170	49528
-core_default	American Journal of Sociology	pre_2000	280	280	104	28653
-core_default	American Sociological Review	2000_2009	374	374	361	115476
-core_default	American Sociological Review	2010_2019	417	417	413	136958
-core_default	American Sociological Review	2020_2026	230	230	229	82521
-core_default	American Sociological Review	pre_2000	235	235	85	24010
+core_default	American Journal of Sociology	2000_2009	364	364	350	88765
+core_default	American Journal of Sociology	2010_2019	345	345	341	96319
+core_default	American Journal of Sociology	2020_present	233	233	184	54044
+core_default	American Journal of Sociology	pre_2000	2210	2210	2024	442204
+core_default	American Sociological Review	2000_2009	469	469	444	140222
+core_default	American Sociological Review	2010_2019	456	456	447	147017
+core_default	American Sociological Review	2020_present	250	250	248	89561
+core_default	American Sociological Review	pre_2000	2600	2600	1902	472326
 core_default	Asian Population Studies	2000_2009	89	89	83	24735
 core_default	Asian Population Studies	2010_2019	206	206	198	54838
-core_default	Asian Population Studies	2020_2026	141	141	136	40321
-core_default	British Journal of Sociology of Education	2000_2009	461	461	431	121670
+core_default	Asian Population Studies	2020_present	141	141	136	40321
+core_default	British Journal of Sociology of Education	2000_2009	461	461	431	121680
 core_default	British Journal of Sociology of Education	2010_2019	626	626	599	149753
-core_default	British Journal of Sociology of Education	2020_2026	500	500	467	131645
+core_default	British Journal of Sociology of Education	2020_present	500	500	467	131645
 core_default	British Journal of Sociology of Education	pre_2000	43	43	16	4712
 core_default	Chinese Journal of Sociology	2010_2019	114	114	113	41142
-core_default	Chinese Journal of Sociology	2020_2026	151	151	150	57325
+core_default	Chinese Journal of Sociology	2020_present	151	151	150	57325
 core_default	Chinese Sociological Review	2010_2019	130	130	129	33717
-core_default	Chinese Sociological Review	2020_2026	143	143	139	42197
+core_default	Chinese Sociological Review	2020_present	143	143	139	42197
 core_default	Demographic Research	2000_2009	432	432	427	41441
 core_default	Demographic Research	2010_2019	905	905	892	253098
-core_default	Demographic Research	2020_2026	524	524	502	217356
+core_default	Demographic Research	2020_present	524	524	502	217356
 core_default	Demographic Research	pre_2000	1	1	1	70
 core_default	Demography	2000_2009	420	420	419	108671
-core_default	Demography	2010_2019	856	856	848	272256
-core_default	Demography	2020_2026	550	550	549	194993
-core_default	Demography	pre_2000	97	97	86	21682
-core_default	European Journal of Population	2000_2009	227	227	18	9738
+core_default	Demography	2010_2019	859	859	850	272968
+core_default	Demography	2020_present	599	599	597	210872
+core_default	Demography	pre_2000	1528	1528	1491	387314
+core_default	European Journal of Population	2000_2009	220	220	18	9697
 core_default	European Journal of Population	2010_2019	296	296	93	38220
-core_default	European Journal of Population	2020_2026	210	210	186	71336
+core_default	European Journal of Population	2020_present	210	210	186	71336
 core_default	European Journal of Population	pre_2000	39	39	0	766
-core_default	European Sociological Review	2000_2009	398	398	392	110042
-core_default	European Sociological Review	2010_2019	580	580	574	177282
-core_default	European Sociological Review	2020_2026	412	412	412	141525
-core_default	European Sociological Review	pre_2000	31	31	10	3622
+core_default	European Sociological Review	2000_2009	398	398	392	110036
+core_default	European Sociological Review	2010_2019	580	580	574	177286
+core_default	European Sociological Review	2020_present	412	412	412	141525
+core_default	European Sociological Review	pre_2000	31	31	10	3619
 core_default	Gender & Society	2000_2009	391	391	360	88615
 core_default	Gender & Society	2010_2019	366	366	331	96200
-core_default	Gender & Society	2020_2026	209	209	201	66195
+core_default	Gender & Society	2020_present	209	209	201	66195
 core_default	Gender & Society	pre_2000	106	106	97	21402
 core_default	Journal of Family Issues	2000_2009	597	597	573	141265
 core_default	Journal of Family Issues	2010_2019	920	920	905	242306
-core_default	Journal of Family Issues	2020_2026	756	756	756	216046
+core_default	Journal of Family Issues	2020_present	756	756	756	216046
 core_default	Journal of Family Issues	pre_2000	86	86	77	18185
 core_default	Journal of Family Theory & Review	2000_2009	29	29	12	5991
 core_default	Journal of Family Theory & Review	2010_2019	414	414	242	64426
-core_default	Journal of Family Theory & Review	2020_2026	310	310	286	124574
+core_default	Journal of Family Theory & Review	2020_present	310	310	286	124574
 core_default	Journal of Marriage and Family	2000_2009	1022	1022	842	211066
-core_default	Journal of Marriage and Family	2010_2019	834	834	790	229828
-core_default	Journal of Marriage and Family	2020_2026	537	537	537	233304
-core_default	Journal of Marriage and Family	pre_2000	138	138	49	22494
+core_default	Journal of Marriage and Family	2010_2019	837	837	793	230573
+core_default	Journal of Marriage and Family	2020_present	581	581	581	251944
+core_default	Journal of Marriage and Family	pre_2000	138	138	115	42153
 core_default	Population and Development Review	2000_2009	349	349	263	92119
 core_default	Population and Development Review	2010_2019	340	340	287	131268
-core_default	Population and Development Review	2020_2026	288	288	264	88996
+core_default	Population and Development Review	2020_present	288	288	264	88996
 core_default	Population and Development Review	pre_2000	147	147	52	18940
 core_default	Research in Social Stratification and Mobility	2000_2009	166	166	2	3890
 core_default	Research in Social Stratification and Mobility	2010_2019	318	318	316	112472
-core_default	Research in Social Stratification and Mobility	2020_2026	376	376	359	128338
-core_default	Social Forces	2000_2009	688	688	643	151972
-core_default	Social Forces	2010_2019	652	652	645	195652
-core_default	Social Forces	2020_2026	514	514	500	188568
-core_default	Social Forces	pre_2000	165	165	56	12144
+core_default	Research in Social Stratification and Mobility	2020_present	376	376	359	128338
+core_default	Social Forces	2000_2009	688	688	643	152112
+core_default	Social Forces	2010_2019	661	661	654	199707
+core_default	Social Forces	2020_present	572	572	555	208538
+core_default	Social Forces	pre_2000	2647	2647	2207	399320
 core_default	Sociological Science	2010_2019	194	194	193	48499
-core_default	Sociological Science	2020_2026	209	209	197	61747
-core_default	Sociology of Education	2000_2009	172	172	170	46306
-core_default	Sociology of Education	2010_2019	188	188	173	56116
-core_default	Sociology of Education	2020_2026	123	123	120	38996
-core_default	Sociology of Education	pre_2000	155	155	72	20047
+core_default	Sociological Science	2020_present	209	209	197	61747
+core_default	Sociology of Education	2000_2009	179	179	179	48678
+core_default	Sociology of Education	2010_2019	189	189	174	56359
+core_default	Sociology of Education	2020_present	125	125	122	39603
+core_default	Sociology of Education	pre_2000	798	798	670	161295
 core_default	Socius	2010_2019	289	289	289	73177
-core_default	Socius	2020_2026	743	743	743	216518
-review_anchor	Annual Review of Sociology	2000_2009	135	135	134	36049
-review_anchor	Annual Review of Sociology	2010_2019	255	255	255	66514
-review_anchor	Annual Review of Sociology	2020_2026	126	126	126	34786
-review_anchor	Annual Review of Sociology	pre_2000	115	115	96	26024
+core_default	Socius	2020_present	743	743	743	216518
+review_anchor	Annual Review of Sociology	2000_2009	235	235	233	63496
+review_anchor	Annual Review of Sociology	2010_2019	261	261	261	68106
+review_anchor	Annual Review of Sociology	2020_present	188	188	188	52620
+review_anchor	Annual Review of Sociology	pre_2000	494	494	457	116534
